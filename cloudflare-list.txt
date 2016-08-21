@@ -1,3 +1,4 @@
+
 10minutemail.com
 21.co 
 247exchange.com
@@ -63,6 +64,7 @@ bitcoin.de
 bitcoinist.net
 bitcoin.it
 bitcoinmagazine.com
+bitcoinstats.com
 biteasy.com
 bitpay.com
 bitsharestalk.org
