@@ -140,6 +140,7 @@ collective-evolution.com
 collectivelyconscious.net
 comingle.io
 conceptualrevolutions.com
+conservativedailypost.com
 containerops.org
 coolutils.com
 crackedlabs.org
@@ -211,7 +212,6 @@ etherfaucet.net
 euri.ca
 evasi0n.com
 eventhelix.com
-exoticvps.com
 exoticvps.com
 expertboxing.com
 explainxkcd.com
@@ -504,7 +504,6 @@ petitweb.fr
 phantis.com
 phonesdevelopers.com
 pingdom.com
-pingdom.com
 pirateparty.org.au 
 pixelbeat.org
 plannedparenthood.org
@@ -533,7 +532,6 @@ proxytorrent.nl
 pryrepl.org
 psx-scene.com
 psychcentral.com
-psychcentral.com
 psypost.org
 puri.sm
 putoholicari.com
@@ -552,7 +550,6 @@ ralsina.me
 randalolson.com
 randomshouting.com
 ratemds.com
-r-bloggers.com
 r-bloggers.com
 reactiongifs.com
 readbag.com
