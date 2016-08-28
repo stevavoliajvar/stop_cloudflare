@@ -1,4 +1,5 @@
 10minutemail.com
+1broker.com
 21.co 
 247exchange.com
 2ch.hk
@@ -7,6 +8,7 @@
 41j.com
 666surveillancesystem.com
 8ch.net
+99bitcoins.com
 actionnetwork.org
 adamcod.es
 adbusters.org
@@ -18,11 +20,13 @@ afrizap.com
 al-akhbar.com
 alislam.org
 al-kanz.org
+allaboutcircuits.com
 alphabeatic.com
 alternativeto.net
 alternet.org
 amcharts.com
 amnesty.org.au
+amren.com
 androidauthority.com
 andy-roberts.net
 anonimg.com
@@ -36,7 +40,9 @@ apkarea.com
 applicationprivacy.org
 apps.evozi.com
 arabnews.com
+archive.today  <= that's a damn shame. We need this site to view other blocked sites. -> archive.is
 arhivach.org
+arkency.com
 armorgames.com
 arrests.org
 artnet.com
@@ -44,6 +50,7 @@ artofmanliness.com
 artuk.org
 ashedryden.com
 askamanager.org
+askamanager.org <= you can't alphebetize.  "art" comes before "ask" how about we make a more durable database of clownflared sites, ..., and let computer alphabetize??
 atimes.com
 atlasobscura.com
 atma.hr
@@ -55,6 +62,7 @@ avpixlat.info
 bad-dragon.com
 barackobama.com
 belgbook.be
+berniesanders.com
 bescherelletamere.fr
 bestvpn.com
 beyondchronic.com
@@ -66,6 +74,7 @@ bitcoinmagazine.com
 bitcoinstats.com
 biteasy.com
 bitpay.com
+bitpay.com <= torproject uses those slimeballs <https://trac.torproject.org/projects/tor/ticket/18911>
 bitsharestalk.org
 bizpacreview.com
 blackhat.com
@@ -120,6 +129,7 @@ christophercantwell.com
 chronicle.su
 cigionline.org
 citizenfourfilm.com (really? c'mon)
+citizenfourfilm.com (really? c'mon)  Snowden himself occasionally tweets links to CloudFlare, sadly enough.  He's a hero, but not exempt from criticism.. call it out when you see it.
 cityam.com
 cjfe.org
 clarionproject.org 
@@ -127,8 +137,10 @@ classically.me
 cleanfiles.net
 clicanoo.re
 climateatlas.ca
+clojuredocs.org
 cloudflare.com
 cmxlog.com
+codeschool.com
 codinghorror.com
 coinbase.com
 coindesk.com
@@ -144,6 +156,7 @@ conceptualrevolutions.com
 conservativedailypost.com
 containerops.org
 coolutils.com
+coshx.com
 crackedlabs.org
 creativecommons.org
 crometeo.hr
@@ -173,16 +186,21 @@ databreaches.net
 davidicke.com
 dazzleships.net
 dcclothesline.com
+decentsecurity.com <= bit disappointing twtr user @SwiftOnSecurity uses CF
 decryptedmatrix.com
 deepdotweb.com
 defoo.org
 designboom.com
 desmogblog.com
+devkit.co
 dev-list.com
 diem25.org
+digitalenvelopes.email <= i'm sure I lised this already. Not sure why it disappeared.  Relisting it now.  Note that the owner denies blocking Tor, and seems uninterested in fixing the problem.
 digitalfernsehen.de
 digitalmunition.me
 digitalocean.com
+diken.com.tr
+djm.org.uk
 dmagazine.com
 dnevnik.hr
 dnevno.hr
@@ -190,6 +208,7 @@ docs.ansible.com
 documentaryheaven.com
 documentup.com
 domino.roilipman.com
+donaldjtrump.com <= rightly so!  Keep that asshole in his walled-garden with custom CloudFlare block.  Perhaps Torproject should redirect to the site with that photomosaic of cocks that produce Trumps pic :)
 dontbreakourphones.org
 donttrustcable.com
 douglasvanbossuyt.com
@@ -199,6 +218,8 @@ dreamwidth.org
 drmaciver.com
 dwarfpool.com
 e27.co
+early-retirement.org <= recently joined the CF walled garden
+ebooktake.in
 echtlustig.com
 e-demokratie.org
 electronicintifada.net
@@ -210,6 +231,7 @@ epochconverter.com
 erisindustries.com
 etherchain.org
 etherfaucet.net
+etproxy.top
 euri.ca
 evasi0n.com
 eventhelix.com
@@ -245,6 +267,7 @@ fossforce.com
 fproxy.net
 freeanons.org
 freechelsea.com
+freedomdaily.com
 freedomoutpost.com
 freelists.org
 free.niooz.fr
@@ -253,8 +276,10 @@ frontpagemag.com
 fteproxy.org
 fuirestunepulsion.net
 full-stop.net
+funkyimg.com <= pic-upload.de alternative also CFd
 funny-pictures-blog.com
 futurism.com
+fxopen.com
 gapminder.org
 gatesoneinstitute.org
 gay.hr
@@ -274,10 +299,12 @@ gledajfilm.net
 globalprivacywatch.com
 globalresearch.ca
 gnuradio.org
+gocoin.com (xcfd.com outsources to gocoin.com, but transactions between the two bypass cloudflare. We should still boycott both of them)
 gol.hr
 gonewiththewynns.com
 googlewatchblog.de
 gossipcenter.com
+gotnews.com
 gottabemobile.com
 gov1.info
 gradient-animator.com
@@ -290,12 +317,15 @@ guttmacher.org
 hackerboards.com
 hackerone.com
 hackfest.ca
+hajjguide.org
 hakiri.io
 hamariweb.com
 hanzresolver.com
 happybearsoftware.com
+harbourfest.ca
 havelockinvestments.com 
 hdz.hr
+highcharts.com
 historyguy.com
 hitler.rocks
 hldataprotection.com
@@ -366,6 +396,7 @@ jvns.ca
 kapaljka.com
 kaymu.hr
 kelownanow.com
+kenoraonline.com
 klipovito.com
 klou.tt
 kodi.tv
@@ -375,6 +406,7 @@ kraken.com
 ktetch.co.uk
 kukuruku.co
 kupiprodaj.net
+lakeofthewoods.com
 lambos.info
 lapresse.ca
 laprimaire.org
@@ -382,6 +414,7 @@ lastwordonnothing.com
 latest.com
 latesthackingnews.com
 lawfareblog.com
+lawfareblog.com <= these guys have a twitter acct and make heavy use of tinyurl links.  They need to be pressured to stop using tinyurl.
 le360.ma
 leagueoflegends.com
 leblogdebetty.com
@@ -400,7 +433,9 @@ linuxluigi.com
 linuxveda.com
 linuxvoice.com
 livesoccertv.com
+lkml.org
 localbitcoins.com
+localbitcoins.com (impacts ohiobitcoin.com b/c they outsource to localbitcoins.com)
 localtimes.info
 lockergnome.com
 loomio.org
@@ -440,6 +475,9 @@ moscow.sci-hub.io (only subdomains?)
 movecommons.org
 moveon.org <= was tor-friendly when change.org was not, and they were praised for it. Gave no acknowledgement, then the asshats decided to use CF. Hopeless- promote their competitors instead (care2, openpetition,etc)
 mpp.org
+musalbas.com <- he shd know better
+mygully.com
+nachdenkseiten.de
 nacional.hr
 nadim.computer
 nairaland.com
@@ -454,6 +492,7 @@ ncsa.nationbuilder.com
 nemchina.com
 nesta.org.uk
 netnerds.net
+neurosky.com
 newsbtc.com
 newsfeed.ph
 newsring.fr
@@ -469,6 +508,7 @@ nullschool.net
 numer.ai
 nuuktv.gl
 obamadecides.org
+ocks.org
 ohjoysextoy.com
 okcupid.com
 okfn.org
@@ -489,22 +529,30 @@ openvpn.net
 orionlabs.co
 osdir.com
 outsideonline.com
+overdrivedesign.biz
+ovpro.nl
 palemoon.org
 pandawhale.com
+panow.com
 parade.com
 passportindex.org
 pastebin.com
+pastebin.com <= there are copious pastebin alternatives, so promoting the alternatives is better than trying to turn pastebin
+pastehtml.com (only the homepage is CloudFlared - internal pages on the same domain are not CF'd - e.g.http://pastehtml.com/view/bscbw9x5i.html) If someone knows of alternatives to pastehtml please mention them here
 patreon.com
 patrikagroup.in
 paxful.com
 pcadvisor.co.uk
+pdfsdocuments.com
 pdfslibmanual.com
 peerio.com
 pembinavalleyonline.com
 pennywong.com.au
+perjalananumroh.com
 petitweb.fr
 phantis.com
 phonesdevelopers.com
+pic-upload.de <= a pastebin-like site but for images. Alternative site: imgur
 pingdom.com
 pirateparty.org.au 
 pixelbeat.org
@@ -514,12 +562,15 @@ pleated-jeans.com
 pnc2017.com
 pokemonshowdown.com
 pokerpro.cc
+politicsbreaking.com
 poljoprivredni-forum.com
+postimage.org <= pic-upload.de alternative also CFd
 prado.it
 preciousplastic.com
 premsocks.com
 pressprogress.ca
 pressthink.org
+prntscr.com
 proceso.com.mx
 procon.org
 producthunt.com
@@ -535,6 +586,7 @@ pryrepl.org
 psx-scene.com
 psychcentral.com
 psypost.org
+pubpub.org <= some of Snowden's work is "published" on this site
 puri.sm
 putoholicari.com
 puu.sh
@@ -543,6 +595,7 @@ qnrq.se
 qsaudi.com
 quantamagazine.org
 qubes-os.org
+qubes-os.org not anymore 2016/08
 qwertee.com
 qzzr.com
 racket-lang.org
@@ -557,10 +610,12 @@ reactiongifs.com
 readbag.com
 reader.fr
 readthetpp.com 
+realfarmacy.com
 receive-sms-online.info
 recordedfuture.com
 redorbit.com
 redstate.com
+relishapp.com
 repair.org
 repl.it
 republicains.fr
@@ -569,6 +624,7 @@ retrospring.net
 revleft.com
 rexresearch.com
 richarddawkins.net
+rietta.com
 ripostelaique.com
 rollingjubilee.org
 rosettacode.org
@@ -590,12 +646,14 @@ sayzlim.net
 sciencealert.com
 scienceandnonduality.com
 sckt.co
+search-id.com
 security.nl
 seebitcoin.com
 semicomplete.com
 seqanswers.com
 serijex.com
 setimes.com
+shapeshift.io <= bitcoin exchange. We should be publicly ridculing bitcoin companies that use CloudFlare because people's money is at risk (exposed to MitM).  The danger w/btc over CloudFlare is substantial.
 shark-tank.com
 shodanhq.com
 shodan.io
@@ -603,6 +661,7 @@ shoeboxed.com
 shopperapproved.com
 showstudio.com
 simonsfoundation.org
+simplefx.com
 simplejustice.us
 sistani.org
 sivers.org
@@ -636,6 +695,7 @@ swft.so (swiftsocial.com URL shortener)
 swiftsocial.com
 swiss-miss.com
 symmetrymagazine.org
+t24.com.tr
 t411.in
 tafttest.com
 talkmoneycafe.com
@@ -644,6 +704,7 @@ tarnkappe.info
 tecadmin.net
 techbeasts.com
 techdirt.com WILL WHITELIST SOON
+techdirt.com WILL WHITELIST SOON <= it's whitelisted now. And it's a fuckin' shame b/c it's harder for Tor users to know to boycott them. It's harder to pressure a site to abandon CloudFlare when they know of the whitelisting option.  Not good that they will now continue to feed the CloudFlare monster.
 technott.com
 techraptor.net
 tech-recipes.com
@@ -652,6 +713,7 @@ telegraphindia.com
 teradown.com
 tert.am
 testandverification.com
+textfiles.com (not a cloudflare site itself, but many of the mirror links at the top of the page are CloudFlare sites).  The owner's philosophy suggests he would oppose CloudFlare if informed about it.
 textopus.nl
 theahafoundation.org
 thebronasium.com
@@ -708,12 +770,17 @@ tronixstuff.com
 trustmeimascientist.com
 tunnelbear.com
 tutsplus.com
+twib.in
 ubitquity.io
+ultraimg.com <= pic-upload.de alternative also CFd
 ummah.com
 unhypem.com
+unixmen.com
+uphold.com
 upwork.com
 urbanist-magazin.de
 urbit.org
+urlsinfo.com
 usafreedom.fail
 usbccompliant.com
 uservoice.com
@@ -723,6 +790,7 @@ usklicnik.com
 utopia.de
 vancouverobserver.com
 vessenes.com
+viget.com
 viralthread.com
 voat.co
 voedzo.nl
@@ -736,19 +804,25 @@ webinspector.se
 webmajstori.net
 webrtchacks.com
 websta.me
+webwiki.com
 whatismyip.com
 whirlpool.net.au
+whois.de
 whoismcafee.com
+whois-search.com
 whois.vu
 wiki.cyanogenmod.org
 wikiislam.net
 wikileaksparty.org.au
 wiki.tcl.tk
+wiki.tcl.tk <= they claim CF is used so they don't have to clean up spam. They also say no one else complains about the Tor block.
 wireshark.org
+without-systemd.org
 worldofislam.info
 wrongisland.org
 xato.net
 xda-university.com
+xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good
 yatse.tv
 yohost.org
 yourbittorrent.com
