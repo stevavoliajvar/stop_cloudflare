@@ -165,6 +165,7 @@ crowarez.org
 crowdfireapp.com
 crowdsupply.com
 cryptocoinsnews.com
+cryptocompare.com
 cryptolife.net
 cryptologie.net
 cryptophoneaustralia.com
@@ -523,6 +524,7 @@ online-literature.com
 openchain.org
 opencryptoaudit.org
 opendyslexic.org
+openruby.com
 opensecrets.org
 opensourceecology.org
 opentech.fund
