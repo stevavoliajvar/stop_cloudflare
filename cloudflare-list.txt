@@ -10,6 +10,7 @@
 8ch.net
 99bitcoins.com
 actionnetwork.org
+act.oxfam.org (oxfam.org seems ok)
 adamcod.es
 adbusters.org
 adguard.com
@@ -570,6 +571,7 @@ pokerpro.cc
 politicsbreaking.com
 poljoprivredni-forum.com
 postimage.org <= pic-upload.de alternative also CFd
+postpartumprogress.com
 prado.it
 preciousplastic.com
 premsocks.com
@@ -826,6 +828,7 @@ wireshark.org
 without-systemd.org
 worldofislam.info
 wrongisland.org
+www.sciencebasedmedicine.org
 xato.net
 xda-university.com
 xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good
