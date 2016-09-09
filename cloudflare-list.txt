@@ -258,6 +258,7 @@ fas.org
 fbi.gov (custom cloudflare block page, check source for cloudflare JS and ray ID)
 feedly.com
 fee.org
+femdomvip.com
 fightforthefuture.org
 filmovita.com
 flightradar24.com
@@ -423,6 +424,7 @@ lawfareblog.com <= these guys have a twitter acct and make heavy use of tinyurl 
 le360.ma
 leagueoflegends.com
 leblogdebetty.com
+ledgerwallet.com
 leics.police.uk
 leics.police.uk (police.uk seems to work)
 leitmedium.de
