@@ -1,4 +1,7 @@
 10minutemail.com
+10minutemail.com <- oh no! mailinator.com and maildrop.cc too. there's guerrillamail.com and getairmail.com w/o clownflare.
+131001.net
+1337x.to
 1broker.com
 21.co 
 247exchange.com
@@ -165,6 +168,7 @@ crometeo.hr
 crowarez.org
 crowdfireapp.com
 crowdsupply.com
+cryfs.org <-- yet another software project whose authors think a domain name looks professional. no it doesn't. not if it's clownflared. then it makes you look like amateurs.
 cryptocoinsnews.com
 cryptocompare.com
 cryptolife.net
@@ -335,6 +339,7 @@ highcharts.com
 historyguy.com
 hitler.rocks
 hldataprotection.com
+hokstad.com
 hookers.nl
 howmanydayssincehumanityburnedawitch.com (this is brand new, there's no excuse)
 howtoforge.com
@@ -346,6 +351,7 @@ hummingbird.me
 hypergeeky.com
 hypothes.is
 iab.net
+iamsterdam.com
 ice3x.com
 icetwy.re
 idea.popcount.org
@@ -392,6 +398,7 @@ jankarres.de
 jasonsamuel.com
 jaxx.io
 jeanmarcmorandini.com
+jekyllrb.com
 jlm2017.fr
 johnmcostaiii.net
 johnpilger.com
@@ -416,6 +423,7 @@ lakeofthewoods.com
 lambos.info
 lapresse.ca
 laprimaire.org
+laravel.io
 lastwordonnothing.com
 latest.com
 latesthackingnews.com
@@ -432,6 +440,7 @@ lennu.net
 lessigforpresident.com
 libertarianism.org
 libertyvps.net
+libraries.io
 lintut.com
 linustechtips.com
 linuxaria.com
@@ -453,6 +462,7 @@ macworld.co.uk
 madinamerica.com
 magic999.ca
 mailinator.com
+mailinator.com <- oh no! 10minutemail.com too
 makerbot.com
 makercon.com
 makezine.com
@@ -463,6 +473,7 @@ medicare.gov.au (custom CloudFlare block page)
 medium.com
 meetup.com
 meforum.org
+meinit.nl
 memecenter.com
 metrocosm.com
 mg.co.za
@@ -478,6 +489,7 @@ mixxx.org
 mmo-champion.com
 mnx.io
 modeling-languages.com
+moquet.net
 moscow.sci-hub.io (only subdomains?)
 movecommons.org
 moveon.org <= was tor-friendly when change.org was not, and they were praised for it. Gave no acknowledgement, then the asshats decided to use CF. Hopeless- promote their competitors instead (care2, openpetition,etc)
@@ -514,6 +526,7 @@ nteu.org.au
 nullschool.net
 numer.ai
 nuuktv.gl
+oanda.com <= used officially by the Belgian government for FX rates for tax!  Taxpayers doing official business should not be forced to use a CloudFlare site.
 obamadecides.org
 ocks.org
 ohjoysextoy.com
@@ -703,6 +716,7 @@ sunnahonline.com
 swft.so (swiftsocial.com URL shortener)
 swiftsocial.com
 swiss-miss.com
+syllable.org
 symmetrymagazine.org
 t24.com.tr
 t411.in
@@ -744,6 +758,7 @@ thelongandshort.org
 themanual.org
 themighty.com
 themindunleashed.org
+thenubbyadmin.com
 theodi.org
 the-orbit.net
 thepiratebay.se
@@ -779,6 +794,7 @@ transferwise.com
 tronixstuff.com
 trustmeimascientist.com
 tunnelbear.com
+turnkeylinux.org
 tutsplus.com
 twib.in
 ubitquity.io
@@ -826,6 +842,7 @@ wikiislam.net
 wikileaksparty.org.au
 wiki.tcl.tk
 wiki.tcl.tk <= they claim CF is used so they don't have to clean up spam. They also say no one else complains about the Tor block.
+willshouse.com
 wireshark.org
 without-systemd.org
 worldofislam.info
