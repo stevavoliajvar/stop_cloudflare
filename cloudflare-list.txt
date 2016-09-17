@@ -399,6 +399,7 @@ jasonsamuel.com
 jaxx.io
 jeanmarcmorandini.com
 jekyllrb.com
+jewsnews.co.il
 jlm2017.fr
 johnmcostaiii.net
 johnpilger.com
@@ -725,6 +726,7 @@ tafttest.com
 talkmoneycafe.com
 taoofmac.com
 tarnkappe.info
+tcf.org
 tecadmin.net
 techbeasts.com
 techdirt.com WILL WHITELIST SOON
