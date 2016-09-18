@@ -1,4 +1,3 @@
-10minutemail.com
 10minutemail.com <- oh no! mailinator.com and maildrop.cc too. there's guerrillamail.com and getairmail.com w/o clownflare.
 131001.net
 1337x.to
@@ -54,7 +53,6 @@ artnet.com
 artofmanliness.com
 artuk.org
 ashedryden.com
-askamanager.org
 askamanager.org <= you can't alphebetize.  "art" comes before "ask" how about we make a more durable database of clownflared sites, ..., and let computer alphabetize??
 atimes.com
 atlasobscura.com
@@ -78,7 +76,6 @@ bitcoin.it
 bitcoinmagazine.com
 bitcoinstats.com
 biteasy.com
-bitpay.com
 bitpay.com <= torproject uses those slimeballs <https://trac.torproject.org/projects/tor/ticket/18911>
 bitsharestalk.org
 bizpacreview.com
@@ -133,7 +130,6 @@ christiaanconover.com
 christophercantwell.com
 chronicle.su
 cigionline.org
-citizenfourfilm.com (really? c'mon)
 citizenfourfilm.com (really? c'mon)  Snowden himself occasionally tweets links to CloudFlare, sadly enough.  He's a hero, but not exempt from criticism.. call it out when you see it.
 cityam.com
 cjfe.org
@@ -260,6 +256,7 @@ fakenamegenerator.com
 fakku.net
 fas.org
 fbi.gov (custom cloudflare block page, check source for cloudflare JS and ray ID)
+feathercoin.com
 feedly.com
 fee.org
 femdomvip.com
@@ -516,6 +513,7 @@ neurosky.com
 newsbtc.com
 newsfeed.ph
 newsring.fr
+nicehash.com
 nimportequi.com
 nknews.org
 nofilmschool.com
