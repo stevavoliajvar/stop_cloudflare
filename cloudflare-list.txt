@@ -551,6 +551,7 @@ osdir.com
 outsideonline.com
 overdrivedesign.biz
 ovpro.nl
+pagina12.com.ar
 palemoon.org
 pandawhale.com
 panow.com
@@ -609,6 +610,7 @@ psychcentral.com
 psypost.org
 pubpub.org <= some of Snowden's work is "published" on this site
 puri.sm
+putintrump.org
 putoholicari.com
 puu.sh
 pythonforengineers.com
@@ -710,6 +712,7 @@ state.io
 stevens.edu
 stopthecap.com
 strawpoll.me
+studentsforliberty.org
 stuffdutchpeoplelike.com
 suborbital-systems.net
 sunnahonline.com
@@ -749,6 +752,7 @@ theexmuslim.com
 thefappening.so
 thefreethoughtproject.com
 thehackernews.com
+thehornnews.com
 theinfosphere.org
 theislamicnews.com
 thejuicemedia.com
@@ -806,6 +810,7 @@ unhypem.com
 unixmen.com
 uphold.com
 upwork.com
+urbanintellectuals.com
 urbanist-magazin.de
 urbit.org
 urlsinfo.com
@@ -834,6 +839,7 @@ webrtchacks.com
 websta.me
 webwiki.com
 whatismyip.com
+whatsie.chat
 whirlpool.net.au
 whois.de
 whoismcafee.com
@@ -849,6 +855,8 @@ wireshark.org
 without-systemd.org
 worldofislam.info
 wrongisland.org
+www.atheistrepublic.com
+www.geekfill.com
 www.sciencebasedmedicine.org
 xato.net
 xda-university.com
