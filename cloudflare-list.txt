@@ -55,6 +55,7 @@ artofmanliness.com
 artuk.org
 ashedryden.com
 askamanager.org <= you can't alphebetize.  "art" comes before "ask" how about we make a more durable database of clownflared sites, ..., and let computer alphabetize??
+askkissy.com
 atimes.com
 atlasobscura.com
 atma.hr
@@ -679,6 +680,7 @@ sayzlim.net
 schd.ws
 sciencealert.com
 scienceandnonduality.com
+scitechdaily.com
 sckt.co
 search-id.com
 security.nl
@@ -711,6 +713,7 @@ snip.ly
 socks-proxy.net
 soompi.com
 soshified.com
+sott.net
 soundsofblm.com
 spaceappschallenge.org
 spinroot.com
