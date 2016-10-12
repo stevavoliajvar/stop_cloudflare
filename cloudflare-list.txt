@@ -22,6 +22,7 @@ affect3d.com
 afrizap.com
 ageofshitlords.com
 aiweiwei.com
+alabamaobserver.com
 al-akhbar.com
 alislam.org
 al-kanz.org
@@ -293,6 +294,7 @@ funkyimg.com <= pic-upload.de alternative also CFd
 funny-pictures-blog.com
 futurism.com
 fxopen.com
+gab.ai
 gapminder.org
 gatesoneinstitute.org
 gay.hr
