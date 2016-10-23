@@ -275,6 +275,7 @@ foaas.com
 fok.nl
 fondovi.hr
 foodpoisonjournal.com
+formlabs.com
 forum.cyanogenmod.org
 fossdroid.com
 fossforce.com
@@ -308,6 +309,7 @@ gethue.com
 geve.rs
 ghost.org
 gigahype.com
+giphy.com
 girlsjustwannahaveguns.com
 gizmodo.com.au
 gledajfilm.net
@@ -327,6 +329,7 @@ greaterfool.ca
 grupoandroid.com
 gsmhosting.com
 gsmphonelocator.com
+guiminer.org
 gulli.com
 guttmacher.org
 hackerboards.com
@@ -547,6 +550,7 @@ ominocity.com
 oneclickroot.com
 oneplus.net
 online-literature.com
+ontology.co
 openbitcoinprivacyproject.org
 openchain.org
 opencryptoaudit.org
@@ -582,6 +586,7 @@ peerio.com
 pembinavalleyonline.com
 pennywong.com.au
 perjalananumroh.com
+perpetuallineup.org
 petitweb.fr
 phantis.com
 phonesdevelopers.com
@@ -765,6 +770,7 @@ theden.tv
 the-digital-reader.com
 thediplomat.com
 thedroidguy.com
+theearthchild.co.za
 theexmuslim.com
 thefappening.so
 thefreethoughtproject.com
