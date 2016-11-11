@@ -202,6 +202,7 @@ deepdotweb.com
 defoo.org
 designboom.com
 desmogblog.com
+desmog.ca
 devkit.co
 dev-list.com
 diem25.org
@@ -456,6 +457,7 @@ libertarianism.org
 liberty.me
 libertyvps.net
 libraries.io
+libra.tech
 lintut.com
 linustechtips.com
 linuxaria.com
@@ -505,6 +507,7 @@ mixxx.org
 mmo-champion.com
 mnx.io
 modeling-languages.com
+modernfarmer.com
 moquet.net
 moscow.sci-hub.io (only subdomains?)
 movecommons.org
@@ -519,6 +522,7 @@ nairaland.com
 nakedcapitalism.com
 namecheap.com
 nationaldebtclocks.org
+nationalinterest.org
 nationalobserver.com
 nationalreview.com
 nation.co.ke
@@ -546,6 +550,7 @@ numer.ai
 nuuktv.gl
 oanda.com <= used officially by the Belgian government for FX rates for tax!  Taxpayers doing official business should not be forced to use a CloudFlare site.
 obamadecides.org
+observatorial.com
 occupydemocrats.com
 ocks.org
 ohjoysextoy.com
@@ -615,6 +620,7 @@ preciousplastic.com
 premsocks.com
 pressprogress.ca
 pressthink.org
+primary.guide
 prntscr.com
 proceso.com.mx
 procon.org
@@ -657,6 +663,7 @@ r-bloggers.com
 reactiongifs.com
 readbag.com
 reader.fr
+readersdigest.ca
 readthetpp.com 
 realfarmacy.com
 receive-sms-online.info
@@ -711,6 +718,7 @@ shoeboxed.com
 shopperapproved.com
 showstudio.com
 simonsfoundation.org
+simplecapacity.com
 simplefx.com
 simplejustice.us
 sistani.org
@@ -725,6 +733,7 @@ sminkerica.com
 smspuppy.com
 snip.ly
 socks-proxy.net
+someecards.com
 soompi.com
 soshified.com
 sott.net
@@ -818,6 +827,7 @@ thisiscolossal.com
 threatbutt.com
 thunderbaylive.com
 tickld.com
+tilt.com
 tinyhack.com
 tinyurl.com
 t-nation.com
