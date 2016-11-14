@@ -136,6 +136,7 @@ christiaanconover.com
 christophercantwell.com
 chronicle.su
 cigionline.org
+cijnews.com
 cinemablend.com
 citizenfourfilm.com (really? c'mon)  Snowden himself occasionally tweets links to CloudFlare, sadly enough.  He's a hero, but not exempt from criticism.. call it out when you see it.
 cityam.com
@@ -148,6 +149,7 @@ climateatlas.ca
 clojuredocs.org
 cloudflare.com
 cmxlog.com
+codeabitwiser.com
 codeschool.com
 codinghorror.com
 coinbase.com
@@ -295,6 +297,7 @@ fuirestunepulsion.net
 full-stop.net
 funkyimg.com <= pic-upload.de alternative also CFd
 funny-pictures-blog.com
+futureoflife.org
 futurism.com
 fxopen.com
 gab.ai
@@ -575,6 +578,7 @@ opentrackers.org
 openvpn.net
 orionlabs.co
 osdir.com
+out.com
 outsideonline.com
 overdrivedesign.biz
 ovpro.nl
