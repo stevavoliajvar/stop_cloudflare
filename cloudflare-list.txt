@@ -44,6 +44,7 @@ answersingenesis.org
 anxbtc.com
 anydayguide.com
 apkarea.com
+apost.com
 applicationprivacy.org
 apps.evozi.com
 arabnews.com
@@ -256,6 +257,7 @@ electronicintifada.net
 elementary.io
 elementaryos.org
 encyclopediadramatica.se
+endingthefed.com
 enewspf.com
 epochconverter.com
 erisindustries.com
@@ -308,6 +310,7 @@ freechelsea.com
 freedomdaily.com
 freedomoutpost.com
 freelists.org
+freemusicarchive.org
 free.niooz.fr
 freenode.net
 frontpagemag.com
@@ -892,6 +895,7 @@ trackingterrorism.org
 transferwise.com
 tronixstuff.com
 trustmeimascientist.com
+truth-out.org
 tunnelbear.com
 turnkeylinux.org
 tutsplus.com
