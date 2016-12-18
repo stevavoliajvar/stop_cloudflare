@@ -1,10 +1,4 @@
-vendicalapace.net
-freemyapps.com
-sgtreport.com
-clausewitz.com
-drewherring.net
-junkee.com
-plenteousveg.com
+
 10minutemail.com <- oh no! mailinator.com and maildrop.cc too. there's guerrillamail.com and getairmail.com w/o clownflare.
 131001.net
 1337x.to
@@ -87,6 +81,8 @@ bestvpn.com
 bestvpn.c om
 beyondchronic.com
 biljoljupci.com
+bitbond.com
+bitcasino.io
 bitcoinblackfriday.com
 bitcoin.de
 bitcoinist.net
@@ -95,11 +91,14 @@ bitcoinmagazine.com
 bitcoinstats.com
 bitcoints.com
 biteasy.com
+bitminter.com
 bitpay.com <= torproject uses those slimeballs <https://trac.torproject.org/projects/tor/ticket/18911>
+bitquick.co
 bitsharestalk.org
 bitsofco.de
 bizpacreview.com
 blackhat.com
+blockchain.com
 blockexplorer.com
 blocktrail.com
 blog.cloudflare.com
@@ -143,6 +142,7 @@ centrelink.gov.au (custom CloudFlare block page)
 cepr.net
 cex.io
 change.org (we could start a petition on change.org to ask change.org to unblock tor -  done, https://www.change.org/p/change-org-change-org-stop-using-cloudflare tweet at @jeffcliff1 for wording suggestions )
+change.org (we could start a petition on change.org to ask change.org to unblock tor -  done, https://www.change.org/p/change-org-change-org-stop-using-cloudflare tweet at @jeffcliff1 for wording suggestions ) Forget them; promote their competitors instead (care2, openpetition,etc).  BTW, change.org was a lousy place to put the petition.  Better to petition change.org from openpetition.  But it's a bad idea anyway b/c it can backfire-- if they whitelist tor, that's even worse b/c it feeds CloudFlare and damages the boycott against change.org.  Boycotting is better when there are good competitors.
 chathamhouse.org
 chat.hr
 chaturbate.com
@@ -159,6 +159,7 @@ cityam.com
 cjfe.org
 clarionproject.org 
 classically.me
+clausewitz.com
 cleanfiles.net
 clicanoo.re
 climateatlas.ca
@@ -172,6 +173,7 @@ coinbase.com
 coindesk.com
 coingecko.com
 coinjournal.net
+coinmama.com
 coinmarketcap.com
 cointelegraph.com
 coinworker.com
@@ -254,9 +256,11 @@ downloader-apk.com
 doximity.com
 drakulastream.eu
 dreamwidth.org
+drewherring.net
 drmaciver.com
 dwarfpool.com
 e27.co
+e621.net
 early-retirement.org <= recently joined the CF walled garden
 ebooktake.in
 echtlustig.com
@@ -299,6 +303,7 @@ fee.org
 femdomvip.com
 fightforthefuture.org
 filmovita.com
+fitinjehoofd.be <= class assignment requires students to visit this CFd page.  Not sure what's on that page-- I don't do captchas, so I'm skipping the assignment.
 fixmynix.com
 flightradar24.com
 floppingaces.net
@@ -316,9 +321,11 @@ fproxy.net
 freeanons.org
 freechelsea.com
 freedomdaily.com
+freedomhacker.net
 freedomoutpost.com
 freelists.org
 freemusicarchive.org
+freemyapps.com
 free.niooz.fr
 freenode.net
 frontpagemag.com
@@ -336,6 +343,7 @@ gapminder.org
 gatesoneinstitute.org
 gay.hr
 gaynewsnetwork.com.au
+gdax.com
 gdssecurity.com
 geek.hr
 geeksided.com
@@ -380,6 +388,7 @@ hamariweb.com
 hanzresolver.com
 happybearsoftware.com
 harbourfest.ca
+havebitcoin.com
 havelockinvestments.com 
 hdz.hr
 healtheternally.com
@@ -456,6 +465,7 @@ johnpilger.com
 jotform.com
 journals.cambridge.org
 jquery.com
+junkee.com
 justanswer.com
 jvns.ca
 kapaljka.com
@@ -549,6 +559,7 @@ mixmag.net
 mixxx.org
 mmo-champion.com
 mnx.io
+mochahost.com
 modeling-languages.com
 modernfarmer.com
 moquet.net
@@ -632,6 +643,7 @@ passportindex.org
 pastebin.com
 pastebin.com <= there are copious pastebin alternatives, so promoting the alternatives is better than trying to turn pastebin
 pastehtml.com (only the homepage is CloudFlared - internal pages on the same domain are not CF'd - e.g.http://pastehtml.com/view/bscbw9x5i.html) If someone knows of alternatives to pastehtml please mention them here
+paticik.com
 patreon.com
 patreon.com <- the great "platform" everyone's talking about and what, no https and clownflared? go FUCK yourselves, this is fucking 2016
 patrikagroup.in
@@ -654,6 +666,7 @@ pixelbeat.org
 plannedparenthood.org
 playrust.com
 pleated-jeans.com
+plenteousveg.com
 pnc2017.com
 pokemonshowdown.com
 pokerpro.cc
@@ -699,6 +712,7 @@ quantamagazine.org
 qubes-os.org
 qubes-os.org not anymore 2016/08
 quilljs.com
+quizlet.com <= used by (naive) teachers.. not good to have cloudflare blocking educational material
 quizzstar.com
 qwertee.com
 qzzr.com
@@ -763,6 +777,7 @@ seqanswers.com
 serijex.com
 serversupportforum.de
 setimes.com
+sgtreport.com
 shapeshift.io <= bitcoin exchange. We should be publicly ridculing bitcoin companies that use CloudFlare because people's money is at risk (exposed to MitM).  The danger w/btc over CloudFlare is substantial.
 shapeshift.io <= bitcoin exchange. We should be publicly ridculing bitcoin companies that use CloudFlare because people's money is at risk (exposed to MitM).  The danger w/btc over CloudFlare is substantial. ~> discussion page
 shark-tank.com
@@ -813,6 +828,7 @@ studentsforliberty.org
 stuffdutchpeoplelike.com
 suborbital-systems.net
 sunnahonline.com
+swappa.com <= lists devices with free OSs preinstalled. If you find a replacement site for that info, please update this wiki => https://libreplanet.org/wiki/Group:Giving_Guide_2012#Hardware
 swft.so (swiftsocial.com URL shortener)
 swiftsocial.com
 swiss-miss.com
@@ -930,6 +946,7 @@ usklicnik.com
 usuncut.com
 utopia.de
 vancouverobserver.com
+vendicalapace.net
 vessenes.com
 vgy.me
 viget.com
@@ -982,6 +999,7 @@ xda-university.com <= the mods abuse their power on xda-developers.com to a grea
 xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good -> discussion page
 yatse.tv
 yohost.org
+youcaring.com
 yourbittorrent.com
 zadovoljna.hr
 zaufanatrzeciastrona.pl
