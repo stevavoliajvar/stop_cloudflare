@@ -1,4 +1,3 @@
-
 10minutemail.com <- oh no! mailinator.com and maildrop.cc too. there's guerrillamail.com and getairmail.com w/o clownflare.
 131001.net
 1337x.to
@@ -51,7 +50,6 @@ apps.evozi.com
 arabnews.com
 archive.fo -> sometimes archive.is forwards there? GOD I HATE CLOWNFLARE! -> archive.is also clownflared now
 archive.is
-archive.today  <= that's a damn shame. We need this site to view other blocked sites. -> archive.is
 archive.today  <= that's a damn shame. We need this site to view other blocked sites. -> archive.is -> also clownflared now, sorry for ever having used them.
 arhivach.org
 arkency.com
@@ -192,10 +190,8 @@ crometeo.hr
 crowarez.org
 crowdcube.com
 crowdfireapp.com
-crowdsupply.com
 crowdsupply.com <- heavily clownflared. pity
 crservers.com <- hosters that rely on cloudflare for their website expose themselves to extreme ridicule ...
-cryfs.org <-- yet another software project whose authors think a domain name looks professional. no it doesn't. not if it's clownflared. then it makes you look like amateurs.
 cryfs.org <-- yet another software project whose authors think a domain name looks professional. no it doesn't. not if it's clownflared. then it makes you look like amateurs. if it's cloudflared it ain't documentation. -> discussoin page
 cryptocoinsnews.com
 cryptocompare.com
@@ -277,6 +273,7 @@ escort-canada.co
 escortphonesearch.com
 etherchain.org
 etherfaucet.net
+ethnologue.com
 etproxy.top
 euri.ca
 evasi0n.com
@@ -329,7 +326,6 @@ freemyapps.com
 free.niooz.fr
 freenode.net
 frontpagemag.com
-fteproxy.org
 fteproxy.org <- EEK! beyond ironic. cloudflare mildew inside the Tor software ecosystem. this is a censorship circumvention tool to be used with Tor and guess what? their fucking HOMEPAGE is clownflared!!!! SOMEONE EDUCATE THESE PEOPLE PLEASE! was about to rejoice because libFTE seems to supersede it? but guess what libfte.org is CLOWNFLARED TOO! to coin a meme: if it's cloudflared, it ain't documentation. if a FLOSS project's homepage is cloudflared, it's not a homepage but a joke.
 fuirestunepulsion.net
 full-stop.net
@@ -531,7 +527,6 @@ lzone.de
 macworld.co.uk
 madinamerica.com
 magic999.ca
-mailinator.com
 mailinator.com <- oh no! 10minutemail.com too
 makerbot.com
 makercon.com
@@ -640,11 +635,9 @@ pandawhale.com
 panow.com
 parade.com
 passportindex.org
-pastebin.com
 pastebin.com <= there are copious pastebin alternatives, so promoting the alternatives is better than trying to turn pastebin
 pastehtml.com (only the homepage is CloudFlared - internal pages on the same domain are not CF'd - e.g.http://pastehtml.com/view/bscbw9x5i.html) If someone knows of alternatives to pastehtml please mention them here
 paticik.com
-patreon.com
 patreon.com <- the great "platform" everyone's talking about and what, no https and clownflared? go FUCK yourselves, this is fucking 2016
 patrikagroup.in
 paxful.com
@@ -985,7 +978,6 @@ wiki.tcl.tk
 wiki.tcl.tk <= they claim CF is used so they don't have to clean up spam. They also say no one else complains about the Tor block.
 wiki.tcl.tk <= they claim CF is used so they don't have to clean up spam. They also say no one else complains about the Tor block. if it's cloudflared, it ain't documentation -> discussion page
 willshouse.com
-wireshark.org
 wireshark.org <- if it's cloudflared, it ain't documentation.
 without-systemd.org
 worldofislam.info
@@ -994,8 +986,6 @@ www.atheistrepublic.com
 www.geekfill.com
 www.sciencebasedmedicine.org
 xato.net
-xda-university.com
-xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good
 xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good -> discussion page
 yatse.tv
 yohost.org
