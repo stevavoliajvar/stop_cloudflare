@@ -456,6 +456,7 @@ jeanmarcmorandini.com
 jekyllrb.com
 jewsnews.co.il
 jlm2017.fr
+johndcook.com
 johnmcostaiii.net
 johnpilger.com
 jotform.com
@@ -487,7 +488,6 @@ laravel.io
 lastwordonnothing.com
 latest.com
 latesthackingnews.com
-lawfareblog.com
 lawfareblog.com <= these guys have a twitter acct and make heavy use of tinyurl links.  They need to be pressured to stop using tinyurl.
 le360.ma
 leagueoflegends.com
@@ -546,6 +546,7 @@ mg.co.za
 miguelmenendez.pro
 mikepence.com/
 mindtools.com
+mindy-fischer-writer.com
 minilock.io
 minimalistbaker.com
 missionbit.com
