@@ -4,6 +4,7 @@
 1broker.com
 21.co 
 247exchange.com
+270towin.com
 2ch.hk
 3dprintingindustry.com
 3dsupplyworld.com
@@ -18,6 +19,7 @@ adamcod.es
 adbusters.org
 adguard.com
 adminsub.net
+adnauseam.io
 afd-gold.de
 affect3d.com
 afrizap.com
@@ -84,6 +86,7 @@ bitbond.com
 bitcasino.io
 bitcoinblackfriday.com
 bitcoin.de
+bitcoinfoundation.org
 bitcoinist.net
 bitcoin.it
 bitcoinmagazine.com
@@ -107,6 +110,7 @@ blog.onahole.eu
 blog.rtlwilson.com
 blogs.com -  this one seems to use CloudFlare's blacklist tool - no catpcha anymore, no way to access the website "The owner of this website (blogs.com) has banned the country or region your IP address is in (TOR) from accessing this website."
 bluenote.io
+bmj.com
 bookfi.org
 bostonreview.net
 bradleymanning.org
@@ -306,6 +310,7 @@ fixmynix.com
 flightradar24.com
 floppingaces.net
 flushthetpp.org <= they claim to oppose "corporatocracy", but are happy to feed the biggest centalized web corporation to exist.
+fmdmp3.co
 foaas.com
 fok.nl
 fondovi.hr
@@ -326,6 +331,7 @@ freemusicarchive.org
 freemyapps.com
 free.niooz.fr
 freenode.net
+freethoughtblogs.com
 frontpagemag.com
 fteproxy.org <- EEK! beyond ironic. cloudflare mildew inside the Tor software ecosystem. this is a censorship circumvention tool to be used with Tor and guess what? their fucking HOMEPAGE is clownflared!!!! SOMEONE EDUCATE THESE PEOPLE PLEASE! was about to rejoice because libFTE seems to supersede it? but guess what libfte.org is CLOWNFLARED TOO! to coin a meme: if it's cloudflared, it ain't documentation. if a FLOSS project's homepage is cloudflared, it's not a homepage but a joke.
 fuirestunepulsion.net
@@ -534,6 +540,7 @@ makercon.com
 makezine.com
 malaysianwireless.com
 massshootingtracker.org
+mathwarehouse.com
 mcgrefer.com
 meaww.com
 medicare.gov.au (custom CloudFlare block page)
@@ -757,6 +764,7 @@ sarasoueidan.com
 saskndp.ca
 saskparty.com
 savenetneutrality.eu <= embarrassing!
+savevideo.me
 sayzlim.net
 schd.ws
 schweikert.ch (postgrey.schweikert.ch)
@@ -835,6 +843,7 @@ tafttest.com
 talkmoneycafe.com
 taoofmac.com
 tarnkappe.info
+tastekid.com
 tcf.org
 tecadmin.net
 techbeasts.com
@@ -957,6 +966,7 @@ washingtoninstitute.org
 watchseries.ag
 weaponsofmassdeception.org
 weasyl.com
+webhostingtalk.com
 webinspector.se
 webmajstori.net
 webrtchacks.com
