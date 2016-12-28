@@ -81,6 +81,7 @@ bescherelletamere.fr
 bestvpn.com
 bestvpn.c om
 beyondchronic.com
+bignewsnetwork.com
 biljoljupci.com
 bitbond.com
 bitcasino.io
@@ -635,6 +636,7 @@ opentrackers.org
 openvpn.net
 orionlabs.co
 osdir.com
+ourworldindata.org
 out.com
 outsideonline.com
 overdrivedesign.biz
@@ -679,6 +681,7 @@ pony.town
 postimage.org <= pic-upload.de alternative also CFd
 postpartumprogress.com
 prado.it
+prairiedogmag.com
 preciousplastic.com
 premsocks.com
 pressfreedomfoundation.org <-- astonishing ...
@@ -833,6 +836,7 @@ studentsforliberty.org
 stuffdutchpeoplelike.com
 suborbital-systems.net
 sunnahonline.com
+support.cisco.com
 swappa.com <= lists devices with free OSs preinstalled. If you find a replacement site for that info, please update this wiki => https://libreplanet.org/wiki/Group:Giving_Guide_2012#Hardware
 swft.so (swiftsocial.com URL shortener)
 swiftsocial.com
@@ -994,6 +998,7 @@ wiki.tcl.tk <= they claim CF is used so they don't have to clean up spam. They a
 willshouse.com
 wireshark.org <- if it's cloudflared, it ain't documentation.
 without-systemd.org
+wmgk.com
 worldofislam.info
 wrongisland.org
 www.atheistrepublic.com
