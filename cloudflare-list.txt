@@ -187,6 +187,7 @@ comingle.io
 conceptualrevolutions.com
 conservativedailypost.com
 containerops.org
+coolest-gadgets.com
 coolutils.com
 corda.net 
 coshx.com
@@ -260,6 +261,7 @@ drakulastream.eu
 dreamwidth.org
 drewherring.net
 drmaciver.com
+dwapi.com
 dwarfpool.com
 e27.co
 e621.net
@@ -278,6 +280,7 @@ erisindustries.com
 escort-canada.co
 escortphonesearch.com
 etherchain.org
+ethereumprice.org
 etherfaucet.net
 ethnologue.com
 etproxy.top
@@ -354,6 +357,7 @@ geeksided.com
 geenstijl.nl
 getdeb.net
 getgb.io
+getglue.com
 gethue.com
 geve.rs
 ghost.org
@@ -367,6 +371,7 @@ globalprivacywatch.com
 globalresearch.ca
 gnuradio.org
 gocoin.com (xcfd.com outsources to gocoin.com, but transactions between the two bypass cloudflare. We should still boycott both of them)
+goldprice.org
 gol.hr
 gonewiththewynns.com
 googlewatchblog.de
@@ -625,6 +630,7 @@ ontology.co
 openbitcoinprivacyproject.org
 openchain.org
 opencryptoaudit.org
+opendime.com
 opendyslexic.org
 openruby.com
 opensecrets.org
@@ -903,6 +909,7 @@ theregister.co.uk (Please turn JavaScript on and reload the page. 2016/03)
 therightstuff.biz
 thesouthafrican.com
 thestack.com
+thestockmarketwatch.com
 theswiftcodes.com
 thetrendythings.com
 theturkishsun.com
