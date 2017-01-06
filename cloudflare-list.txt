@@ -13,6 +13,7 @@
 666surveillancesystem.com
 8ch.net
 99bitcoins.com
+9flats.com
 actionnetwork.org
 act.oxfam.org (oxfam.org seems ok)
 adamcod.es
@@ -112,6 +113,7 @@ blog.rtlwilson.com
 blogs.com -  this one seems to use CloudFlare's blacklist tool - no catpcha anymore, no way to access the website "The owner of this website (blogs.com) has banned the country or region your IP address is in (TOR) from accessing this website."
 bluenote.io
 bmj.com
+bookfeeder.com
 bookfi.org
 bostonreview.net
 bradleymanning.org
@@ -127,6 +129,7 @@ businessinsider.com.au
 buytrezor.com
 buzzmachine.com
 cagle.com
+cago.us
 cambridge.org
 card-data-recovery.com
 cardingmafia.ws
@@ -158,6 +161,7 @@ chronicle.su
 cigionline.org
 cijnews.com
 cinemablend.com
+cineworldyapim.com
 citizenfourfilm.com (really? c'mon)  Snowden himself occasionally tweets links to CloudFlare, sadly enough.  He's a hero, but not exempt from criticism.. call it out when you see it.
 cityam.com
 cjfe.org
@@ -170,6 +174,7 @@ climateatlas.ca
 clojuredocs.org
 cloudflare.com
 cmxlog.com
+cneolithicstone.com
 codeabitwiser.com
 codeschool.com
 codinghorror.com
@@ -308,6 +313,7 @@ feedly.com
 fee.org
 femdomvip.com
 fightforthefuture.org
+files.mastodon.social
 filmovita.com
 fitinjehoofd.be <= class assignment requires students to visit this CFd page.  Not sure what's on that page-- I don't do captchas, so I'm skipping the assignment.
 fixmynix.com
@@ -361,6 +367,7 @@ getglue.com
 gethue.com
 geve.rs
 ghost.org
+giaynam.co
 gigahype.com
 giphy.com
 girlsjustwannahaveguns.com
@@ -388,6 +395,7 @@ guiminer.org
 gulli.com
 guttmacher.org
 guya.net
+gzdgzu.com
 hackerboards.com
 hackerone.com
 hackfest.ca
@@ -405,6 +413,7 @@ highcharts.com
 historyguy.com
 hitler.rocks
 hldataprotection.com
+hlmeeting.com
 hokstad.com
 hookers.nl
 howmanydayssincehumanityburnedawitch.com (this is brand new, there's no excuse)
@@ -425,6 +434,7 @@ icetwy.re
 iconomi.net
 idea.popcount.org
 igreklik.com
+ijoy365.com
 ijreview.com
 images.nrc.nl
 imgflip.com
@@ -531,6 +541,7 @@ lkml.org
 localbitcoins.com
 localbitcoins.com (impacts ohiobitcoin.com b/c they outsource to localbitcoins.com)
 localtimes.info
+loc.gov
 lockergnome.com
 loomio.org
 lovethesepics.com
@@ -712,6 +723,7 @@ pryrepl.org
 psx-scene.com
 psychcentral.com
 psypost.org
+publicdomainreview.org
 pubpub.org <= some of Snowden's work is "published" on this site
 puri.sm
 putintrump.org
@@ -763,6 +775,8 @@ rosettacode.org
 rosstraining.com
 roughguides.com
 rtlnieuws.nl
+ruiyiyishu.com
+rushmoorsp.com
 s30.postimg.org
 sachachua.com
 sadlock.org
@@ -810,6 +824,7 @@ sing-fake.review
 sing-many.review
 sistani.org
 sivers.org
+skoolie.net
 skresolver.com
 skymind.io
 slate.fr
@@ -1014,6 +1029,7 @@ www.sciencebasedmedicine.org
 xato.net
 xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good -> discussion page
 yatse.tv
+yobabooks.com
 yohost.org
 youcaring.com
 yourbittorrent.com
