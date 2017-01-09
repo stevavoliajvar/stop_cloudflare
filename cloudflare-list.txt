@@ -76,6 +76,7 @@ avpixlat.info
 babelfish.com <- assholes just started using CF (oct.2016), just after translate.google.com became bot-hostile.
 bad-dragon.com
 barackobama.com
+behindthenumbers.ca
 belgbook.be
 berniesanders.com
 bescherelletamere.fr
@@ -84,6 +85,7 @@ bestvpn.c om
 beyondchronic.com
 bignewsnetwork.com
 biljoljupci.com
+biology-online.org
 bitbond.com
 bitcasino.io
 bitcoinblackfriday.com
@@ -95,6 +97,7 @@ bitcoinmagazine.com
 bitcoinstats.com
 bitcoints.com
 biteasy.com
+bitimart.com
 bitminter.com
 bitpay.com <= torproject uses those slimeballs <https://trac.torproject.org/projects/tor/ticket/18911>
 bitquick.co
@@ -277,6 +280,7 @@ e-demokratie.org
 electronicintifada.net
 elementary.io
 elementaryos.org
+elephantjournal.com
 encyclopediadramatica.se
 endingthefed.com
 enewspf.com
@@ -589,6 +593,7 @@ moscow.sci-hub.io (only subdomains?)
 movecommons.org
 moveon.org <= was tor-friendly when change.org was not, and they were praised for it. Gave no acknowledgement, then the asshats decided to use CF. Hopeless- promote their competitors instead (care2, openpetition,etc)
 mpp.org
+multiwebconverter.com
 musalbas.com <- he shd know better
 mygully.com
 nachdenkseiten.de
@@ -724,6 +729,7 @@ psx-scene.com
 psychcentral.com
 psypost.org
 publicdomainreview.org
+publicseminar.org
 pubpub.org <= some of Snowden's work is "published" on this site
 puri.sm
 putintrump.org
@@ -774,6 +780,7 @@ rollingjubilee.org
 rosettacode.org
 rosstraining.com
 roughguides.com
+rssflare.com
 rtlnieuws.nl
 ruiyiyishu.com
 rushmoorsp.com
@@ -1033,6 +1040,7 @@ yobabooks.com
 yohost.org
 youcaring.com
 yourbittorrent.com
+youtubeinmp3.com
 zadovoljna.hr
 zaufanatrzeciastrona.pl
 zcomm.org
