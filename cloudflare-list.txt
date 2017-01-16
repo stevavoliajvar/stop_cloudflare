@@ -181,6 +181,7 @@ cneolithicstone.com
 codeabitwiser.com
 codeschool.com
 codinghorror.com
+co.id
 coinbase.com
 coindesk.com
 coingecko.com
@@ -193,6 +194,7 @@ collective-evolution.com
 collectivelyconscious.net
 comingle.io
 conceptualrevolutions.com
+congress.gov
 conservativedailypost.com
 containerops.org
 coolest-gadgets.com
@@ -243,6 +245,7 @@ desmogblog.com
 desmog.ca
 devkit.co
 dev-list.com
+dhakatribune.com
 diem25.org
 digitalenvelopes.email <= i'm sure I lised this already. Not sure why it disappeared.  Relisting it now.  Note that the owner denies blocking Tor, and seems uninterested in fixing the problem.
 digitalfernsehen.de
@@ -274,6 +277,7 @@ dwarfpool.com
 e27.co
 e621.net
 early-retirement.org <= recently joined the CF walled garden
+ebooksforfree.org
 ebooktake.in
 echtlustig.com
 e-demokratie.org
@@ -346,6 +350,7 @@ freemyapps.com
 free.niooz.fr
 freenode.net
 freethoughtblogs.com
+frontlineclub.com
 frontpagemag.com
 fteproxy.org <- EEK! beyond ironic. cloudflare mildew inside the Tor software ecosystem. this is a censorship circumvention tool to be used with Tor and guess what? their fucking HOMEPAGE is clownflared!!!! SOMEONE EDUCATE THESE PEOPLE PLEASE! was about to rejoice because libFTE seems to supersede it? but guess what libfte.org is CLOWNFLARED TOO! to coin a meme: if it's cloudflared, it ain't documentation. if a FLOSS project's homepage is cloudflared, it's not a homepage but a joke.
 fuirestunepulsion.net
@@ -411,6 +416,7 @@ hanzresolver.com
 happybearsoftware.com
 harbourfest.ca
 havebitcoin.com
+haveibeenpwned.com ("DDoS protection by CloudFlare / Ray ID: 321d437f7b26290e")
 havelockinvestments.com 
 hdz.hr
 healtheternally.com
@@ -594,6 +600,7 @@ moquet.net
 moscow.sci-hub.io (only subdomains?)
 movecommons.org
 moveon.org <= was tor-friendly when change.org was not, and they were praised for it. Gave no acknowledgement, then the asshats decided to use CF. Hopeless- promote their competitors instead (care2, openpetition,etc)
+mp3zack.tk
 mpp.org
 multiwebconverter.com
 musalbas.com <- he shd know better
@@ -954,6 +961,7 @@ todayszaman.com
 topix.com
 tor.com
 torontocrypto.org
+torrenthulkx.com
 torrentr.eu
 tpo.nl
 trackingterrorism.org
@@ -1037,12 +1045,14 @@ www.geekfill.com
 www.sciencebasedmedicine.org
 xato.net
 xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good -> discussion page
+x-true.info
 yatse.tv
 yobabooks.com
 yohost.org
 youcaring.com
 yourbittorrent.com
 youtubeinmp3.com
+yuason.com
 zadovoljna.hr
 zaufanatrzeciastrona.pl
 zcomm.org
