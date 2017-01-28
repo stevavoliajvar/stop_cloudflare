@@ -38,6 +38,7 @@ alternet.org
 amcharts.com
 amnesty.org.au
 amren.com
+ancient-origins.net
 androidauthority.com
 andy-roberts.net
 ankisrs.net [FLOSSp] <= After yesterday complained that each new thread created require Google captcha (in addition to the registration process is tested once), they put their web - site on the CloudFlare * today *. Perhaps it's a coincidence. They are allowed to place a complaint ( https://anki.tenderapp.com/discussions/ankidesktop/21167-captcha-hell) . Note that tenderapp.com (where sites) Knowledgebase not ClownFucked. New ticket for only created problems for CloudFlare: https://anki.tenderapp.com/discussions/ankidesktop/21203-user-guide-now-blocked-by-cloudflare
@@ -266,6 +267,7 @@ digitalenvelopes.email <= I am sure I have it lised. I do not know why he disapp
 digitalfernsehen.de
 digitalmunition.me
 digitalocean.com
+digitalpoint.com
 diken.com.tr
 djm.org.uk
 dmagazine.com
@@ -328,6 +330,7 @@ ezwatch.com
 faithfreedom.org
 fakenamegenerator.com
 fakku.net
+famousscientists.org
 fas.org
 fbi.gov (custom CloudFlare pages block, check the source for Cloudflare JS and rays ID)
 feathercoin.com
@@ -444,6 +447,8 @@ hdz.hr
 healtheternally.com
 highcharts.com
 historyguy.com
+historylearningsite.co.uk
+historyoftheancientworld.com
 hitler.rocks
 hitler.rocks hookers.nl
 hldataprotection.com
@@ -504,6 +509,7 @@ islampos.com
 islamqa.info
 islamswomen.com
 islamtoday.net
+islamtomorrow.com
 Islam -watch.org
 islam-watch.org
 ispace.hr
@@ -630,6 +636,8 @@ mp3zack.tk
 mpp.org
 Mr. host.org
 Mr. igahype.com
+muflihun.com
+mukto-mona.com
 multiwebconverter.com
 musalbas.com <- he shd know better
 mygully.com
@@ -679,6 +687,7 @@ okfn.org
 oldpiratebay.org
 ominocity.com
 oneclickroot.com
+onegreenplanet.org
 oneplus.net
 online-literature.com
 ontology.co
@@ -804,6 +813,7 @@ recordedfuture.com
 redorbit.com
 redstate.com
 relishapp.com
+remezcla.com
 repair.org
 repl.it
 reportingclimatescience.com
