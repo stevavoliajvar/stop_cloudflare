@@ -1,5 +1,3 @@
-resistancemanual.org
-agniveer.com
 10minutemail.com <- oh no! mailinator.com and maildrop.cc too. there's guerrillamail.com and getairmail.com w/o clownflare.
 131001.net
 1337x.to
@@ -27,10 +25,12 @@ afd-gold.de
 affect3d.com
 afrizap.com
 ageofshitlords.com
+agniveer.com
 aiweiwei.com
 alabamaobserver.com
 al-akhbar.com
 alexcican.com
+alibris.com
 alislam.org
 al-kanz.org
 allaboutcircuits.com
@@ -176,6 +176,7 @@ chinadialogue.net
 christiaanconover.com
 christophercantwell.com
 chronicle.su
+cifiaonline.com
 cigionline.org
 cijnews.com
 cinemablend.com
@@ -309,6 +310,7 @@ epochconverter.com
 erisindustries.com
 escort-canada.co
 escortphonesearch.com
+essaylab.com
 etherchain.org
 ethereumprice.org
 etherfaucet.net
@@ -340,6 +342,7 @@ feedly.com
 feedvalidator.org
 fee.org
 femdomvip.com
+fftf.org
 fightforthefuture.org
 files.mastodon.social
 filmovita.com
@@ -406,6 +409,7 @@ girlsjustwannahaveguns.com
 gizmodo.com.au
 glassdoor.com
 gledajfilm.net
+globalchallenges.org
 globalprivacywatch.com
 globalresearch.ca
 gnuradio.org [FLOSSp] <= mention (the CloudFlare Implemented) TOR's ban on #gnuradio Irc / Freenode, get kicked out of the channel (the guy in charge of the radio wildebeest former military - the Navy, because neoconservatism is not surprising), Note that gnuradio was invited FOSDEM 2017. IMO it's a bad idea for FOSDEM organizers invite Tor-hostile projects, because it presents itself as open to all, and not any - the exclusive corporate fenced garden. Please complain at FOSDEM reps on this occasion .. might PPL must send conduct@fosdem.org. In principle, it would be good to have an anti-gnuradio demonstration at FOSDEM, but I know that the team is not organized against CloudFlare enough to pull it off.
@@ -477,7 +481,6 @@ icetwy.re
 iconomi.net
 idea.popcount.org
 igreklik.com
-islamcity.co
 ijoy365.com
 ijreview.com
 images.nrc.nl
@@ -503,12 +506,14 @@ iptorrents.eu
 ipython.org
 irinnews.org
 is.gd
+islamcity.co
 islamcity.com
 islamicity.com
 Islam land.com
 islamland.com
 islampos.com
 islamqa.info
+islamreligion.com
 islamswomen.com
 islamtoday.net
 islamtomorrow.com
@@ -733,6 +738,7 @@ pembinavalleyonline.com
 pennywong.com.au
 perjalananumroh.com
 perpetuallineup.org
+petitlien.fr
 petitweb.fr
 phantis.com
 phonesdevelopers.com
@@ -821,6 +827,7 @@ repl.it
 reportingclimatescience.com
 republicains.fr
 resetthenet.org
+resistancemanual.org
 retrospring.net
 revleft.com
 rexresearch.com
@@ -828,6 +835,7 @@ richarddawkins.net
 rietta.com
 ripostelaique.com
 rollingjubilee.org
+rollingout.com
 rosettacode.org
 rosstraining.com
 roughguides.com
