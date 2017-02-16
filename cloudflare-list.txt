@@ -34,6 +34,7 @@ alibris.com
 alislam.org
 al-kanz.org
 allaboutcircuits.com
+almasdarnews.com
 alphabeatic.com
 alternativeto.net
 alternet.org
@@ -191,6 +192,7 @@ clausewitz.com
 cleanfiles.net
 clicanoo.re
 climateatlas.ca
+climatedepot.com
 clojuredocs.org
 cloudflare.com
 cmxlog.com
@@ -387,6 +389,7 @@ fxopen.com
 gab.ai
 gapminder.org
 gatesoneinstitute.org
+gatestoneinstitute.org
 gay.hr
 gaynewsnetwork.com.au
 GD ax.com
@@ -444,6 +447,7 @@ hamariweb.com
 hanzresolver.com
 happybearsoftware.com
 harbourfest.ca
+hardforum.com
 h avebitcoin.com
 havebitcoin.com
 haveibeenpwned.com ("DDoS protection by CloudFlare / Ray ID: 321d437f7b26290e")
@@ -522,6 +526,7 @@ islam-watch.org
 ispace.hr
 itradesecurity.com
 itsfoss.com
+iwastesomuchtime.com
 iwilllookintoit.com
 izaogledala.com
 jacobinmag.com
@@ -564,6 +569,7 @@ laravel.io
 lastwordonnothing.com
 latest.com
 latesthackingnews.com
+latribune.fr
 lawfareblog.com <= these guys have a twitter acct and make heavy use of tinyurl links.  They need to be pressured to stop using tinyurl.
 le360.ma
 leagueoflegends.com
@@ -769,6 +775,7 @@ primary.guide
 prntscr.com
 proceso.com.mx
 procon.org
+producer.com
 producthunt.com
 profiwiki.com
 programcreek.com
@@ -862,6 +869,7 @@ schd.ws
 schweikert.ch (postgrey.schweikert.ch)
 sciencealert.com
 scienceandnonduality.com
+scirra.com
 scitechdaily.com
 s ckt.co
 sckt.co
@@ -1000,6 +1008,7 @@ thesouthafrican.com
 thestack.com
 thestockmarketwatch.com
 theswiftcodes.com
+thetower.org	
 thetrendythings.com
 theturkishsun.com
 thevintagenews.com
@@ -1023,6 +1032,7 @@ torrenthulkx.com
 torrentr.eu
 tpo.nl
 trackingterrorism.org
+tradeking.com
 transferwise.com
 tronixstuff.com
 trustmeimascientist.com
@@ -1083,6 +1093,7 @@ wemineltc.com
 westernmutual.com
 whatismyip.com
 whatsie.chat
+whatthefuckjusthappenedtoday.com
 whirlpool.net.au
 whois.de
 whoismcafee.com
