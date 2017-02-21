@@ -188,6 +188,7 @@ cityofhope.org
 cjfe.org
 clarionproject.org 
 classically.me
+classifiedads.com
 clausewitz.com
 cleanfiles.net
 clicanoo.re
@@ -351,6 +352,7 @@ filmovita.com
 fitinjehoofd.be <= class assignment requires students to visit this CFd page.  Not sure what's on that page-- I don't do captchas, so I'm skipping the assignment.
 fixmynix.com
 flightradar24.com
+f-list.net
 floppingaces.net
 flushthetpp.org <= they claim to oppose "corporatocracy", but are happy to feed the biggest centalized web corporation to exist.
 fmdmp3.co
@@ -479,6 +481,7 @@ hypergeeky.com
 hypothes.is
 iab.net
 iamsterdam.com
+ibuzzynews.com
 iccnow.org
 ice3x.com
 icetwy.re
@@ -566,6 +569,7 @@ lambos.info
 lapresse.ca
 laprimaire.org
 laravel.io
+larouchepac.com
 lastwordonnothing.com
 latest.com
 latesthackingnews.com
@@ -653,6 +657,7 @@ muflihun.com
 mukto-mona.com
 multiwebconverter.com
 musalbas.com <- he shd know better
+mydigitallife.info
 mygully.com
 nachdenkseiten.de
 nacional.hr
@@ -666,6 +671,7 @@ nationalinterest.org
 nationalobserver.com
 nationalreview.com
 nation.co.ke
+nationstates.net
 naturallysuperior.com
 ncsa.nationbuilder.com
 nemchina.com
@@ -967,6 +973,7 @@ tert.am
 testandverification.com
 textfiles.com (not in itself CloudFlare site, but many of the mirrors links are CloudFlare sites at the top of the page). owner's philosophy assumes that it will oppose the CloudFlare, if informed of this.
 textopus.nl
+tezos.com
 theahafoundation.org
 theamericanconservative.com
 thebronasium.com
@@ -998,6 +1005,7 @@ thenubbyadmin.com
 theodi.org
 the-orbit.net
 thepiratebay.casa
+thepiratebay.org
 thepiratebay.se
 theplaidzebra.com
 theprice2016.xyz
@@ -1021,6 +1029,7 @@ threatbutt.com
 thunderbaylive.com
 tickld.com
 tilt.com
+timelyapp.com
 tinyhack.com
 tinyurl.com
 t-nation.com
@@ -1046,6 +1055,7 @@ ubitquity.io
 ultraimg.com <= pic-upload.de alternative also CfD
 ummah.com
 unhypem.com
+unicornriot.ninja
 unixmen.com
 uphold.com
 upwork.com
