@@ -748,6 +748,7 @@ pdfslibmanual.com
 peerio.com
 pembinavalleyonline.com
 pennywong.com.au
+pen.org <- ! 
 perjalananumroh.com
 perpetuallineup.org
 petitlien.fr
@@ -925,6 +926,7 @@ smspuppy.com
 snip.ly
 socks-proxy.net
 someecards.com
+songlyrics.com
 soompi.com
 soshified.com
 sott.net
@@ -964,6 +966,7 @@ tecadmin.net
 techbeasts.com
 techdirt.com WILL WHITELIST SOON <= it's whitelisted now. And it's a fuckin' shame b/c it's harder for Tor users to know to boycott them. It's harder to pressure a site to abandon CloudFlare when they know of the whitelisting option.  Not good that they will now continue to feed the CloudFlare monster. ~> discussion page
 technott.com
+techposts.org
 techraptor.net
 tech-recipes.com
 teespring.com
