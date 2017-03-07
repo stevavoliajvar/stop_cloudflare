@@ -1,0 +1,83 @@
+productivity and safety through the CloudFlare!
+  
+This is a collection of websites that you have an error with CAPTCHAs * when you open them through Tor
+You can add to the list. (In alphabetical order, to minimize duplicate). What is the reason for this gathering? several. see discussion platform
+ 
+2016-11-16: re Technical Evolution
+I'm trying something experimental here, please have a look: this is me ant to eventually replace the EtherPad
+I for one am no longer happy with the provisional EtherPad solution. It's grown too cumbersome to edit
+ 
+https://github.com/fnordomat/Globalist
+ 
+-> dead simple use of git and .onions to create a distributed repo for collaborative editin
+no more hosting needed, just an ever-changing network of .onions. putting the "D" back in "DVCS" ...
+ 
+  Anyone feeling adventurous? try downloading the script, have a good look at it of course and then try
+  peering with hw5deh5c4im6obke.onion (post your own .onion, which Globalist generates, here)
+  r2skudzatpggydyu.onion
+  and give me a yell if it doesn't work (here or @fnord@quitter.se or @fnordomat@github.com)
+  I shall set up a cronjob to pull your changes every 1/2 hour maybe and we'll see how it goes
+ 
+-> anyone can git pull git://hw5deh5c4im6obke.onion/repo.git, and I'll pull back your changes. my little script just helps set this up
+-> of course the repo can additionally be hosted somewhere "official" but why depend on it?
+ 
+after that, let's improve the script and once it's out of alpha phase, decentralize!
+ 
+Remarks:
+- git blame can presumably be used to colorize contributions later
+- no need to run it all the time, unsuccessful pull is not a problem (conditionally allow push in later version?)
+ 
+got a better idea?
+ 
+ 
+This pad was previously https://pad.okfn.org/p/cloudflare-tor (Transfer from -.? For OKFN, the * open * knowledge base is not less Whose knowledge CloudFlare's T OT cloudflared.)  
+Non-Cloudflare Torblocks here: https://pad.systemli.org/p/noncloudflare-torblocks or HTTP: //j7652k4sod2azfu6.onion/p/noncloudflare-torblocks  
+ 
+It seems, OKFN finally got the message !!! 2016/06/13. Of course, I do not propose to go back. Just Gl in the village they UNB l ocked it now .
+ 
+Cloudflare support pages on the topic:
+    https://support.cloudflare.com/hc/en-us/articles/200170096-How-do-I-turn-the-CloudFlare-captcha-challenge-page-off-
+    https://support.cloudflare.com/hc/en-us/articles/203306930-Does-CloudFlare-block-Tor- the C isne
+    https://support.cloudflare.com/hc/en-us/articles/200170056-What-is-CloudFlare-s-Ba bysic-Security-Level-
+    https://support.cloudflare.com/hc/en-us/articles/200170116-What-do-the-Threat-Scores-mean-
+ 
+Tor ticket on broader issues (found it convenient):  https://trac.torproject.org/projects/tor/ticket/18361  
+ 
+CloudFlare customers can reportedly make a CAPTCHA, less likely, by reducing their installation "The basic level of security."
+ -> We probably do not want the client to a lower level of security. We want to implement CloudFlare real security, ie one that is not based on a IP-filter .
+ 
+CloudFlare exercises option to whitelist Tor without changing the "basic level of security." Please encourage CloudFlare customers use this tool Tor whitelist while advising them that exposing readers to a giant supplier MitM is questionable practices, regardless of whitelests .
+ 
+Some websites do not block all of the output nodes. If you think that your web site to the white list the Tor, please check the many exit nodes Webiste before adding to the list of white lists.
+You can find a list of ex-CloudFlare blocks here: https://pad.systemli.org/p/ex-cloudflare-tor <- it has disappeared from - 30 days of inactivity, apparently. Someone - anyone got version ?
+ 
+! Be careful! Seeing reCAPTCHA does not mean that the site is blocked by CloudFlare. Before entering the URL of the blocked site on the list, check if the blocked page says "one more step" as the title, and has a string
+   Ray ID CloudFlare: 299472c7c9783c1d      • Your IP: 178.20.55.16 • Performance & Safety by CloudFlare      
+ at the bottom of the page.
+ Some sites use custom page CloudFlare unit. The only way to detect it is to find CloudFlare JavaScript, or Ray ID as a CAPTCHA .
+ 
+New business - model CloudFlare is gaining popularity: (-> transition to noncloudflare-torblocks)
+    www.indiegogo.com made inaccessible " distilled networks "
+    www.distilnetworks.com (which of course is also available).
+    This "bot detection" equipment. Page Block says that "anomaly detected" and asks for the name and email address / distorted.
+    "The anomaly is detected." Brave New World .
+ 
+ It is likely that many of the civil society organizations listed on this page as the CloudFlare "partners with reference to" use CloudFlare. Argh ... see discussion platform .
+ https://www.cloudflare.com/galileo/ -> https://archive.is/hoLuI
+ 
+************************************************** ***********
+* Technical evolution of the list: *
+************************************************** ***********
+ 
+Mirrors / fork of the list :
+
+upstream:
+http://j7652k4sod2azfu6.onion/p/cloudflare-tor
+ 
+forked during the seemingly multi-day outage
+http://git.vola7ileiax4ueow.onion/fuckcloudflare/cloudflare-tor/ (new, not GitHub repo) -> more durable and machine-editable list in the nice git in the near future, can also serve as an observatory distribued / basis for the browser plugin / framework for marking the search engine! but only if you use a - a reputation system ... (reputation system can help in the future, but currently there is no need for him: submit pull requests to the "official" the GitHub - repo is only need to follow the list and be honest Reach the top of the query). official GitHub is to make the score vola7 ...? 
+
+List view (apparently) domain . The TLD [<- elegant comment (s) ] 
+ 
+Tags proposal-- helpful to group sites, if we assume that this project is aimed to the black list to make any actions that get results. For example, free software projects w / ClownFucked web pages can be viewed similarly by "anti-function" tags on various free software directories. So:
+    * FLOSSp = free libre software project with open source
