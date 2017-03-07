@@ -84,6 +84,7 @@ avpixlat.info
 babelfish.com <- assholes just started using CF (oct.2016), immediately after translate.google.com became hostile bot.
 bad-dragon.com
 barackobama.com
+beatworm.co.uk
 behindthenumbers.ca
 belgbook.be
 berniesanders.com
@@ -176,6 +177,7 @@ chelseamanning.org
 chinadialogue.net
 christiaanconover.com
 christophercantwell.com
+chronicle.com
 chronicle.su
 cifiaonline.com
 cigionline.org
@@ -218,6 +220,7 @@ comingle.io
 conceptualrevolutions.com
 congress.gov
 conservativedailypost.com
+consumer-action.org
 containerops.org
 coolest-gadgets.com
 coolutils.com
@@ -298,6 +301,8 @@ dwarfpool.com
 e27.co
 e621.net
 early-retirement.org <= recently joined the CF walled garden
+ebooks-downloads.net	
+ebooksdownloads.xyz
 ebooksforfree.org
 ebooktake.in
 echtlustig.com
@@ -431,7 +436,9 @@ gotnews.com
 gottabemobile.com
 gov1.info
 gradient-animator.com
+greasespot.net
 greaterfool.ca
+greencigworld.com
 grupoandroid.com
 gsmhosting.com
 gsmphonelocator.com
@@ -481,6 +488,7 @@ hypergeeky.com
 hypothes.is
 iab.net
 iamsterdam.com
+ibooklibrary.net
 ibuzzynews.com
 iccnow.org
 ice3x.com
@@ -554,6 +562,7 @@ kappataumu.com
 kaymu.hr
 kelownanow.com
 kenoraonline.com
+kitchenstewardship.com
 klipovito.com
 klou.tt
 kodi.tv
@@ -564,6 +573,7 @@ kraken.com
 ktetch.co.uk
 kukuruku.co
 kupiprodaj.net
+kvraudio.com
 lakeofthewoods.com
 lambos.info
 lapresse.ca
@@ -590,6 +600,7 @@ libertyvps.net
 libfte.org <- Wed fteproxy.org. if cloudflared, this document does not . 
 libraries.io
 libra.tech
+lifehacker.com.au
 lintut.com
 linustechtips.com
 linuxaria.com
@@ -618,6 +629,7 @@ makerbot.com
 makercon.com
 makezine.com
 malaysianwireless.com
+markdownmail.io
 massshootingtracker.org
 mathwarehouse.com
 mcgrefer.com
@@ -659,6 +671,7 @@ multiwebconverter.com
 musalbas.com <- he shd know better
 mydigitallife.info
 mygully.com
+mytorrents.org
 nachdenkseiten.de
 nacional.hr
 nadim.computer
@@ -695,6 +708,7 @@ nteu.org.au
 nullschool.net
 numer.ai
 nuuktv.gl
+nwcbooks.com
 oanda.com <= is used officially by the Belgian government for the tax rates for FX! Taxpayers do official business should not be forced to use CloudFlare site.
 obamadecides.org
 observatorial.com
@@ -779,6 +793,7 @@ pressfreedomfoundation.org <- amazing ...
 pressprogress.ca
 pressthink.org
 primary.guide
+privacy-information.org
 prntscr.com
 proceso.com.mx
 procon.org
@@ -1108,6 +1123,7 @@ whatismyip.com
 whatsie.chat
 whatthefuckjusthappenedtoday.com
 whirlpool.net.au
+whitehouseinc.org
 whois.de
 whoismcafee.com
 whois-search.com
@@ -1135,6 +1151,7 @@ yobabooks.com
 yohost.org
 youcaring.com
 yourbittorrent.com
+yourebooklibrary.xyz
 yourlaws.ca
 youtubeinmp3.com
 yuason.com
