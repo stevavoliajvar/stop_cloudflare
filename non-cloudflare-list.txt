@@ -179,6 +179,7 @@ rockabilly-radio.net ("Access denied.  Your IP address is blacklisted.  If you f
 sabaheats.com
 safeco.com ("We're sorry, we cannot service your request at this time.  If you feel this is an error, call 800...") <= assholes keep it vague, waste our time.  Note it's an insurance company, thus interested in keeping track of where you are so they can increase rates when you move to a region w/higher premiums.
 samsung.com ("Access denied. You don't have permission to access "http://www.samsung.com/"" / 2016-10-20)
+sciencedirect.com ("A problem was encountered providing the content you requested Reference Number: 18.1c367a5c.1489330818.2078284")
 scottaaronson.com  ("Access denied.  Your IP address [85.24.215.117] is blacklisted.")
 sensis.com.au ("We have detected unusual traffic activity originating from your IP address." with Google ReCAPTCHA version 1)
 sethbaum.com ("Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department.")
