@@ -86,6 +86,7 @@ ax.com
 babelfish.com <- assholes just started using CF (oct.2016), just after translate.google.com became bot-hostile.
 bad-dragon.com
 barackobama.com
+bazil.org <- ! used by ethereum	
 beatworm.co.uk
 behindthenumbers.ca
 belgbook.be
@@ -111,6 +112,7 @@ bitcoin.it
 bitcoinmagazine.com
 bitcoinstats.com
 bitcoints.com
+bitcoinunlimited.info
 biteasy.com
 bitimart.com
 bitminter.com
@@ -1090,6 +1092,7 @@ tpo.nl
 trackingterrorism.org
 tradeking.com
 transferwise.com
+transmissionbt.com
 tronixstuff.com
 trustmeimascientist.com
 truth-out.org
@@ -1201,6 +1204,7 @@ zdziarski.com
 zell-weekeat.com
 zenmate.com
 zeropaid.com
+zfacts.com
 znanost.com
 zoominfo.com
 ztrela.com
