@@ -452,6 +452,7 @@ gsmphonelocator.com
 guiminer.org
 gulli.com
 guttmacher.org
+guwsmedical.info
 guya.net
 gzdgzu.com
 hackerboards.com
@@ -567,6 +568,7 @@ jquery.com
 junkee.com
 justanswer.com
 jvns.ca
+kajsotala.fi
 kapaljka.com
 kappataumu.com
 kaymu.hr
@@ -701,6 +703,7 @@ ncsa.nationbuilder.com
 nemchina.com
 nesta.org.uk
 netnerds.net
+netty.io
 neurosky.com
 newsbtc.com
 newsfeed.ph
@@ -789,6 +792,7 @@ pingdom.com
 pirateparty.org.au 
 pixelbeat.org
 plannedparenthood.org
+playframework.com
 playrust.com
 pleated-jeans.com
 plenteousveg.com
@@ -826,6 +830,7 @@ proxyserver.pk
 proxysite.com
 proxytorrent.nl
 pryrepl.org
+psiphon.ca
 psx-scene.com
 psychcentral.com
 psypopubpub.org <= Snowden is part of the work "published" on this sitest.org
@@ -916,6 +921,7 @@ scirra.com
 scitechdaily.com
 s ckt.co
 sckt.co
+scoopwhoop.com
 search-id.com
 s ecurity.nl
 security.nl
@@ -978,6 +984,7 @@ sskaje.me
 start.1password.com (just sign up, and not the entire website breaks through Tor registration)
 startjoin.com
 state.io
+status.im
 steem.network
 stevens.edu
 steynonline.com
@@ -1036,6 +1043,7 @@ thefreethoughtproject.com
 thefreethoughtproject.com <= URL - the address points to the falsity. Hypocritical sites should be labeled as such, and are likely to be treated specially.
 thegatewaypundit.com
 thehackernews.com
+thehardtimes.net
 thehornnews.com
 theindependent.sg
 theinfosphere.org
@@ -1124,6 +1132,7 @@ usklicnik.com
 usuncut.com
 utopia.de
 vancouverobserver.com
+vanwinkles.com
 vendicalapace.net
 vessenes.com
 vgy.me
@@ -1199,6 +1208,7 @@ youtubeinmp3.com
 yuason.com
 zadovoljna.hr
 zaufanatrzeciastrona.pl
+zcoin.io
 zcomm.org
 zdziarski.com
 zell-weekeat.com
