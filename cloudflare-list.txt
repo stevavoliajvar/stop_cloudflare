@@ -1,5 +1,6 @@
 10minutemail.com <- oh no! mailinator.com and maildrop.cc too. there's guerrillamail.com and getairmail.com w/o clownflare.
 131001.net
+131002.net
 1337x.to
 1broker.com
 21.co 
@@ -21,6 +22,7 @@ adbusters.org
 adguard.com
 adminsub.net
 adnauseam.io
+aerospace.org
 afd-gold.de
 affect3d.com
 afrizap.com
@@ -115,6 +117,7 @@ bitcoints.com
 bitcoinunlimited.info
 biteasy.com
 bitimart.com
+bitinfocharts.com
 bitminter.com
 bitpay.com <= torproject uses the slimeballs < https://trac.torproject.org/projects/tor/ticket/18911 >, along with Paypal, and just keep the fools still feed them.
 bitquick.co
@@ -133,6 +136,7 @@ blog.rtlwilson.com
 Blogs.com - it does not seem to use the tool blacklist the CloudFlare, - no more catpcha, no way to get access to the web - site "The owner of this website (blogs.com) did not forbid a country or region, your IP - address is in ( TOR) from access to this site. "
 bluenote.io
 bmj.com
+bobdylan.com
 bookfeeder.com
 bookfi.org
 bostonreview.net
@@ -263,6 +267,7 @@ databreaches.net
 davidicke.com
 dazzleships.net
 dcclothesline.com
+dc.gov
 decentsecurity.com <= bit disappointing twtr user @SwiftOnSecurity uses CF
 decryptedmatrix.com
 deepdotweb.com
@@ -472,6 +477,7 @@ havelockinvestments.com
 h dz.hr
 hdz.hr
 healtheternally.com
+hegel.net
 highcharts.com
 historyguy.com
 historylearningsite.co.uk
@@ -699,10 +705,12 @@ nationalreview.com
 nation.co.ke
 nationstates.net
 naturallysuperior.com
+natura-sciences.com
 ncsa.nationbuilder.com
 nemchina.com
 nesta.org.uk
 netnerds.net
+netroby.com
 netty.io
 neurosky.com
 newsbtc.com
@@ -738,6 +746,7 @@ onegreenplanet.org
 oneplus.net
 online-literature.com
 ontology.co
+openai.com
 openbitcoinprivacyproject.org
 openchain.org
 opencryptoaudit.org
@@ -843,6 +852,7 @@ putintrump.org
 putoholicari.com
 puu.sh
 pythonforengineers.com
+qnalist.com
 qnrq.se
 qsaudi.com
 quantamagazine.org
