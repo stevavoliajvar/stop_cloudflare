@@ -111,6 +111,7 @@ bitcoin.de
 bitcoinfoundation.org
 bitcoinist.net
 bitcoin.it
+bitcoinjs.org  <- bitcoin companies should not have MiTMs guarding them.  That's just asking to compromise your users, especially when javascript is involved.
 bitcoinmagazine.com
 bitcoinstats.com
 bitcoints.com
@@ -123,6 +124,7 @@ bitpay.com <= torproject uses the slimeballs < https://trac.torproject.org/proje
 bitquick.co
 bitsharestalk.org
 bitsofco.de
+bitwala.io
 bizpacreview.com
 blackhat.com
 blockchain.com
@@ -550,6 +552,7 @@ islamtoday.net
 islamtomorrow.com
 Islam-watch.org
 islam-watch.org
+isohunt.to
 ispace.hr
 itradesecurity.com
 itsfoss.com
@@ -568,6 +571,7 @@ jlm2017.fr
 johndcook.com
 johnmcostaiii.net
 johnpilger.com
+jonasoberg.net
 jotform.com
 journals.cambridge.org
 jquery.com
@@ -677,6 +681,7 @@ mnx.io
 mochahost.com
 modeling-languages.com
 modernfarmer.com
+monerolink.com
 moquet.net
 moscow.sci-hub.io (only subdomains?)
 movecommons.org
@@ -800,6 +805,7 @@ pic-upload.de <= a pastebin-like site but for images. Alternative site: imgur
 pingdom.com
 pirateparty.org.au 
 pixelbeat.org
+planetnatural.com
 plannedparenthood.org
 playframework.com
 playrust.com
@@ -842,6 +848,7 @@ pryrepl.org
 psiphon.ca
 psx-scene.com
 psychcentral.com
+psychotherapy.net
 psypopubpub.org <= Snowden is part of the work "published" on this sitest.org
 psypost.org
 publicdomainreview.org
@@ -874,6 +881,7 @@ randomshouting.com
 ratemds.com
 ratemds.co m
 r-bloggers.com
+rcpsych.org
 reactiongifs.com
 readbag.com
 reader.fr
@@ -973,6 +981,7 @@ slate.fr
 slaveryfootprint.org
 slike.com
 slock.it
+slowtorrent.com
 slushpool.com
 smartinsights.com
 sminkerica.com
@@ -1102,6 +1111,7 @@ tinyurl.com
 t-nation.com
 todayszaman.com
 topix.com
+topkickass.com
 tor.com
 torontocrypto.org
 torrenthulkx.com
@@ -1206,6 +1216,7 @@ xato.net
 xda-university.com
 xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good
 xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good -> discussion page
+xmovies8.ru
 x-true.info
 yatse.tv
 yobabooks.com
