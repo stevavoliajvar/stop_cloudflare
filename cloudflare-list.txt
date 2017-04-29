@@ -306,6 +306,7 @@ douglasvanbossuyt.com
 downloader-apk.com
 doximity.com
 drakulastream.eu
+drawnandquarterly.com
 dreamwidth.org
 drewherring.net
 drmaciver.com
@@ -453,11 +454,13 @@ gradient-animator.com
 greasespot.net
 greaterfool.ca
 greencigworld.com
+groovypost.com
 grupoandroid.com
 gsmhosting.com
 gsmphonelocator.com
 guiminer.org
 gulli.com
+gurufocus.com	
 guttmacher.org
 guwsmedical.info
 guya.net
@@ -726,6 +729,7 @@ nimportequi.com
 nknews.org
 nofilmschool.com
 nomadcapitalist.com
+nonprofitquarterly.org
 notalwaysright.com
 not avaaz.org <- contacted in December 2015 in the form (stated as a technical problem), no response is no response, no change
 novacrystallis.com
@@ -953,6 +957,7 @@ sgtreport.com
 shapeshift.io <= bitcoin exchange. We should be publicly ridculing bitcoin companies that use CloudFlare because people's money is at risk (exposed to MitM).  The danger w/btc over CloudFlare is substantial.
 shapeshift.io <= bitcoin exchange. We should be publicly ridculing bitcoin companies that use CloudFlare because people's money is at risk (exposed to MitM).  The danger w/btc over CloudFlare is substantial. ~> discussion page
 shapeshift.io <= Bitcoin exchange. We should be publicly ridculing Bitcoin companies that use the CloudFlare, because the money people at risk (exposed MiTM). Danger w / BTC on CloudFlare is essential. ~> Discussion Page
+shared.com
 shark-tank.com
 shodanhq.com
 shodan.io
@@ -1005,10 +1010,12 @@ startjoin.com
 state.io
 status.im
 steem.network
+stellar.org
 stevens.edu
 steynonline.com
 s they onsfoundation.org
 stopthecap.com
+stratusly.com
 strawpoll.me
 studentsforliberty.org
 stuffdutchpeoplelike.com
@@ -1130,12 +1137,14 @@ tutsplus.com
 twib.in
 twitchy.com
 ubitquity.io
+ultraculture.org
 ultraimg.com <= pic-upload.de alternative also CfD
 ummah.com
 unhypem.com
 unicornriot.ninja
 unixmen.com
 uphold.com
+uport.me
 upwork.com
 urbanintellectuals.com
 urbanist-magazin.de
@@ -1212,6 +1221,7 @@ wrongisland.org
 www.atheistrepublic.com
 www.geekfill.com
 www.sciencebasedmedicine.org
+xapo.com
 xato.net
 xda-university.com
 xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good
