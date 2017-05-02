@@ -88,6 +88,7 @@ dluat.com ("You don't have permission to access /on this server. Additionally, a
 drbl.org/ (Access denied. Your IP address [5.9.36.66] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.)
 dslreports.com
 element14.com
+expedia.fr ("You don't have permission to access ..." 2017-03-17)
 foro.elhacker.net (reCAPTCHA)
 ello.co ("Your recent actions have triggered our force field to protect Ello from online attacks. ")
 entomologicalphilosopher.com ( Access denied.  Your IP address [35.0.127.52] is blacklisted. )
@@ -95,7 +96,6 @@ emeraldinsight.com ( The IP address of 5.135.158.101 has not been recognised to 
 ericerfanian.com
 ethicalhacking.com
 expedia.de ("Access Denied") (probably some nodes only)
-expedia.fr ("You don't have permission to access ..." 2017-03-17)
 experts-exchange.com
 expo2015.org (403, text about "security rules") <-- wow, accessible from all? exits as of 2016/01/25!!!
 ezinearticles.com ("It appears that you are using Tor anonymizing software.  No problem! We just need you to enter a Captcha so we can confirm that you're not a person and not a bot") (need to enable javascript or captcha won't work)
@@ -110,8 +110,8 @@ forums.whirlpool.net.au/ (Access to whirlpool.net.au from this location has been
 foxnews.com (blocks all exits, as well as archive.is. you can use archive.org/web/ to take a snapshot if you really want to read foxnews )
 cc.gatech.edu (timeout. baseline?)
 gchq.gov.uk (timeout)
-geizhals.at ("Sorry - 429 Too Fast, you are temporarily banned An automated system has detected atypical patterns in traffic originating from from you or the network you are using. To be able to provide our service to all users, your access will be temporarily denied." / 2017-04-15)
 gemal.dk ("Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department.")
+geizhals.at ("Sorry - 429 Too Fast, you are temporarily banned An automated system has detected atypical patterns in traffic originating from from you or the network you are using. To be able to provide our service to all users, your access will be temporarily denied." / 2017-04-15)
 godlikeproductions.com ("your ip address is banned from this website")
 google.com (some exits sometimes, sometimes with solvable captchas, sometimes with unsolvable captchas) <= also more disclosure required for signups (e.g. mobile number submission cannot be skipped)
 images.google.com (when doing a reverse image search)
@@ -120,17 +120,17 @@ hackedbellini.org
 harbin.org ("blacklisted" sep 24)
 adsabs.harvard.edu (project Honeytrap)
 hot-topic.co.nz (403 on tor "You do not have permission to access this server. Before trying again, run anti-virus and anti-spyware software and remove any viruses and spyware from your computer." 2015-09-15)
-hotel.de ("You don't have permission to access "http://www.hotel.de/" on this server." / 2017-04-07)
 hrs.de (You don't have permission to access "http://www.hrs.de/" on this server. / 2016-08-11)
+hotel.de ("You don't have permission to access "http://www.hotel.de/" on this server." / 2017-04-07)
 hubpages.com/ ("403 Forbidden" / 2015-09-10)
 ietf.org/ (Error 1006 Ray ID: 2323edfb980c23d2 • 2015-10-08 18:32:38 UTCAccess denied \r What happened? The owner of this website (www.ietf.org) has banned your IP address (209.66.119.150).) (This IS cloudflare, but not the usual CAPTCHA wielding block. seems to work as of 10/23) still happens as of 2016/02/24 from 158.130.0.242 in this instance
 ioerror.us
-informationclearinghouse.info
 interactivebrokers.com <= directly and deliberately blocks tor (and apparently anything that looks like an anonymizer)
 imgur.com/memegen (uploading from tor disabled)
 internetslang.com/ (some exits only)
 ioerror.us/bb2-support-key?key=6da3-ea02-2b02-1b1f
 ipetitions.com (Forbidden You don't have permission to access /on this server.)
+informationclearinghouse.info
 islam-universe.com (Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department.)
 iswwwup.com 
 keyweb.de <- noticed this as a customer. complained to support because they host some of my Tor nodes and suddenly, the FAQ was inaccessible ... and this sends a very mixed signal. they failed to understand that Tor blocks are Not Done & unprofessional but reassured me that the other services are unaffected.
@@ -177,7 +177,7 @@ peacock-panache.com ( "if you feel this is in error..." )
 planetary.org ("Not Implemented  Tor IP not allowed" (well fuck you ...))
 phdcomics.com ("The requested URL was rejected." Hosted through carrierzone.com)
 poleconanalysis.org
-popsci.com (ip listed in the StopForumSpam.com database) 2016-10-28 block still active
+popsci.com (ip listed in the StopForumSpam.com database) 2016-12-14 block still active
 Porsche Com ("You don't have permission to access "(...)porsche.com/" on this server." |  (...)porsche.de redirects to porsche.com/germany) / 2015-09-09) works 2016/03 Nope. Still blocked 2016-04-03 -10-28
 (psycnet.)apa.org ("Access To Website Blocked")
 qantas.com.au still blocked 2016-10-28
@@ -186,21 +186,20 @@ rockabilly-radio.net ("Access denied.  Your IP address is blacklisted.  If you f
 sabaheats.com
 safeco.com ("We're sorry, we cannot service your request at this time.  If you feel this is an error, call 800...") <= assholes keep it vague, waste our time.  Note it's an insurance company, thus interested in keeping track of where you are so they can increase rates when you move to a region w/higher premiums.
 samsung.com ("Access denied. You don't have permission to access "http://www.samsung.com/"" / 2016-10-20)
-sciencedirect.com ("A problem was encountered providing the content you requested Reference Number: 18.1c367a5c.1489330818.2078284")
 scottaaronson.com  ("Access denied.  Your IP address [85.24.215.117] is blacklisted.")
 sensis.com.au ("We have detected unusual traffic activity originating from your IP address." with Google ReCAPTCHA version 1)
 sethbaum.com ("Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department.")
 shuttleworthfoundation.org (75% of the time outright blocks any access)
 sinfest.net ("The requested URL was rejected."  Hosted through carrierzone.com)
-singpolyma.net ("Error 403")
+singpolyma.net ("Error 403"
 slashdot.org ("banned")
 sncb.be (timeout) <= Belgian rail system recently started blocking Tor in the most hostile manner possible. They make no statement and just drop packets, leaving tor users to wait forever until they give up. <rant>great. so in the brave new world "public utilities" now start to silently and as a matter of course discriminate against privacy conscious users on the net. Deutsche Bahn interrupts connection once you go to the ticket reservation page - the love story between railways and surveillance runs deep: the data collection and most of all the execrable CCTV infestation, even inside new trains. all of this would make a great headline: privacy gets thrown under the train as formerly free societies submit to total surveillance.</rant>
 statuspage.io/ (Your IP address 149.202.98.160 has been flagged as a scanner. Scanners are not permitted. If you are seeing this message in error, please contact security@statuspage.io.)
+stefanv.com/electronics/ (Error 403; We're sorry, but we could not fulfill your request for /electronics/usb_charger.html on this server.; You do not have permission to access this server. Before trying again, run anti-virus and anti-spyware software and remove any viruses and spyware from your computer. ;  Your technical support key is: ab19-c14e-2b02-1b1f; You can use this key to fix this problem yourself.; If you are unable to fix the problem yourself, please contact stefan at capable.ca and be sure to provide the technical support key shown above. -> same as linuxquestions.org and ioerror.us)
+stepstone.de ("You don't have permission to access "..." on this server." / some exits / 2017-02-18)
 snowbirds.org/ (The requested URL was rejected. Your support ID is: 10851284974681727906w)
 sony.de (You don't have permission to access "http://www.sony.de/" on this server. Reference # ... / same story with different exit nodes) 
 spamhaus.org (reCaptcha)
-stefanv.com/electronics/ (Error 403; We're sorry, but we could not fulfill your request for /electronics/usb_charger.html on this server.; You do not have permission to access this server. Before trying again, run anti-virus and anti-spyware software and remove any viruses and spyware from your computer. ;  Your technical support key is: ab19-c14e-2b02-1b1f; You can use this key to fix this problem yourself.; If you are unable to fix the problem yourself, please contact stefan at capable.ca and be sure to provide the technical support key shown above. -> same as linuxquestions.org and ioerror.us)
-stepstone.de ("You don't have permission to access "..." on this server." / some exits / 2017-02-18)
 sueddeutsche.de ("The connection was refused when attempting to contact www.sueddeutsche.de" / 2016-04-03) accessible from 3/3 exits 04-22
 support.apple.com (Also blocks Tor non-exit relay IPs)
 svictor.net
@@ -229,17 +228,17 @@ videotrazilica.com
 ricarica.vodafone.it (only that subdomain; also from relays!?)
 unc.edu ("The request was rejected. ")
 vpforums.org/  ("As of March 8th, 2011, VPForums.org is blocking the use of proxies." / reading OK but account creation is not)
-walmart.com (Access Denied You don't have permission to access "http://www.walmart.com/" on this server. Reference #...) <= sometimes.  If you get lucky, and place an order over tor, the bastards later silently cancel the order without notice or reason.  Be sure to report "false advertising" to consumer protection orgs when that happens. WHAT! that's a new low. another reason to curse their nonexistent souls that's "security" of the brave new world for you. if you don't meet expectation of normalcy, you can be quietly discarded.
+walmart.com (Access Denied You don't have permission to access "http://www.walmart.com/" on this server. Reference #...) <= sometimes.  If you get lucky, and place an order over tor, the bastards later silently cancel the order without notice or reason.  Be sure to report "false advertising" to consumer protection orgs when that happens. WHAT! that's a new low. another reason to curse their nonexistent souls that's "security" of the brave new world for you. if you don't meet expectation of normalcy, you can be quietly discarded. 
 wayfair.com ("Access denied. You don't have permission to access 'http://www.wayfair.com'" / 2017-01-03)
-wbai.org (this seems to have been a one-time thing, maybe they are only blocking one exit	 )
-whatthefuckshouldimakefordinner.com/index.php (Access denied. Your IP address [163.172.223.200] is blacklisted. If you feel this is in error please contact your hosting providers abuse department)
-wigle.net/ (403 Forbidden / (nginx) 2016-12-04)
+wbai.org ("Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department.")
+wigle.net/ (403 Forbidden / 2016-12-04)
 wiki.debian.org (Forbidden <p>You are not allowed to access this!</p>)
 wikidevi.com (Error 403 (451 more like ...). Your technical support key is: ...)
 witopia.net (error 403) <= we shouldn't care, this is a nanny VPN anyway
 weforum.org (Access Denied You don't have permission to access ...)
 whiterose.samizdata.net
 whoismcafee.com/
+wigle.net (403 forbidden (nginx))
 wikipedia.org (allows reading but blocks edits,)
 woz.ch (worrying & ironic trend? newspapers censoring their content for viewers who use censorship circumvention tools ~ remedy: use archive.is)
 www.csebanking.it (Connection timeout. I'm running a non-exit relay)
@@ -250,7 +249,6 @@ yelp.com (all exits)
 davidmburke.com
 youbetrayedus.org
 philosophybasics.com (oddly philosophybasics.com works)
-whatthefuckshouldimakefordinner.com/index.php (Access denied. Your IP address [163.172.223.200] is blacklisted. If you feel this is in error please contact your hosting providers abuse department)
 forums.whirlpool.net.au (“Access to whirlpool.net.au from this location has been restricted due to suspicious activity.” which is the only response even if you just try to GET/read something there.)
 zara.com
 
