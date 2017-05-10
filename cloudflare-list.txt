@@ -1,10 +1,3 @@
-ansonalex.com
-cyberciti.biz
-reverbpress.com
-thepiratebay.bid
-beinglibertarian.com
-moneyweb.co.za
-hotfrog.ca
 10minutemail.com <- oh no! mailinator.com and maildrop.cc too. there's guerrillamail.com and getairmail.com w/o clownflare.
 131001.net
 131002.net
@@ -62,6 +55,7 @@ anonimg.com
 anonmgur.com
 anonops.com
 anony.ws
+ansonalex.com
 answersingenesis.org
 anxbtc.com
 anydayguide.com
@@ -98,6 +92,7 @@ barackobama.com
 bazil.org <- ! used by ethereum	
 beatworm.co.uk
 behindthenumbers.ca
+beinglibertarian.com
 belgbook.be
 berniesanders.com
 bescherelletamere.fr
@@ -261,6 +256,7 @@ currentresults.com
 customize.org
 cyanogenmod.org
 cyberbunker.com
+cyberciti.biz
 cyber.sci-hub.io (see above?)
 dailycaller.com
 dailystormer.com
@@ -280,6 +276,7 @@ dc.gov
 decentsecurity.com <= bit disappointing twtr user @SwiftOnSecurity uses CF
 decryptedmatrix.com
 deepdotweb.com
+defense-update.com
 defoo.org
 designboom.com
 desmogblog.com
@@ -295,6 +292,7 @@ digitalocean.com
 digitalpoint.com
 diken.com.tr
 djm.org.uk
+dlapiper.com
 dmagazine.com
 dnevnik.hr
 dnevno.hr
@@ -422,6 +420,7 @@ gatesoneinstitute.org
 gatestoneinstitute.org
 gay.hr
 gaynewsnetwork.com.au
+gaystarnews.com
 gdax.com
 gdssecurity.com
 geek.hr
@@ -503,6 +502,7 @@ hokstad.com
 holytransaction.com
 hookers.nl
 host.org
+hotfrog.ca
 howmanydayssincehumanityburnedawitch.com (this is brand new, there's no excuse)
 howtoforge.com
 hrvatskinamjestaj.hr
@@ -536,6 +536,7 @@ index.hr
 infacts.org
 inference.vc
 infosecisland.com
+instituteforenergyresearch.org
 intagme.com
 interasistmen.se
 interledger.org
@@ -692,6 +693,7 @@ mochahost.com
 modeling-languages.com
 modernfarmer.com
 monerolink.com
+moneyweb.co.za
 moquet.net
 moscow.sci-hub.io (only subdomains?)
 movecommons.org
@@ -912,6 +914,7 @@ republicains.fr
 resetthenet.org
 resistancemanual.org
 retrospring.net
+reverbpress.com
 revleft.com
 rexresearch.com
 richarddawkins.net
@@ -1035,6 +1038,7 @@ swiftsocial.com
 swiss-miss.com
 syllable.org
 symmetrymagazine.org
+synfig.org
 t24.com.tr
 t411.in
 tafttest.com
@@ -1090,6 +1094,7 @@ themindunleashed.org
 thenubbyadmin.com
 theodi.org
 the-orbit.net
+thepiratebay.bid
 thepiratebay.casa
 thepiratebay.org
 thepiratebay.se
