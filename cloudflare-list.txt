@@ -37,6 +37,7 @@ alislam.org
 al-kanz.org
 allaboutcircuits.com
 almasdarnews.com
+alphabaymarket.net
 alphabeatic.com
 alternativeto.net
 alternet.org
@@ -219,6 +220,7 @@ coinm ama.com
 coinmama.com
 coinm arketcap.com
 coinmarketcap.com
+coinreport.net
 cointelegraph.com
 coinworker.com
 collective-evolution.com
@@ -348,6 +350,7 @@ euri.ca
 evasi0n.com
 eventhelix.com
 exoticvps.com
+expatsingapore.com
 expertboxing.com
 explainxkcd.com
 exploit-exercises.com
@@ -407,6 +410,7 @@ frontlineclub.com
 frontpagemag.com
 fteproxy.org
 fteproxy.org <- EEK! beyond ironic. cloudflare mildew inside the Tor software ecosystem. this is a censorship circumvention tool to be used with Tor and guess what? their fucking HOMEPAGE is clownflared!!!! SOMEONE EDUCATE THESE PEOPLE PLEASE! was about to rejoice because libFTE seems to supersede it? but guess what libfte.org is CLOWNFLARED TOO! to coin a meme: if it's cloudflared, it ain't documentation. if a FLOSS project's homepage is cloudflared, it's not a homepage but a joke.
+fuelly.com
 fuirestunepulsion.net
 full-stop.net
 funkyimg.com <= pic-upload.de alternative also CFd
@@ -431,6 +435,7 @@ getgb.io
 getglue.com
 gethue.com
 geve.rs
+ghost.io
 ghost.org
 giaynam.co
 gigahype.com
@@ -595,6 +600,7 @@ kappataumu.com
 kaymu.hr
 kelownanow.com
 kenoraonline.com
+kim.com
 kitchenstewardship.com
 klipovito.com
 klou.tt
@@ -607,6 +613,7 @@ ktetch.co.uk
 kukuruku.co
 kupiprodaj.net
 kvraudio.com
+ladbible.com
 lakeofthewoods.com
 lambos.info
 lapresse.ca
@@ -1067,6 +1074,7 @@ tezos.com
 theahafoundation.org
 theamericanconservative.com
 thebronasium.com
+thecarconnection.com
 thedailybeast.com
 theden.tv
 the-digital-reader.com
