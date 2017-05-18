@@ -22,6 +22,7 @@ adbusters.org
 adguard.com
 adminsub.net
 adnauseam.io
+advocate.com
 aerospace.org
 afd-gold.de
 affect3d.com
@@ -116,6 +117,7 @@ bitcoinist.net
 bitcoin.it
 bitcoinjs.org  <- bitcoin companies should not have MiTMs guarding them.  That's just asking to compromise your users, especially when javascript is involved.
 bitcoinmagazine.com
+bitcoinqueue.com
 bitcoinstats.com
 bitcoints.com
 bitcoinunlimited.info
@@ -898,6 +900,7 @@ rainbowdash.net
 ralsina.me
 randalolson.com
 randomshouting.com
+rastinmehr.com
 ratemds.com
 ratemds.co m
 r-bloggers.com
@@ -1039,6 +1042,7 @@ stuffdutchpeoplelike.com
 suborbital-systems.net
 sunnahonline.com
 support.cisco.com
+supportforums.cisco.com
 swappa.com <= a list of devices with a free pre-installed OSs. If you find a replacement site for this information, please refresh this wiki => https://libreplanet.org/wiki/Group:Giving_Guide_2012#Hardware
 swft.so (swiftsocial.com URL Shortener)
 swiftsocial.com
@@ -1099,6 +1103,7 @@ themanual.org
 themerkle.com
 themighty.com
 themindunleashed.org
+thenorthstar.info
 thenubbyadmin.com
 theodi.org
 the-orbit.net
@@ -1170,6 +1175,7 @@ urlsinfo.com
 usafreedom.fail
 usbccompliant.com
 usbkill.com
+usconstitution.net
 uservoice.com
 u-s-history.com
 us-history.com
