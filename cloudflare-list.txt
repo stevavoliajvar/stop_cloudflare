@@ -122,6 +122,7 @@ bitcoinstats.com
 bitcoints.com
 bitcoinunlimited.info
 biteasy.com
+bitfinex.com
 bitimart.com
 bitinfocharts.com
 bitminter.com
@@ -222,6 +223,7 @@ coinm ama.com
 coinmama.com
 coinm arketcap.com
 coinmarketcap.com
+coinone.co.kr
 coinreport.net
 cointelegraph.com
 coinworker.com
@@ -334,6 +336,7 @@ electronicintifada.net
 elementary.io
 elementaryos.org
 elephantjournal.com
+elysium-project.org
 encyclopediadramatica.se
 endingthefed.com
 enewspf.com
@@ -422,6 +425,7 @@ futurism.com
 fxopen.com
 gab.ai
 gapminder.org
+gatehub.net
 gatesoneinstitute.org
 gatestoneinstitute.org
 gay.hr
@@ -608,6 +612,7 @@ klipovito.com
 klou.tt
 kodi.tv
 kodi.wiki
+korbit.co.kr
 kowalczyk.info
 kpfk.org
 kraken.com
@@ -647,6 +652,7 @@ lifehacker.com.au
 lintut.com
 linustechtips.com
 linuxaria.com
+linuxhospital.com
 linuxine.com
 linuxluigi.com
 linuxnix.com
@@ -838,7 +844,9 @@ pokemonshowdown.com
 pokerpro.cc
 politicsbreaking.com
 poljoprivredni-forum.com
+poloniex.com <- custom page: ONE MORE STEP
 pony.town
+populationpyramid.net
 postimage.org <= pic-upload.de alternative also CFd
 postpartumprogress.com
 prado.it
@@ -884,6 +892,7 @@ pythonforengineers.com
 qnalist.com
 qnrq.se
 qsaudi.com
+quadrigacx.com
 quantamagazine.org
 qubes-os.org
 qubes-os.org no longer 2016/08
@@ -892,6 +901,7 @@ queerty.com
 quilljs.com
 quizlet.com <= used by (naive) teachers.. not good to have cloudflare blocking educational material
 quizzstar.com
+quoinex.com
 qwertee.com
 qzzr.com
 racket-lang.org
@@ -1270,5 +1280,6 @@ zenmate.com
 zeropaid.com
 zfacts.com
 znanost.com
+zoomerradio.ca
 zoominfo.com
 ztrela.com
