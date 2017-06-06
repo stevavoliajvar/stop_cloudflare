@@ -23,6 +23,7 @@ adguard.com
 adminsub.net
 adnauseam.io
 advocate.com
+aei.org
 aerospace.org
 afd-gold.de
 affect3d.com
@@ -130,9 +131,11 @@ bitpay.com <= torproject uses the slimeballs < https://trac.torproject.org/proje
 bitquick.co
 bitsharestalk.org
 bitsofco.de
+bittylicious.com <- custom page
 bitwala.io
 bizpacreview.com
 blackhat.com
+bleutrade.com
 blockchain.com
 blockexplorer.com
 blocktrail.com
@@ -150,8 +153,10 @@ bookfi.org
 bostonreview.net
 bradleymanning.org
 brain-magazine.fr
+brainyquote.com
 breakinggov.com
 brickinstructions.com
+btc-alpha.com
 btc-e.com
 btcmarkets.net
 btdigg.org
@@ -278,6 +283,7 @@ dash.org <- alternative cryptocurrency
 daskapital.nl
 databreaches.net
 davidicke.com
+daysoftheyear.com
 dazzleships.net
 dcclothesline.com
 dc.gov
@@ -421,6 +427,7 @@ fteproxy.org <- EEK! beyond ironic. cloudflare mildew inside the Tor software ec
 fuelly.com
 fuirestunepulsion.net
 full-stop.net
+funintel.com
 funkyimg.com <= pic-upload.de alternative also CFd
 funny-pictures-blog.com
 futureoflife.org
@@ -661,6 +668,7 @@ linuxluigi.com
 linuxnix.com
 linuxveda.com
 linuxvoice.com
+liqui.io
 livesoccertv.com
 liveuamap.com
 lkml.org
@@ -1175,6 +1183,7 @@ turnkeylinux.org
 tutsplus.com
 twib.in
 twitchy.com
+typepad.com
 ubitquity.io
 ukpollingreport.co.uk
 ultraculture.org
@@ -1257,6 +1266,7 @@ wireshark.org <- if it's cloudflared, it ain't documentation.
 without-systemd.org
 wmgk.com
 w Odan.Io
+worldcoinindex.com
 worldofislam.info
 wrongisland.org
 www.atheistrepublic.com
