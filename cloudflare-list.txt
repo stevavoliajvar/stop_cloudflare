@@ -232,6 +232,7 @@ collectivelyconscious.net
 comingle.io
 conceptualrevolutions.com
 congress.gov
+conservative.ca <- was there any doubt?  US corporation behind the domain name.
 conservativedailypost.com
 consumer-action.org
 containerops.org
@@ -239,6 +240,7 @@ coolest-gadgets.com
 coolutils.com
 corda.net 
 coshx.com
+coursehero.com
 crackedlabs.org
 creativecommons.org
 crometeo.hr
@@ -321,6 +323,7 @@ drawnandquarterly.com
 dreamwidth.org
 drewherring.net
 drmaciver.com
+duffelblog.com
 dwapi.com
 dwarfpool.com
 e27.co
@@ -659,6 +662,7 @@ linuxnix.com
 linuxveda.com
 linuxvoice.com
 livesoccertv.com
+liveuamap.com
 lkml.org
 localbitcoins.com (impacts ohiobitcoin.com b/c they outsource to localbitcoins.com)
 localtimes.info
@@ -737,6 +741,7 @@ nationalreview.com
 nation.co.ke
 nationstates.net
 naturallysuperior.com
+naturalsociety.com
 natura-sciences.com
 ncsa.nationbuilder.com
 nemchina.com
@@ -811,8 +816,6 @@ passportindex.org
 pastebin.com <= there is abundant alternative to Pastebin, therefore promoting alternatives better than trying to turn Pastebin
 pastehtml.com (only the homepage is CloudFlared - internal pages on the same domain are not CF'd - e.g.http://pastehtml.com/view/bscbw9x5i.html) If someone knows of alternatives to pastehtml please mention them here
 paticik.com
-patreon.com
-patreon.com <- a great "platform" all does not mean, and that is not using HTTPS and clownflared? go to fuck yourself, it's fucking 2016
 patreon.com <- the great "platform" everyone's talking about and what, no https and clownflared? go FUCK yourselves, this is fucking 2016
 patrikagroup.in
 paxful.com
@@ -849,6 +852,7 @@ pony.town
 populationpyramid.net
 postimage.org <= pic-upload.de alternative also CFd
 postpartumprogress.com
+powerlineblog.com
 prado.it
 prairiedogmag.com
 preciousplastic.com
@@ -1048,6 +1052,7 @@ stopthecap.com
 stratusly.com
 strawpoll.me
 studentsforliberty.org
+studypool.com
 stuffdutchpeoplelike.com
 suborbital-systems.net
 sunnahonline.com
@@ -1133,6 +1138,7 @@ thestockmarketwatch.com
 theswiftcodes.com
 thetower.org	
 thetrendythings.com
+thetruthdivision.com
 theturkishsun.com
 thevintagenews.com
 thewalrus.ca
@@ -1153,6 +1159,7 @@ topix.com
 topkickass.com
 tor.com
 torontocrypto.org
+tororango.com
 torrenthulkx.com
 torrentr.eu
 tpo.nl
@@ -1169,6 +1176,7 @@ tutsplus.com
 twib.in
 twitchy.com
 ubitquity.io
+ukpollingreport.co.uk
 ultraculture.org
 ultraimg.com <= pic-upload.de alternative also CfD
 ummah.com
