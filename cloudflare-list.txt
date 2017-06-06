@@ -310,15 +310,11 @@ dlapiper.com
 dmagazine.com
 dnevnik.hr
 dnevno.hr
-docs.ansible.com
 docs.ansible.com remember the dictum: if it's cloudflared, it ain't documentation ... "automation for everyone" my foot
-docs.ansible.com remember the saying: if cloudflared, this documentation is not ... "automation for all" my leg <= does not seem that this is no longer cloudflared (tested 07.01.2017)
 documentaryheaven.com
 documentup.com
 domino.roilipman.com
-donaldjtrump.com <= rightly so!  Keep that asshole in his walled-garden with custom CloudFlare block.  Perhaps Torproject should redirect to the site with that photomosaic of cocks that produce Trumps pic :)
 donaldjtrump.com <= rightly so!  Keep that asshole in his walled-garden with custom CloudFlare block.  Perhaps Torproject should redirect to the site with that photomosaic of cocks that produce Trumps pic :) when that gets elected, it's moot ayway cause what u need then is not Tor, but a nuclear-proof bunker ...
-donaldjtrump.com <= this is correct! Keep this in his ass fenced garden with custom CloudFlare unit. Perhaps, Torproject should be redirected to a site with this photomosaic roosters that produce trumps pic :) when it gets elected, this is a moot point ayway reason that you need and then not the Tor, but proof of a nuclear bunker ...
 dontbreakourphones.org
 donttrustcable.com
 douglasvanbossuyt.com
@@ -799,9 +795,7 @@ opencryptoaudit.org
 opendime.com
 opendyslexic.org
 openruby.com
-opensecrets.org
 opensecrets.org <= dipshit hypocrits bitched when they were denied access to the Republican National Convention, yet they use CF to block the people accessing their content.
-opensecrets.org <= dipshit hypocrits bitch when they were denied access to the National Republican Convention, but they use CF to block people's access to their content.
 opensourceecology.org
 opentech.fund
 opentechsummit.net
@@ -996,8 +990,6 @@ serijex.com
 serversupportforum.de
 setimes.com
 sgtreport.com
-shapeshift.io <= bitcoin exchange. We should be publicly ridculing bitcoin companies that use CloudFlare because people's money is at risk (exposed to MitM).  The danger w/btc over CloudFlare is substantial.
-shapeshift.io <= bitcoin exchange. We should be publicly ridculing bitcoin companies that use CloudFlare because people's money is at risk (exposed to MitM).  The danger w/btc over CloudFlare is substantial. ~> discussion page
 shapeshift.io <= Bitcoin exchange. We should be publicly ridculing Bitcoin companies that use the CloudFlare, because the money people at risk (exposed MiTM). Danger w / BTC on CloudFlare is essential. ~> Discussion Page
 shared.com
 shark-tank.com
@@ -1083,8 +1075,6 @@ tastekid.com
 tcf.org
 tecadmin.net
 techbeasts.com
-techdirt.com WILL WHITELIST SOON
-techdirt.com WILL WHITELIST SOON <= it's whitelisted now. And it's a fuckin' shame b/c it's harder for Tor users to know to boycott them. It's harder to pressure a site to abandon CloudFlare when they know of the whitelisting option.  Not good that they will now continue to feed the CloudFlare monster.
 techdirt.com WILL WHITELIST SOON <= it's whitelisted now. And it's a fuckin' shame b/c it's harder for Tor users to know to boycott them. It's harder to pressure a site to abandon CloudFlare when they know of the whitelisting option.  Not good that they will now continue to feed the CloudFlare monster. ~> discussion page
 technott.com
 techposts.org
@@ -1249,20 +1239,13 @@ whois.de
 whoismcafee.com
 whois-search.com
 whois.vu
-wiki.cyanogenmod.org
-wiki.cyanogenmod.org [FLOSSp] minted meme: if he cloudflared, it is not documentation . 
 wiki.cyanogenmod.org to coin a meme: if it's cloudflared, it ain't documentation.
 wikiislam.net
 wiki.keyweb.ru
 wikileaksparty.org.au
-wiki.tcl.tk
-wiki.tcl.tk [FLOSSp] <= They say that CF is used in such a way they do not have to clean up spam. They also do not say, no other computer l AINS to block Tor. if cloudflared, it is not documentation -> discussion page  
 wiki.tcl.tk <= they claim CF is used so they don't have to clean up spam. They also say no one else complains about the Tor block.
-wiki.tcl.tk <= they claim CF is used so they don't have to clean up spam. They also say no one else complains about the Tor block. if it's cloudflared, it ain't documentation -> discussion page
 willshouse.com
-wireshark.org
 wireshark.org [FLOSSp] <- if cloudflared, it is not documentation . 
-wireshark.org <- if it's cloudflared, it ain't documentation.
 without-systemd.org
 wmgk.com
 w Odan.Io
@@ -1274,9 +1257,7 @@ www.geekfill.com
 www.sciencebasedmedicine.org
 xapo.com
 xato.net
-xda-university.com
 xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good
-xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good -> discussion page
 xmovies8.ru
 x-true.info
 yatse.tv
