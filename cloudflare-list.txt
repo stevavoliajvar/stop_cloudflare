@@ -453,6 +453,7 @@ giaynam.co
 gigahype.com
 giphy.com
 girlsjustwannahaveguns.com
+gitbook.com <- if it's behind the great cloudwall it ain't documentation	
 gizmodo.com.au
 glassdoor.com
 gledajfilm.net
@@ -539,6 +540,7 @@ ice3x.com
 icetwy.re
 iconomi.net
 idea.popcount.org
+iea.org.uk
 igahype.com
 igreklik.com
 ijoy365.com
@@ -602,6 +604,7 @@ johnpilger.com
 jonasoberg.net
 jotform.com
 journals.cambridge.org
+jpost.com
 jquery.com
 junkee.com
 justanswer.com
@@ -625,6 +628,7 @@ kraken.com
 ktetch.co.uk
 kukuruku.co
 kupiprodaj.net
+kurdishquestion.com
 kvraudio.com
 ladbible.com
 lakeofthewoods.com
@@ -747,6 +751,7 @@ nationstates.net
 naturallysuperior.com
 naturalsociety.com
 natura-sciences.com
+navyseals.com
 ncsa.nationbuilder.com
 nemchina.com
 nesta.org.uk
@@ -822,6 +827,7 @@ patreon.com <- the great "platform" everyone's talking about and what, no https 
 patrikagroup.in
 paxful.com
 pcadvisor.co.uk
+pdfgrab.com
 pdfsdocuments.com
 pdfslibmanual.com
 peerio.com
@@ -838,6 +844,7 @@ pic-upload.de <= a pastebin-like site but for images. Alternative site: imgur
 pingdom.com
 pirateparty.org.au 
 pixelbeat.org
+pixelcanvas.io
 planetnatural.com
 plannedparenthood.org
 playframework.com
@@ -1065,6 +1072,7 @@ swiss-miss.com
 syllable.org
 symmetrymagazine.org
 synfig.org
+syriahr.com
 t24.com.tr
 t411.in
 tafttest.com
@@ -1160,6 +1168,7 @@ torontocrypto.org
 tororango.com
 torrenthulkx.com
 torrentr.eu
+townhall.com
 tpo.nl
 trackingterrorism.org
 tradeking.com
@@ -1182,6 +1191,7 @@ ummah.com
 unhypem.com
 unicornriot.ninja
 unixmen.com
+unz.org
 uphold.com
 uport.me
 upwork.com
