@@ -28,6 +28,7 @@ aerospace.org
 afd-gold.de
 affect3d.com
 afrizap.com
+afsp.org
 ageofshitlords.com
 agniveer.com
 aiweiwei.com
@@ -83,6 +84,7 @@ askkissy.com
 atimes.com
 atlasobscura.com
 atma.hr
+audiobookbay.me
 autostraddle.com
 avaaz.org <- contacted december 2015 via form (reported as tech problem), no response no response, no change
 avc.com
@@ -305,6 +307,7 @@ digitalmunition.me
 digitalocean.com
 digitalpoint.com
 diken.com.tr
+disobedientmedia.com
 djm.org.uk
 dlapiper.com
 dmagazine.com
@@ -383,8 +386,10 @@ feedvalidator.org
 fee.org
 femdomvip.com
 fftf.org
+fightbacknews.org
 fightforthefuture.org
 files.mastodon.social
+filminitaliano.com
 filmovita.com
 fitinjehoofd.be <= class assignment requires students to visit this CFd page.  Not sure what's on that page-- I don't do captchas, so I'm skipping the assignment.
 fixmynix.com
@@ -861,6 +866,7 @@ pony.town
 populationpyramid.net
 postimage.org <= pic-upload.de alternative also CFd
 postpartumprogress.com
+potcoin.com
 powerlineblog.com
 prado.it
 prairiedogmag.com
@@ -963,6 +969,7 @@ rtlnieuws.nl
 rtl-sdr.com
 ruiyiyishu.com
 rushmoorsp.com
+russelljohn.net
 s30.postimg.org
 sachachua.com
 sadlock.org
@@ -975,6 +982,7 @@ sarasoueidan.com
 sardco.com
 saskndp.ca
 saskparty.com
+savemedia.com
 savenetneutrality.eu <= embarrassing!
 savevideo.me
 sayzlim.net
@@ -1042,6 +1050,7 @@ sott.net
 soundsofblm.com
 spaceappschallenge.org
 spinroot.com
+spiritualityandpractice.com
 splcenter.org
 sprotyv.info
 ssecurity.com
@@ -1227,6 +1236,7 @@ waitbutwhy.com
 warausakana.com
 w ark-tank.com
 washingtoninstitute.org
+watchdownload.com
 watchseries.ag
 waterfordwhispersnews.com
 weaponsofmassdeception.org
