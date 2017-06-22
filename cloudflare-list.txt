@@ -39,6 +39,7 @@ alibris.com
 alislam.org
 al-kanz.org
 allaboutcircuits.com
+alluc.ee
 almasdarnews.com
 alphabaymarket.net
 alphabeatic.com
@@ -135,6 +136,7 @@ bitsharestalk.org
 bitsofco.de
 bittylicious.com <- custom page
 bitwala.io
+bizcampus.co
 bizpacreview.com
 blackhat.com
 bleutrade.com
@@ -428,6 +430,7 @@ fteproxy.org <- EEK! beyond ironic. cloudflare mildew inside the Tor software ec
 fuelly.com
 fuirestunepulsion.net
 full-stop.net
+fulltv.guide
 funintel.com
 funkyimg.com <= pic-upload.de alternative also CFd
 funny-pictures-blog.com
@@ -513,6 +516,7 @@ hdz.hr
 healtheternally.com
 hegel.net
 highcharts.com
+hightowerlowdown.org	
 historyguy.com
 historylearningsite.co.uk
 historyoftheancientworld.com
@@ -528,6 +532,7 @@ host.org
 hotfrog.ca
 howmanydayssincehumanityburnedawitch.com (this is brand new, there's no excuse)
 howtoforge.com
+hpmor.com	
 hrvatskinamjestaj.hr
 hs3x.com
 html5boilerplate.com
@@ -557,6 +562,7 @@ importantcool.com
 importantcool.net
 improbable.com (perhaps they should be awarded the prize for his Ig)
 index.hr
+indoxxi.online
 infacts.org
 inference.vc
 infosecisland.com
@@ -624,6 +630,7 @@ kim.com
 kitchenstewardship.com
 klipovito.com
 klou.tt
+knightlab.com
 kodi.tv
 kodi.wiki
 korbit.co.kr
@@ -730,6 +737,7 @@ moquet.net
 moscow.sci-hub.io (only subdomains?)
 movecommons.org
 moveon.org <= was tor-friendly when change.org was not, and they were praised for it. Gave no acknowledgement, then the asshats decided to use CF. Hopeless- promote their competitors instead (care2, openpetition,etc)
+movierender.com
 mp3zack.tk
 mpp.org
 muflihun.com
@@ -1173,6 +1181,7 @@ todayszaman.com
 topix.com
 topkickass.com
 tor.com
+toriavey.com
 torontocrypto.org
 tororango.com
 torrenthulkx.com
@@ -1225,6 +1234,7 @@ vendicalapace.net
 vessenes.com
 vgy.me
 viget.com
+viooz.vc
 viralthread.com
 voat.co
 voedzo.nl
@@ -1281,6 +1291,7 @@ xda-university.com <= the mods abuse their power on xda-developers.com to a grea
 xmovies8.ru
 x-true.info
 yatse.tv
+yify-download.com
 yobabooks.com
 yohost.org
 youcaring.com
