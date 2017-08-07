@@ -113,11 +113,13 @@ beyondchronic.com
 bignewsnetwork.com
 biljoljupci.com
 biology-online.org
+biorxiv.org
 birthmoviesdeath.com
 bitbond.com
 bitcasino.io
 bitchmedia.org
 bitcoinblackfriday.com
+bitcoinclassic.com
 bitcoin.de
 bitcoinforks.org
 bitcoinfoundation.org
@@ -129,6 +131,7 @@ bitcoinqueue.com
 bitcoinstats.com
 bitcoints.com
 bitcoinunlimited.info
+bitcoinwatch.com
 biteasy.com
 bitfinex.com
 bitimart.com
@@ -163,6 +166,7 @@ bradleymanning.org
 brain-magazine.fr
 brainyquote.com
 breakinggov.com
+breakingnews365.net
 brickinstructions.com
 btc-alpha.com
 btc-e.com
@@ -175,6 +179,7 @@ buytrezor.com
 buzzmachine.com
 cagle.com
 cago.us
+calorieking.com
 cambridge.org
 card-data-recovery.com
 cardingmafia.ws
@@ -269,6 +274,7 @@ cryfs.org <-- yet another software project whose authors think a domain name loo
 cryfs.org <-- yet another software project whose authors think a domain name looks professional. no it doesn't. not if it's clownflared. then it makes you look like amateurs. if it's cloudflared it ain't documentation. -> discussoin page
 cryptocoinsnews.com
 cryptocompare.com
+cryptogon.com
 cryptolife.net
 cryptologie.net
 cryptophoneaustralia.com
@@ -288,6 +294,7 @@ dangerousminds.net
 danluu.com
 daohub.org
 darkreading.com
+dashforcenews.com
 dash.org <- alternative cryptocurrency
 daskapital.nl
 databreaches.net
@@ -352,6 +359,7 @@ elementary.io
 elementaryos.org
 elephantjournal.com
 elysium-project.org
+emergentor.org <-- cryptocurrency :( !
 encyclopediadramatica.se
 endingthefed.com
 enewspf.com
@@ -396,6 +404,7 @@ femdomvip.com
 fftf.org
 fightbacknews.org
 fightforthefuture.org
+files.mastadon.social
 files.mastodon.social
 filminitaliano.com
 filmovita.com
@@ -572,6 +581,7 @@ indoxxi.online
 infacts.org
 inference.vc
 infosecisland.com
+innoprom.com
 instituteforenergyresearch.org
 intagme.com
 interasistmen.se
@@ -720,6 +730,7 @@ meetup.com
 meforum.org
 meinit.nl
 memecenter.com
+menstrual-cycle-calculator.com
 metrocosm.com
 mg.co.za
 miguelmenendez.pro
@@ -1097,6 +1108,7 @@ swiss-miss.com
 syllable.org
 symmetrymagazine.org
 synfig.org
+synthtopia.com
 syriahr.com
 t24.com.tr
 t411.in
@@ -1219,6 +1231,7 @@ ummah.com
 unhypem.com
 unicornriot.ninja
 unixmen.com
+unixstickers.com
 unz.org
 uphold.com
 uport.me
@@ -1251,6 +1264,7 @@ voedzo.nl
 voicesonthesquare.com
 voltairenet.org
 vulnsec.com
+w3counter.com
 wafflesatnoon.com
 waitbutwhy.com
 warausakana.com
@@ -1289,6 +1303,7 @@ wireshark.org [FLOSSp] <- if cloudflared, it is not documentation .
 without-systemd.org
 wmgk.com
 w Odan.Io
+womenshealthmag.com
 worldcoinindex.com
 worldofislam.info
 wrongisland.org
