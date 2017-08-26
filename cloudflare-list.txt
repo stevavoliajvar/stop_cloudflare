@@ -342,6 +342,7 @@ drawnandquarterly.com
 dreamwidth.org
 drewherring.net
 drmaciver.com
+duetsblog.com
 duffelblog.com
 dwapi.com
 dwarfpool.com
@@ -353,6 +354,7 @@ ebooksdownloads.xyz
 ebooksforfree.org
 ebooktake.in
 echtlustig.com
+eclipse2017.org
 e-demokratie.org
 electronicintifada.net
 elementary.io
@@ -369,6 +371,7 @@ escort-canada.co
 escortphonesearch.com
 essaylab.com
 etherchain.org
+ethereumclassic.com
 ethereumprice.org
 etherfaucet.net
 ethnologue.com
@@ -873,6 +876,7 @@ phantis.com
 phonesdevelopers.com
 pic-upload.de <= a pastebin-like site but for images. Alternative site: imgur
 pingdom.com
+pirateparty.ca
 pirateparty.org.au 
 pixelbeat.org
 pixelcanvas.io
@@ -958,6 +962,7 @@ randomshouting.com
 rastinmehr.com
 ratemds.com
 ratemds.co m
+rawstory.com
 r-bloggers.com
 rcpsych.org
 reactiongifs.com
@@ -987,6 +992,7 @@ rietta.com
 ripostelaique.com
 rollingjubilee.org
 rollingout.com
+rooshvforum.com
 rosettacode.org
 rosstraining.com
 roughguides.com
@@ -1041,6 +1047,7 @@ sho pperapproved.com
 shopperapproved.com
 s howstudio.com
 showstudio.com
+silenceisconsent.net
 sil.org
 silverdoctors.com
 simonsfoundation.org
@@ -1151,11 +1158,13 @@ thehardtimes.net
 thehornnews.com
 theindependent.sg
 theinfosphere.org
+theintellctualist.co
 theislamicnews.com
 thejuicemedia.com
 thelastamericanvagabond.com
 thelawdictionary.org
 thelinuxdaily.com
+thelondoneconomic.com
 thelongandshort.org
 themanual.org
 themerkle.com
@@ -1214,6 +1223,7 @@ trackingterrorism.org
 tradeking.com
 transferwise.com
 transmissionbt.com
+trollacademy.org
 tronixstuff.com
 trustmeimascientist.com
 truth-out.org
