@@ -9,7 +9,7 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 
 Unfortunately the CAPTCHA they use is NSA/Google's.  This poses multiple problems.
 1) This CAPTCHA does not always work(especially for those with accessability issues), and when it doesn't work there is viritually no way for them to complain.
-2) The CAPTCHA's support of languages is very limited, which in and of itself is troublesome to the survival of languages worldwide. 
+2) The CAPTCHA's support of languages is very limited, which makes it impossible for those who do not speak whatever default language to access to the content they are looking for. It's also troublesome to the survival of languages worldwide. 
 3) This CAPTCHA trains Google's AI, effectively forcing human beings to train an AI that is owned by a company that makes AI robots that are designed to kill people(ie Boston Robotics was purchased by Google, and that is their intent).  
 Unfriendly AI is an existential risk to mankind and these CAPTCHAs are making it *more* likely that this risk will actually come to be by training.
 
