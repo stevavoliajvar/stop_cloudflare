@@ -335,6 +335,7 @@ donaldjtrump.com <= rightly so!  Keep that asshole in his walled-garden with cus
 dontbreakourphones.org
 donttrustcable.com
 douglasvanbossuyt.com
+downdetector.com
 downloader-apk.com
 doximity.com
 drakulastream.eu
@@ -472,6 +473,7 @@ getdeb.net
 getgb.io
 getglue.com
 gethue.com
+getkovri.org
 geve.rs
 ghost.io
 ghost.org
@@ -547,6 +549,7 @@ hokstad.com
 holytransaction.com
 hookers.nl
 host.org
+hotair.com
 hotfrog.ca
 howmanydayssincehumanityburnedawitch.com (this is brand new, there's no excuse)
 howtoforge.com
@@ -592,6 +595,7 @@ interledger.org
 internetdefenseleague.org (! - the internet/www need defending from Cloudflare!)
 interserver.net
 inthesetimes.com
+iota.org
 ipazin.net
 ipcc.ch
 ipolitics.ca
@@ -673,6 +677,7 @@ latest.com
 latesthackingnews.com
 latribune.fr
 lawfareblog.com <= these guys have twitter Acct and intensively used Tinyurl links. They must be pressured to stop using TinyURL.
+lawnow.org
 le360.ma
 leagueoflegends.com
 leblogdebetty.com
@@ -717,6 +722,7 @@ macworld.co.uk
 madinamerica.com
 magic999.ca
 mailinator.com <- oh no! 10minutemail.com too
+maizegdb.org
 makeagif.com
 makerbot.com
 makercon.com
@@ -788,6 +794,7 @@ natura-sciences.com
 navyseals.com
 ncsa.nationbuilder.com
 nemchina.com
+nem.io
 nesta.org.uk
 netnerds.net
 netroby.com
@@ -984,7 +991,9 @@ republicains.fr
 resetthenet.org
 resistancemanual.org
 retrospring.net
+returnofkings.com
 reverbpress.com
+reverepress.com
 revleft.com
 rexresearch.com
 richarddawkins.net
@@ -1183,6 +1192,7 @@ theplaidzebra.com
 theprice2016.xyz
 therealstanlee.com
 theregister.co.uk (Please turn JavaScript on and reload the page. 2016/03)
+therightscoop.com
 therightstuff.biz
 thesouthafrican.com
 thestack.com
