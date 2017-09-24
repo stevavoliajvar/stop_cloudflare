@@ -413,6 +413,7 @@ femdomvip.com
 fftf.org
 fightbacknews.org
 fightforthefuture.org
+fileformat.info
 files.mastadon.social
 files.mastodon.social
 filminitaliano.com
@@ -810,7 +811,9 @@ neurosky.com
 newsbtc.com
 newsfeed.ph
 newsring.fr
+newworldencyclopedia.org
 nicehash.com
+nickbostrom.com <- one of the most important pages on the web :(
 nimportequi.com
 nknews.org
 nofilmschool.com
@@ -883,6 +886,7 @@ peerio.com
 pembinavalleyonline.com
 pennywong.com.au
 pen.org <- ! 
+perens.com
 perjalananumroh.com
 perpetuallineup.org
 petitlien.fr
@@ -891,8 +895,10 @@ phantis.com
 phonesdevelopers.com
 pic-upload.de <= a pastebin-like site but for images. Alternative site: imgur
 pingdom.com
+piratebay.to
 pirateparty.ca
 pirateparty.org.au 
+pirateunblocker.com
 pixelbeat.org
 pixelcanvas.io
 planetnatural.com
@@ -1194,8 +1200,10 @@ the-orbit.net
 thepiratebay.bid
 thepiratebay.casa
 thepiratebay.org
+thepiratebay-proxylist.org
 thepiratebay.se
 thepiratebay.see
+thepiratebay.se.net
 theplaidzebra.com
 theprice2016.xyz
 therealstanlee.com
@@ -1228,6 +1236,7 @@ t-nation.com
 todayszaman.com
 topix.com
 topkickass.com
+torah.org
 tor.com
 toriavey.com
 torontocrypto.org
@@ -1270,6 +1279,7 @@ urbanist-magazin.de
 urbit.org
 urlsinfo.com
 usafreedom.fail
+usawatchdog.com
 usbccompliant.com
 usbkill.com
 usconstitution.net
