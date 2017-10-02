@@ -24,6 +24,7 @@ adminsub.net
 adnauseam.io
 advocate.com
 aei.org
+aenweb.ca
 aerospace.org
 afd-gold.de
 affect3d.com
@@ -132,6 +133,7 @@ bitcoinjs.org  <- bitcoin companies should not have MiTMs guarding them.  That's
 bitcoinmagazine.com
 bitcoinqueue.com
 bitcoinstats.com
+bitcointalk.to
 bitcoints.com
 bitcoinunlimited.info
 bitcoinwatch.com
@@ -252,6 +254,7 @@ cointelegraph.com
 coinworker.com
 collective-evolution.com
 collectivelyconscious.net
+com.co
 comingle.io
 conceptualrevolutions.com
 congress.gov
@@ -804,6 +807,7 @@ ncsa.nationbuilder.com
 nemchina.com
 nem.io
 nesta.org.uk
+net.co
 netnerds.net
 netroby.com
 netty.io
@@ -889,6 +893,7 @@ pen.org <- !
 perens.com
 perjalananumroh.com
 perpetuallineup.org
+personalexcellence.co
 petitlien.fr
 petitweb.fr
 phantis.com
@@ -941,6 +946,7 @@ projectunspeakable.com
 projectveritasaction.com
 proofwoodward.org
 prophan.com
+proxybay.one
 proxyserver.pk
 proxysite.com
 proxytorrent.nl
@@ -1078,6 +1084,7 @@ simplecapacity.com
 simplefx.com
 sim plejustice.us
 simplejustice.us
+simpletoremember.com
 sinembargo.mx
 sing-fake.review
 sing-many.review
@@ -1193,17 +1200,23 @@ themanual.org
 themerkle.com
 themighty.com
 themindunleashed.org
+themirrorbay.com
 thenorthstar.info
 thenubbyadmin.com
 theodi.org
 the-orbit.net
+thephoenixbay.com
+thepiratebay.asia
 thepiratebay.bid
 thepiratebay.casa
+thepiratebay.cr
 thepiratebay.org
 thepiratebay-proxylist.org
 thepiratebay.se
 thepiratebay.see
 thepiratebay.se.net
+thepiratebay.sex
+thepiratebayz.org
 theplaidzebra.com
 theprice2016.xyz
 therealstanlee.com
@@ -1244,6 +1257,7 @@ tororango.com
 torrenthulkx.com
 torrentr.eu
 torrentroom.com
+torrents.me
 torrentv.org
 townhall.com
 tpo.nl
@@ -1289,12 +1303,14 @@ us-history.com
 usinenouvelle.com
 usklicnik.com
 usuncut.com
+utdallas.edu
 utopia.de
 vancouverobserver.com
 vanwinkles.com
 vendicalapace.net
 vessenes.com
 vgy.me
+vidinfo.org
 viget.com
 viooz.vc
 viralthread.com
@@ -1333,6 +1349,7 @@ whois.de
 whoismcafee.com
 whois-search.com
 whois.vu
+wikialpha.org
 wiki.cyanogenmod.org to coin a meme: if it's cloudflared, it ain't documentation.
 wikiislam.net
 wiki.keyweb.ru
