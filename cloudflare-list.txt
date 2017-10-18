@@ -44,6 +44,7 @@ alluc.ee
 almasdarnews.com
 alphabaymarket.net
 alphabeatic.com
+alternatiesto.net
 alternativeto.net
 alternet.org
 amcharts.com
@@ -202,6 +203,7 @@ celluloid.io
 cem.me
 centrelink.gov.au (custom unit CloudFlare page)
 cepr.net
+certificatedetails.com
 cex.io
 change.org (we could start a petition on Change.org to ask change.org unlock torus - made, https://www.change.org/p/change-org-change-org-stop-using-cloudflare Tweet to @ jeffcliff1 proposals for wording) forget about them; promotion of its competitors instead (Care2, openpetition etc.). BTW, change.org was a lousy place to put the petition. It is better to file a petition on Change.org openpetition. But this is a bad idea anyway b / c it can backfire--, if they are in the white list torus, worse, b / c it feeds Cloudflare and damaging boycott change.org. Boycott better when there are good competitors.
 chathamhouse.org
@@ -258,6 +260,7 @@ com.co
 comingle.io
 conceptualrevolutions.com
 congress.gov
+connectinghappinessandsuccess.com
 conservative.ca <- was there any doubt?  US corporation behind the domain name.
 conservativedailypost.com
 consumer-action.org
@@ -658,7 +661,9 @@ kappataumu.com
 kaymu.hr
 kelownanow.com
 kenoraonline.com
+keychest.net
 kim.com
+kingjamesbibleonline.org
 kitchenstewardship.com
 klipovito.com
 klou.tt
@@ -741,6 +746,7 @@ makezine.com
 malaysianwireless.com
 markdownmail.io
 massshootingtracker.org
+mastersportal.eu
 mathwarehouse.com
 mcgrefer.com
 meaww.com
@@ -1025,6 +1031,7 @@ rooshvforum.com
 rosettacode.org
 rosstraining.com
 roughguides.com
+royalsocietypublishing.org
 rssflare.com
 rtlnieuws.nl
 rtl-sdr.com
@@ -1113,12 +1120,14 @@ soshified.com
 sott.net
 soundsofblm.com
 spaceappschallenge.org
+spanishinvaders.cat
 spinroot.com
 spiritualityandpractice.com
 splcenter.org
 sprotyv.info
 ssecurity.com
 sskaje.me
+ssrn.com
 start.1password.com (just sign up, and not the entire website breaks through Tor registration)
 startjoin.com
 state.io
