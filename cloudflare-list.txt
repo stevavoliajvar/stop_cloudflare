@@ -5,6 +5,7 @@
 1broker.com
 21.co 
 247exchange.com
+24matins.fr
 270towin.com
 2ch.hk
 3dprintingindustry.com
@@ -54,6 +55,7 @@ ancient-origins.net
 androidauthority.com
 andy-roberts.net
 andy-roberts.ne}t
+animenewsnetwork.com
 ankisrs.net [FLOSSp] <= After yesterday complained that each new thread created require Google captcha (in addition to the registration process is tested once), they put their web - site on the CloudFlare * today *. Perhaps it's a coincidence. They are allowed to place a complaint ( https://anki.tenderapp.com/discussions/ankidesktop/21167-captcha-hell) . Note that tenderapp.com (where sites) Knowledgebase not ClownFucked. New ticket for only created problems for CloudFlare: https://anki.tenderapp.com/discussions/ankidesktop/21203-user-guide-now-blocked-by-cloudflare
 annual rade.com
 annual ticik.com
@@ -163,6 +165,7 @@ blog.onahole.eu
 blog.rtlwilson.com
 Blogs.com - it does not seem to use the tool blacklist the CloudFlare, - no more catpcha, no way to get access to the web - site "The owner of this website (blogs.com) did not forbid a country or region, your IP - address is in ( TOR) from access to this site. "
 bluenote.io
+bluescreenofjeff.com
 bmj.com
 bobdylan.com
 bookfeeder.com
@@ -342,11 +345,13 @@ docs.ansible.com remember the dictum: if it's cloudflared, it ain't documentatio
 documentaryheaven.com
 documentup.com
 domino.roilipman.com
+domraider.io
 donaldjtrump.com <= rightly so!  Keep that asshole in his walled-garden with custom CloudFlare block.  Perhaps Torproject should redirect to the site with that photomosaic of cocks that produce Trumps pic :) when that gets elected, it's moot ayway cause what u need then is not Tor, but a nuclear-proof bunker ...
 dontbreakourphones.org
 donttrustcable.com
 douglasvanbossuyt.com
 downdetector.com
+downhown.com
 downloader-apk.com
 doximity.com
 drakulastream.eu
@@ -480,7 +485,9 @@ gdax.com
 gdssecurity.com
 geek.hr
 geeksided.com
+geekwire.com
 geenstijl.nl
+geneticsandsociety.org
 getdeb.net
 getgb.io
 getglue.com
@@ -546,6 +553,7 @@ havelockinvestments.com
 h dz.hr
 hdz.hr
 healtheternally.com
+heckin.tech
 hegel.net
 highcharts.com
 hightowerlowdown.org	
@@ -987,6 +995,7 @@ quoinex.com
 qwertee.com
 qzzr.com
 racket-lang.org
+radiotelevisioncaraibes.com
 railstutorial.org
 rainbowdash.net
 ralsina.me
@@ -1189,6 +1198,7 @@ the-digital-reader.com
 thediplomat.com
 thedroidguy.com
 theearthchild.co.za
+theepochtimes.com
 theexmuslim.com
 thefappening.so
 thegatewaypundit.com
