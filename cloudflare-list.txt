@@ -8,6 +8,7 @@
 24matins.fr
 270towin.com
 2ch.hk
+2paragraphs.com
 3dprintingindustry.com
 3dsupplyworld.com
 41j.com
@@ -638,6 +639,7 @@ Islam-watch.org
 islam-watch.org
 isohunt.to
 ispace.hr
+itorrents.org
 itradesecurity.com
 itsfoss.com
 iwastesomuchtime.com
@@ -666,6 +668,8 @@ jvns.ca
 kajsotala.fi
 kapaljka.com
 kappataumu.com
+katcr.to
+kat-top.org
 kaymu.hr
 kelownanow.com
 kenoraonline.com
@@ -1137,6 +1141,7 @@ sprotyv.info
 ssecurity.com
 sskaje.me
 ssrn.com
+starcitygames.com
 start.1password.com (just sign up, and not the entire website breaks through Tor registration)
 startjoin.com
 state.io
@@ -1274,10 +1279,13 @@ toriavey.com
 torontocrypto.org
 tororango.com
 torrenthulkx.com
+torrentproject.se
 torrentr.eu
 torrentroom.com
 torrents.me
 torrentv.org
+torrenty.to
+torrentz2.eu
 townhall.com
 tpo.nl
 trackingterrorism.org
@@ -1286,6 +1294,7 @@ transferwise.com
 transmissionbt.com
 trollacademy.org
 tronixstuff.com
+truepundit.com
 trustmeimascientist.com
 truth-out.org
 tunnelbear.com
@@ -1299,6 +1308,7 @@ ukpollingreport.co.uk
 ultraculture.org
 ultraimg.com <= pic-upload.de alternative also CfD
 ummah.com
+unblocked.bid
 unhypem.com
 unicornriot.ninja
 unixmen.com
