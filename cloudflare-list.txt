@@ -267,6 +267,8 @@ congress.gov
 connectinghappinessandsuccess.com
 conservative.ca <- was there any doubt?  US corporation behind the domain name.
 conservativedailypost.com
+conservativefiringline.com
+conservativetribune.com
 consumer-action.org
 containerops.org
 coolest-gadgets.com
@@ -374,6 +376,7 @@ ebooktake.in
 echtlustig.com
 eclipse2017.org
 e-demokratie.org
+elbreitbarto.com
 electronicintifada.net
 elementary.io
 elementaryos.org
@@ -732,6 +735,7 @@ linuxnix.com
 linuxveda.com
 linuxvoice.com
 liqui.io
+listverse.com
 livesoccertv.com
 liveuamap.com
 lkml.org
@@ -800,6 +804,7 @@ muflihun.com
 mukto-mona.com
 multiwebconverter.com
 musalbas.com <- it is better to know SHD
+musopen.org
 mydigitallife.info
 mygully.com
 mysteriousuniverse.org
@@ -1016,6 +1021,7 @@ readbag.com
 reader.fr
 readersdigest.ca
 readthetpp.com 
+realclimatescience.com
 realfarmacy.com
 receive-sms-online.info
 recordedfuture.com
@@ -1152,6 +1158,7 @@ stevens.edu
 steynonline.com
 s they onsfoundation.org
 stopthecap.com
+stratfor.com
 stratusly.com
 strawpoll.me
 studentsforliberty.org
@@ -1242,6 +1249,7 @@ thepiratebay.se.net
 thepiratebay.sex
 thepiratebayz.org
 theplaidzebra.com
+thepoliticalinsider.com
 theprice2016.xyz
 therealstanlee.com
 theregister.co.uk (Please turn JavaScript on and reload the page. 2016/03)
@@ -1300,6 +1308,7 @@ truth-out.org
 tunnelbear.com
 turnkeylinux.org
 tutsplus.com
+tuxedo.org
 twib.in
 twitchy.com
 typepad.com
@@ -1322,6 +1331,7 @@ urbanist-magazin.de
 urbit.org
 urlsinfo.com
 usafreedom.fail
+usanewsflash.com
 usawatchdog.com
 usbccompliant.com
 usbkill.com
