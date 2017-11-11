@@ -61,6 +61,7 @@ ankisrs.net [FLOSSp] <= After yesterday complained that each new thread created 
 annual rade.com
 annual ticik.com
 anonews.co
+anonhq.com
 anonimg.com
 anonmgur.com
 anonops.com
@@ -375,7 +376,9 @@ ebooksforfree.org
 ebooktake.in
 echtlustig.com
 eclipse2017.org
+economicblogs.org
 e-demokratie.org
+edge.org
 elbreitbarto.com
 electronicintifada.net
 elementary.io
@@ -498,6 +501,7 @@ getglue.com
 gethue.com
 getkovri.org
 geve.rs
+ghacks.net
 ghost.io
 ghost.org
 giaynam.co
@@ -525,6 +529,7 @@ gossipcenter.com
 gotnews.com
 gottabemobile.com
 gov1.info
+gpo.gov
 gradient-animator.com
 greasespot.net
 greaterfool.ca
@@ -779,6 +784,7 @@ miguelmenendez.pro
 mikepence.com/
 mindtools.com
 mindy-fischer-writer.com
+minecraftforum.net
 minilock.io
 minimalistbaker.com
 missionbit.com
@@ -835,6 +841,7 @@ netnerds.net
 netroby.com
 netty.io
 neurosky.com
+newmatilda.com
 newsbtc.com
 newsfeed.ph
 newsring.fr
@@ -987,6 +994,7 @@ puri.sm <=? they seem to be on the CF now (checked on 7/1/2017)
 putintrump.org
 putoholicari.com
 puu.sh
+pydata.org
 pythonforengineers.com
 qnalist.com
 qnrq.se
@@ -1219,6 +1227,7 @@ thehardtimes.net
 thehornnews.com
 theindependent.sg
 theinfosphere.org
+theinquirer.net
 theintellctualist.co
 theislamicnews.com
 thejuicemedia.com
@@ -1313,6 +1322,7 @@ twib.in
 twitchy.com
 typepad.com
 ubitquity.io
+ucsf.edu
 ukpollingreport.co.uk
 ultraculture.org
 ultraimg.com <= pic-upload.de alternative also CfD

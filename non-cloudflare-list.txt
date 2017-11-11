@@ -62,6 +62,7 @@ cmc-math.org
 codecogs.com ("... This is because your IP address is listed as a source of suspicious behaviour. ...")
 codeexperts.com ("if you feel this is in error ...")
 coinatmradar.com ("This request has been denied for security reasons. If you believe this was in error, please contact support.")
+cryptocurrencytalk.com ("SpamFireWall is activated for your IP")
 cycleworld.com ( "You are receiving this error message because your ip (212.117.180.21) is listed in the StopForumSpam.com database" / 2016-08-15)
 www.geocaching.com ( Works fine for viewing the main site, but if you try to log a cache: "403.6 - Forbidden          IP address of the client has been rejected.")
 geohot.com ("Access denied.  Your IP address [77.247.181.162] is blacklisted.  If you feel this is in error please contact your hosting providers abuse department.")
@@ -160,6 +161,7 @@ mixcloud.com ("Please complete the security check to access mixcloud.com. There 
 moodle.org (ReCaptcha)
 mottweilerstudio.com ("Access denied.  Your IP address [....] is blacklisted.  If you feel..." / 2016-01-15)
 motorcyclecruiser.com ( "You are receiving this error message because your ip (212.117.180.21) is listed in the StopForumSpam.com database" / 2016-08-15)
+nakedcapitalism.com
 nbnco.com.au (Infinite Redirect)
 content.nejm.org - Your IP (185.038.014.215) is blocked.
 nepalmonitor.org (timeout)
