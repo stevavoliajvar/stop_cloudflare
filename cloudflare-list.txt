@@ -196,6 +196,7 @@ card-data-recovery.com
 cardingmafia.ws
 cashila.com
 casnocha.com
+catalyst-journal.com
 catholic.com
 cbj.ca
 ccc.qld.gov.au - Australian (Queensland) Government of Khabarovsk - Crime and Misdonduct commission - charged with investigating corruption - CloudFlare Ray ID: at the moment - at @ Bfree5150 
@@ -280,6 +281,7 @@ coshx.com
 coursehero.com
 crackedlabs.org
 creativecommons.org
+crest-approved.org
 crometeo.hr
 crowarez.org
 crowdcube.com
@@ -329,6 +331,7 @@ defoo.org
 designboom.com
 desmogblog.com
 desmog.ca
+devhub.io
 devkit.co
 dev-list.com
 dhakatribune.com
@@ -421,6 +424,7 @@ fakenamegenerator.com
 fakku.net
 famousscientists.org
 farmlandgrab.org
+fashionunited.uk
 fas.org
 fbi.gov (custom CloudFlare pages block, check the source for Cloudflare JS and rays ID)
 feathercoin.com
@@ -545,6 +549,7 @@ guttmacher.org
 guwsmedical.info
 guya.net
 gzdgzu.com
+hackcanada.com <- really guys?
 hackerboards.com
 hackerone.com
 hackfest.ca
@@ -624,6 +629,7 @@ interledger.org
 internetdefenseleague.org (! - the internet/www need defending from Cloudflare!)
 interserver.net
 inthesetimes.com
+iol.co.za
 iota.org
 ipazin.net
 ipcc.ch
@@ -692,6 +698,7 @@ kodi.tv
 kodi.wiki
 korbit.co.kr
 kowalczyk.info
+kpfa.org
 kpfk.org
 kraken.com
 ktetch.co.uk
@@ -771,6 +778,7 @@ mastersportal.eu
 mathwarehouse.com
 mcgrefer.com
 meaww.com
+mecanis.me
 medicare.gov.au (custom CloudFlare block page)
 medium.com
 meetup.com
@@ -885,6 +893,7 @@ openchain.org
 opencryptoaudit.org
 opendime.com
 opendyslexic.org
+openjurist.org
 openruby.com
 opensecrets.org <= dipshit hypocrits bitched when they were denied access to the Republican National Convention, yet they use CF to block the people accessing their content.
 opensourceecology.org
@@ -1060,6 +1069,7 @@ rosstraining.com
 roughguides.com
 royalsocietypublishing.org
 rssflare.com
+rte.ie
 rtlnieuws.nl
 rtl-sdr.com
 ruiyiyishu.com
@@ -1123,6 +1133,7 @@ sinembargo.mx
 sing-fake.review
 sing-many.review
 singularityu.org
+siouxlookoutairport.ca
 sistani.org
 sivers.org
 skoolie.net
@@ -1290,6 +1301,7 @@ t-nation.com
 todayszaman.com
 topix.com
 topkickass.com
+toptenz.net
 torah.org
 tor.com
 toriavey.com
@@ -1332,6 +1344,7 @@ unhypem.com
 unicornriot.ninja
 unixmen.com
 unixstickers.com
+unoriginalmom.com
 unz.org
 uphold.com
 uport.me
@@ -1428,6 +1441,7 @@ yohost.org
 youcaring.com
 yourbittorrent.com
 yourebooklibrary.xyz
+yourhomebasedmom.com
 yourlaws.ca
 youtubeinmp3.com
 yuason.com
