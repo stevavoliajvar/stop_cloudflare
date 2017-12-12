@@ -217,6 +217,7 @@ chat.hr
 chaturbate.com
 chelseamanning.org
 chinadialogue.net
+chomskylist.com
 christiaanconover.com
 christophercantwell.com
 chronicle.com
@@ -310,6 +311,7 @@ dailycaller.com
 dailystormer.com
 damn.com
 dancarlin.com
+dangerousboutique.com
 dangerousminds.net
 danluu.com
 daohub.org
@@ -404,9 +406,11 @@ etherfaucet.net
 ethnologue.com
 etproxy.top
 e uirestunepulsion.net
+eureferendum.com
 euri.ca
 evasi0n.com
 eventhelix.com
+evidenceinvestor.co.uk
 exoticvps.com
 expatsingapore.com
 expertboxing.com
@@ -564,6 +568,7 @@ h avebitcoin.com
 havebitcoin.com
 haveibeenpwned.com ("DDoS protection by CloudFlare / Ray ID: 321d437f7b26290e")
 havelockinvestments.com 
+haymarketbooks.org
 h dz.hr
 hdz.hr
 healtheternally.com
@@ -688,6 +693,7 @@ kaymu.hr
 kelownanow.com
 kenoraonline.com
 keychest.net
+kidscodecs.com
 kim.com
 kingjamesbibleonline.org
 kitchenstewardship.com
@@ -880,6 +886,7 @@ ohjoysextoy.com
 okcupid.com
 okfn.org
 oldpiratebay.org
+omicsonline.org
 ominocity.com
 oneclickroot.com
 onegreenplanet.org
@@ -903,6 +910,7 @@ opentrackers.org
 openvpn.net
 orionlabs.co
 osdir.com
+ottawatoollibrary.com
 ourworldindata.org
 out.com
 outernet.is <= "outernet for all " is mentioned on their Twitter Accounts.
@@ -912,6 +920,7 @@ ovpro.nl
 pagina12.com.ar
 palemoon.org
 pandawhale.com
+pando.com
 panow.com
 parade.com
 passportindex.org
@@ -1376,6 +1385,7 @@ vidinfo.org
 viget.com
 viooz.vc
 viralthread.com
+vkinght.org
 voat.co
 voedzo.nl
 voicesonthesquare.com
