@@ -30,4 +30,5 @@ What can you do?
 * Start a coop that can provide a meaningful non corporate alternative to Cloudflare or let us know that there is one 
 to at least provide multiple layered defence against Cloudflare.
 
-
+There are [other lists](https://github.com/pirate/sites-using-cloudflare), but this one is one where every entry on the list a human being has actually tried
+to go to, and been blocked.
