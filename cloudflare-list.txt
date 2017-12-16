@@ -9,6 +9,7 @@
 270towin.com
 2ch.hk
 2paragraphs.com
+3dp4btc.com
 3dprintingindustry.com
 3dsupplyworld.com
 41j.com
@@ -210,6 +211,7 @@ cem.me
 centrelink.gov.au (custom unit CloudFlare page)
 cepr.net
 certificatedetails.com
+ceus-now.com
 cex.io
 change.org (we could start a petition on Change.org to ask change.org unlock torus - made, https://www.change.org/p/change-org-change-org-stop-using-cloudflare Tweet to @ jeffcliff1 proposals for wording) forget about them; promotion of its competitors instead (Care2, openpetition etc.). BTW, change.org was a lousy place to put the petition. It is better to file a petition on Change.org openpetition. But this is a bad idea anyway b / c it can backfire--, if they are in the white list torus, worse, b / c it feeds Cloudflare and damaging boycott change.org. Boycott better when there are good competitors.
 chathamhouse.org
@@ -243,6 +245,7 @@ climateatlas.ca
 climatedepot.com
 clojuredocs.org
 cloudflare.com
+clutchmagonline.com
 cmxlog.com
 cneolithicstone.com
 codeabitwiser.com
@@ -341,6 +344,7 @@ diem25.org
 digitalenvelopes.email <= I am sure I have it lised. I do not know why he disappeared. Relisting it now. Please note that the owner denies blocking Tor, and seem uninterested in solving the problem.
 digitalfernsehen.de
 digitalmunition.me
+digitalmusicnews.com
 digitalocean.com
 digitalpoint.com
 diken.com.tr
@@ -365,6 +369,7 @@ downloader-apk.com
 doximity.com
 drakulastream.eu
 drawnandquarterly.com
+dreadcentral.com
 dreamwidth.org
 drewherring.net
 drmaciver.com
@@ -394,6 +399,7 @@ emergentor.org <-- cryptocurrency :( !
 encyclopediadramatica.se
 endingthefed.com
 enewspf.com
+enterprisemission.com
 epochconverter.com
 erisindustries.com
 escort-canada.co
@@ -578,6 +584,7 @@ highcharts.com
 hightowerlowdown.org	
 historyguy.com
 historylearningsite.co.uk
+historyofbitcoin.org
 historyoftheancientworld.com
 hitler.rocks
 hitler.rocks hookers.nl
@@ -947,6 +954,7 @@ petitweb.fr
 phantis.com
 phonesdevelopers.com
 pic-upload.de <= a pastebin-like site but for images. Alternative site: imgur
+pineapplefund.org
 pingdom.com
 piratebay.to
 pirateparty.ca
@@ -1033,6 +1041,7 @@ racket-lang.org
 radiotelevisioncaraibes.com
 railstutorial.org
 rainbowdash.net
+rainway.io
 ralsina.me
 randalolson.com
 randomshouting.com
