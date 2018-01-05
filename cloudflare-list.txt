@@ -73,6 +73,7 @@ anxbtc.com
 anydayguide.com
 apkarea.com
 apost.com
+appbrain.com
 applicationprivacy.org
 apps.evozi.com
 arabnews.com
@@ -130,6 +131,7 @@ bitcasino.io
 bitchmedia.org
 bitcoinblackfriday.com
 bitcoinclassic.com
+bitcoin.com
 bitcoin.de
 bitcoinforks.org
 bitcoinfoundation.org
@@ -182,6 +184,7 @@ breakingnews365.net
 brickinstructions.com
 btc-alpha.com
 btc-e.com
+btcmanager.com
 btcmarkets.net
 btdigg.org
 bter.com
@@ -328,6 +331,7 @@ daysoftheyear.com
 dazzleships.net
 dcclothesline.com
 dc.gov
+debtmoney.xyz
 decentsecurity.com <= bit disappointing twtr user @SwiftOnSecurity uses CF
 decryptedmatrix.com
 deepdotweb.com
@@ -341,6 +345,7 @@ devkit.co
 dev-list.com
 dhakatribune.com
 diem25.org
+die.net
 digitalenvelopes.email <= I am sure I have it lised. I do not know why he disappeared. Relisting it now. Please note that the owner denies blocking Tor, and seem uninterested in solving the problem.
 digitalfernsehen.de
 digitalmunition.me
@@ -409,6 +414,7 @@ etherchain.org
 ethereumclassic.com
 ethereumprice.org
 etherfaucet.net
+etherscan.io
 ethnologue.com
 etproxy.top
 e uirestunepulsion.net
@@ -570,7 +576,6 @@ hanzresolver.com
 happybearsoftware.com
 harbourfest.ca
 hardforum.com
-h avebitcoin.com
 havebitcoin.com
 haveibeenpwned.com ("DDoS protection by CloudFlare / Ray ID: 321d437f7b26290e")
 havelockinvestments.com 
@@ -1110,6 +1115,7 @@ savenetneutrality.eu <= embarrassing!
 savevideo.me
 sayzlim.net
 schd.ws
+scholar.social
 schweikert.ch (postgrey.schweikert.ch)
 sciencealert.com
 scienceandnonduality.com
@@ -1175,6 +1181,7 @@ soompi.com
 soshified.com
 sott.net
 soundsofblm.com
+southfloridagaynews.com
 spaceappschallenge.org
 spanishinvaders.cat
 spinroot.com
@@ -1242,6 +1249,7 @@ theamericanconservative.com
 thebronasium.com
 thecarconnection.com
 thedailybeast.com
+the-daily.buzz
 theden.tv
 the-digital-reader.com
 thediplomat.com
