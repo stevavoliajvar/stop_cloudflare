@@ -15,7 +15,7 @@ That AI was is owned by a company that in the past made robots that are designed
 Even though Google may or may not make [Asimov-incompatible](http://www.youtube.com/watch?v=r3yIarp3J2o) robots post 2017, [Google still can be counted on to be a poor candidate for friendly AI](https://when.google.met.wikileaks.org/)
 [Unfriendly AI](https://wiki.lesswrong.com/wiki/Unfriendly_artificial_intelligence) is an existential risk to mankind and these CAPTCHAs are making it *more* likely that this risk will actually come to be by training.
 
-There is more details available in [in this repository](https://github.com/themusicgod1/cloudflare-tor/blob/master/cloudflare-philosophy.txt).
+There is more details available in [in this repository](cloudflare-philosophy.txt).
 
 What can you do?
 

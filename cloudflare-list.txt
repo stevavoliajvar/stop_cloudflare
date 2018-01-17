@@ -1,3 +1,4 @@
+@DEPRECATED - will be moving to two seperate files soon.
 naturalnews.com
 computerworlduk.com
 defdist.org
