@@ -7,6 +7,8 @@ websites who human beings have tried to access and have been [either](merely-usi
 
 There is more details of why what they are doing is wrong available [here](cloudflare-philosophy.txt).
 
+See [FAQ](FAQ) for Frequently Asked Questions
+
 # What can you do?
 
 * see [list instructions](instructions)
@@ -30,6 +32,8 @@ There is more details of why what they are doing is wrong available [here](cloud
 * Start a coop that can provide a meaningful non corporate alternative to Cloudflare
 
 * let us know of any alternatives to help at least provide multiple layered defence against Cloudflare
+
+* Try using [globalist](globalist.txt) to maintain this list!
 
 There are [other lists](https://github.com/pirate/sites-using-cloudflare), but this one is one where every entry on the list a human being has actually tried
 to go to, and has been blocked.
