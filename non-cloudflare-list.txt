@@ -56,6 +56,7 @@ bodhizazen.net (very enlightened policy ...)
 forums.bunsenlabs.org
 captaintrain.com (403 Forbidden)
 cessfull.com (reCAPTCHA)
+chronicle.com ("Pardon Our Interruption... As you were browsing www.chronicle.com something about your browser made us think you were a bot. There are a few reasons this might happen:...")
 civicrm.org ("Your IP address (46.183.221.231) has been identified as a possible source of suspicious, robotic traffic and has been greylisted by Project Honeypot. If you are an actual human visitor who can read simple instructions, you may try getting whitelisted on https://civicrm.org/httpbl/whitelist. Should you have any further problems, please contact us at info@civicrm.org)
 clonezilla.org/ (Access denied. Your IP address [185.62.188.14] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.) Not all exits are blocked.
 cmc-math.org
@@ -184,6 +185,7 @@ popsci.com (ip listed in the StopForumSpam.com database) 2016-10-28 block still 
 Porsche Com ("You don't have permission to access "(...)porsche.com/" on this server." |  (...)porsche.de redirects to porsche.com/germany) / 2015-09-09) works 2016/03 Nope. Still blocked 2016-04-03 -10-28
 (psycnet.)apa.org ("Access To Website Blocked")
 qantas.com.au still blocked 2016-10-28
+rightswatch.ca ("Access denied. Your IP address is blacklisted. If you feel this is in error please contact your hosting provider's abuse department.")
 rijksoverheid.nl (403 Forbidden. But not on all exit nodes.)
 rockabilly-radio.net ("Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department."; some exits, streaming OK though / 2016-11-26)
 sabaheats.com
