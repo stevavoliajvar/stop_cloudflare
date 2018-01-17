@@ -129,9 +129,21 @@ fits amazon's actual business model perfectly
 * Also robots take the test whether we want to or not.  As pointed out in the original thread, User agents end up taking the test for us anyway.  There is no situation where a human is taking the test that Cloudfare actually cares about, it's turtles all the way down 
 if I wanted to run a SPAM outfit, I'd find a way to pay humans to do the captchas if OCR can't solve them with enough success chance - I hear this is commonly done. millions and millions of people accept such jobs for want of better alternatives - or build a piece of malware or web trickery to re-route captchas. there goes their main argument.
 
-6. Given the data is going to Google, aren't we training GeneralDynamics(owned by Google/Alphabet) to kill people?
-The data kraken stops at nothing to collect ever more input to fuel and hone its dangerous fake "artificial intelligence". It is gobbling up our future byte for byte (while claiming to be doing it because it knows best (TM) what's good for everyone). That's a moral yes.
-I don't think that the artificial intelligence need stay fake, if it still even is.  This is training unfriendly AI, byte by byte
-Either way, it's extracting labor from humans. One should avoid feeding the data monster[1]. Better still: avoid feeding it *correct* data. Suggest an experiment: let's write and spread a bot that feeds it consistent but wrong classifications. Will that degrade the success rate of bona fide solving attempts? Google could yet be made to choke on its own omnivorous virulent data voracity.
+6. Given the data is going to Alphabet/Google, aren't we training killer robots (formerly owned by Google/Alphabet) to kill people?
+
+Formerly Google owned Boston Dynamics which meant that such training was more directly going towards military use.
+While Google/Alphabet no longer owns *that* company they are stilll involved in the US military industrial complex.
+
+The data kraken stops at nothing to collect ever more input to fuel and hone its dangerous fake "artificial intelligence". 
+It is gobbling up our future byte for byte (while claiming to be doing it because it knows best (TM) what's good for everyone). That's a moral yes.
+
+I don't think that the artificial intelligence need stay fake, if it still even is.  
+
+This is training unfriendly AI, byte by byte Either way, it's extracting labor from humans. One should avoid feeding the data monster[1]. 
+Better still: avoid feeding it *correct* data. 
+Suggest an experiment: let's write and spread a bot that feeds it consistent but wrong classifications. 
+Will that degrade the success rate of bona fide solving attempts? 
+
+Google could yet be made to choke on its own omnivorous virulent data voracity.
 
 [1] http://themusicgod1.deviantart.com/art/the-great-cloudwall-1-595382698
