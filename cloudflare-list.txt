@@ -1,12 +1,3 @@
-@DEPRECATED - will be moving to two seperate files soon.
-pjmedia.com
-naturalnews.com
-computerworlduk.com
-defdist.org
-defcad.org
-popsubculture.com
-aacrjournals.org
-honesttopaws.com
 10minutemail.com <- oh no! mailinator.com and maildrop.cc too. there's guerrillamail.com and getairmail.com w/o clownflare.
 131001.net
 131002.net
@@ -27,6 +18,7 @@ honesttopaws.com
 8ch.net
 99bitcoins.com
 9flats.com
+aacrjournals.org
 actionnetwork.org
 act.oxfam.org (oxfam.org seems ok)
 adamcod.es
@@ -280,6 +272,7 @@ collective-evolution.com
 collectivelyconscious.net
 com.co
 comingle.io
+computerworlduk.com
 conceptualrevolutions.com
 congress.gov
 connectinghappinessandsuccess.com
@@ -344,8 +337,11 @@ debtmoney.xyz
 decentsecurity.com <= bit disappointing twtr user @SwiftOnSecurity uses CF
 decryptedmatrix.com
 deepdotweb.com
+defcad.org
+defdist.org
 defense-update.com
 defoo.org
+@DEPRECATED - will be moving to two seperate files soon.
 designboom.com
 desmogblog.com
 desmog.ca
@@ -607,6 +603,7 @@ hlmeeting.com
 Hmarivebkcom
 hokstad.com
 holytransaction.com
+honesttopaws.com
 hookers.nl
 host.org
 hotair.com
@@ -864,6 +861,7 @@ nationalreview.com
 nation.co.ke
 nationstates.net
 naturallysuperior.com
+naturalnews.com
 naturalsociety.com
 natura-sciences.com
 navyseals.com
@@ -976,6 +974,7 @@ pirateparty.org.au
 pirateunblocker.com
 pixelbeat.org
 pixelcanvas.io
+pjmedia.com
 planetnatural.com
 plannedparenthood.org
 playframework.com
@@ -989,6 +988,7 @@ politicsbreaking.com
 poljoprivredni-forum.com
 poloniex.com <- custom page: ONE MORE STEP
 pony.town
+popsubculture.com
 populationpyramid.net
 postimage.org <= pic-upload.de alternative also CFd
 postpartumprogress.com

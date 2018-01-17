@@ -1,33 +1,4 @@
-  Until summer 2016, this pad has been maintained by @shiromarieke. I am no longer keeping an eye on it - feel free to take over.
-
-
-This pad was previously https://pad.okfn.org/p/noncloudflare-torblocks
-
-Moved because OKFN got cloudflared.
- 
-TorBlocker Hall of Shame Part I
-
-This is a collection of websites that ban Tor exits, other than through Cloudflare
-  (e.g. showing access denied pages, systematic timing out connections, ...).
-  For cloudfare-related problems, please use https://pad.systemli.org/p/cloudflare-tor
-
-See also
-https://trac.torproject.org/projects/tor/wiki/org/doc/ListOfServicesBlockingTor
-(the purpose of this pad is to provide a more dynamic list)
-
-Feel free to add to the list. Ideally alphabetically sorted to minimize duplicates.
-
-Please sample different exits before saying "works"
-
-Freenode IRC servers (all exits, can result in auto kline) 
-
-let's cluster them by similar responses
-
-What about Akamai's
-"An error occurred while processing your request.
-Reference #97.654e1502.1463601822.94b341"
-is that Tor specific?
-
+Freenode IRC servers (all exits, can result in auto kline)
 4chan.org (reCAPTCHA)
 aboutdebian.com (Access denied. Your IP address [185.62.188.14] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.)
 adidas.de (Access Denied You don't have permission to access "http://www.adidas.de/" on this server.) / 2016-04-29
@@ -80,6 +51,7 @@ dl.acm.org
 demorgen.be (Access denied. You don't have permission ...)
 digicert.com (Connection timeout. I'm running a non-exit relay)
 digitalenvelopes.email <- sites promoter denies being tor-hostile in emaildiscussions.com <- don't call people tor-hostile - explain why they shouldn't block tor :)
+www.distilnetworks.com (which of course is also available).  This "bot detection" equipment. Page Block says that "anomaly detected" and asks for the name and email address / distorted.  "The anomaly is detected." Brave New World . made inaccesible by indigogo?
 districtsentinel.com ("Access denied.  Your IP address [37.130.227.133] is blacklisted.  If you feel this is in error please contact your hosting providers abuse department.")
 docs.google.com "We're sorry..... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now."
 docsis.org
@@ -130,6 +102,7 @@ ioerror.us
 informationclearinghouse.info
 interactivebrokers.com <= directly and deliberately blocks tor (and apparently anything that looks like an anonymizer)
 imgur.com/memegen (uploading from tor disabled)
+www.indiegogo.com 
 internetslang.com/ (some exits only)
 ioerror.us/bb2-support-key?key=6da3-ea02-2b02-1b1f
 ipetitions.com (Forbidden You don't have permission to access /on this server.)
@@ -258,22 +231,10 @@ philosophybasics.com (oddly philosophybasics.com works)
 whatthefuckshouldimakefordinner.com/index.php (Access denied. Your IP address [163.172.223.200] is blacklisted. If you feel this is in error please contact your hosting providers abuse department)
 forums.whirlpool.net.au (“Access to whirlpool.net.au from this location has been restricted due to suspicious activity.” which is the only response even if you just try to GET/read something there.)
 zara.com
-
 NetZone AG whole address range blocked 212.243.197.0 - 212.243.197.127
-all hosted sites not reachable via TOR like woz.ch (timed out, firewalled)
+woz.ch (timed out, firewalled)
+Akamai's "An error occurred while processing your request. Reference #97.654e1502.1463601822.94b341" is that Tor specific?
 
-Discussion
-
-TIP: to access sites that block tor completely, try using a web archiving service like https://archive.org/web/ (awesome and reliable, but honors robots.txt) or https://archive.is/ (relatively new, run by someone anonymous, does NOT honor robots.txt so it will work with more sites) Nice ... they are officially a museum and thus exempt from some copyright restrictions. Bwahaha ... What also works is startpage.com / ixquick.com "open via proxy" function for a great many pages, for reading it is great but external links get broken and posting is out of question. Or use Tor -> VPN or Tor -> open proxy if the need arises to truly Access a website.
-Workaround for the impatient  Instead of looking at archived website versions use ixquick.com / startpage.com: They offer a proxy service for search results, apparently returning 403 for some websites. some websites return 403 to them, which is to be expected.
-TIP2: Use another proxy between tor and reluctant websites. Usable proxies include https://proxy-nl.hide.me/ and https://www.vpnbook.com/webproxy. thx
-
-What can a website do to become more tor friendly user friendly, really?
-1. lift the stupid block
-2. set up an onion
-http://j7652k4sod2azfu6.onion/p/leurity, but it's conflating securty and protectionism. It is, in point of fact, neither. It's prevention of access by the unwashed masses, thus it is the elitism that only the middle class can hope for -- that which is not elite but bears its veneer. That veneer of the gated community. It is as protected as it is grey and faceless. The cookie cutter designs of the securitized state of exception we're all being tossed into.
-*do you mind if we move these discussions to https://pad.systemli.org/p/torblocks-philosophy
-or: at least be honest and change the HTTP code to 451 or 406 "Not Acceptable" coz that's what tor blocks are ...
 
 
 
