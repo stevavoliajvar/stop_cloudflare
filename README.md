@@ -13,27 +13,7 @@ See [FAQ](FAQ) for Frequently Asked Questions
 
 * see [list instructions](instructions)
 
-* If you use one of the websites on this list, contact the webmasters if you still can, and tell them not to use Cloudflare.  
-
-* If they can't leave CloudFlare(perhaps they are merely tech support at the website, and management has decreed that Cloudflare MUST be used) get them to exercise option to whitelist Tor without changing to the "basic level of security" within Cloudflare's options.  CloudFlare customers can use this tool(?) to whitelist tor. Advise them, however, that using CloudFlare(or any Cloudflare-like competitors, see [philosophy](cloudflare-philosophy.txt) and [non-cloudflare list](non-cloudflare-list.txt) ) exposes readers/viewers/customers to a giant supplier MitM. This is a questionable practice, regardless of whitelists.
-
-* Tell others around you about the dangers of Cloudflare.  
-
-* Help improve this repository, both the lists, the arguments against it and the details
-
-* Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so
-
-* Get more people using Tor by default so they can experience the web from the perspective of different parts of the world.
-
-* Start groups, in social media and meatspace, dedicated to liberating the world from Cloudflare.
-
-* Where appropriate, link to these groups on this repository - this can be a place for coordinating working together as groups
-
-* Start a coop that can provide a meaningful non corporate alternative to Cloudflare
-
-* let us know of any alternatives to help at least provide multiple layered defence against Cloudflare
-
-* Try using [globalist](globalist.txt) to maintain this list!
+* see [our list of recommended actions](what-to-do.txt).
 
 There are [other lists](https://github.com/pirate/sites-using-cloudflare), but this one is one where every entry on the list a human being has actually tried
 to go to, and has been blocked.
