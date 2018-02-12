@@ -222,6 +222,7 @@ chathamhouse.org
 chat.hr
 chaturbate.com
 chelseamanning.org
+chemicool.com
 chinadialogue.net
 chomskylist.com
 christiaanconover.com
@@ -406,6 +407,7 @@ elementaryos.org
 elephantjournal.com
 elysium-project.org
 emergentor.org <-- cryptocurrency :( !
+emojipedia.org
 encyclopediadramatica.se
 endingthefed.com
 enewspf.com
@@ -614,6 +616,7 @@ hpmor.com
 hrvatskinamjestaj.hr
 hs3x.com
 html5boilerplate.com
+humanevents.com
 humanservices.gov.au (custom CloudFlare block page)
 hummingbird.me
 hyperallergic.com
@@ -711,6 +714,7 @@ kaymu.hr
 kelownanow.com
 kenoraonline.com
 keychest.net
+kickerdaily.com
 kidscodecs.com
 kim.com
 kingjamesbibleonline.org
@@ -788,6 +792,7 @@ lzone.de
 macworld.co.uk
 madinamerica.com
 magic999.ca
+mahaveercrafts.com
 mailinator.com <- oh no! 10minutemail.com too
 maizegdb.org
 makeagif.com
@@ -800,6 +805,7 @@ markdownmail.io
 massshootingtracker.org
 mastersportal.eu
 mathwarehouse.com
+matslats.net
 mcgrefer.com
 meaww.com
 mecanis.me
@@ -812,6 +818,7 @@ memecenter.com
 menstrual-cycle-calculator.com
 metrocosm.com
 mg.co.za
+michaelgeorgeinsurance.com
 miguelmenendez.pro
 mikepence.com/
 mindtools.com
@@ -832,6 +839,7 @@ modernfarmer.com
 monerolink.com
 moneyweb.co.za
 moquet.net
+mosaicscience.com
 moscow.sci-hub.io (only subdomains?)
 movecommons.org
 moveon.org <= was tor-friendly when change.org was not, and they were praised for it. Gave no acknowledgement, then the asshats decided to use CF. Hopeless- promote their competitors instead (care2, openpetition,etc)
@@ -873,6 +881,7 @@ net.co
 netnerds.net
 netroby.com
 netty.io
+net.ua
 neurosky.com
 newmatilda.com
 newsbtc.com
@@ -953,6 +962,7 @@ pcadvisor.co.uk
 pdfgrab.com
 pdfsdocuments.com
 pdfslibmanual.com
+pdfsr.com
 peerio.com
 pembinavalleyonline.com
 pennywong.com.au
@@ -1035,6 +1045,7 @@ putintrump.org
 putoholicari.com
 puu.sh
 pydata.org
+pythoncentral.io
 pythonforengineers.com
 qnalist.com
 qnrq.se
@@ -1128,6 +1139,7 @@ scholar.social
 schweikert.ch (postgrey.schweikert.ch)
 sciencealert.com
 scienceandnonduality.com
+scienceblog.com
 scirra.com
 scitechdaily.com
 s ckt.co
@@ -1192,6 +1204,7 @@ sott.net
 soundsofblm.com
 southfloridagaynews.com
 spaceappschallenge.org
+spacenews.com
 spanishinvaders.cat
 spinroot.com
 spiritualityandpractice.com
@@ -1218,6 +1231,7 @@ studentsforliberty.org
 studypool.com
 stuffdutchpeoplelike.com
 suborbital-systems.net
+sunatimes.com
 sunnahonline.com
 support.cisco.com
 supportforums.cisco.com
@@ -1310,6 +1324,7 @@ therealstanlee.com
 theregister.co.uk (Please turn JavaScript on and reload the page. 2016/03)
 therightscoop.com
 therightstuff.biz
+thesoftwarebank.com
 thesouthafrican.com
 thestack.com
 thestockmarketwatch.com
@@ -1321,6 +1336,7 @@ theturkishsun.com
 thevintagenews.com
 thewalrus.ca
 thewinnower.com
+thewire.in
 thingiverse.com
 thinkpol.ca
 thisiscolossal.com
@@ -1334,6 +1350,7 @@ tinyurl.com
 tms.edu
 t-nation.com
 todayszaman.com
+topdocumentaryfilms.com
 topix.com
 topkickass.com
 toptenz.net

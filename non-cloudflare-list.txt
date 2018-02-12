@@ -18,6 +18,7 @@ asos.com (Access Denied. You don't have permission....)
 austlii.edu.au
 bayesian.org ("greylisted", block gets lifted after form sep 24 )
 bestbuy.com (Access Denied You don't have permission to access "http://www.bestbuy.com/" on this server. Reference #...)
+bitbean.org ("Proxy access not allowed")
 bitstamp.net (Error code 15)
 bitvps.com (403 Forbidden)
 blender.org (times out)
@@ -187,6 +188,7 @@ forum.synology.com/enu/ ("You have been permanently banned from this board" some
 talk.maemo.org
 techerator.com
 thecultureblend.com
+thegrommet.com
 theislamicseminary.org ("Access denied.  Your IP address [171.25.193.131] is blacklisted.  If you feel this is in error please contact your hosting providers abuse department.")
 ti.com (Access Denied You don't have permission to access "http://www.ti.com/..." on this server.)
 tineye.com/search
