@@ -161,7 +161,11 @@ c) at least be honest and change the HTTP code to 451 or 406 "Not Acceptable" co
 This might be impossible, since Cloudflare itself is the security hole.
 Trusted Third Parties are Security Holes[8].
 
-13) Followup / Further research:
+13) Accessibility!
+
+https://toot.cafe/@peter/99398584471715976
+
+14) Followup / Further research:
 
 See also
 https://trac.torproject.org/projects/tor/wiki/org/doc/ListOfServicesBlockingTor
