@@ -18,6 +18,7 @@ asos.com (Access Denied. You don't have permission....)
 austlii.edu.au
 bayesian.org ("greylisted", block gets lifted after form sep 24 )
 bestbuy.com (Access Denied You don't have permission to access "http://www.bestbuy.com/" on this server. Reference #...)
+bet.com ("Access Denied You don't have permission to access ..."
 bitbean.org ("Proxy access not allowed")
 bitstamp.net (Error code 15)
 bitvps.com (403 Forbidden)
@@ -144,6 +145,7 @@ netbank.com.au
 networktools.nl (You don't have permission to access (...) on this server because you are currently blacklisted by a DNSBL server at: sbl-xbl.spamhaus.org)
 newark.com  (Access Denied You don't have permission to access ...)
 newgrounds.com ("Security Validation - Completing this captcha proves you are a human and helps keepNewgrounds free of spam and abuse!")
+www.ncbi.nlm.nih.gov ("Your access to PubMed Central has been blocked because your Internet connection (IP address) was used to download content in bulk, in violation of the terms of the PMC Copyright Notice.")
 no2nsa.x10.bz (http-code 403)
 nsa.gov (timeout)
 nuggetwheat.org
@@ -159,6 +161,7 @@ popsci.com (ip listed in the StopForumSpam.com database) 2016-10-28 block still 
 Porsche Com ("You don't have permission to access "(...)porsche.com/" on this server." |  (...)porsche.de redirects to porsche.com/germany) / 2015-09-09) works 2016/03 Nope. Still blocked 2016-04-03 -10-28
 (psycnet.)apa.org ("Access To Website Blocked")
 qantas.com.au still blocked 2016-10-28
+republicbuzz.com (" 403 forbidden - WHAT? Why am I seeing this? Your access to this site was blocked by Wordfence  ")
 rightswatch.ca ("Access denied. Your IP address is blacklisted. If you feel this is in error please contact your hosting provider's abuse department.")
 rijksoverheid.nl (403 Forbidden. But not on all exit nodes.)
 rockabilly-radio.net ("Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department."; some exits, streaming OK though / 2016-11-26)

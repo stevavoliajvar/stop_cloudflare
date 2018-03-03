@@ -26,6 +26,7 @@ adbusters.org
 adguard.com
 adminsub.net
 adnauseam.io
+adst.org
 advocate.com
 aei.org
 aenweb.ca
@@ -70,6 +71,7 @@ anonops.com
 anony.ws
 ansonalex.com
 answersingenesis.org
+anticapitalism.party 
 anxbtc.com
 anydayguide.com
 apkarea.com
@@ -87,6 +89,7 @@ armorgames.com
 arrests.org
 artnet.com
 artofmanliness.com
+artstation.com
 artuk.org
 ashedryden.com
 askamanager.org <= you can not alphebetize. "Art" is preceded by "to ask" How about in order to make a stronger clownflared sites database ... and let the computer in alphabetical order ??
@@ -100,6 +103,7 @@ avaaz.org <- contacted december 2015 via form (reported as tech problem), no res
 avc.com
 avert.org
 avpixlat.info
+awarenessact.com
 ax.com
 babelfish.com <- assholes just started using CF (oct.2016), just after translate.google.com became bot-hostile.
 bad-dragon.com
@@ -254,6 +258,7 @@ clutchmagonline.com
 cmxlog.com
 cneolithicstone.com
 codeabitwiser.com
+codeforafrica.org
 codeschool.com
 codinghorror.com
 co.id
@@ -400,6 +405,7 @@ eclipse2017.org
 economicblogs.org
 e-demokratie.org
 edge.org
+eevblog.com
 elbreitbarto.com
 electronicintifada.net
 elementary.io
@@ -604,6 +610,7 @@ hldataprotection.com
 hlmeeting.com
 Hmarivebkcom
 hokstad.com
+hollywoodreporter.com
 holytransaction.com
 honesttopaws.com
 hookers.nl
@@ -765,6 +772,7 @@ libraries.io
 libra.tech
 lifehacker.com.au
 lifesitenews.com
+lindseywilliams.net
 lintut.com
 linustechtips.com
 linuxaria.com
@@ -819,6 +827,7 @@ menstrual-cycle-calculator.com
 metrocosm.com
 mg.co.za
 michaelgeorgeinsurance.com
+michaelshermer.com
 miguelmenendez.pro
 mikepence.com/
 mindtools.com
@@ -904,6 +913,7 @@ nteu.org.au
 nullschool.net
 numer.ai
 nuuktv.gl
+nvcopblock.org
 nwcbooks.com
 oanda.com <= is used officially by the Belgian government for the tax rates for FX! Taxpayers do official business should not be forced to use CloudFlare site.
 obamadecides.org
@@ -936,6 +946,7 @@ opentech.fund
 opentechsummit.net
 opentrackers.org
 openvpn.net
+opslens.com
 orionlabs.co
 osdir.com
 ottawatoollibrary.com
@@ -1044,6 +1055,7 @@ puri.sm <=? they seem to be on the CF now (checked on 7/1/2017)
 putintrump.org
 putoholicari.com
 puu.sh
+pwnedpasswords.com
 pydata.org
 pythoncentral.io
 pythonforengineers.com
@@ -1174,6 +1186,7 @@ simplefx.com
 sim plejustice.us
 simplejustice.us
 simpletoremember.com
+simsylvania.com
 sinembargo.mx
 sing-fake.review
 sing-many.review
@@ -1208,6 +1221,7 @@ spacenews.com
 spanishinvaders.cat
 spinroot.com
 spiritualityandpractice.com
+spiritualityhealth.com
 splcenter.org
 sprotyv.info
 ssecurity.com
@@ -1421,6 +1435,7 @@ utdallas.edu
 utopia.de
 vancouverobserver.com
 vanwinkles.com
+vaporblog.org
 vendicalapace.net
 vessenes.com
 vgy.me
@@ -1452,6 +1467,7 @@ webmajstori.net
 webrtchacks.com <- What is it then?
 websta.me
 webwiki.com
+weev.net
 wemineltc.com
 westernmutual.com
 wetrust.io
