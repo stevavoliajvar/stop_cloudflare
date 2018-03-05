@@ -3,6 +3,7 @@
 131002.net
 1337x.to
 1broker.com
+1st-in-earn-extra-income.com
 21.co 
 247exchange.com
 24matins.fr
@@ -43,6 +44,7 @@ al-akhbar.com
 alexcican.com
 alibris.com
 alislam.org
+aliveinberlin.com
 al-kanz.org
 allaboutcircuits.com
 alluc.ee
@@ -83,6 +85,7 @@ arabnews.com
 archive.fo -> sometimes archive.is forwards there? GOD I HATE CLOWNFLARE! -> archive.is also clownflared now
 archive.is
 archive.today  <= that's a damn shame. We need this site to view other blocked sites. -> archive.is -> also clownflared now, sorry for ever having used them.
+arenalsounddream.com
 arhivach.org
 arkency.com
 armorgames.com
@@ -105,6 +108,7 @@ avert.org
 avpixlat.info
 awarenessact.com
 ax.com
+azballcharterschools.org
 babelfish.com <- assholes just started using CF (oct.2016), just after translate.google.com became bot-hostile.
 bad-dragon.com
 barackobama.com
@@ -178,6 +182,8 @@ bluenote.io
 bluescreenofjeff.com
 bmj.com
 bobdylan.com
+bonhams.com
+bookbane.com
 bookfeeder.com
 bookfi.org
 bostonreview.net
@@ -241,6 +247,7 @@ cineworldyapim.com
 citizenfourfilm.com (really? c'mon)  Snowden himself occasionally tweets links to CloudFlare, sadly enough.  He's a hero, but not exempt from criticism.. call it out when you see it.
 cityam.com
 cityofhope.org
+civicfest.org
 cjfe.org
 cjrl.ca
 clarionproject.org 
@@ -646,6 +653,7 @@ ijreview.com
 images.nrc.nl
 imgflip.com
 imgsking.com
+immortal.org
 importantcool.com
 importantcool.net
 improbable.com (perhaps they should be awarded the prize for his Ig)
@@ -764,6 +772,7 @@ leitmedium.de
 lennu.net
 lessigforpresident.com
 libertarianism.org
+libertyfoundationgospelministries.org
 liberty.me
 libertyvps.net
 libfte.org <-- cf. fteproxy.org. if it's cloudflared, it ain't documentation. 
@@ -824,6 +833,7 @@ meforum.org
 meinit.nl
 memecenter.com
 menstrual-cycle-calculator.com
+merrychristmaswallpaper.com
 metrocosm.com
 mg.co.za
 michaelgeorgeinsurance.com
@@ -1134,6 +1144,7 @@ s30.postimg.org
 sachachua.com
 sadlock.org
 sagemath.com
+sampletreatment2014.com
 samuel-warde.com
 sanktionsfrei.de
 santoku-linux.com
@@ -1228,6 +1239,7 @@ ssecurity.com
 sskaje.me
 ssrn.com
 starcitygames.com
+starfelia.com
 start.1password.com (just sign up, and not the entire website breaks through Tor registration)
 startjoin.com
 state.io
