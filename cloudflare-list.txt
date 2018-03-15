@@ -28,6 +28,7 @@ adguard.com
 adminsub.net
 adnauseam.io
 adst.org
+adventurebucketlist.com
 advocate.com
 aei.org
 aenweb.ca
@@ -154,6 +155,7 @@ bitcointalk.to
 bitcoints.com
 bitcoinunlimited.info
 bitcoinwatch.com
+bitdefender.com
 biteasy.com
 bitfinex.com
 bitimart.com
@@ -215,6 +217,7 @@ catalyst-journal.com
 catholic.com
 cbj.ca
 ccc.qld.gov.au - Australian (Queensland) Government of Khabarovsk - Crime and Misdonduct commission - charged with investigating corruption - CloudFlare Ray ID: at the moment - at @ Bfree5150 
+ccmi.com
 cdn6-blog.p2pfoundation.net (main site seems to work)
 celebjihad.com
 celebrity-gossip.net
@@ -287,6 +290,7 @@ com.co
 comingle.io
 computerworlduk.com
 conceptualrevolutions.com
+conda-forge.org
 congress.gov
 connectinghappinessandsuccess.com
 conservative.ca <- was there any doubt?  US corporation behind the domain name.
@@ -300,6 +304,7 @@ coolutils.com
 copyright.gov
 corda.net 
 coshx.com
+counter-currents.com 
 coursehero.com
 crackedlabs.org
 creativecommons.org
@@ -321,6 +326,7 @@ cryptolife.net
 cryptologie.net
 cryptophoneaustralia.com
 cssdeck.com
+curiositystream.com
 curiousgnu.com
 currentresults.com
 customize.org
@@ -346,6 +352,7 @@ daysoftheyear.com
 dazzleships.net
 dcclothesline.com
 dc.gov
+debian-administration.org <- [FLOSSp]
 debtmoney.xyz
 decentsecurity.com <= bit disappointing twtr user @SwiftOnSecurity uses CF
 decryptedmatrix.com
@@ -779,6 +786,7 @@ libfte.org <-- cf. fteproxy.org. if it's cloudflared, it ain't documentation.
 libfte.org <- Wed fteproxy.org. if cloudflared, this document does not . 
 libraries.io
 libra.tech
+libretro.com
 lifehacker.com.au
 lifesitenews.com
 lindseywilliams.net
@@ -857,6 +865,7 @@ modeling-languages.com
 modernfarmer.com
 monerolink.com
 moneyweb.co.za
+monsterpit.net
 moquet.net
 mosaicscience.com
 moscow.sci-hub.io (only subdomains?)
@@ -880,6 +889,7 @@ nadim.computer
 nairaland.com
 nakedcapitalism.com
 namecheap.com
+narcity.com
 nasioc.com
 nationaldebtclocks.org
 nationalinterest.org
@@ -909,6 +919,7 @@ newsring.fr
 newworldencyclopedia.org
 nicehash.com
 nickbostrom.com <- one of the most important pages on the web :(
+nimohunter.com
 nimportequi.com
 nknews.org
 nofilmschool.com
@@ -996,6 +1007,7 @@ petitlien.fr
 petitweb.fr
 phantis.com
 phonesdevelopers.com
+phoronix.com
 pic-upload.de <= a pastebin-like site but for images. Alternative site: imgur
 pineapplefund.org
 pingdom.com
@@ -1126,6 +1138,7 @@ rexresearch.com
 richarddawkins.net
 rietta.com
 ripostelaique.com
+rivianafoodservice.com	
 rollingjubilee.org
 rollingout.com
 rooshvforum.com
@@ -1366,6 +1379,7 @@ thewire.in
 thingiverse.com
 thinkpol.ca
 thisiscolossal.com
+threadreaderapp.com
 threatbutt.com
 thunderbaylive.com
 tickld.com
