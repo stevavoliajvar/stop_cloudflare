@@ -127,6 +127,7 @@ linuxquestions.org (some exits all, in my experience. following the "you can use
 livejournal.com (only sometimes: "Access Denied     Either you are trying to access a page you do no not have permission to view or your ip address is banned.")
 loebner.net some exits ("if you feel this in error")
 loophole-berlin.com
+looselipsmag.com ("Access denied. Your IP address is blacklisted. If you feel this is in error please contact your hosting provider's abuse department.")
 louis.de ("You don't have permission to access "(...)louis.de/" on this server." / 2015-09-09)
 lovehoney.co.uk
 lowtechmagazine.com ("404 page not found" / 2016-05-19)

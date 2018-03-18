@@ -342,6 +342,7 @@ dangerousboutique.com
 dangerousminds.net
 danluu.com
 daohub.org
+darkpi.com
 darkreading.com
 dashforcenews.com
 dash.org <- alternative cryptocurrency
@@ -542,6 +543,7 @@ geeksided.com
 geekwire.com
 geenstijl.nl
 geneticsandsociety.org
+getcomics.info
 getdeb.net
 getgb.io
 getglue.com
@@ -736,6 +738,8 @@ kaymu.hr
 kelownanow.com
 kenoraonline.com
 keychest.net
+kickasstorrents.cr
+kickasstorrents.to
 kickerdaily.com
 kidscodecs.com
 kim.com
@@ -789,6 +793,8 @@ libra.tech
 libretro.com
 lifehacker.com.au
 lifesitenews.com
+limetorrents1.top	
+limetorrents2.top	
 lindseywilliams.net
 lintut.com
 linustechtips.com
@@ -1060,6 +1066,7 @@ projectveritasaction.com
 proofwoodward.org
 prophan.com
 proxybay.one
+proxyindex.net
 proxyserver.pk
 proxysite.com
 proxytorrent.nl
@@ -1192,6 +1199,7 @@ serversupportforum.de
 setimes.com
 sgtreport.com
 shapeshift.io <= Bitcoin exchange. We should be publicly ridculing Bitcoin companies that use the CloudFlare, because the money people at risk (exposed MiTM). Danger w / BTC on CloudFlare is essential. ~> Discussion Page
+shapeways.com
 shared.com
 shark-tank.com
 shodanhq.com
@@ -1399,10 +1407,12 @@ tor.com
 toriavey.com
 torontocrypto.org
 tororango.com
+torrentcounter.to
 torrenthulkx.com
 torrentproject.se
 torrentr.eu
 torrentroom.com
+torrentsbay.net
 torrents.me
 torrentv.org
 torrenty.to
