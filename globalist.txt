@@ -1,8 +1,9 @@
 'Globalist' project used to be distributed with this project, and is still recommended as an interesting idea.
 However since we're mostly on github anyway we might as well keep the two projects seperate
 
-For 'Globalist' see https://github.com/themusicgod1/Globalist
+For 'Globalist' see [globalist] subdirectory here.
 
+( Upstream: https://github.com/themusicgod1/globalist )
 ( Upstream: https://github.com/fnordomat/Globalist )
  
 -> dead simple use of git and .onions to create a distributed repo for collaborative editin
