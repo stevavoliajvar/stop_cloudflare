@@ -1,11 +1,10 @@
-paste.ee
-10minutemail.com <- oh no! mailinator.com and maildrop.cc too. there's guerrillamail.com and getairmail.com w/o clownflare.
+10minutemail.com	<- oh no! mailinator.com and maildrop.cc too. there's guerrillamail.com and getairmail.com w/o clownflare.
 131001.net
 131002.net
 1337x.to
 1broker.com
 1st-in-earn-extra-income.com
-21.co 
+21.co
 247exchange.com
 24matins.fr
 270towin.com
@@ -22,7 +21,7 @@ paste.ee
 9flats.com
 aacrjournals.org
 actionnetwork.org
-act.oxfam.org (oxfam.org seems ok)
+act.oxfam.org	(oxfam.org seems ok)
 adamcod.es
 adbusters.org
 adguard.com
@@ -64,9 +63,9 @@ androidauthority.com
 andy-roberts.net
 andy-roberts.ne}t
 animenewsnetwork.com
-ankisrs.net [FLOSSp] <= After yesterday complained that each new thread created require Google captcha (in addition to the registration process is tested once), they put their web - site on the CloudFlare * today *. Perhaps it's a coincidence. They are allowed to place a complaint ( https://anki.tenderapp.com/discussions/ankidesktop/21167-captcha-hell) . Note that tenderapp.com (where sites) Knowledgebase not ClownFucked. New ticket for only created problems for CloudFlare: https://anki.tenderapp.com/discussions/ankidesktop/21203-user-guide-now-blocked-by-cloudflare
-annual rade.com
-annual ticik.com
+ankisrs.net	[flossp] <= after yesterday complained that each new thread created require google captcha (in addition to the registration process is tested once), they put their web - site on the cloudflare * today *. perhaps it's a coincidence. they are allowed to place a complaint ( https://anki.tenderapp.com/discussions/ankidesktop/21167-captcha-hell) . note that tenderapp.com (where sites) knowledgebase not clownfucked. new ticket for only created problems for cloudflare: https://anki.tenderapp.com/discussions/ankidesktop/21203-user-guide-now-blocked-by-cloudflare
+annualrade.com
+annualticik.com
 anonews.co
 anonhq.com
 anonimg.com
@@ -75,7 +74,7 @@ anonops.com
 anony.ws
 ansonalex.com
 answersingenesis.org
-anticapitalism.party 
+anticapitalism.party
 anxbtc.com
 anydayguide.com
 apkarea.com
@@ -84,9 +83,9 @@ appbrain.com
 applicationprivacy.org
 apps.evozi.com
 arabnews.com
-archive.fo -> sometimes archive.is forwards there? GOD I HATE CLOWNFLARE! -> archive.is also clownflared now
+archive.fo	<- sometimes archive.is forwards there? god i hate clownflare! -> archive.is also clownflared now
 archive.is
-archive.today  <= that's a damn shame. We need this site to view other blocked sites. -> archive.is -> also clownflared now, sorry for ever having used them.
+archive.today	<- that's a damn shame. we need this site to view other blocked sites. -> archive.is -> also clownflared now, sorry for ever having used them.
 arenalsounddream.com
 arhivach.org
 arkency.com
@@ -97,24 +96,24 @@ artofmanliness.com
 artstation.com
 artuk.org
 ashedryden.com
-askamanager.org <= you can not alphebetize. "Art" is preceded by "to ask" How about in order to make a stronger clownflared sites database ... and let the computer in alphabetical order ??
+askamanager.org	<- you can not alphebetize. "art" is preceded by "to ask" how about in order to make a stronger clownflared sites database ... and let the computer in alphabetical order ??
 askkissy.com
 atimes.com
 atlasobscura.com
 atma.hr
 audiobookbay.me
 autostraddle.com
-avaaz.org <- contacted december 2015 via form (reported as tech problem), no response no response, no change
+avaaz.org	<- contacted december 2015 via form (reported as tech problem), no response no response, no change
 avc.com
 avert.org
 avpixlat.info
 awarenessact.com
 ax.com
 azballcharterschools.org
-babelfish.com <- assholes just started using CF (oct.2016), just after translate.google.com became bot-hostile.
+babelfish.com	<- assholes just started using cf (oct.2016), just after translate.google.com became bot-hostile.
 bad-dragon.com
 barackobama.com
-bazil.org <- ! used by ethereum	
+bazil.org	<- ! used by ethereum	
 bccla.org
 beatworm.co.uk
 begeek.fr
@@ -124,9 +123,9 @@ belgbook.be
 bensira.org
 berniesanders.com
 bescherelletamere.fr
-bestvpn.c OM 
 bestvpn.com
 bestvpn.c om
+bestvpn.c om 
 betterexplained.com
 bettingexpert.com
 beyondchronic.com
@@ -148,7 +147,7 @@ bitcoinforks.org
 bitcoinfoundation.org
 bitcoinist.net
 bitcoin.it
-bitcoinjs.org  <- bitcoin companies should not have MiTMs guarding them.  That's just asking to compromise your users, especially when javascript is involved.
+bitcoinjs.org 	<- bitcoin companies should not have mitms guarding them.  that's just asking to compromise your users, especially when javascript is involved.
 bitcoinmagazine.com
 bitcoinqueue.com
 bitcoinstats.com
@@ -162,11 +161,11 @@ bitfinex.com
 bitimart.com
 bitinfocharts.com
 bitminter.com
-bitpay.com <= torproject uses the slimeballs < https://trac.torproject.org/projects/tor/ticket/18911 >, along with Paypal, and just keep the fools still feed them.
+bitpay.com	<= torproject uses the slimeballs	< https://trac.torproject.org/projects/tor/ticket/18911 >, along with paypal, and just keep the fools still feed them.
 bitquick.co
 bitsharestalk.org
 bitsofco.de
-bittylicious.com <- custom page
+bittylicious.com	<- custom page
 bitwala.io
 bizcampus.co
 bizpacreview.com
@@ -180,7 +179,7 @@ bloger.hr
 blog.mailgun.com
 blog.onahole.eu
 blog.rtlwilson.com
-Blogs.com - it does not seem to use the tool blacklist the CloudFlare, - no more catpcha, no way to get access to the web - site "The owner of this website (blogs.com) did not forbid a country or region, your IP - address is in ( TOR) from access to this site. "
+blogs.com - it does not seem to use the tool blacklist the cloudflare, - no more catpcha, no way to get access to the web - site "the owner of this website (blogs.com) did not forbid a country or region, your ip - address is in ( tor) from access to this site. "
 bluenote.io
 bluescreenofjeff.com
 bmj.com
@@ -217,7 +216,7 @@ casnocha.com
 catalyst-journal.com
 catholic.com
 cbj.ca
-ccc.qld.gov.au - Australian (Queensland) Government of Khabarovsk - Crime and Misdonduct commission - charged with investigating corruption - CloudFlare Ray ID: at the moment - at @ Bfree5150 
+ccc.qld.gov.au - australian (queensland) government of khabarovsk - crime and misdonduct commission - charged with investigating corruption - cloudflare ray id: at the moment - at @ bfree5150 
 ccmi.com
 cdn6-blog.p2pfoundation.net (main site seems to work)
 celebjihad.com
@@ -226,12 +225,12 @@ celebritytypes.com
 celinedion.com
 celluloid.io
 cem.me
-centrelink.gov.au (custom unit CloudFlare page)
+centrelink.gov.au (custom unit cloudflare page)
 cepr.net
 certificatedetails.com
 ceus-now.com
 cex.io
-change.org (we could start a petition on Change.org to ask change.org unlock torus - made, https://www.change.org/p/change-org-change-org-stop-using-cloudflare Tweet to @ jeffcliff1 proposals for wording) forget about them; promotion of its competitors instead (Care2, openpetition etc.). BTW, change.org was a lousy place to put the petition. It is better to file a petition on Change.org openpetition. But this is a bad idea anyway b / c it can backfire--, if they are in the white list torus, worse, b / c it feeds Cloudflare and damaging boycott change.org. Boycott better when there are good competitors.
+change.org (we could start a petition on change.org to ask change.org unlock torus - made, https://www.change.org/p/change-org-change-org-stop-using-cloudflare tweet to @ jeffcliff1 proposals for wording) forget about them; promotion of its competitors instead (care2, openpetition etc.). btw, change.org was a lousy place to put the petition. it is better to file a petition on change.org openpetition. but this is a bad idea anyway b / c it can backfire--, if they are in the white list torus, worse, b / c it feeds cloudflare and damaging boycott change.org. boycott better when there are good competitors.
 chathamhouse.org
 chat.hr
 chaturbate.com
@@ -248,7 +247,7 @@ cigionline.org
 cijnews.com
 cinemablend.com
 cineworldyapim.com
-citizenfourfilm.com (really? c'mon)  Snowden himself occasionally tweets links to CloudFlare, sadly enough.  He's a hero, but not exempt from criticism.. call it out when you see it.
+citizenfourfilm.com (really? c'mon)  snowden himself occasionally tweets links to cloudflare, sadly enough.  he's a hero, but not exempt from criticism.. call it out when you see it.
 cityam.com
 cityofhope.org
 civicfest.org
@@ -294,7 +293,7 @@ conceptualrevolutions.com
 conda-forge.org
 congress.gov
 connectinghappinessandsuccess.com
-conservative.ca <- was there any doubt?  US corporation behind the domain name.
+conservative.ca	<- was there any doubt?  us corporation behind the domain name.
 conservativedailypost.com
 conservativefiringline.com
 conservativetribune.com
@@ -315,11 +314,11 @@ crowarez.org
 crowdcube.com
 crowdfireapp.com
 crowdsupply.com
-crowdsupply.com <- heavily clownflared. pity
-crservers.com <- hosters that rely on cloudflare for their website expose themselves to extreme ridicule ...
-cryfs.org [FLOSSp] <- one software project, the authors think that a domain name looks professional. No, it does not. No, if it clownflared. it makes you look like an amateur. if it is not cloudflared documentation. -> Page discussoin
-cryfs.org <-- yet another software project whose authors think a domain name looks professional. no it doesn't. not if it's clownflared. then it makes you look like amateurs.
-cryfs.org <-- yet another software project whose authors think a domain name looks professional. no it doesn't. not if it's clownflared. then it makes you look like amateurs. if it's cloudflared it ain't documentation. -> discussoin page
+crowdsupply.com	<- heavily clownflared. pity
+crservers.com	<- hosters that rely on cloudflare for their website expose themselves to extreme ridicule ...
+cryfs.org	[flossp]	<- one software project, the authors think that a domain name looks professional. no, it does not. no, if it clownflared. it makes you look like an amateur. if it is not cloudflared documentation. -> page discussoin
+cryfs.org	<-- yet another software project whose authors think a domain name looks professional. no it doesn't. not if it's clownflared. then it makes you look like amateurs.
+cryfs.org	<-- yet another software project whose authors think a domain name looks professional. no it doesn't. not if it's clownflared. then it makes you look like amateurs. if it's cloudflared it ain't documentation. -> discussoin page
 cryptocoinsnews.com
 cryptocompare.com
 cryptogon.com
@@ -346,7 +345,7 @@ daohub.org
 darkpi.com
 darkreading.com
 dashforcenews.com
-dash.org <- alternative cryptocurrency
+dash.org	<- alternative cryptocurrency
 daskapital.nl
 databreaches.net
 davidicke.com
@@ -354,16 +353,16 @@ daysoftheyear.com
 dazzleships.net
 dcclothesline.com
 dc.gov
-debian-administration.org <- [FLOSSp]
+debian-administration.org	<-	[flossp]
 debtmoney.xyz
-decentsecurity.com <= bit disappointing twtr user @SwiftOnSecurity uses CF
+decentsecurity.com	<= bit disappointing twtr user @swiftonsecurity uses cf
 decryptedmatrix.com
 deepdotweb.com
 defcad.org
 defdist.org
 defense-update.com
 defoo.org
-@DEPRECATED - will be moving to two seperate files soon.
+@deprecated - will be moving to two seperate files soon.
 designboom.com
 desmogblog.com
 desmog.ca
@@ -373,7 +372,7 @@ dev-list.com
 dhakatribune.com
 diem25.org
 die.net
-digitalenvelopes.email <= I am sure I have it lised. I do not know why he disappeared. Relisting it now. Please note that the owner denies blocking Tor, and seem uninterested in solving the problem.
+digitalenvelopes.email	<= i am sure i have it lised. i do not know why he disappeared. relisting it now. please note that the owner denies blocking tor, and seem uninterested in solving the problem.
 digitalfernsehen.de
 digitalmunition.me
 digitalmusicnews.com
@@ -391,7 +390,7 @@ documentaryheaven.com
 documentup.com
 domino.roilipman.com
 domraider.io
-donaldjtrump.com <= rightly so!  Keep that asshole in his walled-garden with custom CloudFlare block.  Perhaps Torproject should redirect to the site with that photomosaic of cocks that produce Trumps pic :) when that gets elected, it's moot ayway cause what u need then is not Tor, but a nuclear-proof bunker ...
+donaldjtrump.com	<= rightly so!  keep that asshole in his walled-garden with custom cloudflare block.  perhaps torproject should redirect to the site with that photomosaic of cocks that produce trumps pic :) when that gets elected, it's moot ayway cause what u need then is not tor, but a nuclear-proof bunker ...
 dontbreakourphones.org
 donttrustcable.com
 douglasvanbossuyt.com
@@ -411,7 +410,7 @@ dwapi.com
 dwarfpool.com
 e27.co
 e621.net
-early-retirement.org <= recently joined the CF walled garden
+early-retirement.org	<= recently joined the cf walled garden
 ebooks-downloads.net	
 ebooksdownloads.xyz
 ebooksforfree.org
@@ -428,7 +427,7 @@ elementary.io
 elementaryos.org
 elephantjournal.com
 elysium-project.org
-emergentor.org <-- cryptocurrency :( !
+emergentor.org	<-- cryptocurrency :( !
 emojipedia.org
 encyclopediadramatica.se
 endingthefed.com
@@ -460,7 +459,7 @@ exploit-exercises.com
 exploitthis.com
 explosm.net
 expressjs.com
-extralunchmoney.com (NSFW)
+extralunchmoney.com (nsfw)
 extratorrent.com
 eztv.ch
 ezwatch.com
@@ -471,7 +470,7 @@ famousscientists.org
 farmlandgrab.org
 fashionunited.uk
 fas.org
-fbi.gov (custom CloudFlare pages block, check the source for Cloudflare JS and rays ID)
+fbi.gov (custom cloudflare pages block, check the source for cloudflare js and rays id)
 feathercoin.com
 feedly.com
 feedvalidator.org
@@ -485,13 +484,13 @@ files.mastadon.social
 files.mastodon.social
 filminitaliano.com
 filmovita.com
-fitinjehoofd.be <= class assignment requires students to visit this CFd page.  Not sure what's on that page-- I don't do captchas, so I'm skipping the assignment.
+fitinjehoofd.be	<= class assignment requires students to visit this cfd page.  not sure what's on that page-- i don't do captchas, so i'm skipping the assignment.
 fixmynix.com
 flightradar24.com
 f-list.net
 floppingaces.net
-flushthetpp.org <=, they argue that to oppose the "corporatocracy", but happy to feed centalized largest web corporations exist.
-flushthetpp.org <= they claim to oppose "corporatocracy", but are happy to feed the biggest centalized web corporation to exist.
+flushthetpp.org	<=, they argue that to oppose the "corporatocracy", but happy to feed centalized largest web corporations exist.
+flushthetpp.org	<= they claim to oppose "corporatocracy", but are happy to feed the biggest centalized web corporation to exist.
 fmdmp3.co
 foaas.com
 fok.nl
@@ -513,18 +512,18 @@ freelists.org
 freemusicarchive.org
 freemyapps.com
 free.niooz.fr
-freenode.net <= site is not cloudflared. But on the whole IRC network Tor blocks (without Cloudflare) may be removed from this list.
+freenode.net	<= site is not cloudflared. but on the whole irc network tor blocks (without cloudflare) may be removed from this list.
 freethoughtblogs.com
 frontlineclub.com
 frontpagemag.com
 fteproxy.org
-fteproxy.org <- EEK! beyond ironic. cloudflare mildew inside the Tor software ecosystem. this is a censorship circumvention tool to be used with Tor and guess what? their fucking HOMEPAGE is clownflared!!!! SOMEONE EDUCATE THESE PEOPLE PLEASE! was about to rejoice because libFTE seems to supersede it? but guess what libfte.org is CLOWNFLARED TOO! to coin a meme: if it's cloudflared, it ain't documentation. if a FLOSS project's homepage is cloudflared, it's not a homepage but a joke.
+fteproxy.org	<- eek! beyond ironic. cloudflare mildew inside the tor software ecosystem. this is a censorship circumvention tool to be used with tor and guess what? their fucking homepage is clownflared!!!! someone educate these people please! was about to rejoice because libfte seems to supersede it? but guess what libfte.org is clownflared too! to coin a meme: if it's cloudflared, it ain't documentation. if a floss project's homepage is cloudflared, it's not a homepage but a joke.
 fuelly.com
 fuirestunepulsion.net
 full-stop.net
 fulltv.guide
 funintel.com
-funkyimg.com <= pic-upload.de alternative also CFd
+funkyimg.com	<= pic-upload.de alternative also cfd
 funny-pictures-blog.com
 futureoflife.org
 futurism.com
@@ -558,15 +557,15 @@ giaynam.co
 gigahype.com
 giphy.com
 girlsjustwannahaveguns.com
-gitbook.com <- if it's behind the great cloudwall it ain't documentation	
+gitbook.com	<- if it's behind the great cloudwall it ain't documentation	
 gizmodo.com.au
 glassdoor.com
 gledajfilm.net
 globalchallenges.org
 globalprivacywatch.com
 globalresearch.ca
-gnuradio.org [FLOSSp] <= mention (the CloudFlare Implemented) TOR's ban on #gnuradio Irc / Freenode, get kicked out of the channel (the guy in charge of the radio wildebeest former military - the Navy, because neoconservatism is not surprising), Note that gnuradio was invited FOSDEM 2017. IMO it's a bad idea for FOSDEM organizers invite Tor-hostile projects, because it presents itself as open to all, and not any - the exclusive corporate fenced garden. Please complain at FOSDEM reps on this occasion .. might PPL must send conduct@fosdem.org. In principle, it would be good to have an anti-gnuradio demonstration at FOSDEM, but I know that the team is not organized against CloudFlare enough to pull it off.
-gocoin.com (xcfd.com concludes with gocoin.com, but the transaction between the bypass CloudFlare. We still need to boycott them both)
+gnuradio.org	[flossp]	<= mention (the cloudflare implemented) tor's ban on #gnuradio irc / freenode, get kicked out of the channel (the guy in charge of the radio wildebeest former military - the navy, because neoconservatism is not surprising), note that gnuradio was invited fosdem 2017. imo it's a bad idea for fosdem organizers invite tor-hostile projects, because it presents itself as open to all, and not any - the exclusive corporate fenced garden. please complain at fosdem reps on this occasion .. might ppl must send conduct@fosdem.org. in principle, it would be good to have an anti-gnuradio demonstration at fosdem, but i know that the team is not organized against cloudflare enough to pull it off.
+gocoin.com (xcfd.com concludes with gocoin.com, but the transaction between the bypass cloudflare. we still need to boycott them both)
 godfitting.com
 goldprice.org
 go l.hr
@@ -595,7 +594,7 @@ guttmacher.org
 guwsmedical.info
 guya.net
 gzdgzu.com
-hackcanada.com <- really guys?
+hackcanada.com	<- really guys?
 hackerboards.com
 hackerone.com
 hackfest.ca
@@ -607,7 +606,7 @@ happybearsoftware.com
 harbourfest.ca
 hardforum.com
 havebitcoin.com
-haveibeenpwned.com ("DDoS protection by CloudFlare / Ray ID: 321d437f7b26290e")
+haveibeenpwned.com ("ddos protection by cloudflare / ray id: 321d437f7b26290e")
 havelockinvestments.com 
 haymarketbooks.org
 h dz.hr
@@ -625,7 +624,7 @@ hitler.rocks
 hitler.rocks hookers.nl
 hldataprotection.com
 hlmeeting.com
-Hmarivebkcom
+hmarivebkcom
 hokstad.com
 hollywoodreporter.com
 holytransaction.com
@@ -641,7 +640,7 @@ hrvatskinamjestaj.hr
 hs3x.com
 html5boilerplate.com
 humanevents.com
-humanservices.gov.au (custom CloudFlare block page)
+humanservices.gov.au (custom cloudflare block page)
 hummingbird.me
 hyperallergic.com
 hypergeeky.com
@@ -666,7 +665,7 @@ imgsking.com
 immortal.org
 importantcool.com
 importantcool.net
-improbable.com (perhaps they should be awarded the prize for his Ig)
+improbable.com (perhaps they should be awarded the prize for his ig)
 index.hr
 indoxxi.online
 infacts.org
@@ -677,7 +676,7 @@ instituteforenergyresearch.org
 intagme.com
 interasistmen.se
 interledger.org
-internetdefenseleague.org (! - the internet/www need defending from Cloudflare!)
+internetdefenseleague.org (! - the internet/www need defending from cloudflare!)
 interserver.net
 inthesetimes.com
 iol.co.za
@@ -692,7 +691,6 @@ is.gd
 islamcity.co
 islamcity.com
 islamicity.com
-Islamland.com
 islamland.com
 islampos.com
 islamqa.info
@@ -700,7 +698,6 @@ islamreligion.com
 islamswomen.com
 islamtoday.net
 islamtomorrow.com
-Islam-watch.org
 islam-watch.org
 isohunt.to
 ispace.hr
@@ -772,7 +769,7 @@ lastwordonnothing.com
 latest.com
 latesthackingnews.com
 latribune.fr
-lawfareblog.com <= these guys have twitter Acct and intensively used Tinyurl links. They must be pressured to stop using TinyURL.
+lawfareblog.com	<= these guys have twitter acct and intensively used tinyurl links. they must be pressured to stop using tinyurl.
 lawnow.org
 le360.ma
 leagueoflegends.com
@@ -787,8 +784,8 @@ libertarianism.org
 libertyfoundationgospelministries.org
 liberty.me
 libertyvps.net
-libfte.org <-- cf. fteproxy.org. if it's cloudflared, it ain't documentation. 
-libfte.org <- Wed fteproxy.org. if cloudflared, this document does not . 
+libfte.org	<-- cf. fteproxy.org. if it's cloudflared, it ain't documentation. 
+libfte.org	<- wed fteproxy.org. if cloudflared, this document does not . 
 libraries.io
 libra.tech
 libretro.com
@@ -817,7 +814,7 @@ loc.gov
 lockergnome.com
 loomio.org
 lovethesepics.com
-lowendbox.com <- someone also wrote they don't want regisrations from exitnodes. dumb fuckers.
+lowendbox.com	<- someone also wrote they don't want regisrations from exitnodes. dumb fuckers.
 lowendtalk.com
 loweringthebar.net
 lzone.de
@@ -825,7 +822,7 @@ macworld.co.uk
 madinamerica.com
 magic999.ca
 mahaveercrafts.com
-mailinator.com <- oh no! 10minutemail.com too
+mailinator.com	<- oh no! 10minutemail.com too
 maizegdb.org
 makeagif.com
 makeameme.org
@@ -841,7 +838,7 @@ matslats.net
 mcgrefer.com
 meaww.com
 mecanis.me
-medicare.gov.au (custom CloudFlare block page)
+medicare.gov.au (custom cloudflare block page)
 medium.com
 meetup.com
 meforum.org
@@ -877,14 +874,14 @@ moquet.net
 mosaicscience.com
 moscow.sci-hub.io (only subdomains?)
 movecommons.org
-moveon.org <= was tor-friendly when change.org was not, and they were praised for it. Gave no acknowledgement, then the asshats decided to use CF. Hopeless- promote their competitors instead (care2, openpetition,etc)
+moveon.org	<= was tor-friendly when change.org was not, and they were praised for it. gave no acknowledgement, then the asshats decided to use cf. hopeless- promote their competitors instead (care2, openpetition,etc)
 movierender.com
 mp3zack.tk
 mpp.org
 muflihun.com
 mukto-mona.com
 multiwebconverter.com
-musalbas.com <- it is better to know SHD
+musalbas.com	<- it is better to know shd
 musopen.org
 mydigitallife.info
 mygully.com
@@ -925,7 +922,7 @@ newsfeed.ph
 newsring.fr
 newworldencyclopedia.org
 nicehash.com
-nickbostrom.com <- one of the most important pages on the web :(
+nickbostrom.com	<- one of the most important pages on the web :(
 nimohunter.com
 nimportequi.com
 nknews.org
@@ -933,7 +930,7 @@ nofilmschool.com
 nomadcapitalist.com
 nonprofitquarterly.org
 notalwaysright.com
-not avaaz.org <- contacted in December 2015 in the form (stated as a technical problem), no response is no response, no change
+not avaaz.org	<- contacted in december 2015 in the form (stated as a technical problem), no response is no response, no change
 novacrystallis.com
 novafusion.pl
 nrwz.de
@@ -943,7 +940,7 @@ numer.ai
 nuuktv.gl
 nvcopblock.org
 nwcbooks.com
-oanda.com <= is used officially by the Belgian government for the tax rates for FX! Taxpayers do official business should not be forced to use CloudFlare site.
+oanda.com	<= is used officially by the belgian government for the tax rates for fx! taxpayers do official business should not be forced to use cloudflare site.
 obamadecides.org
 observatorial.com
 occupydemocrats.com
@@ -968,7 +965,7 @@ opendime.com
 opendyslexic.org
 openjurist.org
 openruby.com
-opensecrets.org <= dipshit hypocrits bitched when they were denied access to the Republican National Convention, yet they use CF to block the people accessing their content.
+opensecrets.org	<= dipshit hypocrits bitched when they were denied access to the republican national convention, yet they use cf to block the people accessing their content.
 opensourceecology.org
 opentech.fund
 opentechsummit.net
@@ -980,7 +977,7 @@ osdir.com
 ottawatoollibrary.com
 ourworldindata.org
 out.com
-outernet.is <= "outernet for all " is mentioned on their Twitter Accounts.
+outernet.is	<= "outernet for all " is mentioned on their twitter accounts.
 outsideonline.com
 overdrivedesign.biz
 ovpro.nl
@@ -991,10 +988,11 @@ pando.com
 panow.com
 parade.com
 passportindex.org
-pastebin.com <= there is abundant alternative to Pastebin, therefore promoting alternatives better than trying to turn Pastebin
-pastehtml.com (only the homepage is CloudFlared - internal pages on the same domain are not CF'd - e.g.http://pastehtml.com/view/bscbw9x5i.html) If someone knows of alternatives to pastehtml please mention them here
+pastebin.com	<= there is abundant alternative to pastebin, therefore promoting alternatives better than trying to turn pastebin
+paste.ee
+pastehtml.com (only the homepage is cloudflared - internal pages on the same domain are not cf'd - e.g.http://pastehtml.com/view/bscbw9x5i.html) if someone knows of alternatives to pastehtml please mention them here
 paticik.com
-patreon.com <- the great "platform" everyone's talking about and what, no https and clownflared? go FUCK yourselves, this is fucking 2016
+patreon.com	<- the great "platform" everyone's talking about and what, no https and clownflared? go fuck yourselves, this is fucking 2016
 patrikagroup.in
 paxful.com
 pcadvisor.co.uk
@@ -1005,7 +1003,7 @@ pdfsr.com
 peerio.com
 pembinavalleyonline.com
 pennywong.com.au
-pen.org <- ! 
+pen.org	<- ! 
 perens.com
 perjalananumroh.com
 perpetuallineup.org
@@ -1015,7 +1013,7 @@ petitweb.fr
 phantis.com
 phonesdevelopers.com
 phoronix.com
-pic-upload.de <= a pastebin-like site but for images. Alternative site: imgur
+pic-upload.de	<= a pastebin-like site but for images. alternative site: imgur
 pineapplefund.org
 pingdom.com
 piratebay.to
@@ -1036,11 +1034,11 @@ pokemonshowdown.com
 pokerpro.cc
 politicsbreaking.com
 poljoprivredni-forum.com
-poloniex.com <- custom page: ONE MORE STEP
+poloniex.com	<- custom page: one more step
 pony.town
 popsubculture.com
 populationpyramid.net
-postimage.org <= pic-upload.de alternative also CFd
+postimage.org	<= pic-upload.de alternative also cfd
 postpartumprogress.com
 potcoin.com
 powerlineblog.com
@@ -1048,8 +1046,8 @@ prado.it
 prairiedogmag.com
 preciousplastic.com
 premsocks.com
-pressfreedomfoundation.org <- amazing ...
-pressfreedomfoundation.org <-- astonishing ...
+pressfreedomfoundation.org	<- amazing ...
+pressfreedomfoundation.org	<-- astonishing ...
 pressprogress.ca
 pressthink.org
 primary.guide
@@ -1076,12 +1074,12 @@ psiphon.ca
 psx-scene.com
 psychcentral.com
 psychotherapy.net
-psypopubpub.org <= Snowden is part of the work "published" on this sitest.org
+psypopubpub.org	<= snowden is part of the work "published" on this sitest.org
 psypost.org
 publicdomainreview.org
 publicseminar.org
-pubpub.org <= some of Snowden's work is "published" on this site
-puri.sm <=? they seem to be on the CF now (checked on 7/1/2017)
+pubpub.org	<= some of snowden's work is "published" on this site
+puri.sm	<=? they seem to be on the cf now (checked on 7/1/2017)
 putintrump.org
 putoholicari.com
 puu.sh
@@ -1099,7 +1097,7 @@ qubes-os.org no longer 2016/08
 qubes-os.org not anymore 2016/08
 queerty.com
 quilljs.com
-quizlet.com <= used by (naive) teachers.. not good to have cloudflare blocking educational material
+quizlet.com	<= used by (naive) teachers.. not good to have cloudflare blocking educational material
 quizzstar.com
 quoinex.com
 qwertee.com
@@ -1175,7 +1173,7 @@ sardco.com
 saskndp.ca
 saskparty.com
 savemedia.com
-savenetneutrality.eu <= embarrassing!
+savenetneutrality.eu	<= embarrassing!
 savevideo.me
 sayzlim.net
 schd.ws
@@ -1199,7 +1197,7 @@ serijex.com
 serversupportforum.de
 setimes.com
 sgtreport.com
-shapeshift.io <= Bitcoin exchange. We should be publicly ridculing Bitcoin companies that use the CloudFlare, because the money people at risk (exposed MiTM). Danger w / BTC on CloudFlare is essential. ~> Discussion Page
+shapeshift.io	<= bitcoin exchange. we should be publicly ridculing bitcoin companies that use the cloudflare, because the money people at risk (exposed mitm). danger w / btc on cloudflare is essential. ~> discussion page
 shapeways.com
 shared.com
 shark-tank.com
@@ -1262,7 +1260,7 @@ sskaje.me
 ssrn.com
 starcitygames.com
 starfelia.com
-start.1password.com (just sign up, and not the entire website breaks through Tor registration)
+start.1password.com (just sign up, and not the entire website breaks through tor registration)
 startjoin.com
 state.io
 status.im
@@ -1283,10 +1281,11 @@ sunatimes.com
 sunnahonline.com
 support.cisco.com
 supportforums.cisco.com
-swappa.com <= a list of devices with a free pre-installed OSs. If you find a replacement site for this information, please refresh this wiki => https://libreplanet.org/wiki/Group:Giving_Guide_2012#Hardware
-swft.so (swiftsocial.com URL Shortener)
+swappa.com	<= a list of devices with a free pre-installed oss. if you find a replacement site for this information, please refresh this wiki => https://libreplanet.org/wiki/group:giving_guide_2012#hardware
+swft.so (swiftsocial.com url shortener)
 swiftsocial.com
 swiss-miss.com
+switter.at
 syllable.org
 symmetrymagazine.org
 synfig.org
@@ -1302,7 +1301,7 @@ tastekid.com
 tcf.org
 tecadmin.net
 techbeasts.com
-techdirt.com WILL WHITELIST SOON <= it's whitelisted now. And it's a fuckin' shame b/c it's harder for Tor users to know to boycott them. It's harder to pressure a site to abandon CloudFlare when they know of the whitelisting option.  Not good that they will now continue to feed the CloudFlare monster. ~> discussion page
+techdirt.com will whitelist soon	<= it's whitelisted now. and it's a fuckin' shame b/c it's harder for tor users to know to boycott them. it's harder to pressure a site to abandon cloudflare when they know of the whitelisting option.  not good that they will now continue to feed the cloudflare monster. ~> discussion page
 technott.com
 techposts.org
 techraptor.net
@@ -1312,7 +1311,7 @@ telegraphindia.com
 teradown.com
 tert.am
 testandverification.com
-textfiles.com (not in itself CloudFlare site, but many of the mirrors links are CloudFlare sites at the top of the page). owner's philosophy assumes that it will oppose the CloudFlare, if informed of this.
+textfiles.com (not in itself cloudflare site, but many of the mirrors links are cloudflare sites at the top of the page). owner's philosophy assumes that it will oppose the cloudflare, if informed of this.
 textopus.nl
 tezos.com
 theahafoundation.org
@@ -1369,7 +1368,7 @@ theplaidzebra.com
 thepoliticalinsider.com
 theprice2016.xyz
 therealstanlee.com
-theregister.co.uk (Please turn JavaScript on and reload the page. 2016/03)
+theregister.co.uk (please turn javascript on and reload the page. 2016/03)
 therightscoop.com
 therightstuff.biz
 thesoftwarebank.com
@@ -1440,7 +1439,7 @@ ubitquity.io
 ucsf.edu
 ukpollingreport.co.uk
 ultraculture.org
-ultraimg.com <= pic-upload.de alternative also CfD
+ultraimg.com	<= pic-upload.de alternative also cfd
 ummah.com
 unblocked.bid
 unhypem.com
@@ -1501,7 +1500,7 @@ weatherservices.co
 webhostingtalk.com
 webinspector.se
 webmajstori.net
-webrtchacks.com <- What is it then?
+webrtchacks.com	<- what is it then?
 websta.me
 webwiki.com
 weev.net
@@ -1522,12 +1521,12 @@ wiki.cyanogenmod.org to coin a meme: if it's cloudflared, it ain't documentation
 wikiislam.net
 wiki.keyweb.ru
 wikileaksparty.org.au
-wiki.tcl.tk <= they claim CF is used so they don't have to clean up spam. They also say no one else complains about the Tor block.
+wiki.tcl.tk	<= they claim cf is used so they don't have to clean up spam. they also say no one else complains about the tor block.
 willshouse.com
-wireshark.org [FLOSSp] <- if cloudflared, it is not documentation . 
+wireshark.org	[flossp]	<- if cloudflared, it is not documentation
 without-systemd.org
 wmgk.com
-w Odan.Io
+wodan.io
 womenshealthmag.com
 worldcoinindex.com
 worldofislam.info
@@ -1537,7 +1536,7 @@ www.geekfill.com
 www.sciencebasedmedicine.org
 xapo.com
 xato.net
-xda-university.com <= the mods abuse their power on xda-developers.com to a great extent. With censorship rampant, there's little hope for them. Better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store IMEI there. a board where the powers that be have that much influence is no damn good
+xda-university.com	<= the mods abuse their power on xda-developers.com to a great extent. with censorship rampant, there's little hope for them. better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store imei there. a board where the powers that be have that much influence is no damn good
 xmovies8.ru
 x-true.info
 yatse.tv

@@ -15,5 +15,5 @@ See [FAQ](FAQ) for Frequently Asked Questions
 
 * see [our list of recommended actions](what-to-do.txt).
 
-There are [other lists](https://github.com/pirate/sites-using-cloudflare), but this one is one where every entry on the list a human being has actually tried
+There are [other](https://trac.torproject.org/projects/tor/wiki/org/doc/ListOfServicesBlockingTor) [lists](https://github.com/pirate/sites-using-cloudflare), but this one is one where every entry on the list a human being has actually tried
 to go to, and has been blocked.

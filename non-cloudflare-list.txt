@@ -3,7 +3,8 @@ Freenode IRC servers (all exits, can result in auto kline)
 abebooks.com (403)
 aboutdebian.com (Access denied. Your IP address [185.62.188.14] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.)
 adidas.de (Access Denied You don't have permission to access "http://www.adidas.de/" on this server.) / 2016-04-29
-http://adsabs.harvard.edu (We are sorry to inform you that your access to the ADS services has been denied.)
+Akamai's "An error occurred while processing your request. Reference #97.654e1502.1463601822.94b341" is that Tor specific?
+adsabs.harvard.edu (We are sorry to inform you that your access to the ADS services has been denied.)
 aidspolicyproject.org (some IPs)
 airbnb.com - cannot search, gives 504 error
 altcoins.com
@@ -241,7 +242,6 @@ forums.whirlpool.net.au (“Access to whirlpool.net.au from this location has be
 zara.com
 NetZone AG whole address range blocked 212.243.197.0 - 212.243.197.127
 woz.ch (timed out, firewalled)
-Akamai's "An error occurred while processing your request. Reference #97.654e1502.1463601822.94b341" is that Tor specific?
 
 
 
