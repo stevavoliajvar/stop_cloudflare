@@ -237,6 +237,7 @@ yelp.com (all exits)
 davidmburke.com
 youbetrayedus.org
 philosophybasics.com (oddly philosophybasics.com works)
+verge.com ("forbidden")
 whatthefuckshouldimakefordinner.com/index.php (Access denied. Your IP address [163.172.223.200] is blacklisted. If you feel this is in error please contact your hosting providers abuse department)
 forums.whirlpool.net.au (“Access to whirlpool.net.au from this location has been restricted due to suspicious activity.” which is the only response even if you just try to GET/read something there.)
 zara.com
