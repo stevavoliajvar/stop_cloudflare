@@ -168,7 +168,11 @@ Trusted Third Parties are Security Holes[8].
 
 https://toot.cafe/@peter/99398584471715976
 
-14) Followup / Further research:
+14) Cloudflare's reasons for taking websites down so far
+
+http://pleroma.oniichanylo2tsi4.onion/notice/1563
+
+15) Followup / Further research:
 
 See also
 https://trac.torproject.org/projects/tor/wiki/org/doc/ListOfServicesBlockingTor
