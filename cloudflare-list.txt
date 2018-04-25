@@ -1,9 +1,3 @@
-womenyoushouldknow.net
-arabi21.com
-htxt.co.za
-dailydot.com
-econbrowser.com
-davidstockmanscontracorner.com
 10minutemail.com	<- alternatives: guerrillamail.com and getairmail.com
 131001.net
 131002.net
@@ -56,6 +50,7 @@ al-kanz.org
 allaboutcircuits.com
 alluc.ee
 almasdarnews.com
+al-monitor.com
 alphabaymarket.net
 alphabeatic.com
 alternatiesto.net
@@ -87,6 +82,7 @@ apost.com
 appbrain.com
 applicationprivacy.org
 apps.evozi.com
+arabi21.com
 arabnews.com
 archive.fo	<- sometimes archive.is forwards there? god i hate clownflare! -> archive.is also clownflared now
 archive.is
@@ -332,6 +328,7 @@ cyberbunker.com
 cyberciti.biz
 cyber.sci-hub.io 
 dailycaller.com
+dailydot.com
 dailystormer.com
 damn.com
 dancarlin.com
@@ -345,7 +342,9 @@ dashforcenews.com
 dash.org	<- alternative cryptocurrency
 daskapital.nl
 databreaches.net
+datascienceplus.com
 davidicke.com
+davidstockmanscontracorner.com
 daysoftheyear.com
 dazzleships.net
 dcclothesline.com
@@ -412,6 +411,7 @@ ebooksforfree.org
 ebooktake.in
 echtlustig.com
 eclipse2017.org
+econbrowser.com
 economicblogs.org
 e-demokratie.org
 edge.org
@@ -481,6 +481,7 @@ fitinjehoofd.be	<= class assignment requires students to visit this cfd page.  n
 fixmynix.com
 flightradar24.com
 f-list.net
+flogao.com.br
 floppingaces.net
 flushthetpp.org	<= they claim to oppose "corporatocracy", but are happy to feed the biggest centalized web corporation to exist.
 fmdmp3.co
@@ -623,6 +624,7 @@ hpmor.com
 hrvatskinamjestaj.hr
 hs3x.com
 html5boilerplate.com
+htxt.co.za
 humanevents.com
 hummingbird.me
 hyperallergic.com
@@ -1221,6 +1223,7 @@ southfloridagaynews.com
 spaceappschallenge.org
 spacenews.com
 spanishinvaders.cat
+spectrocoin.com
 spinroot.com
 spiritualityandpractice.com
 spiritualityhealth.com
@@ -1495,6 +1498,7 @@ without-systemd.org
 wmgk.com
 wodan.io
 womenshealthmag.com
+womenyoushouldknow.net
 worldcoinindex.com
 worldofislam.info
 wrongisland.org

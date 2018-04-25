@@ -149,6 +149,7 @@ netbank.com.au
 networktools.nl (You don't have permission to access (...) on this server because you are currently blacklisted by a DNSBL server at: sbl-xbl.spamhaus.org)
 newark.com  (Access Denied You don't have permission to access ...)
 newgrounds.com ("Security Validation - Completing this captcha proves you are a human and helps keepNewgrounds free of spam and abuse!")
+novaecomic.com ("Access denied. Your IP address [185.220.101.30] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.")
 www.ncbi.nlm.nih.gov ("Your access to PubMed Central has been blocked because your Internet connection (IP address) was used to download content in bulk, in violation of the terms of the PMC Copyright Notice.")
 no2nsa.x10.bz (http-code 403)
 nsa.gov (timeout)
@@ -194,6 +195,7 @@ sydneypadua.com ("Access denied.  Your IP address [188.138.9.49] is blacklisted.
 forum.synology.com/enu/ ("You have been permanently banned from this board" some exits / 2016-12-22)
 talk.maemo.org
 techerator.com
+technologyreview.com ("We noticed you're browsing in private or incognito mode.  To continue reading this article, please exit incognito mode or log in.")
 thecultureblend.com
 thegrommet.com
 theislamicseminary.org ("Access denied.  Your IP address [171.25.193.131] is blacklisted.  If you feel this is in error please contact your hosting providers abuse department.")
