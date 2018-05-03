@@ -178,7 +178,7 @@ https://torrentfreak.com/cloudflare-and-riaa-agree-on-tailored-site-blocking-pro
 
 If they'll do it for the RIAA they'll do it for the MPAA/IFPI/ICE/IIPA/ACE/...
 
-15) Followup / Further research:
+16) Followup / Further research:
 
 See also
 https://trac.torproject.org/projects/tor/wiki/org/doc/ListOfServicesBlockingTor
