@@ -172,6 +172,12 @@ https://toot.cafe/@peter/99398584471715976
 
 http://pleroma.oniichanylo2tsi4.onion/notice/1563
 
+15) Cloudflare is cooperating with the RIAA to silence people the RIAA doesn't like.
+
+https://torrentfreak.com/cloudflare-and-riaa-agree-on-tailored-site-blocking-process-180501/
+
+If they'll do it for the RIAA they'll do it for the MPAA/IFPI/ICE/IIPA/ACE/...
+
 15) Followup / Further research:
 
 See also
