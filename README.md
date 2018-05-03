@@ -20,4 +20,4 @@ to go to, and has been blocked.
 
 # Who uses this list?
 
-At least one search engine / searx [instance] (http://searxes.danwin1210.me/).
+At least one search engine / searx [instance](http://searxes.danwin1210.me/).
