@@ -17,3 +17,7 @@ See [FAQ](FAQ) for Frequently Asked Questions
 
 There are [other](https://trac.torproject.org/projects/tor/wiki/org/doc/ListOfServicesBlockingTor) [lists](https://github.com/pirate/sites-using-cloudflare), but this one is one where every entry on the list a human being has actually tried
 to go to, and has been blocked.
+
+# Who uses this list?
+
+At least one search engine / searx [instance](http://searxes.danwin1210.me/).
