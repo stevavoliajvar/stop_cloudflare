@@ -201,7 +201,7 @@ Cloudflare support pages on the topic:
     https://support.cloudflare.com/hc/en-us/articles/200170056-What-is-CloudFlare-s-Ba bysic-Security-Level-
     https://support.cloudflare.com/hc/en-us/articles/200170116-What-do-the-Threat-Scores-mean-
 
-16) Sources
+17) Sources
 
 [1] http://themusicgod1.deviantart.com/art/the-great-cloudwall-1-595382698
 [2] http://www.youtube.com/watch?v=r3yIarp3J2o
