@@ -169,6 +169,7 @@ bitwala.io
 bizcampus.co
 bizpacreview.com
 blackhat.com
+bleepingcomputer.com
 bleutrade.com
 blockchain.com
 blockexplorer.com
@@ -216,6 +217,7 @@ catholic.com
 cbj.ca
 ccc.qld.gov.au	<- australian (queensland) government of khabarovsk - crime and misdonduct commission - charged with investigating corruption - cloudflare ray id: at the moment - at @ bfree5150 
 ccmi.com
+ccn.com
 cdn6-blog.p2pfoundation.net
 celebjihad.com
 celebrity-gossip.net
@@ -239,6 +241,7 @@ chomskylist.com
 christiaanconover.com
 christophercantwell.com
 chronicle.com
+chronicle.co.zw
 chronicle.su
 cifiaonline.com
 cigionline.org
@@ -265,6 +268,7 @@ cloudflare.com
 clutchmagonline.com
 cmxlog.com
 cneolithicstone.com
+cnx-software.com
 codeabitwiser.com
 codeforafrica.org
 codeschool.com
@@ -427,6 +431,7 @@ emojipedia.org
 encyclopediadramatica.se
 endingthefed.com
 enewspf.com
+enlightened-consciousness.com
 enterprisemission.com
 epochconverter.com
 erisindustries.com
@@ -652,6 +657,7 @@ importantcool.com
 importantcool.net
 improbable.com	<- perhaps they should be awarded the prize for his ig
 index.hr
+indiancountrymedianetwork.com
 indoxxi.online
 infacts.org
 inference.vc
@@ -781,6 +787,8 @@ lindseywilliams.net
 lintut.com
 linustechtips.com
 linuxaria.com
+linuxconfig.org
+linuxgizmos.com
 linuxhospital.com
 linuxine.com
 linuxluigi.com
@@ -860,6 +868,7 @@ moscow.sci-hub.io
 movecommons.org
 moveon.org	<= was tor-friendly when change.org was not, and they were praised for it. gave no acknowledgement, then the asshats decided to use cf. hopeless- promote their competitors instead (care2, openpetition,etc)
 movierender.com
+moviesto.me
 mp3zack.tk
 mpp.org
 muflihun.com
@@ -1172,6 +1181,7 @@ semicomplete.com
 seqanswers.com
 serijex.com
 serversupportforum.de
+seslisozluk.net
 setimes.com
 sgtreport.com
 shapeshift.io	<= bitcoin exchange. we should be publicly ridculing bitcoin companies that use the cloudflare, because the money people at risk (exposed mitm). danger w / btc on cloudflare is essential. ~> discussion page
