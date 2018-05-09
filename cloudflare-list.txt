@@ -16,6 +16,7 @@
 41j.com
 5280.com
 666surveillancesystem.com
+750words.com
 8ch.net
 99bitcoins.com
 9flats.com
@@ -88,6 +89,7 @@ archive.fo	<- sometimes archive.is forwards there? god i hate clownflare! -> arc
 archive.is
 archive.today	<- that's a damn shame. we need this site to view other blocked sites. -> archive.is -> also clownflared now, sorry for ever having used them.
 arenalsounddream.com
+arewedecentralizedyet.com
 arhivach.org
 arkency.com
 armorgames.com
@@ -239,6 +241,7 @@ chemicool.com
 chinadialogue.net
 chomskylist.com
 christiaanconover.com
+christianheritagefellowship.com
 christophercantwell.com
 chronicle.com
 chronicle.co.zw
@@ -325,6 +328,7 @@ cryptophoneaustralia.com
 cssdeck.com
 curiositystream.com
 curiousgnu.com
+currentaffairs.org
 currentresults.com
 customize.org
 cyanogenmod.org
@@ -552,6 +556,7 @@ giaynam.co
 gigahype.com
 giphy.com
 girlsjustwannahaveguns.com
+girls.moe
 gitbook.com
 gizmodo.com.au
 glassdoor.com
@@ -670,6 +675,7 @@ interledger.org
 internetdefenseleague.org
 interserver.net
 inthesetimes.com
+investors.com
 iol.co.za
 iota.org
 ipazin.net
@@ -692,6 +698,7 @@ islamtomorrow.com
 islam-watch.org
 isohunt.to
 ispace.hr
+israelhasbeenrocketfreefor.com
 itorrents.org
 itradesecurity.com
 itsfoss.com
@@ -727,6 +734,7 @@ kaymu.hr
 kelownanow.com
 kenoraonline.com
 keychest.net
+keysniffer.net
 kickasstorrents.cr
 kickasstorrents.to
 kickerdaily.com
@@ -924,6 +932,7 @@ nomadcapitalist.com
 nonprofitquarterly.org
 notalwaysright.com
 notavaaz.org	<- contacted in december 2015 in the form (stated as a technical problem), no response is no response, no change
+notion.so
 novacrystallis.com
 novafusion.pl
 nrwz.de
@@ -980,6 +989,7 @@ palemoon.org
 pandawhale.com
 pando.com
 panow.com
+papyrs.com
 parade.com
 passportindex.org
 pastebin.com	<= there is abundant alternative to pastebin, therefore promoting alternatives better than trying to turn pastebin
@@ -1040,6 +1050,7 @@ prado.it
 prairiedogmag.com
 preciousplastic.com
 premsocks.com
+prepressure.com
 pressfreedomfoundation.org
 pressprogress.ca
 pressthink.org
@@ -1194,6 +1205,7 @@ shoeboxed.com
 shopperapproved.com
 showstudio.com
 silenceisconsent.net
+siliconfilter.com
 sil.org
 silverdoctors.com
 simonsfoundation.org
@@ -1367,6 +1379,7 @@ thewinnower.com
 thewire.in
 thingiverse.com
 thinkpol.ca
+thisamericanlife.org
 thisiscolossal.com
 threadreaderapp.com
 threatbutt.com
@@ -1520,6 +1533,7 @@ xato.net
 xda-university.com	<= the mods abuse their power on xda-developers.com to a great extent. with censorship rampant, there's little hope for them. better to promote usenet group comp.mobile.android instead +1 you can't even discuss the format used to store imei there. a board where the powers that be have that much influence is no damn good
 xmovies8.ru
 x-true.info
+yalls.org
 yatse.tv
 yify-download.com
 yobabooks.com
