@@ -73,6 +73,7 @@ entomologicalphilosopher.com ( Access denied.  Your IP address [35.0.127.52] is 
 emeraldinsight.com ( The IP address of 5.135.158.101 has not been recognised to access this page.)
 ericerfanian.com
 ethicalhacking.com
+europa.eu ("HTTP status code: 403") 
 expedia.de ("Access Denied") (probably some nodes only)
 expedia.fr ("You don't have permission to access ..." 2017-03-17)
 experts-exchange.com
@@ -166,7 +167,6 @@ phdcomics.com ("The requested URL was rejected." Hosted through carrierzone.com)
 poleconanalysis.org
 popsci.com (ip listed in the StopForumSpam.com database) 2016-10-28 block still active
 Porsche Com ("You don't have permission to access "(...)porsche.com/" on this server." |  (...)porsche.de redirects to porsche.com/germany) / 2015-09-09) works 2016/03 Nope. Still blocked 2016-04-03 -10-28
-(psycnet.)apa.org ("Access To Website Blocked")
 qantas.com.au still blocked 2016-10-28
 republicbuzz.com (" 403 forbidden - WHAT? Why am I seeing this? Your access to this site was blocked by Wordfence  ")
 rightswatch.ca ("Access denied. Your IP address is blacklisted. If you feel this is in error please contact your hosting provider's abuse department.")
@@ -196,6 +196,7 @@ svictor.net
 sydneypadua.com ("Access denied.  Your IP address [188.138.9.49] is blacklisted.  If you feel this is in error please contact your hosting providers abuse department.")
 forum.synology.com/enu/ ("You have been permanently banned from this board" some exits / 2016-12-22)
 talk.maemo.org
+talkingpointsmemo.com
 techerator.com
 technologyreview.com ("We noticed you're browsing in private or incognito mode.  To continue reading this article, please exit incognito mode or log in.")
 thecultureblend.com
@@ -215,6 +216,7 @@ typepad.fr
 typepad.co.uk
 usnews.com (access denied)
 usps.com (access denied) 
+usa.gov
 www.veteranstoday.com/ (SpamFireWall is activated for your IP 77.247.181.163)
 videotrazilica.com
 ricarica.vodafone.it (only that subdomain; also from relays!?)
