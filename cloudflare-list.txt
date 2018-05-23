@@ -165,6 +165,7 @@ bitminter.com
 bitpay.com	<= torproject uses the slimeballs	< https://trac.torproject.org/projects/tor/ticket/18911 >, along with paypal, and just keep the fools still feed them.
 bitquick.co
 bitsharestalk.org
+bitso.com
 bitsofco.de
 bittylicious.com	<- custom page
 bitwala.io
@@ -216,7 +217,9 @@ cashila.com
 casnocha.com
 catalyst-journal.com
 catholic.com
+catholicnewsagency.com
 cbj.ca
+cbpp.org
 ccc.qld.gov.au	<- australian (queensland) government of khabarovsk - crime and misdonduct commission - charged with investigating corruption - cloudflare ray id: at the moment - at @ bfree5150 
 ccmi.com
 ccn.com
@@ -238,6 +241,7 @@ chat.hr
 chaturbate.com
 chelseamanning.org
 chemicool.com
+chicksontheright.com
 chinadialogue.net
 chomskylist.com
 christiaanconover.com
@@ -362,6 +366,7 @@ debtmoney.xyz
 decentsecurity.com	<= bit disappointing twtr user @swiftonsecurity uses cf
 decryptedmatrix.com
 deepdotweb.com
+deeponion.org	
 defcad.org
 defdist.org
 defense-update.com
@@ -487,6 +492,7 @@ files.mastadon.social
 filminitaliano.com
 filmovita.com
 fitinjehoofd.be	<= class assignment requires students to visit this cfd page.  not sure what's on that page-- i don't do captchas, so i'm skipping the assignment.
+fivedegrees.nl
 fixmynix.com
 flightradar24.com
 f-list.net
@@ -1020,6 +1026,7 @@ phoronix.com
 pic-upload.de	<= a pastebin-like site but for images. alternative site: imgur
 pineapplefund.org
 pingdom.com
+pintofscience.co.uk
 piratebay.to
 pirateparty.ca
 pirateparty.org.au 
@@ -1494,6 +1501,7 @@ weatherservices.co
 webhostingtalk.com
 webinspector.se
 webmajstori.net
+webmd.com
 webrtchacks.com	<- what is it then?
 websta.me
 webwiki.com
@@ -1551,6 +1559,7 @@ zcoin.io
 zcomm.org
 zdziarski.com
 zell-weekeat.com
+zenit.org
 zenmate.com
 zeropaid.com
 zfacts.com
