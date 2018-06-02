@@ -15,6 +15,7 @@ ansible.com (Access denied. You don't have permission ...)
 apa.org ("Access to Website Blocked") 2016/07/31 still blocked
 apartments.com ("Access Denied")
 apps.fcc.gov ("Security Violation INCIDENT ID:()")
+army.mil
 astrolog.org (The requested URL was rejected. If you think this is an error, please contact the webmaster. Your support ID is: [..])
 asos.com (Access Denied. You don't have permission....)
 austlii.edu.au
@@ -75,6 +76,7 @@ ericerfanian.com
 ethicalhacking.com
 europa.eu ("HTTP status code: 403") 
 expedia.de ("Access Denied") (probably some nodes only)
+expedia.com ("access denied")
 expedia.fr ("You don't have permission to access ..." 2017-03-17)
 experts-exchange.com
 expo2015.org (403, text about "security rules") <-- wow, accessible from all? exits as of 2016/01/25!!!
@@ -151,6 +153,7 @@ netbank.com.au
 networktools.nl (You don't have permission to access (...) on this server because you are currently blacklisted by a DNSBL server at: sbl-xbl.spamhaus.org)
 newark.com  (Access Denied You don't have permission to access ...)
 newgrounds.com ("Security Validation - Completing this captcha proves you are a human and helps keepNewgrounds free of spam and abuse!")
+njea.org
 novaecomic.com ("Access denied. Your IP address [185.220.101.30] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.")
 www.ncbi.nlm.nih.gov ("Your access to PubMed Central has been blocked because your Internet connection (IP address) was used to download content in bulk, in violation of the terms of the PMC Copyright Notice.")
 no2nsa.x10.bz (http-code 403)
@@ -169,6 +172,7 @@ poleconanalysis.org
 popsci.com (ip listed in the StopForumSpam.com database) 2016-10-28 block still active
 Porsche Com ("You don't have permission to access "(...)porsche.com/" on this server." |  (...)porsche.de redirects to porsche.com/germany) / 2015-09-09) works 2016/03 Nope. Still blocked 2016-04-03 -10-28
 preposterousuniverse.com ("Access denied. Your IP address [217.182.168.178] is blacklisted.")
+producthandling.com 
 qantas.com.au still blocked 2016-10-28
 republicbuzz.com (" 403 forbidden - WHAT? Why am I seeing this? Your access to this site was blocked by Wordfence  ")
 rightswatch.ca ("Access denied. Your IP address is blacklisted. If you feel this is in error please contact your hosting provider's abuse department.")

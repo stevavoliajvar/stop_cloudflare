@@ -191,6 +191,7 @@ bookbane.com
 bookfeeder.com
 bookfi.org
 bostonreview.net
+bouldercolorado.gov
 bradleymanning.org
 brain-magazine.fr
 brainyquote.com
@@ -330,6 +331,7 @@ cryptolife.net
 cryptologie.net
 cryptophoneaustralia.com
 cssdeck.com
+curacao.com
 curiositystream.com
 curiousgnu.com
 currentaffairs.org
@@ -531,6 +533,7 @@ funintel.com
 funkyimg.com	<= pic-upload.de alternative also cfd
 funny-pictures-blog.com
 futureoflife.org
+futureofsex.net
 futurism.com
 fxopen.com
 gab.ai
@@ -616,6 +619,7 @@ hdz.hr
 healtheternally.com
 heckin.tech
 hegel.net
+hellenicshippingnews.com
 highcharts.com
 hightowerlowdown.org	
 historyguy.com
@@ -641,6 +645,7 @@ hrvatskinamjestaj.hr
 hs3x.com
 html5boilerplate.com
 htxt.co.za
+humandalas.com
 humanevents.com
 hummingbird.me
 hyperallergic.com
@@ -766,6 +771,7 @@ kvraudio.com
 ladbible.com
 lakeofthewoods.com
 lambos.info
+lapatilla.com
 lapresse.ca
 laprimaire.org
 laravel.io
@@ -1196,6 +1202,7 @@ search-id.com
 security.nl
 seebitcoin.com
 semicomplete.com
+semiengineering.com
 seqanswers.com
 serijex.com
 serversupportforum.de
@@ -1253,6 +1260,7 @@ spaceappschallenge.org
 spacenews.com
 spanishinvaders.cat
 spectrocoin.com
+spencerfernando.com
 spinroot.com
 spiritualityandpractice.com
 spiritualityhealth.com
@@ -1265,6 +1273,7 @@ starcitygames.com
 starfelia.com
 start.1password.com	<- just sign up, and not the entire website breaks through tor registration
 startjoin.com
+startribune.com
 state.io
 status.im
 steem.network
@@ -1508,6 +1517,7 @@ webwiki.com
 weev.net
 wemineltc.com
 westernmutual.com
+westforkcamp.org
 wetrust.io
 whatismyip.com
 whatsie.chat
