@@ -324,6 +324,7 @@ crowdfireapp.com
 crservers.com		<- hosters that rely on cloudflare for their website expose themselves to extreme ridicule ...
 cryfs.org
 cryfs.org		[flossp]	<- one software project, the authors think that a domain name looks professional. no, it does not. no, if it clownflared. it makes you look like an amateur. if it is not cloudflared documentation. -> page discussoin
+crypko.ai
 cryptocoinsnews.com
 cryptocompare.com
 cryptogon.com
@@ -522,6 +523,7 @@ freemusicarchive.org
 freemyapps.com
 free.niooz.fr
 freethoughtblogs.com
+freshcode.club
 frontlineclub.com
 frontpagemag.com
 fteproxy.org
@@ -567,6 +569,7 @@ giphy.com
 girlsjustwannahaveguns.com
 girls.moe
 gitbook.com
+gitea.io
 gizmodo.com.au
 glassdoor.com
 gledajfilm.net
@@ -742,6 +745,7 @@ kappataumu.com
 katcr.to
 kat-top.org
 kaymu.hr
+keenplatform.com
 kelownanow.com
 kenoraonline.com
 keychest.net
@@ -939,6 +943,7 @@ nickbostrom.com	<- one of the most important pages on the web :(
 nimohunter.com
 nimportequi.com
 nknews.org
+nodered.org
 nofilmschool.com
 nomadcapitalist.com
 nonprofitquarterly.org
@@ -966,6 +971,7 @@ okfn.org
 oldpiratebay.org
 omicsonline.org
 ominocity.com
+omny.fm
 oneclickroot.com
 onegreenplanet.org
 oneplus.net
@@ -1123,6 +1129,7 @@ rainway.io
 ralsina.me
 randalolson.com
 randomshouting.com
+raphkoster.com
 rastinmehr.com
 ratemds.com
 rawstory.com
@@ -1231,6 +1238,7 @@ simsylvania.com
 sinembargo.mx
 sing-fake.review
 sing-many.review
+singularityhub.com
 singularityu.org
 siouxlookoutairport.ca
 sistani.org
@@ -1326,6 +1334,7 @@ textopus.nl
 tezos.com
 theahafoundation.org
 theamericanconservative.com
+the-american-interest.com
 thebronasium.com
 thecarconnection.com
 thedailybeast.com
@@ -1433,6 +1442,7 @@ trackingterrorism.org
 tradeking.com
 transferwise.com
 transmissionbt.com
+transmountain.com
 trollacademy.org
 tronixstuff.com
 truepundit.com

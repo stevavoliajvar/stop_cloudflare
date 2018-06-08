@@ -1,3 +1,5 @@
+simplepospool.com
+freemoneyfinance.com
 blogs.com	<- it does not seem to use the tool blacklist the cloudflare, - no more catpcha, no way to get access to the web - site "the owner of this website (blogs.com) did not forbid a country or region, your ip - address is in ( tor) from access to this site. "
 crowdsupply.com
 donaldjtrump.com
