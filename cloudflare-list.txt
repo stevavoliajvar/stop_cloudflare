@@ -38,6 +38,7 @@ afd-gold.de
 affect3d.com
 afrizap.com
 afsp.org
+ageofrevolution.org
 ageofshitlords.com
 agniveer.com
 aiweiwei.com
@@ -614,6 +615,7 @@ hanzresolver.com
 happybearsoftware.com
 harbourfest.ca
 hardforum.com
+hasitleaked.com
 havebitcoin.com
 haveibeenpwned.com
 havelockinvestments.com 
@@ -630,6 +632,7 @@ historylearningsite.co.uk
 historyofbitcoin.org
 historyoftheancientworld.com
 hitler.rocks
+hiveos.farm
 hldataprotection.com
 hlmeeting.com
 hmarivebkcom
@@ -648,6 +651,7 @@ hrvatskinamjestaj.hr
 hs3x.com
 html5boilerplate.com
 htxt.co.za
+hudson.org
 humandalas.com
 humanevents.com
 hummingbird.me
@@ -689,6 +693,7 @@ interledger.org
 internetdefenseleague.org
 interserver.net
 inthesetimes.com
+inventic.eu
 investors.com
 iol.co.za
 iota.org
@@ -1056,6 +1061,7 @@ pnc2017.com
 pokemonshowdown.com
 pokerpro.cc
 politicsbreaking.com
+politifact.com
 poljoprivredni-forum.com
 poloniex.com	<- custom page: one more step
 pony.town
@@ -1154,6 +1160,7 @@ reportingclimatescience.com
 republicains.fr
 resetthenet.org
 resistancemanual.org
+resolutefp.com
 retrospring.net
 returnofkings.com
 reverbpress.com
@@ -1233,6 +1240,7 @@ simonsfoundation.org
 simplecapacity.com
 simplefx.com
 simplejustice.us
+simplemining.net
 simpletoremember.com
 simsylvania.com
 sinembargo.mx
@@ -1462,6 +1470,8 @@ ultraculture.org
 ultraimg.com	<= pic-upload.de alternative also cfd
 ummah.com
 unblocked.bid
+unblocked.lat
+unblocked.mx
 unhypem.com
 unicornriot.ninja
 unixmen.com
@@ -1563,6 +1573,7 @@ xmovies8.ru
 x-true.info
 yalls.org
 yatse.tv
+yiff.press
 yify-download.com
 yobabooks.com
 yohost.org
