@@ -36,6 +36,7 @@ aenweb.ca
 aerospace.org
 afd-gold.de
 affect3d.com
+affenknecht.com
 afrizap.com
 afsp.org
 ageofrevolution.org
@@ -165,6 +166,7 @@ bitinfocharts.com
 bitminter.com
 bitpay.com	<= torproject uses the slimeballs	< https://trac.torproject.org/projects/tor/ticket/18911 >, along with paypal, and just keep the fools still feed them.
 bitquick.co
+bittrex.com
 bitsharestalk.org
 bitso.com
 bitsofco.de
@@ -178,6 +180,7 @@ bleutrade.com
 blockchain.com
 blockexplorer.com
 blocktrail.com
+blog.avast.com
 blog.cloudflare.com
 bloger.hr
 blog.mailgun.com
@@ -222,7 +225,7 @@ catholic.com
 catholicnewsagency.com
 cbj.ca
 cbpp.org
-ccc.qld.gov.au	<- australian (queensland) government of khabarovsk - crime and misdonduct commission - charged with investigating corruption - cloudflare ray id: at the moment - at @ bfree5150 
+ccc.qld.gov.au	<- australian (queensland) government of khabarovsk - crime and misdonduct commission - charged with investigating corruption - cloudflare ray id: at the moment - at @ bfree5150
 ccmi.com
 ccn.com
 cdn6-blog.p2pfoundation.net
@@ -237,7 +240,7 @@ cepr.net
 certificatedetails.com
 ceus-now.com
 cex.io
-change.org	<-  https://www.change.org/p/change-org-change-org-stop-using-cloudflare 
+change.org	<-  https://www.change.org/p/change-org-change-org-stop-using-cloudflare
 chathamhouse.org
 chat.hr
 chaturbate.com
@@ -263,7 +266,7 @@ cityofhope.org
 civicfest.org
 cjfe.org
 cjrl.ca
-clarionproject.org 
+clarionproject.org
 clark.com
 classically.me
 classifiedads.com
@@ -295,8 +298,10 @@ cointelegraph.com
 coinworker.com
 collective-evolution.com
 collectivelyconscious.net
+collinsdictionary.com
 com.co
 comingle.io
+computerhope.com
 computerworlduk.com
 conceptualrevolutions.com
 conda-forge.org
@@ -311,9 +316,9 @@ containerops.org
 coolest-gadgets.com
 coolutils.com
 copyright.gov
-corda.net 
+corda.net
 coshx.com
-counter-currents.com 
+counter-currents.com
 coursehero.com
 crackedlabs.org
 creativecommons.org
@@ -342,7 +347,7 @@ customize.org
 cyanogenmod.org
 cyberbunker.com
 cyberciti.biz
-cyber.sci-hub.io 
+cyber.sci-hub.io
 dailycaller.com
 dailydot.com
 dailystormer.com
@@ -370,7 +375,7 @@ debtmoney.xyz
 decentsecurity.com	<= bit disappointing twtr user @swiftonsecurity uses cf
 decryptedmatrix.com
 deepdotweb.com
-deeponion.org	
+deeponion.org
 defcad.org
 defdist.org
 defense-update.com
@@ -422,7 +427,7 @@ dwarfpool.com
 e27.co
 e621.net
 early-retirement.org	<= recently joined the cf walled garden
-ebooks-downloads.net	
+ebooks-downloads.net
 ebooksdownloads.xyz
 ebooksforfree.org
 ebooktake.in
@@ -498,6 +503,7 @@ filmovita.com
 fitinjehoofd.be	<= class assignment requires students to visit this cfd page.  not sure what's on that page-- i don't do captchas, so i'm skipping the assignment.
 fivedegrees.nl
 fixmynix.com
+flattr.com
 flightradar24.com
 f-list.net
 flogao.com.br
@@ -532,6 +538,7 @@ fuelly.com
 fuirestunepulsion.net
 full-stop.net
 fulltv.guide
+fundeu.es
 funintel.com
 funkyimg.com	<= pic-upload.de alternative also cfd
 funny-pictures-blog.com
@@ -554,6 +561,7 @@ geeksided.com
 geekwire.com
 geenstijl.nl
 geneticsandsociety.org
+gestiopolis.com
 getcomics.info
 getdeb.net
 getgb.io
@@ -571,6 +579,7 @@ girlsjustwannahaveguns.com
 girls.moe
 gitbook.com
 gitea.io
+git-scm.com
 gizmodo.com.au
 glassdoor.com
 gledajfilm.net
@@ -599,7 +608,7 @@ gsmhosting.com
 gsmphonelocator.com
 guiminer.org
 gulli.com
-gurufocus.com	
+gurufocus.com
 guttmacher.org
 guwsmedical.info
 guya.net
@@ -608,6 +617,7 @@ hackcanada.com
 hackerboards.com
 hackerone.com
 hackfest.ca
+hajekj.net
 hajjguide.org
 hakiri.io
 hamariweb.com
@@ -618,7 +628,7 @@ hardforum.com
 hasitleaked.com
 havebitcoin.com
 haveibeenpwned.com
-havelockinvestments.com 
+havelockinvestments.com
 haymarketbooks.org
 hdz.hr
 healtheternally.com
@@ -626,7 +636,7 @@ heckin.tech
 hegel.net
 hellenicshippingnews.com
 highcharts.com
-hightowerlowdown.org	
+hightowerlowdown.org
 historyguy.com
 historylearningsite.co.uk
 historyofbitcoin.org
@@ -646,12 +656,13 @@ hotair.com
 hotfrog.ca
 howmanydayssincehumanityburnedawitch.com
 howtoforge.com
-hpmor.com	
+hpmor.com
 hrvatskinamjestaj.hr
 hs3x.com
 html5boilerplate.com
 htxt.co.za
 hudson.org
+hubzilla.site
 humandalas.com
 humanevents.com
 hummingbird.me
@@ -719,6 +730,7 @@ isohunt.to
 ispace.hr
 israelhasbeenrocketfreefor.com
 itorrents.org
+itprotoday.com
 itradesecurity.com
 itsfoss.com
 iwastesomuchtime.com
@@ -738,6 +750,7 @@ johnmcostaiii.net
 johnpilger.com
 jonasoberg.net
 jotform.com
+journalpost.com
 journals.cambridge.org
 jpost.com
 jquery.com
@@ -774,7 +787,9 @@ kpfk.org
 kraken.com
 ktetch.co.uk
 kukuruku.co
+kune.ourproject.org
 kupiprodaj.net
+kuppingercole.com
 kurdishquestion.com
 kvraudio.com
 ladbible.com
@@ -796,6 +811,7 @@ leagueoflegends.com
 leblogdebetty.com
 ledgerloops.com
 ledgerwallet.com
+legilibre.fr
 leics.police.uk
 leitmedium.de
 lennu.net
@@ -810,8 +826,8 @@ libra.tech
 libretro.com
 lifehacker.com.au
 lifesitenews.com
-limetorrents1.top	
-limetorrents2.top	
+limetorrents1.top
+limetorrents2.top
 lindseywilliams.net
 lintut.com
 linustechtips.com
@@ -829,6 +845,7 @@ listverse.com
 livesoccertv.com
 liveuamap.com
 lkml.org
+lleva-tilde.com
 localbitcoins.com
 localtimes.info
 loc.gov
@@ -898,6 +915,7 @@ movecommons.org
 moveon.org	<= was tor-friendly when change.org was not, and they were praised for it. gave no acknowledgement, then the asshats decided to use cf. hopeless- promote their competitors instead (care2, openpetition,etc)
 movierender.com
 moviesto.me
+moz.com
 mp3zack.tk
 mpp.org
 muflihun.com
@@ -905,6 +923,7 @@ mukto-mona.com
 multiwebconverter.com
 musalbas.com	<- it is better to know shd
 musopen.org
+muthukadan.net
 mydigitallife.info
 mygully.com
 mysteriousuniverse.org
@@ -967,6 +986,7 @@ nwcbooks.com
 oanda.com	<= is used officially by the belgian government for the tax rates for fx! taxpayers do official business should not be forced to use cloudflare site.
 obamadecides.org
 observatorial.com
+ocu.org
 occupydemocrats.com
 ocks.org
 ohiobitcoin.com
@@ -998,6 +1018,7 @@ opentechsummit.net
 opentrackers.org
 openvpn.net
 opslens.com
+orestes.io
 orionlabs.co
 osdir.com
 ottawatoollibrary.com
@@ -1030,7 +1051,7 @@ pdfsr.com
 peerio.com
 pembinavalleyonline.com
 pennywong.com.au
-pen.org	<- ! 
+pen.org	<- !
 perens.com
 perjalananumroh.com
 perpetuallineup.org
@@ -1046,7 +1067,7 @@ pingdom.com
 pintofscience.co.uk
 piratebay.to
 pirateparty.ca
-pirateparty.org.au 
+pirateparty.org.au
 pirateunblocker.com
 pixelbeat.org
 pixelcanvas.io
@@ -1074,6 +1095,7 @@ powerlineblog.com
 prado.it
 prairiedogmag.com
 preciousplastic.com
+premiumwp.com
 premsocks.com
 prepressure.com
 pressfreedomfoundation.org
@@ -1116,12 +1138,14 @@ pwnedpasswords.com
 pydata.org
 pythoncentral.io
 pythonforengineers.com
+qgis.org
 qnalist.com
 qnrq.se
 qsaudi.com
 quadrigacx.com
 quantamagazine.org
 queerty.com
+que-significa.com
 quilljs.com
 quizzstar.com
 quoinex.com
@@ -1145,7 +1169,7 @@ reactiongifs.com
 readbag.com
 reader.fr
 readersdigest.ca
-readthetpp.com 
+readthetpp.com
 realclimatescience.com
 realfarmacy.com
 receive-sms-online.info
@@ -1170,7 +1194,7 @@ rexresearch.com
 richarddawkins.net
 rietta.com
 ripostelaique.com
-rivianafoodservice.com	
+rivianafoodservice.com
 rollingjubilee.org
 rollingout.com
 rooshvforum.com
@@ -1215,6 +1239,7 @@ scoopwhoop.com
 search-id.com
 security.nl
 seebitcoin.com
+segu-info.com.ar
 semicomplete.com
 semiengineering.com
 seqanswers.com
@@ -1254,6 +1279,7 @@ sivers.org
 skoolie.net
 skresolver.com
 skymind.io
+slant.co
 slate.fr
 slaveryfootprint.org
 slike.com
@@ -1291,6 +1317,7 @@ start.1password.com	<- just sign up, and not the entire website breaks through t
 startjoin.com
 startribune.com
 state.io
+staticsitegenerators.net
 status.im
 steem.network
 stellar.org
@@ -1324,6 +1351,8 @@ t411.in
 tafttest.com
 talkmoneycafe.com
 taoofmac.com
+tapoueh.org
+taringa.net
 tarnkappe.info
 tastekid.com
 tcf.org
@@ -1402,7 +1431,7 @@ thesouthafrican.com
 thestack.com
 thestockmarketwatch.com
 theswiftcodes.com
-thetower.org	
+thetower.org
 thetrendythings.com
 thetruthdivision.com
 theturkishsun.com
@@ -1425,6 +1454,7 @@ tinyurl.com
 tms.edu
 t-nation.com
 todayszaman.com
+todoexpertos.com
 topdocumentaryfilms.com
 topix.com
 topkickass.com
@@ -1464,6 +1494,7 @@ twib.in
 twitchy.com
 typepad.com
 ubitquity.io
+ubuntu-mate.community
 ucsf.edu
 ukpollingreport.co.uk
 ultraculture.org
@@ -1485,6 +1516,7 @@ urbanintellectuals.com
 urbanist-magazin.de
 urbit.org
 urlsinfo.com
+usacarry.com
 usafreedom.fail
 usanewsflash.com
 usawatchdog.com
@@ -1495,6 +1527,7 @@ uservoice.com
 u-s-history.com
 us-history.com
 usinenouvelle.com
+usingenglish.com
 usklicnik.com
 usuncut.com
 utdallas.edu
@@ -1563,6 +1596,7 @@ womenyoushouldknow.net
 worldcoinindex.com
 worldofislam.info
 wrongisland.org
+www.adyen.com
 www.atheistrepublic.com
 www.geekfill.com
 www.sciencebasedmedicine.org
@@ -1583,6 +1617,7 @@ yourebooklibrary.xyz
 yourhomebasedmom.com
 yourlaws.ca
 youtubeinmp3.com
+yts-subtitles.com
 yuason.com
 zadovoljna.hr
 zaufanatrzeciastrona.pl
