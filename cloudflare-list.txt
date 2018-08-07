@@ -85,6 +85,7 @@ apost.com
 appbrain.com
 applicationprivacy.org
 apps.evozi.com
+appuals.com
 arabi21.com
 arabnews.com
 archive.fo	<- sometimes archive.is forwards there? god i hate clownflare! -> archive.is also clownflared now
@@ -166,14 +167,16 @@ bitinfocharts.com
 bitminter.com
 bitpay.com	<= torproject uses the slimeballs	< https://trac.torproject.org/projects/tor/ticket/18911 >, along with paypal, and just keep the fools still feed them.
 bitquick.co
-bittrex.com
+bitshares.org
 bitsharestalk.org
 bitso.com
 bitsofco.de
+bittrex.com
 bittylicious.com	<- custom page
 bitwala.io
 bizcampus.co
 bizpacreview.com
+blackcoin.co
 blackhat.com
 bleepingcomputer.com
 bleutrade.com
@@ -216,6 +219,7 @@ cagle.com
 cago.us
 calorieking.com
 cambridge.org
+cancerdefeated.com
 card-data-recovery.com
 cardingmafia.ws
 cashila.com
@@ -462,6 +466,7 @@ ethereumprice.org
 etherfaucet.net
 etherscan.io
 ethnologue.com
+ethpool.org
 etproxy.top
 euirestunepulsion.net
 eureferendum.com
@@ -661,8 +666,8 @@ hrvatskinamjestaj.hr
 hs3x.com
 html5boilerplate.com
 htxt.co.za
-hudson.org
 hubzilla.site
+hudson.org
 humandalas.com
 humanevents.com
 hummingbird.me
@@ -695,6 +700,7 @@ indiancountrymedianetwork.com
 indoxxi.online
 infacts.org
 inference.vc
+informationweek.com
 infosecisland.com
 innoprom.com
 instituteforenergyresearch.org
@@ -836,6 +842,7 @@ linuxconfig.org
 linuxgizmos.com
 linuxhospital.com
 linuxine.com
+linuxliveusb.com
 linuxluigi.com
 linuxnix.com
 linuxveda.com
@@ -878,6 +885,7 @@ mcgrefer.com
 meaww.com
 mecanis.me
 medium.com
+medscape.com
 meetup.com
 meforum.org
 meinit.nl
@@ -986,9 +994,9 @@ nwcbooks.com
 oanda.com	<= is used officially by the belgian government for the tax rates for fx! taxpayers do official business should not be forced to use cloudflare site.
 obamadecides.org
 observatorial.com
-ocu.org
 occupydemocrats.com
 ocks.org
+ocu.org
 ohiobitcoin.com
 ohjoysextoy.com
 okcupid.com
@@ -1044,6 +1052,7 @@ patreon.com	<- the great "platform" everyone's talking about and what, no https 
 patrikagroup.in
 paxful.com
 pcadvisor.co.uk
+pcmech.com
 pdfgrab.com
 pdfsdocuments.com
 pdfslibmanual.com
@@ -1151,6 +1160,7 @@ quizzstar.com
 quoinex.com
 qwertee.com
 qzzr.com
+rabbit.org
 racket-lang.org
 radiotelevisioncaraibes.com
 railstutorial.org

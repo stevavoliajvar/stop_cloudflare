@@ -52,6 +52,7 @@ crunchbase.com ("Access to Website Blocked") << crunchbase uses http://www.disti
 cubawiki.com.ar Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department.
 croplife.ca (on POST- "Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department.")
 davidmburke.com
+dcleak.com
 delivery.acm.org (Who cares. Just treat their URLs as resource identifiers to be used with SCIHUB. Serves them right for defining Privatizing as Publishing and Ignorance as Strength ...)
 dl.acm.org
 demorgen.be (Access denied. You don't have permission ...)
@@ -86,6 +87,7 @@ fahrkarten.bahn.de (connection interrupted) <-- was glauben die bringt denen das
 fbi.gov (This site has determined a security issue with your request.)
 ff3dp.com (Access denied. Your IP address [94.242.228.187] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.)
 firefoxfacts.com ("security reasons")
+fizzicseducation.com.au ("Sorry but we've blocked you")
 flif.info (Access denied. Your IP address [192.42.116.16] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.)
 forums.freebsd.org/ (Almost all exit nodes, main page is available, but reading a thread results in 403.) 
 forum.pfsense.org/ (Almost all exit nodes, main page is available, but reading a thread results in 403.) Example: forum.pfsense.org/index.php?topic=99128.0
@@ -182,6 +184,7 @@ rockabilly-radio.net ("Access denied.  Your IP address is blacklisted.  If you f
 sabaheats.com
 safeco.com ("We're sorry, we cannot service your request at this time.  If you feel this is an error, call 800...") <= assholes keep it vague, waste our time.  Note it's an insurance company, thus interested in keeping track of where you are so they can increase rates when you move to a region w/higher premiums.
 samsung.com ("Access denied. You don't have permission to access "http://www.samsung.com/"" / 2016-10-20)
+saskatchewanherald.com ("Access denied. Your IP address is blacklisted.")
 sciencedirect.com ("A problem was encountered providing the content you requested Reference Number: 18.1c367a5c.1489330818.2078284")
 scottaaronson.com  ("Access denied.  Your IP address [85.24.215.117] is blacklisted.")
 sensis.com.au ("We have detected unusual traffic activity originating from your IP address." with Google ReCAPTCHA version 1)
@@ -191,6 +194,7 @@ sinfest.net ("The requested URL was rejected."  Hosted through carrierzone.com)
 singpolyma.net ("Error 403")
 slashdot.org ("banned")
 sncb.be (timeout) <= Belgian rail system recently started blocking Tor in the most hostile manner possible. They make no statement and just drop packets, leaving tor users to wait forever until they give up. <rant>great. so in the brave new world "public utilities" now start to silently and as a matter of course discriminate against privacy conscious users on the net. Deutsche Bahn interrupts connection once you go to the ticket reservation page - the love story between railways and surveillance runs deep: the data collection and most of all the execrable CCTV infestation, even inside new trains. all of this would make a great headline: privacy gets thrown under the train as formerly free societies submit to total surveillance.</rant>
+state.gov ("Access Denied")
 statuspage.io/ (Your IP address 149.202.98.160 has been flagged as a scanner. Scanners are not permitted. If you are seeing this message in error, please contact security@statuspage.io.)
 snowbirds.org/ (The requested URL was rejected. Your support ID is: 10851284974681727906w)
 sony.de (You don't have permission to access "http://www.sony.de/" on this server. Reference # ... / same story with different exit nodes) 
