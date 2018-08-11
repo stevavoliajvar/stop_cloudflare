@@ -152,6 +152,7 @@ bitcoinfoundation.org
 bitcoinist.net
 bitcoin.it
 bitcoinjs.org 	<- bitcoin companies should not have mitms guarding them.  that's just asking to compromise your users, especially when javascript is involved.
+bitcoin.kn
 bitcoinmagazine.com
 bitcoinqueue.com
 bitcoinstats.com
@@ -176,6 +177,7 @@ bittylicious.com	<- custom page
 bitwala.io
 bizcampus.co
 bizpacreview.com
+blackagendareport.com
 blackcoin.co
 blackhat.com
 bleepingcomputer.com
@@ -220,6 +222,7 @@ cago.us
 calorieking.com
 cambridge.org
 cancerdefeated.com
+cancernetwork.com
 card-data-recovery.com
 cardingmafia.ws
 cashila.com
@@ -326,6 +329,7 @@ counter-currents.com
 coursehero.com
 crackedlabs.org
 creativecommons.org
+creators.com
 crest-approved.org
 crometeo.hr
 crowarez.org
@@ -368,6 +372,7 @@ dash.org	<- alternative cryptocurrency
 daskapital.nl
 databreaches.net
 datascienceplus.com
+davidharrisjr.com
 davidicke.com
 davidstockmanscontracorner.com
 daysoftheyear.com
@@ -506,6 +511,7 @@ files.mastadon.social
 filminitaliano.com
 filmovita.com
 fitinjehoofd.be	<= class assignment requires students to visit this cfd page.  not sure what's on that page-- i don't do captchas, so i'm skipping the assignment.
+fivedegrees.com
 fivedegrees.nl
 fixmynix.com
 flattr.com
@@ -702,6 +708,7 @@ infacts.org
 inference.vc
 informationweek.com
 infosecisland.com
+infowars.com
 innoprom.com
 instituteforenergyresearch.org
 intagme.com
@@ -966,6 +973,7 @@ netty.io
 net.ua
 neurosky.com
 newmatilda.com
+news24.com
 newsbtc.com
 newsfeed.ph
 newsring.fr
@@ -1184,6 +1192,7 @@ realclimatescience.com
 realfarmacy.com
 receive-sms-online.info
 recordedfuture.com
+redbubble.com
 redorbit.com
 redstate.com
 relishapp.com
@@ -1437,6 +1446,7 @@ therealstanlee.com
 therightscoop.com
 therightstuff.biz
 thesoftwarebank.com
+thesource.com
 thesouthafrican.com
 thestack.com
 thestockmarketwatch.com
