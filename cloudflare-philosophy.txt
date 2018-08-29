@@ -178,7 +178,11 @@ https://torrentfreak.com/cloudflare-and-riaa-agree-on-tailored-site-blocking-pro
 
 If they'll do it for the RIAA they'll do it for the MPAA/IFPI/ICE/IIPA/ACE/...
 
-16) Followup / Further research:
+16) I have a great idea!  Let's use Cloudflare for everyone's DNS.
+
+This is a bad idea. https://blog.ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
+
+17) Followup / Further research:
 
 See also
 https://trac.torproject.org/projects/tor/wiki/org/doc/ListOfServicesBlockingTor
@@ -201,7 +205,7 @@ Cloudflare support pages on the topic:
     https://support.cloudflare.com/hc/en-us/articles/200170056-What-is-CloudFlare-s-Ba bysic-Security-Level-
     https://support.cloudflare.com/hc/en-us/articles/200170116-What-do-the-Threat-Scores-mean-
 
-17) Sources
+18) Sources
 
 [1] http://themusicgod1.deviantart.com/art/the-great-cloudwall-1-595382698
 [2] http://www.youtube.com/watch?v=r3yIarp3J2o

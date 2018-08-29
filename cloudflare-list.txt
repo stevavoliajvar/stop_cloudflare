@@ -117,6 +117,7 @@ awarenessact.com
 ax.com
 azballcharterschools.org
 babelfish.com	<- assholes just started using cf (oct.2016), just after translate.google.com became bot-hostile.
+backyardchickens.com
 bad-dragon.com
 barackobama.com
 bazil.org	<- ! used by ethereum
@@ -308,6 +309,7 @@ collectivelyconscious.net
 collinsdictionary.com
 com.co
 comingle.io
+compoundmedia.com
 computerhope.com
 computerworlduk.com
 conceptualrevolutions.com
@@ -331,6 +333,7 @@ crackedlabs.org
 creativecommons.org
 creators.com
 crest-approved.org
+crikey.com.au
 crometeo.hr
 crowarez.org
 crowdcube.com
@@ -510,6 +513,7 @@ fileformat.info
 files.mastadon.social
 filminitaliano.com
 filmovita.com
+finte-x.jp
 fitinjehoofd.be	<= class assignment requires students to visit this cfd page.  not sure what's on that page-- i don't do captchas, so i'm skipping the assignment.
 fivedegrees.com
 fivedegrees.nl
@@ -612,6 +616,7 @@ gpo.gov
 gradient-animator.com
 greasespot.net
 greaterfool.ca
+greekmythology.com
 greencigworld.com
 groovypost.com
 grupoandroid.com
@@ -977,6 +982,7 @@ news24.com
 newsbtc.com
 newsfeed.ph
 newsring.fr
+newswars.com
 newworldencyclopedia.org
 nicehash.com
 nickbostrom.com	<- one of the most important pages on the web :(
@@ -1044,6 +1050,7 @@ outernet.is	<= "outernet for all " is mentioned on their twitter accounts.
 outsideonline.com
 overdrivedesign.biz
 ovpro.nl
+pages.ubuntu.com
 pagina12.com.ar
 palemoon.org
 pandawhale.com
@@ -1386,6 +1393,7 @@ telegraphindia.com
 teradown.com
 tert.am
 testandverification.com
+testprepreview.com
 textopus.nl
 tezos.com
 theahafoundation.org
@@ -1525,6 +1533,7 @@ unblocked.lat
 unblocked.mx
 unhypem.com
 unicornriot.ninja
+university-directory.eu
 unixmen.com
 unixstickers.com
 unoriginalmom.com
@@ -1633,6 +1642,7 @@ yobabooks.com
 yohost.org
 youcaring.com
 yourbittorrent.com
+your-calories.com
 yourebooklibrary.xyz
 yourhomebasedmom.com
 yourlaws.ca

@@ -42,8 +42,7 @@ codeexperts.com ("if you feel this is in error ...")
 coinatmradar.com ("This request has been denied for security reasons. If you believe this was in error, please contact support.")
 cryptocurrencytalk.com ("SpamFireWall is activated for your IP")
 cycleworld.com ( "You are receiving this error message because your ip (212.117.180.21) is listed in the StopForumSpam.com database" / 2016-08-15)
-www.geocaching.com ( Works fine for viewing the main site, but if you try to log a cache: "403.6 - Forbidden          IP address of the client has been rejected.")
-geohot.com ("Access denied.  Your IP address [77.247.181.162] is blacklisted.  If you feel this is in error please contact your hosting providers abuse department.")
+collegereadiness.collegeboard.org/sat-subject-tests/subjects/languages/french
 cordless-phone-update.com (Access denied. Your IP address [171.25.193.131] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.)
 coverhunt.com
 craigslist.ca  ("This IP has been automatically blocked")
@@ -97,9 +96,12 @@ cc.gatech.edu (timeout. baseline?)
 gchq.gov.uk (timeout)
 geizhals.at ("Sorry - 429 Too Fast, you are temporarily banned An automated system has detected atypical patterns in traffic originating from from you or the network you are using. To be able to provide our service to all users, your access will be temporarily denied." / 2017-04-15)
 gemal.dk ("Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department.")
+geocaching.com ( Works fine for viewing the main site, but if you try to log a cache: "403.6 - Forbidden          IP address of the client has been rejected.")
+geohot.com ("Access denied.  Your IP address [77.247.181.162] is blacklisted.  If you feel this is in error please contact your hosting providers abuse department.")
 godlikeproductions.com ("your ip address is banned from this website")
 google.com (some exits sometimes, sometimes with solvable captchas, sometimes with unsolvable captchas) <= also more disclosure required for signups (e.g. mobile number submission cannot be skipped)
 images.google.com (when doing a reverse image search)
+gregor.us ("Access denied. Your IP address is blacklisted. If you feel this is in error please contact your hosting provider's abuse department.")
 gutenberg.org ("Error 403 ... Don't use anonymizers, open proxies, VPNs, or TOR to access Project Gutenberg") loop this insane, wilful stupidity goes on 2016/06. I can only imagine good old Gutenberg rotating in his grave
 hackedbellini.org
 harbin.org ("blacklisted" sep 24)
