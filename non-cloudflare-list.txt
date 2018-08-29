@@ -48,6 +48,7 @@ coverhunt.com
 craigslist.ca  ("This IP has been automatically blocked")
 creativebeacon.com ("if you feel this is in error ... ")
 crunchbase.com ("Access to Website Blocked") << crunchbase uses http://www.distilnetworks.com/ to block tor >>
+csounds.com ("Access denied. Your IP address [185.220.100.252] is blacklisted. If you feel this is in error please contact your hosting providers abuse department")
 cubawiki.com.ar Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department.
 croplife.ca (on POST- "Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department.")
 davidmburke.com
