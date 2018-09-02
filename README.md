@@ -16,10 +16,9 @@ Also see [Frequently Asked Questions](FAQ).
 # What can you do?
 
 * Add domains you found: [list instructions](instructions)
-
 * See [our list of recommended actions](what-to-do.txt).
 
-There are [other]() [lists](), but this one is one where every entry on the list a human being has actually tried
+There are other lists, but this one is one where every entry on the list a human being has actually tried
 to go to, and has been blocked.
 Human is not a robot.
 
