@@ -1,6 +1,50 @@
-* see [list instructions](instructions)
+##### What you can do to resist Cloudflare?
 
-* If you use Debian GNU/Linux, or any derivative, subscribe to bug #831835 ( https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835 ), help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
+
+* As a website consumer
+
+- If the website you like is using Cloudflare, tell them not to use Cloudflare.
+
+> You are just helping corporate censorship and mass surveillance.
+> https://trac.torproject.org/projects/tor/ticket/24351
+
+- Try not to use their service. There are many alternatives and opportunites on the internet!
+
+- If your browser is Firefox, use [Block Cloudflare MITM Attack!](http://ea5faa5po25cf7fb.onion/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) add-on.
+
+- Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
+
+
+* As a website owner / web developer
+
+- Do not use Cloudflare solution. You are loser if you fall to that easy solution. You can do better than that.
+
+- Install Web Application Firewall and Fail2Ban on _your_ server and configure it properly.
+
+- Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) if you believe in freedom and welcome anonymous users.
+
+- Ask for advice from other [Clearnet/Tor dual website operators](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor) and make anonymous friends! :)
+
+
+* As a software user
+
+
+- If you use Debian GNU/Linux, or any derivative, subscribe to bug #831835 ( https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835 ). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
+
+- Always recommend [Tor Browser](https://www.torproject.org/) or Orfox. Other software's privacy is JUST A ILLUSION.
+
+- For example, if you really need to use Firefox, pick "Firefox ESR". ESR is developed for company and organizations, thus some spyware code is disabled by default.
+
+- Remember, Mozilla is [using Cloudflare service](https://www.robtex.com/dns-lookup/www.mozilla.org). They also using Cloudflare's DNS service on their product.
+
+
+
+
+
+
+
+
+
 
 * If you use one of the websites on this list, contact the webmasters if you still can, and tell them not to use Cloudflare.  
 
