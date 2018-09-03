@@ -79,5 +79,5 @@ Let's talk about _other software's privacy_...
 
 - If you are EU citizen, contact the website to send your personal information under the [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation). If they refuse to give you your information, that's a violation of the law.
 
-- For companies that claim to offer service on their website try reporting them as "false advertising" to consumer protection organizations and BBB.
+- For companies that claim to _offer service on their website_ try reporting them as "_false advertising_" to consumer protection organizations and BBB. Cloudflare websites are served by Cloudflare servers.
 
