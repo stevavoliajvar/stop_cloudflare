@@ -13,7 +13,7 @@
 
 - Search for other website. There are many alternatives and opportunites on the internet!
 
-- If your browser is Firefox, use [Block Cloudflare MITM Attack!](http://ea5faa5po25cf7fb.onion/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) add-on.
+- If your browser is Firefox, use [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) add-on.
 
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
 
