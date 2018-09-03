@@ -73,9 +73,11 @@ Let's talk about _other software's privacy_...
 
 - Try using [globalist](globalist.txt) to maintain this list.
 
-- If you are in the **United States of America** and the website in question is a bank or an accountant, try to bring legal pressure under the Gramm–Leach–Bliley Act https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act and report back to us how far you get.
+- If you are in the **United States of America** and the website in question is a bank or an accountant, try to bring legal pressure under the [Gramm–Leach–Bliley Act](https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act) and report back to us how far you get.
 
-- If the website is a government site, try to bring legal pressure under the 1st Amendment of the US Constitution.
+- If the website is a government site, try to bring legal pressure under the [1st Amendment of the US Constitution](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution).
+
+- If you are EU citizen, contact the website to send your personal information under the [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation). If they refuse to give you your information, that's a violation of the law.
 
 - For companies that claim to offer service on their website try reporting them as "false advertising" to consumer protection organizations and BBB.
 
