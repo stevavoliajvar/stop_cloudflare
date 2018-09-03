@@ -6,9 +6,9 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
-* [domains using Cloudflare](cloudflare-list.txt)
-* [hostile to Tor users](cloudflare-tor-hostile-list.txt)
-* [not Cloudflare but other filtering company](non-cloudflare-list.txt)
+* [Domains using Cloudflare](cloudflare-list.txt)
+* [Hostile to Tor users](cloudflare-tor-hostile-list.txt)
+* [Not Cloudflare but other filtering company](non-cloudflare-list.txt)
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.txt).
 Also see [Frequently Asked Questions](FAQ).
@@ -33,4 +33,4 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 
 At least one.
 
-* [Searxes](http://searxes.danwin1210.me/) meta-search engine
+* [Searxes](https://searxes.danwin1210.me/) meta-search engine
