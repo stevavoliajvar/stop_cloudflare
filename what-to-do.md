@@ -1,6 +1,7 @@
 ##### What you can do to resist Cloudflare?
 
 
+
 ######  Website consumer
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
@@ -17,6 +18,7 @@
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
 
 
+
 ######  Website owner / Web developer
 
 - Do not use Cloudflare solution. You are loser if you fall to that easy solution. You can do better than that, right?
@@ -28,13 +30,16 @@
 - Ask for advice from other [Clearnet/Tor dual website operators](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor) and make anonymous friends! :)
 
 
+
 ######  Software user
 
 - If you use Debian GNU/Linux, or any derivative, subscribe to bug #831835 ( https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835 ). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
 
-- Always recommend [Tor Browser](https://www.torproject.org/) or [Orfox](). Other software's privacy is JUST A ILLUSION.
+- Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Orfox](https://guardianproject.info/apps/orfox/) for smartphone. Other software's privacy is JUST A ILLUSION.
+
 
 Let's talk about _other software's privacy_...
+
 
 - If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)". ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr).
 
@@ -45,6 +50,7 @@ Let's talk about _other software's privacy_...
 - PaleMoon developer [likes Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097).
 
 - Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html).
+
 
 
 ######  Action
