@@ -33,7 +33,7 @@
 
 ######  Software user
 
-- If you use Debian GNU/Linux, or any derivative, subscribe to bug #831835 ( https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835 ). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
+- If you use Debian GNU/Linux, or any derivative, subscribe to [bug #831835](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
 
 - Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Orfox](https://guardianproject.info/apps/orfox/) for smartphone. Other software's privacy is JUST A ILLUSION.
 
