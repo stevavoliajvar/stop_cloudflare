@@ -10,7 +10,7 @@ This repository is a list of websites that are behind The Great Cloudwall, and a
 * [Hostile to Tor users](cloudflare-tor-hostile-list.txt)
 * [Not Cloudflare but other filtering company](non-cloudflare-list.txt)
 
-There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.txt).
+There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
 Also see [Frequently Asked Questions](FAQ).
 
 # What can you do?

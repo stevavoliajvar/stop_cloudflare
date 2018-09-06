@@ -13,7 +13,7 @@
 
 - Search for other website. There are many alternatives and opportunites on the internet!
 
-- If your browser is Firefox, use [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) add-on. Other alternatives are [Searxes' Third-party Request Blocker](https://addons.mozilla.org/en-US/firefox/addon/tprb/)(can block Cloudflare) and [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)(notify only).
+- If your browser is Firefox, use [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) add-on. Other alternatives are [Third-party Request Blocker](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php)(can block or notify) and [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)(notify only).
 
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
 
@@ -23,9 +23,9 @@
 
 - Do not use Cloudflare solution. You are loser if you fall to that easy solution. You can do better than that, right?
 
-- Install Web Application Firewall and Fail2Ban on _your_ server and configure it _properly_.
+- Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
 
-- Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) if you believe in freedom and welcome anonymous users.
+- Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) or I2P insite if you believe in freedom and welcome anonymous users.
 
 - Ask for advice from other [Clearnet/Tor dual website operators](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor) and make anonymous friends! :)
 
@@ -35,7 +35,7 @@
 
 - If you use Debian GNU/Linux, or any derivative, subscribe to [bug #831835](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
 
-- Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Orfox](https://guardianproject.info/apps/orfox/) for smartphone. Other software's privacy is JUST A ILLUSION.
+- Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Orfox](https://guardianproject.info/apps/orfox/) for smartphone. Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect". There is no 100% secure nor 100% private on the internet and technology.
 
 
 Let's talk about _other software's privacy_...
@@ -55,7 +55,7 @@ Let's talk about _other software's privacy_...
 
 ######  Action
 
-- Tell others around you about the dangers of Cloudflare.  
+- Tell others around you about the dangers of Cloudflare. But don't talk with NSA employee; you'll be _definitely_ marked... just kidding!
 
 - Help improve this repository, both the lists, the arguments against it and the details.
 
