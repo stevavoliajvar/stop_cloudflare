@@ -199,6 +199,7 @@ slashdot.org ("banned")
 sncb.be (timeout) <= Belgian rail system recently started blocking Tor in the most hostile manner possible. They make no statement and just drop packets, leaving tor users to wait forever until they give up. <rant>great. so in the brave new world "public utilities" now start to silently and as a matter of course discriminate against privacy conscious users on the net. Deutsche Bahn interrupts connection once you go to the ticket reservation page - the love story between railways and surveillance runs deep: the data collection and most of all the execrable CCTV infestation, even inside new trains. all of this would make a great headline: privacy gets thrown under the train as formerly free societies submit to total surveillance.</rant>
 state.gov ("Access Denied")
 statuspage.io/ (Your IP address 149.202.98.160 has been flagged as a scanner. Scanners are not permitted. If you are seeing this message in error, please contact security@statuspage.io.)
+study.com ("403 forbidden")
 snowbirds.org/ (The requested URL was rejected. Your support ID is: 10851284974681727906w)
 sony.de (You don't have permission to access "http://www.sony.de/" on this server. Reference # ... / same story with different exit nodes) 
 spamhaus.org (reCaptcha)
