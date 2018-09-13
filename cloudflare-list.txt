@@ -1,12 +1,3 @@
-marmelab.com
-ghostgunner.net
-nosidebar.com
-fudbingo.com
-womeninadria.com
-techworld.com
-downtrend.com
-goldmoney.com
-defcad.com
 10minutemail.com	<- alternatives: guerrillamail.com and getairmail.com
 131001.net
 131002.net
@@ -397,6 +388,7 @@ decentsecurity.com	<= bit disappointing twtr user @swiftonsecurity uses cf
 decryptedmatrix.com
 deepdotweb.com
 deeponion.org
+defcad.com
 defcad.org
 defdist.org
 defense-update.com
@@ -434,6 +426,7 @@ douglasvanbossuyt.com
 downdetector.com
 downhown.com
 downloader-apk.com
+downtrend.com
 doximity.com
 drakulastream.eu
 drawnandquarterly.com
@@ -558,6 +551,7 @@ freshcode.club
 frontlineclub.com
 frontpagemag.com
 fteproxy.org
+fudbingo.com
 fuelly.com
 fuirestunepulsion.net
 full-stop.net
@@ -594,6 +588,7 @@ gethue.com
 getkovri.org
 geve.rs
 ghacks.net
+ghostgunner.net
 ghost.io
 ghost.org
 giaynam.co
@@ -612,6 +607,7 @@ globalprivacywatch.com
 globalresearch.ca
 gocoin.com	<- xcfd.com concludes with gocoin.com, but the transaction between the bypass cloudflare. we still need to boycott them both
 godfitting.com
+goldmoney.com
 goldprice.org
 gol.hr
 gonewiththewynns.com
@@ -898,6 +894,7 @@ makercon.com
 makezine.com
 malaysianwireless.com
 markdownmail.io
+marmelab.com
 massshootingtracker.org
 mastersportal.eu
 mathwarehouse.com
@@ -1002,6 +999,7 @@ nodered.org
 nofilmschool.com
 nomadcapitalist.com
 nonprofitquarterly.org
+nosidebar.com
 notalwaysright.com
 notavaaz.org	<- contacted in december 2015 in the form (stated as a technical problem), no response is no response, no change
 notion.so
@@ -1397,6 +1395,7 @@ technott.com
 techposts.org
 techraptor.net
 tech-recipes.com
+techworld.com
 teespring.com
 telegraphindia.com
 teradown.com
@@ -1629,9 +1628,11 @@ wireshark.org	[flossp]	<- if cloudflared, it is not documentation
 without-systemd.org
 wmgk.com
 wodan.io
+womeninadria.com
 womenshealthmag.com
 womenyoushouldknow.net
 worldcoinindex.com
+worldnationaldays.com
 worldofislam.info
 wrongisland.org
 www.adyen.com
