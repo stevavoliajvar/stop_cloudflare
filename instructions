@@ -1,20 +1,16 @@
-= Instructions
+= Instructions for manual input
 
-If you go to a website that gives you a reCAPTCHA
 
-1) check if the blocked page says "one more step" as the title, and has something like
 
-"Ray ID CloudFlare: 299472c7c9783c1d      • Your IP: 178.20.55.16 • Performance & Safety by CloudFlare "
+1) If the webpage served you "Attention Required! Cloudflare" webpage
 
+Check if the blocked page says "one more step" as the title, and has something like
+"Ray ID CloudFlare: xxxxxxxxxxxxxxx      • Your IP: xxx.xxx.xxx.xxx • Performance & Safety by CloudFlare "
 at the bottom of the page.
-
-If it does, add to cloudflare-list.txt
-
-(See #6 for format)
+If it does, add to "[cloudflare-list.txt](cloudflare-list.txt)". See #6 for format.
 
 
 2) Some sites use custom page CloudFlare unit.
-
 The only way to detect it is to find CloudFlare JavaScript, or Ray ID as a CAPTCHA in its source code.
 
 
@@ -50,7 +46,7 @@ Add to cloudflare-tor-hostile-list.txt
 it on two, please help keep list accurate by removing it from one of the two
 lists.)
 
-   domain . The TLD [<- elegant comment (s) ] [ tags ] 
+   {base domain} [<- elegant comment (s) ] [ tags ] 
  
 Tags:
 
@@ -64,10 +60,6 @@ For example, free software projects w / ClownFucked web pages can be viewed simi
     * CFA(action) = action is one of "boycott", "discouragedonations", "petition", "legalaction" followed by a URL if possible
 
     * INSTANTp = service denial is instant/deferred
-
-    * DOSBASIS(basis) = basis is one of "anonymous", "IPregion", "datacenterIP", "residentialIP", "anonymoustor", "anonymousi2p", "anonymousvpn"
-
-    * CAPTCHAp = has CAPTCHA
  
     * COMMERCIALp(type) = type is one of "true", "false"
 
