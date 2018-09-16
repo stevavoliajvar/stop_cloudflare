@@ -135,6 +135,7 @@ online.liebertpub.com (client IP is blocked because: This IP was identified as i
 forums.linuxmint.com (You have been permanently banned from this board. Please contact the Board Administrator for more information. A ban has been issued on your IP address.)
 linuxquestions.org (some exits all, in my experience. following the "you can use this key to fix the problem yourself"  http://ioerror.us/bb2-support-key?key=... 2016/09/03 unblocked link gets you to "ioerror.us", which otherwise serves the same "Technical Support, you can use this key to fix the problem yourself" shit. according to the "you can use ..." page, blacklisting is from "Project Honey Pot", whatever that is supposed to be. one more link shows that their justification for the block is forum-spam that originated from the exit.)
 --Project Honey Pot is a CloudFlare, crowdsourced list of IP addresses that contribute problematic traffic. 
+lifewire.com ("Error 405 Not allowed. Guru Mediation: Details: cache-pao17431-PAO 1537134593 1379325143")
 livejournal.com (only sometimes: "Access Denied     Either you are trying to access a page you do no not have permission to view or your ip address is banned.")
 loebner.net some exits ("if you feel this in error")
 loophole-berlin.com
