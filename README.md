@@ -31,6 +31,5 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 
 # Who uses this list?
 
-At least one.
-
 * [Searxes](https://searxes.danwin1210.me/) meta-search engine
+* [Block Cloudflare MITM Attack II](https://addons.mozilla.org/en-US/firefox/addon/bcma/) add-on
