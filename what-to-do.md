@@ -7,13 +7,22 @@
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
 
 > You are just helping corporate censorship and mass surveillance.
+> 
 > https://trac.torproject.org/projects/tor/ticket/24351
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
 
 - Search for other website. There are many alternatives and opportunites on the internet!
 
-- If your browser is Firefox, use [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) add-on. Other alternatives are [Third-party Request Blocker](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php)(can block or notify) and [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)(notify only).
+- If your browser is Firefox, use one of these add-ons.
+
+| Name | Can Block | Can Notify |
+| -------- | -------- | -------- |
+| [**Block Cloudflare MITM Attack**](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)     | **Yes**     | **Yes**     |
+| [Block Cloudflare MITM Attack II](https://addons.mozilla.org/en-US/firefox/addon/bcma/)     | **Yes**     | **Yes**     |
+| [Searxes' Third-party Request Blocker](https://addons.mozilla.org/en-US/firefox/addon/stprb/)     | **Yes**     | **Yes**     |
+| [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)     | No     | **Yes**     |
+
 
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
 
