@@ -23,6 +23,8 @@
 | [Third-party Request Blocker](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php)     | **Yes**     | **Yes**     |
 | [Searxes' Third-party Request Blocker](https://addons.mozilla.org/en-US/firefox/addon/stprb/)     | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)     | No     | **Yes**     |
+| [Detect Cloudflare+](https://github.com/claustromaniac/detect-cloudflare-plus)     | No     | **Yes**     |
+
 
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
 
