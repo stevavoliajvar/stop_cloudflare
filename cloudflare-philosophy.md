@@ -182,6 +182,23 @@ If they'll do it for the RIAA they'll do it for the MPAA/IFPI/ICE/IIPA/ACE/...
 
 This is a bad idea. https://blog.ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
 
+17) Where did this cloudflare thing come from, anyway?
+
+" CloudFlare’s CEO Matthew Prince made a weird, glib admission that he decided to start the company only after the 
+Department of Homeland Security gave him a call in 2007 and suggested he take the technology behind Project Honey Pot 
+one step further…"
+
+What was Project Honey Pot?
+
+" a service that positions itself as some kind of a grassroot-y antispam registry, but in reality seems to be a 
+pro-corporate law enforcement tool with the specific aim of entrapping and prosecuting spammers/phishing scammers 
+in a way that’s friendly to the marketing industry "
+
+"CloudFlare is perfect: it can implement censorship on the fly, without anyone getting wise to it!"
+
+http://exiledonline.com/isucker-big-brother-internet-culture/
+
+
 17) Followup / Further research:
 
 See also

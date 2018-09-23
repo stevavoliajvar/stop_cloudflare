@@ -1,5 +1,4 @@
 Freenode IRC servers (all exits, can result in auto kline)
-4chan.org (reCAPTCHA)
 abebooks.com (403)
 aboutdebian.com (Access denied. Your IP address [185.62.188.14] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.)
 adidas.de (Access Denied You don't have permission to access "http://www.adidas.de/" on this server.) / 2016-04-29

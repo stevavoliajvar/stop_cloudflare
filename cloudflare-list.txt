@@ -457,6 +457,7 @@ bitesizebio.com
 bitfinex.com
 bitimart.com
 bitinfocharts.com
+bitland.net
 bitminter.com
 bitofpixels.com
 bitpay.com
@@ -1124,6 +1125,7 @@ elementaryos.org
 elephantjournal.com
 elitereaders.net
 elitesportsny.com
+elixxir.io
 ello.co
 elpais.com.uy
 elyrics.net
@@ -1210,6 +1212,7 @@ f95zone.com
 facinghistory.org
 factmag.com
 facty.com
+fairfieldcurrent.com
 faithfreedom.org
 fakenamegenerator.com
 fakereferer.com
@@ -1789,6 +1792,7 @@ inthesetimes.com
 intmusic.net
 intobserver.com
 inventic.eu
+investorplace.com
 investors.com
 investorsstartpage.com
 ioffer.com
@@ -2186,6 +2190,7 @@ medicinenet.com
 medium.com
 medscape.com
 medside.ru
+meetalva.io
 meetup.com
 meforum.org
 meinit.nl
@@ -2522,7 +2527,6 @@ openjurist.org
 openpgpjs.org
 openruby.com
 opensecrets.org
-opensecrets.org	<= dipshit hypocrits bitched when they were denied access to the republican national convention, yet they use cf to block the people accessing their content.
 opensourceecology.org
 openstack.org
 opentech.fund
@@ -3164,6 +3168,7 @@ siteleaks.com
 sitesbay.com
 sivers.org
 skechers.com
+skeptic.com
 skidrow-games.com
 skidrowreloaded.com
 skinnyms.com
@@ -3368,6 +3373,7 @@ tabikumo.com
 tafttest.com
 tag4you.com
 takahashifumiki.com
+takimag.com
 talentsmart.com
 talkandroid.com
 talkmoneycafe.com
@@ -3464,6 +3470,7 @@ thecheckeredflag.co.uk
 thechiefmeat.com
 thechinaman.co.uk
 thecitypaperbogota.com
+thecollegefix.com
 thecultofkek.com
 thedailybeast.com
 the-daily.buzz
@@ -3759,6 +3766,7 @@ unhcr.org
 unhypem.com
 unicodelookup.com
 unicornriot.ninja
+unify.org
 unijokes.com
 uniontestprep.com
 unitedfurnitureoutlets.co.za
