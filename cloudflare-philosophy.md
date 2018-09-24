@@ -1,6 +1,6 @@
-= Productivity and safety through the CloudFlare!
+**Productivity and safety through the CloudFlare!
  
-= Torblocks Philosophy
+**Torblocks Philosophy
 
 1) Have fun!
 
@@ -20,12 +20,12 @@ BTW someone quickly wrote a (unhelpful & biased & not in-depth researched, rathe
 
 There's also the rather amusing fact that Tor trac bugtracker also required CAPTCHAs (which was commented on several times) and the less amusing fact that these came from freakin' Google.
 
-2.1) Lies, damn lies and statistics
+3.1) Lies, damn lies and statistics
 especially if you make up the "ground truth" to suit your own smear campaign ...
 https://blog.torproject.org/blog/trouble-cloudflare
 Cloudflare is a wilfully malicious actor, there can be no more doubt.
 
-2.2) Unamed's take on the situation:
+3.2) Unamed's take on the situation:
 
 Praise the awesome wisdom of blocking Tor access to websites!!!
 There must be some advantage. Something? Anything? Some rational explanation?
@@ -96,17 +96,17 @@ B: Has anyone ever successfully DDOS'd anything from within tor? outside of hidd
 tor loud and clear.
 The ticket on Tor trac offers some insight. It seems to be about forum spam (the "threat scores" originate with "Project Honey Pot", which labors under the drastic oversimplifying assumption that maintaining long term IP based address scores is somehow a sensible approach - invalidated by communal exit nodes of all stripes and colors and even carrier-grade NATs, as people have pointed out) port scans (how the hell is that abuse? run a public server and expect a "safe space" no matter how bad your security? seriously it's hard to understand why someone who needs to be protected from port scans wants to run their own domain on their own fucking servers. there's lots of hosters that will expertly & gladly solve these problems in-house), SQL injections (again, responsiblity of the guys who made the website!!!) and so on.
 
-3) The wikimedia way
+4) The wikimedia way
 
 Even as a registered user in good standing, exemption from the Tor block has to be requested through a bureaucratic process (even though Wikipedia is "not a bureaucracy") and will be granted under exceptional circumstances only. I completely fail to see the rationale. this is probably an artefact of  the blocking system they use to bar anonymous vandals from editing  Wikipedia, viz. the unblocking process might be messy to perform, behind  the scenes, I don't know. The upshoot for me as a user is that they regard Tor use as  "exceptional" and not a normal thing. The result is that errors I notice on Wikipedia pages while using TBB go uncorrected. They even block paid vpn servers as "open proxies". Seems like they just do not want help. Because in times of NSA they should expect that clever people hide from spying. Precisely. It's a crying shame, though. Maybe the wikipedia of the future will use gnunet-git/freenet/i2p-lafs based backend. I will never donate to wikimedia again unless they come up with a concept for letting users contribute over Tor and other banned proxy networks (not "exceptionally", but casually) OR hell freezes over. Until then, I don't feel they deserve the money. Dear Jimmy, figure this one out first. There's gotta be a good way. This isn't "security". WORST OF ALL, It doesn't even stop rotten people from manipulating Wikipedia. It's not helpful. OK?
 Has anyone seen the greenstadt(?) talk on the value of anonymous contributions yet?
 
-4) Unfortunately the CAPTCHA they use is [NSA/](https://www.facebookcorewwwi.onion/jeff.cliff/posts/10154477661637909)Google's.  This poses multiple problems.
+5) Unfortunately the CAPTCHA they use is [NSA/](https://www.facebookcorewwwi.onion/jeff.cliff/posts/10154477661637909)Google's.  This poses multiple problems.
 For starters, this CAPTCHA does not always work(especially for those with accessability issues), and when it doesn't work there is viritually no way for them to complain.
 
-5) The CAPTCHA's support of languages is very limited, which makes it impossible for those who do not speak whatever default language to access to the content they are looking for. It's also troublesome to the survival of languages worldwide. 
+6) The CAPTCHA's support of languages is very limited, which makes it impossible for those who do not speak whatever default language to access to the content they are looking for. It's also troublesome to the survival of languages worldwide. 
 
-6) clownflare vs. non clownflare (homespun or other 3rd party blocklists e.g. against forum spam which overblock tor)
+7) clownflare vs. non clownflare (homespun or other 3rd party blocklists e.g. against forum spam which overblock tor)
 
   "Overall there seem to be far fewer sites that impede (reading, not posting!) access via Tor  without Cloudflare than with Cloudflare. It is of course still a deeply flawed and misguided (and clueless, as the stupid little messages about  "security reasons" or "viruses" (how cute ...) etc. show) policy, but unlike Cloudflare which has its tendrils everywhere and MITMs large swathes of the web for the NSA, small-scale blocking alone probably wouldn't drive a lot of would-be casual Tor users back into the arms of mass surveillance. Nevertheless it's annoying and site owners should rethink their approach."
 
@@ -120,12 +120,12 @@ change the architecture of the web ...
 
 nevertheless, the cloudflare captcha walls serve as a nice reminder of their MitM position. if a corporation gets the power to sabotage a sizeable fraction of the web, that's not good.
   
-7.1) Thinking more about jgrahamc's "We have a simple need: our customers pay us to protect their web sites from DoS" -- which we may as well accept as true, since in practice that is what happens. Given that, and that DDOS is speech[6][7]  it's pretty clear that they are a censorship vendor at least on that level.  Their customers are paying them to "protect" them from their customer's speech.  We can call a spade a spade.
+8.1) Thinking more about jgrahamc's "We have a simple need: our customers pay us to protect their web sites from DoS" -- which we may as well accept as true, since in practice that is what happens. Given that, and that DDOS is speech[6][7]  it's pretty clear that they are a censorship vendor at least on that level.  Their customers are paying them to "protect" them from their customer's speech.  We can call a spade a spade.
 
 Might even call it a sustained DDOS attack on readers, ironically. Distributed? Check. Denial of service? Check.
 
 
-8) Also its a bit rich to have to prove to robots that we're "not robots". Humans should make machines work, not vice versa.
+9) Also its a bit rich to have to prove to robots that we're "not robots". Humans should make machines work, not vice versa.
 fits amazon's actual business model perfectly  
 * Also robots take the test whether we want to or not.  As pointed out in the original thread, User agents end up taking the test for us anyway.  There is no situation where a human is taking the test that Cloudfare actually cares about, it's turtles all the way down 
 if I wanted to run a SPAM outfit, I'd find a way to pay humans to do the captchas if OCR can't solve them with enough success chance - I hear this is commonly done. millions and millions of people accept such jobs for want of better alternatives - or build a piece of malware or web trickery to re-route captchas. there goes their main argument.
@@ -144,13 +144,13 @@ Better still: avoid feeding it *correct* data.
 
 Google could yet be made to choke on its own omnivorous virulent data voracity.
 
-10) 
+11) 
 
 TIP: to access sites that block tor completely, try using a web archiving service like https://archive.org/web/ (awesome and reliable, but honors robots.txt) or https://archive.is/ (relatively new, run by someone anonymous, does NOT honor robots.txt so it will work with more sites) Nice ... they are officially a museum and thus exempt from some copyright restrictions. Bwahaha ... What also works is startpage.com / ixquick.com "open via proxy" function for a great many pages, for reading it is great but external links get broken and posting is out of question. Or use Tor -> VPN or Tor -> open proxy if the need arises to truly Access a website.
 Workaround for the impatient  Instead of looking at archived website versions use ixquick.com / startpage.com: They offer a proxy service for search results, apparently returning 403 for some websites. some websites return 403 to them, which is to be expected.
 TIP2: Use another proxy between tor and reluctant websites. Usable proxies include https://proxy-nl.hide.me/ and https://www.vpnbook.com/webproxy. thx
 
-11) What can a website do to become more tor friendly user friendly, really?
+12) What can a website do to become more tor friendly user friendly, really?
 
 a) lift the stupid block
 
@@ -159,30 +159,30 @@ http://j7652k4sod2azfu6.onion/p/leurity, but it's conflating securty and protect
 
 c) at least be honest and change the HTTP code to 451 or 406 "Not Acceptable" coz that's what tor blocks are ...
 
-12) We want to implement CloudFlare real security, ie one that is not based on a IP-filter
+14) We want to implement CloudFlare real security, ie one that is not based on a IP-filter
 
 This might be impossible, since Cloudflare itself is the security hole.
 Trusted Third Parties are Security Holes[8].
 
-13) Accessibility!
+15) Accessibility!
 
 https://toot.cafe/@peter/99398584471715976
 
-14) Cloudflare's reasons for taking websites down so far
+16) Cloudflare's reasons for taking websites down so far
 
 http://pleroma.oniichanylo2tsi4.onion/notice/1563
 
-15) Cloudflare is cooperating with the RIAA to silence people the RIAA doesn't like.
+17) Cloudflare is cooperating with the RIAA to silence people the RIAA doesn't like.
 
 https://torrentfreak.com/cloudflare-and-riaa-agree-on-tailored-site-blocking-process-180501/
 
 If they'll do it for the RIAA they'll do it for the MPAA/IFPI/ICE/IIPA/ACE/...
 
-16) I have a great idea!  Let's use Cloudflare for everyone's DNS.
+18) I have a great idea!  Let's use Cloudflare for everyone's DNS.
 
 This is a bad idea. https://blog.ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
 
-17) Where did this cloudflare thing come from, anyway?
+19) Where did this cloudflare thing come from, anyway?
 
 " CloudFlare’s CEO Matthew Prince made a weird, glib admission that he decided to start the company only after the 
 Department of Homeland Security gave him a call in 2007 and suggested he take the technology behind Project Honey Pot 
@@ -198,8 +198,7 @@ in a way that’s friendly to the marketing industry "
 
 http://exiledonline.com/isucker-big-brother-internet-culture/
 
-
-17) Followup / Further research:
+20) Followup / Further research:
 
 See also
 https://trac.torproject.org/projects/tor/wiki/org/doc/ListOfServicesBlockingTor
@@ -222,13 +221,20 @@ Cloudflare support pages on the topic:
     https://support.cloudflare.com/hc/en-us/articles/200170056-What-is-CloudFlare-s-Ba bysic-Security-Level-
     https://support.cloudflare.com/hc/en-us/articles/200170116-What-do-the-Threat-Scores-mean-
 
-18) Sources
+21) Sources
 
 [1] http://themusicgod1.deviantart.com/art/the-great-cloudwall-1-595382698
+
 [2] http://www.youtube.com/watch?v=r3yIarp3J2o
+
 [3] https://when.google.met.wikileaks.org/
+
 [4] https://wiki.lesswrong.com/wiki/Unfriendly_artificial_intelligence
+
 [5] https://www.visionofearth.org/future-of-humanity/existential-risks/what-is-an-existential-risk/
+
 [6] http://www.theguardian.com/commentisfree/2013/jan/22/paypal-wikileaks-protesters-ddos-free-speech
+
 [7] https://twitter.com/haq4good/status/703315998523396096
+
 [8] http://nakamotoinstitute.org/trusted-third-parties/
