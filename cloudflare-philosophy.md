@@ -1,7 +1,7 @@
-** Productivity and safety through the CloudFlare! **
+# Productivity and safety through the CloudFlare! 
   
-** Torblocks Philosophy **
-
+## Torblocks Philosophy 
+ 
 1) Have fun!
 
 2) What is the darknet if not the (parts of the?) net that doesn't like to be accessed?  That would make Cloudflare (and its competitors with similar business practices) and all their customers (ie everyone on this list) part of the dark net.
