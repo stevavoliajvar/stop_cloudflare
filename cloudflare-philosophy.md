@@ -216,10 +216,11 @@ as the CloudFlare "partners with reference to" use CloudFlare.
 
 Cloudflare support pages on the topic:
 
-    https://support.cloudflare.com/hc/en-us/articles/200170096-How-do-I-turn-the-CloudFlare-captcha-challenge-page-off-
-    https://support.cloudflare.com/hc/en-us/articles/203306930-Does-CloudFlare-block-Tor- the C isne
-    https://support.cloudflare.com/hc/en-us/articles/200170056-What-is-CloudFlare-s-Ba bysic-Security-Level-
-    https://support.cloudflare.com/hc/en-us/articles/200170116-What-do-the-Threat-Scores-mean-
+
+https://support.cloudflare.com/hc/en-us/articles/200170096-How-do-I-turn-the-CloudFlare-captcha-challenge-page-off-
+https://support.cloudflare.com/hc/en-us/articles/203306930-Does-CloudFlare-block-Tor-theCisne
+https://support.cloudflare.com/hc/en-us/articles/200170056-What-is-CloudFlare-s-Babysic-Security-Level-
+https://support.cloudflare.com/hc/en-us/articles/200170116-What-do-the-Threat-Scores-mean-
 
 21) Sources
 
