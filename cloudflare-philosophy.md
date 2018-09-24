@@ -1,6 +1,6 @@
-**Productivity and safety through the CloudFlare!
- 
-**Torblocks Philosophy
+** Productivity and safety through the CloudFlare! **
+  
+** Torblocks Philosophy **
 
 1) Have fun!
 
