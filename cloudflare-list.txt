@@ -8,7 +8,6 @@
 10best-vpn.com
 10instagram.com
 10lista.com
-10minutemail.com
 10minutemail.com	<- alternatives: guerrillamail.com and getairmail.com
 123movies.fun
 123watchjav.com
@@ -73,6 +72,7 @@
 750words.com
 77hs.net
 7chan.org
+80000hours.org
 8ch.net
 8tracks.com
 99bitcoins.com
@@ -148,6 +148,7 @@ alabamaobserver.com
 al-akhbar.com
 albumdabster.com
 albumoftheyear.org
+aldeid.com
 alexcican.com
 algolia.com
 algoworks.com
@@ -248,7 +249,6 @@ aniqq.com
 anirena.com
 anitasfeast.com
 anizm.tv
-ankisrs.net
 ankisrs.net	[flossp] <= after yesterday complained that each new thread created require google captcha (in addition to the registration process is tested once), they put their web - site on the cloudflare * today *. perhaps it's a coincidence. they are allowed to place a complaint ( https://anki.tenderapp.com/discussions/ankidesktop/21167-captcha-hell) . note that tenderapp.com (where sites) knowledgebase not clownfucked. new ticket for only created problems for cloudflare: https://anki.tenderapp.com/discussions/ankidesktop/21203-user-guide-now-blocked-by-cloudflare
 annarecetasfaciles.com
 annasayce.com
@@ -310,11 +310,9 @@ arcadeprehacks.com
 archimedes-lab.org
 architectureartdesigns.com
 archive.fo
-archive.fo	<- sometimes archive.is forwards there? god i hate clownflare! -> archive.is also clownflared now
 archive.is
 archive.li
 archive.today
-archive.today	<- that's a damn shame. we need this site to view other blocked sites. -> archive.is -> also clownflared now, sorry for ever having used them.
 arealme.com
 arenalsounddream.com
 aresearchguide.com
@@ -371,7 +369,6 @@ autocodes.com
 autohotkey.com
 autostraddle.com
 auvideo.net
-avaaz.org
 avaaz.org	<- contacted december 2015 via form (reported as tech problem), no response no response, no change
 avast.com
 avc.com
@@ -388,7 +385,6 @@ azballcharterschools.org
 azdoc.pl
 a-zmanga.net
 baagroundhandling.com
-babelfish.com
 babelfish.com	<- assholes just started using cf (oct.2016), just after translate.google.com became bot-hostile.
 backupreview.com
 backyardchickens.com
@@ -494,7 +490,6 @@ bitcoinhackers.org
 bitcoinist.com
 bitcoinist.net
 bitcoin.it
-bitcoinjs.org
 bitcoinjs.org 	<- bitcoin companies should not have mitms guarding them.  that's just asking to compromise your users, especially when javascript is involved.
 bitcoin.kn
 bitcoinmagazine.com
@@ -521,7 +516,6 @@ bitland.net
 bitminter.com
 bitmovin.com
 bitofpixels.com
-bitpay.com
 bitpay.com	<= torproject uses the slimeballs	< https://trac.torproject.org/projects/tor/ticket/18911 >, along with paypal, and just keep the fools still feed them.
 bitporno.com
 bitquick.co
@@ -693,6 +687,7 @@ captcha.website
 card-data-recovery.com
 cardingmafia.ws
 careergarden.jp
+carnaghan.com
 carpe-diem.events
 carrier.com
 case.edu
@@ -726,7 +721,6 @@ cem.me
 censor.net.ua
 centminmod.com
 centrelink.gov.au
-centrelink.gov.au	<- (custom unit cloudflare page)
 centurymedia.com
 cepr.net
 certcollection.org
@@ -739,7 +733,6 @@ cgap.org
 chainreactioncycles.com
 challies.com
 challonge.com
-change.org
 change.org	<-  https://www.change.org/p/change-org-change-org-stop-using-cloudflare
 chann.net
 chapter3min.org
@@ -895,6 +888,7 @@ commonsensemedia.org
 comodo.com
 companiesintheuk.co.uk
 companydirectorcheck.com
+competitivefutures.com
 complexpic.com
 component-creator.com
 compose.agency
@@ -936,6 +930,7 @@ corporatefinanceinstitute.com
 corporationwiki.com
 correcttoes.com
 coshx.com
+countbayesie.com
 counter-currents.com
 countrysites.net
 coursehero.com
@@ -1262,6 +1257,7 @@ eapcgames.com
 early-retirement.org
 early-retirement.org	<= recently joined the cf walled garden
 earthclinic.com
+easo.org
 easy2boot.com
 easyengine.io
 easymusicdownload.com
@@ -2065,6 +2061,7 @@ improbable.com	<- perhaps they should be awarded the prize for his ig
 imvustylez.net
 imzog.com
 inburke.com
+includehelp.com
 incrypted.net
 index.hr
 indexoncensorship.org
@@ -2689,7 +2686,6 @@ moscow.sci-hub.io
 motocms.com
 motorauthority.com
 movecommons.org
-moveon.org
 moveon.org	<= was tor-friendly when change.org was not, and they were praised for it. gave no acknowledgement, then the asshats decided to use cf. hopeless- promote their competitors instead (care2, openpetition,etc)
 moviefull-hd.org
 movienightseries.com
@@ -2719,7 +2715,6 @@ mukto-mona.com
 multihostersreview.com
 multimining.website
 multiwebconverter.com
-musalbas.com
 musalbas.com	<- it is better to know shd
 mushusei.io
 musica.com.ar
@@ -2844,8 +2839,7 @@ nicenic.net
 nicevps.net
 nichegamer.com
 nicheporno.com
-nickbostrom.com
-nickbostrom.com	<- one of the most important pages on the web :(
+nickbostrom.com	
 nicoblog.org
 nigelcoldwell.co.uk
 niggermania.com
@@ -2874,7 +2868,6 @@ nostarch.com
 nosub.tv
 notabug.io
 notalwaysright.com
-notavaaz.org
 notavaaz.org	<- contacted in december 2015 in the form (stated as a technical problem), no response is no response, no change
 notion.so
 nouvelordremondial.cc
@@ -2916,7 +2909,6 @@ nwebsec.com
 nyaa.eu
 nyra.com
 o7planning.org
-oanda.com
 oanda.com	<= is used officially by the belgian government for the tax rates for fx! taxpayers do official business should not be forced to use cloudflare site.
 obamadecides.org
 obrazovalka.ru
@@ -3017,7 +3009,6 @@ ourproject.org
 ourworldindata.org
 out.com
 outernet.is
-outernet.is	<= "outernet for all " is mentioned on their twitter accounts.
 outsideonline.com
 ovagames.com
 overdrivedesign.biz
@@ -3065,16 +3056,13 @@ passionsearch.com
 passportindex.org
 paste2.org
 pastebin.com
-pastebin.com	<= there is abundant alternative to pastebin, therefore promoting alternatives better than trying to turn pastebin
 pastebook.org
 paste.ee
-pastehtml.com
 pastehtml.com	<-- (only the homepage is cloudflared - internal pages on the same domain are not cf'd - e.g.http://pastehtml.com/view/bscbw9x5i.html)
 pasteio.com
 paticik.com
 patient.info
 patreon.com
-patreon.com	<- the great "platform" everyone's talking about and what, no https and clownflared? go fuck yourselves, this is fucking 2016
 patrikagroup.in
 paulmcbride.net
 paxful.com
@@ -3098,7 +3086,6 @@ pembinavalleyonline.com
 pennfishing.com
 pennywong.com.au
 pen.org
-pen.org	<- !
 pentestbox.org
 pentestmag.com
 peoplefinders.com
@@ -3135,7 +3122,6 @@ phpbuilder.com
 phpgrid.org
 phpknowhow.com
 pickpik.com
-pic-upload.de
 pic-upload.de	<= a pastebin-like site but for images. alternative site: imgur
 pikdo.com
 pikdo.net
@@ -3204,7 +3190,6 @@ politicsbreaking.com
 politifact.com
 poljoprivredni-forum.com
 poloniex.com
-poloniex.com	<- custom page: one more step
 polycount.com
 pongpdf.com
 pony.town
@@ -3236,7 +3221,6 @@ porzo.ninja
 porzo.pro
 posedge.ir
 postimage.org
-postimage.org	<= pic-upload.de alternative also cfd
 postimg.org
 postpartumprogress.com
 postscapes.com
@@ -3324,7 +3308,6 @@ psychcentral.com
 psychologydictionary.org
 psychotherapy.net
 psypopubpub.org
-psypopubpub.org	<= snowden is part of the work "published" on this sitest.org
 psypost.org
 pthc.se
 pttweb.tw
@@ -3333,11 +3316,9 @@ publicnow.com
 publicseminar.org
 pub.network
 pubpub.org
-pubpub.org	<= some of snowden's work is "published" on this site
 pugetsystems.com
 purevpn.com
 purina.ch
-puri.sm
 puri.sm	<= they seem to be on the cf now (checked on 7/1/2017)
 pushsquare.com
 putintrump.org
@@ -3420,6 +3401,7 @@ raw-zip.com
 r-bloggers.com
 rbls.org
 rc10talk.com
+rchapman.org
 rcmdnk.com
 rcpsych.org
 rctech.net
@@ -3504,6 +3486,7 @@ rlsbb.ru
 rlsbb.to
 rnib.org.uk
 rnkws.site
+roadsidethoughts.com
 robtex.com
 rocketlabusa.com
 rodoved.org
@@ -3589,7 +3572,6 @@ saskndp.ca
 saskparty.com
 savemedia.com
 savenetneutrality.eu
-savenetneutrality.eu	<= embarrassing!
 savethechildren.net
 savevideo.me
 saylor.org
@@ -3671,7 +3653,6 @@ sgpbusiness.com
 sgtreport.com
 sguru.org
 shakeshack.com
-shapeshift.io
 shapeshift.io	<= bitcoin exchange. we should be publicly ridculing bitcoin companies that use the cloudflare, because the money people at risk (exposed mitm). danger w / btc on cloudflare is essential. ~> discussion page
 shapeways.com
 sharadchhetri.com
@@ -4194,6 +4175,7 @@ theprice2016.xyz
 theprp.com
 thequint.com
 therealstanlee.com
+therecoveryvillage.com
 therecusant.com
 theregister.co.uk
 therightscoop.com

@@ -221,6 +221,7 @@ theislamicseminary.org ("Access denied.  Your IP address [171.25.193.131] is bla
 ti.com (Access Denied You don't have permission to access "http://www.ti.com/..." on this server.)
 tineye.com/search
 tocloud.com ("Access denied.  Your IP address is blacklisted.  If you feel this is in error please contact your hosting provider's abuse department." / 2016-12-04)
+tomshardware.com ("403 forbidden")
 torjo.com <- "406 Not Acceptable". dunno if it's a tor block but the status code (taken in a self-referential way) is a pretty appropriate comment on Tor blocks ...
 torrentfreak.com (reCaptcha on most exits)
 www.travelweekly.com
