@@ -1,10 +1,7 @@
 'Globalist' project used to be distributed with this project, and is still recommended as an interesting idea.
 However since we're mostly on github anyway we might as well keep the two projects seperate
 
-For 'Globalist' see [globalist] subdirectory here.
-
-( Upstream: https://github.com/themusicgod1/globalist )
-( Upstream: https://github.com/fnordomat/Globalist )
+For 'Globalist' see globalist subdirectory here.
  
 -> dead simple use of git and .onions to create a distributed repo for collaborative editin
 no more hosting needed, just an ever-changing network of .onions. putting the "D" back in "DVCS" ...

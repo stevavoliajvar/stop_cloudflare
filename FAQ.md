@@ -18,4 +18,5 @@ project!
 Sources
 
 [1] http://infoshop.org/AnarchistFAQSectionJ1
+
 [2] https://www.usenix.org/system/files/conference/woot16/woot16-paper-wustrow.pdf 
