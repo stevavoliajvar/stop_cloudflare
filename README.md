@@ -15,7 +15,7 @@ Also see [Frequently Asked Questions](FAQ).
 
 # What can you do?
 
-* Add domains you found: [list instructions](instructions)
+* Add domains you found: [list instructions](instructions.md)
 * See [our list of recommended actions](what-to-do.md).
 
 There are other lists, but this one is one where every entry on the list a human being has actually tried
@@ -32,4 +32,4 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 # Who uses this list?
 
 * [Searxes](https://searxes.danwin1210.me/) meta-search engine
-* [Block Cloudflare MITM Attack II](https://addons.mozilla.org/en-US/firefox/addon/bcma/) add-on
+* [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) add-on
