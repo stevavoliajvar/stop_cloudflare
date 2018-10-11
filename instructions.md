@@ -12,25 +12,23 @@
 | ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not any more     |
 
 
+1) How to detect Cloudflare
+
+- [These add-ons](what-to-do.md) will help your Cloudflare collection.
+- Visit a website via Tor or VPN, and you will be greeted by "Attention Required! Cloudflare" webpage.
+
+2) How to add your data
+
+1. Log in to notabug.org.
+2. Click "Fork" button. (top-left corner)
+3. Edit text file.
+4. Click Double-arrow button to create a new pull request.
 
 
 
+*( below could use some rewrite )*
 
-
-
-
-(below could use some rewrite)
-
-
-
-
-1) If the webpage served you "Attention Required! Cloudflare" webpage
-
-Check if the blocked page says "one more step" as the title, and has something like
-"Ray ID CloudFlare: xxxxxxxxxxxxxxx      • Your IP: xxx.xxx.xxx.xxx • Performance & Safety by CloudFlare "
-at the bottom of the page.
-If it does, add to "[cloudflare-list.txt](cloudflare-list.txt)". See #6 for format.
-
+```
 
 2) Some sites use custom page CloudFlare unit.
 The only way to detect it is to find CloudFlare JavaScript, or Ray ID as a CAPTCHA in its source code.
@@ -86,4 +84,4 @@ For example, free software projects w / ClownFucked web pages can be viewed simi
     * COMMERCIALp(type) = type is one of "true", "false"
 
 
-
+```
