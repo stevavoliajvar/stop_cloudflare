@@ -4,7 +4,7 @@ Pull requests are welcome.
 
 
 | List name | Description |
-| -------- | -------- | -------- |
+| -------- | -------- |
 | cloudflare_CIDR_v4.txt     | Cloudflare IP Range (IPv4)     |
 | cloudflare_CIDR_v6.txt     | Cloudflare IP Range (IPv6)     |
 | cloudflare_domains.txt     | The list of cloudflare-proxied domains     |
