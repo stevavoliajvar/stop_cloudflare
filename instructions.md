@@ -1,6 +1,4 @@
-# Instructions for manual input
-
-Pull requests are welcome.
+# Instructions for pull requests
 
 
 | List name | Description |
