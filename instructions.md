@@ -7,8 +7,9 @@
 | cloudflare_CIDR_v6.txt     | Cloudflare IP Range (IPv6)     |
 | cloudflare_domains.txt     | The list of cloudflare-proxied domains (without cloudflare_owned_domains)     |
 | /split/cloudflare(X).txt     | split files     |
-| cloudflare_owned_domains.txt     | Domains owned by Cloudflare corporation     |
-| cloudflare_owned_onions.txt     | Tor .onions owned by Cloudflare corporation     |
+| cloudflare_owned_domains.txt     | Domains owned by Cloudflare     |
+| cloudflare_owned_onions.txt     | Tor .onions owned by Cloudflare     |
+| cloudflare_owned_ASN.txt     | AS network owned by Cloudflare    |
 | ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not any more     |
 
 
