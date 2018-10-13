@@ -18,9 +18,10 @@
 
 | Name | Can Block | Can Notify |
 | -------- | -------- | -------- |
-| [Block Cloudflare MITM Attack II](https://addons.mozilla.org/en-US/firefox/addon/bcma/)     | **Yes**     | **Yes**     |
+| [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/)     | **Yes**     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)     | **Yes**     | **Yes**     |
 | [Searxes' Third-party Request Blocker](https://addons.mozilla.org/en-US/firefox/addon/stprb/)     | **Yes**     | **Yes**     |
+| [Third-party Request Blocker](https://searxes.danwin1210.me/collab/___go.php?go=get_tprb0)     | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)     | No     | **Yes**     |
 
 
