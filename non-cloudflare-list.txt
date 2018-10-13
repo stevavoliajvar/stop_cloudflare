@@ -154,12 +154,12 @@ mottweilerstudio.com ("Access denied.  Your IP address [....] is blacklisted.  I
 motorcyclecruiser.com ( "You are receiving this error message because your ip (212.117.180.21) is listed in the StopForumSpam.com database" / 2016-08-15)
 nakedcapitalism.com
 nbnco.com.au (Infinite Redirect)
-content.nejm.org - Your IP (185.038.014.215) is blocked.
 nepalmonitor.org (timeout)
 netbank.com.au
 networktools.nl (You don't have permission to access (...) on this server because you are currently blacklisted by a DNSBL server at: sbl-xbl.spamhaus.org)
 newark.com  (Access Denied You don't have permission to access ...)
 newgrounds.com ("Security Validation - Completing this captcha proves you are a human and helps keepNewgrounds free of spam and abuse!")
+nih.gov ("Your access to PubMed Central has been blocked because your Internet connection (IP address) was used to download content in bulk, in violation of the terms of the PMC Copyright Notice.")
 njea.org
 novaecomic.com ("Access denied. Your IP address [185.220.101.30] is blacklisted. If you feel this is in error please contact your hosting providers abuse department.")
 www.ncbi.nlm.nih.gov ("Your access to PubMed Central has been blocked because your Internet connection (IP address) was used to download content in bulk, in violation of the terms of the PMC Copyright Notice.")
@@ -247,7 +247,6 @@ wigle.net/ (403 Forbidden / (nginx) 2016-12-04)
 wiki.debian.org (Forbidden <p>You are not allowed to access this!</p>)
 wikidevi.com (Error 403 (451 more like ...). Your technical support key is: ...)
 witopia.net (error 403) <= we shouldn't care, this is a nanny VPN anyway
-weforum.org (Access Denied You don't have permission to access ...)
 whiterose.samizdata.net
 whoismcafee.com/
 wikipedia.org (allows reading but blocks edits,)
