@@ -37,7 +37,7 @@ The only way to detect it is to find CloudFlare JavaScript, or Ray ID as a CAPTC
 
 3) Some websites use other companies with the CloudFlare business model
 
-add them to non-cloudflare-list.txt ( formerly TorBlocker Hall of Shame Part I)
+add them to [non-cloudflare-list](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile) ( formerly TorBlocker Hall of Shame Part I)
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare (e.g. showing access denied pages, systematic timing out connections, ...).
 
