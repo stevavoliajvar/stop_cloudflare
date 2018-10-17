@@ -1,7 +1,7 @@
 'Globalist' project used to be distributed with this project, and is still recommended as an interesting idea.
-However since we're mostly on github anyway we might as well keep the two projects seperate
+However since we're mostly on notabug anyway we might as well keep the two projects seperate
 
-For 'Globalist' see globalist subdirectory here.
+For 'Globalist' see globalist subdirectory [here](http://notabug.org/themusicgod1/globalist).
  
 -> dead simple use of git and .onions to create a distributed repo for collaborative editin
 no more hosting needed, just an ever-changing network of .onions. putting the "D" back in "DVCS" ...

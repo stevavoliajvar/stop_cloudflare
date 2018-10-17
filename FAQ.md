@@ -1,6 +1,6 @@
 Q) This is a text directory!  There's no code here
 
-A) actually this is officially a code directory.  See [here](globalist.txt)
+A) Correct.  If this is a problem, contact us via creating an issue and we will make sure this isn't the case anymore.
 
 Q) It's inevitabble that Cloudflare is going to take over the web.  We can't stop them.  Small website providers
 will be strongarmed into using them via DDOScoin[2] and that's that.
