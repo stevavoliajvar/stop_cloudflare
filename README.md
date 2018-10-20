@@ -10,7 +10,7 @@ This repository is a list of websites that are behind The Great Cloudwall, and a
 * [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
-Also see [Frequently Asked Questions](FAQ.md).
+Also see [Frequently Asked Questions](faq.md).
 
 # What can you do?
 
