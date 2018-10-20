@@ -25,7 +25,6 @@ Human is not a robot.
 * [Sites using cloudflare](https://github.com/pirate/sites-using-cloudflare) by pirate
 
 WARNING:
-
 Github.com is hostile to Tor users. If you create an account on Github via Tor, your account will be automatically
 flagged for spam and will be deleted. See "List of services blocking Tor" for details.
 
