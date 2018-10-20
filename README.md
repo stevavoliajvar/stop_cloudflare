@@ -7,16 +7,15 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
 * [Domains using Cloudflare](splits/)
-* [Hostile to Tor users](cloudflare-tor-hostile-list.txt)
 * [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
-Also see [Frequently Asked Questions](FAQ.md).
+Also see [Frequently Asked Questions](faq.md).
 
 # What can you do?
 
-* Update the list: [List instructions](instructions.md)
 * See [our list of recommended actions](what-to-do.md)
+* Update the list: [List instructions](instructions.md)
 
 There are other lists, but this one is one where every entry on the list a human being has actually tried
 to go to, and has been blocked.
