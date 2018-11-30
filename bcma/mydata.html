@@ -1,0 +1,35 @@
+<html>
+   <head>
+      <meta charset="utf-8">
+      <link rel="stylesheet" href="style.css">
+   </head>
+   <body style="display:none">
+      Temporary configurations
+      <hr>
+      <b>&#9758; Built-in Cloudflare list</b> <small>(powered by <a href="https://searxes.danwin1210.me/" target="_blank">Searxes</a>)</small><br>
+      <label><input type="radio" id="bi0" name="bi" value="0"> Use built-in list</label> <small>(Default)</small><br>
+      <label><input type="radio" id="bi1" name="bi" value="1"> Don't use built-in list</label><br>
+      <br>
+      <b>&#9822; Take Action</b><br>
+      <label><input type="radio" id="ta0" name="ta" value="0"> Block request immediately <small>(first-party + third-party)</small></label> <small>(Default)</small><br>
+      <label><input type="radio" id="ta1" name="ta" value="1"> Block request immediately <small>(third-party only / ignore first-party)</small></label><br>
+      <label><input type="radio" id="ta2" name="ta" value="2"> Redirect to Internet Archive(first-party) + Ignore third-party</label><br>
+      <label><input type="radio" id="ta3" name="ta" value="3"> Notify only</label><br>
+      <br>
+      <b>&#9997; Your Cloudflare Domain collection</b> <small>(Last 500)</small><br>
+      <small>(please share with <a href="https://notabug.org/themusicgod1/cloudflare-tor/" target="_blank">cloudflare-tor@notabug</a>)</small><br>
+      <textarea cols="50" rows="12" id="t" wrap="off" spellcheck="false" placeholder="Cloudflare domains"></textarea>
+      <br>
+      <button type="button" id="exp">[ &#8659; Export ]</button>
+      &nbsp;&nbsp;
+      <button type="button" id="clr">[ &#8634; Clear ]</button><br>
+      <br>
+      <b>&#9997; Your Cloudflare Ignore list (NOT RECOMMEND!)</b><br>
+      <textarea cols="50" rows="10" id="g" wrap="off" spellcheck="false" placeholder="hypothes.is"></textarea>
+      <br>
+      <button type="button" id="ign">[ &#8657; Apply ]</button>
+      <hr>
+      "<i>Welcome to PRISM 2.0</i>"
+      <script src="mydata.js"></script>
+   </body>
+</html>
