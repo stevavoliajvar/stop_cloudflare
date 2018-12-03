@@ -1,7 +1,7 @@
 ### License
 
-* /cloudflare-tor/bcma -- [MIT License](https://notabug.org/themusicgod1/cloudflare-tor/src/master/bcma/LICENSE.txt)
-* /cloudflare-tor/globalist -- [GNU GPLv3](https://notabug.org/themusicgod1/cloudflare-tor/src/master/globalist/LICENSE)
+* /cloudflare-tor/bcma (Block Cloudflare MITM Attack) -- [MIT License](https://notabug.org/themusicgod1/cloudflare-tor/src/master/bcma/LICENSE.txt)
+* /cloudflare-tor/globalist (Globalist) -- [GNU GPLv3](https://notabug.org/themusicgod1/cloudflare-tor/src/master/globalist/LICENSE)
 * Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 
