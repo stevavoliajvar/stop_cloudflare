@@ -1,0 +1,13 @@
+### License
+
+* /cloudflare-tor/bcma -- [MIT License](https://notabug.org/themusicgod1/cloudflare-tor/src/master/bcma/LICENSE.txt)
+* /cloudflare-tor/globalist -- [GNU GPLv3](https://notabug.org/themusicgod1/cloudflare-tor/src/master/globalist/LICENSE)
+* Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/)
+
+
+This repository, cloudflare-tor, is in the PUBLIC DOMAIN (CC0).
+It was created anonymously, in public, for the use of the world to resist [Cloudflare](https://cloudflare.com/).
+
+Contributors who have anonymously contributed (including in CryptoParty) have since come forward to give this project their blessing.
+
+The tools directories may have their own license, see each directory to see if it has it's own COPYING/copyright file in it.
