@@ -1,6 +1,6 @@
 Q) This is a text directory! There's no code here
 
-A) No. Take a look at the /globalist/ folder.
+A) [Are you sure?](LICENSE.md)
 
 
 Q) It's inevitabble that Cloudflare is going to take over the web. We can't stop them. Small website providers will be strongarmed into using them via [DDOScoin](https://www.usenix.org/system/files/conference/woot16/woot16-paper-wustrow.pdf) and that's that.
