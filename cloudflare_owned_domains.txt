@@ -4,3 +4,4 @@ cloudflare-dns.com
 cloudflare-ipfs.com
 cloudflare-quic.com
 cloudflarestatus.com
+cloudflareapps.com
