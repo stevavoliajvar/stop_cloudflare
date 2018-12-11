@@ -1,3 +1,9 @@
+*2018.12.10*
+
+* "like this page on NSA/Facebook & allow Facebook to track you to prove you're a human being"
+https://niu.moe/@jeffcliff/101220470739320859
+
+
 *2018.11.12*
 
 * Cloudflare's permissions for DNS are...sketchy
