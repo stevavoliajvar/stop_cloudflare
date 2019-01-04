@@ -371,7 +371,10 @@ def main(args=[]):
     # TODO implement authentication token / cookie
     controller = Controller.from_port(port = options.a_controlport)
     controller.authenticate()
-    STATUS['socksport'] = controller.get_conf('SocksPort').split(" ",1)[0]
+    if controller.get_conf('SocksPort'):
+        STATUS['socksport'] = controller.get_conf('SocksPort').split(" ",1)[0]
+    else:
+        STATUS['socksport'] = 9050
     controller.close()
 
     config = cp.ConfigParser()
