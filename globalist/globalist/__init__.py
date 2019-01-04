@@ -248,7 +248,7 @@ def clone(config):
         where += ".git"
         how   = ["--bare", "--mirror"]
 
-    cloneproc = subprocess.Popen(["torsocks", "-P", STATUS['socksport'], "git", "clone"] + how + [what, where])
+    cloneproc = subprocess.Popen(["torsocks", "-P", str(STATUS['socksport']), "git", "clone"] + how + [what, where])
     if cloneproc.wait() != 0:
         print ("Error cloning, exiting.")
         return -1
