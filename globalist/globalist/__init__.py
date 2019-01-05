@@ -248,7 +248,7 @@ def clone(config):
         where += ".git"
         how   = ["--bare", "--mirror"]
 
-    cloneproc = subprocess.Popen(["torsocks", "-P", STATUS['socksport'], "git", "clone"] + how + [what, where])
+    cloneproc = subprocess.Popen(["torsocks", "-P", str(STATUS['socksport']), "git", "clone"] + how + [what, where])
     if cloneproc.wait() != 0:
         print ("Error cloning, exiting.")
         return -1
@@ -336,6 +336,12 @@ def main(args=[]):
     opt.add_option("-C", "--control-port", dest="a_controlport", action="store", type="int",
                    default=9151,  metavar="PORT", help="Tor controlport")
 
+#    opt.add_option("-CP", "--control-password", dest="a_controlpassword", action="store", type="int",
+#                   default="", help="Tor Control Password")
+
+#    opt.add_option("-CC", "--control-cookie", dest="a_controlcookie", action="store", type="int",
+#                   default="", help="Tor Control Cookie")
+
     opt.add_option("-a", "--await", dest="o_ap", action="store_true",
                    default=False, help="await publication of .onion in DHT before proceeding")
 
@@ -362,9 +368,13 @@ def main(args=[]):
         options.a_controlport = DEFAULT_CONTROLPORT
 
     # Extract socksport via c.get_conf and use this (-P in torsocks)
+    # TODO implement authentication token / cookie
     controller = Controller.from_port(port = options.a_controlport)
     controller.authenticate()
-    STATUS['socksport'] = controller.get_conf('SocksPort').split(" ",1)[0]
+    if controller.get_conf('SocksPort'):
+        STATUS['socksport'] = controller.get_conf('SocksPort').split(" ",1)[0]
+    else:
+        STATUS['socksport'] = 9050
     controller.close()
 
     config = cp.ConfigParser()
