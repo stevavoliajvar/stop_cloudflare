@@ -13,10 +13,10 @@ The official repository can be found at https://notabug.org/themusicgod1/cloudfl
 
 ## Usage
 
-To use Globalist.py python3 is needed. Either run with `python3 Globalist.py` or install it as described below.
+To use Globalist.py python3 is needed. Either run it from globalist directory with `python3 Globalist.py` or or install it as described below.
 
 Per default an open tor ControlPort at 9151 without authentication is expected. You can choose another port with `-C`.
-For a list of options see `--help`.
+For a list of option see `--help`.
 
 ### Create repository
 
