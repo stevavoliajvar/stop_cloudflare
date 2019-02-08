@@ -1,6 +1,20 @@
 ##### What you can do to resist Cloudflare?
 
 
+###### Mozilla Firefox user
+
+- Don't use firefox nightly
+
+- Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR
+(and then tell us so there's only one bug at a time)
+
+-   Enter about:config in the address bar
+    Search for network.trr
+    Set network.trr.mode = 5 to completely disable it
+
+- Tell us if you see this functionality start to creep up beyond Firefox Nightly into more stable versions of Firefox
+
+https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
 
 ######  Website consumer
 
