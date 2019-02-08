@@ -1,3 +1,14 @@
+*2019.02.01*
+
+* The global internet is rotting from within, and 
+
+"In a not-so-distant future, if we're not there already, it may be that if you're
+going to put content on the Internet you'll need to use a company with a giant
+network like Cloudflare, Google, Microsoft, Facebook, Amazon, or Alibaba."
+
+Net neutrality is but a skirmish in this larger struggle for control to monopolize all global digital communications.
+https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf
+
 *2018.12.10*
 
 * "like this page on NSA/Facebook & allow Facebook to track you to prove you're a human being"
