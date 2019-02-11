@@ -1,6 +1,7 @@
 ##### What you can do to resist Cloudflare?
 
 
+
 ######  Website consumer
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
