@@ -1,21 +1,6 @@
 ##### What you can do to resist Cloudflare?
 
 
-###### Mozilla Firefox user
-
-- Don't use firefox nightly
-
-- Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR
-(and then tell us so there's only one bug at a time)
-
--   Enter about:config in the address bar
-    Search for network.trr
-    Set network.trr.mode = 5 to completely disable it
-
-- Tell us if you see this functionality start to creep up beyond Firefox Nightly into more stable versions of Firefox
-
-https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
-
 ######  Website consumer
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
@@ -75,6 +60,17 @@ Let's talk about _other software's privacy_...
 
 - Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html).
 
+
+
+###### "Mozilla Firefox" user
+
+- Don't use Firefox Nightly. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
+
+- ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
+
+- To disable DOH, enter about:config in the address bar, search for "network.trr" then set "network.trr.mode" to 5 to completely disable it.
+
+- Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
 
 ######  Action
