@@ -67,11 +67,14 @@ Let's talk about _other software's privacy_...
 
 - Don't use Firefox Nightly. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
 
+- It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "distribution/policies.json" file. Search "*Firefox policies.json WebFilter*" to learn more.
+
 - ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
 
-- To disable DOH, enter about:config in the address bar, search for "network.trr" then set "network.trr.mode" to 5 to completely disable it.
+- To disable DOH, enter about:config in the address bar, search for "network.trr" then set "network.trr.mode" to 5 to completely disable it. (If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service(185.121.177.177)](https://wiki.opennic.org/start).
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
+
 
 
 ######  Action
