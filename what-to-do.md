@@ -57,7 +57,7 @@ Let's talk about _other software's privacy_...
 
 - Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618).
 
-- PaleMoon developer [likes Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097).
+- PaleMoon developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097).
 
 - Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html).
 
