@@ -69,7 +69,7 @@ Let's talk about _other software's privacy_...
 
 - Don't use Firefox Nightly. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
 
-- It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "/distribution/policies.json" file. Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md).
+- It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "/distribution/policies.json". Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md).
 
 > {
 >   "policies": {
@@ -83,10 +83,12 @@ Let's talk about _other software's privacy_...
 > 		"*://*.cloudflare.com/*"
 > 		]
 >     },
+> ...
+> }
 
 - ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
 
-- To disable DOH, enter about:config?filter=network.trr in the address bar then set "network.trr.mode" to 5 to completely disable it. The value ["5" means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec). (If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).
+- To disable DOH, enter about:config?filter=network.trr in the address bar then set "network.trr.mode" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec). (If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).)
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
