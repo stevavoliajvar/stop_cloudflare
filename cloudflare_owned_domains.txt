@@ -1,7 +1,10 @@
-cloudflareapi.com
-cloudflare.com
+brokendnssec.net
 cloudflare-dns.com
 cloudflare-ipfs.com
 cloudflare-quic.com
-cloudflarestatus.com
+cloudflare.com
+cloudflareapi.com
 cloudflareapps.com
+cloudflareresolve.com
+cloudflarestatus.com
+encryptedsni.com
