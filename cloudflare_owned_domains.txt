@@ -5,6 +5,10 @@ cloudflare-quic.com
 cloudflare.com
 cloudflareapi.com
 cloudflareapps.com
+cloudflareapps.com
+cloudflareenterprise.com
 cloudflareresolve.com
+cloudflaressl.com
 cloudflarestatus.com
+cloudflaresupport.com
 encryptedsni.com
