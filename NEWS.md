@@ -1,3 +1,9 @@
+*2019.02.14*
+
+* "New Ranking Factor: MITMed or not"
+https://searxes.danwin1210.me/
+
+
 *2019.02.01*
 
 * The global internet is rotting from within, and 
