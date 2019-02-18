@@ -1,3 +1,22 @@
+*2019.02.08*
+
+* well written post, along with some causes for action in privacytools.io
+
+https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544
+
+* another privacytools.io thread
+
+https://github.com/privacytoolsIO/privacytools.io/issues/711
+
+* Cryptome on CF's ability to deanonymize (2016)
+
+https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm
+
+* bug report issued in wire webapp
+
+https://github.com/wireapp/wire-webapp/issues/5716
+
+
 *2019.02.01*
 
 * The global internet is rotting from within, and 

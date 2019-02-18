@@ -4,8 +4,6 @@ Audience: General, people who stumble upon gnu.org
           755 words        rahisibhasha
           stab at          french
 
-Website.
-
 #########################################
 
 大きい云墙
@@ -21,8 +19,7 @@ The Great Cloudwall
 by Jeff Cliff
 
 *There is a reason that none of your favourite work intermittently on tor since
-early 2016[15].  That reason has lead to the discovery of a threat to the operation
-of the world wide web itself.*
+early 2016[15].  That reason has lead to the discovery of a threat to the operation of the world wide web itself.*
 
 Prerequisites: The Javascript Trap[47], understanding that Google is not to be trusted[45][46],  "Trusted Third Parties are Security Holes" - Nick Szabo[44][48]
 
@@ -30,11 +27,16 @@ Cloudflare is a service for turing tests its users users, which means that
 it frustrates attempts by users of its users to develop software to interact
 with their websites[3].  This might seem strange at first - why would you need
 a program to access a web resource?   But there's many things that work on the
-web like this, including RSS and podcasts which are completley broken by a
+web like this, including RSS, podcasts, and antivirus definitions[57][58] which are completley broken by a
 CAPTCHA appearing mid stream[11].  "We humans don't make HTTP requests,
 our machines to do it for us." makes clear what is really being tested here -
 whether or not you have the *right* software stack in between you and
-cloudflare. {{expand}}
+cloudflare.
+
+This is not a hypothetical: Cloudflare is currently attempting to dictate
+which web browsers users of websites under cloudflare may use[60].
+
+{{expand}}
 Your right to use Free Software in this stack is at risk, and could disappear
 at any moment.
 
@@ -72,7 +74,7 @@ More important, though is it starts to form a ratchet for web browser technology
 "When you fetch a page from a website that is served from CloudFlare, Javascript has been injected on-the-fly into that page by CloudFlare. and they also plant a cookie that brands your browser with a globally-unique ID.  ID. This happens even if the website is using SSL and shows a cute little padlock in your browser" [10]
 
 - Cloudflare tracks you
-Even if your web browsing traffic is protected from onlookers, cloudflare itself because they are a MiTM[14][31] can see your traffic[6].  And if Cloudflare has MITM'd you, then so has the NSA[33].
+Even if your web browsing traffic is protected from onlookers, cloudflare itself because they are a MiTM[14][31] can see your traffic[6].  And if Cloudflare[53] has MITM'd you, then so has the NSA[33].
 "If a site uses Cloudflare, then the browser lock icon is a false promise."[14]
 "The short version, a rhetorical question: Would you trust a key escrow régime, in which an “authorized” entity was entrusted with the potential to decrypt all communications at will? If not, why would you trust a de facto mass decryption chokepoint at which many communications are actually decrypted?"[34]
 in other words
@@ -153,7 +155,7 @@ to track online fraud and abuse.
 
 The US Department of Homeland Security
 approached the developers in 2007-8[1][36] for access to their data, and they have
-been working with the US government and law enforcement ever since[1].
+been working with the US government[54] and law enforcement ever since[1].
 on HTTP GET requests:
 
 Cloudflare has a history of shutting down open DNS and open NTP servers.
@@ -177,14 +179,16 @@ actually resolving the issue[29][30][32]
 - The more of the web is held within cloudflare the more pressure will be on
 websites not behind cloudflare
 - As of 2016, by cloudflare's own data tor was not as bad as normal internet connections.  
-- "But we need Cloudflare to protect from DDoS.” Hey, that’s a nice site you have there. It would be a shame, such a shame, if anything happened to it. Why don’t you let us decrypt all your TLS sessions, so we can protect you?"[14]
+- "But we need Cloudflare to protect from DDoS.” Hey, that’s a nice site you have there. It would be a shame, such a shame, if anything happened to it. Why don’t you let us decrypt all your TLS sessions[59], so we can protect you?"[14]
 
 *I heard Cloudflare is working with tor and all is good now?*
 
 - just because you can't see the problem doesn't mean it's not there anymore.
+
 - This is not true.  Their websites still CAPTCHA their users, same as ever, and
 news agencies across the political spectrum screwed up stories about how the 'problem is fixed'[18]
-- it's actually worse, though[17] that we can't see it - it was easy to get a
+
+- it's actually worse, though[17] if we couldn't see it[60] - it was easy to get a
 lot of riled up tor users to understand that cloudflare was their adversary.
 it's a lot harder to convince people who are not blocked from their websites,
 today, why giving systematic control over the world wide web might be a bad thing tomorrow.
@@ -194,6 +198,11 @@ today, why giving systematic control over the world wide web might be a bad thin
 - But they are now doing more to track users and threaten the anonymity of the
 users of the tor network.
 
+- Cloudflare is one of a couple of large network providers that are capturing
+the vast majority of digital communications, effectively creating private
+networks the size of the modern internet that are competitive with and not
+subject to the same kinds of scrutiny and regulation as the internet[58].
+
 * What if we shut down cloudflare and migrate all websites out of them?*
 
 We're probably going to have the same problem with another company, very soon.
@@ -201,6 +210,8 @@ Just as when suddenly Microsoft no longer had a monopoly on software we didn't
 get rid of the problem of proprietary software, there's a couple of problems
 that if we don't solve them, something like Cloudflare is roughly inevitable
 as a consequence:
+
+*Cloudflare DNS*
 
 "DNS[50] is around, servers are insecure, proper end-to-end crypto isn't the norm hence MITM goes unnoticed, anonymity is an edge case, routing lacks built-in resiliency to disruption, we're always going to have actors building a bus.ness model around cobbling together superficial, overapproximating mitigations."[20]
 
@@ -263,5 +274,11 @@ Learn more about cloudflare, and make sure the people around you know about clou
 [50] https://www.quora.com/How-likely-is-it-that-CloudFlare-is-an-NSA-operation/answer/Hamid-Sarfraz
 [51] https://medium.com/@karthikb351/airtel-is-sniffing-and-censoring-cloudflares-traffic-in-india-and-they-don-t-even-know-it-90935f7f6d98
 [52] http://pleroma.oniichanylo2tsi4.onion/notice/1563
-
-
+[53] https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-351555735
+[54] https://lists.torproject.org/pipermail/tor-talk/2018-January/043889.html
+[55] https://www.eff.org/document/crypto-wars
+[56] http://forums.clamwin.com/viewtopic.php?t=4915
+[57] http://lists.clamav.net/pipermail/clamav-users/2018-November/thread.html
+[58] https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf
+[59] https://github.com/ghacksuserjs/ghacks-user.js/issues/310#issuecomment-351913412
+[60] https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460413259

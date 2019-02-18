@@ -198,7 +198,15 @@ in a way that’s friendly to the marketing industry "
 
 http://exiledonline.com/isucker-big-brother-internet-culture/
 
-20) Followup / Further research:
+20)
+
+How, technically, does Cloudflare deanonymize tor users?
+
+https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm
+https://trac.torproject.org/projects/tor/ticket/18361#comment:147
+
+
+21) Followup / Further research:
 
 See also
 https://trac.torproject.org/projects/tor/wiki/org/doc/ListOfServicesBlockingTor
@@ -222,7 +230,7 @@ https://support.cloudflare.com/hc/en-us/articles/203306930-Does-CloudFlare-block
 https://support.cloudflare.com/hc/en-us/articles/200170056-What-is-CloudFlare-s-Babysic-Security-Level-
 https://support.cloudflare.com/hc/en-us/articles/200170116-What-do-the-Threat-Scores-mean-
 
-21) Sources
+22) Sources
 
 [1] http://themusicgod1.deviantart.com/art/the-great-cloudwall-1-595382698
 
