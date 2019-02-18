@@ -202,7 +202,19 @@ http://exiledonline.com/isucker-big-brother-internet-culture/
 
 How, technically, does Cloudflare deanonymize tor users?
 
+"Cloudflare needs access to files, microphone/audio and the media database, what the name of your WiFi is, all the known WiFi networks as well as mobile data settings.  All this to provide a VPN that proxies everything through 1.1.1.1 as the DNS."
+https://weeaboo.space/objects/323a4b45-6e40-44f0-9108-77245638df7e
+
+50 packets per click on the captcha, realtime, enough for full deanonymization
 https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm
+
+> mouse movement, its slightness and straightness
+> page scrolls
+> time intervals between browser events
+> keystrokes
+> click location history tied to user fingerprint
+> All these criteria, are stored in the browser’s cookie. These criteria are processed by Google’s server
+> It should be emphasized, that there is a DARPA technology to identify people by mouse movements and typing ​
 https://trac.torproject.org/projects/tor/ticket/18361#comment:147
 
 
