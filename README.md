@@ -6,11 +6,11 @@
 
 It is called this in reference to the [Great Firewall of China](http://www.greatfirewallofchina.org/) which does a comparable job of filtering out *some* people from seeing web content(ie everyone in mainland china and some people outside) while at the same time those not affected to see a dratically different web, a web free of censorship of such images as ["tank man"](https://en.wikipedia.org/wiki/Tank_Man).
 
-![One more step to prove you are not a robot or anonymous](image/onemorestep.png)
+![One more step to prove you are not a robot or anonymous](image/onemorestep.jpg)
 
-Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it(for example, they could be behind 7+ layers of NAT) unless they solve multiple image CAPTCHAs. They also blocks Tor and VPN users.
+Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it(for example, they could be behind 7+ layers of NAT) unless they solve multiple image CAPTCHAs. Cloudflare also has a massive harassment problem. [Tor users](https://www.torproject.org/) and VPN users are a victim.
 
-![What did YOU do to stop CF?](image/stopcf.png)
+![What did YOU do to stop CF?](image/stopcf.jpg)
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
