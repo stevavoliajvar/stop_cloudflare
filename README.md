@@ -20,9 +20,10 @@ This repository is a list of websites that are behind The Great Cloudwall, and a
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
 Also see [Frequently Asked Questions](faq.md).
 
-# What can you do?
 
 ![What did YOU do to stop CF?](image/stopcf.jpg)
+
+# What can you do?
 
 * See [our list of recommended actions](what-to-do.md) and share it with your friends
 * Update the Cloudflare domain list: [List instructions](instructions.md)
