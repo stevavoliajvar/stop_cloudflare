@@ -26,7 +26,7 @@ Also see [Frequently Asked Questions](faq.md).
 * Update the Cloudflare domain list: [List instructions](instructions.md)
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 * Search something on [Searxes](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
-* Take a look at [add-on code](ismitmlink/) and help improvng it
+* Take a look at [add-on code](ismitmlink/)
 
 ![WTF](image/wtfcf.jpg)
 
