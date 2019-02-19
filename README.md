@@ -26,6 +26,8 @@ Also see [Frequently Asked Questions](faq.md).
 * Update the Cloudflare domain list: [List instructions](instructions.md)
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 
+![WTF](image/wtfcf.jpg)
+
 There are other lists, but this one is one where every entry on the list a human being has actually tried
 to go to, and has been blocked.
 Human is not a robot.
