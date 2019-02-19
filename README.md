@@ -22,8 +22,9 @@ Also see [Frequently Asked Questions](faq.md).
 
 # What can you do?
 
-* See [our list of recommended actions](what-to-do.md)
-* Update the list: [List instructions](instructions.md)
+* See [our list of recommended actions](what-to-do.md) and share it with your friends
+* Update the Cloudflare domain list: [List instructions](instructions.md)
+* Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 
 There are other lists, but this one is one where every entry on the list a human being has actually tried
 to go to, and has been blocked.
