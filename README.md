@@ -1,7 +1,7 @@
 # The Great Cloudwall
 
 "The Great Cloudwall" is [CloudFlare](https://www.cloudflare.com/), a world's largest MITM proxy.
-![](./cloudflaredearuser.png)
+![](image/cloudflaredearuser.png)
 
 It is called this in reference to the [Great Firewall of China](http://www.greatfirewallofchina.org/) which does a comparable job of filtering out *some* people from seeing web content(ie everyone in mainland china and some people outside) while at the same time those not affected to see a dratically different web, a web free of censorship of such images as ["tank man"](https://en.wikipedia.org/wiki/Tank_Man).
 
