@@ -10,7 +10,7 @@ It is called this in reference to the [Great Firewall of China](https://www.comp
 
 Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it(for example, they could be behind 7+ layers of NAT) unless they solve multiple image CAPTCHAs. Cloudflare also has a massive harassment problem. [Tor users](https://www.torproject.org/) and VPN users are a victim.
 
-![What did YOU do to stop CF?](image/stopcf.jpg)
+![example: Cloudflare ban VPN](image/banvpn.jpg)
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
@@ -21,6 +21,8 @@ There are more details of why what they are doing is wrong available [here](clou
 Also see [Frequently Asked Questions](faq.md).
 
 # What can you do?
+
+![What did YOU do to stop CF?](image/stopcf.jpg)
 
 * See [our list of recommended actions](what-to-do.md) and share it with your friends
 * Update the Cloudflare domain list: [List instructions](instructions.md)
