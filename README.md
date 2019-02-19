@@ -1,11 +1,16 @@
 # The Great Cloudwall
 
-"The Great Cloudwall" is [CloudFlare](https://www.cloudflare.com/), a world's largest MITM proxy.
-![](image/cloudflaredearuser.png)
+"The Great Cloudwall" is [CloudFlare](https://www.cloudflare.com/), the world's largest MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
+
+![We are reverse proxy, said Cloudflare](image/cloudflaredearuser.png)
 
 It is called this in reference to the [Great Firewall of China](http://www.greatfirewallofchina.org/) which does a comparable job of filtering out *some* people from seeing web content(ie everyone in mainland china and some people outside) while at the same time those not affected to see a dratically different web, a web free of censorship of such images as ["tank man"](https://en.wikipedia.org/wiki/Tank_Man).
 
-Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it(for example, they could be behind 7+ layers of NAT) unless they solve multiple image CAPTCHAs.
+![One more step to prove you are not a robot or anonymous](image/onemorestep.png)
+
+Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it(for example, they could be behind 7+ layers of NAT) unless they solve multiple image CAPTCHAs. They also blocks Tor and VPN users.
+
+![What did YOU do to stop CF?](image/stopcf.png)
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
