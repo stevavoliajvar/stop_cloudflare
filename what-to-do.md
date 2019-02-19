@@ -1,20 +1,6 @@
 ##### What you can do to resist Cloudflare?
 
 
-###### Mozilla Firefox user
-
-- Don't use firefox nightly
-
-- Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR
-(and then tell us so there's only one bug at a time)
-
--   Enter about:config in the address bar
-    Search for network.trr
-    Set network.trr.mode = 5 to completely disable it
-
-- Tell us if you see this functionality start to creep up beyond Firefox Nightly into more stable versions of Firefox
-
-https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
 
 ######  Website consumer
 
@@ -34,6 +20,7 @@ https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dan
 | -------- | -------- | -------- |
 | [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/)     | **Yes**     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)     | **Yes**     | **Yes**     |
+| [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/)     | No     | **Yes**     |
 | [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/)     | **Yes**     | **Yes**     |
 | [Third-party Request Blocker](https://searxes.danwin1210.me/collab/___go.php?go=get_tprb0&prf=nab)     | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)     | No     | **Yes**     |
@@ -59,7 +46,7 @@ https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dan
 
 - If you use Debian GNU/Linux, or any derivative, subscribe to [bug #831835](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
 
-- Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Orfox](https://guardianproject.info/apps/orfox/) for smartphone. Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect". There is no 100% secure nor 100% private on the internet and technology.
+- Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser_alpha)~~, [Orfox](https://guardianproject.info/apps/orfox/)~~ for smartphone. Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect". There is no 100% secure nor 100% private on the internet and technology.
 
 
 Let's talk about _other software's privacy_...
@@ -71,9 +58,40 @@ Let's talk about _other software's privacy_...
 
 - Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618).
 
-- PaleMoon developer [likes Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097).
+- PaleMoon developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097).
 
 - Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html).
+
+- Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/).
+
+
+
+###### "Mozilla Firefox" user
+
+- Don't use Firefox Nightly. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
+
+- It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "/distribution/policies.json". Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md).
+
+> {
+>   "policies": {
+>     "WebsiteFilter": {
+> 		"Block": [
+> 		"*://*.mozilla.com/*",
+> 		"*://*.mozilla.net/*",
+> 		"*://*.mozilla.org/*",
+> 		"*://*.firefox.com/*",
+> 		"*://*.thunderbird.net/*",
+> 		"*://*.cloudflare.com/*"
+> 		]
+>     },
+> ...
+> }
+
+- ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
+
+- To disable DOH, enter about:config?filter=network.trr in the address bar then set "network.trr.mode" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec). (If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).)
+
+- Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
 
 

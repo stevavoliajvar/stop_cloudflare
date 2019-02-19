@@ -1,3 +1,8 @@
+*2019.02.14*
+
+* "New Ranking Factor: MITMed or not"
+https://searxes.danwin1210.me/
+
 *2019.02.08*
 
 * well written post, along with some causes for action in privacytools.io
@@ -15,7 +20,6 @@ https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm
 * bug report issued in wire webapp
 
 https://github.com/wireapp/wire-webapp/issues/5716
-
 
 *2019.02.01*
 
