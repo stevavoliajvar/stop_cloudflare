@@ -1,0 +1,34 @@
+{
+   "manifest_version": 2,
+   "name": "Are links vulnerable to MITM attack?",
+   "description": "Scan FQDN using Searxes' API",
+   "version": "1.0.1",
+   "author": "Maslin Bossé",
+   "permissions": [],
+   "icons": {
+      "32": "icons/32.png"
+   },
+   "background": {
+      "scripts": [
+         "bg.js"
+      ]
+   },
+   "content_scripts": [
+      {
+         "matches": [
+            "http://*/*",
+            "https://*/*"
+         ],
+         "js": [
+            "cs.js"
+         ],
+         "run_at": "document_end"
+      }
+   ],
+   "applications": {
+      "gecko": {
+         "id": "ismitm@searxes.danwin1210.me",
+         "strict_min_version": "56.0"
+      }
+   }
+}
