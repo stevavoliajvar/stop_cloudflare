@@ -2,6 +2,10 @@
 
 "The Great Cloudwall" is [CloudFlare](https://www.cloudflare.com/).
 It is called this in reference to the [Great Firewall of China](http://www.greatfirewallofchina.org/) which does a comparable job of filtering out *some* people from seeing web content(ie everyone in mainland china and some people outside) while at the same time those not affected to see a dratically different web, a web free of censorship of such images as ["tank man"](https://en.wikipedia.org/wiki/Tank_Man).
+
+![](./cloudflaredearuser.png)
+Cloudflare is a reverse proxy
+
 Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it(for example, they could be behind 7+ layers of NAT) unless they solve multiple image CAPTCHAs.
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
