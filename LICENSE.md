@@ -2,6 +2,7 @@
 
 * /cloudflare-tor/bcma (Block Cloudflare MITM Attack) -- [MIT License](https://notabug.org/themusicgod1/cloudflare-tor/src/master/bcma/LICENSE.txt)
 * /cloudflare-tor/globalist (Globalist) -- [GNU GPLv3](https://notabug.org/themusicgod1/cloudflare-tor/src/master/globalist/LICENSE)
+* /cloudflare-tor/ismitmlink/ (Are links vulnerable to MITM attack?) -- [MIT License](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink/LICENSE)
 * Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 

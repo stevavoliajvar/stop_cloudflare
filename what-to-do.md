@@ -20,6 +20,7 @@
 | -------- | -------- | -------- |
 | [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/)     | **Yes**     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)     | **Yes**     | **Yes**     |
+| [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/)     | No     | **Yes**     |
 | [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/)     | **Yes**     | **Yes**     |
 | [Third-party Request Blocker](https://searxes.danwin1210.me/collab/___go.php?go=get_tprb0&prf=nab)     | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)     | No     | **Yes**     |
