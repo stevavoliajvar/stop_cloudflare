@@ -48,6 +48,16 @@
 
 - Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser_alpha)~~, [Orfox](https://guardianproject.info/apps/orfox/)~~ for smartphone. Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect". There is no 100% secure nor 100% private on the internet and technology.
 
+- Don't want to use "Tor"? You can use Tor Browser without Tor, and this is the best option for you.
+
+> How?
+> 1. Download latest Tor Browser and launch it.
+> 2. Open Add-ons Manager (about:addons) and disable EVERYTHING but "Torbutton". Do NOT remove them.
+> 3. Open about:config and search "extensions.torbutton.use_nontor_proxy". Set it to "false".
+> 4. Go to Options, scroll down to "Network Proxy". Click "Settings" and select "No proxy".
+
+Other guide: https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor
+
 
 Let's talk about _other software's privacy_...
 
@@ -64,6 +74,8 @@ Let's talk about _other software's privacy_...
 
 - Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/).
 
+- Microsoft Edge lets Facebook [run Flash code behind users' backs](https://www.zdnet.com/article/microsoft-edge-lets-facebook-run-flash-code-behind-users-backs/).
+
 
 
 ###### "Mozilla Firefox" user
@@ -72,7 +84,7 @@ Let's talk about _other software's privacy_...
 
 - It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "/distribution/policies.json". Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md).
 
-> {
+
 >   "policies": {
 >     "WebsiteFilter": {
 > 		"Block": [
@@ -84,8 +96,7 @@ Let's talk about _other software's privacy_...
 > 		"*://*.cloudflare.com/*"
 > 		]
 >     },
-> ...
-> }
+
 
 - ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
 
