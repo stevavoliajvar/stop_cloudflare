@@ -21,7 +21,7 @@ See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-46
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
 I refuse to share data with you if you continue to feed my data to Cloudflare.
-See https://notabug.org/themusicgod1/cloudflare-tor/README.md
+See https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md
 ```
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
