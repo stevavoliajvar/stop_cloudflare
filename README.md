@@ -2,20 +2,22 @@
 
 "The Great Cloudwall" is [CloudFlare](https://www.cloudflare.com/), the world's largest MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
 
-![We are reverse proxy, said Cloudflare](image/cloudflaredearuser.png)
+![](image/cloudflaredearuser.png)
 
 It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of filtering out *some* people from seeing web content(ie everyone in mainland china and some people outside) while at the same time those not affected to see a dratically different web, a web free of censorship of such images as ["tank man"](https://en.wikipedia.org/wiki/Tank_Man).
 
-![One more step to prove you are not a robot or anonymous](image/onemorestep.jpg)
+![](image/onemorestep.jpg)
 
-Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it(for example, they could be behind 7+ layers of NAT) unless they solve multiple image CAPTCHAs. Cloudflare also has a massive harassment problem. [Tor users](https://www.torproject.org/) and VPN users are a victim.
+Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it(for example, they could be behind 7+ layers of NAT) unless they solve multiple image CAPTCHAs. Cloudflare also has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5). [Tor users](https://www.torproject.org/) and [VPN users](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) are a victim.
 
-![example: Cloudflare ban VPN](image/banvpn.jpg)
+![](image/banvpn.jpg)
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
-* [Domains using Cloudflare](splits/)
-* [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
+* List: [Domains using Cloudflare](splits/)
+* List: [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
+* Info: [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351)
+* Info: [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544)
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
 Also see [Frequently Asked Questions](faq.md).

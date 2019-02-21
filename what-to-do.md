@@ -1,14 +1,29 @@
-##### What you can do to resist Cloudflare?
+# What you can do to resist Cloudflare?
+
+![](image/matthew_prince.jpg)
+
 
 
 
 ######  Website consumer
 
-- If the website you like is using Cloudflare, tell them not to use Cloudflare.
+- If the website you like is using Cloudflare, tell them not to use Cloudflare. Example below.
 
-> You are just helping corporate censorship and mass surveillance.
-> 
-> https://trac.torproject.org/projects/tor/ticket/24351
+```
+You are just helping corporate censorship and mass surveillance.
+https://trac.torproject.org/projects/tor/ticket/24351
+```
+
+```
+Your web page is in the privacy-abusing private walled-garden of CloudFlare.
+See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544
+```
+
+```
+I've read your privacy policy and I cannot find the word "Cloudflare".
+I refuse to share data with you if you continue to feed my data to Cloudflare.
+See https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md
+```
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
 
@@ -48,6 +63,17 @@
 
 - Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser_alpha)~~, [Orfox](https://guardianproject.info/apps/orfox/)~~ for smartphone. Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect". There is no 100% secure nor 100% private on the internet and technology.
 
+- Don't want to use "Tor"? You can use Tor Browser without Tor, and this is the best option for you.
+
+> **How?**
+> 1. Download [Tor Browser](https://www.torproject.org/) and launch it.
+> 2. Open Add-ons Manager (about:addons) and *disable* EVERYTHING but "*Torbutton*". **Do NOT *remove* them**.
+> 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*false*".
+> 4. Go to Options, scroll down to "*Network Proxy*". Click "*Settings*" and select "*No proxy*".
+> 5. Close Tor Browser.
+> 
+> Other guide is [here](https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor).
+
 
 Let's talk about _other software's privacy_...
 
@@ -64,16 +90,16 @@ Let's talk about _other software's privacy_...
 
 - Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/).
 
+- Microsoft Edge lets Facebook [run Flash code behind users' backs](https://www.zdnet.com/article/microsoft-edge-lets-facebook-run-flash-code-behind-users-backs/).
+
 
 
 ###### "Mozilla Firefox" user
 
 - Don't use Firefox Nightly. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
 
-- It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "/distribution/policies.json". Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md).
+- It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "/distribution/policies.json". Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md). Keep in mind this trick might stop working in later version because Mozilla likes to whitelist themselves. Use firewall and DNS filter to block them completely.
 
-> {
->   "policies": {
 >     "WebsiteFilter": {
 > 		"Block": [
 > 		"*://*.mozilla.com/*",
@@ -84,8 +110,7 @@ Let's talk about _other software's privacy_...
 > 		"*://*.cloudflare.com/*"
 > 		]
 >     },
-> ...
-> }
+
 
 - ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
 
