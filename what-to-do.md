@@ -1,6 +1,7 @@
-#### What you can do to resist Cloudflare?
+# What you can do to resist Cloudflare?
 
 ![](image/matthew_prince.jpg)
+
 
 
 
