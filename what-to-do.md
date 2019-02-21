@@ -1,4 +1,4 @@
-##### What you can do to resist Cloudflare?
+#### What you can do to resist Cloudflare?
 
 
 
@@ -53,10 +53,11 @@
 > **How?**
 > 1. Download [Tor Browser](https://www.torproject.org/) and launch it.
 > 2. Open Add-ons Manager (about:addons) and *disable* EVERYTHING but "*Torbutton*". **Do NOT *remove* them**.
-> 3. Open about:config and search "*extensions.torbutton.usenontorproxy*". Set it to "*false*".
+> 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*false*".
 > 4. Go to Options, scroll down to "*Network Proxy*". Click "*Settings*" and select "*No proxy*".
+> 5. Close Tor Browser.
 > 
-> Other guide: https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor
+> Other guide is [here](https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor).
 
 
 Let's talk about _other software's privacy_...
@@ -82,10 +83,8 @@ Let's talk about _other software's privacy_...
 
 - Don't use Firefox Nightly. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
 
-- It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "/distribution/policies.json". Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md).
+- It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "/distribution/policies.json". Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md). Keep in mind this trick might stop working in later version because Mozilla likes to whitelist themselves. Use firewall and DNS filter to block them completely.
 
-
->   "policies": {
 >     "WebsiteFilter": {
 > 		"Block": [
 > 		"*://*.mozilla.com/*",
