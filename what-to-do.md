@@ -1,14 +1,28 @@
 #### What you can do to resist Cloudflare?
 
+![](image/matthew_prince.jpg)
+
 
 
 ######  Website consumer
 
-- If the website you like is using Cloudflare, tell them not to use Cloudflare.
+- If the website you like is using Cloudflare, tell them not to use Cloudflare. Example below.
 
-> You are just helping corporate censorship and mass surveillance.
-> 
-> https://trac.torproject.org/projects/tor/ticket/24351
+```
+You are just helping corporate censorship and mass surveillance.
+https://trac.torproject.org/projects/tor/ticket/24351
+```
+
+```
+Your web page is in the privacy-abusing private walled-garden of CloudFlare.
+See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544
+```
+
+```
+I've read your privacy policy and I cannot find the word "Cloudflare".
+I refuse to share data with you if you continue to feed my data to Cloudflare.
+See https://notabug.org/themusicgod1/cloudflare-tor/README.md
+```
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
 
