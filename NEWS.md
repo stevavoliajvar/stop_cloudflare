@@ -1,3 +1,8 @@
+*2019.02.21*
+
+CF defaults to HTTP connections for its customers 
+https://g0v.social/@sheogorath/101404226960335320
+
 *2019.02.14*
 
 * "New Ranking Factor: MITMed or not"
