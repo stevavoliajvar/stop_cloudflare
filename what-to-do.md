@@ -50,13 +50,13 @@
 
 - Don't want to use "Tor"? You can use Tor Browser without Tor, and this is the best option for you.
 
-> How?
-> 1. Download latest Tor Browser and launch it.
-> 2. Open Add-ons Manager (about:addons) and disable EVERYTHING but "Torbutton". Do NOT remove them.
-> 3. Open about:config and search "extensions.torbutton.use_nontor_proxy". Set it to "false".
-> 4. Go to Options, scroll down to "Network Proxy". Click "Settings" and select "No proxy".
-
-Other guide: https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor
+> **How?**
+> 1. Download [Tor Browser](https://www.torproject.org/) and launch it.
+> 2. Open Add-ons Manager (about:addons) and *disable* EVERYTHING but "*Torbutton*". **Do NOT *remove* them**.
+> 3. Open about:config and search "*extensions.torbutton.usenontorproxy*". Set it to "*false*".
+> 4. Go to Options, scroll down to "*Network Proxy*". Click "*Settings*" and select "*No proxy*".
+> 
+> Other guide: https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor
 
 
 Let's talk about _other software's privacy_...
