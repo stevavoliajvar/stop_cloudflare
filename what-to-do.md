@@ -37,6 +37,16 @@ For example, *[Liberland](https://archive.is/daKIr)* [privacy policy](https://do
 
 ... is not going to happen.
 Cloudflare have their own "privacy policy", and there's NO WAY to hear customer's privacy policy needs.
+Cloudflare [loves doxxing people](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/).
+
+Here's a good example for website's privacy policy;
+
+```
+By clicking “Sign up for XYZ”, you agree to our terms of service and privacy statement.
+**You also agree to share your data with Cloudflare** and also **agrees to cloudflare privacy statement**.
+```
+
+AFAIK, **ZERO** website do this. So, *will you trust them*?
 
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
