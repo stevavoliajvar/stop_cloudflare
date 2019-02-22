@@ -31,12 +31,12 @@ I refuse to share data with you if you continue to feed my data to Cloudflare.
 See https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md
 ```
 
-For example, *[Liberland](https://archive.is/daKIr)* [privacy policy](https://docsend.com/view/feiwyte) says:
+For example, [Liberland](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
 
 ![](image/cfwontobey.jpg)
 
 ... is not going to happen.
-Cloudflare have their own "privacy policy", and there's NO WAY to hear customer's privacy policy needs.
+Cloudflare have their own "privacy policy", and there's no way to hear customer's privacy policy needs.
 Cloudflare [loves doxxing people](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/).
 
 Here's a good example for website's privacy policy;
@@ -46,7 +46,7 @@ By clicking “Sign up for XYZ”, you agree to our terms of service and privacy
 You also agree to share your data with Cloudflare and also agrees to cloudflare's privacy statement.
 ```
 
-AFAIK, **ZERO** website do this. Will you trust them?
+AFAIK, **zero** website do this. Will you trust them?
 
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
@@ -138,7 +138,11 @@ Let's talk about _other software's privacy_...
 
 - ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
 
-- To disable DOH, enter about:config?filter=network.trr in the address bar then set "network.trr.mode" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec). (If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).)
+- To disable DOH, enter about:config?filter=network.trr in the address bar then set "network.trr.mode" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
+
+- If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).)
+
+[![](image/opennic.jpg)](https://www.opennic.org/)
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
