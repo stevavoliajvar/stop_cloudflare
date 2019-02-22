@@ -19,11 +19,22 @@ Your web page is in the privacy-abusing private walled-garden of CloudFlare.
 See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544
 ```
 
+- Take some time to read website's privacy policy. It must explain what the "Cloudflare" is, 
+and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust 
+and the website in question should be avoided.
+
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
 I refuse to share data with you if you continue to feed my data to Cloudflare.
 See https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md
 ```
+
+For example, *[Liberland](http://archive.is/daKIr)* [privacy policy](https://docsend.com/view/feiwyte) says:
+
+![](image/cfwontobey.jpg)
+
+... is not going to happen.
+Cloudflare have their own "privacy policy", and there's NO WAY to hear customer's privacy policy needs.
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
 
