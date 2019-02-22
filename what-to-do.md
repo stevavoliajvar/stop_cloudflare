@@ -142,7 +142,7 @@ Let's talk about _other software's privacy_...
 
 - If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).)
 
-[![](image/opennic.jpg)](https://www.opennic.org/)
+![](image/opennic.jpg)
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
