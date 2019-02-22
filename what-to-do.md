@@ -23,18 +23,21 @@ See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-46
 and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust 
 and the website in question should be avoided.
 
+An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" -> "Entity Name")
+
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
 I refuse to share data with you if you continue to feed my data to Cloudflare.
 See https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md
 ```
 
-For example, *[Liberland](http://archive.is/daKIr)* [privacy policy](https://docsend.com/view/feiwyte) says:
+For example, *[Liberland](https://archive.is/daKIr)* [privacy policy](https://docsend.com/view/feiwyte) says:
 
 ![](image/cfwontobey.jpg)
 
 ... is not going to happen.
 Cloudflare have their own "privacy policy", and there's NO WAY to hear customer's privacy policy needs.
+
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
 
@@ -79,7 +82,7 @@ Cloudflare have their own "privacy policy", and there's NO WAY to hear customer'
 > **How?**
 > 1. Download [Tor Browser](https://www.torproject.org/) and launch it.
 > 2. Open Add-ons Manager (about:addons) and *disable* EVERYTHING but "*Torbutton*". **Do NOT *remove* them**.
-> 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*false*".
+> 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*true*".
 > 4. Go to Options, scroll down to "*Network Proxy*". Click "*Settings*" and select "*No proxy*".
 > 5. Close Tor Browser.
 > 
