@@ -43,10 +43,10 @@ Here's a good example for website's privacy policy;
 
 ```
 By clicking “Sign up for XYZ”, you agree to our terms of service and privacy statement.
-**You also agree to share your data with Cloudflare** and also **agrees to cloudflare privacy statement**.
+You also agree to share your data with Cloudflare and also agrees to cloudflare's privacy statement.
 ```
 
-AFAIK, **ZERO** website do this. So, *will you trust them*?
+AFAIK, **ZERO** website do this. Will you trust them?
 
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
