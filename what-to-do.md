@@ -19,11 +19,35 @@ Your web page is in the privacy-abusing private walled-garden of CloudFlare.
 See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544
 ```
 
+- Take some time to read website's privacy policy. It must explain what the "Cloudflare" is, 
+and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust 
+and the website in question should be avoided.
+
+An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" -> "Entity Name")
+
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
 I refuse to share data with you if you continue to feed my data to Cloudflare.
 See https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md
 ```
+
+For example, [Liberland](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
+
+![](image/cfwontobey.jpg)
+
+... is not going to happen.
+Cloudflare have their own "privacy policy", and there's no way to hear customer's privacy policy needs.
+Cloudflare [loves doxxing people](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/).
+
+Here's a good example for website's privacy policy;
+
+```
+By clicking “Sign up for XYZ”, you agree to our terms of service and privacy statement.
+You also agree to share your data with Cloudflare and also agrees to cloudflare's privacy statement.
+```
+
+AFAIK, **zero** website do this. Will you trust them?
+
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
 
@@ -68,7 +92,7 @@ See https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md
 > **How?**
 > 1. Download [Tor Browser](https://www.torproject.org/) and launch it.
 > 2. Open Add-ons Manager (about:addons) and *disable* EVERYTHING but "*Torbutton*". **Do NOT *remove* them**.
-> 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*false*".
+> 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*true*".
 > 4. Go to Options, scroll down to "*Network Proxy*". Click "*Settings*" and select "*No proxy*".
 > 5. Close Tor Browser.
 > 
@@ -114,7 +138,11 @@ Let's talk about _other software's privacy_...
 
 - ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
 
-- To disable DOH, enter about:config?filter=network.trr in the address bar then set "network.trr.mode" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec). (If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).)
+- To disable DOH, enter about:config?filter=network.trr in the address bar then set "network.trr.mode" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
+
+- If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).)
+
+![](image/opennic.jpg)
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
