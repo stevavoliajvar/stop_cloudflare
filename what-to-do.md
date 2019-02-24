@@ -2,7 +2,7 @@
 
 ![](image/matthew_prince.jpg) < [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
-"I’d suggest this was armchair analysis by kids – it’s hard to take seriously." ([source](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis))
+"*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" ([source](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis))
 
 ------------
 
@@ -40,7 +40,8 @@ For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https:/
 Cloudflare have their own "privacy policy", and there's no way to hear customer's privacy policy needs.
 Cloudflare [loves doxxing people](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/).
 
-Here's a good example for website's privacy policy;
+Here's a good example for website's privacy policy.
+AFAIK, zero website do this. Will you trust them?
 
 ```
 By clicking “Sign up for XYZ”, you agree to our terms of service and privacy statement.
@@ -49,9 +50,6 @@ If Cloudflare leak information, it's not our fault. [*]
 ```
 
 [*] https://www.wired.com/2017/02/crazy-cloudflare-bug-jeopardized-millions-sites/
-
-
-AFAIK, zero website do this. Will you trust them?
 
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
@@ -77,11 +75,11 @@ AFAIK, zero website do this. Will you trust them?
 
 - Do not use Cloudflare solution. You are **loser** if you fall to that easy solution. You can do better than that, *right*?
 
-- Want more customers? You know what to do.
+- Want more customers? You know what to do. Hint is "above line".
 
 ![](image/anonexist.jpg)
 
-- - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
+- Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
 - Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
 
@@ -110,7 +108,6 @@ AFAIK, zero website do this. Will you trust them?
 
 
 Let's talk about _other software's privacy_...
-
 
 - If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)". ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr).
 
@@ -164,7 +161,7 @@ Let's talk about _other software's privacy_...
 
 - Help improve this repository, both the lists, the arguments against it and the details.
 
-- Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so
+- Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so ;)
 
 - Get more people using Tor by default so they can experience the web from the perspective of different parts of the world.
 
