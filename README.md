@@ -1,6 +1,6 @@
 # The Great Cloudwall
 
-"The Great Cloudwall" is [CloudFlare](https://www.cloudflare.com/), the world's largest MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
+"The Great Cloudwall" is [CloudFlare](https://www.cloudflare.com/), the world's [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
 
 ![](image/cloudflaredearuser.png)
 
@@ -14,10 +14,16 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
-* List: [Domains using Cloudflare](splits/)
-* List: [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
-* Info: [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351)
-* Info: [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544)
+
+List
+* [Domains using Cloudflare](splits/)
+* [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
+
+Info
+* [Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
+* [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351)
+* [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544)
+
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
 Also see [Frequently Asked Questions](faq.md).
