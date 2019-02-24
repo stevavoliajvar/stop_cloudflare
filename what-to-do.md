@@ -74,7 +74,11 @@ AFAIK, **zero** website do this. Will you trust them?
 
 - Do not use Cloudflare solution. You are **loser** if you fall to that easy solution. You can do better than that, *right*?
 
-- Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
+- Do you want more customers? You know what to do.
+
+![](image/anonexist.jpg)
+
+- - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
 - Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
 
