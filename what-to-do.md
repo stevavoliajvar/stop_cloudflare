@@ -1,8 +1,8 @@
 # What you can do to resist Cloudflare?
 
 ![](image/matthew_prince.jpg) < [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
-"I’d suggest this was armchair analysis by kids – it’s hard to take seriously." ([source](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis))
 
+"I’d suggest this was armchair analysis by kids – it’s hard to take seriously." ([source](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis))
 
 ------------
 
@@ -179,4 +179,4 @@ Let's talk about _other software's privacy_...
 
 - For companies that claim to _offer service on their website_ try reporting them as "_false advertising_" to consumer protection organizations and BBB. Cloudflare websites are served by Cloudflare servers.
 
-- the [ITU](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf) suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
+- The [ITU](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf) suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
