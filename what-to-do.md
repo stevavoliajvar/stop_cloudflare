@@ -40,15 +40,16 @@ For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https:/
 Cloudflare have their own "privacy policy", and there's no way to hear customer's privacy policy needs.
 Cloudflare [loves doxxing people](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/).
 
-Here's a good example for website's privacy policy.
+Here's a good example for website's signup form.
 AFAIK, zero website do this. Will you trust them?
 
 ```
 By clicking “Sign up for XYZ”, you agree to our terms of service and privacy statement.
 You also agree to share your data with Cloudflare and also agrees to cloudflare's privacy statement.
-If Cloudflare leak information, it's not our fault. [*]
-```
+If Cloudflare leak your information, it's not our fault. [*]
 
+[ Sign up for XYZ ] [ I disagree ]
+```
 [*] https://www.wired.com/2017/02/crazy-cloudflare-bug-jeopardized-millions-sites/
 
 
