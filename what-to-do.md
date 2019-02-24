@@ -1,6 +1,6 @@
 # What you can do to resist Cloudflare?
 
-![](image/matthew_prince.jpg)
+![](image/matthew_prince.jpg) < [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota) "*Why are you doing this!?*"
 
 
 
