@@ -51,7 +51,7 @@ If Cloudflare leak information, it's not our fault. [*]
 [*] https://www.wired.com/2017/02/crazy-cloudflare-bug-jeopardized-millions-sites/
 
 
-AFAIK, **zero** website do this. Will you trust them?
+AFAIK, zero website do this. Will you trust them?
 
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
@@ -69,16 +69,15 @@ AFAIK, **zero** website do this. Will you trust them?
 | [Third-party Request Blocker](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php)     | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)     | No     | **Yes**     |
 
-
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
 
-
+------------
 
 ######  Website owner / Web developer
 
 - Do not use Cloudflare solution. You are **loser** if you fall to that easy solution. You can do better than that, *right*?
 
-- Do you want more customers? You know what to do.
+- Want more customers? You know what to do.
 
 ![](image/anonexist.jpg)
 
@@ -90,7 +89,7 @@ AFAIK, **zero** website do this. Will you trust them?
 
 - Ask for advice from other [Clearnet/Tor dual website operators](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor) and make anonymous friends! :)
 
-
+------------
 
 ######  Software user
 
@@ -127,7 +126,7 @@ Let's talk about _other software's privacy_...
 
 - Microsoft Edge lets Facebook [run Flash code behind users' backs](https://www.zdnet.com/article/microsoft-edge-lets-facebook-run-flash-code-behind-users-backs/).
 
-
+------------
 
 ###### "Mozilla Firefox" user
 
@@ -157,6 +156,7 @@ Let's talk about _other software's privacy_...
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
+------------
 
 ######  Action
 
