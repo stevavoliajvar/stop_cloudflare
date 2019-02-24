@@ -32,7 +32,7 @@ I refuse to share data with you if you continue to feed my data to Cloudflare.
 See https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md
 ```
 
-For example, [Liberland](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
+For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
 
 ![](image/cfwontobey.jpg)
 
@@ -143,12 +143,11 @@ Let's talk about _other software's privacy_...
 
 - To disable DOH, enter about:config?filter=network.trr in the address bar then set "network.trr.mode" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
 
-- If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).)
+- If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).
 
 ![](image/opennic.jpg)
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
-
 
 
 ######  Action
@@ -180,3 +179,6 @@ Let's talk about _other software's privacy_...
 - For companies that claim to _offer service on their website_ try reporting them as "_false advertising_" to consumer protection organizations and BBB. Cloudflare websites are served by Cloudflare servers.
 
 - The [ITU](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf) suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
+
+
+![](image/stopcf.jpg)
