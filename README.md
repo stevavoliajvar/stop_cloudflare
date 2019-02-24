@@ -16,7 +16,7 @@ This repository is a list of websites that are behind The Great Cloudwall, and a
 
 
 List
-* [Domains using Cloudflare](splits/)
+* [Domains using Cloudflare](split/)
 * [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
 
 Information
