@@ -1,6 +1,17 @@
+
+*2019.02.24*
+
+```
+"Sites that respect their visitors do not resort to Cloudflare."
+"In some cases, for particular countries, having all traffic visible
+to the U.S.A can be a matter of life and death."
+```
+http://techrights.org/2019/02/17/the-cloudflare-trap/
+
+
 *2019.02.21*
 
-CF defaults to HTTP connections for its customers 
+* CF defaults to HTTP connections for its customers
 https://g0v.social/@sheogorath/101404226960335320
 
 *2019.02.14*
@@ -11,19 +22,15 @@ https://searxes.danwin1210.me/
 *2019.02.08*
 
 * well written post, along with some causes for action in privacytools.io
-
 https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544
 
 * another privacytools.io thread
-
 https://github.com/privacytoolsIO/privacytools.io/issues/711
 
 * Cryptome on CF's ability to deanonymize (2016)
-
 https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm
 
 * bug report issued in wire webapp
-
 https://github.com/wireapp/wire-webapp/issues/5716
 
 *2019.02.01*

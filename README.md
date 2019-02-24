@@ -1,6 +1,6 @@
 # The Great Cloudwall
 
-"The Great Cloudwall" is [CloudFlare](https://www.cloudflare.com/), the world's largest MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
+"The Great Cloudwall" is [CloudFlare](https://www.cloudflare.com/), the world's [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
 
 ![](image/cloudflaredearuser.png)
 
@@ -14,10 +14,16 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
-* List: [Domains using Cloudflare](splits/)
-* List: [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
-* Info: [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351)
-* Info: [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544)
+
+List
+* [Domains using Cloudflare](split/)
+* [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
+
+Information
+* [Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
+* [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351)
+* [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544)
+
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
 Also see [Frequently Asked Questions](faq.md).
@@ -27,7 +33,7 @@ Also see [Frequently Asked Questions](faq.md).
 
 # What can you do?
 
-* See [our list of recommended actions](what-to-do.md) and share it with your friends
+* Read [our list of recommended actions](what-to-do.md) and share it with your friends
 * Update the Cloudflare domain list: [List instructions](instructions.md)
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 * Search something on [Searxes](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
@@ -43,7 +49,7 @@ Human is not a robot.
 * [Sites using cloudflare](https://github.com/pirate/sites-using-cloudflare) by pirate
 
 WARNING:
-Github.com is hostile to Tor users. If you create an account on Github via Tor, your account will be automatically
+Github.com is very hostile to Tor users. If you create an account on Github via Tor, your account will be automatically
 flagged for spam and will be deleted. See "List of services blocking Tor" for details.
 
 # Who uses this list?
