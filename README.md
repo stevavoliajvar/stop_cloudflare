@@ -19,7 +19,7 @@ List
 * [Domains using Cloudflare](splits/)
 * [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
 
-Info
+Information
 * [Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351)
 * [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544)
@@ -33,7 +33,7 @@ Also see [Frequently Asked Questions](faq.md).
 
 # What can you do?
 
-* See [our list of recommended actions](what-to-do.md) and share it with your friends
+* Read [our list of recommended actions](what-to-do.md) and share it with your friends
 * Update the Cloudflare domain list: [List instructions](instructions.md)
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 * Search something on [Searxes](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
@@ -49,7 +49,7 @@ Human is not a robot.
 * [Sites using cloudflare](https://github.com/pirate/sites-using-cloudflare) by pirate
 
 WARNING:
-Github.com is hostile to Tor users. If you create an account on Github via Tor, your account will be automatically
+Github.com is very hostile to Tor users. If you create an account on Github via Tor, your account will be automatically
 flagged for spam and will be deleted. See "List of services blocking Tor" for details.
 
 # Who uses this list?
