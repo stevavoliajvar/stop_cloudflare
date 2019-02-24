@@ -1,3 +1,10 @@
+
+*2019.02.24*
+"Sites that respect their visitors do not resort to Cloudflare."
+"In some cases, for particular countries, having all traffic visible to the U.S.A can be a matter of life and death."
+http://techrights.org/2019/02/17/the-cloudflare-trap/
+
+
 *2019.02.21*
 
 CF defaults to HTTP connections for its customers 
