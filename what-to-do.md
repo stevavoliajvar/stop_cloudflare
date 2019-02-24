@@ -45,7 +45,11 @@ Here's a good example for website's privacy policy;
 ```
 By clicking “Sign up for XYZ”, you agree to our terms of service and privacy statement.
 You also agree to share your data with Cloudflare and also agrees to cloudflare's privacy statement.
+If Cloudflare leak information, it's not our fault. [*]
 ```
+
+[*] https://www.wired.com/2017/02/crazy-cloudflare-bug-jeopardized-millions-sites/
+
 
 AFAIK, **zero** website do this. Will you trust them?
 
