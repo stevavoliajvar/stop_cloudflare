@@ -74,6 +74,8 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 ######  Website owner / Web developer
 
+![](image/cfisnotanoption.jpg)
+
 - Do not use Cloudflare solution. You are **loser** if you fall to that easy solution. You can do better than that, *right*?
 
 - Want more customers? You know what to do. Hint is "above line".
