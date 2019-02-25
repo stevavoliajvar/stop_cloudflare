@@ -5,14 +5,14 @@
 
 | List name | Description |
 | -------- | -------- |
-| cloudflare_CIDR_v4.txt     | Cloudflare IP Range (IPv4)     |
-| cloudflare_CIDR_v6.txt     | Cloudflare IP Range (IPv6)     |
-| cloudflare_range_v4.txt | range of cloudflare_CIDR_v4 |
-| /split/cloudflare(X).txt     | split files     |
+| /split/cloudflare(X).txt     | Split files (base domain)     |
+| ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not anymore     |
+| cloudflare_CIDR_v4.txt     | IPv4 CIDR owned by Cloudflare     |
+| cloudflare_CIDR_v6.txt     | IPv6 CIDR owned by Cloudflare     |
+| cloudflare_range_v4.txt | IPv4 range owned by Cloudflare |
+| cloudflare_owned_ASN.txt     | AS network owned by Cloudflare    |
 | cloudflare_owned_domains.txt     | Domains owned by Cloudflare     |
 | cloudflare_owned_onions.txt     | Tor .onions owned by Cloudflare     |
-| cloudflare_owned_ASN.txt     | AS network owned by Cloudflare    |
-| ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not any more     |
 
 
 1) How to detect Cloudflare
