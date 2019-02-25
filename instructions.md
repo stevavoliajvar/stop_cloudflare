@@ -28,13 +28,18 @@
 4. Click *Double-arrow* button to create a *new pull request*.
 
 ```
-IMPORTANT: Please add only "*base domain*"
+IMPORTANT: Please add only "Base Domain"
 
     if "community.example.com" is using Cloudflare
-        add "example.com" to /split/cloudflare_e.txt
+        add "example.com"
+
+    if "www.example.co.uk" is using Cloudflare
+        add "example.co.uk"
 
     if "example.net" is using Cloudflare
-        add "example.net" to /split/cloudflare_e.txt
+        add "example.net"
+
+... to /split/cloudflare_e.txt
 ```
 
 3) If the website *no longer using Cloudflare*, *remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ex_cloudflare_users.txt)".
