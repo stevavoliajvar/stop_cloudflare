@@ -37,8 +37,7 @@ IMPORTANT: Please add only "*base domain*"
         add "example.net" to /split/cloudflare_e.txt
 ```
 
-3) If the website *no longer using Cloudflare*, *remove* it from /split/ list and *add* to "*ex_cloudflare_users.txt*".
-(If you're *Cloudflare website owner*, do not remove yourself from the list.)
+3) If the website *no longer using Cloudflare*, *remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ex_cloudflare_users.txt)".
 
 
 --------------
