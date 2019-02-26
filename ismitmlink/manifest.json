@@ -2,7 +2,7 @@
    "manifest_version": 2,
    "name": "Are links vulnerable to MITM attack?",
    "description": "Scan FQDN using Searxes' API",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "author": "Maslin Bossé",
    "permissions": [],
    "icons": {
