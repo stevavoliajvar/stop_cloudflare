@@ -36,6 +36,7 @@ Also see [Frequently Asked Questions](faq.md).
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends
 * Update the Cloudflare domain list: [List instructions](instructions.md)
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
+* RSS feed: ["The Great Cloudwall News" ![](image/feed.png)](https://searxes.danwin1210.me/collab/open/getrss.php?q=tmg1news)
 * Search something on [Searxes](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
 * Take a look at [add-on code](ismitmlink/)
 
