@@ -24,7 +24,7 @@ See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-46
 and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust 
 and the website in question should be avoided.
 
-An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" -> "Entity Name")
+An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" > "Entity Name")
 
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
