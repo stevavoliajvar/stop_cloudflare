@@ -26,7 +26,7 @@ browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
 	if (request && sender) {
 		if (mymemory[request] != undefined) {
 			let rlt = mymemory[request];
-			if (Object.keys(mymemory).length > 800) {
+			if (Object.keys(mymemory).length > 20000) {
 				let cnt = 1;
 				for (let t in mymemory) {
 					if (cnt > 10) {
