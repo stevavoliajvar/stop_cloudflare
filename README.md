@@ -38,6 +38,7 @@ Also see [Frequently Asked Questions](faq.md).
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 * Search something on [Searxes](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
 * Take a look at [add-on code](ismitmlink/)
+* Subscribe to an ![](image/feed.png) RSS feed: ["The Great Cloudwall News"](https://searxes.danwin1210.me/collab/open/getrss.php?q=tmg1news)
 
 ![WTF](image/wtfcf.jpg)
 

@@ -1,3 +1,10 @@
+*2019.02.25*
+
+```
+I've reported 100s of criminal websites and they are still operating behind Cloudflare infrastructure.
+```
+https://twitter.com/phyzonloop/status/1100066830553702400
+
 
 *2019.02.24*
 
