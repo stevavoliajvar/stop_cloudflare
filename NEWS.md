@@ -1,3 +1,8 @@
+*2019.02.27*
+
+* Cloudflare XSS bypass
+https://twitter.com/ameenmaali/status/1100536056372490241
+
 *2019.02.24*
 
 ```
