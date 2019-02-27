@@ -82,7 +82,7 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 ![](image/anonexist.jpg)
 
-- Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)?
+- Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? Another [sample](https://twitter.com/Jedduff/status/1097875615997399040).
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
