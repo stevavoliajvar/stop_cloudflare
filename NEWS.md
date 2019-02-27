@@ -15,6 +15,10 @@ If you're using SumatraPDF, you won't notice * is a link to https://www.cloudfla
 Apparently they've terminated a political account.
 Do you think it's okay to make a false statement and hide a link to tiny asterisk?
 
+https://twitter.com/mattskala/status/1100479615389159424
+https://mstdn.io/@mattskala/101660051818948847
+
+
 *2019.02.24*
 
 ```
