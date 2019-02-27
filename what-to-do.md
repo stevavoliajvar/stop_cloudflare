@@ -24,7 +24,7 @@ See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-46
 and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust 
 and the website in question should be avoided.
 
-An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" -> "Entity Name")
+An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" > "Entity Name")
 
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
@@ -82,7 +82,7 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 ![](image/anonexist.jpg)
 
-- Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)?
+- Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? Another [sample](https://twitter.com/Jedduff/status/1097875615997399040).
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 

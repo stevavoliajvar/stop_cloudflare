@@ -93,6 +93,7 @@ d.gt
 d.io
 d.nf
 d.tl
+d.tube
 d00.me
 d05l.com
 d06f00d.com
@@ -897,6 +898,7 @@ daelim.gr
 daelis-pizzeria-wiesbaden.de
 daelispizzeria-wiesbaden.de
 daelynwolf.com
+daemon-notes.com
 daemon.com.au
 daemon.run
 daemon3dprint.co.uk
@@ -1760,6 +1762,7 @@ dailytula.ru
 dailytver.ru
 dailytwocents.com
 dailyukulele.com
+dailyuploads.net
 dailyurducolumns.com
 dailyvalueshop.com
 dailyvanity.sg
@@ -3507,6 +3510,7 @@ danesys.com
 danet.hk
 danet.tw
 danethadoe.com
+danetsoft.com
 danettelarsen.com
 danettelayneprograms.com
 danevalleywoods.org
@@ -4281,6 +4285,7 @@ dannygraydon.com
 dannykaplansky.net
 dannylocke.com
 dannylockin.com
+dannyroodbol.nl
 dannyross.net
 dannysdigiscoping.com
 dannyseo.com
@@ -4466,6 +4471,7 @@ dantri.today
 dantrimble.com
 dantuma.co.za
 dantumadielpresenteert.nl
+dantup.com
 dantur.com
 dantzer.ca
 danu.web.id
@@ -5262,6 +5268,7 @@ darksydefm.com
 darksymphony.info
 darktalker.com
 darkteam.net
+darkteenporn.com
 darktg.com
 darkthirtyhogcontrol.com
 darkthrone.com
@@ -6084,6 +6091,7 @@ datacenter360.la
 datacenterandcolocation.com
 datacentercontainers.com
 datacenterdata.com
+datacenterknowledge.com
 datacentersuk.com
 datacentreairconditioning.com
 datacentremarketplace.com
@@ -7985,6 +7993,7 @@ davidszpunar.com
 davidtaboas.es
 davidtal.co.il
 davidtan.org
+davidtang.io
 davidtaylordesign.com
 davidteles.com
 davidterwilliger.com
@@ -8748,11 +8757,13 @@ daytonaalarmlocks.com
 daytonabahamahouse.com
 daytonabeachdirect.info
 daytonabeachoceanwalk.com
+daytonabeachresort.com
 daytonabeachshorescondos.com
 daytonabeachspringbreak.net
 daytonabeachvacation.net
 daytonabeachwindowtinting.com
 daytonabikeweek.com
+daytonahilton.com
 daytonairshow.com
 daytonanetworks.com
 daytonatrackclub.org
@@ -9126,6 +9137,7 @@ dbnwr.co.uk
 dbny.co
 dbocom.com
 dbofficialstore.com
+dboglobal.to
 dbolical.com
 dbonair.com
 dbonline.dk
@@ -9364,6 +9376,7 @@ dbzao.com
 dbzcw.com
 dbzdesigns.com.au
 dbzdimension.com
+dbzgames.org
 dbznow.com
 dbzshifter.com
 dbzsuper.online
@@ -9594,6 +9607,8 @@ dcclothesline.com
 dccnewhorizons.org
 dccomicmovies.com
 dccomics.com.pl
+dccomicsnews.com
+dccomicstalentworkshop.com
 dccommunityday.com
 dccomputersolutions.co.uk
 dccomunic.com.br
@@ -14365,6 +14380,7 @@ delivermydumpster.com
 delivermydumpster.net
 delivermydumpsters.com
 deliveroo.co.uk
+deliveroo.fr
 deliveroojobs.hk
 deliverooo.hk
 deliverooriders.hk
@@ -14441,6 +14457,7 @@ dellcoin.eu.org
 delldash.my
 delldriversdownload.net
 delldriverssupport.com
+dellemc.com
 dellemccode.com
 dellemcpartnerprogram.com
 dellemcpartners.com
@@ -14631,6 +14648,7 @@ delta-z.ru
 delta-zone.co.uk
 delta.al
 delta.app
+delta.com
 delta103.com
 delta2alpha.com
 delta3consulting.it
@@ -16845,6 +16863,7 @@ deployer.net
 deployhub.io
 deployment-guy.ca
 deploymentsupplybox.com
+deploys.io
 deployworks.xyz
 depmnon-profit.org
 depnhatthegioi.com
@@ -18421,6 +18440,7 @@ designforco.de
 designforconservation.org
 designfordawah.com
 designfordigital.com
+designforhackers.com
 designforlivingcoaching.com
 designformankind.com
 designformichaels.com
@@ -18675,6 +18695,7 @@ designvisions.net
 designwanted.today
 designwarez.com
 designwebdevelop.com
+designwebkit.com
 designwebmontreal.com
 designweddingcake.com
 designweek.melbourne
@@ -18728,6 +18749,7 @@ desimasalahoyland.co.uk
 desimoneorthodontics.com
 desimonere.com
 desinakedgirls.com
+desinerd.co.in
 desinfestdias.pt
 desinformacao.org
 desinfournir.com
@@ -19320,6 +19342,7 @@ destynacja.pl
 destyntek.com
 desu-usergeneratedcontent.xyz
 desuarchive.org
+desuchan.net
 desuikerboom.nl
 desulfatador.com
 desulfater.com
@@ -20916,6 +20939,7 @@ devsite.work
 devsitehosting.com
 devsitestaging.com
 devsiteurl.com
+devsjournal.com
 devskiller.com
 devslog.com
 devslsite.com
@@ -21752,6 +21776,7 @@ dgrade.com
 dgrant.com
 dgraph.io
 dgrecordz.xyz
+dgrin.com
 dgrlawoffices.com
 dgrminis.com
 dgrouplearning.com
@@ -23387,6 +23412,7 @@ dicedatom.co.uk
 dicedsoftware.com
 dicekayek.com
 dicekresi.id
+dicelacancion.com
 dicelamamma.it
 dicelandonline.com
 diceman.com
@@ -25062,6 +25088,7 @@ digitalbronks.com
 digitalbronks.com.br
 digitalbuff.com
 digitalbunker.com.au
+digitalburp.com
 digitalbusiness.courses
 digitalbusiness.news
 digitalbusinessbox.com
@@ -27302,6 +27329,7 @@ directory.org.vn
 directory327.com
 directory4escorts.com
 directoryad.eu
+directoryblacklist.com
 directorycentral.com
 directorychina.info
 directorycinema.com
@@ -30209,6 +30237,7 @@ diystylestudio.com
 diysuniverse.com
 diytechsolutions.com
 diytoolsonline.com
+diytrade.com
 diytripods.com
 diytrunkshow.com
 diyupcycleideas.com
@@ -31166,6 +31195,7 @@ dl-jardin.be
 dl-musicbaran5.info
 dl-protect.co
 dl-protect.net
+dl-protect.ru
 dl-sounds.com
 dl-ticino.ch
 dl-z.ml
@@ -32595,6 +32625,7 @@ docconversionapi.com
 doccossauce.com
 docdataflow.com
 docdivatraveller.com
+docdownloader.com
 docdvd.ru
 doceafeto.com.br
 doceagonia.com
@@ -33143,6 +33174,7 @@ docung.com
 docunhat.com
 docus.me
 docusense.net
+docusign.com
 docusmart.co.uk
 docutapserves.com
 docutiger.ch
@@ -34287,6 +34319,7 @@ doktortjek.dk
 doktorvehastas.ga
 doku.sk
 dokujunkies.org
+dokumen.site
 dokumentacia.com
 dokumentalne.net
 dokumentarni.net
@@ -34454,6 +34487,7 @@ dollarlonghairclub.com
 dollarperhead.com
 dollarpixphotography.com
 dollarpointlakefront.com
+dollars-bbs.org
 dollars.com.au
 dollars.xxx
 dollars4mom.com
@@ -35972,6 +36006,7 @@ dongalugess.ga
 dongbaowang.org
 dongcac.com
 dongco3pha.com
+dongcoder.com
 dongcogiamtoc.co
 dongcorp.org
 dongdaibai.net
@@ -36372,6 +36407,7 @@ dons-troost.nl
 donsautomotive.eu.org
 donsautomotivenewnan.com
 donscanopies.com
+donscentral.com
 donschreiner.com
 donschwartzservices.com
 donscime.com
@@ -36458,6 +36494,7 @@ dontmakemebreakyou.com
 dontmesswithwordpress.com
 dontmindthemess.com
 dontmissthesigns.org
+dontneedcoffee.com
 dontoney.com
 dontpaniconline.com.pt
 dontparty.com
@@ -37692,6 +37729,7 @@ dotdb.com
 dotdd.com
 dotdefine.de
 dotdev.build
+dotdev.co
 dotdev.site
 dotdotdot.net.nz
 dotdotdot.nz
@@ -38676,6 +38714,7 @@ downdetector.co.nz
 downdetector.co.uk
 downdetector.co.za
 downdetector.com
+downdetector.com.au
 downdetector.com.br
 downdetector.de
 downdetector.dk
@@ -39024,6 +39063,7 @@ downloadfreefonts.net
 downloadfreefullall.com
 downloadfreemp3.site
 downloadfreemp3audiobookshere.com
+downloadfreethemes.co
 downloadfreethemes.net
 downloadfs.com
 downloadfullhdwallpapers.com
@@ -39095,6 +39135,7 @@ downloadmoviesfree.org
 downloadmoviesonline.com
 downloadmp3.download
 downloadmp3gratiss.com
+downloadmp3lagu.org
 downloadmp3laguterbaru.info
 downloadmp3z.eu.org
 downloadmun.com
@@ -39828,6 +39869,7 @@ dpf2003.org
 dpfanatics.com
 dpfemulators.com
 dpfilm.org
+dpfilmz.com
 dpfinancialservices.com
 dpfloorcareandinterior.com
 dpfsolutions.co.uk
@@ -40327,6 +40369,7 @@ dragonballsuperdub.com
 dragonballsupergames.com
 dragonballtime.tv
 dragonballz-world.com
+dragonballzdevolution.com
 dragonballzdevolutionhacked.com
 dragonballzhentai.net
 dragonballzyaoi.com
@@ -40700,6 +40743,7 @@ drakor-id.net
 drakor.id
 drakorindo.com
 drakorindo.net
+drakxvpn.com
 dral-santhagens.nl
 dral.eu
 dralaink.com
@@ -42471,6 +42515,7 @@ dri-dek.com.au
 dri-dek.mobi
 dri-dek.us
 dri.com.ve
+dri.es
 driadecr.com
 driangrenier.com
 driatoytest.com
@@ -43778,8 +43823,10 @@ dronehut.co.uk
 dronehut.com
 droneinfo.de
 droneintheair.net
+dronekenner.nl
 droneki.com
 dronekirala.com
+droneland.nl
 dronelife.com
 dronemag.ro
 dronemagazine.com.au
@@ -44007,6 +44054,7 @@ droptwelve.com
 dropub.com
 dropx.ru
 dropzonefestival.com
+dropzonejs.com
 dropzonestories.com
 dror-electronics.com
 drorakzai.org
@@ -49311,6 +49359,7 @@ dustcontrolsolutions.com
 dustcontrolusa.com
 dustcourse.com
 dustdevilhosting.com
+dustdevilsoftball.org
 dustdice.com
 dusted.codes
 dusted.com
