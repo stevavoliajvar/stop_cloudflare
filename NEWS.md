@@ -3,6 +3,19 @@
 * Cloudflare XSS bypass
 https://twitter.com/ameenmaali/status/1100536056372490241
 
+*2019.02.26*
+
+Download Cloudflare's transparency report and take a look at "Some things we have never done" section.
+
+```
+Cloudflare has never terminated a customer or taken down content due to political pressure.*
+```
+
+If you're using high-security PDF viewer such as SumatraPDF, you won't notice * is a link
+to https://www.cloudflare.com/cloudflare-criticism/ .
+Apparently they did terminated a political account.
+Lies in tranparent report, no good.
+
 *2019.02.24*
 
 ```
