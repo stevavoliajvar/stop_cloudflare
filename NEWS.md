@@ -11,10 +11,9 @@ Take a look at Cloudflare's transparency report, "Some things we have never done
 Cloudflare has never terminated a customer or taken down content due to political pressure.*
 ```
 
-If you're using high-security PDF viewer such as SumatraPDF, you won't notice * is a link
-to https://www.cloudflare.com/cloudflare-criticism/ .
+If you're using SumatraPDF, you won't notice * is a link to https://www.cloudflare.com/cloudflare-criticism/ .
 Apparently they did terminated a political account.
-Lies in tranparent report & hiding a link to asterisk. Not okay.
+Do you think it's okay to make a false statement and hide a link to tiny asterisk?
 
 *2019.02.24*
 
