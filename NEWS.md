@@ -3,6 +3,18 @@
 * Cloudflare XSS bypass
 https://twitter.com/ameenmaali/status/1100536056372490241
 
+*2019.02.26*
+
+Take a look at Cloudflare's transparency report, "Some things we have never done" section.
+
+```
+Cloudflare has never terminated a customer or taken down content due to political pressure.*
+```
+
+If you're using SumatraPDF, you won't notice * is a link to https://www.cloudflare.com/cloudflare-criticism/ .
+Apparently they've terminated a political account.
+Do you think it's okay to make a false statement and hide a link to tiny asterisk?
+
 *2019.02.24*
 
 ```
