@@ -6,6 +6,7 @@
 
 ------------
 
+
 ######  Website consumer
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare. Example below.
@@ -60,7 +61,7 @@ If Cloudflare leak your information, it's not our fault. [*]
 - If your browser is Firefox, use one of these add-ons.
 
 | Name | Developer | Support | Can Block | Can Notify |
-| -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- | -------- |
 | [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) | Project BCMA | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/bcma) |**Yes**     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
 | [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink) | No     | **Yes**     |
