@@ -9,13 +9,13 @@
 
 ######  Website consumer
 
-- If the website you like is using Cloudflare, tell them not to use Cloudflare. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).
+- If the website you like is using Cloudflare, tell them not to use Cloudflare.
 
 ```
 "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you."
 ```
 
-If you don't ask for it, website owner never know this problem.
+If you don't ask for it, website owner never know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). Raise your voice.
 
 ```
 You are just helping corporate censorship and mass surveillance.
@@ -201,7 +201,7 @@ Let's talk about _other software's privacy_...
 
 ------------
 
-Now, what did you do today?
+### Now, what did you do today?
 
 
 ![](image/stopcf.jpg)
