@@ -9,7 +9,13 @@
 
 ######  Website consumer
 
-- If the website you like is using Cloudflare, tell them not to use Cloudflare. Example below.
+- If the website you like is using Cloudflare, tell them not to use Cloudflare. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).
+
+```
+"Ask and it will be given to you; seek and you will find; knock and the door will be opened to you."
+```
+
+If you don't ask for it, website owner never know this problem.
 
 ```
 You are just helping corporate censorship and mass surveillance.
@@ -192,6 +198,10 @@ Let's talk about _other software's privacy_...
 - For companies that claim to _offer service on their website_ try reporting them as "_false advertising_" to consumer protection organizations and BBB. Cloudflare websites are served by Cloudflare servers.
 
 - The [ITU](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf) suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
+
+------------
+
+Now, what did you do today?
 
 
 ![](image/stopcf.jpg)
