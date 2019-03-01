@@ -6,9 +6,16 @@
 
 ------------
 
+
 ######  Website consumer
 
-- If the website you like is using Cloudflare, tell them not to use Cloudflare. Example below.
+- If the website you like is using Cloudflare, tell them not to use Cloudflare.
+
+```
+"Ask and it will be given to you; seek and you will find; knock and the door will be opened to you."
+```
+
+If you don't ask for it, website owner never know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). Raise your voice.
 
 ```
 You are just helping corporate censorship and mass surveillance.
@@ -59,14 +66,16 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 - If your browser is Firefox, use one of these add-ons.
 
-| Name | Can Block | Can Notify |
-| -------- | -------- | -------- |
-| [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/)     | **Yes**     | **Yes**     |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)     | **Yes**     | **Yes**     |
-| [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/)     | No     | **Yes**     |
-| [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/)     | **Yes**     | **Yes**     |
-| [Third-party Request Blocker](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php)     | **Yes**     | **Yes**     |
-| [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)     | No     | **Yes**     |
+| Name | Developer | Support | Can Block | Can Notify |
+| -------- | -------- | -------- | -------- | -------- |
+| [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) | Project BCMA | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/bcma) |**Yes**     | **Yes**     |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
+| [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink) | No     | **Yes**     |
+| [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/) | Searxes #Addon | [Link](https://searxes.danwin1210.me/) | **Yes**     | **Yes**     |
+| [TPRB](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php) | Sw | [Link](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/___go.php?go=sw) | **Yes**     | **Yes**     |
+| [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
+| [Claire](https://addons.mozilla.org/en-US/firefox/addon/cloudflare-claire/) | Cloudflare | [Link](https://github.com/cloudflare/claire/) | No   | **Yes**     |
+
 
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
 
@@ -189,6 +198,10 @@ Let's talk about _other software's privacy_...
 - For companies that claim to _offer service on their website_ try reporting them as "_false advertising_" to consumer protection organizations and BBB. Cloudflare websites are served by Cloudflare servers.
 
 - The [ITU](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf) suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
+
+------------
+
+### Now, what did you do today?
 
 
 ![](image/stopcf.jpg)
