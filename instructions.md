@@ -11,6 +11,7 @@
 | cloudflare_CIDR_v6.txt     | IPv6 CIDR owned by Cloudflare     |
 | cloudflare_range_v4.txt | IPv4 range owned by Cloudflare |
 | cloudflare_owned_ASN.txt     | AS network owned by Cloudflare    |
+| cloudflare_owned_NS.txt     | Name Server owned by Cloudflare    |
 | cloudflare_owned_domains.txt     | Domains owned by Cloudflare     |
 | cloudflare_owned_onions.txt     | Tor .onions owned by Cloudflare     |
 
