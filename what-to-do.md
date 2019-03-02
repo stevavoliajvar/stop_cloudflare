@@ -1,14 +1,64 @@
-##### What you can do to resist Cloudflare?
+# What you can do to resist Cloudflare?
 
+![](image/matthew_prince.jpg) < [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
+
+"*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" ([source](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis))
+
+------------
 
 
 ######  Website consumer
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
 
-> You are just helping corporate censorship and mass surveillance.
-> 
-> https://trac.torproject.org/projects/tor/ticket/24351
+```
+"Ask and it will be given to you; seek and you will find; knock and the door will be opened to you."
+```
+
+If you don't ask for it, website owner never know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). Raise your voice.
+
+```
+You are just helping corporate censorship and mass surveillance.
+https://trac.torproject.org/projects/tor/ticket/24351
+```
+
+```
+Your web page is in the privacy-abusing private walled-garden of CloudFlare.
+See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544
+```
+
+- Take some time to read website's privacy policy. It must explain what the "Cloudflare" is, 
+and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust 
+and the website in question should be avoided.
+
+An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" > "Entity Name")
+
+```
+I've read your privacy policy and I cannot find the word "Cloudflare".
+I refuse to share data with you if you continue to feed my data to Cloudflare.
+See https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md
+```
+
+For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
+
+![](image/cfwontobey.jpg)
+
+... is not going to happen.
+Cloudflare have their own "privacy policy", and there's no way to hear customer's privacy policy needs.
+Cloudflare [loves doxxing people](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/).
+
+Here's a good example for website's signup form.
+AFAIK, zero website do this. Will you trust them?
+
+```
+By clicking “Sign up for XYZ”, you agree to our terms of service and privacy statement.
+You also agree to share your data with Cloudflare and also agrees to cloudflare's privacy statement.
+If Cloudflare leak your information, it's not our fault. [*]
+
+[ Sign up for XYZ ] [ I disagree ]
+```
+[*] https://www.wired.com/2017/02/crazy-cloudflare-bug-jeopardized-millions-sites/
+
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
 
@@ -16,23 +66,35 @@
 
 - If your browser is Firefox, use one of these add-ons.
 
-| Name | Can Block | Can Notify |
-| -------- | -------- | -------- |
-| [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/)     | **Yes**     | **Yes**     |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)     | **Yes**     | **Yes**     |
-| [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/)     | No     | **Yes**     |
-| [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/)     | **Yes**     | **Yes**     |
-| [Third-party Request Blocker](https://searxes.danwin1210.me/collab/___go.php?go=get_tprb0&prf=nab)     | **Yes**     | **Yes**     |
-| [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/)     | No     | **Yes**     |
+| Name | Developer | Support | Can Block | Can Notify |
+| -------- | -------- | -------- | -------- | -------- |
+| [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) | Project BCMA | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/bcma) |**Yes**     | **Yes**     |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
+| [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink) | No     | **Yes**     |
+| [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/) | Searxes #Addon | [Link](https://searxes.danwin1210.me/) | **Yes**     | **Yes**     |
+| [TPRB](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php) | Sw | [Link](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/___go.php?go=sw) | **Yes**     | **Yes**     |
+| [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 
 
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
 
-
+------------
 
 ######  Website owner / Web developer
 
-- Do not use Cloudflare solution. You are loser if you fall to that easy solution. You can do better than that, right?
+![](image/cfisnotanoption.jpg)
+
+- Do not use Cloudflare solution.  You can do better than that, *right*?
+
+- Want more customers? You know what to do. Hint is "above line".
+
+![](image/anonexist.jpg)
+
+- Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? Another [sample](https://twitter.com/Jedduff/status/1097875615997399040).
+
+- Using Cloudflare to proxy your "API service" will harm your customer. A customer called you and said "I can't use your API anymore", and you have no idea what is going on. Cloudflare can silently block your customer. [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
+
+- Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
 - Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
 
@@ -40,7 +102,7 @@
 
 - Ask for advice from other [Clearnet/Tor dual website operators](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor) and make anonymous friends! :)
 
-
+------------
 
 ######  Software user
 
@@ -48,9 +110,19 @@
 
 - Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser_alpha)~~, [Orfox](https://guardianproject.info/apps/orfox/)~~ for smartphone. Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect". There is no 100% secure nor 100% private on the internet and technology.
 
+- Don't want to use "Tor"? You can use Tor Browser without Tor, and this is the best option for you.
+
+> **How?**
+> 1. Download [Tor Browser](https://www.torproject.org/) and launch it.
+> 2. Open Add-ons Manager (about:addons) and *disable* EVERYTHING but "*Torbutton*". **Do NOT *remove* them**.
+> 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*true*".
+> 4. Go to Options, scroll down to "*Network Proxy*". Click "*Settings*" and select "*No proxy*".
+> 5. Close Tor Browser.
+> 
+> Other guide is [here](https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor).
+
 
 Let's talk about _other software's privacy_...
-
 
 - If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)". ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr).
 
@@ -64,16 +136,16 @@ Let's talk about _other software's privacy_...
 
 - Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/).
 
+- Microsoft Edge lets Facebook [run Flash code behind users' backs](https://www.zdnet.com/article/microsoft-edge-lets-facebook-run-flash-code-behind-users-backs/).
 
+------------
 
 ###### "Mozilla Firefox" user
 
 - Don't use Firefox Nightly. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
 
-- It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "/distribution/policies.json". Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md).
+- It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "/distribution/policies.json". Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md). Keep in mind this trick might stop working in later version because Mozilla likes to whitelist themselves. Use firewall and DNS filter to block them completely.
 
-> {
->   "policies": {
 >     "WebsiteFilter": {
 > 		"Block": [
 > 		"*://*.mozilla.com/*",
@@ -84,16 +156,21 @@ Let's talk about _other software's privacy_...
 > 		"*://*.cloudflare.com/*"
 > 		]
 >     },
-> ...
-> }
+
 
 - ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
 
-- To disable DOH, enter about:config?filter=network.trr in the address bar then set "network.trr.mode" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec). (If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).)
+- To disable DOH, enter *about:config?filter=network.trr* in the address bar then set "*network.trr.mode*" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
+
+![](image/firefoxdns.jpg)
+
+- If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).
+
+![](image/opennic.jpg)
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
-
+------------
 
 ######  Action
 
@@ -101,7 +178,7 @@ Let's talk about _other software's privacy_...
 
 - Help improve this repository, both the lists, the arguments against it and the details.
 
-- Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so
+- Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so ;)
 
 - Get more people using Tor by default so they can experience the web from the perspective of different parts of the world.
 
@@ -123,4 +200,11 @@ Let's talk about _other software's privacy_...
 
 - For companies that claim to _offer service on their website_ try reporting them as "_false advertising_" to consumer protection organizations and BBB. Cloudflare websites are served by Cloudflare servers.
 
-- the [ITU](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf) suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
+- The [ITU](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf) suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
+
+------------
+
+### Now, what did you do today?
+
+
+![](image/stopcf.jpg)
