@@ -1,3 +1,11 @@
+*2019.03.02*
+
+"client was trying to make session requests to their API servers
+but before I can prevent it, cloudflare had me blocked.
+It's pretty bad as half the internet is behind Cloudflare."
+
+https://twitter.com/Skyfusion89/status/1101596592426151937
+
 *2019.02.14*
 
 * "New Ranking Factor: MITMed or not"
