@@ -11,22 +11,20 @@ Let's test: https://danwin1210.me/url.php?id=39706
 ```
 archive.today
 CloudFlare: (None)
-Google: archive.today. 299 IN A 46.17.42.43 (Russia, AS51659 LLC Baxet)
+Google: A 46.17.42.43 (Russia, AS51659 LLC Baxet)
 ```
 
 ```
 archive.is
-CloudFlare: archive.is. 2 IN A 104.16.181.15 (NSA, AS13335 Cloudflare, Inc.)
-Google: archive.is. 299 IN A 46.17.42.43 (Russia, AS51659 LLC Baxet)
+CloudFlare: A 104.16.181.15 (NSA, AS13335 Cloudflare, Inc.)
+Google: A 46.17.42.43 (Russia, AS51659)
 ```
 
 Why these results are completely different!?
 
 DNS hijacking / blocking is not cool.
 Stay away from centralized service.
-Why not use OpenNIC?
-
-https://www.opennic.org/
+Try OpenNIC: https://www.opennic.org/
 
 
 *2019.03.02*
