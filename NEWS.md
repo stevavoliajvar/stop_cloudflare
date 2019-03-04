@@ -1,3 +1,27 @@
+*2019.03.03*
+
+```
+"I can't visit Army.mill and Archive Today with Cloudflare DNS.
+It returns zero results when DNS querying for Archive Today or any domains under *.mil"
+```
+
+https://twitter.com/wongmjane/status/1102446734993551360
+
+Let's test: https://www.digwebinterface.com/?hostnames=www.army.mil%0D%0Aarchive.today%0D%0Aarchive.is&type=A&useresolver=8.8.4.4&ns=self&nameservers=1.1.1.1%0D%0A8.8.8.8
+
+Yeah.
+
+```
+archive.today@1.1.1.1 (CloudFlare):   [Copy results to clipboard]
+(None)
+archive.today@8.8.8.8 (Google):   [Copy results to clipboard]
+archive.today.		299	IN	A	46.17.42.43
+```
+
+Stay away from centralized service. (Google DNS/Cloudflare DNS)
+Why not use OpenNIC? https://www.opennic.org/
+
+
 *2019.03.02*
 
 "client was trying to make session requests to their API servers
