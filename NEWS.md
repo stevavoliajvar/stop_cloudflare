@@ -21,9 +21,6 @@ Google: A 46.17.42.43 (Russia, AS51659)
 ```
 
 Why these results are completely different!?
-
-DNS hijacking / blocking is not cool.
-Stay away from centralized service.
 Try OpenNIC: https://www.opennic.org/
 
 
