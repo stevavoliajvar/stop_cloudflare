@@ -19,7 +19,10 @@ archive.today.		299	IN	A	46.17.42.43
 ```
 
 Stay away from centralized service. (Google DNS/Cloudflare DNS)
-Why not use OpenNIC? https://www.opennic.org/
+
+Why not use OpenNIC?
+
+https://www.opennic.org/
 
 
 *2019.03.02*
