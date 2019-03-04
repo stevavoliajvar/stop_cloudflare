@@ -7,9 +7,7 @@ It returns zero results when DNS querying for Archive Today or any domains under
 
 https://twitter.com/wongmjane/status/1102446734993551360
 
-Let's test: https://www.digwebinterface.com/?hostnames=www.army.mil%0D%0Aarchive.today%0D%0Aarchive.is&type=A&useresolver=8.8.4.4&ns=self&nameservers=1.1.1.1%0D%0A8.8.8.8
-
-Yeah.
+Let's test: https://danwin1210.me/url.php?id=39706
 
 ```
 archive.today@1.1.1.1 (CloudFlare):   [Copy results to clipboard]
@@ -18,8 +16,8 @@ archive.today@8.8.8.8 (Google):   [Copy results to clipboard]
 archive.today.		299	IN	A	46.17.42.43
 ```
 
+DNS hijacking / DNS blocking is not cool.
 Stay away from centralized service. (Google DNS/Cloudflare DNS)
-
 Why not use OpenNIC?
 
 https://www.opennic.org/
