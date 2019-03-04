@@ -13,20 +13,20 @@ Let's test: https://danwin1210.me/url.php?id=39706
 archive.today@1.1.1.1 (CloudFlare):   [Copy results to clipboard]
 (None)
 archive.today@8.8.8.8 (Google):   [Copy results to clipboard]
-archive.today.		299	IN	A	46.17.42.43
+archive.today. 299 IN A	46.17.42.43 (Russia, AS51659 LLC Baxet)
 ```
 
 ```
 archive.is@1.1.1.1 (CloudFlare):   [Copy results to clipboard]
-archive.is.		2	IN	A	104.16.181.15 (NSA, AS13335 Cloudflare, Inc.)
+archive.is. 2 IN	A 104.16.181.15 (N|USA, AS13335 Cloudflare, Inc.)
 archive.is@8.8.8.8 (Google):   [Copy results to clipboard]
-archive.is.		299	IN	A	46.17.42.43 (Russia, AS51659 LLC Baxet)
+archive.is. 299 IN A	46.17.42.43 (Russia, AS51659 LLC Baxet)
 ```
 
 Why these results are completely different!?
 
-DNS hijacking / DNS blocking is not cool.
-Stay away from centralized service. (Google DNS/Cloudflare DNS)
+DNS hijacking / blocking is not cool.
+Stay away from centralized service.
 Why not use OpenNIC?
 
 https://www.opennic.org/
