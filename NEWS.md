@@ -18,7 +18,7 @@ archive.today. 299 IN A	46.17.42.43 (Russia, AS51659 LLC Baxet)
 
 ```
 archive.is@1.1.1.1 (CloudFlare):   [Copy results to clipboard]
-archive.is. 2 IN	A 104.16.181.15 (N|USA, AS13335 Cloudflare, Inc.)
+archive.is. 2 IN	A 104.16.181.15 (NSA, AS13335 Cloudflare, Inc.)
 archive.is@8.8.8.8 (Google):   [Copy results to clipboard]
 archive.is. 299 IN A	46.17.42.43 (Russia, AS51659 LLC Baxet)
 ```
