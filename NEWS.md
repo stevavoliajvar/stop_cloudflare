@@ -1,8 +1,7 @@
 *2019.03.03*
 
 ```
-"I can't visit Army.mill and Archive Today with Cloudflare DNS.
-It returns zero results when DNS querying for Archive Today or any domains under *.mil"
+"I can't visit Army.mill and Archive Today with Cloudflare DNS."
 ```
 
 https://twitter.com/wongmjane/status/1102446734993551360
@@ -10,17 +9,15 @@ https://twitter.com/wongmjane/status/1102446734993551360
 Let's test: https://danwin1210.me/url.php?id=39706
 
 ```
-archive.today@1.1.1.1 (CloudFlare):
-(None)
-archive.today@8.8.8.8 (Google):
-archive.today. 299 IN A 46.17.42.43 (Russia, AS51659 LLC Baxet)
+archive.today
+CloudFlare: (None)
+Google: archive.today. 299 IN A 46.17.42.43 (Russia, AS51659 LLC Baxet)
 ```
 
 ```
-archive.is@1.1.1.1 (CloudFlare):
-archive.is. 2 IN A 104.16.181.15 (NSA, AS13335 Cloudflare, Inc.)
-archive.is@8.8.8.8 (Google):
-archive.is. 299 IN A 46.17.42.43 (Russia, AS51659 LLC Baxet)
+archive.is
+CloudFlare: archive.is. 2 IN A 104.16.181.15 (NSA, AS13335 Cloudflare, Inc.)
+Google: archive.is. 299 IN A 46.17.42.43 (Russia, AS51659 LLC Baxet)
 ```
 
 Why these results are completely different!?
