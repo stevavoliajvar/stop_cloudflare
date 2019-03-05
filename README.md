@@ -22,7 +22,7 @@ This repository is a list of websites that are behind The Great Cloudwall, and a
 
 List
 * [Domains using Cloudflare](split/)
-* [Non-Cloudflare but filtering/blocking tor users](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile)
+* [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
 Information
 * [Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
@@ -39,7 +39,7 @@ Also see [Frequently Asked Questions](faq.md).
 # What can you do?
 
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends
-* Update the Cloudflare domain list: [List instructions](instructions.md)
+* Update the domain list: [List instructions](instructions.md)
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 * Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
 * Take a look at [add-on code](ismitmlink/) (how to use "MITM test API")
