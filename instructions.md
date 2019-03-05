@@ -70,6 +70,6 @@ IMPORTANT: Please add only "Base Domain"
 
 Some websites use other companies with the CloudFlare business model.
 
-Add them to [non-cloudflare-list](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile/) (formerly "*TorBlocker Hall of Shame Part I*")
+Add them to [/not_cloudflare/](not_cloudflare/) (formerly "*TorBlocker Hall of Shame Part I*")
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
