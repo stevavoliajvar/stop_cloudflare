@@ -68,6 +68,13 @@ IMPORTANT: Please add only "Base Domain"
 
 ## Website is NOT using Cloudflare (& blocking you)
 
+| List name | Description |
+| -------- | -------- |
+| list_error403.txt     | Returns HTTP Error 403 (Forbidden)     |
+| list_customerror.txt     | Returns custom error message (not HTTP 403)     |
+| list_other.txt     | (not necessary?)    |
+
+
 Some websites use other companies with the CloudFlare business model.
 
 Add them to [/not_cloudflare/](not_cloudflare/) (formerly "*TorBlocker Hall of Shame Part I*")
