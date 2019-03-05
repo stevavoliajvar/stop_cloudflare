@@ -83,3 +83,5 @@ Some websites use other companies with the CloudFlare business model.
 Add them to [/not_cloudflare/](not_cloudflare/) (formerly "*TorBlocker Hall of Shame Part I*")
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
+
+[This add-ons](https://addons.mozilla.org/en-US/firefox/addon/which-website-rejected-me/) will help your list_error403 collection.
