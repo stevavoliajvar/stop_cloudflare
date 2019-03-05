@@ -74,6 +74,9 @@ IMPORTANT: Please add only "Base Domain"
 | list_customerror.txt     | Returns custom error message (not HTTP 403)     |
 | list_other.txt     | (not necessary?)    |
 
+```
+IMPORTANT: Please add "FQDN" or "FQDN[space]add your comment here"
+```
 
 Some websites use other companies with the CloudFlare business model.
 
