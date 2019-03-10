@@ -75,7 +75,16 @@ IMPORTANT: Please add only "Base Domain"
 | list_other.txt     | (not necessary?)    |
 
 ```
-IMPORTANT: Please add "FQDN" or "FQDN[space]add your comment here"
+IMPORTANT: Please add only "Base Domain" or "(base domain)[space](comment here)"
+
+    if "community.example.com" is blocking Tor
+        add "example.com"
+
+    if "www.example.co.uk" is blocking Tor
+        add "example.co.uk Error message: Anonymous not allowed"
+
+    if "example.net" is blocking Tor
+        add "example.net"
 ```
 
 Some websites use other companies with the CloudFlare business model.
