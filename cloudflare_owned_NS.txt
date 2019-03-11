@@ -14,6 +14,7 @@ ben.ns.cloudflare.com
 bella.ns.cloudflare.com
 bob.ns.cloudflare.com
 chan.ns.cloudflare.com
+coco.ns.cloudflare.com
 cody.ns.cloudflare.com
 darwin.ns.cloudflare.com
 dee.ns.cloudflare.com
@@ -28,6 +29,7 @@ fred.ns.cloudflare.com
 gail.ns.cloudflare.com
 glen.ns.cloudflare.com
 guy.ns.cloudflare.com
+hugh.ns.cloudflare.com
 ian.ns.cloudflare.com
 igor.ns.cloudflare.com
 jeff.ns.cloudflare.com
