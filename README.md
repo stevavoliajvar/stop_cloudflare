@@ -39,6 +39,7 @@ Also see [Frequently Asked Questions](faq.md).
 # What can you do?
 
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends
+* Read [other user's voice](PEOPLE.md) (if you write a blog, tell us your URL)
 * Update the domain list: [List instructions](instructions.md)
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 * Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
