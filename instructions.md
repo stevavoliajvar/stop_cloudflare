@@ -68,8 +68,29 @@ IMPORTANT: Please add only "Base Domain"
 
 ## Website is NOT using Cloudflare (& blocking you)
 
+| List name | Description |
+| -------- | -------- |
+| list_error403.txt     | Returns HTTP Error 403 (Forbidden)     |
+| list_customerror.txt     | Returns custom error message (not HTTP 403)     |
+| list_other.txt     | (not necessary?)    |
+
+```
+IMPORTANT: Please add only "Base Domain" or "(base domain)[space](comment here)"
+
+    if "community.example.com" is blocking Tor
+        add "example.com"
+
+    if "www.example.co.uk" is blocking Tor
+        add "example.co.uk Error message: Anonymous not allowed"
+
+    if "example.net" is blocking Tor
+        add "example.net"
+```
+
 Some websites use other companies with the CloudFlare business model.
 
-Add them to [non-cloudflare-list](https://notabug.org/themusicgod1/non-cloudflare-tor-hostile/) (formerly "*TorBlocker Hall of Shame Part I*")
+Add them to [/not_cloudflare/](not_cloudflare/) (formerly "*TorBlocker Hall of Shame Part I*")
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
+
+[This add-ons](https://addons.mozilla.org/en-US/firefox/addon/which-website-rejected-me/) will help your list_error403 collection.
