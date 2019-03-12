@@ -12,6 +12,11 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 
 ![](image/banvpn.jpg)
 
+And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning fake IP address owned by Cloudflare or just return nothing. See NEWS.md for more information.
+
+![](image/dnscensor.jpg)
+
+
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
 

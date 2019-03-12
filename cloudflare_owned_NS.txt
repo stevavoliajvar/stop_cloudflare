@@ -11,11 +11,13 @@ art.ns.cloudflare.com
 athena.ns.cloudflare.com
 austin.ns.cloudflare.com
 ben.ns.cloudflare.com
+bella.ns.cloudflare.com
 bob.ns.cloudflare.com
 chan.ns.cloudflare.com
 cody.ns.cloudflare.com
 darwin.ns.cloudflare.com
 dee.ns.cloudflare.com
+dom.ns.cloudflare.com
 dina.ns.cloudflare.com
 drew.ns.cloudflare.com
 ed.ns.cloudflare.com
@@ -41,11 +43,13 @@ leia.ns.cloudflare.com
 lex.ns.cloudflare.com
 matt.ns.cloudflare.com
 melinda.ns.cloudflare.com
+newt.ns.cloudflare.com
 nina.ns.cloudflare.com
 norm.ns.cloudflare.com
 pam.ns.cloudflare.com
 paul.ns.cloudflare.com
 pete.ns.cloudflare.com
+rachel.ns.cloudflare.com
 rick.ns.cloudflare.com
 rob.ns.cloudflare.com
 rose.ns.cloudflare.com

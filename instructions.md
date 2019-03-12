@@ -18,8 +18,26 @@
 
 1) How to detect Cloudflare
 
+There are many ways to detect it:
+
 - [These add-ons](what-to-do.md) will help your Cloudflare collection.
 - Visit a website via Tor or VPN, and you will be greeted by "Attention Required! Cloudflare" webpage.
+- Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
+
+```
+emsisoft.com.		21599	IN	NS	bella.ns.cloudflare.com.
+emsisoft.com.		21599	IN	NS	dom.ns.cloudflare.com.
+```
+
+- Dig "[A record](https://www.digwebinterface.com/?hostnames=dev.qubes-os.org&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the FQDN, then [check the IP's owner](https://ipinfo.io/104.18.228.122).
+
+```
+dev.qubes-os.org.	299	IN	A	104.18.228.122
+
+ASN AS13335 Cloudflare, Inc.
+Organization Cloudflare, Inc.
+Route 104.18.224.0/20
+```
 
 2) How to add your data
 

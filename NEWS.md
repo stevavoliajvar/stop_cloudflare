@@ -1,3 +1,29 @@
+*2019.03.03*
+
+```
+"I can't visit Army.mill and Archive Today with Cloudflare DNS."
+```
+
+https://twitter.com/wongmjane/status/1102446734993551360
+
+Let's test: https://danwin1210.me/url.php?id=39706
+
+```
+archive.today
+CloudFlare: (None)
+Google: A 46.17.42.43 (Russia, AS51659 LLC Baxet)
+```
+
+```
+archive.is
+CloudFlare: A 104.16.181.15 (NSA, AS13335 Cloudflare, Inc.)
+Google: A 46.17.42.43 (Russia, AS51659)
+```
+
+Why these results are completely different!?
+Try OpenNIC: https://www.opennic.org/
+
+
 *2019.03.02*
 
 "client was trying to make session requests to their API servers
