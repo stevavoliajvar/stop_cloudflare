@@ -7,7 +7,7 @@ format:
 	"[TITLE](https://full.link/blog.html)" by [Who](Link)
 
 Sort:
-	New article: top
+	Recent article: top
 
 Disqualify:
 	- Cloudflared website
@@ -23,9 +23,23 @@ Disqualify:
 
 "[Don’t Use Cloudflare Because You Impose This on People Who Least Want It](http://techrights.org/2019/02/17/the-cloudflare-trap/)" by [Dr. Roy Schestowitz](http://techrights.org/)
 
+"[Cloudflare: The bad, the worse and the ugly?](http://webschauder.de/cloudflare-the-bad-the-worse-and-the-ugly/)" by [Alle Beiträge](http://webschauder.de/author/jw/)
+
+"[Cloudflare IPFS experiment](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/cloudflare-IPFS-experiment.html)" by [Joe](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/index.html)
+
 "[Don't Trust CloudFlare](https://write.lain.haus/thufie/dont-trust-cloudflare)" by [@lunaterra@cyberia.social](https://cyberia.social/@lunaterra)
 
 "[Stay away from CloudFlare](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html)" by [Unix Sheikh](http://www.unixsheikh.com/)
+
+"[Support End-to-End Encryption on the Web](https://www.wordfence.com/blog/2017/03/support-end-to-end-encryption/)" by [Mark Maunder](https://www.wordfence.com/)
+
+"[Journal CloudFlare au milieu](https://linuxfr.org/users/thibg/journaux/cloudflare-au-milieu)" by [ThibG](https://linuxfr.org/)
+
+"[why you shouldn’t use Cloudflare](https://tech.tiq.cc/2016/01/why-you-shouldnt-use-cloudflare/)" by [tiq](https://tech.tiq.cc/)
+
+"[The CloudFlare MITM](https://web.archive.org/web/20160311163431/https://blog.paymium.com/2014/02/19/the-cloudflare-mitm/)" by [David FRANCOIS](https://blog.paymium.com/)
+
+"[Allergique à Cloudflare ? Voici comment vous soigner…](https://korben.info/cloudflare-mitm.html)" by [KORBEN](https://korben.info/)
 
 "[CloudFlare, We Have A Problem](http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/)" by [joepie91](http://cryto.net/~joepie91/)
 
@@ -46,3 +60,5 @@ Disqualify:
 "[Ditch Cloudflare - Broken HTTPS/MiTM](https://greysec.net/showthread.php?tid=1256)" by [NO-OP](https://greysec.net/member.php?action=profile&uid=47)
 
 "[How likely is it that CloudFlare is an NSA operation?](https://www.quora.com/How-likely-is-it-that-CloudFlare-is-an-NSA-operation/answer/Hamid-Sarfraz)" by quora
+
+"[cloudflare 是如何转发 HTTPS 流量的？](https://www.v2ex.com/t/406759)" by [feast](https://www.v2ex.com/member/feast)
