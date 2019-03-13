@@ -7,7 +7,7 @@ format:
 	"[TITLE](https://full.link/blog.html)" by [Who](Link)
 
 Sort:
-	New article: top
+	Recent article: top
 
 Disqualify:
 	- Cloudflared website
@@ -28,6 +28,8 @@ Disqualify:
 "[Don't Trust CloudFlare](https://write.lain.haus/thufie/dont-trust-cloudflare)" by [@lunaterra@cyberia.social](https://cyberia.social/@lunaterra)
 
 "[Stay away from CloudFlare](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html)" by [Unix Sheikh](http://www.unixsheikh.com/)
+
+"[Support End-to-End Encryption on the Web](https://www.wordfence.com/blog/2017/03/support-end-to-end-encryption/)" by [Mark Maunder](https://www.wordfence.com/)
 
 "[CloudFlare, We Have A Problem](http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/)" by [joepie91](http://cryto.net/~joepie91/)
 
