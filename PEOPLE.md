@@ -25,6 +25,8 @@ Disqualify:
 
 "[Cloudflare: The bad, the worse and the ugly?](http://webschauder.de/cloudflare-the-bad-the-worse-and-the-ugly/)" by [Alle Beiträge](http://webschauder.de/author/jw/)
 
+"[I don’t trust Cloudflare with IPFS](https://blog.kareldonk.com/i-dont-trust-cloudflare-with-ipfs/)" by [Karel Donk](https://blog.kareldonk.com/)
+
 "[Cloudflare IPFS experiment](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/cloudflare-IPFS-experiment.html)" by [Joe](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/index.html)
 
 "[Don't Trust CloudFlare](https://write.lain.haus/thufie/dont-trust-cloudflare)" by [@lunaterra@cyberia.social](https://cyberia.social/@lunaterra)
