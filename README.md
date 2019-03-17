@@ -18,9 +18,9 @@ And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users 
 
 And here you might think, "_I am not using Tor or VPN, why should I care?_".
 If you visit website which use Cloudflare, you are sharing your information not only to website owner _but also Cloudflare_.
-It is impossible to analyze without decrypting TLS traffic. Cloudflare knows all your data such as raw password.
+It is impossible to analyze without [decrypting TLS traffic](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389). Cloudflare knows all your data such as raw password.
 [Cloudbeed](https://en.wikipedia.org/wiki/Cloudbleed) can happen anytime.
-That's why we call Cloudflare "[MITM proxy](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389)".
+Do you really want to share your data with Cloudflare?
 
 
 ---
@@ -28,15 +28,15 @@ That's why we call Cloudflare "[MITM proxy](https://github.com/nym-zone/block_cl
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
 
-List
+Domain list
 * [Domains using Cloudflare](split/)
 * [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
 Information
-* [Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
-* [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351)
-* [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544)
-
+* [Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
+* [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
+* [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
+* [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
 Also see [Frequently Asked Questions](faq.md).
