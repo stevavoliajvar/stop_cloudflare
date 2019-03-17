@@ -20,7 +20,11 @@ And here you might think, "_I am not using Tor or VPN, why should I care?_".
 If you visit website which use Cloudflare, you are sharing your information not only to website owner _but also Cloudflare_.
 It is impossible to analyze without [decrypting TLS traffic](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389). Cloudflare knows all your data such as raw password.
 [Cloudbeed](https://en.wikipedia.org/wiki/Cloudbleed) can happen anytime.
-Do you really want to share your data with Cloudflare?
+Do you really want to share your data with Cloudflare, and also 3-letter agency?
+
+![](image/dhssaid.jpg)
+
+
 
 
 ---
