@@ -6,6 +6,7 @@ cloudflare-quic.com
 cloudflare.com
 cloudflare.com.ve
 cloudflare.net
+workers.dev
 cloudflareapi.com
 cloudflareapps.com
 cloudflarechallenge.com
