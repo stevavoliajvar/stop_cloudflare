@@ -16,6 +16,14 @@ And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users 
 
 ![](image/dnscensor.jpg)
 
+And here you might think, "_I am not using Tor or VPN, why should I care?_".
+If you visit website which use Cloudflare, you are sharing your information not only to website owner _but also Cloudflare_.
+It is impossible to analyze without decrypting TLS traffic. Cloudflare knows all your data such as raw password.
+[Cloudbeed](https://en.wikipedia.org/wiki/Cloudbleed) can happen anytime.
+That's why we call Cloudflare "[MITM proxy](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389)".
+
+
+---
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
