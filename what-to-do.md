@@ -166,9 +166,9 @@ Let's talk about _other software's privacy_...
 
 ![](image/firefoxdns.jpg)
 
-- If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).
+- If you would like to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start)
+![](image/opennic.jpg) or any of the non-Cloudflare DNS services [here](https://www.lifewire.com/free-and-public-dns-servers-2626062)
 
-![](image/opennic.jpg)
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
