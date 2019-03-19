@@ -167,8 +167,16 @@ Let's talk about _other software's privacy_...
 ![](image/firefoxdns.jpg)
 
 - If you would like to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start)
-![](image/opennic.jpg) or any of the non-Cloudflare DNS services [here](https://www.lifewire.com/free-and-public-dns-servers-2626062)
+![](image/opennic.jpg) or any of non-Cloudflare DNS services.
 
+- You can use Tor as DNS resolver. If you're not Tor expert, [ask question here](https://tor.stackexchange.com/).
+
+> **How?**
+> 1. Download [Tor](https://www.torproject.org/) and install it on your computer.
+> 2. Add this line to "torrc" file. [DNSPort description](https://www.torproject.org/docs/tor-manual.html.en).
+> DNSPort 127.0.0.1:53
+> 3. Restart Tor.
+> 4. Set your computer's DNS server to "127.0.0.1".
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
