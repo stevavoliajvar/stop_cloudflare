@@ -134,6 +134,8 @@ Let's talk about _other software's privacy_...
 
 - PaleMoon developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097).
 
+- Waterfox actively using [Cloudflare on their servers](https://www.digwebinterface.com/?hostnames=www.waterfoxproject.org&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=) and their software have [severe "phones home" problem](https://spyware.neocities.org/articles/waterfox.html).
+
 - Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html).
 
 - Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/).
