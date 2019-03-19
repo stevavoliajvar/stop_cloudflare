@@ -134,6 +134,8 @@ Let's talk about _other software's privacy_...
 
 - PaleMoon developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097).
 
+- Waterfox actively using [Cloudflare on their servers](https://www.digwebinterface.com/?hostnames=www.waterfoxproject.org&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=) and their software have [severe "phones home" problem](https://spyware.neocities.org/articles/waterfox.html).
+
 - Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html).
 
 - Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/).
@@ -167,8 +169,16 @@ Let's talk about _other software's privacy_...
 ![](image/firefoxdns.jpg)
 
 - If you would like to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start)
-![](image/opennic.jpg) or any of the non-Cloudflare DNS services [here](https://www.lifewire.com/free-and-public-dns-servers-2626062)
+![](image/opennic.jpg) or any of non-Cloudflare DNS services.
 
+- You can use Tor as DNS resolver. If you're not Tor expert, [ask question here](https://tor.stackexchange.com/).
+
+> **How?**
+> 1. Download [Tor](https://www.torproject.org/) and install it on your computer.
+> 2. Add this line to "torrc" file. [DNSPort description](https://www.torproject.org/docs/tor-manual.html.en).
+> DNSPort 127.0.0.1:53
+> 3. Restart Tor.
+> 4. Set your computer's DNS server to "127.0.0.1".
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 

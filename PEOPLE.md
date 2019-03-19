@@ -61,6 +61,8 @@ Disqualify:
 
 "[Ditch Cloudflare - Broken HTTPS/MiTM](https://greysec.net/showthread.php?tid=1256)" by [NO-OP](https://greysec.net/member.php?action=profile&uid=47)
 
+"[Cloudflare as a Security Risk - Support - Whonix Forum](http://forums.whonix.org/t/cloudflare-as-a-security-risk/2162)" by [entr0py](https://forums.whonix.org/u/entr0py)
+
 "[How likely is it that CloudFlare is an NSA operation?](https://www.quora.com/How-likely-is-it-that-CloudFlare-is-an-NSA-operation/answer/Hamid-Sarfraz)" by quora
 
 "[cloudflare 是如何转发 HTTPS 流量的？](https://www.v2ex.com/t/406759)" by [feast](https://www.v2ex.com/member/feast)
