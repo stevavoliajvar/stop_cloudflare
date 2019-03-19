@@ -61,3 +61,7 @@ sofia.ns.cloudflare.com
 terin.ns.cloudflare.com
 theo.ns.cloudflare.com
 zoe.ns.cloudflare.com
+kevin.ns.cloudflare.com
+megan.ns.cloudflare.com
+peyton.ns.cloudflare.com
+tegan.ns.cloudflare.com
