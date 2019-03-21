@@ -72,9 +72,9 @@ If Cloudflare leak your information, it's not our fault. [*]
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
 | [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink) | No     | **Yes**     |
 | [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/) | Searxes #Addon | [Link](https://searxes.danwin1210.me/) | **Yes**     | **Yes**     |
-| [TPRB](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php) | Sw | [Link](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/___go.php?go=sw) | **Yes**     | **Yes**     |
+| [TPRB](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
-| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [*] | Gokulakrishna Sudharsan | [Link](https://gitlab.com/gkrishnaks/cloud-firewall/) | Yes | No |
+| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [*] | Gokulakrishna Sudharsan | [Link](https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
 
 [*] Do not use it if you're using proxy/VPN/Tor because it has "[DNS leak](https://en.wikipedia.org/wiki/DNS_leak)".
 
@@ -97,6 +97,12 @@ If Cloudflare leak your information, it's not our fault. [*]
 - Using Cloudflare to proxy your "API service" will harm your customer. A customer called you and said "I can't use your API anymore", and you have no idea what is going on. Cloudflare can silently block your customer. [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
+
+- Do you need DNS server? Can't set up your own server? Then how about [Dyn.com](https://dyn.com/dns/), [Hurricane Electric Free DNS](https://dns.he.net/) or [this](https://freedns.afraid.org/)?
+
+- Looking for hosting service? "Free" only? Well, [how about this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
+
+- Are you using "cloudflare-ipfs.com"? Do you know [Cloudflare IPFS is bad](https://ieji.de/@crimeflare/101779952797884218)?
 
 - Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
 
