@@ -1,3 +1,13 @@
+*2019.03.13*
+
+@thexpaw@birdsite:
+```
+So why did I get that email anyway if I'm opted out of all email communication in the account settings?
+Which part of the privacy policy allows you to share data with marketing crap like trustpilot?
+```
+
+https://twitter.com/thexpaw/status/1108424723233419264
+
 *2019.03.12*
 
 ```Cool new tool : Cloud Firewall```
