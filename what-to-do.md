@@ -202,6 +202,8 @@ Let's talk about _other software's privacy_...
 
 - Let us know of any alternatives to help at least provide multiple layered defence against Cloudflare.
 
+- If you are a Cloudflare customer, set your privacy settings, and wait for them to violate them.  Then bring them under [anti-spam / privacy violation charges](https://twitter.com/thexpaw/status/1108424723233419264).
+
 - Try using [globalist](globalist.txt) to maintain this list.
 
 - If you are in the **United States of America** and the website in question is a bank or an accountant, try to bring legal pressure under the [Gramm–Leach–Bliley Act](https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act), or the [Americans with DIsabilities Act](https://www.ada.gov/cguide.htm) and report back to us how far you get. 
