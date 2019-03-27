@@ -152,7 +152,7 @@ Let's talk about _other software's privacy_...
 
 - Vivaldi [does not respect your privacy](https://spyware.neocities.org/articles/vivaldi.html).
 
-####### Therefore we recommend "Tor Browser" only. Nothing else.
+Therefore we recommend "Tor Browser" only. Nothing else.
 
 ------------
 
