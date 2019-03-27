@@ -1,4 +1,14 @@
-const apiurl = 'https://searxes.danwin1210.me/collab/open/ismitm.php';
+let apiurl = 'https://searxes.danwin1210.me/collab/open/ismitm.php';
+let TORapiurl = 'http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/ismitm.php';
+
+fetch('http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/hi.php', {
+	method: 'GET',
+	mode: 'cors'
+}).then(r => r.text()).then(r => {
+	if (r == 'hi') {
+		apiurl = TORapiurl;
+	}
+}).catch(() => {});
 
 function is_infected(f) {
 	return new Promise((g, b) => {
@@ -9,9 +19,7 @@ function is_infected(f) {
 				'Content-Type': 'application/x-www-form-urlencoded'
 			},
 			body: 'f=' + f
-		}).then(function (r) {
-			return r.json();
-		}).then(function (r) {
+		}).then(r => r.json()).then(r => {
 			if (r[0]) {
 				g(r[1]);
 			} else {
@@ -66,6 +74,4 @@ browser.storage.local.clear().then(() => {
 			}, () => {});
 		}
 	});
-}, (e) => {
-	console.log(e);
-});
+}, () => {});
