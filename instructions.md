@@ -39,7 +39,9 @@ Organization Cloudflare, Inc.
 Route 104.18.224.0/20
 ```
 
-2) How to add your data
+2) How to add your data (A or B)
+
+Type A: Push to NotABug.org
 
 1. Log in to *notabug.org*.
 2. Click "*Fork*" button. (top-left corner)
@@ -60,6 +62,11 @@ IMPORTANT: Please add only "Base Domain"
 
 ... to /split/cloudflare_e.txt
 ```
+
+Type B: Just search about it on Searxes
+
+Search the domain on Searxes, and it'll appear as "[MITM!] link name".
+
 
 3) If the website *no longer using Cloudflare*, *remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ex_cloudflare_users.txt)".
 
