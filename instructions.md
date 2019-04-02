@@ -22,6 +22,7 @@ There are many ways to detect it:
 
 - [These add-ons](what-to-do.md) will help your Cloudflare collection.
 - Visit a website via Tor or VPN, and you will be greeted by "Attention Required! Cloudflare" webpage.
+- Use "[Is MITM?](https://searxes.danwin1210.me/collab/sxes/tool_ismitm.php)" webpage.
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
@@ -38,6 +39,7 @@ ASN AS13335 Cloudflare, Inc.
 Organization Cloudflare, Inc.
 Route 104.18.224.0/20
 ```
+
 
 2) How to add your data (A or B)
 
