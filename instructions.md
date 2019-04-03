@@ -81,7 +81,9 @@ Search the domain on Searxes, and it'll appear as "[MITM!] link name".
 | -------- | -------- |
 | list_error403.txt     | Returns HTTP Error 403 (Forbidden)     |
 | list_customerror.txt     | Returns custom error message (not HTTP 403)     |
-| list_other.txt     | (not necessary?)    |
+| list_other.txt     | any other form of tor-hostility or mistreatment |
+| list_siteground.txt | siteground.com is a Tor-hostile hosting service that indiscriminately DoSes all Tor users with the collective judgement: "our system thinks you might be a robot!" Sometimes the site functions, and sometimes it times out, but the robot accusation is very common. |
+| list_formerly_tor-hostile.txt | was previously on one of the above tor-hostile lists |
 
 ```
 IMPORTANT: Please add only "Base Domain" or "(base domain)[space](comment here)"
