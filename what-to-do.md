@@ -228,6 +228,8 @@ Therefore we recommend "Tor Browser" only. Nothing else.
 
 - The [ITU](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf) suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
 
+- It's conceivable that the GNU GPL v4 could include a provision against storing source code behind such a service, requiring for all GPLv4 and later programs that at least the source code is accessible via a medium that does not discriminate against tor users (or any other class of users or something?)
+
 ------------
 
 ### Now, what did you do today?
