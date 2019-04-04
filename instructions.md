@@ -85,6 +85,8 @@ Search the domain on Searxes, and it'll appear as "[MITM!] link name".
 | list_siteground.txt | siteground.com is a Tor-hostile hosting service that indiscriminately DoSes all Tor users with the collective judgement: "our system thinks you might be a robot!" Sometimes the site functions, and sometimes it times out, but the robot accusation is very common. |
 | list_formerly_tor-hostile.txt | was previously on one of the above tor-hostile lists |
 
+![](image/siteground.jpg)
+
 ```
 IMPORTANT: Please add only "Base Domain" or "(base domain)[space](comment here)"
 
@@ -104,4 +106,4 @@ Add them to [/not_cloudflare/](not_cloudflare/) (formerly "*TorBlocker Hall of S
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
-[This add-ons](https://addons.mozilla.org/en-US/firefox/addon/which-website-rejected-me/) will help your list_error403 collection.
+[This add-on](https://addons.mozilla.org/en-US/firefox/addon/which-website-rejected-me/) will help your list_error403 collection.
