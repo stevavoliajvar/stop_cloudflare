@@ -18,5 +18,6 @@ cloudflarespeedtest.com
 cloudflaressl.com
 cloudflarestatus.com
 cloudflaresupport.com
+cloudflarewarp.com
 encryptedsni.com
 mycloudflare.com
