@@ -176,9 +176,21 @@ default 0;
 
 server {
 ...
-if ($iscf) {rewrite ^ https://example.com/cloudflare.html;}
+if ($iscf) {rewrite ^ https://example.com/cfwsorry.php;}
 ...
 }
+
+
+[ code cfwsorry.php ]
+
+<?php
+header('HTTP/1.1 406 Not Acceptable');
+echo <<<CLOUDFLARED
+Thank you for visiting ourwebsite.com!
+We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.
+Please read https://notabug.org/themusicgod1/cloudflare-tor/ for more information.
+CLOUDFLARED;
+die();
 ```
 
 - Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) or I2P insite if you believe in freedom and welcome anonymous users.
