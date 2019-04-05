@@ -10,6 +10,7 @@ workers.dev
 cloudflareapi.com
 cloudflareapps.com
 cloudflarechallenge.com
+cloudflareclient.com
 cloudflareenterprise.com
 cloudflarepreview.com
 cloudflareresolve.com
