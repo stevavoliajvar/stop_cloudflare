@@ -108,14 +108,49 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 - If you want to know more alternative solutions, take a look at [this blog's "Alternative solutions" section](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html).
 
+- Redirect or block "_Cloudflare Warp_" users from accessing your website. And provide a reason if you can.
+
+> Method A: Just block
+
+```
+server {
+...
+deny 173.245.48.0/20;
+deny 103.21.244.0/22;
+deny 103.22.200.0/22;
+deny 103.31.4.0/22;
+deny 141.101.64.0/18;
+deny 108.162.192.0/18;
+deny 190.93.240.0/20;
+deny 188.114.96.0/20;
+deny 197.234.240.0/22;
+deny 198.41.128.0/17;
+deny 162.158.0.0/15;
+deny 104.16.0.0/12;
+deny 172.64.0.0/13;
+deny 131.0.72.0/22;
+deny 2400:cb00::/32;
+deny 2606:4700::/32;
+deny 2803:f800::/32;
+deny 2405:b500::/32;
+deny 2405:8100::/32;
+deny 2a06:98c0::/29;
+deny 2c0f:f248::/32;
+...
+}
+```
+
+> Method B: Show warning message
+
+```
+writing now
+```
+
+
+
 - Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) or I2P insite if you believe in freedom and welcome anonymous users.
 
 - Ask for advice from other [Clearnet/Tor dual website operators](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor) and make anonymous friends! :)
-
-- Redirect or block "Cloudflare Warp" users from accessing your website. And provide a reason if you can.
-
-> **How?**
-> (writing)
 
 ------------
 
