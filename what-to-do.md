@@ -110,6 +110,8 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 - Redirect or block "_Cloudflare Warp_" users from accessing your website. And provide a reason if you can.
 
+> IP list is from "[Cloudflare’s current IP ranges](https://www.cloudflare.com/ips/)" webpage. They might lie, so check your server logs too.
+
 > Method A: Just block
 
 ```
