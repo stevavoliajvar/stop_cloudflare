@@ -72,7 +72,7 @@ If Cloudflare leak your information, it's not our fault. [*]
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
 | [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink) | No     | **Yes**     |
 | [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/) | Searxes #Addon | [Link](https://searxes.danwin1210.me/) | **Yes**     | **Yes**     |
-| [TPRB](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
+| [TPRB](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 | [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [*] | Gokulakrishna Sudharsan | [Link](https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
 
@@ -105,6 +105,93 @@ If Cloudflare leak your information, it's not our fault. [*]
 - Are you using "cloudflare-ipfs.com"? Do you know [Cloudflare IPFS is bad](https://ieji.de/@crimeflare/101779952797884218)?
 
 - Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
+
+- If you want to know more alternative solutions, take a look at [this blog's "Alternative solutions" section](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html).
+
+- Redirect or block "_Cloudflare Warp_" users from accessing your website. And provide a reason if you can.
+
+> IP list is from "[Cloudflare’s current IP ranges](https://www.cloudflare.com/ips/)" webpage. They might lie, so check your server logs too.
+
+> Method A: Just block
+
+```
+server {
+...
+deny 173.245.48.0/20;
+deny 103.21.244.0/22;
+deny 103.22.200.0/22;
+deny 103.31.4.0/22;
+deny 141.101.64.0/18;
+deny 108.162.192.0/18;
+deny 190.93.240.0/20;
+deny 188.114.96.0/20;
+deny 197.234.240.0/22;
+deny 198.41.128.0/17;
+deny 162.158.0.0/15;
+deny 104.16.0.0/12;
+deny 172.64.0.0/13;
+deny 131.0.72.0/22;
+deny 2400:cb00::/32;
+deny 2606:4700::/32;
+deny 2803:f800::/32;
+deny 2405:b500::/32;
+deny 2405:8100::/32;
+deny 2a06:98c0::/29;
+deny 2c0f:f248::/32;
+...
+}
+```
+
+> Method B: Redirect to warning page
+
+```
+http {
+...
+geo $iscf {
+default 0;
+173.245.48.0/20 1;
+103.21.244.0/22 1;
+103.22.200.0/22 1;
+103.31.4.0/22 1;
+141.101.64.0/18 1;
+108.162.192.0/18 1;
+190.93.240.0/20 1;
+188.114.96.0/20 1;
+197.234.240.0/22 1;
+198.41.128.0/17 1;
+162.158.0.0/15 1;
+104.16.0.0/12 1;
+172.64.0.0/13 1;
+131.0.72.0/22 1;
+2400:cb00::/32 1;
+2606:4700::/32 1;
+2803:f800::/32 1;
+2405:b500::/32 1;
+2405:8100::/32 1;
+2a06:98c0::/29 1;
+2c0f:f248::/32 1;
+}
+...
+}
+
+server {
+...
+if ($iscf) {rewrite ^ https://example.com/cfwsorry.php;}
+...
+}
+
+
+[ code cfwsorry.php ]
+
+<?php
+header('HTTP/1.1 406 Not Acceptable');
+echo <<<CLOUDFLARED
+Thank you for visiting ourwebsite.com!
+We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.
+Please read https://notabug.org/themusicgod1/cloudflare-tor/ for more information.
+CLOUDFLARED;
+die();
+```
 
 - Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) or I2P insite if you believe in freedom and welcome anonymous users.
 

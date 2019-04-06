@@ -10,6 +10,7 @@ workers.dev
 cloudflareapi.com
 cloudflareapps.com
 cloudflarechallenge.com
+cloudflareclient.com
 cloudflareenterprise.com
 cloudflarepreview.com
 cloudflareresolve.com
@@ -17,5 +18,6 @@ cloudflarespeedtest.com
 cloudflaressl.com
 cloudflarestatus.com
 cloudflaresupport.com
+cloudflarewarp.com
 encryptedsni.com
 mycloudflare.com
