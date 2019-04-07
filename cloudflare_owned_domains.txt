@@ -1,4 +1,5 @@
 brokendnssec.net
+betterinternet.com
 cloudflare-dns.com
 cloudflare-free.com
 cloudflare-ipfs.com
