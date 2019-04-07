@@ -27,8 +27,6 @@ Do you really want to share your data with Cloudflare, and also 3-letter agency?
 
 Cloudflare also offer FREE VPN service called "[Cloudflare Warp](https://blog.cloudflare.com/1111-warp-better-vpn/)". If you use it, all your smartphone connections are sent to Cloudflare servers. Cloudflare can know which website you've read, what comment you've posted, who you've talked to, etc. You are voluntary giving [all your information](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-478686469) to Cloudflare. If you think "_Are you joking? Cloudflare is secure._" then you need to learn how [VPN works](https://en.wikipedia.org/wiki/VPN).
 
-If you really need a VPN to bypass your country's firewall, use [Tor](https://www.torproject.org/), [VPN Gate](https://www.vpngate.net/en/), or [other servers](https://searxes.danwin1210.me/#!search=best VPN service).
-
 
 ### Cloudflare is a honeypot. Cloudflared websites are dangerous.
 
