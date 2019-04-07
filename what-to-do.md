@@ -180,15 +180,12 @@ if ($iscf) {rewrite ^ https://example.com/cfwsorry.php;}
 ...
 }
 
-
-[ code cfwsorry.php ]
-
 <?php
 header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
-Thank you for visiting ourwebsite.com!
-We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.
-Please read https://notabug.org/themusicgod1/cloudflare-tor/ for more information.
+Thank you for visiting ourwebsite.com!<br />
+We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
+Please read https://notabug.org/themusicgod1/cloudflare-tor/ for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -219,7 +216,7 @@ die();
 
 Let's talk about _other software's privacy_...
 
-- If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)". ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr).
+- If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)". ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in [many ways](https://spyware.neocities.org/articles/firefox.html).
 
 - Remember, Mozilla is [using Cloudflare service](https://www.robtex.com/dns-lookup/www.mozilla.org). They're also using [Cloudflare's DNS service on their product](https://www.theregister.co.uk/2018/03/21/mozilla_testing_dns_encryption/) D'oh!
 
