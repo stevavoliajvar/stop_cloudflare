@@ -24,15 +24,16 @@ Do you really want to share your data with Cloudflare, and also 3-letter agency?
 
 ![](image/dhssaid.jpg)
 
-
 Cloudflare also offer FREE VPN service called "[Cloudflare Warp](https://blog.cloudflare.com/1111-warp-better-vpn/)". If you use it, all your smartphone connections are sent to Cloudflare servers. Cloudflare can know which website you've read, what comment you've posted, who you've talked to, etc. You are voluntary giving [all your information](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-478686469) to Cloudflare. If you think "_Are you joking? Cloudflare is secure._" then you need to learn how [VPN works](https://en.wikipedia.org/wiki/VPN).
 
 ![](image/prismattnsa.jpg)
 
-You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) scandal. It is true that AT&T lets NSA to [copy all internet data](https://www.cnet.com/news/at-t-lets-nsa-hide-and-surveil-in-plain-sight-the-intercept-reports/) for surveillance. Let's say you're working at the NSA, and you want every citizen's internet profile. You know most of them are blindly trust Cloudflare and using it to proxy personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping. You also know they use Cloudflare's DNS service and VPN service for "yay! Faster!" internet experience. You want their data. [What will you do](https://www.reddit.com/r/privacy/comments/1gb0pa/how_prism_actually_works_1520_att_fiber_optic/)?
+You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) scandal. It is true that AT&T lets NSA to [copy all internet data](https://www.cnet.com/news/at-t-lets-nsa-hide-and-surveil-in-plain-sight-the-intercept-reports/) for surveillance. Let's say you're working at the NSA, and you want _every citizen's internet profile_. You know most of them are blindly trust Cloudflare and using it to proxy personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping. You also know they use Cloudflare's DNS service and VPN service for "yay! Faster!" internet experience. Combining them with IP address and RAY-ID is enough to build internet user's online profile. You want their data. [What will you do](https://www.reddit.com/r/privacy/comments/1gb0pa/how_prism_actually_works_1520_att_fiber_optic/)?
 
 
-### Cloudflare is a honeypot. Cloudflared websites are dangerous.
+### Cloudflare is a honeypot.
+### Do not use Cloudflare.
+### Decentralize the internet.
 
 ---
 
