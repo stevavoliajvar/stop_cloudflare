@@ -51,6 +51,8 @@ Disqualify:
 
 "[iSucker: Big Brother Internet Culture](https://exiledonline.com/isucker-big-brother-internet-culture/)" by [The Exiled](https://exiledonline.com/)
 
+"[Growing Cloudflare Menace](http://imhhge4lijqv7jzf.onion/warning.html)"
+
 ------
 
 ######  Forum / Wiki
@@ -68,3 +70,7 @@ Disqualify:
 "[How likely is it that CloudFlare is an NSA operation?](https://www.quora.com/How-likely-is-it-that-CloudFlare-is-an-NSA-operation/answer/Hamid-Sarfraz)" by quora
 
 "[cloudflare 是如何转发 HTTPS 流量的？](https://www.v2ex.com/t/406759)" by [feast](https://www.v2ex.com/member/feast)
+
+"[CloudFlare – Sipuliwiki 3](http://nla423n3gyyunhci.onion/index.php?title=CloudFlare)"
+
+"[fuckcloudflare/cloudflare-tor](http://volagitvnzf3o56b.onion/cgit/fuckcloudflare/cloudflare-tor/)"
