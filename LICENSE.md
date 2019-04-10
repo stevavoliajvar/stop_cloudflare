@@ -10,4 +10,4 @@
 This repository, cloudflare-tor, is in the PUBLIC DOMAIN (CC0).  
 It was created anonymously, in public, for the use of the world to resist [Cloudflare](https://cloudflare.com/).  
   
-Contributors who have anonymously contributed (including in CryptoParty) have since come forward to give this project their blessing.  
+Contributors who have anonymously contributed (including in [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)) have since come forward to give this project their blessing.  
