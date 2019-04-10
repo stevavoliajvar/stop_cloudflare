@@ -53,7 +53,9 @@ Disqualify:
 
 ------
 
-######  Forum
+######  Forum / Wiki
+
+"[Anonym im Internet - Inhaltsverzeichnis](https://wiki.kairaven.de/open/anon/netzwerk/anet)" by [Kairaven](https://hp.kairaven.de)
 
 "[Issues with corporate censorship and mass surveillance](https://www.torproject.org/projects/tor/ticket/18361)" by [Jacob Appelbaum](https://twitter.com/ioerror)
 
