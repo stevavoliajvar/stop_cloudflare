@@ -50,6 +50,7 @@ Information
 * [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
 * [Cloudflare's Advertisement is just wrong](https://notabug.org/themusicgod1/cloudflare-tor/issues/123)
+* [Akamai said 0.2% of Tor exit nodes had malicious requests, yet CloudFlare claims 94%](https://twitter.com/musalbas/status/717316725973389313) ([mirror](https://archive.is/1HkGl))
 
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
