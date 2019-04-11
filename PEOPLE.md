@@ -2,6 +2,8 @@
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
 
+"You shouldn't use it if you value visitor's privacy." -- [Searxes](https://searxes.danwin1210.me/)
+
 ```
 format:
 	Not Twitter, Toot
@@ -17,6 +19,8 @@ Disqualify:
 	- Cloudflare employee
 	- Twitter/Mastodon: less than 3 sentences (short text)
 ```
+
+###### Can't find your URL? Don't be shy, notify us.
 
 ------
 
@@ -86,7 +90,49 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare DNS is flaking out ugh" by @[sleepingkyoto](https://twitter.com/sleepingkyoto/status/1115014195286646784)
 
+"They want to be a single point of failure once again and they've already failed once" by @[wombatush](https://twitter.com/wombatush/status/1114464442794643461)
+
+"This special treatment is inexcusable" by @[saleemrash1d](https://twitter.com/saleemrash1d/status/1114289465760075776)
+
+"You are KILLING the #internet and aiding #surveillance agenda of #GAFAM and others" by @[Dr. Roy](https://twitter.com/schestowitz/status/1067299259593175040)
+
+"The log file from your iOS app shows that you do track personal information" by @[holydevil](https://twitter.com/holydevil/status/1112769739045158912)
+
+"Which part of the privacy policy allows you to share data with marketing crap" by @[thexpaw](https://twitter.com/thexpaw/status/1108424723233419264)
+
+"Can you explain why I am blocked from accessing your site?" by @[Susan_Larson_TN](https://twitter.com/Susan_Larson_TN/status/1110207775311912966)
+
+"Did my questions and comments hit a little too close to home so you BLOCKED ME?" by @[phyzonloop](https://twitter.com/phyzonloop/status/1109133085336047617)
+
+"Why is your site blocking me?" by @[flarn2006](https://twitter.com/flarn2006/status/1107837140359094273)
+
+"It's pretty bad as half the internet is behind Cloudflare." by @[Skyfusion89](https://twitter.com/Skyfusion89/status/1101600562355859456)
+
+"Cloudflare has me blocked." by @[JacobyDave](https://twitter.com/JacobyDave/status/1095411772851474434)
+
+"People really ought to stop using/trusting cloudflare. it's a disgusting centralized morally compromised CDN." by @[drwdal](https://twitter.com/drwdal/status/1113171715234902018)
+
+"Please stop using Cloudflare's CDN. They blocked my IP" by @[actual_mishaor](https://twitter.com/actual_mishaor/status/1112285872311934976)
+
+"Cloudflare is a threat to the internet, and makes it harder for visitors of your website to protect their right to privacy." by @[Mr. Jeff](https://twitter.com/jeffcliff1/status/1105832648096862208)
+
+"WTF! Just stop! Patreon Cloudflare and many others..." by @[umurgdk](https://twitter.com/umurgdk/status/1113323739221962752)
+
+"I could not access the email because of cloudflare." by @[DouglasLindquis](https://twitter.com/DouglasLindquis/status/1115990146011344896)
+
+"I have tried but API cannot be used because of Cloudflare" by @[miningpoolstats](https://twitter.com/miningpoolstats/status/1113810320710098944)
+
+"Akamai states that 0.2% of Tor exit nodes had malicious requests, yet CloudFlare claims 94%" by @[musalbas](https://twitter.com/musalbas/status/717316725973389313)
+
+"I'm starting to think that #CloudFlare is post-irony with their non-functional or just broken captchas" by @[ioerror](https://twitter.com/ioerror/status/715168927639343109)
+
+"It gets even better. SOLVE ALL THE CAPTCHAS" by @[metabubble](https://twitter.com/metabubble/status/715206027793338368)
+
+"CloudFlare is gathering the web and centralizes it, I don't see any good aspect in this" by @[fuolpit](https://twitter.com/fuolpit/status/715942023564550144)
+
+"At work, a very large client had major issues due to cloudflare misconfig. Don't use CloudFlare." by @[Dr. Roy](https://twitter.com/schestowitz/status/1036861493155962881)
 
 ------
 
