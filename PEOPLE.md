@@ -216,6 +216,10 @@ Disqualify:
 
 "Why don't you just commit to only using Tor Browser for all of next week and see what it's like for yourself?" by @[hdevalence](https://twitter.com/hdevalence/status/698967506057347072)
 
+"Every time I have to do an image Captcha it's a dead giveaway that Cloudflare services are used." by @[StateExempt](https://twitter.com/StateExempt/status/1111613302914908160)
+
+"I just encountered a site with a fake #Cloudfail #CAPTCHA dialog to trick people reflexively clicking on it." by @[Nin_99](https://twitter.com/Nin_99/status/1112174288323383299)
+
 
 ------
 
