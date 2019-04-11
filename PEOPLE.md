@@ -148,4 +148,8 @@ Disqualify:
 
 ######  Mastodon
 
-(N/A)
+"#Cloudflare #surveillance marketed as "fast"" by @[Dr. Roy](https://pleroma.site/objects/a24125f1-c3c3-4138-ad22-1fb9327b80c8)
+
+"I wonder if the implied subtext is that YOU ARE THE FOOL for using these services. :-) " by @[MateJ](https://social.matej-lach.me/@MatejLach/101851464970639410)
+
+"I dream of blocking #Cloudflare and #ReCaptcha" by @[Chuculate](https://niu.moe/@Chuculate/101834414084670347)
