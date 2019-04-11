@@ -12,7 +12,7 @@ Sort:
 Disqualify:
 	- Cloudflared website
 	- Cloudflare employee
-	- Twitter/Mastodon: too short text
+	- Twitter/Mastodon: less than 3 sentences (short text)
 ```
 
 ------
@@ -78,3 +78,15 @@ Disqualify:
 "[CloudFlare – Sipuliwiki 3](http://nla423n3gyyunhci.onion/index.php?title=CloudFlare)"
 
 "[fuckcloudflare/cloudflare-tor](http://volagitvnzf3o56b.onion/cgit/fuckcloudflare/cloudflare-tor/)"
+
+------
+
+###### Twitter (aka "Birdsite")
+
+
+
+------
+
+######  Mastodon
+
+(N/A)
