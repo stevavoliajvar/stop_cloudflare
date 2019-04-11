@@ -21,6 +21,8 @@ Disqualify:
 
 (Just don't add Medium.com articles. It's cloudflared. It doesn't matter he/she write great article)
 
+"[I don’t trust Cloudflare’s 1.1.1.1 App and Warp VPN](https://blog.kareldonk.com/i-dont-trust-cloudflares-1-1-1-1-app-and-warp-vpn/)" by [Karel Donk](https://blog.kareldonk.com/)
+
 "[Don’t Use Cloudflare Because You Impose This on People Who Least Want It](http://techrights.org/2019/02/17/the-cloudflare-trap/)" by [Dr. Roy Schestowitz](http://techrights.org/)
 
 "[Cloudflare: The bad, the worse and the ugly?](http://webschauder.de/cloudflare-the-bad-the-worse-and-the-ugly/)" by [Alle Beiträge](http://webschauder.de/author/jw/)
