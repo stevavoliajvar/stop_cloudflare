@@ -4,7 +4,10 @@
 
 ```
 format:
-	"[TITLE](https://full.link/blog.html)" by [Who](Link)
+	Not Twitter, Toot
+	> "[TITLE](https://full.link/blog.html)" by [Who](Link)
+	Twitter, Toot
+	 > "[SHORT TEXT]" by @[Who](Link)
 
 Sort:
 	Recent article: top
