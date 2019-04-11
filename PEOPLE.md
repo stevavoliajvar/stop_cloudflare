@@ -90,6 +90,12 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Not just you. CloudFlare got interrupted a few times today." by @[guyothersome](https://twitter.com/guyothersome/status/1116471262132436994)
+
+"1.1.1.1 prevents some apps from working, in particular I have problems connecting with the app" by @[SCRWD](https://twitter.com/SCRWD/status/1116291854759354371)
+
+"First, you create a problem. Then, you pretend to solve that problem." by @[switch_d](https://twitter.com/switch_d/status/1116039082977533952)
+
 "Cloudflare DNS is flaking out ugh" by @[sleepingkyoto](https://twitter.com/sleepingkyoto/status/1115014195286646784)
 
 "Tell eastdakota it's not nice to block me. He said in his YouTube interviews that #censorship is bad." by @[phyzonloop](https://twitter.com/phyzonloop/status/1067177577519898626)
