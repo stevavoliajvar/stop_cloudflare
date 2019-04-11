@@ -2,9 +2,14 @@
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
 
+"You shouldn't use it if you value visitor's privacy." -- [Searxes](https://searxes.danwin1210.me/)
+
 ```
 format:
-	"[TITLE](https://full.link/blog.html)" by [Who](Link)
+	Not Twitter, Toot
+	> "[TITLE](https://full.link/blog.html)" by [Who](Link)
+	Twitter, Toot
+	 > "[SHORT TEXT]" by @[Who](Link)
 
 Sort:
 	Recent article: top
@@ -15,11 +20,15 @@ Disqualify:
 	- Twitter/Mastodon: too short text
 ```
 
+###### Can't find your URL? Don't be shy, notify us.
+
 ------
 
 ######  Blog
 
 (Just don't add Medium.com articles. It's cloudflared. It doesn't matter he/she write great article)
+
+"[I don’t trust Cloudflare’s 1.1.1.1 App and Warp VPN](https://blog.kareldonk.com/i-dont-trust-cloudflares-1-1-1-1-app-and-warp-vpn/)" by [Karel Donk](https://blog.kareldonk.com/)
 
 "[Don’t Use Cloudflare Because You Impose This on People Who Least Want It](http://techrights.org/2019/02/17/the-cloudflare-trap/)" by [Dr. Roy Schestowitz](http://techrights.org/)
 
@@ -71,6 +80,76 @@ Disqualify:
 
 "[cloudflare 是如何转发 HTTPS 流量的？](https://www.v2ex.com/t/406759)" by [feast](https://www.v2ex.com/member/feast)
 
+"[Cloudflare – The Asocial](https://theasocial.github.io/articles/internet/cloudflare.html)" by [ASocial](https://theasocial.github.io/)
+
 "[CloudFlare – Sipuliwiki 3](http://nla423n3gyyunhci.onion/index.php?title=CloudFlare)"
 
 "[fuckcloudflare/cloudflare-tor](http://volagitvnzf3o56b.onion/cgit/fuckcloudflare/cloudflare-tor/)"
+
+------
+
+###### Twitter (aka "Birdsite")
+
+"Cloudflare DNS is flaking out ugh" by @[sleepingkyoto](https://twitter.com/sleepingkyoto/status/1115014195286646784)
+
+"Tell eastdakota it's not nice to block me. He said in his YouTube interviews that #censorship is bad." by @[phyzonloop](https://twitter.com/phyzonloop/status/1067177577519898626)
+
+"They want to be a single point of failure once again and they've already failed once" by @[wombatush](https://twitter.com/wombatush/status/1114464442794643461)
+
+"This special treatment is inexcusable" by @[saleemrash1d](https://twitter.com/saleemrash1d/status/1114289465760075776)
+
+"You are KILLING the #internet and aiding #surveillance agenda of #GAFAM and others" by @[Dr. Roy](https://twitter.com/schestowitz/status/1067299259593175040)
+
+"The log file from your iOS app shows that you do track personal information" by @[holydevil](https://twitter.com/holydevil/status/1112769739045158912)
+
+"Which part of the privacy policy allows you to share data with marketing crap" by @[thexpaw](https://twitter.com/thexpaw/status/1108424723233419264)
+
+"Can you explain why I am blocked from accessing your site?" by @[Susan_Larson_TN](https://twitter.com/Susan_Larson_TN/status/1110207775311912966)
+
+"Did my questions and comments hit a little too close to home so you BLOCKED ME?" by @[phyzonloop](https://twitter.com/phyzonloop/status/1109133085336047617)
+
+"Why is your site blocking me?" by @[flarn2006](https://twitter.com/flarn2006/status/1107837140359094273)
+
+"It's pretty bad as half the internet is behind Cloudflare." by @[Skyfusion89](https://twitter.com/Skyfusion89/status/1101600562355859456)
+
+"Cloudflare has me blocked." by @[JacobyDave](https://twitter.com/JacobyDave/status/1095411772851474434)
+
+"People really ought to stop using/trusting cloudflare. it's a disgusting centralized morally compromised CDN." by @[drwdal](https://twitter.com/drwdal/status/1113171715234902018)
+
+"Please stop using Cloudflare's CDN. They blocked my IP" by @[actual_mishaor](https://twitter.com/actual_mishaor/status/1112285872311934976)
+
+"Cloudflare is a threat to the internet, and makes it harder for visitors of your website to protect their right to privacy." by @[Mr. Jeff](https://twitter.com/jeffcliff1/status/1105832648096862208)
+
+"WTF! Just stop! Patreon Cloudflare and many others..." by @[umurgdk](https://twitter.com/umurgdk/status/1113323739221962752)
+
+"I could not access the email because of cloudflare." by @[DouglasLindquis](https://twitter.com/DouglasLindquis/status/1115990146011344896)
+
+"I have tried but API cannot be used because of Cloudflare" by @[miningpoolstats](https://twitter.com/miningpoolstats/status/1113810320710098944)
+
+"Akamai states that 0.2% of Tor exit nodes had malicious requests, yet CloudFlare claims 94%" by @[musalbas](https://twitter.com/musalbas/status/717316725973389313)
+
+"I'm starting to think that #CloudFlare is post-irony with their non-functional or just broken captchas" by @[ioerror](https://twitter.com/ioerror/status/715168927639343109)
+
+"It gets even better. SOLVE ALL THE CAPTCHAS" by @[metabubble](https://twitter.com/metabubble/status/715206027793338368)
+
+"CloudFlare is gathering the web and centralizes it, I don't see any good aspect in this" by @[fuolpit](https://twitter.com/fuolpit/status/715942023564550144)
+
+"At work, a very large client had major issues due to cloudflare misconfig. Don't use CloudFlare." by @[Dr. Roy](https://twitter.com/schestowitz/status/1036861493155962881)
+
+"Fuck me CloudFlare Captchas are just impossibly difficult. Yet to succeed tonight … are you trying to block people as well" by @[badlydrawnrob](https://twitter.com/badlydrawnrob/status/602964063308636160)
+
+"So you intermittently block me from viewing sites on your platform, and refuse to even address my questions about it." by @[2012_04_28](https://twitter.com/2012_04_28/status/314180120518750209)
+
+"Go away cloudflare, don't block me from my own website!" by @[liamgooding](https://twitter.com/liamgooding/status/115736397645746176)
+
+"You successful manage to block me, and fail to display why" by @[kaareal](https://twitter.com/kaareal/status/42885552793595904)
+
+------
+
+######  Mastodon
+
+"#Cloudflare #surveillance marketed as "fast"" by @[Dr. Roy](https://pleroma.site/objects/a24125f1-c3c3-4138-ad22-1fb9327b80c8)
+
+"I wonder if the implied subtext is that YOU ARE THE FOOL for using these services. :-) " by @[MateJ](https://social.matej-lach.me/@MatejLach/101851464970639410)
+
+"I dream of blocking #Cloudflare and #ReCaptcha" by @[Chuculate](https://niu.moe/@Chuculate/101834414084670347)
