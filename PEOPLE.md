@@ -180,6 +180,43 @@ Disqualify:
 
 "Solving captcha puzzles for Google every single time due to your Cloudflare protection just ruins the whole experience." by @[chowdhuryrahul](https://twitter.com/chowdhuryrahul/status/1115132766603972609)
 
+"I am unable to login to android app, tried using credentials, reinstalling app, nothing worked." by @[prasadthombre](https://twitter.com/prasadthombre/status/1112950318537625600)
+
+"Cloudflare has traditionally thrown CAPTCHAs aggressively enough at VPN users to degrade the browsing experience." by @[mbarnath](https://twitter.com/mbarnath/status/1112969137389617152)
+
+"Very few websites aren't using it meaning the majority of warp traffic is easily decrypted." by @[nathanielrsuchy](https://twitter.com/nathanielrsuchy/status/1113120866672525314)
+
+"Cloudflare captcha is annoying af" by @[YourAnonNews](https://twitter.com/YourAnonNews/status/762340768845598720)
+
+"What’s up with the forced #CloudFlare captcha page today?" by @[Aybara](https://twitter.com/Aybara/status/1113462534172946432)
+
+"CAPTCHA protest outside CloudFlare rightscon party!" by @[ageis](https://twitter.com/ageis/status/715353166666027008)
+
+"The truth behind Google Captcha, Analytics, CloudFlare is Covert Espionage and Mass Surveillance." by @[Casey_Comendant](https://twitter.com/Casey_Comendant/status/1116417797007921152)
+
+"Tor CloudFlare Captcha #TellASadStoryin3Words" by @[YrB1rd](https://twitter.com/YrB1rd/status/834539628791209984)
+
+"CloudFlare is such trash, is there anything comparable that DOESN'T suck???" by @[radix42](https://twitter.com/radix42/status/834543824047190016)
+
+"Your blog post wasn't worth the cloudflare captcha i solved to read it" by @[agentdero](https://twitter.com/agentdero/status/707293903418822656)
+
+"Cloudflare's aggressive use of google captcha basically means the trade-off of using a vpn is training google's self-driving cars." by @[frnsys](https://twitter.com/frnsys/status/1072504815152959488)
+
+"cfc;dr = cloudflare captcha; didn't read." by @[mrphs](https://twitter.com/mrphs/status/710867596959227904)
+
+"Each time I fill out a Cloudflare captcha I grow slightly more suspicious that I may in fact be a robot..." by @[projectgus](https://twitter.com/projectgus/status/979152953297715202)
+
+"Select grass, copy-paste text, click "not a robot", select storefronts. Not getting better." by @[shiromarieke](https://twitter.com/shiromarieke/status/785557109962317825)
+
+"Getting the Cloudflare captcha for everything today!" by @[TheHodge](https://twitter.com/TheHodge/status/1009091924639322114)
+
+"Tor user in Iran can't read content behind CloudFlare" by @[attractr](https://twitter.com/attractr/status/717790178786586625)
+
+"I gave up after the text captcha step." by @[jordansissel](https://twitter.com/jordansissel/status/692508531455582209)
+
+"Why don't you just commit to only using Tor Browser for all of next week and see what it's like for yourself?" by @[hdevalence](https://twitter.com/hdevalence/status/698967506057347072)
+
+
 ------
 
 ######  Mastodon
