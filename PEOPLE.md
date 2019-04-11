@@ -144,6 +144,36 @@ Disqualify:
 
 "You successful manage to block me, and fail to display why" by @[kaareal](https://twitter.com/kaareal/status/42885552793595904)
 
+"Requested a refund. You guys refuse to do so. Trying to call goes to voice mail and support by email give me lame excuses." by @[thenitai](https://twitter.com/thenitai/status/1116433441598451712)
+
+"genau von denen bin ich wenig begeistert..." by @[r00tthebox](https://twitter.com/r00tthebox/status/1115627988924751873)
+
+"Ist übrigens die IP-Adresse von Cloudflare für die Homepage der JusoSchweiz, die ihr das blockiert." by @[sacovo](https://twitter.com/sacovo/status/1093541275326910464)
+
+"Dass CloudFlare selbst TOR blockiert, ist denen wohl nicht aufgefallen." by @[kamikazow](https://twitter.com/kamikazow/status/570943630539689984)
+
+"Cloudflare blockiert TOR-Exit-Nodes." by @[schild202](https://twitter.com/schild202/status/557770010450726912)
+
+"Sites on Cloudflare blocked me upon browsing. Please fix." by @[lino_almojuela](https://twitter.com/lino_almojuela/status/742721270861553665)
+
+"Achievement Unlocked! Cloudflare has blocked me. Oh, whatever shall I do???" by @[thisisgab2](https://twitter.com/thisisgab2/status/1062518618087481345)
+
+"It's blocked by Cloudflare for me" by @[motters](https://twitter.com/motters/status/723902453939339264)
+
+"My access to all cloudflare websites seem to be blocked." by @[MrDHat](https://twitter.com/MrDHat/status/980777153116569600)
+
+"CloudFlare doesn’t like me… I have been ‘blocked’ by CloudFlare…" by @[bryanbrake](https://twitter.com/bryanbrake/status/706958626154393601)
+
+"CloudFlare would not and won’t let me connect to & open that link." by @[ZEPHYoRUS](https://twitter.com/ZEPHYoRUS/status/1085240244872597504)
+
+"Torをホワイトリストに追加していてもブロックしてくるCloudflare" by @[CheenaBlog](https://twitter.com/CheenaBlog/status/1042413641449005056)
+
+"CloudFlareのCDNをウイルスバスターがブロックしちゃって見れない" by @[_iro](https://twitter.com/_iro/status/734991531724017664)
+
+"Error 520と表示されてページが見れない。" by @[halpas_blog](https://twitter.com/halpas_blog/status/843401976280829953)
+
+"ここ数日ずっとCloudFlareのerror 522で見れない。" by @[usunekoserv_pub](https://twitter.com/usunekoserv_pub/status/689752546991181824)
+
 ------
 
 ######  Mastodon
