@@ -17,7 +17,7 @@ Sort:
 Disqualify:
 	- Cloudflared website
 	- Cloudflare employee
-	- Twitter/Mastodon: less than 3 sentences (short text)
+	- Twitter/Mastodon: too short text
 ```
 
 ###### Can't find your URL? Don't be shy, notify us.
@@ -133,6 +133,14 @@ Disqualify:
 "CloudFlare is gathering the web and centralizes it, I don't see any good aspect in this" by @[fuolpit](https://twitter.com/fuolpit/status/715942023564550144)
 
 "At work, a very large client had major issues due to cloudflare misconfig. Don't use CloudFlare." by @[Dr. Roy](https://twitter.com/schestowitz/status/1036861493155962881)
+
+"Fuck me CloudFlare Captchas are just impossibly difficult. Yet to succeed tonight … are you trying to block people as well" by @[badlydrawnrob](https://twitter.com/badlydrawnrob/status/602964063308636160)
+
+"So you intermittently block me from viewing sites on your platform, and refuse to even address my questions about it." by @[2012_04_28](https://twitter.com/2012_04_28/status/314180120518750209)
+
+"Go away cloudflare, don't block me from my own website!" by @[liamgooding](https://twitter.com/liamgooding/status/115736397645746176)
+
+"You successful manage to block me, and fail to display why" by @[kaareal](https://twitter.com/kaareal/status/42885552793595904)
 
 ------
 
