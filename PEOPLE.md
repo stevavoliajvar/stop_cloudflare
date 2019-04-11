@@ -2,7 +2,7 @@
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
 
-"You shouldn't use it if you value visitor's privacy." -- [Searxes](https://searxes.danwin1210.me/)
+"_You shouldn't use it if you value visitor's privacy._" -- [Searxes](https://searxes.danwin1210.me/)
 
 ```
 format:
@@ -173,6 +173,12 @@ Disqualify:
 "Error 520と表示されてページが見れない。" by @[halpas_blog](https://twitter.com/halpas_blog/status/843401976280829953)
 
 "ここ数日ずっとCloudFlareのerror 522で見れない。" by @[usunekoserv_pub](https://twitter.com/usunekoserv_pub/status/689752546991181824)
+
+"IT Cell found a way to secure their website: they banned French IPs" by @[fs0c131y](https://twitter.com/fs0c131y/status/1110989388295467008)
+
+"Cloudflare thinks I'm a robot and is blocking the most annoying preflight requests without letting me do a captcha." by @[enjalot](https://twitter.com/enjalot/status/1107085704591347712)
+
+"Solving captcha puzzles for Google every single time due to your Cloudflare protection just ruins the whole experience." by @[chowdhuryrahul](https://twitter.com/chowdhuryrahul/status/1115132766603972609)
 
 ------
 
