@@ -92,6 +92,8 @@ Disqualify:
 
 "Cloudflare DNS is flaking out ugh" by @[sleepingkyoto](https://twitter.com/sleepingkyoto/status/1115014195286646784)
 
+"Tell @eastdakota it's not nice to block me. He said in his YouTube interviews that #censorship is bad." by @[phyzonloop](https://twitter.com/phyzonloop/status/1067177577519898626)
+
 "They want to be a single point of failure once again and they've already failed once" by @[wombatush](https://twitter.com/wombatush/status/1114464442794643461)
 
 "This special treatment is inexcusable" by @[saleemrash1d](https://twitter.com/saleemrash1d/status/1114289465760075776)
