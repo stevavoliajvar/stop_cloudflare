@@ -71,7 +71,7 @@ Disqualify:
 
 "[cloudflare 是如何转发 HTTPS 流量的？](https://www.v2ex.com/t/406759)" by [feast](https://www.v2ex.com/member/feast)
 
-"[Cloudflare – The Asocial](http://asocialfz7ncw5ui.onion/articles/internet/cloudflare.html)"
+"[Cloudflare – The Asocial](https://theasocial.github.io/articles/internet/cloudflare.html)" by [ASocial](https://theasocial.github.io/)
 
 "[CloudFlare – Sipuliwiki 3](http://nla423n3gyyunhci.onion/index.php?title=CloudFlare)"
 
