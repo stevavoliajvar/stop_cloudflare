@@ -90,6 +90,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"If you use 1.1.1.1, cloudflare will be able to snoop on what you do on the Internet." by @[neirbowj](https://twitter.com/neirbowj/status/1116545712668516352)
+
 "Not just you. CloudFlare got interrupted a few times today." by @[guyothersome](https://twitter.com/guyothersome/status/1116471262132436994)
 
 "1.1.1.1 prevents some apps from working, in particular I have problems connecting with the app" by @[SCRWD](https://twitter.com/SCRWD/status/1116291854759354371)
