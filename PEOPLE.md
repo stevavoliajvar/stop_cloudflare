@@ -94,6 +94,8 @@ Disqualify:
 
 "I don’t want to select pictures with a car plate to read a fuckin article on web" by @[umurgdk](https://twitter.com/umurgdk/status/1116649566416162818)
 
+"クラウドフレアっていうやつにアクセス拒否くらってる模様" by @[notmoneybutrust](https://twitter.com/notmoneybutrust/status/1114273590944210944)
+
 "If you use 1.1.1.1, cloudflare will be able to snoop on what you do on the Internet." by @[neirbowj](https://twitter.com/neirbowj/status/1116545712668516352)
 
 "It breaks a lot of things for me, like images stop loading on Twitter or some apps straight up don’t work." by @[ScottishBakery](https://twitter.com/ScottishBakery/status/1116673794855272449)
