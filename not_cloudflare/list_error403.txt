@@ -1,8 +1,10 @@
 abebooks.com
+ajc.com
 asus.com
 bitvps.com
 caot.ca
 captaintrain.com
+catbox.moe
 dluat.com
 expo2015.org
 forum.pfsense.org
@@ -12,11 +14,15 @@ hubpages.com
 intra.ruc.dk
 irs.gov
 lastword.at
+libertymutual.com
 logon.e-boks.dk
 moodle.ruc.dk
 no2nsa.x10.bz
 republicbuzz.com
+safeco.com
 signon.ruc.dk
 singpolyma.net
 stadssb.ruc.dk
 study.com
+theverge.com
+wayfair.com
