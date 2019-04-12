@@ -90,6 +90,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I don’t want to select pictures with a car plate to read a fuckin article on web" by @[umurgdk](https://twitter.com/umurgdk/status/1116649566416162818)
+
 "If you use 1.1.1.1, cloudflare will be able to snoop on what you do on the Internet." by @[neirbowj](https://twitter.com/neirbowj/status/1116545712668516352)
 
 "Not just you. CloudFlare got interrupted a few times today." by @[guyothersome](https://twitter.com/guyothersome/status/1116471262132436994)
