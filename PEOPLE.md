@@ -228,6 +228,25 @@ Disqualify:
 
 "I just encountered a site with a fake #Cloudfail #CAPTCHA dialog to trick people reflexively clicking on it." by @[Nin_99](https://twitter.com/Nin_99/status/1112174288323383299)
 
+"You're making the use of your site pretty difficult for #TOR users." by @[Sebastian Bürgel](https://twitter.com/SCBuergel/status/1114492792875700225)
+
+"I dislike Cloudflare they always block my VPN which I use to keep ads and trackers at bay" by @[nonesuchzach](https://twitter.com/nonesuchzach/status/782238922009042948)
+
+"Ugh, anoying services. You block me because i use a VPN, WHY?" by @[_ruis_](https://twitter.com/_ruis_/status/827105441264054272)
+
+"You now seemingly have every single IP block for PIA's VPN service in the US at least temporarily blocked via Cloudflare" by @[theonlymattlach](https://twitter.com/theonlymattlach/status/892201755035013121)
+
+"Plz stop using Cloudflare.They block VPN and proxies ment to enhance our privacy." by @[claw137](https://twitter.com/claw137/status/892397825245536257)
+
+"Your cloudflare-hosted site blocks my VPN so I can't even buy your VPN while using a competitor." by @[focusaurus](https://twitter.com/focusaurus/status/942968457909456898)
+
+"Most use Cloudflare+CAPTCHAs to filter." by @[r0h1n](https://twitter.com/r0h1n/status/778788564519845888)
+
+"TorGuard uses CloudFlare They are #antiprivacy and block #VPN users!" by @[SPC_Bitcoin](https://twitter.com/SPC_Bitcoin/status/702699563342106625)
+
+"One large company (CloudFlare) deciding who can visit what." by @[OhNoItsFusl](https://twitter.com/OhNoItsFusl/status/680144362773319681)
+
+"So CloudFlare you block my surf because I'm behind a vpn protection?" by @[manuzful](https://twitter.com/manuzful/status/677474770867351553)
 
 ------
 
