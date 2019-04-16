@@ -92,7 +92,7 @@ Disqualify:
 
 "GOT FLAGGED FROM CLOUDFLARE FOR PLAYING/STREAMING VRChat SO NO STREAM TODAY" by @[odomfire](https://twitter.com/odomfire/status/1118263523002519553)
 
-"ISPs don't sell customer DNS data. @Cloudflare is fearmongering in an effort to garner DNS traffic to spy on and sell its VPN" by @[brettglass](https://twitter.com/brettglass/status/1118202225715752960)
+"ISPs don't sell customer DNS data. Cloudflare is fearmongering in an effort to garner DNS traffic to spy on and sell its VPN" by @[brettglass](https://twitter.com/brettglass/status/1118202225715752960)
 
 "You're lying about your paid product, too. VPNs don't protect privacy, because their exit nodes are easy for governments to monitor." by @[brettglass](https://twitter.com/brettglass/status/1118271101665255432)
 
@@ -107,6 +107,8 @@ Disqualify:
 "Cloudflare's WAF blocking Googlebot. Is this accurate? Even this morning I woke up and noticed another page dropped" by @[madhacks](https://twitter.com/madhacks/status/1114577907114856448)
 
 "You have Cloudflare on your website and you're blocking access from entire countries?" by @[dec23k](https://twitter.com/dec23k/status/1111961153742213121)
+
+"hey Cloudflare, why do you suck so much? you've blocked my ability to use streamlabs while streaming." by @[Sam41gaming](https://twitter.com/Sam41gaming/status/1101413577796153344)
 
 "What about stop using stupid Cloudflare!" by @[x61sh](https://twitter.com/x61sh/status/1116808798897868800)
 
