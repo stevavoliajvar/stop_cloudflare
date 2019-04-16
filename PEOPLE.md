@@ -90,6 +90,14 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"ISPs don't sell customer DNS data. @Cloudflare is fearmongering in an effort to garner DNS traffic to spy on and sell its VPN" by @[brettglass](https://twitter.com/brettglass/status/1118202225715752960)
+
+"You're lying about your paid product, too. VPNs don't protect privacy, because their exit nodes are easy for governments to monitor." by @[brettglass](https://twitter.com/brettglass/status/1118271101665255432)
+
+"can you unflag my ip please -.- its actually stoping me from doing anything" by @[churchillvr](https://twitter.com/churchillvr/status/1118164231860432896)
+
+"So much for transparency. If they have nothing to hide, why block me?" by @[phyzonloop](https://twitter.com/phyzonloop/status/1118229040777826305)
+
 "What about stop using stupid Cloudflare!" by @[x61sh](https://twitter.com/x61sh/status/1116808798897868800)
 
 "I don’t want to select pictures with a car plate to read a fuckin article on web" by @[umurgdk](https://twitter.com/umurgdk/status/1116649566416162818)
