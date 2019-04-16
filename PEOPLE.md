@@ -92,6 +92,8 @@ Disqualify:
 
 "GOT FLAGGED FROM CLOUDFLARE FOR PLAYING/STREAMING VRChat SO NO STREAM TODAY" by @[odomfire](https://twitter.com/odomfire/status/1118263523002519553)
 
+"How do I fix the cloudfare from popping up. This has made it Impossible for me to even stream." by @[RealTypey](https://twitter.com/RealTypey/status/1118272161607749632)
+
 "ISPs don't sell customer DNS data. Cloudflare is fearmongering in an effort to garner DNS traffic to spy on and sell its VPN" by @[brettglass](https://twitter.com/brettglass/status/1118202225715752960)
 
 "You're lying about your paid product, too. VPNs don't protect privacy, because their exit nodes are easy for governments to monitor." by @[brettglass](https://twitter.com/brettglass/status/1118271101665255432)
