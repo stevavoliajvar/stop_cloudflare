@@ -100,6 +100,14 @@ Disqualify:
 
 "So much for transparency. If they have nothing to hide, why block me?" by @[phyzonloop](https://twitter.com/phyzonloop/status/1118229040777826305)
 
+"Seems like your Cloudflare waf rule is blocking me!" by @[JobinNixHive](https://twitter.com/JobinNixHive/status/1118242827731914754)
+
+"Your Cloudflare config is being screwy & blocking my wife’s IP (which has been the same IP for over a year) which is screwing up her stream." by @[alexanderhanff](https://twitter.com/alexanderhanff/status/1115660493669191680)
+
+"Cloudflare's WAF blocking Googlebot. Is this accurate? Even this morning I woke up and noticed another page dropped" by @[madhacks](https://twitter.com/madhacks/status/1114577907114856448)
+
+"You have Cloudflare on your website and you're blocking access from entire countries?" by @[dec23k](https://twitter.com/dec23k/status/1111961153742213121)
+
 "What about stop using stupid Cloudflare!" by @[x61sh](https://twitter.com/x61sh/status/1116808798897868800)
 
 "I don’t want to select pictures with a car plate to read a fuckin article on web" by @[umurgdk](https://twitter.com/umurgdk/status/1116649566416162818)
