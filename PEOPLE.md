@@ -92,6 +92,16 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"People are being blacklisted by cloudflare, and the fact that it's literally all down to the vrc devs, this will end with a lawsuit" by @[Retr0Fighter](https://twitter.com/Retr0Fighter/status/1118487667094765569)
+
+"This little VRChat bug is banning people from actual millions of websites with very few convenient fixes." by @[RiDakuYazumi](https://twitter.com/RiDakuYazumi/status/1118514780652879872)
+
+"DO NOT GO ON THE VRCHAT WEBSITE THEY WILL ALSO BLOCK YOUR IP" by @[ECW117](https://twitter.com/ECW117/status/1118477598202507265)
+
+"Im so damn annoyed with this Cloudflare stuff" by @[styloVR](https://twitter.com/styloVR/status/1118545393158119425)
+
+"Gonna quit VRChat for a bit to avoid a cloudflare ban. This isn't gonna end pretty for the dev team at all." by @[iamblssm](https://twitter.com/iamblssm/status/1118621746326675457)
+
 "Cloudflare like to act as champions of free speech, but as soon as protections for free speech disappear, they all but rolled over and censored that speech." by @[ThisIsMissEm](https://twitter.com/ThisIsMissEm/status/1118390074557775872)
 
 "I am stuck at an infinite loading screen trying to load the game. This has also caused my IP to be flagged by Cloudflare" by @[Etna_AD](https://twitter.com/Etna_AD/status/1118393520077901824)
