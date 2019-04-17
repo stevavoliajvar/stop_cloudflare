@@ -104,7 +104,7 @@ Disqualify:
 
 "You're lying about your paid product, too. VPNs don't protect privacy, because their exit nodes are easy for governments to monitor." by @[brettglass](https://twitter.com/brettglass/status/1118271101665255432)
 
-"can you unflag my ip please -.- its actually stoping me from doing anything" by @[churchillvr](https://twitter.com/churchillvr/status/1118164231860432896)
+"can you unflag my ip please. its actually stoping me from doing anything" by @[churchillvr](https://twitter.com/churchillvr/status/1118164231860432896)
 
 "So much for transparency. If they have nothing to hide, why block me?" by @[phyzonloop](https://twitter.com/phyzonloop/status/1118229040777826305)
 
