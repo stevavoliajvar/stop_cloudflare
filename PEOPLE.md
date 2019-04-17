@@ -92,6 +92,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare like to act as champions of free speech, but as soon as protections for free speech disappear, they all but rolled over and censored that speech." by @[ThisIsMissEm](https://twitter.com/ThisIsMissEm/status/1118390074557775872)
+
+"I am stuck at an infinite loading screen trying to load the game. This has also caused my IP to be flagged by Cloudflare" by @[Etna_AD](https://twitter.com/Etna_AD/status/1118393520077901824)
+
 "GOT FLAGGED FROM CLOUDFLARE FOR PLAYING/STREAMING VRChat SO NO STREAM TODAY" by @[odomfire](https://twitter.com/odomfire/status/1118263523002519553)
 
 "How do I fix the cloudfare from popping up. This has made it Impossible for me to even stream." by @[RealTypey](https://twitter.com/RealTypey/status/1118272161607749632)
