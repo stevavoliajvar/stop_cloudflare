@@ -44,6 +44,8 @@ Disqualify:
 
 "[Support End-to-End Encryption on the Web](https://www.wordfence.com/blog/2017/03/support-end-to-end-encryption/)" by [Mark Maunder](https://www.wordfence.com/)
 
+"[MITM-as-a-Service: The Threat Surface We Didn’t Know We Had](http://daveshackleford.com/?p=1134)" by [Shack](twitter.com/daveshackleford/)
+
 "[Journal CloudFlare au milieu](https://linuxfr.org/users/thibg/journaux/cloudflare-au-milieu)" by [ThibG](https://linuxfr.org/)
 
 "[why you shouldn’t use Cloudflare](https://tech.tiq.cc/2016/01/why-you-shouldnt-use-cloudflare/)" by [tiq](https://tech.tiq.cc/)
@@ -89,6 +91,42 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"People are being blacklisted by cloudflare, and the fact that it's literally all down to the vrc devs, this will end with a lawsuit" by @[Retr0Fighter](https://twitter.com/Retr0Fighter/status/1118487667094765569)
+
+"This little VRChat bug is banning people from actual millions of websites with very few convenient fixes." by @[RiDakuYazumi](https://twitter.com/RiDakuYazumi/status/1118514780652879872)
+
+"DO NOT GO ON THE VRCHAT WEBSITE THEY WILL ALSO BLOCK YOUR IP" by @[ECW117](https://twitter.com/ECW117/status/1118477598202507265)
+
+"Im so damn annoyed with this Cloudflare stuff" by @[styloVR](https://twitter.com/styloVR/status/1118545393158119425)
+
+"Gonna quit VRChat for a bit to avoid a cloudflare ban. This isn't gonna end pretty for the dev team at all." by @[iamblssm](https://twitter.com/iamblssm/status/1118621746326675457)
+
+"Cloudflare like to act as champions of free speech, but as soon as protections for free speech disappear, they all but rolled over and censored that speech." by @[ThisIsMissEm](https://twitter.com/ThisIsMissEm/status/1118390074557775872)
+
+"I am stuck at an infinite loading screen trying to load the game. This has also caused my IP to be flagged by Cloudflare" by @[Etna_AD](https://twitter.com/Etna_AD/status/1118393520077901824)
+
+"GOT FLAGGED FROM CLOUDFLARE FOR PLAYING/STREAMING VRChat SO NO STREAM TODAY" by @[odomfire](https://twitter.com/odomfire/status/1118263523002519553)
+
+"How do I fix the cloudfare from popping up. This has made it Impossible for me to even stream." by @[RealTypey](https://twitter.com/RealTypey/status/1118272161607749632)
+
+"ISPs don't sell customer DNS data. Cloudflare is fearmongering in an effort to garner DNS traffic to spy on and sell its VPN" by @[brettglass](https://twitter.com/brettglass/status/1118202225715752960)
+
+"You're lying about your paid product, too. VPNs don't protect privacy, because their exit nodes are easy for governments to monitor." by @[brettglass](https://twitter.com/brettglass/status/1118271101665255432)
+
+"can you unflag my ip please. its actually stoping me from doing anything" by @[churchillvr](https://twitter.com/churchillvr/status/1118164231860432896)
+
+"So much for transparency. If they have nothing to hide, why block me?" by @[phyzonloop](https://twitter.com/phyzonloop/status/1118229040777826305)
+
+"Seems like your Cloudflare waf rule is blocking me!" by @[JobinNixHive](https://twitter.com/JobinNixHive/status/1118242827731914754)
+
+"Your Cloudflare config is being screwy & blocking my wife’s IP (which has been the same IP for over a year) which is screwing up her stream." by @[alexanderhanff](https://twitter.com/alexanderhanff/status/1115660493669191680)
+
+"Cloudflare's WAF blocking Googlebot. Is this accurate? Even this morning I woke up and noticed another page dropped" by @[madhacks](https://twitter.com/madhacks/status/1114577907114856448)
+
+"You have Cloudflare on your website and you're blocking access from entire countries?" by @[dec23k](https://twitter.com/dec23k/status/1111961153742213121)
+
+"hey Cloudflare, why do you suck so much? you've blocked my ability to use streamlabs while streaming." by @[Sam41gaming](https://twitter.com/Sam41gaming/status/1101413577796153344)
 
 "What about stop using stupid Cloudflare!" by @[x61sh](https://twitter.com/x61sh/status/1116808798897868800)
 
