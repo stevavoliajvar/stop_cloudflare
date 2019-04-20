@@ -92,6 +92,26 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"My IP was blocked by Cloudflare because I can't access a variety of websites without the CAPTCHA page showing up. I also can't play RuneLiteClient anymore." by @[MohamedMounib3](https://twitter.com/MohamedMounib3/status/1119654593867075586)
+
+"Hey ProtonVPN some of your servers in PT are blocked by cloudflare" by @[brecke](https://twitter.com/brecke/status/1118896499121897474)
+
+"Your support of Cloudflare's spyware and lies demonstrates that, again, you're either misguided or malevolent." by @[brettglass](https://twitter.com/brettglass/status/1119720600363261953)
+
+"It wants to be a 'man in the middle' between you and the Internet, and between Web sites and the Internet." by @[brettglass](https://twitter.com/brettglass/status/1119721137263534081)
+
+"I don't know why I was banned from access government website." by @[abidavid1199](https://twitter.com/abidavid1199/status/1119734124821057536)
+
+"You've officially banned my country via CloudFlare's firewall. I honestly, sincerely hope your company goes bankrupt because this is pure bs." by @[ii0wii](https://twitter.com/ii0wii/status/1119520320703143941)
+
+"I had a friend who got banned by cloudflare" by @[WhisperMute](https://twitter.com/WhisperMute/status/1118946685324070914)
+
+"Hey guess what! i got ip banned by Cloudflare Woohoo!" by @[cearealkillas](https://twitter.com/cearealkillas/status/1118626896143511552)
+
+"vrchat fucked up and ended up having bunch people banned from cloudflare so no one could login i cant even watch anime" by @[LoliGoddess_VR](https://twitter.com/LoliGoddess_VR/status/1118424623392202752)
+
+"Imagine being so incompetent at networking that you get your users flagged for spam from cloudflare, you guys are a joke" by @[SilverTheFlat](https://twitter.com/SilverTheFlat/status/1118203335973244934)
+
 "People are being blacklisted by cloudflare, and the fact that it's literally all down to the vrc devs, this will end with a lawsuit" by @[Retr0Fighter](https://twitter.com/Retr0Fighter/status/1118487667094765569)
 
 "This little VRChat bug is banning people from actual millions of websites with very few convenient fixes." by @[RiDakuYazumi](https://twitter.com/RiDakuYazumi/status/1118514780652879872)
