@@ -112,6 +112,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I've always referred to CloudFlare as the 'global passive adversary ya momma warned you about'." by @[NetworkString](https://twitter.com/NetworkString/status/1120073249189179392)
+
+"They'll have to monetize data eventually, likely with an unnoticed tweak to their ToS." by @[phyzonloop](https://twitter.com/phyzonloop/status/1119703561087148032)
+
 "#Cloudflare increases its MITM'ing of the web with a free #VPN for mobile. Best to avoid IMO." by @[sweepthenet](https://twitter.com/sweepthenet/status/1113086245159256066)
 
 "Not playing the game is the best thing for anyone who wants to use the internet without being blocked." by @[Ares_CVR](https://twitter.com/Ares_CVR/status/1118429720515891200)
