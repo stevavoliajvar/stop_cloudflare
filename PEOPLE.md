@@ -112,6 +112,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Firefox — the browser written by those yoghurt-weaving privacy-loving hippies at Mozilla — propose to ship with #DNSoverHTTPS enabled by default with opt-opt." by @[AlecMuffett](https://twitter.com/AlecMuffett/status/1120081187995885568)
+
+"Mind telling me why everything your apart of thinks im a Robot?" by @[BrewManChew_](https://twitter.com/BrewManChew_/status/1118618347174858753)
+
 "I've always referred to CloudFlare as the 'global passive adversary ya momma warned you about'." by @[NetworkString](https://twitter.com/NetworkString/status/1120073249189179392)
 
 "They'll have to monetize data eventually, likely with an unnoticed tweak to their ToS." by @[phyzonloop](https://twitter.com/phyzonloop/status/1119703561087148032)
@@ -135,6 +139,8 @@ Disqualify:
 "Aren't Cloudflare themselves the biggest MITM around?" by @[auspicacious](https://twitter.com/auspicacious/status/1111500313259724803)
 
 "This Cloudflare error is popping up on a ton of sites all of a sudden. It doesn't seem to be malware or anything..." by @[Eltalite](https://twitter.com/Eltalite/status/1118011155509682176)
+
+"When #Cloudflare and #Google prevent you from watching a government's parliamentary debates. Does that count as interfering with democratic processes?" by @[STP_KITT](https://twitter.com/STP_KITT/status/1113442207619358720)
 
 "I MADE A BILL PAYMENT BUGGING IT OUT AND IT DOUBLE CHARGED ME CAUSE OF IT." by @[The_FoxGod](https://twitter.com/The_FoxGod/status/1118579858437578752)
 
@@ -161,6 +167,12 @@ Disqualify:
 "Imagine being so incompetent at networking that you get your users flagged for spam from cloudflare, you guys are a joke" by @[SilverTheFlat](https://twitter.com/SilverTheFlat/status/1118203335973244934)
 
 "Cloudflare is trash, has always been trash, and will continue to be trash." by @[justkelly_ok](https://twitter.com/justkelly_ok/status/897519768323768320)
+
+"Only started today. I am definitely not a robot!" by @[TheReal_blue166](https://twitter.com/TheReal_blue166/status/1087778908324458496)
+
+"Ridiculous CAPTCHA usage, Cloudflare Edition; 'not a robot' to refresh the API key for an account that's already locked behind credentials + MFA, and requiring the password." by @[sindarina](https://twitter.com/sindarina/status/1042085625032257536)
+
+"I spent my day telling Cloudflare every 5 min on every site that i'm not a robot." by @[morhac](https://twitter.com/morhac/status/1017409748482719744)
 
 "People are being blacklisted by cloudflare, and the fact that it's literally all down to the vrc devs, this will end with a lawsuit" by @[Retr0Fighter](https://twitter.com/Retr0Fighter/status/1118487667094765569)
 
