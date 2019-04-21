@@ -92,6 +92,20 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"#Cloudflare increases its MITM'ing of the web with a free #VPN for mobile. Best to avoid IMO." by @[sweepthenet](https://twitter.com/sweepthenet/status/1113086245159256066)
+
+"So, you are actually putting the trust in a commercial provider that is already in a position to find out very private details about you?" by @[h3artbl33d](https://twitter.com/h3artbl33d/status/1112763751353200642)
+
+"all web traffic is routed through CloudFlare - which is an adversary to privacy (MitM by design)" by @[h3artbl33d](https://twitter.com/h3artbl33d/status/1111982937707298816)
+
+"Aren't Cloudflare themselves the biggest MITM around?" by @[auspicacious](https://twitter.com/auspicacious/status/1111500313259724803)
+
+"This Cloudflare error is popping up on a ton of sites all of a sudden. It doesn't seem to be malware or anything..." by @[Eltalite](https://twitter.com/Eltalite/status/1118011155509682176)
+
+"I MADE A BILL PAYMENT BUGGING IT OUT AND IT DOUBLE CHARGED ME CAUSE OF IT." by @[The_FoxGod](https://twitter.com/The_FoxGod/status/1118579858437578752)
+
+"People find themselves met with a brick wall of endless captcha requests any time they try to go to a cloudflare-protected website, and they can't even submit a ticket to Cloudflare about it because they're protected, obviously. " by @[RiDakuYazumi](https://twitter.com/RiDakuYazumi/status/1118512842959929344)
+
 "My IP was blocked by Cloudflare because I can't access a variety of websites without the CAPTCHA page showing up. I also can't play RuneLiteClient anymore." by @[MohamedMounib3](https://twitter.com/MohamedMounib3/status/1119654593867075586)
 
 "Hey ProtonVPN some of your servers in PT are blocked by cloudflare" by @[brecke](https://twitter.com/brecke/status/1118896499121897474)
