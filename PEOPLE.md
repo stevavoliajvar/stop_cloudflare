@@ -342,6 +342,10 @@ Disqualify:
 
 ######  Mastodon
 
+"Cloudflare is among the worst organisations I've seen from a privacy and security standpoint, same as Google, Facebook, et al." by @[amolith](https://masto.nixnet.xyz/@amolith/101919558389894089)
+
+"I liked them until I saw #Cloudflare." by @[amolith](https://masto.nixnet.xyz/@amolith/101588202702599511)
+
 "#Cloudflare #surveillance marketed as "fast"" by @[Dr. Roy](https://pleroma.site/objects/a24125f1-c3c3-4138-ad22-1fb9327b80c8)
 
 "I wonder if the implied subtext is that YOU ARE THE FOOL for using these services. :-) " by @[MateJ](https://social.matej-lach.me/@MatejLach/101851464970639410)
