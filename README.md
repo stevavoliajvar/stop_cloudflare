@@ -37,6 +37,9 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 ### Decentralize the internet.
 
+
+!["Cloudflare is not an option."](image/cfisnotanoption.jpg)
+
 ---
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
