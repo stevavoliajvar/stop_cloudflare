@@ -24,6 +24,20 @@ Disqualify:
 
 ------
 
+######  News
+
+"[Zaradi hrošča iz Cloudflara več mesecev curljalo](https://slo-tech.com/novice/t694836/p5445996)" by [https://slo-tech.com/](Slo-Tech)
+
+"[Everything You Need to Know About Cloudbleed, the Latest Internet Security Disaster](https://gizmodo.com/everything-you-need-to-know-about-cloudbleed-the-lates-1792710616)" by [Adam Clark Estes](https://kinja.com/ace)
+
+"[Cloudflare helps serve up hate online, says ProPublica](https://www.cnet.com/news/cloudflare-helps-serve-up-hate-online-per-propublica/)" by [Dong Ngo](https://www.cnet.com/profiles/ngodong/)
+
+"[Web services firm CloudFlare accused by Anonymous of helping Isis](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)" by [Alex Hern](https://twitter.com/alexhern)
+
+"[Why Cloudflare Let an Extremist Stronghold Burn](https://www.wired.com/story/free-speech-issue-cloudflare/)" by [Steven Johnson](https://www.wired.com/author/steven-johnson/)
+
+------
+
 ######  Blog
 
 (Just don't add Medium.com articles. It's cloudflared. It doesn't matter he/she write great article)
@@ -135,6 +149,8 @@ Disqualify:
 "vrchat fucked up and ended up having bunch people banned from cloudflare so no one could login i cant even watch anime" by @[LoliGoddess_VR](https://twitter.com/LoliGoddess_VR/status/1118424623392202752)
 
 "Imagine being so incompetent at networking that you get your users flagged for spam from cloudflare, you guys are a joke" by @[SilverTheFlat](https://twitter.com/SilverTheFlat/status/1118203335973244934)
+
+"Cloudflare is trash, has always been trash, and will continue to be trash." by @[justkelly_ok](https://twitter.com/justkelly_ok/status/897519768323768320)
 
 "People are being blacklisted by cloudflare, and the fact that it's literally all down to the vrc devs, this will end with a lawsuit" by @[Retr0Fighter](https://twitter.com/Retr0Fighter/status/1118487667094765569)
 
