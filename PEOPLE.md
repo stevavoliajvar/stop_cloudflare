@@ -94,6 +94,12 @@ Disqualify:
 
 "#Cloudflare increases its MITM'ing of the web with a free #VPN for mobile. Best to avoid IMO." by @[sweepthenet](https://twitter.com/sweepthenet/status/1113086245159256066)
 
+"Not playing the game is the best thing for anyone who wants to use the internet without being blocked." by @[Ares_CVR](https://twitter.com/Ares_CVR/status/1118429720515891200)
+
+"VRChatのようなゲームはCAPTCHAフォームを受け取ることができないので、ブラックリストに捕まった人々は事実上ゲームをプレイすることができません。" by @[Meowkyway222](https://twitter.com/Meowkyway222/status/1118427292676476929)
+
+"今日からなんか各地のサイトでCloudflareとかいうページが表示されてcaptchaのチェックをやたら求められるようになった" by @[yagamo54](https://twitter.com/yagamo54/status/1118115780984311809)
+
 "So, you are actually putting the trust in a commercial provider that is already in a position to find out very private details about you?" by @[h3artbl33d](https://twitter.com/h3artbl33d/status/1112763751353200642)
 
 "all web traffic is routed through CloudFlare - which is an adversary to privacy (MitM by design)" by @[h3artbl33d](https://twitter.com/h3artbl33d/status/1111982937707298816)
