@@ -164,6 +164,8 @@ Disqualify:
 
 "People are being blacklisted by cloudflare, and the fact that it's literally all down to the vrc devs, this will end with a lawsuit" by @[Retr0Fighter](https://twitter.com/Retr0Fighter/status/1118487667094765569)
 
+"Company proclaims privacy, people question it, company silences those who question them." by @[User_r00](https://twitter.com/User_r00/status/1113553297527296000)
+
 "This little VRChat bug is banning people from actual millions of websites with very few convenient fixes." by @[RiDakuYazumi](https://twitter.com/RiDakuYazumi/status/1118514780652879872)
 
 "DO NOT GO ON THE VRCHAT WEBSITE THEY WILL ALSO BLOCK YOUR IP" by @[ECW117](https://twitter.com/ECW117/status/1118477598202507265)
@@ -193,6 +195,10 @@ Disqualify:
 "Your Cloudflare config is being screwy & blocking my wife’s IP (which has been the same IP for over a year) which is screwing up her stream." by @[alexanderhanff](https://twitter.com/alexanderhanff/status/1115660493669191680)
 
 "Cloudflare's WAF blocking Googlebot. Is this accurate? Even this morning I woke up and noticed another page dropped" by @[madhacks](https://twitter.com/madhacks/status/1114577907114856448)
+
+"I'm super tired of websites deciding what I want, or indeed who I am, based on my current geolocation." by @[storyneedle](https://twitter.com/storyneedle/status/1084821216597135360)
+
+"I’m fucking tired of cloudflare and their nonsense grandstanding about DoH." by @[JumpyBirdBird](https://twitter.com/JumpyBirdBird/status/1065536618667270145)
 
 "You have Cloudflare on your website and you're blocking access from entire countries?" by @[dec23k](https://twitter.com/dec23k/status/1111961153742213121)
 
