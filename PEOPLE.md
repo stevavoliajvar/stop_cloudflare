@@ -100,6 +100,10 @@ Disqualify:
 
 "今日からなんか各地のサイトでCloudflareとかいうページが表示されてcaptchaのチェックをやたら求められるようになった" by @[yagamo54](https://twitter.com/yagamo54/status/1118115780984311809)
 
+"クライアントがバグって意図せず攻撃者のような大量アクセスしてCloudflare大激怒でVRCユーザーのIPアドレスがブラックリスト入りってことかね" by @[bironist](https://twitter.com/bironist/status/1118474120960757760)
+
+"バグが原因でCloudflare使ってるWebサービス全体にIPブロックされてる" by @[JO2PEG](https://twitter.com/JO2PEG/status/1118506271651401728)
+
 "So, you are actually putting the trust in a commercial provider that is already in a position to find out very private details about you?" by @[h3artbl33d](https://twitter.com/h3artbl33d/status/1112763751353200642)
 
 "all web traffic is routed through CloudFlare - which is an adversary to privacy (MitM by design)" by @[h3artbl33d](https://twitter.com/h3artbl33d/status/1111982937707298816)
