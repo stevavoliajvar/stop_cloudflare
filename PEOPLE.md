@@ -112,8 +112,6 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
-"Firefox — the browser written by those yoghurt-weaving privacy-loving hippies at Mozilla — propose to ship with #DNSoverHTTPS enabled by default with opt-opt." by @[AlecMuffett](https://twitter.com/AlecMuffett/status/1120081187995885568)
-
 "Mind telling me why everything your apart of thinks im a Robot?" by @[BrewManChew_](https://twitter.com/BrewManChew_/status/1118618347174858753)
 
 "I've always referred to CloudFlare as the 'global passive adversary ya momma warned you about'." by @[NetworkString](https://twitter.com/NetworkString/status/1120073249189179392)
