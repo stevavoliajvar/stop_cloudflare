@@ -118,6 +118,8 @@ Disqualify:
 
 "the equivalent of a Flash-required splash page 20 years ago. It makes you look stupid." by @[skry](https://twitter.com/skry/status/1096832011631681537)
 
+"You say you're in IT but don't acknowledge the SPOF issue in cloudflare (right after privacy issues and Tor users problems to access your content)?" by @[Idfollowher](https://twitter.com/Idfollowher/status/1094339678516449282)
+
 "I can't even reach the "contact us' without cloudflare banning my IP because of 'rate limit'." by @[SirIsaacIn1905](https://twitter.com/SirIsaacIn1905/status/1091368707484311552)
 
 "Mind telling me why everything your apart of thinks im a Robot?" by @[BrewManChew_](https://twitter.com/BrewManChew_/status/1118618347174858753)
