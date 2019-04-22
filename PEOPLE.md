@@ -112,6 +112,14 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"IP's are being blacklisted and denied access to any site using Cloudflare." by @[purplepopoto](https://twitter.com/purplepopoto/status/1118415845296762880)
+
+"My IP got flagged for spam cause I tried logging into VRChat when they were having issues. Now I keep getting captchas for everything" by @[Fleurfurr](https://twitter.com/Fleurfurr/status/1118385992938020867)
+
+"the equivalent of a Flash-required splash page 20 years ago. It makes you look stupid." by @[skry](https://twitter.com/skry/status/1096832011631681537)
+
+"I can't even reach the "contact us' without cloudflare banning my IP because of 'rate limit'." by @[SirIsaacIn1905](https://twitter.com/SirIsaacIn1905/status/1091368707484311552)
+
 "Mind telling me why everything your apart of thinks im a Robot?" by @[BrewManChew_](https://twitter.com/BrewManChew_/status/1118618347174858753)
 
 "I've always referred to CloudFlare as the 'global passive adversary ya momma warned you about'." by @[NetworkString](https://twitter.com/NetworkString/status/1120073249189179392)
