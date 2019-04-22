@@ -174,6 +174,8 @@ Disqualify:
 
 "Cloudflare is trash, has always been trash, and will continue to be trash." by @[justkelly_ok](https://twitter.com/justkelly_ok/status/897519768323768320)
 
+"You probably got blacklisted by Cloudflare like a good amount of people" by @[Mertvyi_](https://twitter.com/Mertvyi_/status/1118550942394109957)
+
 "Only started today. I am definitely not a robot!" by @[TheReal_blue166](https://twitter.com/TheReal_blue166/status/1087778908324458496)
 
 "Ridiculous CAPTCHA usage, Cloudflare Edition; 'not a robot' to refresh the API key for an account that's already locked behind credentials + MFA, and requiring the password." by @[sindarina](https://twitter.com/sindarina/status/1042085625032257536)
