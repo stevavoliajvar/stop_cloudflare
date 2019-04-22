@@ -140,6 +140,18 @@ Disqualify:
 
 "バグが原因でCloudflare使ってるWebサービス全体にIPブロックされてる" by @[JO2PEG](https://twitter.com/JO2PEG/status/1118506271651401728)
 
+"Cloudflare run DoH and do Man-In-the-middle of the century" by @[FernandoGont](https://twitter.com/FernandoGont/status/1106469002807779330)
+
+"It's not a fully-encrypted experience. In fact, Cloudflare becomes, by definition, a Man In The Middle (MITM) -- and at mass scale!" by @[FernandoGont](https://twitter.com/FernandoGont/status/1077984986144354304)
+
+"I guess #cloudflare's business model is #spam (and man-in-the-middle attacks on #tls)" by @[christophe0o](https://twitter.com/christophe0o/status/1069295953478336517)
+
+"Our users are actually customers, and we look out for them and strive to satisfy them. Unlike the lying #Clownflare, which wants to be an MITM." by @[brettglass](https://twitter.com/brettglass/status/1118543682385399809)
+
+"You buy the "free" service with your sites traffic.a.k.a mitm the heck out of you." by @[cireumayn1](https://twitter.com/cireumayn1/status/1114673721355251712)
+
+"Why should we trust cloudflare to MITM all our traffic as a VPN when there are such bad security practices in place with existing products?" by @[GvilleComputer](https://twitter.com/GvilleComputer/status/1113046802566131713)
+
 "So, you are actually putting the trust in a commercial provider that is already in a position to find out very private details about you?" by @[h3artbl33d](https://twitter.com/h3artbl33d/status/1112763751353200642)
 
 "all web traffic is routed through CloudFlare - which is an adversary to privacy (MitM by design)" by @[h3artbl33d](https://twitter.com/h3artbl33d/status/1111982937707298816)
