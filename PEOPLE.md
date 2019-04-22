@@ -152,6 +152,8 @@ Disqualify:
 
 "People find themselves met with a brick wall of endless captcha requests any time they try to go to a cloudflare-protected website, and they can't even submit a ticket to Cloudflare about it because they're protected, obviously. " by @[RiDakuYazumi](https://twitter.com/RiDakuYazumi/status/1118512842959929344)
 
+"Blind people simply can't pass them. Your test is failing at telling humans & computers apart." by @[axelsimon](https://twitter.com/axelsimon/status/1094303636350529536)
+
 "My IP was blocked by Cloudflare because I can't access a variety of websites without the CAPTCHA page showing up. I also can't play RuneLiteClient anymore." by @[MohamedMounib3](https://twitter.com/MohamedMounib3/status/1119654593867075586)
 
 "Hey ProtonVPN some of your servers in PT are blocked by cloudflare" by @[brecke](https://twitter.com/brecke/status/1118896499121897474)
@@ -231,6 +233,8 @@ Disqualify:
 "クラウドフレアっていうやつにアクセス拒否くらってる模様" by @[notmoneybutrust](https://twitter.com/notmoneybutrust/status/1114273590944210944)
 
 "If you use 1.1.1.1, cloudflare will be able to snoop on what you do on the Internet." by @[neirbowj](https://twitter.com/neirbowj/status/1116545712668516352)
+
+" Cloudflare blocks a bunch of people without giving you any choice in the matter. If you're using cloudflare you are allowing them to censor who hits your site." by @[jeffcliff1](https://twitter.com/jeffcliff1/status/1108142374776176640)
 
 "It breaks a lot of things for me, like images stop loading on Twitter or some apps straight up don’t work." by @[ScottishBakery](https://twitter.com/ScottishBakery/status/1116673794855272449)
 
