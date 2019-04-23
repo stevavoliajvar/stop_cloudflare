@@ -112,6 +112,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloud flare you overdoing everything. Now i need to do a CAPTCHA for every page i visit. It surely changes how we use the web." by @[Kemboidickson](https://twitter.com/Kemboidickson/status/1115317470078930951)
+
 "IP's are being blacklisted and denied access to any site using Cloudflare." by @[purplepopoto](https://twitter.com/purplepopoto/status/1118415845296762880)
 
 "My IP got flagged for spam cause I tried logging into VRChat when they were having issues. Now I keep getting captchas for everything" by @[Fleurfurr](https://twitter.com/Fleurfurr/status/1118385992938020867)
@@ -235,6 +237,16 @@ Disqualify:
 "I'm super tired of websites deciding what I want, or indeed who I am, based on my current geolocation." by @[storyneedle](https://twitter.com/storyneedle/status/1084821216597135360)
 
 "I’m fucking tired of cloudflare and their nonsense grandstanding about DoH." by @[JumpyBirdBird](https://twitter.com/JumpyBirdBird/status/1065536618667270145)
+
+"i’m getting tired of cloud flare’s captcha on every single site" by @[riyadhalnur](https://twitter.com/riyadhalnur/status/729191160917319680)
+
+"Hate captcha. Hate Cloud Flare." by @[EconomicMayhem](https://twitter.com/EconomicMayhem/status/723348151181164544)
+
+"So nice of cloud flare to use a captcha provider that doesn’t appear to work inside China, thus completely blocking sites." by @[albertren](https://twitter.com/albertren/status/716233184833196032)
+
+"eww I got cloudflarecaptcha'd again… too lazy to search for a good pic tho, so I'll just pretend I didn't click link for once" by @[yuki_the_maven](https://twitter.com/yuki_the_maven/status/708468683430039552)
+
+"I'm having trouble getting to your site, everytime i try to get to it, cloud flare seems to block me" by @[slurpeerun](https://twitter.com/slurpeerun/status/1067652451270967296)
 
 "You have Cloudflare on your website and you're blocking access from entire countries?" by @[dec23k](https://twitter.com/dec23k/status/1111961153742213121)
 
