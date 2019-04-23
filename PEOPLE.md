@@ -142,6 +142,8 @@ Disqualify:
 
 "バグが原因でCloudflare使ってるWebサービス全体にIPブロックされてる" by @[JO2PEG](https://twitter.com/JO2PEG/status/1118506271651401728)
 
+"What’s going on with this cloud flare thing it’s locked me out of all website" by @[Xiverta](https://twitter.com/Xiverta/status/1118417249222529024)
+
 "Cloudflare run DoH and do Man-In-the-middle of the century" by @[FernandoGont](https://twitter.com/FernandoGont/status/1106469002807779330)
 
 "It's not a fully-encrypted experience. In fact, Cloudflare becomes, by definition, a Man In The Middle (MITM) -- and at mass scale!" by @[FernandoGont](https://twitter.com/FernandoGont/status/1077984986144354304)
