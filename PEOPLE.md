@@ -412,6 +412,20 @@ Disqualify:
 
 "Access denied. What have you done, the CloudFlare cyberpolice are now out to get me!" by @[nyarth](https://twitter.com/nyarth/status/287603063668228096)
 
+"You differentiate humans from bots." "Well fuck that." by @[magi093](https://twitter.com/magi093/status/1097480616050860032)
+
+"Does anyone know if Saudi Arabia likes to filter Cloudflare?" by @[ralphholz](https://twitter.com/ralphholz/status/859565090395144192)
+
+"Really wish you didn't block my IP with Cloud Flare. I'd join and support if I could." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/801186753746903041)
+
+"Link uses Cloud Flare to block IPs of those of us who browse anonymously" by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/568445705020420096)
+
+"Someone tell me how to bypass cloud flare so I can add..." by @[Shh_Its_Raghav](https://twitter.com/Shh_Its_Raghav/status/967888191201185793)
+
+"Today I learned that Cloudflare is doing more to censor the internet than the Great Firewall of China" by @[pabloduboue](https://twitter.com/pabloduboue/status/682394633641549829)
+
+"If you're a daily Tor user like me, you should get used to contacting the services you use and ask them to #DontBlockTor" by @[yawnbox](https://twitter.com/yawnbox/status/847182068853428225)
+
 ------
 
 ######  Mastodon
