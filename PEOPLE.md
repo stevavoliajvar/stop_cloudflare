@@ -112,6 +112,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Zero Cloudflare, our site scores a 98% on pagespeed.. Really cant see any benefit to using cloudflare at all" by @[WESHUK](https://twitter.com/WESHUK/status/1120817837499650048)
+
+"I read a description of CloudFlare as a "man-in-the-middle attack on the entire internet" and now I'm just a LIIIIIITLE bit conflicted." by @[ianbeck](https://twitter.com/ianbeck/status/1120814430239907840)
+
 "Cloud flare you overdoing everything. Now i need to do a CAPTCHA for every page i visit. It surely changes how we use the web." by @[Kemboidickson](https://twitter.com/Kemboidickson/status/1115317470078930951)
 
 "IP's are being blacklisted and denied access to any site using Cloudflare." by @[purplepopoto](https://twitter.com/purplepopoto/status/1118415845296762880)
@@ -153,6 +157,8 @@ Disqualify:
 "Our users are actually customers, and we look out for them and strive to satisfy them. Unlike the lying #Clownflare, which wants to be an MITM." by @[brettglass](https://twitter.com/brettglass/status/1118543682385399809)
 
 "You buy the "free" service with your sites traffic.a.k.a mitm the heck out of you." by @[cireumayn1](https://twitter.com/cireumayn1/status/1114673721355251712)
+
+"Who the hell is cloudflare and why do they block access" by @[TheCubanEdge](https://twitter.com/TheCubanEdge/status/1120513042704404480)
 
 "Why should we trust cloudflare to MITM all our traffic as a VPN when there are such bad security practices in place with existing products?" by @[GvilleComputer](https://twitter.com/GvilleComputer/status/1113046802566131713)
 
