@@ -1,4 +1,4 @@
-# Other Voice
+# Other Voices
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
 
