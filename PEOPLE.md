@@ -408,6 +408,10 @@ Disqualify:
 
 "So CloudFlare you block my surf because I'm behind a vpn protection?" by @[manuzful](https://twitter.com/manuzful/status/677474770867351553)
 
+"Never heard of cloudflare until network connectivity denied me" by @[1nzimande](https://twitter.com/1nzimande/status/690223994038030337)
+
+"Access denied. What have you done, the CloudFlare cyberpolice are now out to get me!" by @[nyarth](https://twitter.com/nyarth/status/287603063668228096)
+
 ------
 
 ######  Mastodon
