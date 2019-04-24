@@ -112,6 +112,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Mais comment osez-vous parler de "respect des données personnelles"? Votre site est bourré de traceur en tout genre! Pire vous routez vos utilisateurs via cloudflare aux USA!" by @[Armdias](https://twitter.com/Armdias/status/1120957817693847557)
+
 "Avoid and ask any website you use why they are using them and to stop ASAP." by @[larrybeck_](https://twitter.com/larrybeck_/status/1120840099112026112)
 
 "Zero Cloudflare, our site scores a 98% on pagespeed.. Really cant see any benefit to using cloudflare at all" by @[WESHUK](https://twitter.com/WESHUK/status/1120817837499650048)
