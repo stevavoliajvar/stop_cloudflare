@@ -112,6 +112,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Avoid and ask any website you use why they are using them and to stop ASAP." by @[larrybeck_](https://twitter.com/larrybeck_/status/1120840099112026112)
+
 "Zero Cloudflare, our site scores a 98% on pagespeed.. Really cant see any benefit to using cloudflare at all" by @[WESHUK](https://twitter.com/WESHUK/status/1120817837499650048)
 
 "I read a description of CloudFlare as a "man-in-the-middle attack on the entire internet" and now I'm just a LIIIIIITLE bit conflicted." by @[ianbeck](https://twitter.com/ianbeck/status/1120814430239907840)
@@ -259,6 +261,8 @@ Disqualify:
 "You have Cloudflare on your website and you're blocking access from entire countries?" by @[dec23k](https://twitter.com/dec23k/status/1111961153742213121)
 
 "hey Cloudflare, why do you suck so much? you've blocked my ability to use streamlabs while streaming." by @[Sam41gaming](https://twitter.com/Sam41gaming/status/1101413577796153344)
+
+"#Cloudflare Owns the encryption keys to the servers that collected the data from the 2018 voting machines." by @[MaggieMaeMooCow](https://twitter.com/MaggieMaeMooCow/status/1062775200192770048)
 
 "What about stop using stupid Cloudflare!" by @[x61sh](https://twitter.com/x61sh/status/1116808798897868800)
 
