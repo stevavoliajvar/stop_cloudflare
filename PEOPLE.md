@@ -168,6 +168,8 @@ Disqualify:
 
 "So, you are actually putting the trust in a commercial provider that is already in a position to find out very private details about you?" by @[h3artbl33d](https://twitter.com/h3artbl33d/status/1112763751353200642)
 
+"Cloudflare seems to be protecting it a bit too much" by @[spitf1r3](https://twitter.com/spitf1r3/status/1104908643017940992)
+
 "all web traffic is routed through CloudFlare - which is an adversary to privacy (MitM by design)" by @[h3artbl33d](https://twitter.com/h3artbl33d/status/1111982937707298816)
 
 "Aren't Cloudflare themselves the biggest MITM around?" by @[auspicacious](https://twitter.com/auspicacious/status/1111500313259724803)
@@ -241,6 +243,8 @@ Disqualify:
 "So much for transparency. If they have nothing to hide, why block me?" by @[phyzonloop](https://twitter.com/phyzonloop/status/1118229040777826305)
 
 "Seems like your Cloudflare waf rule is blocking me!" by @[JobinNixHive](https://twitter.com/JobinNixHive/status/1118242827731914754)
+
+"Tu veux nous informer d'un problème? Ok, mais donne tes données personnelles avant." by @[fladna9](https://twitter.com/fladna9/status/1037585196802101249)
 
 "Your Cloudflare config is being screwy & blocking my wife’s IP (which has been the same IP for over a year) which is screwing up her stream." by @[alexanderhanff](https://twitter.com/alexanderhanff/status/1115660493669191680)
 
