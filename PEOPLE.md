@@ -112,6 +112,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"RSS Feed is behind the Cloudflare DDoS protection. My RSS Reader is self hosted, so it is impossible for it to retrieve any feeds" by @[GarcaMan2](https://twitter.com/GarcaMan2/status/1121234101657321474)
+
 "Mais comment osez-vous parler de "respect des données personnelles"? Votre site est bourré de traceur en tout genre! Pire vous routez vos utilisateurs via cloudflare aux USA!" by @[Armdias](https://twitter.com/Armdias/status/1120957817693847557)
 
 "Avoid and ask any website you use why they are using them and to stop ASAP." by @[larrybeck_](https://twitter.com/larrybeck_/status/1120840099112026112)
