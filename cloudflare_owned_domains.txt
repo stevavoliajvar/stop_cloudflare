@@ -1,5 +1,5 @@
-brokendnssec.net
 betterinternet.com
+brokendnssec.net
 cloudflare-dns.com
 cloudflare-free.com
 cloudflare-ipfs.com
@@ -7,13 +7,14 @@ cloudflare-quic.com
 cloudflare.com
 cloudflare.com.ve
 cloudflare.net
-workers.dev
+cloudflareaccess.com
 cloudflareapi.com
 cloudflareapps.com
 cloudflarechallenge.com
 cloudflareclient.com
 cloudflareenterprise.com
 cloudflarepreview.com
+cloudflarepreviews.com
 cloudflareresolve.com
 cloudflarespeedtest.com
 cloudflaressl.com
@@ -22,3 +23,4 @@ cloudflaresupport.com
 cloudflarewarp.com
 encryptedsni.com
 mycloudflare.com
+workers.dev
