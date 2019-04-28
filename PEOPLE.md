@@ -36,10 +36,6 @@ Disqualify:
 
 "[Everything You Need to Know About Cloudbleed, the Latest Internet Security Disaster](https://gizmodo.com/everything-you-need-to-know-about-cloudbleed-the-lates-1792710616)" by [Adam Clark Estes](https://kinja.com/ace)
 
-"[Cloudflare helps serve up hate online, says ProPublica](https://www.cnet.com/news/cloudflare-helps-serve-up-hate-online-per-propublica/)" by [Dong Ngo](https://www.cnet.com/profiles/ngodong/)
-
-"[Web services firm CloudFlare accused by Anonymous of helping Isis](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)" by [Alex Hern](https://twitter.com/alexhern)
-
 "[Why Cloudflare Let an Extremist Stronghold Burn](https://www.wired.com/story/free-speech-issue-cloudflare/)" by [Steven Johnson](https://www.wired.com/author/steven-johnson/)
 
 ------
@@ -217,8 +213,6 @@ Disqualify:
 "I spent my day telling Cloudflare every 5 min on every site that i'm not a robot." by @[morhac](https://twitter.com/morhac/status/1017409748482719744)
 
 "People are being blacklisted by cloudflare, and the fact that it's literally all down to the vrc devs, this will end with a lawsuit" by @[Retr0Fighter](https://twitter.com/Retr0Fighter/status/1118487667094765569)
-
-"Company proclaims privacy, people question it, company silences those who question them." by @[User_r00](https://twitter.com/User_r00/status/1113553297527296000)
 
 "This little VRChat bug is banning people from actual millions of websites with very few convenient fixes." by @[RiDakuYazumi](https://twitter.com/RiDakuYazumi/status/1118514780652879872)
 
