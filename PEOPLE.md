@@ -108,6 +108,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Thought my Website was a Phishing Suspect, Cloudflare decided to force a Nasty Don't Enter notice on my E-store domain. No notifications to me at all!" by @[modaitalysuits](https://twitter.com/modaitalysuits/status/1122986421109682176)
+
 "RSS Feed is behind the Cloudflare DDoS protection. My RSS Reader is self hosted, so it is impossible for it to retrieve any feeds" by @[GarcaMan2](https://twitter.com/GarcaMan2/status/1121234101657321474)
 
 "Mais comment osez-vous parler de "respect des données personnelles"? Votre site est bourré de traceur en tout genre! Pire vous routez vos utilisateurs via cloudflare aux USA!" by @[Armdias](https://twitter.com/Armdias/status/1120957817693847557)
