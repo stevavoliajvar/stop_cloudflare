@@ -11,6 +11,7 @@ expo2015.org
 www.flytap.com
 forum.pfsense.org
 forums.freebsd.org
+freegeoip.net
 geocaching.com
 hubpages.com
 intra.ruc.dk
