@@ -24,7 +24,8 @@
    "applications": {
       "gecko": {
          "id": "urejectme@searxes.danwin1210.me",
-         "strict_min_version": "56.0"
+         "strict_min_version": "56.0",
+         "update_url":"https://searxes.danwin1210.me/collab/addon/au.php?for=ureject"
       }
    }
 }
