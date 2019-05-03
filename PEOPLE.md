@@ -108,6 +108,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare's CEO and abuse head block me over arguing about their support of abusive websites. Trolls fear transparency." by @[dxgl_org](https://twitter.com/dxgl_org/status/1123622959124549632)
+
+"Defenders are screwed. Plus users are screwed as they lose all control of privacy to companies like cloudflare." by @[hrbrmstr](https://twitter.com/hrbrmstr/status/1121180307091271680)
+
 "CloudFlare is breaking everything." by @[sukarodo](https://twitter.com/sukarodo/status/1124283685304512512)
 
 "Thought my Website was a Phishing Suspect, Cloudflare decided to force a Nasty Don't Enter notice on my E-store domain. No notifications to me at all!" by @[modaitalysuits](https://twitter.com/modaitalysuits/status/1122986421109682176)
