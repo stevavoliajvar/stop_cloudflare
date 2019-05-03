@@ -108,6 +108,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"CloudFlare is breaking everything." by @[sukarodo](https://twitter.com/sukarodo/status/1124283685304512512)
+
 "Thought my Website was a Phishing Suspect, Cloudflare decided to force a Nasty Don't Enter notice on my E-store domain. No notifications to me at all!" by @[modaitalysuits](https://twitter.com/modaitalysuits/status/1122986421109682176)
 
 "RSS Feed is behind the Cloudflare DDoS protection. My RSS Reader is self hosted, so it is impossible for it to retrieve any feeds" by @[GarcaMan2](https://twitter.com/GarcaMan2/status/1121234101657321474)
@@ -311,6 +313,8 @@ Disqualify:
 "Cloudflare has me blocked." by @[JacobyDave](https://twitter.com/JacobyDave/status/1095411772851474434)
 
 "People really ought to stop using/trusting cloudflare. it's a disgusting centralized morally compromised CDN." by @[drwdal](https://twitter.com/drwdal/status/1113171715234902018)
+
+"anyone who uses cloudflare as an authority is promoting corporatization and effectively introducing an opportunity for MITM" by @[drwdal](https://twitter.com/drwdal/status/1113172243981496320)
 
 "Please stop using Cloudflare's CDN. They blocked my IP" by @[actual_mishaor](https://twitter.com/actual_mishaor/status/1112285872311934976)
 
