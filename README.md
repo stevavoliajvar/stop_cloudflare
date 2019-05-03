@@ -75,6 +75,7 @@ Also see [Frequently Asked Questions](faq.md).
 [isMITMlink](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink) / 
 [BCMA](https://notabug.org/themusicgod1/cloudflare-tor/src/master/bcma) / 
 [uRejectMe](https://notabug.org/themusicgod1/cloudflare-tor/src/master/not_cloudflare/whyrejectme)
+* [Tool / Script](https://notabug.org/themusicgod1/cloudflare-tor/src/master/tool)
 * Subscribe to ![](image/feed.png) RSS feed: "[The Great Cloudwall News](https://ieji.de/users/crimeflare.rss)" or follow ![](image/mstdn.jpg) [crimeflare@ieji.de](https://ieji.de/@crimeflare)
 
 
