@@ -84,12 +84,15 @@ sub mitmtest {
     my ( $server, $chan, $longurl ) = @_;
     my ($fqdn) = $longurl =~ m!(https?://[^:/]+)!;
     my ( $junk, $fqdn ) = split( /\/\//, $fqdn, 2 );
+    my $scanned_url;
+## FQDN is ok
+    if (length($fqdn) >= 4) {
     my $url = 'https://searxes.danwin1210.me/collab/open/ismitm.php?f=' . $fqdn;
-    deb("getting url:($url)");
     my $browser = LWP::UserAgent->new;
     $browser->agent("cloudflare cflare_alt.pl");
     my $response    = $browser->get($url);
-    my $scanned_url = $response->content;
+    $scanned_url = $response->content;
+    }
 ## if the array[1] is true => it is MITM
     if ( $scanned_url == '[true,true]' ) {
         $scanned_url = 'https://web.archive.org/web/' . $longurl;
