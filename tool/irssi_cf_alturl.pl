@@ -10,11 +10,10 @@
 # /set cflarealt_channels <"#channel1, #channel2, etc"> -- Channels to automatically convert. Empty Defaults to all
 # /set cflarealt_shorturl_activate <on|off> -- (off) set it 'on' to use shortner
 # /set cflarealt_shorturl_min <40> -- (40) How long a url has to be to trigger automatic url shortening
-#
-# Optional manual usage is
-# /cflarealt http://yourlongurl.com/blahblahblah
 #---------------------------------------------------------------------
+
 ##use strict;
+
 use vars qw($VERSION %IRSSI);
 
 $VERSION = "20190505";
