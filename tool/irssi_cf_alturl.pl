@@ -132,8 +132,7 @@ sub GotUrl {
             else {
                 deb("$target Asking API about $fqdn");
                 $answer = '';
-                $url = 'https://searxes.danwin1210.me/collab/open/ismitm.php?f='
-                  . $fqdn;
+                $url = 'https://searxes.danwin1210.me/collab/open/ismitm.php?f='.$fqdn;
                 $browser = LWP::UserAgent->new;
                 $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0");
                 $response = $browser->get($url);
@@ -173,6 +172,7 @@ sub GotUrl {
         deb("$target process done for input $myurl");
     }
 
+## Cleanup cache
     if ( $#cached > 500 ) {
         @cached = ();
     }
