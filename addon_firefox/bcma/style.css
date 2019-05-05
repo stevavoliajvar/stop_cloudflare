@@ -1,0 +1,52 @@
+*::-moz-focus-inner {
+	border: 0
+}
+
+*:focus {
+	outline: none;
+	outline-style: none
+}
+
+button {
+	background-color: transparent;
+	background-repeat: no-repeat;
+	border: 0;
+	overflow: hidden;
+	outline: none;
+	outline-style: none
+}
+
+body {
+	font: 13px Verdana;
+	overflow-x: hidden;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	cursor: default
+}
+
+button {
+	display: inline-block;
+	height: 27px
+}
+
+div {
+	-webkit-user-select: none;
+	-moz-user-select: none
+}
+
+hr {
+	color: #dcdcdc;
+	height: 0;
+	background: #dcdcdc
+}
+
+label {
+	-webkit-user-select: none;
+	-moz-user-select: none
+}
+
+textarea {
+	white-space: pre;
+	overflow-wrap: normal;
+	overflow-x: scroll
+}
