@@ -16,19 +16,31 @@ And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users 
 
 ![](image/dnscensor.jpg)
 
+And here you might think, "_I am not using Tor or VPN, why should I care?_".
+If you visit website which use Cloudflare, you are sharing your information not only to website owner _but also Cloudflare_.
+It is impossible to analyze without [decrypting TLS traffic](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389). Cloudflare knows all your data such as raw password.
+[Cloudbeed](https://en.wikipedia.org/wiki/Cloudbleed) can happen anytime.
+Do you really want to share your data with Cloudflare, and also 3-letter agency?
+
+![](image/dhssaid.jpg)
+
+
+
+
+---
 
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
 
-List
+Domain list
 * [Domains using Cloudflare](split/)
 * [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
 Information
-* [Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
-* [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351)
-* [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544)
-
+* [Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
+* [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
+* [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
+* [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
 Also see [Frequently Asked Questions](faq.md).
@@ -44,7 +56,7 @@ Also see [Frequently Asked Questions](faq.md).
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 * Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
 * Take a look at [add-on code](ismitmlink/) (how to use "MITM test API")
-* Subscribe to an ![](image/feed.png) RSS feed: "[The Great Cloudwall News](https://searxes.danwin1210.me/collab/open/getrss.php?q=tmg1news)" or follow ![](image/mstdn.jpg) [crimeflare@ieji.de](https://ieji.de/@crimeflare)
+* Subscribe to ![](image/feed.png) RSS feed: "[The Great Cloudwall News](https://ieji.de/users/crimeflare.rss)" or follow ![](image/mstdn.jpg) [crimeflare@ieji.de](https://ieji.de/@crimeflare)
 
 
 ![WTF](image/wtfcf.jpg)

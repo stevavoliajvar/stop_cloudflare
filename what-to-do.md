@@ -72,9 +72,11 @@ If Cloudflare leak your information, it's not our fault. [*]
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
 | [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink) | No     | **Yes**     |
 | [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/) | Searxes #Addon | [Link](https://searxes.danwin1210.me/) | **Yes**     | **Yes**     |
-| [TPRB](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php) | Sw | [Link](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/___go.php?go=sw) | **Yes**     | **Yes**     |
+| [TPRB](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
+| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [*] | Gokulakrishna Sudharsan | [Link](https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
 
+[*] Do not use it if you're using proxy/VPN/Tor because it has "[DNS leak](https://en.wikipedia.org/wiki/DNS_leak)".
 
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
 
@@ -95,6 +97,12 @@ If Cloudflare leak your information, it's not our fault. [*]
 - Using Cloudflare to proxy your "API service" will harm your customer. A customer called you and said "I can't use your API anymore", and you have no idea what is going on. Cloudflare can silently block your customer. [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
+
+- Do you need DNS server? Can't set up your own server? Then how about [Dyn.com](https://dyn.com/dns/), [Hurricane Electric Free DNS](https://dns.he.net/) or [this](https://freedns.afraid.org/)?
+
+- Looking for hosting service? "Free" only? Well, [how about this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
+
+- Are you using "cloudflare-ipfs.com"? Do you know [Cloudflare IPFS is bad](https://ieji.de/@crimeflare/101779952797884218)?
 
 - Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
 
@@ -132,11 +140,19 @@ Let's talk about _other software's privacy_...
 
 - PaleMoon developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097).
 
+- Waterfox actively using [Cloudflare on their servers](https://www.digwebinterface.com/?hostnames=www.waterfoxproject.org&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=) and their software have [severe "phones home" problem](https://spyware.neocities.org/articles/waterfox.html).
+
 - Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html).
 
-- Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/).
+- SRWare Iron make too many [phones home connection](https://spyware.neocities.org/articles/iron.html). It also connect to google domains.
+
+- Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/). Here's [more issues](https://spyware.neocities.org/articles/brave.html).
 
 - Microsoft Edge lets Facebook [run Flash code behind users' backs](https://www.zdnet.com/article/microsoft-edge-lets-facebook-run-flash-code-behind-users-backs/).
+
+- Vivaldi [does not respect your privacy](https://spyware.neocities.org/articles/vivaldi.html).
+
+Therefore we recommend "Tor Browser" only. Nothing else.
 
 ------------
 
@@ -164,9 +180,17 @@ Let's talk about _other software's privacy_...
 
 ![](image/firefoxdns.jpg)
 
-- If you really need to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start).
+- If you would like to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start)
+![](image/opennic.jpg) or any of non-Cloudflare DNS services.
 
-![](image/opennic.jpg)
+- You can use Tor as DNS resolver. If you're not Tor expert, [ask question here](https://tor.stackexchange.com/).
+
+> **How?**
+> 1. Download [Tor](https://www.torproject.org/) and install it on your computer.
+> 2. Add this line to "torrc" file. [DNSPort description](https://www.torproject.org/docs/tor-manual.html.en).
+> DNSPort 127.0.0.1:53
+> 3. Restart Tor.
+> 4. Set your computer's DNS server to "127.0.0.1".
 
 - Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
@@ -189,6 +213,8 @@ Let's talk about _other software's privacy_...
 - Start a coop that can provide a meaningful non corporate alternative to Cloudflare.
 
 - Let us know of any alternatives to help at least provide multiple layered defence against Cloudflare.
+
+- If you are a Cloudflare customer, set your privacy settings, and wait for them to violate them.  Then bring them under [anti-spam / privacy violation charges](https://twitter.com/thexpaw/status/1108424723233419264).
 
 - Try using [globalist](globalist.txt) to maintain this list.
 

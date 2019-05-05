@@ -1,9 +1,11 @@
+
 abclive.in
 aboutdebian.com
 adidas.de
 adsabs.harvard.edu
 aidspolicyproject.org
 airbnb.com
+Akamai
 Akamai's
 altcoins.com
 amazon.com
@@ -30,6 +32,7 @@ blocktrail.com
 bloglovin.com
 bloomberg.com
 bodhizazen.net
+busbud.com
 casw-acts.ca
 cc.gatech.edu
 cessfull.com
@@ -92,6 +95,7 @@ forums.linuxmint.com
 forums.whirlpool.net.au
 forum.synology.com
 foxnews.com
+Freenode
 gchq.gov.uk
 geizhals.at
 gemal.dk
@@ -123,6 +127,7 @@ koelnspd.de
 leblogdebetty.com
 lenovo.com
 libertygb.org.uk
+lifewire.com
 linuxquestions.org
 livejournal.com
 loebner.net
@@ -138,15 +143,18 @@ meaningness.com
 midtnmusic.com
 mixcloud.com
 moodle.org
+mosquitomagnet.com
 motorcyclecruiser.com
 mottweilerstudio.com
 n2value.com
 nacns.org
 nakedcapitalism.com
 nbnco.com.au
+nemlog-in.dk/login.aspx/noeglekort
 nepalmonitor.org
 netbank.com.au
 networktools.nl
+NetZone
 newark.com
 newgrounds.com
 news.ycombinator.com
@@ -211,6 +219,8 @@ technologyreview.com
 thecultureblend.com
 thegrommet.com
 theislamicseminary.org
+thespruceeats.com
+thoughtco.com
 ti.com
 tineye.com
 tocloud.com
@@ -237,6 +247,7 @@ vpforums.org
 walmart.com
 wayfair.com
 wbai.org
+webstix.com
 weforum.org
 whatthefuckshouldimakefordinner.com
 whiterose.samizdata.net
