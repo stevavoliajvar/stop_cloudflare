@@ -187,7 +187,7 @@ sub GotUrl {
                     deb("$target Creating Short URL for $myurl");
                     $url = 'https://ux.nu/api/short?format=plain&url='.$myurl;
                     $browser = LWP::UserAgent->new;
-                    $browser->agent("cloudflare-tor (Thank you for this service)");
+                    $browser->agent("cloudflare-tor (Thank you for your service)");
                     $response = $browser->get($url);
                     $answer   = $response->content;
                     if ( index( $answer, 'https://ux.nu/' ) == 0 ) {
