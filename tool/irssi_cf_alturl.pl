@@ -145,7 +145,7 @@ sub GotUrl {
 ## ACT1: Update URL if Cloudflared
             if ( grep( /^$fqdn$/, @cached ) ) {
                 deb("$target Found in Cache $fqdn");
-                $mytype = '^B^K3[Archive^O] ';
+                $mytype = '^B^C3[Archive]^O ';
                 $myurl = 'https://web.archive.org/web/' . $myurl;
             }
             else {
@@ -165,7 +165,7 @@ sub GotUrl {
 
                     if ( $ifoundit == 1 ) {
                         push( @cached, $fqdn );
-                        $mytype = '^B^K3[Archive^O] ';
+                        $mytype = '^B^C3[Archive]^O ';
                         $myurl = 'https://web.archive.org/web/' . $myurl;
                     }
                 }
@@ -179,7 +179,7 @@ sub GotUrl {
                     $answer   = $response->content;
                     if ( $answer eq '[true,true]' ) {
                         push( @cached, $fqdn );
-                        $mytype = '^B^K3[Archive^O] ';
+                        $mytype = '^B^C3[Archive]^O ';
                         $myurl = 'https://web.archive.org/web/' . $myurl;
                     }
                 }
@@ -195,7 +195,7 @@ sub GotUrl {
                     $response = $browser->get($url);
                     $answer   = $response->content;
                     if ( index( $answer, 'https://ux.nu/' ) == 0 ) {
-                        $mytype = '^B^K7[Short^O] ';
+                        $mytype = '^B^C7[Short]^O ';
                         $myurl = $answer;
                     }
                 }
