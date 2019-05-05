@@ -185,12 +185,12 @@ sub GotUrl {
             if ( $cfg_useshort == 1 ) {
                 if ( length($myurl) > $cfg_minurllen ) {
                     deb("$target Creating Short URL for $myurl");
-                    $url = 'https://tinyurl.com/api-create.php?url='.$result;
+                    $url = 'https://ux.nu/api/short?format=plain&url='.$result;
                     $browser = LWP::UserAgent->new;
-                    $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0");
+                    $browser->agent("cloudflare-tor (Thank you for this service)");
                     $response = $browser->get($url);
                     $answer   = $response->content;
-                    if ( index( $answer, 'http://tinyurl.com/' ) == 0 ) {
+                    if ( index( $answer, 'https://ux.nu/' ) == 0 ) {
                         $myurl = $answer;
                     }
                 }
