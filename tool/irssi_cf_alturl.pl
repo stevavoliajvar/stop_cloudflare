@@ -195,7 +195,11 @@ sub GotUrl {
                     $response = $browser->get($url);
                     $answer   = $response->content;
                     if ( index( $answer, 'https://ux.nu/' ) == 0 ) {
-                        $mytype = '^B^C7[Short]^O ';
+                        if ($mytype eq ''){
+                                                $mytype = '^B^C7[Short]^O ';
+                        }else{
+                                                $mytype = '^B^C2[Short,Archive]^O ';
+                        }
                         $myurl = $answer;
                     }
                 }
