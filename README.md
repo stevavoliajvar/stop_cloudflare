@@ -45,7 +45,7 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
 
-Domain list
+Domain list  -  [mirror](https://codeberg.org/Username/cloudflare-tor)
 * [Domains using Cloudflare](split/)
 * [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
@@ -96,3 +96,4 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 
 * [Searxes](https://searxes.danwin1210.me/) meta-search engine
 * [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) add-on
+* Some Firefox Add-ons
