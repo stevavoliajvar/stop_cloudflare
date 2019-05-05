@@ -104,8 +104,6 @@ sub GotUrl {
     my @urls = ();
     my ( $url, $a, $return, $char, $ch ) = "";
     my $same    = 0;
-    my $sitewas = "t";
-    my @chars   = ();
 
     return unless ( ( $data =~ /\bhttp\:/ ) || ( $data =~ /\bhttps\:/ ) );
     deb("$target triggered GotUrl() with url: $data");
