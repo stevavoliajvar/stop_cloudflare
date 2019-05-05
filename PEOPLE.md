@@ -84,6 +84,8 @@ Disqualify:
 
 ######  Forum / Wiki
 
+"[Cloudflare Is Not An Option!](https://www.reddit.com/r/privacy/comments/bhag8s/cloudflare_is_not_an_option/)" by [FVz7Ftt83m](https://www.reddit.com/user/FVz7Ftt83m)
+
 "[Anonym im Internet - Inhaltsverzeichnis](https://wiki.kairaven.de/open/anon/netzwerk/anet)" by [Kairaven](https://hp.kairaven.de)
 
 "[Issues with corporate censorship and mass surveillance](https://www.torproject.org/projects/tor/ticket/18361)" by [Jacob Appelbaum](https://twitter.com/ioerror)
@@ -107,6 +109,14 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"If you truly care about your users & you are so concerned about privacy and having a decentralized Internet, then you will do what’s right" by @[larrybeck_](https://twitter.com/larrybeck_/status/1121412414115917826)
+
+"We are trusting one secretive, private company with censoring the web. We’re essentially centralising a decentralised system once again." by @[steve228uk](https://twitter.com/steve228uk/status/1061949645113511939)
+
+"Chiming in here, of course, but Cloudflare ARE censoring people." by @[misslolahunt](https://twitter.com/misslolahunt/status/1106745032722137088)
+
+" I do not appreciate "Cloud flare" unilaterally censoring conservative sites I choose to visit and comment on" by @[Suchindranath](https://twitter.com/Suchindranath/status/1086253299064438784)
 
 "Cloudflare's CEO and abuse head block me over arguing about their support of abusive websites. Trolls fear transparency." by @[dxgl_org](https://twitter.com/dxgl_org/status/1123622959124549632)
 
