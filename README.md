@@ -45,7 +45,7 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
 
-Domain list  -  [mirror](https://codeberg.org/Username/cloudflare-tor)
+Domain list  -  mirrors: [NixNet](https://git.nixnet.xyz/Username/cloudflare-tor),  [CodeBerg](https://codeberg.org/Username/cloudflare-tor)
 * [Domains using Cloudflare](split/)
 * [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
