@@ -13,6 +13,9 @@
 #
 # /set cflarealt_localdbpath <"string to path"> -- () '/path/database/split/'
 # /set cflarealt_uselocaldb <on|off> -- (off) if 'on', please set path to local database (or the script will die)
+#
+# /set cflarealt_printurl <on|off> -- (off) if 'on' print converted URL
+# /set cflarealt_donotsend <on|off> -- (off) if 'on' do not send converted URL
 #---------------------------------------------------------------------
 
 ##use strict;
@@ -21,6 +24,7 @@ use vars qw($VERSION %IRSSI);
 
 $VERSION = "20190506";
 %IRSSI   = (
+
     #	Special thanks to: "eo, tsaavik"
     authors     => "Anonymous",
     contact     => 'anonymous@cloudflare-tor.nab',
@@ -35,7 +39,11 @@ use Irssi::Irc;
 use LWP::Simple;
 use LWP::UserAgent;
 
-my ( $cfg_minurllen, $cfg_send2chan, $cfg_useshort, $cfg_isdebug, $cfg_uselocaldb, $cfg_localdbpath, $cfg_chanlist );
+my (
+    $cfg_minurllen,  $cfg_send2chan,   $cfg_useshort, $cfg_isdebug,
+    $cfg_uselocaldb, $cfg_localdbpath, $cfg_chanlist
+);
+my ( $cfg_printurl, $cfg_donotsendurl );
 my @cached = ();
 
 sub setuphandler {
@@ -90,6 +98,18 @@ sub setuphandler {
         print "cflarealt: DB path set to $cfg_localdbpath";
     }
 
+    Irssi::settings_add_bool( "cflarealt", "cflarealt_printurl", 0 );
+    if ( Irssi::settings_get_bool("cflarealt_printurl") ) {
+        print "cflarealt: print URL enabled";
+        $cfg_printurl = 1;
+    }
+
+    Irssi::settings_add_bool( "cflarealt", "cflarealt_donotsend", 0 );
+    if ( Irssi::settings_get_bool("cflarealt_donotsend") ) {
+        print "cflarealt: dont-send enabled";
+        $cfg_donotsendurl = 1;
+    }
+
 }
 
 sub GotUrl {
@@ -102,8 +122,9 @@ sub GotUrl {
     $data =~ s/^\s+//;
     $data =~ s/\s+$//;
     my @urls = ();
+    my @knownShortFQDN = ( 'tinyurl.com', 'bit.ly' );
     my ( $url, $a, $return, $char, $ch ) = "";
-    my $same    = 0;
+    my $same = 0;
 
     return unless ( ( $data =~ /\bhttp\:/ ) || ( $data =~ /\bhttps\:/ ) );
     deb("$target triggered GotUrl() with url: $data");
@@ -128,9 +149,9 @@ sub GotUrl {
         }
     }
 
-    my ( $myurl, $fqdn, $junk, $mytype );
-    my ( $url, $browser, $response, $answer );
-    my ( $line, $ifoundit );
+    my ( $myurl, $fqdn,    $junk,     $mytype );
+    my ( $url,   $browser, $response, $answer );
+    my ( $line,  $ifoundit );
 
     foreach (@urls) {
         $myurl = $_;
@@ -140,16 +161,43 @@ sub GotUrl {
 
         if ( length($fqdn) >= 4 ) {
 ## Start of Act
+
+## ACT0. If ShortURL, expand it. (knownShortFQDN)
+            if ( grep( /^$fqdn$/, @knownShortFQDN ) ) {
+                deb("$target Expand $fqdn");
+                $browser  = LWP::UserAgent->new;
+                $answer   = HTTP::Request->new( GET => $myurl );
+                $response = $browser->request($answer);
+
+                if ( $response->is_success and $response->previous ) {
+                    if ( $myurl ne $response->request->uri ) {
+                        $junk = $response->request->uri;
+                        if ( index( $junk, 'http' ) == 0 ) {
+                            deb("$target Expanded $fqdn");
+                            $myurl = $junk;
+                            ( $junk, $fqdn ) = split( /\/\//, $myurl, 2 );
+                            ( $fqdn, $junk ) = split( /\//,   $fqdn,  2 );
+                        }
+                    }
+                }
+
+            }
+
 ## ACT1: Update URL if Cloudflared
             if ( grep( /^$fqdn$/, @cached ) ) {
                 deb("$target Found in Cache $fqdn");
                 $mytype = '^B^C3[Archive]^O ';
-                $myurl = 'https://web.archive.org/web/' . $myurl;
+                $myurl  = 'https://web.archive.org/web/' . $myurl;
             }
             else {
                 if ( $cfg_uselocaldb == 1 ) {
                     deb("$target Lookup local DB about $fqdn");
-                    open( CFSFILE,$cfg_localdbpath. "cloudflare_". substr( $fqdn, 0, 1 ). ".txt" ) or die "file not found for $fqdn";
+                    open( CFSFILE,
+                            $cfg_localdbpath
+                          . "cloudflare_"
+                          . substr( $fqdn, 0, 1 )
+                          . ".txt" )
+                      or die "file not found for $fqdn";
                     $ifoundit = 0;
                     while (<CFSFILE>) {
                         $line = $_;
@@ -164,7 +212,7 @@ sub GotUrl {
                     if ( $ifoundit == 1 ) {
                         push( @cached, $fqdn );
                         $mytype = '^B^C3[Archive]^O ';
-                        $myurl = 'https://web.archive.org/web/' . $myurl;
+                        $myurl  = 'https://web.archive.org/web/' . $myurl;
                     }
                 }
                 else {
@@ -178,7 +226,7 @@ sub GotUrl {
                     if ( $answer eq '[true,true]' ) {
                         push( @cached, $fqdn );
                         $mytype = '^B^C3[Archive]^O ';
-                        $myurl = 'https://web.archive.org/web/' . $myurl;
+                        $myurl  = 'https://web.archive.org/web/' . $myurl;
                     }
                 }
             }
@@ -193,23 +241,32 @@ sub GotUrl {
                     $response = $browser->get($url);
                     $answer   = $response->content;
                     if ( index( $answer, 'https://ux.nu/' ) == 0 ) {
-                        if ($mytype eq ''){
-                                                $mytype = '^B^C7[Short]^O ';
-                        }else{
-                                                $mytype = '^B^C2[Short,Archive]^O ';
+                        if ( $mytype eq '' ) {
+                            $mytype = '^B^C7[Short]^O ';
+                        }
+                        else {
+                            $mytype = '^B^C2[Short,Archive]^O ';
                         }
                         $myurl = $answer;
                     }
                 }
             }
 
-##ACT3: Shout Result
-            if ( $cfg_send2chan == 1 ) {
-                $server->command("msg $target $myurl");
+##ACT3: Result
+            if ( $cfg_printurl == 1 ) {
+                Irssi::print("URL: $mytype$myurl");
             }
-            else {
-                $server->print( "$target", "$mytype$myurl", MSGLEVEL_CLIENTCRAP );
+
+            if ( $cfg_donotsendurl != 1 ) {
+                if ( $cfg_send2chan == 1 ) {
+                    $server->command("msg $target $myurl");
+                }
+                else {
+                    $server->print( "$target", "$mytype$myurl",
+                        MSGLEVEL_CLIENTCRAP );
+                }
             }
+
 ## End of Act
         }
         deb("$target process done for input $myurl");
