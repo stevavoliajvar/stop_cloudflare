@@ -1,0 +1,1 @@
+# Add-ons for Tor Browser / Firefox ESR
