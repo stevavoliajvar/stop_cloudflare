@@ -1,5 +1,5 @@
-This is a source code of Maslin Bossé's "*Which website rejected me?*".
+This is a source code of "*Which website rejected me?*" add-on.
 
 PRs are welcome.
 
-AMO: https://addons.mozilla.org/en-US/firefox/addon/which-website-rejected-me/
+[Download add-on](https://searxes.danwin1210.me/collab/addon/?for=ureject)

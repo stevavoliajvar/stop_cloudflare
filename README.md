@@ -45,7 +45,7 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
 
 
-Domain list
+Domain list  -  mirrors: [NixNet](https://git.nixnet.xyz/Username/cloudflare-tor),  [CodeBerg](https://codeberg.org/Username/cloudflare-tor)
 * [Domains using Cloudflare](split/)
 * [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
@@ -67,12 +67,26 @@ Also see [Frequently Asked Questions](faq.md).
 # What can you do?
 
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends
+
 * Read [other user's voice](PEOPLE.md) (if you write a blog, tell us your URL)
+
 * Update the domain list: [List instructions](instructions.md)
+
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
+
 * Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
-* Take a look at [add-on code](ismitmlink/) (how to use "MITM test API")
+
+* [Tool / Script](https://notabug.org/themusicgod1/cloudflare-tor/src/master/tool)
+
 * Subscribe to ![](image/feed.png) RSS feed: "[The Great Cloudwall News](https://ieji.de/users/crimeflare.rss)" or follow ![](image/mstdn.jpg) [crimeflare@ieji.de](https://ieji.de/@crimeflare)
+
+* Take a look at add-on code and try it
+
+| Name | Firefox | Chrome |
+| -------- | -------- | -------- |
+| Block Cloudflare MITM Attack | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_firefox/bcma) | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_chrome/bcma) |
+| Are links vulnerable to MITM? | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_firefox/ismitmlink) | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_chrome/ismitmlink) |
+| Which website rejected me? | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/not_cloudflare/whyrejectme) | - |
 
 
 ![WTF](image/wtfcf.jpg)
@@ -92,3 +106,4 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 
 * [Searxes](https://searxes.danwin1210.me/) meta-search engine
 * [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) add-on
+* Some Firefox Add-ons
