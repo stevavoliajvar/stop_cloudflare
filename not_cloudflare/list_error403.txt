@@ -1,1 +1,26 @@
-(add FQDN here)
+abebooks.com
+bitvps.com
+caot.ca
+captaintrain.com
+dluat.com
+europa.eu
+expo2015.org
+forum.pfsense.org
+forums.freebsd.org
+freelancer.is
+geocaching.com
+gutenberg.org
+hot-topic.co.nz
+hubpages.com
+knowyourmeme.com
+lastword.at
+no2nsa.x10.bz
+republicbuzz.com
+rijksoverheid.nl
+singpolyma.net
+stefanv.com
+study.com
+tomshardware.com
+wigle.net
+wikidevi.com
+witopia.net
