@@ -102,7 +102,7 @@ sub GotUrl {
     $data =~ s/^\s+//;
     $data =~ s/\s+$//;
     my @urls = ();
-    my ( $url, $a, $return, $char, $ch, $result ) = "";
+    my ( $url, $a, $return, $char, $ch ) = "";
     my $same    = 0;
     my $sitewas = "t";
     my @chars   = ();
@@ -185,7 +185,7 @@ sub GotUrl {
             if ( $cfg_useshort == 1 ) {
                 if ( length($myurl) > $cfg_minurllen ) {
                     deb("$target Creating Short URL for $myurl");
-                    $url = 'https://ux.nu/api/short?format=plain&url='.$result;
+                    $url = 'https://ux.nu/api/short?format=plain&url='.$myurl;
                     $browser = LWP::UserAgent->new;
                     $browser->agent("cloudflare-tor (Thank you for this service)");
                     $response = $browser->get($url);
