@@ -130,7 +130,7 @@ sub GotUrl {
         }
     }
 
-    my ( $myurl, $fqdn, $junk );
+    my ( $myurl, $fqdn, $junk, $mytype );
     my ( $url, $browser, $response, $answer );
     my ( $line, $ifoundit );
 
@@ -138,12 +138,14 @@ sub GotUrl {
         $myurl = $_;
         ( $junk, $fqdn ) = split( /\/\//, $myurl, 2 );
         ( $fqdn, $junk ) = split( /\//,   $fqdn,  2 );
+        $mytype = '';
 
         if ( length($fqdn) >= 4 ) {
 ## Start of Act
 ## ACT1: Update URL if Cloudflared
             if ( grep( /^$fqdn$/, @cached ) ) {
                 deb("$target Found in Cache $fqdn");
+                $mytype = '^B^K3[Archive^O] ';
                 $myurl = 'https://web.archive.org/web/' . $myurl;
             }
             else {
@@ -163,6 +165,7 @@ sub GotUrl {
 
                     if ( $ifoundit == 1 ) {
                         push( @cached, $fqdn );
+                        $mytype = '^B^K3[Archive^O] ';
                         $myurl = 'https://web.archive.org/web/' . $myurl;
                     }
                 }
@@ -176,6 +179,7 @@ sub GotUrl {
                     $answer   = $response->content;
                     if ( $answer eq '[true,true]' ) {
                         push( @cached, $fqdn );
+                        $mytype = '^B^K3[Archive^O] ';
                         $myurl = 'https://web.archive.org/web/' . $myurl;
                     }
                 }
@@ -191,6 +195,7 @@ sub GotUrl {
                     $response = $browser->get($url);
                     $answer   = $response->content;
                     if ( index( $answer, 'https://ux.nu/' ) == 0 ) {
+                        $mytype = '^B^K7[Short^O] ';
                         $myurl = $answer;
                     }
                 }
@@ -201,7 +206,7 @@ sub GotUrl {
                 $server->command("msg $target $myurl");
             }
             else {
-                $server->print( "$target", "$myurl", MSGLEVEL_CLIENTCRAP );
+                $server->print( "$target", "$mytype$myurl", MSGLEVEL_CLIENTCRAP );
             }
 ## End of Act
         }
