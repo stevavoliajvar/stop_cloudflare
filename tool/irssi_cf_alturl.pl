@@ -10,13 +10,16 @@
 # /set cflarealt_channels <"#channel1, #channel2, etc"> -- Channels to automatically convert. Empty Defaults to all
 # /set cflarealt_shorturl_activate <on|off> -- (off) set it 'on' to use shortner
 # /set cflarealt_shorturl_min <40> -- (40) How long a url has to be to trigger automatic url shortening
+#
+# /set cflarealt_localdbpath <"string to path"> -- () '/path/database/split/'
+# /set cflarealt_uselocaldb <on|off> -- (off) if 'on', please set path to local database (or the script will die)
 #---------------------------------------------------------------------
 
 ##use strict;
 
 use vars qw($VERSION %IRSSI);
 
-$VERSION = "20190505";
+$VERSION = "20190506";
 %IRSSI   = (
     #	Special thanks to: "eo, tsaavik"
     authors     => "Anonymous",
@@ -32,7 +35,7 @@ use Irssi::Irc;
 use LWP::Simple;
 use LWP::UserAgent;
 
-my ( $cfg_minurllen, $cfg_send2chan, $cfg_useshort, $cfg_isdebug, $cfg_chanlist );
+my ( $cfg_minurllen, $cfg_send2chan, $cfg_useshort, $cfg_isdebug, $cfg_uselocaldb, $cfg_localdbpath, $cfg_chanlist );
 my @cached = ();
 
 sub setuphandler {
@@ -75,6 +78,18 @@ sub setuphandler {
         }
     }
 
+    Irssi::settings_add_bool( "cflarealt", "cflarealt_uselocaldb", 0 );
+    if ( Irssi::settings_get_bool("cflarealt_uselocaldb") ) {
+        print "cflarealt: Lookup Local DB enabled";
+        $cfg_uselocaldb = 1;
+    }
+
+    Irssi::settings_add_str( "cflarealt", "cflarealt_localdbpath", "" );
+    $cfg_localdbpath = Irssi::settings_get_str("cflarealt_localdbpath");
+    if ($cfg_localdbpath) {
+        print "cflarealt: DB path set to $cfg_localdbpath";
+    }
+
 }
 
 sub GotUrl {
@@ -102,6 +117,7 @@ sub GotUrl {
         if ( ( $_ =~ /^http\:/ ) || ( $_ =~ /^https\:/ ) ) {
             foreach $a (@urls) {
                 if ( $_ eq $a ) {
+
                     # incase they use the same url on the line.
                     $same = 1;
                     next;
@@ -116,6 +132,7 @@ sub GotUrl {
 
     my ( $myurl, $fqdn, $junk );
     my ( $url, $browser, $response, $answer );
+    my ( $line, $ifoundit );
 
     foreach (@urls) {
         $myurl = $_;
@@ -130,26 +147,45 @@ sub GotUrl {
                 $myurl = 'https://web.archive.org/web/' . $myurl;
             }
             else {
-                deb("$target Asking API about $fqdn");
-                $answer = '';
-                $url = 'https://searxes.danwin1210.me/collab/open/ismitm.php?f='.$fqdn;
-                $browser = LWP::UserAgent->new;
-                $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0");
-                $response = $browser->get($url);
-                $answer   = $response->content;
-                if ( $answer == '[true,true]' ) {
-                    push( @cached, $fqdn );
-                    $myurl = 'https://web.archive.org/web/' . $myurl;
+                if ( $cfg_uselocaldb == 1 ) {
+                    deb("$target Lookup local DB about $fqdn");
+                    open( CFSFILE,$cfg_localdbpath. "cloudflare_". substr( $fqdn, 0, 1 ). ".txt" ) or die "file not found for $fqdn";
+                    $ifoundit = 0;
+                    while (<CFSFILE>) {
+                        $line = $_;
+                        $line =~ s/\R//g;
+                        if ( $line eq $fqdn ) {
+                            $ifoundit = 1;
+                            last;
+                        }
+                    }
+                    close CFSFILE;
+
+                    if ( $ifoundit == 1 ) {
+                        push( @cached, $fqdn );
+                        $myurl = 'https://web.archive.org/web/' . $myurl;
+                    }
+                }
+                else {
+                    deb("$target Asking API about $fqdn");
+                    $answer = '';
+                    $url = 'https://searxes.danwin1210.me/collab/open/ismitm.php?f='.$fqdn;
+                    $browser = LWP::UserAgent->new;
+                    $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0");
+                    $response = $browser->get($url);
+                    $answer   = $response->content;
+                    if ( $answer eq '[true,true]' ) {
+                        push( @cached, $fqdn );
+                        $myurl = 'https://web.archive.org/web/' . $myurl;
+                    }
                 }
             }
 
 ## ACT2: Short URL __if__ enabled and long
             if ( $cfg_useshort == 1 ) {
                 if ( length($myurl) > $cfg_minurllen ) {
-                    # Should change from tinyurl because it is Cloudflare.
-                    # What is the alternative solution?
                     deb("$target Creating Short URL for $myurl");
-                    $url = 'https://tinyurl.com/api-create.php?url=' . $result;
+                    $url = 'https://tinyurl.com/api-create.php?url='.$result;
                     $browser = LWP::UserAgent->new;
                     $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0");
                     $response = $browser->get($url);
