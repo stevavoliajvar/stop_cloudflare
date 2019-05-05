@@ -81,9 +81,9 @@ Also see [Frequently Asked Questions](faq.md).
 
 | Name | Firefox | Chrome |
 | -------- | -------- | -------- |
-| BCMA | [Code](http://test/) | [Code](http://test/) |
-| isMITMlink | [Code](http://test/) | [Code](http://test/) |
-| uRejectMe | https://notabug.org/themusicgod1/cloudflare-tor/src/master/not_cloudflare/whyrejectme | - |
+| Block Cloudflare MITM Attack | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_firefox/bcma) | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_chrome/bcma) |
+| Are links vulnerable to MITM? | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_firefox/ismitmlink) | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_chrome/ismitmlink) |
+| Which website rejected me? | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/not_cloudflare/whyrejectme) | - |
 
 
 ![WTF](image/wtfcf.jpg)
