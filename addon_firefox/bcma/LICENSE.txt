@@ -4,7 +4,7 @@ Copyright (c) 2017 Project BCMA
 Copyright (c) 2017 cypherpunks
 Copyright (c) 2017 nullius <nullius@nym.zone>
 Copyright (c) 2018 Searxes <searxes.danwin1210.me>
-Copyright (c) 2018 Jeff Cliff <pleroma.oniichanylo2tsi4.onion/users/e51638c3>
+Copyright (c) 2018 Jeff Cliff <@jeffcliff@niu.moe>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
