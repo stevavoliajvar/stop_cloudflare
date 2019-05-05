@@ -8,6 +8,7 @@ catbox.moe
 dluat.com
 europa.eu
 expo2015.org
+www.flytap.com
 forum.pfsense.org
 forums.freebsd.org
 freelancer.is
@@ -29,6 +30,7 @@ safeco.com
 securifi.com
 signon.ruc.dk
 singpolyma.net
+www.spirit.com
 stadssb.ruc.dk
 stefanv.com
 study.com
