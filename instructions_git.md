@@ -7,14 +7,15 @@ for ***linux***.  The first step covers Windows too, but these
 instructions probably need more adaptations for Windows and other
 platforms.
 
-1. install git, ssh, and tor (if you haven't already)
+<ol>
+<li> install git, ssh, and tor (if you haven't already)
 | Debian | Windows |
-|--|--|
+| --- | --- |
 | `aptitude install git tor ssh` | (git only) download and extract `https://github.com/git-for-windows/git/releases/PortableGit-2.21.0-64-bit.7z`; run `git-bash.exe` |
-1. create a `notabug.org` account (username "snowden" will be used for this example)
-1. create an SSH key pair ```
+<li> create a `notabug.org` account (username "snowden" will be used for this example)
+<li> create an SSH key pair ```
   $ ssh-keygen -t rsa -N '' -C 'snowden at notabug' -f "$HOME"/.ssh/id_rsa_nab-snowden```
-1. edit `$HOME/.ssh/config`:
+<li> edit `$HOME/.ssh/config`:
 ```
     host notabug-*
          hostname     qs3zumwfci4tntnd.onion
@@ -23,15 +24,16 @@ platforms.
     host notabug-snowden
          IdentityFile /home/user/.ssh/id_rsa_nab-snowden
 ```
-1. copy `"$HOME"/.ssh/id_rsa_nab-snowden.pub` to clipboard
-1. notabug.org > settings > SSH Keys > add key (paste from clipboard)
-1. $ `firefox https://notabug.org/themusicgod1/cloudflare-tor`
-1. fork it (top right corner)
-1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
-1. anonymously download your fork: $ `torsocks git clone https://notabug.org/snowden/cloudflare-tor`
-1. edit `$project_root/cloudflare-tor/.git/config` to include the
+<li> copy `"$HOME"/.ssh/id_rsa_nab-snowden.pub` to clipboard
+<li> notabug.org > settings > SSH Keys > add key (paste from clipboard)
+<li> $ `firefox https://notabug.org/themusicgod1/cloudflare-tor`
+<li> fork it (top right corner)
+<li> go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
+<li> anonymously download your fork: $ `torsocks git clone https://notabug.org/snowden/cloudflare-tor`
+<li> edit `$project_root/cloudflare-tor/.git/config` to include the
    account name and email address that will be on every commit, as
    well as the URL:
+
 ```
 [user]
         email = BM-yadayadayada6fgnLfybVnCcWf25AGZcgg@bitmessage.ch
@@ -43,14 +45,18 @@ platforms.
 	remote = origin
 	merge = refs/heads/master
 ```
-1. make your first change
-1. (from `$project_root`) $ `git add . -u -n`
-1. check that the files listed are what you changed and intend to push upstream
-1. if yes: `$ git add . -u`
-1. $ `git commit -m 'description of first change'`
-1. $ `git push origin master`
-1. $ `firefox https://notabug.org/themusicgod1/cloudflare-tor`
-1. make a new pull request
+
+<li> make your first change
+<li> (from `$project_root`) $ `git add . -u -n`
+<li> check that the files listed are what you changed and intend to push upstream
+<li> if yes: `$ git add . -u`
+<li> $ `git commit -m 'description of first change'`
+<li> $ `git push origin master`
+<li> $ `firefox https://notabug.org/themusicgod1/cloudflare-tor`
+<li> make a new pull request
+</ol>
+
+&nbsp;
 
 Notice that only the `git clone` command has a `torsocks` prefix and
 all git commands thereafter do not.  Whenever git operates on the
