@@ -22,6 +22,7 @@ There are many ways to detect it:
 
 - [These add-ons](what-to-do.md) will help your Cloudflare collection.
 - Visit a website via Tor or VPN, and you will be greeted by "Attention Required! Cloudflare" webpage.
+- Use "[Is MITM?](https://searxes.danwin1210.me/collab/sxes/tool_ismitm.php)" webpage.
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
@@ -39,7 +40,10 @@ Organization Cloudflare, Inc.
 Route 104.18.224.0/20
 ```
 
-2) How to add your data
+
+2) How to add your data (A or B)
+
+Type A: Push to NotABug.org
 
 1. Log in to *notabug.org*.
 2. Click "*Fork*" button. (top-left corner)
@@ -61,6 +65,11 @@ IMPORTANT: Please add only "Base Domain"
 ... to /split/cloudflare_e.txt
 ```
 
+Type B: Just search about it on Searxes
+
+Search the domain on Searxes, and it'll appear as "[MITM!] link name".
+
+
 3) If the website *no longer using Cloudflare*, *remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ex_cloudflare_users.txt)".
 
 
@@ -75,6 +84,8 @@ IMPORTANT: Please add only "Base Domain"
 | list_other.txt     | any other form of tor-hostility or mistreatment |
 | list_siteground.txt | siteground.com is a Tor-hostile hosting service that indiscriminately DoSes all Tor users with the collective judgement: "our system thinks you might be a robot!" Sometimes the site functions, and sometimes it times out, but the robot accusation is very common. |
 | list_formerly_tor-hostile.txt | was previously on one of the above tor-hostile lists |
+
+![](image/siteground.jpg)
 
 ```
 IMPORTANT: Please add only "Base Domain" or "(base domain)[space](comment here)"
@@ -95,4 +106,4 @@ Add them to [/not_cloudflare/](not_cloudflare/) (formerly "*TorBlocker Hall of S
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
-[This add-ons](https://addons.mozilla.org/en-US/firefox/addon/which-website-rejected-me/) will help your list_error403 collection.
+[This add-on](https://addons.mozilla.org/en-US/firefox/addon/which-website-rejected-me/) will help your list_error403 collection.

@@ -1,3 +1,12 @@
+*2019.04.04*
+
+@holydevil@birdsite:
+```
+The log file from your iOS app shows that you do track personal information, like device name, UUID, and an identifier - install_id That contradicts what you have in your blogpost - “We don't write user-identifiable log data to disk”
+```
+
+https://twitter.com/holydevil/status/1112769739045158912
+
 *2019.03.13*
 
 @thexpaw@birdsite:

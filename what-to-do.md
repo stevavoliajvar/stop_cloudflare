@@ -72,11 +72,9 @@ If Cloudflare leak your information, it's not our fault. [*]
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
 | [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink) | No     | **Yes**     |
 | [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/) | Searxes #Addon | [Link](https://searxes.danwin1210.me/) | **Yes**     | **Yes**     |
-| [TPRB](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
+| [TPRB](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
-| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [*] | Gokulakrishna Sudharsan | [Link](https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
 
-[*] Do not use it if you're using proxy/VPN/Tor because it has "[DNS leak](https://en.wikipedia.org/wiki/DNS_leak)".
 
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
 
@@ -106,6 +104,90 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 - Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
 
+- If you want to know more alternative solutions, take a look at [this blog's "Alternative solutions" section](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html).
+
+- Redirect or block "_Cloudflare Warp_" users from accessing your website. And provide a reason if you can.
+
+> IP list is from "[Cloudflare’s current IP ranges](https://www.cloudflare.com/ips/)" webpage. They might lie, so check your server logs too.
+
+> Method A: Just block
+
+```
+server {
+...
+deny 173.245.48.0/20;
+deny 103.21.244.0/22;
+deny 103.22.200.0/22;
+deny 103.31.4.0/22;
+deny 141.101.64.0/18;
+deny 108.162.192.0/18;
+deny 190.93.240.0/20;
+deny 188.114.96.0/20;
+deny 197.234.240.0/22;
+deny 198.41.128.0/17;
+deny 162.158.0.0/15;
+deny 104.16.0.0/12;
+deny 172.64.0.0/13;
+deny 131.0.72.0/22;
+deny 2400:cb00::/32;
+deny 2606:4700::/32;
+deny 2803:f800::/32;
+deny 2405:b500::/32;
+deny 2405:8100::/32;
+deny 2a06:98c0::/29;
+deny 2c0f:f248::/32;
+...
+}
+```
+
+> Method B: Redirect to warning page
+
+```
+http {
+...
+geo $iscf {
+default 0;
+173.245.48.0/20 1;
+103.21.244.0/22 1;
+103.22.200.0/22 1;
+103.31.4.0/22 1;
+141.101.64.0/18 1;
+108.162.192.0/18 1;
+190.93.240.0/20 1;
+188.114.96.0/20 1;
+197.234.240.0/22 1;
+198.41.128.0/17 1;
+162.158.0.0/15 1;
+104.16.0.0/12 1;
+172.64.0.0/13 1;
+131.0.72.0/22 1;
+2400:cb00::/32 1;
+2606:4700::/32 1;
+2803:f800::/32 1;
+2405:b500::/32 1;
+2405:8100::/32 1;
+2a06:98c0::/29 1;
+2c0f:f248::/32 1;
+}
+...
+}
+
+server {
+...
+if ($iscf) {rewrite ^ https://example.com/cfwsorry.php;}
+...
+}
+
+<?php
+header('HTTP/1.1 406 Not Acceptable');
+echo <<<CLOUDFLARED
+Thank you for visiting ourwebsite.com!<br />
+We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
+Please read https://notabug.org/themusicgod1/cloudflare-tor/ for more information.<br />
+CLOUDFLARED;
+die();
+```
+
 - Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) or I2P insite if you believe in freedom and welcome anonymous users.
 
 - Ask for advice from other [Clearnet/Tor dual website operators](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor) and make anonymous friends! :)
@@ -132,7 +214,7 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 Let's talk about _other software's privacy_...
 
-- If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)". ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr).
+- If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)". ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in [many ways](https://spyware.neocities.org/articles/firefox.html).
 
 - Remember, Mozilla is [using Cloudflare service](https://www.robtex.com/dns-lookup/www.mozilla.org). They're also using [Cloudflare's DNS service on their product](https://www.theregister.co.uk/2018/03/21/mozilla_testing_dns_encryption/) D'oh!
 
@@ -227,6 +309,8 @@ Therefore we recommend "Tor Browser" only. Nothing else.
 - For companies that claim to _offer service on their website_ try reporting them as "_false advertising_" to consumer protection organizations and BBB. Cloudflare websites are served by Cloudflare servers.
 
 - The [ITU](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf) suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
+
+- It's conceivable that the GNU GPL v4 could include a provision against storing source code behind such a service, requiring for all GPLv4 and later programs that at least the source code is accessible via a medium that does not discriminate against tor users (or any other class of users or something?)
 
 ------------
 

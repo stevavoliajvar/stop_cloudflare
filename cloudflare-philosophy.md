@@ -1,5 +1,6 @@
-# Productivity and safety through the CloudFlare! 
-  
+# Productivity and safety through the CloudFlare!
+--------------
+
 ## Torblocks Philosophy 
  
 1) Have fun!
@@ -11,10 +12,13 @@ https://trac.torproject.org/projects/tor/ticket/18361
 https://trac.torproject.org/projects/tor/ticket/24351
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835
 
-one guy, marek apparently from Clownflare, utters unapologetic remarks that should come as no surprise.
+One guy, *marek* apparently from Cloudflare, utters unapologetic remarks that should come as no surprise.
+
+```
   "I will restrain myself and not comment on the political issues Jacob raised. I'll keep it technical."
   hey, in times of mass surveillance, technology is political. money is political. therefore Clownflare's policy is political. so?
   discussion is on. with "marek" and "jgrahamc" of Clownflare. last I looked they were unapologetic & attempting to snark Tor developers into building expensive client/Tor/TBB-side functionality to suit them. meanwhile stalling and offering minor workarounds (on the bright side, jgrahamc promised to make tor blocking optional for "free-" tier sites. (opt-out though)). 
+```
 
 BTW someone quickly wrote a (unhelpful & biased & not in-depth researched, rather "he said this and then the other guy said that" style) article about the discussion on the ticket for "TheRegister", which at first I couldn't read because it was behind ... TADA: a clownflare CAPTCHAwall. Luckily there's archive.is and they don't block that.
 
@@ -214,7 +218,7 @@ https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm
 > keystrokes
 > click location history tied to user fingerprint
 > All these criteria, are stored in the browser’s cookie. These criteria are processed by Google’s server
-> It should be emphasized, that there is a DARPA technology to identify people by mouse movements and typing ​
+> It should be emphasized, that there is a DARPA technology to identify people by mouse movements and typing 
 https://trac.torproject.org/projects/tor/ticket/18361#comment:147
 
 
