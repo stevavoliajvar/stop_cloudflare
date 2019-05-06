@@ -6,8 +6,8 @@ if (document.body && !['searxes.danwin1210.me', 'searxes.nmqnkngye4ct7bgss4bmv5c
 	})();
 	if (cs) {
 		cs.insertRule("a[data-mitm]{text-decoration-line:line-through !important;text-decoration-color:red !important;text-decoration-style:double !important}", 0);
-		cs.insertRule("a[data-mitm]::before{content:'[MITM!]';font-weight:bold !important;color:red !important}", 1);
-		cs.insertRule("a[data-mitm]:hover::before{content:'[Privacy Risk!!]'}", 2);
+		cs.insertRule("a[data-mitm]::before{content:'[\\26A0]';font-weight:bold !important;color:red !important;display:inline-block !important}", 1);
+		cs.insertRule("a[data-mitm]:hover::before{content:'[\\26A1]'}", 2);
 		cs.insertRule("a[data-mitm]:hover{color:red !important}", 3);
 	}
 	let asked = ['searxes.danwin1210.me', 'searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion', 'searxes.cyb', 'addons.mozilla.org'];

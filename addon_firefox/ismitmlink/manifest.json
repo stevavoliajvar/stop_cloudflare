@@ -2,8 +2,8 @@
    "manifest_version": 2,
    "name": "Are links vulnerable to MITM attack?",
    "description": "Scan FQDN using Searxes' API",
-   "version": "1.0.4",
-   "homepage_url": "https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink",
+   "version": "1.0.5",
+   "homepage_url": "https://notabug.org/themusicgod1/cloudflare-tor",
    "author": "Maslin Bossé",
    "permissions": [
       "storage",

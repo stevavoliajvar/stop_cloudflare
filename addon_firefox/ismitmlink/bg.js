@@ -1,11 +1,11 @@
 let apiurl = 'https://searxes.danwin1210.me/collab/open/ismitm.php';
 let TORapiurl = 'http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/ismitm.php';
 
-fetch('http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/hi.php', {
+fetch('http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/ok', {
 	method: 'GET',
 	mode: 'cors'
 }).then(r => r.text()).then(r => {
-	if (r == 'hi') {
+	if (r == 'ok') {
 		apiurl = TORapiurl;
 	}
 }).catch(() => {});
@@ -56,22 +56,29 @@ function i_remember_you(f, t) {
 	});
 }
 
-browser.storage.local.clear().then(() => {
-	browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
-		if (request && sender) {
-			i_already_know_you(request).then((r) => {
-				if (r == 1 || r == -1) {
-					browser.tabs.sendMessage(sender.tab.id, [request, ((r == 1) ? true : false)]);
-				}
-				if (r == 0) {
-					is_infected(request).then((a) => {
-						i_remember_you(request, a);
-						browser.tabs.sendMessage(sender.tab.id, [request, a]);
-					}, () => {
-						browser.tabs.sendMessage(sender.tab.id, [request, false]);
-					});
-				}
-			}, () => {});
-		}
-	});
-}, () => {});
+function clear_cache_week() {
+	browser.storage.local.clear();
+	setTimeout(function () {
+		clear_cache_week();
+	}, 604800000);
+}
+
+clear_cache_week();
+
+browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
+	if (request && sender) {
+		i_already_know_you(request).then((r) => {
+			if (r == 1 || r == -1) {
+				browser.tabs.sendMessage(sender.tab.id, [request, ((r == 1) ? true : false)]);
+			}
+			if (r == 0) {
+				is_infected(request).then((a) => {
+					i_remember_you(request, a);
+					browser.tabs.sendMessage(sender.tab.id, [request, a]);
+				}, () => {
+					browser.tabs.sendMessage(sender.tab.id, [request, false]);
+				});
+			}
+		}, () => {});
+	}
+});
