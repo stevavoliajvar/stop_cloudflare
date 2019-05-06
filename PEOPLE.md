@@ -112,6 +112,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare, if you don't know this; we have seriously misplaced our trust in you." by @[ADoug](https://twitter.com/ADoug/status/1125266988966739968)
+
 "If you truly care about your users & you are so concerned about privacy and having a decentralized Internet, then you will do what’s right" by @[larrybeck_](https://twitter.com/larrybeck_/status/1121412414115917826)
 
 "We are trusting one secretive, private company with censoring the web. We’re essentially centralising a decentralised system once again." by @[steve228uk](https://twitter.com/steve228uk/status/1061949645113511939)
@@ -345,6 +347,14 @@ Disqualify:
 "Akamai states that 0.2% of Tor exit nodes had malicious requests, yet CloudFlare claims 94%" by @[musalbas](https://twitter.com/musalbas/status/717316725973389313)
 
 "I'm starting to think that #CloudFlare is post-irony with their non-functional or just broken captchas" by @[ioerror](https://twitter.com/ioerror/status/715168927639343109)
+
+"Why trust Cloudflare so much? I'm very wary of them handling so much Internet traffic." by @[ampajaro](https://twitter.com/ampajaro/status/1113508899397734401)
+
+"You do not pay them anything. If you are not the customer, you are the product." by @[brettglass](https://twitter.com/brettglass/status/1119661919265116160)
+
+"I don't trust a CDN provider that much. Simple as that. It's too big of an ask. This is why I will not use cloudflare." by @[Otto42](https://twitter.com/Otto42/status/1099863930640449536)
+
+"There is no reason why people should trust you more than their ISP of choice." by @[pchapuis](https://twitter.com/pchapuis/status/1065601554131107840)
 
 "It gets even better. SOLVE ALL THE CAPTCHAS" by @[metabubble](https://twitter.com/metabubble/status/715206027793338368)
 
