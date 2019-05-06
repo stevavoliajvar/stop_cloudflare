@@ -3,10 +3,19 @@
 
 ## Website is using Cloudflare
 
+Cloudflare users:
+
 | List name | Description |
 | -------- | -------- |
 | /split/cloudflare(X).txt     | Split files (base domain)     |
 | ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not anymore     |
+| cloudflare_addedbyfqdn.txt     | Historical data (e.g. example.com was added because xyz.example.com is cloudflared     |
+
+
+Cloudflare Corporation:
+
+| List name | Description |
+| -------- | -------- |
 | cloudflare_CIDR_v4.txt     | IPv4 CIDR owned by Cloudflare     |
 | cloudflare_CIDR_v6.txt     | IPv6 CIDR owned by Cloudflare     |
 | cloudflare_range_v4.txt | IPv4 range owned by Cloudflare |
