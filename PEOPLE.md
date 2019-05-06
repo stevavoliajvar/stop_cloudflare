@@ -474,6 +474,8 @@ Disqualify:
 
 "If you're a daily Tor user like me, you should get used to contacting the services you use and ask them to #DontBlockTor" by @[yawnbox](https://twitter.com/yawnbox/status/847182068853428225)
 
+"Uses Cloudflare as MITM, blocks torproject, uses Google Adsense and Analytics to track you. This service is bullshit lies!" by @[MacLemon](https://twitter.com/MacLemon/status/793935353568694272)
+
 ------
 
 ######  Mastodon
