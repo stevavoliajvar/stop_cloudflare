@@ -116,6 +116,8 @@ Disqualify:
 
 "If you truly care about your users & you are so concerned about privacy and having a decentralized Internet, then you will do what’s right" by @[larrybeck_](https://twitter.com/larrybeck_/status/1121412414115917826)
 
+"A lot of us VPN users don't enjoy helping google train computer vision and fingerprinting bots. Or spending 20 minutes being told we don't know what crosswalks are." by @[digiwombat](https://twitter.com/digiwombat/status/1108480942417436672)
+
 "We are trusting one secretive, private company with censoring the web. We’re essentially centralising a decentralised system once again." by @[steve228uk](https://twitter.com/steve228uk/status/1061949645113511939)
 
 "Chiming in here, of course, but Cloudflare ARE censoring people." by @[misslolahunt](https://twitter.com/misslolahunt/status/1106745032722137088)
