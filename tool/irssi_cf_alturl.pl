@@ -255,7 +255,7 @@ sub GotUrl {
                         $answer   = $response->content;
                         if (
                             index( $answer,
-                                'http://dt2tq5y2ccowebjo.onion/?i=' ) == 0
+                                'http://dt2tq5y2ccowebjo.onion/?' ) == 0
                           )
                         {
                             if ( $mytype eq '' ) {
