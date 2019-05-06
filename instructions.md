@@ -67,7 +67,7 @@ IMPORTANT: Please add only "Base Domain"
 
 Type B: Just search about it on Searxes
 
-Search the domain on Searxes, and it'll appear as "[MITM!] link name".
+Use "[Is MITM?](https://searxes.danwin1210.me/collab/sxes/tool_ismitm.php)" webpage.
 
 
 3) If the website *no longer using Cloudflare*, *remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ex_cloudflare_users.txt)".
@@ -80,6 +80,7 @@ Search the domain on Searxes, and it'll appear as "[MITM!] link name".
 | List name | Description |
 | -------- | -------- |
 | list_error403.txt     | Returns HTTP Error 403 (Forbidden)     |
+| list_error462.txt     | Returns HTTP Error 462     |
 | list_customerror.txt     | Returns custom error message (not HTTP 403)     |
 | list_other.txt     | any other form of tor-hostility or mistreatment |
 | list_siteground.txt | siteground.com is a Tor-hostile hosting service that indiscriminately DoSes all Tor users with the collective judgement: "our system thinks you might be a robot!" Sometimes the site functions, and sometimes it times out, but the robot accusation is very common. |
@@ -106,4 +107,4 @@ Add them to [/not_cloudflare/](not_cloudflare/) (formerly "*TorBlocker Hall of S
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
-[This add-on](https://addons.mozilla.org/en-US/firefox/addon/which-website-rejected-me/) will help your list_error403 collection.
+[This add-on](https://notabug.org/themusicgod1/cloudflare-tor/src/master/not_cloudflare/whyrejectme) will help your list_error403 collection.
