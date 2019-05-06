@@ -68,9 +68,9 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 | Name | Developer | Support | Can Block | Can Notify |
 | -------- | -------- | -------- | -------- | -------- |
-| [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) | Project BCMA | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/bcma) |**Yes**     | **Yes**     |
+| [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) | Project BCMA | [Link](https://notabug.org/themusicgod1/cloudflare-tor) |**Yes**     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
-| [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ismitmlink) | No     | **Yes**     |
+| [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/themusicgod1/cloudflare-tor) | No     | **Yes**     |
 | [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/) | Searxes #Addon | [Link](https://searxes.danwin1210.me/) | **Yes**     | **Yes**     |
 | [TPRB](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
