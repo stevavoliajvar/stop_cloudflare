@@ -1,42 +1,38 @@
 {
    "manifest_version": 2,
-   "name": "Block Cloudflare MITM Attack",
-   "description": "Submit to global surveillance or resist. The choice is yours.",
-   "version": "1.0.1811.1",
-   "author": "Project BCMA",
-   "homepage_url": "https://trac.torproject.org/projects/tor/ticket/24351",
+   "name": "Are links vulnerable to MITM attack?",
+   "description": "Scan FQDN using Searxes' API",
+   "version": "1.0.5",
+   "homepage_url": "https://notabug.org/themusicgod1/cloudflare-tor",
+   "author": "Maslin Bossé",
    "permissions": [
-      "<all_urls>",
-      "activeTab",
-      "tabs",
-      "webRequest",
-      "webRequestBlocking",
-      "webNavigation"
+      "storage",
+      "unlimitedStorage"
    ],
    "icons": {
-      "32": "icons/icon-32.png",
-      "48": "icons/icon-48.png",
-      "64": "icons/icon-64.png"
+      "32": "icons/32.png"
    },
    "background": {
       "scripts": [
-         "anticloudflare.js"
+         "bg.js"
       ]
    },
-   "options_ui": {
-      "page": "mydata.html",
-      "browser_style": false
-   },
-   "browser_action": {
-      "browser_style": false,
-      "default_icon": {
-         "32": "icons/cf_0.png"
+   "content_scripts": [
+      {
+         "matches": [
+            "http://*/*",
+            "https://*/*"
+         ],
+         "js": [
+            "cs.js"
+         ],
+         "run_at": "document_end"
       }
-   },
+   ],
    "applications": {
       "gecko": {
-         "id": "24351@trac.torproject.org",
-         "strict_min_version": "52.0"
+         "id": "ismitm@searxes.danwin1210.me",
+         "strict_min_version": "56.0"
       }
    }
 }
