@@ -1,0 +1,36 @@
+{
+   "manifest_version": 2,
+   "name": "Block Cloudflare MITM Attack",
+   "description": "Submit to global surveillance or resist. The choice is yours.",
+   "version": "1.0.1905.1",
+   "minimum_chrome_version": "60",
+   "author": "Project BCMA",
+   "homepage_url": "https://notabug.org/themusicgod1/cloudflare-tor",
+   "incognito": "split",
+   "permissions": [
+      "<all_urls>",
+      "activeTab",
+      "tabs",
+      "webRequest",
+      "webRequestBlocking",
+      "webNavigation"
+   ],
+   "icons": {
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "64": "icons/icon-64.png"
+   },
+   "background": {
+      "scripts": [
+         "anticloudflare.js"
+      ]
+   },
+   "options_ui": {
+      "page": "mydata.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "32": "icons/cf_0.png"
+      }
+   }
+}
