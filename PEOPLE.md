@@ -112,6 +112,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"We're about to find out if #Cloudflare keeps your #IPAddress anywhere." by @[shadesmaclean](https://twitter.com/shadesmaclean/status/1125516351966027776)
+
 "Cloudflare, if you don't know this; we have seriously misplaced our trust in you." by @[ADoug](https://twitter.com/ADoug/status/1125266988966739968)
 
 "If you truly care about your users & you are so concerned about privacy and having a decentralized Internet, then you will do what’s right" by @[larrybeck_](https://twitter.com/larrybeck_/status/1121412414115917826)
@@ -471,6 +473,12 @@ Disqualify:
 "One large company (CloudFlare) deciding who can visit what." by @[OhNoItsFusl](https://twitter.com/OhNoItsFusl/status/680144362773319681)
 
 "So CloudFlare you block my surf because I'm behind a vpn protection?" by @[manuzful](https://twitter.com/manuzful/status/677474770867351553)
+
+"In hindsight, I'm an idiot for not taking the decrypt/recrypt into account" by @[Firesphere](https://twitter.com/Firesphere/status/756693331762184192)
+
+"any dev: to see how obscene they are, imagine getting captchas going onto github, twitter, Facebook" by @[thomaskerin](https://twitter.com/thomaskerin/status/753911221091434496)
+
+"You send every HTTPS request from my browser to Cloudflare. They decrypt that HTTPS traffic." by @[jamesconroyfinn](https://twitter.com/jamesconroyfinn/status/811276047085957120)
 
 "Never heard of cloudflare until network connectivity denied me" by @[1nzimande](https://twitter.com/1nzimande/status/690223994038030337)
 
