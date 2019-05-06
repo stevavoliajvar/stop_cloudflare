@@ -420,6 +420,10 @@ Disqualify:
 
 "The truth behind Google Captcha, Analytics, CloudFlare is Covert Espionage and Mass Surveillance." by @[Casey_Comendant](https://twitter.com/Casey_Comendant/status/1116417797007921152)
 
+"#Cloudflare is always the most frustrating part of my day. #dontblocktor" by @[jbrooks_](https://twitter.com/jbrooks_/status/715185447886938112)
+
+"C'mon CloudFlare... I really don't feel like training your AI today" by @[trevorpaglen](https://twitter.com/trevorpaglen/status/728330578781712384)
+
 "Tor CloudFlare Captcha #TellASadStoryin3Words" by @[YrB1rd](https://twitter.com/YrB1rd/status/834539628791209984)
 
 "CloudFlare is such trash, is there anything comparable that DOESN'T suck???" by @[radix42](https://twitter.com/radix42/status/834543824047190016)
