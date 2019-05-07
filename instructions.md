@@ -7,7 +7,7 @@
 
 | List name | Description |
 | -------- | -------- |
-| /split/cloudflare(X).txt     | Split files (base domain)     |
+| /domain/cloudflare_x.txt     | Split files (base domain)     |
 | ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not anymore     |
 | cloudflare_addedbyfqdn.txt     | Historical data (e.g. example.com was added because xyz.example.com is cloudflared     |
 
