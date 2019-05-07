@@ -3,7 +3,7 @@
 
 ## Website is using Cloudflare
 
-Cloudflare users | [List Directory](/src/master/cloudflare_users)
+**Cloudflare users** | [**List Directory**](cloudflare_users/)
 
 | List name | Description |
 | -------- | -------- |
@@ -12,7 +12,7 @@ Cloudflare users | [List Directory](/src/master/cloudflare_users)
 | cloudflare_addedbyfqdn.txt     | Historical data (e.g. example.com was added because xyz.example.com is cloudflared     |
 
 
-Cloudflare Corporation | [List Directory](/src/master/cloudflare_inc)
+**Cloudflare Corporation** | [**List Directory**](cloudflare_inc/)
 
 | List name | Description |
 | -------- | -------- |
@@ -86,6 +86,8 @@ Use "[Is MITM?](https://searxes.danwin1210.me/collab/sxes/tool_ismitm.php)" webp
 
 ## Website is NOT using Cloudflare (& blocking you)
 
+**Anti-Tor users** (formerly "*TorBlocker Hall of Shame Part I*") | [**List Directory**](not_cloudflare/)
+
 | List name | Description |
 | -------- | -------- |
 | list_error403.txt     | Returns HTTP Error 403 (Forbidden)     |
@@ -111,8 +113,6 @@ IMPORTANT: Please add only "Base Domain" or "(base domain)[space](comment here)"
 ```
 
 Some websites use other companies with the CloudFlare business model.
-
-Add them to [/not_cloudflare/](not_cloudflare/) (formerly "*TorBlocker Hall of Shame Part I*")
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
