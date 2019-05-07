@@ -31,7 +31,9 @@ Cloudflare also offer _FREE_ VPN service called "[Cloudflare Warp](https://blog.
 You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) scandal. It is true that AT&T lets NSA to [copy all internet data](https://www.cnet.com/news/at-t-lets-nsa-hide-and-surveil-in-plain-sight-the-intercept-reports/) for surveillance. Let's say you're working at the NSA, and you want _every citizen's internet profile_. You know most of them are blindly trusting Cloudflare and using it to proxy their personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping, video website, NSFW website, and illegal website. You also know they use Cloudflare's DNS service ("1.1.1.1") and VPN service ("Cloudflare Warp") for "_Secure! Faster! Better!_" internet experience. Combining them with user's IP address, browser fingerprint, cookies and RAY-ID will be useful to build target's online profile. You want their data. [What will you do](https://www.reddit.com/r/privacy/comments/1gb0pa/how_prism_actually_works_1520_att_fiber_optic/)?
 
 
-### Cloudflare is a honeypot. Free honey for everyone. _Some_ strings attached.
+### Cloudflare is a honeypot.
+
+### Free honey for everyone. _Some_ strings attached.
 
 ### Do not use Cloudflare.
 
@@ -46,7 +48,7 @@ This repository is a list of websites that are behind The Great Cloudwall, and a
 
 
 Domain list  -  mirrors: [NixNet](https://git.nixnet.xyz/Username/cloudflare-tor),  [CodeBerg](https://codeberg.org/Username/cloudflare-tor)
-* [Domains using Cloudflare](split/)
+* [Domains using Cloudflare](cloudflare_users/)
 * [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
 Information
@@ -75,7 +77,7 @@ Also see [Frequently Asked Questions](faq.md).
 
 * Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
 
-* [Tool / Script](https://notabug.org/themusicgod1/cloudflare-tor/src/master/tool)
+* [Tool / Script](tool/)
 
 * Subscribe to ![](image/feed.png) RSS feed: "[The Great Cloudwall News](https://ieji.de/users/crimeflare.rss)" or follow ![](image/mstdn.jpg) [crimeflare@ieji.de](https://ieji.de/@crimeflare)
 
