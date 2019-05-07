@@ -1,6 +1,0 @@
-format: name here | title | URL
-
-
-Matthew Prince | CEO | https://twitter.com/eastdakota
-Michelle Zatlyn | founder | https://twitter.com/zatlyn
-Lee Holloway | founder | https://twitter.com/icqheretic
