@@ -82,7 +82,7 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 ######  Website owner / Web developer
 
-![](image/cfisnotanoption.jpg)
+![](image/word_cloudflarefree.jpg)
 
 - Do not use Cloudflare solution.  You can do better than that, *right*?
 
