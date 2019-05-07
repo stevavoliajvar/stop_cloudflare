@@ -117,4 +117,4 @@ Some websites use other companies with the CloudFlare business model.
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
-[This add-on](https://notabug.org/themusicgod1/cloudflare-tor/src/master/not_cloudflare/whyrejectme) will help your list_error403 collection.
+[This add-on](not_cloudflare/whyrejectme) will help your list_error403 collection.
