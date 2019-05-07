@@ -83,9 +83,9 @@ Also see [Frequently Asked Questions](faq.md).
 
 | Name | Firefox | Chrome |
 | -------- | -------- | -------- |
-| Block Cloudflare MITM Attack | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_firefox/bcma) | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_chrome/bcma) |
-| Are links vulnerable to MITM? | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_firefox/ismitmlink) | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/addon_chrome/ismitmlink) |
-| Which website rejected me? | [Code](https://notabug.org/themusicgod1/cloudflare-tor/src/master/not_cloudflare/whyrejectme) | - |
+| Block Cloudflare MITM Attack | [Code](addon_firefox/bcma) | [Code](addon_chrome/bcma) |
+| Are links vulnerable to MITM? | [Code](addon_firefox/ismitmlink) | [Code](addon_chrome/ismitmlink) |
+| Which website rejected me? | [Code](addon_firefox/whyrejectme) | - |
 
 
 ![WTF](image/wtfcf.jpg)
