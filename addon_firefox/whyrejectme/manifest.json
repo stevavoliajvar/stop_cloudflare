@@ -1,0 +1,31 @@
+{
+   "manifest_version": 2,
+   "name": "Which website rejected me?",
+   "description": "Your website rejected me, but I know I'm going to be okay.",
+   "version": "1.0.0",
+   "author": "Maslin Bossé",
+   "permissions": [
+      "webRequest",
+      "<all_urls>"
+   ],
+   "icons": {
+      "32": "icons/32.png"
+   },
+   "background": {
+      "scripts": [
+         "bg.js"
+      ]
+   },
+   "options_ui": {
+      "browser_style": false,
+      "open_in_tab": true,
+      "page": "log.html"
+   },
+   "applications": {
+      "gecko": {
+         "id": "urejectme@searxes.danwin1210.me",
+         "strict_min_version": "56.0",
+         "update_url":"https://searxes.danwin1210.me/collab/addon/au.php?for=ureject"
+      }
+   }
+}
