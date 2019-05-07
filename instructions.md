@@ -3,7 +3,7 @@
 
 ## Website is using Cloudflare
 
-Cloudflare users:
+Cloudflare users | [List Directory](/src/master/cloudflare_users)
 
 | List name | Description |
 | -------- | -------- |
@@ -12,7 +12,7 @@ Cloudflare users:
 | cloudflare_addedbyfqdn.txt     | Historical data (e.g. example.com was added because xyz.example.com is cloudflared     |
 
 
-Cloudflare Corporation:
+Cloudflare Corporation | [List Directory](/src/master/cloudflare_inc)
 
 | List name | Description |
 | -------- | -------- |
