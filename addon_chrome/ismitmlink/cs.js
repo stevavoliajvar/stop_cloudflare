@@ -15,10 +15,10 @@ if (document.body && !['searxes.danwin1210.me', 'searxes.nmqnkngye4ct7bgss4bmv5c
 		let aF = (new URL(a.href)).hostname;
 		if (!/^(.*)\.(onion|i2p|invalid|test|local|localhost|([0-9]{1,3})|bbs|chan|cyb|dyn|geek|gopher|indy|libre|neo|null|o|oss|oz|parody|pirate|bit|lib|coin|emc|bazar|fur)$/.test(aF) && !asked.includes(aF)) {
 			asked.push(aF);
-			browser.runtime.sendMessage(aF);
+			chrome.runtime.sendMessage(aF);
 		}
 	});
-	browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
+	chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 		if (request.length == 2) {
 			if (request[1]) {
 				document.querySelectorAll("a[href^='http://" + request[0] + "/']:not([data-mitm]),a[href^='https://" + request[0] + "/']:not([data-mitm]),a[href^='//" + request[0] + "/']:not([data-mitm])").forEach(a => {

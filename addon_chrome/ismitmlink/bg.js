@@ -11,6 +11,7 @@ fetch('http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.o
 }).catch(() => {});
 
 function is_infected(f) {
+	console.log(f);
 	return new Promise((g, b) => {
 		fetch(apiurl, {
 			method: 'POST',
@@ -34,7 +35,7 @@ function i_already_know_you(f) {
 		return false;
 	}
 	return new Promise((g, b) => {
-		browser.storage.local.get(f).then((ff) => {
+		chrome.storage.local.get(f, (ff) => {
 			if (ff[f]) {
 				if (ff[f] == 'y') {
 					g(1);
@@ -44,39 +45,37 @@ function i_already_know_you(f) {
 			} else {
 				g(0);
 			}
-		}, () => {
-			g(0);
 		});
 	});
 }
 
 function i_remember_you(f, t) {
-	browser.storage.local.set({
+	chrome.storage.local.set({
 		[f]: ((t) ? 'y' : 'n')
 	});
 }
 
 function clear_cache_week() {
-	browser.storage.local.clear();
+	chrome.storage.local.clear();
 	setTimeout(function () {
-		clear_cache_week();
+		clear_cache();
 	}, 604800000);
 }
 
 clear_cache_week();
 
-browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
-	if (request && sender) {
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+	if (request) {
 		i_already_know_you(request).then((r) => {
 			if (r == 1 || r == -1) {
-				browser.tabs.sendMessage(sender.tab.id, [request, ((r == 1) ? true : false)]);
+				chrome.tabs.sendMessage(sender.tab.id, [request, ((r == 1) ? true : false)]);
 			}
 			if (r == 0) {
 				is_infected(request).then((a) => {
 					i_remember_you(request, a);
-					browser.tabs.sendMessage(sender.tab.id, [request, a]);
+					chrome.tabs.sendMessage(sender.tab.id, [request, a]);
 				}, () => {
-					browser.tabs.sendMessage(sender.tab.id, [request, false]);
+					chrome.tabs.sendMessage(sender.tab.id, [request, false]);
 				});
 			}
 		}, () => {});

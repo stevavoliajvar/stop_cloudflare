@@ -84,6 +84,10 @@ Disqualify:
 
 ######  Forum / Wiki
 
+"[Cloudflare Is Not An Option!](https://www.reddit.com/r/privacy/comments/bhag8s/cloudflare_is_not_an_option/)" by [FVz7Ftt83m](https://www.reddit.com/user/FVz7Ftt83m)
+
+"[I'm not sure if I can ELI5 this but I'll try my best to explain.](https://www.reddit.com/r/india/comments/bg3lxh/was_casually_checking_my_logs_this_is_what_is/elk77k3/)" by [Waphire](https://www.reddit.com/user/Waphire)
+
 "[Anonym im Internet - Inhaltsverzeichnis](https://wiki.kairaven.de/open/anon/netzwerk/anet)" by [Kairaven](https://hp.kairaven.de)
 
 "[Issues with corporate censorship and mass surveillance](https://www.torproject.org/projects/tor/ticket/18361)" by [Jacob Appelbaum](https://twitter.com/ioerror)
@@ -107,6 +111,20 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"We're about to find out if #Cloudflare keeps your #IPAddress anywhere." by @[shadesmaclean](https://twitter.com/shadesmaclean/status/1125516351966027776)
+
+"Cloudflare, if you don't know this; we have seriously misplaced our trust in you." by @[ADoug](https://twitter.com/ADoug/status/1125266988966739968)
+
+"If you truly care about your users & you are so concerned about privacy and having a decentralized Internet, then you will do what’s right" by @[larrybeck_](https://twitter.com/larrybeck_/status/1121412414115917826)
+
+"A lot of us VPN users don't enjoy helping google train computer vision and fingerprinting bots. Or spending 20 minutes being told we don't know what crosswalks are." by @[digiwombat](https://twitter.com/digiwombat/status/1108480942417436672)
+
+"We are trusting one secretive, private company with censoring the web. We’re essentially centralising a decentralised system once again." by @[steve228uk](https://twitter.com/steve228uk/status/1061949645113511939)
+
+"Chiming in here, of course, but Cloudflare ARE censoring people." by @[misslolahunt](https://twitter.com/misslolahunt/status/1106745032722137088)
+
+" I do not appreciate "Cloud flare" unilaterally censoring conservative sites I choose to visit and comment on" by @[Suchindranath](https://twitter.com/Suchindranath/status/1086253299064438784)
 
 "Cloudflare's CEO and abuse head block me over arguing about their support of abusive websites. Trolls fear transparency." by @[dxgl_org](https://twitter.com/dxgl_org/status/1123622959124549632)
 
@@ -334,6 +352,14 @@ Disqualify:
 
 "I'm starting to think that #CloudFlare is post-irony with their non-functional or just broken captchas" by @[ioerror](https://twitter.com/ioerror/status/715168927639343109)
 
+"Why trust Cloudflare so much? I'm very wary of them handling so much Internet traffic." by @[ampajaro](https://twitter.com/ampajaro/status/1113508899397734401)
+
+"You do not pay them anything. If you are not the customer, you are the product." by @[brettglass](https://twitter.com/brettglass/status/1119661919265116160)
+
+"I don't trust a CDN provider that much. Simple as that. It's too big of an ask. This is why I will not use cloudflare." by @[Otto42](https://twitter.com/Otto42/status/1099863930640449536)
+
+"There is no reason why people should trust you more than their ISP of choice." by @[pchapuis](https://twitter.com/pchapuis/status/1065601554131107840)
+
 "It gets even better. SOLVE ALL THE CAPTCHAS" by @[metabubble](https://twitter.com/metabubble/status/715206027793338368)
 
 "CloudFlare is gathering the web and centralizes it, I don't see any good aspect in this" by @[fuolpit](https://twitter.com/fuolpit/status/715942023564550144)
@@ -398,6 +424,10 @@ Disqualify:
 
 "The truth behind Google Captcha, Analytics, CloudFlare is Covert Espionage and Mass Surveillance." by @[Casey_Comendant](https://twitter.com/Casey_Comendant/status/1116417797007921152)
 
+"#Cloudflare is always the most frustrating part of my day. #dontblocktor" by @[jbrooks_](https://twitter.com/jbrooks_/status/715185447886938112)
+
+"C'mon CloudFlare... I really don't feel like training your AI today" by @[trevorpaglen](https://twitter.com/trevorpaglen/status/728330578781712384)
+
 "Tor CloudFlare Captcha #TellASadStoryin3Words" by @[YrB1rd](https://twitter.com/YrB1rd/status/834539628791209984)
 
 "CloudFlare is such trash, is there anything comparable that DOESN'T suck???" by @[radix42](https://twitter.com/radix42/status/834543824047190016)
@@ -444,6 +474,12 @@ Disqualify:
 
 "So CloudFlare you block my surf because I'm behind a vpn protection?" by @[manuzful](https://twitter.com/manuzful/status/677474770867351553)
 
+"In hindsight, I'm an idiot for not taking the decrypt/recrypt into account" by @[Firesphere](https://twitter.com/Firesphere/status/756693331762184192)
+
+"any dev: to see how obscene they are, imagine getting captchas going onto github, twitter, Facebook" by @[thomaskerin](https://twitter.com/thomaskerin/status/753911221091434496)
+
+"You send every HTTPS request from my browser to Cloudflare. They decrypt that HTTPS traffic." by @[jamesconroyfinn](https://twitter.com/jamesconroyfinn/status/811276047085957120)
+
 "Never heard of cloudflare until network connectivity denied me" by @[1nzimande](https://twitter.com/1nzimande/status/690223994038030337)
 
 "Access denied. What have you done, the CloudFlare cyberpolice are now out to get me!" by @[nyarth](https://twitter.com/nyarth/status/287603063668228096)
@@ -461,6 +497,8 @@ Disqualify:
 "Today I learned that Cloudflare is doing more to censor the internet than the Great Firewall of China" by @[pabloduboue](https://twitter.com/pabloduboue/status/682394633641549829)
 
 "If you're a daily Tor user like me, you should get used to contacting the services you use and ask them to #DontBlockTor" by @[yawnbox](https://twitter.com/yawnbox/status/847182068853428225)
+
+"Uses Cloudflare as MITM, blocks torproject, uses Google Adsense and Analytics to track you. This service is bullshit lies!" by @[MacLemon](https://twitter.com/MacLemon/status/793935353568694272)
 
 ------
 
