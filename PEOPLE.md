@@ -98,6 +98,8 @@ Disqualify:
 
 "[Cloudflare as a Security Risk - Support - Whonix Forum](http://forums.whonix.org/t/cloudflare-as-a-security-risk/2162)" by [entr0py](https://forums.whonix.org/u/entr0py)
 
+"[The catch you're missing](https://www.reddit.com/r/Wordpress/comments/2zpq2g/cloudflare_free_plan_too_good_to_be_true/cpldjc6/)" by [cqwww](https://www.reddit.com/user/cqwww)
+
 "[How likely is it that CloudFlare is an NSA operation?](https://www.quora.com/How-likely-is-it-that-CloudFlare-is-an-NSA-operation/answer/Hamid-Sarfraz)" by quora
 
 "[cloudflare 是如何转发 HTTPS 流量的？](https://www.v2ex.com/t/406759)" by [feast](https://www.v2ex.com/member/feast)
