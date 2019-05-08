@@ -1305,6 +1305,7 @@ Monk https://twitter.com/thejavmonk
 Monojit Sengupta https://twitter.com/RTR_MRSG
 Moteb Saad https://twitter.com/MotebSaad
 Motiur Rahman https://twitter.com/Motiureee
+Mozilla https://twitter.com/mozilla
 Mr Cuong https://twitter.com/vunamcuong
 Mr. Bitcoin [BTC is forever] https://twitter.com/Crystamped
 Mr. Eposig https://twitter.com/Eposig
@@ -1773,6 +1774,7 @@ Staticaly https://twitter.com/staticalyhq
 Ste_Pic https://twitter.com/pneumogeek
 Stefan Caliaro https://twitter.com/stefancaliaro
 Stefan Defurov https://twitter.com/stesd
+Stefan Eady https://twitter.com/stefan_eady
 Stefan Furtuna https://twitter.com/AndroidMaster97
 Stefan Natter https://twitter.com/natterstefan
 Stemfund https://twitter.com/Stemfund
@@ -2707,4 +2709,3 @@ znahar https://twitter.com/znahar12
  Marcos Paulo Morale https://twitter.com/MarcosMorale
  Rodrigo  https://twitter.com/rlopeztaboada
 Charlyto47 https://twitter.com/Charlyto47
-Stefan Eady https://twitter.com/stefan_eady
