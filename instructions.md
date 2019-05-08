@@ -100,16 +100,13 @@ Type B: Use "[Is MITM?](https://searxes.danwin1210.me/collab/sxes/tool_ismitm.ph
 ![](image/siteground.jpg)
 
 ```
-IMPORTANT: Please add only "Base Domain" or "(base domain)[space](comment here)"
+IMPORTANT: Please add only "FQDN" or "FQDN[space](comment here)"
 
     if "community.example.com" is blocking Tor
-        add "example.com"
+        add "community.example.com"
 
-    if "www.example.co.uk" is blocking Tor
+    if "example.co.uk" is blocking Tor
         add "example.co.uk Error message: Anonymous not allowed"
-
-    if "example.net" is blocking Tor
-        add "example.net"
 ```
 
 Some websites use other companies with the CloudFlare business model.
