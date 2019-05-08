@@ -76,12 +76,10 @@ IMPORTANT: Please add only "Base Domain"
 ... to /split/cloudflare_e.txt
 ```
 
-Type B: Just search about it on Searxes
-
-Use "[Is MITM?](https://searxes.danwin1210.me/collab/sxes/tool_ismitm.php)" webpage.
+Type B: Use "[Is MITM?](https://searxes.danwin1210.me/collab/sxes/tool_ismitm.php)" webpage.
 
 
-3) If the website *no longer using Cloudflare*, *remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](https://notabug.org/themusicgod1/cloudflare-tor/src/master/ex_cloudflare_users.txt)".
+3) If the website *no longer using Cloudflare*, *remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)".
 
 
 --------------
@@ -118,4 +116,4 @@ Some websites use other companies with the CloudFlare business model.
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
-[This add-on](not_cloudflare/whyrejectme) will help your list_error403 collection.
+[This add-on](addon_firefox/whyrejectme) will help your list_error403 collection.
