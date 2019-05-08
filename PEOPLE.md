@@ -114,6 +114,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare deleted my domain config I lost all my DNS settings no wonder why my emails were not working." by @[stefan_eady](https://twitter.com/stefan_eady/status/1126033791267426304)
+
 "We're about to find out if #Cloudflare keeps your #IPAddress anywhere." by @[shadesmaclean](https://twitter.com/shadesmaclean/status/1125516351966027776)
 
 "Cloudflare, if you don't know this; we have seriously misplaced our trust in you." by @[ADoug](https://twitter.com/ADoug/status/1125266988966739968)
