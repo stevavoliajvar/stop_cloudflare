@@ -13,4 +13,6 @@ https://twitter.com/search?f=tweets&vertical=default&q=I%20just%20started%20tran
 https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20blocks%20or%20challenges%20bad%20requests
 https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20has%20helped%20me%20save
 https://twitter.com/search?f=tweets&vertical=default&q=Stopping%20the%20bad%20guys%20with%20Cloudflare
+https://twitter.com/search?f=tweets&vertical=default&q=My%20website%20handles%20more%20traffic%20thanks%20to%20Cloudflare.
+https://twitter.com/search?f=tweets&vertical=default&q=Making%20a%20safer%20internet%20with%20Cloudflare
 ```
