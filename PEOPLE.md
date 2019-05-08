@@ -492,6 +492,8 @@ Disqualify:
 
 "Really wish you didn't block my IP with Cloud Flare. I'd join and support if I could." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/801186753746903041)
 
+"Get your shit together. Stop treating all Tor users like criminals." by @[slashdashdot](https://twitter.com/slashdashdot/status/715639099130908674)
+
 "Link uses Cloud Flare to block IPs of those of us who browse anonymously" by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/568445705020420096)
 
 "Someone tell me how to bypass cloud flare so I can add..." by @[Shh_Its_Raghav](https://twitter.com/Shh_Its_Raghav/status/967888191201185793)
