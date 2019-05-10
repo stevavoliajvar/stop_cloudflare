@@ -114,6 +114,14 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare has been crippling our web site speed and has been removed. Things should be noticeably better from today." by @[ModSquadAU](https://twitter.com/ModSquadAU/status/1126617699591737345)
+
+"If you are actually deleting all of the information you have on me then how are you able to prevent me from signing up with the same email?" by @[real_ate](https://twitter.com/real_ate/status/1126415124095471617)
+
+"Cloudflare keeps banning me temporarily... just from browser activity. Is there anything I can do to prevent this?" by @[marcgoujon](https://twitter.com/marcgoujon/status/1120726019407638528)
+
+"Your firewall rules prevent our office IP to visit (Cloudflare 1020, Access denied). Can you help us out?" by @[WietseWind](https://twitter.com/WietseWind/status/1115176560204627969)
+
 "Cloudflare deleted my domain config I lost all my DNS settings no wonder why my emails were not working." by @[stefan_eady](https://twitter.com/stefan_eady/status/1126033791267426304)
 
 "We're about to find out if #Cloudflare keeps your #IPAddress anywhere." by @[shadesmaclean](https://twitter.com/shadesmaclean/status/1125516351966027776)
