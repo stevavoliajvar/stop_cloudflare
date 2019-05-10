@@ -114,6 +114,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Use #1dot1dot1dot1, and you WILL be spied on." by @[brettglass](https://twitter.com/brettglass/status/1126521626768609281)
+
 "Cloudflare has been crippling our web site speed and has been removed. Things should be noticeably better from today." by @[ModSquadAU](https://twitter.com/ModSquadAU/status/1126617699591737345)
 
 "If you are actually deleting all of the information you have on me then how are you able to prevent me from signing up with the same email?" by @[real_ate](https://twitter.com/real_ate/status/1126415124095471617)
