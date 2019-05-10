@@ -1,3 +1,9 @@
+*2019.05.08*
+
+Repository was moved:
+https://notabug.org/crimeflare/cloudflare-tor/
+
+
 *2019.04.04*
 
 @holydevil@birdsite:
