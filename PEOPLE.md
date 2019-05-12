@@ -558,6 +558,8 @@ Disqualify:
 
 ######  Mastodon
 
+"How pathetic is life when becoming absolutely enraged after solving a #captcha 3 times but not being permitted to move forward." by @[hrthu](https://fosstodon.org/@hrthu/101987545210858236)
+
 "You definitely put yourself in big danger by using it. Cloudflare has an own CA that is able to issue certificates for ANY website." by @[sheogorath](https://microblog.shivering-isles.com/@sheogorath/102056520473398252)
 
 "Cloudflare is among the worst organisations I've seen from a privacy and security standpoint, same as Google, Facebook, et al." by @[amolith](https://masto.nixnet.xyz/@amolith/101919558389894089)
