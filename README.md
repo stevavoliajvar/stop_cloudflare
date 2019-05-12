@@ -13,7 +13,7 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 
 ![](image/banvpn.jpg)
 
-And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning fake IP address owned by Cloudflare or just return nothing. See NEWS.md for more information.
+And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning fake IP address owned by Cloudflare or just return nothing.
 
 ![](image/dnscensor.jpg)
 
@@ -80,8 +80,6 @@ Also see [Frequently Asked Questions](faq.md).
 * Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
 
 * [Tool / Script](tool/)
-
-* Subscribe to ![](image/feed.png) RSS feed: "[The Great Cloudwall News](https://ieji.de/users/crimeflare.rss)" or follow ![](image/mstdn.jpg) [crimeflare@ieji.de](https://ieji.de/@crimeflare)
 
 * Take a look at add-on code and try it
 
