@@ -63,7 +63,7 @@ There are more details of why what they are doing is wrong available [here](clou
 Also see [Frequently Asked Questions](faq.md).
 
 
-![](image/omsnote.jpg)
+[![](image/omsnote.jpg)](https://twitter.com/abditum/status/715353939911159809)
 
 
 # What can you do?
