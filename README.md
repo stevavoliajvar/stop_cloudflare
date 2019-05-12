@@ -57,7 +57,6 @@ Information
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
 * [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
-* [Cloudflare's Advertisement is just wrong](https://notabug.org/themusicgod1/cloudflare-tor/issues/123)
 
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
