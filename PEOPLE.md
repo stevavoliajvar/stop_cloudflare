@@ -114,6 +114,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Resulta que la web m'ha bloquejat per activitat sospitosa Quin ensurt!" by @[bartomeumiro](https://twitter.com/bartomeumiro/status/1127517268152287233)
+
 "They block anyone who challenges them on their lack of morals or ethics. All while claiming transparency and protection of free speech." by @[phyzonloop](https://twitter.com/phyzonloop/status/1126950283580456960)
 
 "How about actually focus on protecting your website and not rely on free cloudflare to cover your ass" by @[organise](https://twitter.com/organise/status/1127363885282017280)
