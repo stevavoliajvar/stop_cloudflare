@@ -114,6 +114,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"How about actually focus on protecting your website and not rely on free cloudflare to cover your ass" by @[organise](https://twitter.com/organise/status/1127363885282017280)
+
 "Use #1dot1dot1dot1, and you WILL be spied on." by @[brettglass](https://twitter.com/brettglass/status/1126521626768609281)
 
 "Cloudflare has been crippling our web site speed and has been removed. Things should be noticeably better from today." by @[ModSquadAU](https://twitter.com/ModSquadAU/status/1126617699591737345)
