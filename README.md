@@ -7,6 +7,7 @@
 It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of filtering out *some* people from seeing web content (ie everyone in mainland China and some people outside) while at the same time those not affected to see a dratically different web, a web free of censorship of such images as ["tank man"](https://en.wikipedia.org/wiki/Tank_Man).
 
 ![](image/onemorestep.jpg)
+![](image/accdenied.jpg)
 
 Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT) unless they solve multiple image CAPTCHAs. Cloudflare also has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5). [Tor users](https://www.torproject.org/) and [VPN users](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) are a victim.
 
@@ -70,6 +71,8 @@ Also see [Frequently Asked Questions](faq.md).
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends
 
 * Read [other user's voice](PEOPLE.md) (if you write a blog, tell us your URL)
+
+![](image/omsnote.jpg)
 
 * Update the domain list: [List instructions](instructions.md)
 
