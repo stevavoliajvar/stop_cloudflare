@@ -520,6 +520,18 @@ Disqualify:
 
 "Uses Cloudflare as MITM, blocks torproject, uses Google Adsense and Analytics to track you. This service is bullshit lies!" by @[MacLemon](https://twitter.com/MacLemon/status/793935353568694272)
 
+"Please unblock my IP address. I’m having to enter CAPTCHA for every website I visit" by @[itixx](https://twitter.com/itixx/status/974463968269033472)
+
+"Receiving a blocked ip error from cloudflare, why is that happening, can you unblock this ip? We never entered any wrong data" by @[entequak](https://twitter.com/entequak/status/906125031599722496)
+
+"Please, unblock me on http://planetminecraft.com . My ip is: x. It's because i'm using proxy." by @[S60Team](https://twitter.com/S60Team/status/789740374810095616)
+
+"You aren't making anything any easier. Unblock direct IP access for a day, will you?" by @[simAlity](https://twitter.com/simAlity/status/789544967261736960)
+
+"It seems your site is behind Cloudflare and is blocking Tor. Could you unblock it?" by @[qbi](https://twitter.com/qbi/status/761688391075434497)
+
+"Please unblock your site, and don't use Cloudflare #dontblocktor" by @[motters](https://twitter.com/motters/status/747523232039866368)
+
 ------
 
 ######  Mastodon
