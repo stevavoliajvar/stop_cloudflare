@@ -554,6 +554,11 @@ Disqualify:
 
 "This is clearly indicate, these websites track us." by @[muththukrishna](https://twitter.com/muththukrishna/status/982786376235126786)
 
+"The stupidest thing now a days #cloudflare asking #captcha everytime. #cloudflare i use Mac please dont give shitty explanation of #malware" by @[_danielchris](https://twitter.com/_danielchris/status/725628300253515776)
+
+"Cloudflare is shit, dont use it" by @[raz_c](https://twitter.com/raz_c/status/436534703873884160)
+
+
 ------
 
 ######  Mastodon
