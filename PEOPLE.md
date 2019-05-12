@@ -328,6 +328,8 @@ Disqualify:
 
 "First, you create a problem. Then, you pretend to solve that problem." by @[switch_d](https://twitter.com/switch_d/status/1116039082977533952)
 
+"Why are you blocking listeners in Thailand? You’re blocking countries at the CloudFlare level. I’ve tried multiple IPs from multiple providers here. It’s discriminatory to block based on country of origin." by @[smacintyre](https://twitter.com/smacintyre/status/1087543097574154240)
+
 "Cloudflare DNS is flaking out ugh" by @[sleepingkyoto](https://twitter.com/sleepingkyoto/status/1115014195286646784)
 
 "Tell eastdakota it's not nice to block me. He said in his YouTube interviews that #censorship is bad." by @[phyzonloop](https://twitter.com/phyzonloop/status/1067177577519898626)
