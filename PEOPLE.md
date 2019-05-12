@@ -534,6 +534,26 @@ Disqualify:
 
 "Please unblock your site, and don't use Cloudflare #dontblocktor" by @[motters](https://twitter.com/motters/status/747523232039866368)
 
+"One more stepというのが出た Cloudflareってなんやねん" by @[zofeee](https://twitter.com/zofeee/status/1114998054770302976)
+
+"I've had a issue for a while now where I get a box on OBS which says "One more step. Please complete the security check to access http://streamlabs.com " I went to your website and completed it with 2 different browsers but still the same thing." by @[NemeZiLive](https://twitter.com/NemeZiLive/status/1101399417024843777)
+
+"Is it normal for attempts to open your site, to be met with One more step +capcha test? or a BS speedbump?" by @[TotsTeeter](https://twitter.com/TotsTeeter/status/1061732565185261568)
+
+"One more step Please complete the security check to access... I’m gonna blow my brains" by @[ahmMohs](https://twitter.com/ahmMohs/status/1045282363805249536)
+
+"uh thats gonna b a cmd+w for me" by @[reifitaputs](https://twitter.com/reifitaputs/status/1036555891829403648)
+
+"最近、「One more step」という画面がよく出てくるようになって、まともにネットが使えないんだけど、それはカンボジアまたはこの辺の地域の中国人ハッカー共が仕事してるってことでいいのかな" by @[sanchoku_iruma](https://twitter.com/sanchoku_iruma/status/1031794606692691968)
+
+"How to have me leave your site. "One more step" Forcing users that us vpns to jump through hoops is lousy customer service." by @[nomadcat](https://twitter.com/nomadcat/status/1023585890512371712)
+
+"A chaque fois que je veux consulter un site il y'a ça : Remplir un captcha" by @[B_Maroc](https://twitter.com/B_Maroc/status/1015990908565819392)
+
+"I’m sure these makes your site very secure but they’re an absolute pain. Could you please turn them off? Three rounds of CAPTCHAS to read a blog is a bit disproportionate." by @[Aeyoun](https://twitter.com/Aeyoun/status/1012399198124347392)
+
+"This is clearly indicate, these websites track us." by @[muththukrishna](https://twitter.com/muththukrishna/status/982786376235126786)
+
 ------
 
 ######  Mastodon
