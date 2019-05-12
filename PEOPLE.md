@@ -524,7 +524,7 @@ Disqualify:
 
 "Receiving a blocked ip error from cloudflare, why is that happening, can you unblock this ip? We never entered any wrong data" by @[entequak](https://twitter.com/entequak/status/906125031599722496)
 
-"Please, unblock me on http://planetminecraft.com . My ip is: x. It's because i'm using proxy." by @[S60Team](https://twitter.com/S60Team/status/789740374810095616)
+"Please, unblock me on x. My ip is: x. It's because i'm using proxy." by @[S60Team](https://twitter.com/S60Team/status/789740374810095616)
 
 "You aren't making anything any easier. Unblock direct IP access for a day, will you?" by @[simAlity](https://twitter.com/simAlity/status/789544967261736960)
 
