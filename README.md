@@ -64,15 +64,14 @@ There are more details of why what they are doing is wrong available [here](clou
 Also see [Frequently Asked Questions](faq.md).
 
 
-![What did YOU do to stop CF?](image/stopcf.jpg)
+![](image/omsnote.jpg)
+
 
 # What can you do?
 
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends
 
 * Read [other user's voice](PEOPLE.md) (if you write a blog, tell us your URL)
-
-![](image/omsnote.jpg)
 
 * Update the domain list: [List instructions](instructions.md)
 
@@ -111,3 +110,6 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 * [Searxes](https://searxes.danwin1210.me/) meta-search engine
 * [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) add-on
 * Some Firefox Add-ons
+
+
+![What did YOU do to stop CF?](image/stopcf.jpg)
