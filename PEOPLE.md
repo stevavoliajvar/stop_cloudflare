@@ -114,6 +114,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare can fuck right off with this sudden "Confirm you're not a robot" page that's popping up everyfuckingwhere. Sort your malconfigured shit out." by @[anarchic_teapot](https://twitter.com/anarchic_teapot/status/1127677511838707713)
+
 "Resulta que la web m'ha bloquejat per activitat sospitosa Quin ensurt!" by @[bartomeumiro](https://twitter.com/bartomeumiro/status/1127517268152287233)
 
 "They block anyone who challenges them on their lack of morals or ethics. All while claiming transparency and protection of free speech." by @[phyzonloop](https://twitter.com/phyzonloop/status/1126950283580456960)
