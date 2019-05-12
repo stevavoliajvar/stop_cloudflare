@@ -103,7 +103,7 @@ Also see [Frequently Asked Questions](faq.md).
 
 * [Tool / Script](tool/)
 
-* ![](image/feed.png) RSS feed,  ![](image/mstdn.jpg) [crimeflare@masto.nixnet.xyz](https://masto.nixnet.xyz/@crimeflare)
+* ![](image/feed.png) [RSS feed](https://masto.nixnet.xyz/users/crimeflare.rss),  ![](image/mstdn.jpg) [crimeflare@masto.nixnet.xyz](https://masto.nixnet.xyz/@crimeflare)
 
 
 ![WTF](image/wtfcf.jpg)
