@@ -93,8 +93,6 @@ Also see [Frequently Asked Questions](faq.md).
 
 * Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
 
-* [Tool / Script](tool/)
-
 * Take a look at add-on code and try it
 
 | Name | Firefox | Chrome |
@@ -102,6 +100,10 @@ Also see [Frequently Asked Questions](faq.md).
 | Block Cloudflare MITM Attack | [Code](addon_firefox/bcma) | [Code](addon_chrome/bcma) |
 | Are links vulnerable to MITM? | [Code](addon_firefox/ismitmlink) | [Code](addon_chrome/ismitmlink) |
 | Which website rejected me? | [Code](addon_firefox/whyrejectme) | - |
+
+* [Tool / Script](tool/)
+
+* ![](image/feed.png) RSS feed,  ![](image/mstdn.jpg) [crimeflare@masto.nixnet.xyz](https://masto.nixnet.xyz/@crimeflare)
 
 
 ![WTF](image/wtfcf.jpg)
