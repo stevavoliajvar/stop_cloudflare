@@ -568,6 +568,8 @@ Disqualify:
 
 "Cloudflare is shit, dont use it" by @[raz_c](https://twitter.com/raz_c/status/436534703873884160)
 
+"Oh shit guys, the Internet's here. CloudFlare #dontblocktor" by @[abditum](https://twitter.com/abditum/status/715353710780489728)
+
 
 ------
 
