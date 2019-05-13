@@ -114,6 +114,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Why don’t you explain blocking domains? You’re pretty good at blocking access to websites." by @[JimInHeaven](https://twitter.com/JimInHeaven/status/1127598018197430278)
+
+"half the sites i visit require me to do a captcha, and then half the resources fail to load even after i'm successful." by @[adamjogrady](https://twitter.com/adamjogrady/status/1127766600428343297)
+
 "Cloudflare can fuck right off with this sudden "Confirm you're not a robot" page that's popping up everyfuckingwhere. Sort your malconfigured shit out." by @[anarchic_teapot](https://twitter.com/anarchic_teapot/status/1127677511838707713)
 
 "Resulta que la web m'ha bloquejat per activitat sospitosa Quin ensurt!" by @[bartomeumiro](https://twitter.com/bartomeumiro/status/1127517268152287233)
