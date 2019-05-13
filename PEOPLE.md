@@ -570,6 +570,8 @@ Disqualify:
 
 "Oh shit guys, the Internet's here. CloudFlare #dontblocktor" by @[abditum](https://twitter.com/abditum/status/715353710780489728)
 
+""protecting" your exchange with CloudFlare = permanent #MITM" by @[Bitcoin_Central](https://twitter.com/Bitcoin_Central/status/398741889681084416)
+
 
 ------
 
