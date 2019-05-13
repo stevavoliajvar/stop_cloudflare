@@ -114,6 +114,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"a lot of people are getting capcha and challenge on every sites with Cloudflare since sunday without proper reason." by @[Ahks_u](https://twitter.com/Ahks_u/status/1127828742947180544)
+
 "Why don’t you explain blocking domains? You’re pretty good at blocking access to websites." by @[JimInHeaven](https://twitter.com/JimInHeaven/status/1127598018197430278)
 
 "half the sites i visit require me to do a captcha, and then half the resources fail to load even after i'm successful." by @[adamjogrady](https://twitter.com/adamjogrady/status/1127766600428343297)
