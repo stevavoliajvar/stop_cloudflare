@@ -24,6 +24,7 @@ And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users 
 
 
 ![](image/dnscensor.jpg)
+![](image/cferr1016.jpg)
 
 
 And here you might think, "_I am not using Tor or VPN, why should I care?_".
@@ -80,6 +81,7 @@ Also see [Frequently Asked Questions](faq.md).
 ![](image/omsnote.jpg)
 ![](image/omsdroid.jpg)
 ![](image/omsstream.jpg)
+![](image/omsappl.jpg)
 
 
 # What can you do?
@@ -128,4 +130,5 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 * Some Firefox Add-ons
 
 
+![](image/fixthedamn.jpg)
 ![What did YOU do to stop CF?](image/stopcf.jpg)
