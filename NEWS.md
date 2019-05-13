@@ -1,10 +1,3 @@
-*2019.05.13*
-
-Mastodon:
-https://masto.nixnet.xyz/@crimeflare
-
-Everything else is unofficial.
-
 *2019.04.04*
 
 @holydevil@birdsite:
