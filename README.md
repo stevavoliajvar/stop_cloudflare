@@ -4,6 +4,7 @@
 
 
 ![](image/cloudflaredearuser.png)
+![](image/howcfwork.jpg)
 
 
 It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of filtering out *some* people from seeing web content (ie everyone in mainland China and some people outside) while at the same time those not affected to see a dratically different web, a web free of censorship of such images as ["tank man"](https://en.wikipedia.org/wiki/Tank_Man).
