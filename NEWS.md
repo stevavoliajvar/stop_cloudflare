@@ -1,8 +1,9 @@
-*2019.05.08*
+*2019.05.13*
 
-Repository was moved:
-https://notabug.org/crimeflare/cloudflare-tor/
+Mastodon:
+https://masto.nixnet.xyz/@crimeflare
 
+Everything else is unofficial.
 
 *2019.04.04*
 
