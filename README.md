@@ -24,10 +24,17 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 ![](image/omsappl.jpg)
 
 
-Cloudflare also has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5). [Tor users](https://www.torproject.org/) and [VPN users](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) are a victim.
+[Tor users](https://www.torproject.org/) and [VPN users](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) are also a victim.
 
 
 ![](image/banvpn.jpg)
+
+
+Cloudflare also has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5).
+
+
+![](image/cfdox_swat.jpg)
+![](image/cfdox_kill.jpg)
 
 
 And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning fake IP address owned by Cloudflare or just return nothing.
