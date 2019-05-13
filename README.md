@@ -79,6 +79,7 @@ Also see [Frequently Asked Questions](faq.md).
 
 ![](image/omsnote.jpg)
 ![](image/omsdroid.jpg)
+![](image/omsstream.jpg)
 
 
 # What can you do?
