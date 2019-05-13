@@ -130,5 +130,7 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 * Some Firefox Add-ons
 
 
+![](image/omsirl.jpg)
+![](image/whydoihavetosolveacaptcha.jpg)
 ![](image/fixthedamn.jpg)
 ![What did YOU do to stop CF?](image/stopcf.jpg)
