@@ -594,6 +594,10 @@ Disqualify:
 
 "The stupidest thing now a days #cloudflare asking #captcha everytime. #cloudflare i use Mac please dont give shitty explanation of #malware" by @[_danielchris](https://twitter.com/_danielchris/status/725628300253515776)
 
+"Thanx 4 making it impossible 2 use your site because I use a vpn-connection. Please go away from cloudflare because they suck" by @[Curiosity63](https://twitter.com/Curiosity63/status/814219352824250368)
+
+"You know what, dear Cloudflare? Go away. Please. Now. #DontBlockTOR" by @[ChristianTanner](https://twitter.com/ChristianTanner/status/900654039440003072)
+
 "Cloudflare is shit, dont use it" by @[raz_c](https://twitter.com/raz_c/status/436534703873884160)
 
 "Oh shit guys, the Internet's here. CloudFlare #dontblocktor" by @[abditum](https://twitter.com/abditum/status/715353710780489728)
