@@ -62,6 +62,8 @@ Disqualify:
 
 "[Support End-to-End Encryption on the Web](https://www.wordfence.com/blog/2017/03/support-end-to-end-encryption/)" by [Mark Maunder](https://www.wordfence.com/)
 
+"[Cloudflare发布针对IPFS的Gateway](https://www.jianshu.com/p/8a9cb8065f4a)" by [幸运排骨虾](https://www.jianshu.com/u/c3c0e9748845)
+
 "[MITM-as-a-Service: The Threat Surface We Didn’t Know We Had](http://daveshackleford.com/?p=1134)" by [Shack](twitter.com/daveshackleford/)
 
 "[Journal CloudFlare au milieu](https://linuxfr.org/users/thibg/journaux/cloudflare-au-milieu)" by [ThibG](https://linuxfr.org/)
