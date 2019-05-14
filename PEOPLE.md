@@ -116,6 +116,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Javascript is off by default because of trust issues with a website Meanwhile Cloudflare demands I turn on Javascript because of trust issues" by @[steelhoof](https://twitter.com/steelhoof/status/1128105553299775488)
+
 "a lot of people are getting capcha and challenge on every sites with Cloudflare since sunday without proper reason." by @[Ahks_u](https://twitter.com/Ahks_u/status/1127828742947180544)
 
 "Why don’t you explain blocking domains? You’re pretty good at blocking access to websites." by @[JimInHeaven](https://twitter.com/JimInHeaven/status/1127598018197430278)
