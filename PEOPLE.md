@@ -460,6 +460,8 @@ Disqualify:
 
 "I am unable to login to android app, tried using credentials, reinstalling app, nothing worked." by @[prasadthombre](https://twitter.com/prasadthombre/status/1112950318537625600)
 
+"Why you shouldn't use CloudFlare...they are run by a degenerate asshole who gave out personal information to GG, used to dox peeps" by @[CALMicC](https://twitter.com/CALMicC/status/555810642993876992)
+
 "Cloudflare has traditionally thrown CAPTCHAs aggressively enough at VPN users to degrade the browsing experience." by @[mbarnath](https://twitter.com/mbarnath/status/1112969137389617152)
 
 "Very few websites aren't using it meaning the majority of warp traffic is easily decrypted." by @[nathanielrsuchy](https://twitter.com/nathanielrsuchy/status/1113120866672525314)
