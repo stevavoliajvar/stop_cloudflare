@@ -1,13 +1,15 @@
 # The Great Cloudwall
 
 "The Great Cloudwall" is [CloudFlare](https://www.cloudflare.com/), the world's [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
+It sits between you and origin webserver, acting like a [border patrol agent](https://www.cbp.gov/careers/bpa).
+The origin webserver administrator allowed the agent to decide who can access to their "web property" and define "restricted area".
 
 
 ![](image/cloudflaredearuser.png)
 ![](image/howcfwork.jpg)
 
 
-It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of filtering out *some* people from seeing web content (ie everyone in mainland China and some people outside) while at the same time those not affected to see a dratically different web, a web free of censorship of such images as ["tank man"](https://en.wikipedia.org/wiki/Tank_Man).
+It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of filtering out many humans from seeing web content (ie everyone in mainland China and people outside) while at the same time those not affected to see a dratically different web, a web free of censorship of such images as ["tank man"](https://en.wikipedia.org/wiki/Tank_Man).
 
 
 ![](image/onemorestep.jpg)
@@ -15,7 +17,7 @@ It is called this in reference to the [Great Firewall of China](https://www.comp
 ![](image/cfublock.jpg)
 
 
-Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT) unless they solve multiple image CAPTCHAs.
+Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP) unless they solve multiple image CAPTCHAs.
 
 
 ![](image/omsnote.jpg)
@@ -24,13 +26,15 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 ![](image/omsappl.jpg)
 
 
-[Tor users](https://www.torproject.org/) and [VPN users](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) are also a victim.
+[Tor users](https://www.torproject.org/) and [VPN users](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) are also a victim. If you didn't try Tor until this moment, we encourage you to [download Tor Browser](https://www.torproject.org/) and visit your favorite websites.
 
 
 ![](image/banvpn.jpg)
 
 
 Cloudflare also has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5).
+Cloudflare shares personal information of those who complain about hosted sites. They sometimes ask you to provide
+your true ID. If you don't want to get swatted or killed, better stay away from Cloudflare.
 
 
 ![](image/cfdox_swat.jpg)
