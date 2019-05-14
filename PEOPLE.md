@@ -214,6 +214,8 @@ Disqualify:
 
 "journalist was murdered in #Kiev. His home address was doxxed by the Ukrainian website, protected by Cloudflare" by @[RusEmbUSA](https://twitter.com/RusEmbUSA/status/1118235522168758272)
 
+"Everybody remain silent about US-based extremist website 'Peacekeeper’ protected by Cloudflare with ‘high moral standards'" by @[RusEmbUSApress](https://twitter.com/RusEmbUSApress/status/1045882620289196032)
+
 "They've doxxed someone who reported pedoporn in the past so I'm not expecting miracles" by @[jpetazzo](https://twitter.com/jpetazzo/status/897554355368456193)
 
 "I reported a website for hosting illegal content. CloudFlare doxxed me to Brennan. Brennan doxxed me to 8chan" by @[petercoffin](https://twitter.com/petercoffin/status/554728016480182272)
