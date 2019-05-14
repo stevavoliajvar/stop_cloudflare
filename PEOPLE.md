@@ -212,6 +212,14 @@ Disqualify:
 
 "I guess #cloudflare's business model is #spam (and man-in-the-middle attacks on #tls)" by @[christophe0o](https://twitter.com/christophe0o/status/1069295953478336517)
 
+"journalist was murdered in #Kiev. His home address was doxxed by the Ukrainian website, protected by Cloudflare" by @[RusEmbUSA](https://twitter.com/RusEmbUSA/status/1118235522168758272)
+
+"They've doxxed someone who reported pedoporn in the past so I'm not expecting miracles" by @[jpetazzo](https://twitter.com/jpetazzo/status/897554355368456193)
+
+"I reported a website for hosting illegal content. CloudFlare doxxed me to Brennan. Brennan doxxed me to 8chan" by @[petercoffin](https://twitter.com/petercoffin/status/554728016480182272)
+
+"Cloudflare who are free speech to the point of doing nothing. You can't safely report valid abuse to them without it being forwarded to the hosts and you getting doxxed. Then cloudflare wash hands." by @[plambrechtsen](https://twitter.com/plambrechtsen/status/1125980039814606849)
+
 "Our users are actually customers, and we look out for them and strive to satisfy them. Unlike the lying #Clownflare, which wants to be an MITM." by @[brettglass](https://twitter.com/brettglass/status/1118543682385399809)
 
 "You buy the "free" service with your sites traffic.a.k.a mitm the heck out of you." by @[cireumayn1](https://twitter.com/cireumayn1/status/1114673721355251712)
