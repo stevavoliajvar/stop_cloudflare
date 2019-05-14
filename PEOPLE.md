@@ -506,6 +506,12 @@ Disqualify:
 
 "You're making the use of your site pretty difficult for #TOR users." by @[Sebastian Bürgel](https://twitter.com/SCBuergel/status/1114492792875700225)
 
+"What, CLOUDFLARE? The company known for doxxing people reporting hate sites for ToS violations?!" by @[Abstruse](https://twitter.com/Abstruse/status/897966838029717505)
+
+"Cloudflare used to assist in doxxing and are unlikely to help, even with direct threats." by @[justkelly_ok](https://twitter.com/justkelly_ok/status/898237338559565824)
+
+"Here's a harassment forum mocking a doxxing target for asking Cloudflare to help her." by @[justkelly_ok](https://twitter.com/justkelly_ok/status/898239323245432832)
+
 "I dislike Cloudflare they always block my VPN which I use to keep ads and trackers at bay" by @[nonesuchzach](https://twitter.com/nonesuchzach/status/782238922009042948)
 
 "Ugh, anoying services. You block me because i use a VPN, WHY?" by @[_ruis_](https://twitter.com/_ruis_/status/827105441264054272)
