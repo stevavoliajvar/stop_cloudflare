@@ -27,6 +27,7 @@
 0-dayhacks.com
 0-euro-flatrate.de
 0-finanzierung.org
+00-ho.com
 00-host.com
 0-hydra.net
 0-info.com
@@ -45,8 +46,8 @@
 0-uber.com
 0-w.net
 0000.aero
-0000.app
 00.app
+0000.app
 0000000000.biz
 000000000000000000000000000000000000000000000000000000000000000.club
 00000000000000.cn
@@ -1238,6 +1239,7 @@
 0pgwv3net.ml
 000pi.com
 0pikabu.ru
+0pini0n.com
 0pjh6news.ga
 0playpro.com
 0plus1.com
@@ -1373,8 +1375,8 @@
 0rrqhonews.ga
 0rtt.de
 000ru.com
-000ruru.com
 00ruru.com
+000ruru.com
 0rv0ywnet.ga
 0rv9ohnet.cf
 0rvco28net.gq
@@ -1524,8 +1526,8 @@
 0tvb.com
 0tvg.com
 0txeu.us
-0ty.com
 0000ty.com
+0ty.com
 0ty8qwnet.ga
 0tziv.top
 0u0.win
@@ -1998,8 +2000,8 @@
 01banque-en-ligne.fr
 001banzhu.com
 01banzhu.com
-01banzhu.org
 001banzhu.org
+01banzhu.org
 01baobei.com
 01bazar.com.ar
 01bb.ru
@@ -2093,6 +2095,7 @@
 001lotto-spa-ua891i.com
 001lv.org
 01market.ir
+01marshall.com
 01media.com
 01medias.ga
 001meteo.com
@@ -2333,7 +2336,6 @@
 03jjj.com
 03k.org
 03kb.club
-03kb.com
 03khinews.ml
 03klc.com
 03l2ynews.cf
@@ -2364,8 +2366,8 @@
 03rea86.de
 03rf58am2p.us
 03rr.space
-03sex.com
 003sex.com
+03sex.com
 03sihu.com
 03solutions.org
 003sp.club
@@ -2538,7 +2540,6 @@
 005jp.com
 005jy.com
 05k6.com
-05kb.com
 05kq.com
 05kt.club
 05kw.com
@@ -2930,8 +2931,8 @@
 08z.ru
 08z3.com
 008zt.com
-009.app
 09.app
+009.app
 000000009.com
 09aa.ru
 09ab8dca2aca54fe56aa.date
@@ -3020,6 +3021,7 @@
 009xam.com
 09xam.me
 09xhg.com
+009xj.com
 09xn2knet.gq
 09xo0nnet.ga
 09xo8.com
@@ -3272,6 +3274,7 @@
 014dy.com
 014f264e769561f8fb42.date
 014pi.com
+014xj.com
 015dy.com
 015pay.com
 015z.com
@@ -3848,8 +3851,8 @@
 044pp.com
 044sp.com
 044tyc.com
-00045.info
 0045.info
+00045.info
 045.io
 045ac5cff8204d4fd11c.date
 045bet.com
@@ -4006,6 +4009,7 @@
 053dy.com
 053sp.com
 00054.info
+054betebet.com
 054d.com
 054dy.com
 054sp.com
@@ -4258,8 +4262,8 @@
 00082bb.com
 082gcu.tw
 0082js.com
-00082pp.com
 082pp.com
+00082pp.com
 082ug6.tw
 0082vns.com
 082wk4net.cf
@@ -5277,8 +5281,8 @@
 0617seo.cn
 0619.com.ua
 0620ak.com
-00622.info
 0622.info
+00622.info
 0622e880d00ca319577f.date
 0629.com.ua
 0632hunjia.com
@@ -5574,6 +5578,7 @@
 000804.cn
 0804team.kiev.ua
 0805.eu
+0808lu.com
 0808numbers.com
 0808project.com
 00811.info
@@ -5811,8 +5816,8 @@
 003001.com
 003008.com
 03100.info
-03141.com
 003141.com
+03141.com
 03145.club
 003182.com
 03183.com
@@ -5981,8 +5986,8 @@
 00006805.com
 00006806.com
 00006807.com
-00006808.com
 006808.com
+00006808.com
 00006809.com
 00006810.com
 00006811.com
@@ -6171,8 +6176,8 @@
 015210.com
 015321.com
 0016001.com
-0016006.com
 016006.com
+0016006.com
 016009.com
 016325c615b1e4cd3ef5.date
 016334.com
@@ -10105,6 +10110,7 @@
 0930651823.com
 0932044559.com
 0932156773.com
+0932306123.com
 0933068110.com
 0933194423.com
 0936612861.tk
