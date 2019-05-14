@@ -37,7 +37,7 @@ An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look a
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
 I refuse to share data with you if you continue to feed my data to Cloudflare.
-See https://notabug.org/themusicgod1/cloudflare-tor/src/master/README.md
+See https://notabug.org/crimeflare/cloudflare-tor/src/master/README.md
 ```
 
 For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
@@ -69,9 +69,9 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 | Name | Developer | Support | Can Block | Can Notify |
 | -------- | -------- | -------- | -------- | -------- |
-| [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) | Project BCMA | [Link](https://notabug.org/themusicgod1/cloudflare-tor) |**Yes**     | **Yes**     |
+| [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) | Project BCMA | [Link](https://notabug.org/crimeflare/cloudflare-tor) |**Yes**     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
-| [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/themusicgod1/cloudflare-tor) | No     | **Yes**     |
+| [Are links vulnerable to MITM?](https://addons.mozilla.org/en-US/firefox/addon/are-links-vulnerable-to-mitm/) | Maslin Bossé | [Link](https://notabug.org/crimeflare/cloudflare-tor) | No     | **Yes**     |
 | [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/) | Searxes #Addon | [Link](https://searxes.danwin1210.me/) | **Yes**     | **Yes**     |
 | [TPRB](https://searxes.danwin1210.me/collab/tprb0/get_tprb0.php) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
@@ -184,7 +184,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://notabug.org/themusicgod1/cloudflare-tor/ for more information.<br />
+Please read https://notabug.org/crimeflare/cloudflare-tor/ for more information.<br />
 CLOUDFLARED;
 die();
 ```
