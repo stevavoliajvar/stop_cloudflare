@@ -32,6 +32,8 @@ Disqualify:
 
 "[Cloudflare CEO on Terminating Service to Neo-Nazi Site: 'The Daily Stormer Are Assholes'](https://gizmodo.com/cloudflare-ceo-on-terminating-service-to-neo-nazi-site-1797915295)" by [Kate Conger](https://kinja.com/conger)
 
+"[How One Major Internet Company Helps Serve Up Hate on the Web](https://web.archive.org/web/20190512152916/https://www.propublica.org/article/how-cloudflare-helps-serve-up-hate-on-the-web)" by [Ken Schwencke](https://web.archive.org/web/20190512152916/https://www.propublica.org/people/ken-schwencke)
+
 "[Zaradi hrošča iz Cloudflara več mesecev curljalo](https://slo-tech.com/novice/t694836/p5445996)" by [Slo-Tech](https://slo-tech.com/)
 
 "[Everything You Need to Know About Cloudbleed, the Latest Internet Security Disaster](https://gizmodo.com/everything-you-need-to-know-about-cloudbleed-the-lates-1792710616)" by [Adam Clark Estes](https://kinja.com/ace)
@@ -494,6 +496,8 @@ Disqualify:
 
 "Plz stop using Cloudflare.They block VPN and proxies ment to enhance our privacy." by @[claw137](https://twitter.com/claw137/status/892397825245536257)
 
+"threatening to harass and dox my partners because I told them to remove our address" by @[ZJemptv](https://twitter.com/ZJemptv/status/898299709634248704)
+
 "Your cloudflare-hosted site blocks my VPN so I can't even buy your VPN while using a competitor." by @[focusaurus](https://twitter.com/focusaurus/status/942968457909456898)
 
 "Most use Cloudflare+CAPTCHAs to filter." by @[r0h1n](https://twitter.com/r0h1n/status/778788564519845888)
@@ -571,6 +575,14 @@ Disqualify:
 "Oh shit guys, the Internet's here. CloudFlare #dontblocktor" by @[abditum](https://twitter.com/abditum/status/715353710780489728)
 
 ""protecting" your exchange with CloudFlare = permanent #MITM" by @[Bitcoin_Central](https://twitter.com/Bitcoin_Central/status/398741889681084416)
+
+"You can't contact the host. Cloudflare proxy servers hide the IP of the website making it impossible to determine who's hosting. You can report to their abuse, but I reported 100s of scammers sites and they did nothing" by @[phyzonloop](https://twitter.com/phyzonloop/status/1071901410307031040)
+
+"cloudflare has shared information from abuse form to site owner. They have retaliated and doxxed filer." by @[3bagsfull](https://twitter.com/3bagsfull/status/896985805817876480)
+
+"Fuck CloudFlare. They chose to pass on people's contact details to 8chan when those people report" by @[ChrisWarcraft](https://twitter.com/ChrisWarcraft/status/886297432493092864)
+
+"Cloudflare won't help future me dox and harass complainants! Whatever will I do?!" by @[yaelwrites](https://twitter.com/yaelwrites/status/860518424144887809)
 
 
 ------
