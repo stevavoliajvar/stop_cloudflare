@@ -70,6 +70,8 @@ Disqualify:
 
 "[CloudFlareの解除と「Phonton」の導入方法](http://kyoheixxx.com/cloudflare-phonton-5058)" by [kyohei](http://kyoheixxx.com/)
 
+"[The CloudFlare Leak and the Problem of Centralized Authentication](https://www.iovation.com/blog/the-cloudflare-leak-and-the-problem-of-centralized-authentication)" by [iovation Inc.](https://www.iovation.com/)
+
 "[CloudFlare is ruining the internet (for me)](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)" by [slashgeek](https://www.slashgeek.net/)
 
 "[MITM-as-a-Service: The Threat Surface We Didn’t Know We Had](http://daveshackleford.com/?p=1134)" by [Shack](twitter.com/daveshackleford/)
@@ -109,6 +111,8 @@ Disqualify:
 "[Ditch Cloudflare - Broken HTTPS/MiTM](https://greysec.net/showthread.php?tid=1256)" by [NO-OP](https://greysec.net/member.php?action=profile&uid=47)
 
 "[HTTPSを「借りる」のはやめよう。](https://srad.jp/comment/3349767)" by [Printable is bad.](https://srad.jp/~Printable%20is%20bad./)
+
+"[How do I get rid of cloudflare on Windows 10?](https://answers.microsoft.com/en-us/windows/forum/windows_10-win_cortana/how-do-i-get-rid-of-cloudflare-on-windows-10/bab116b1-5c09-4952-aa18-9d8e8261b705)" by [BillWebster1964](https://answers.microsoft.com/en-us/windows/forum/windows_10-win_cortana/how-do-i-get-rid-of-cloudflare-on-windows-10/en-us/profile/e12a62cc-0c40-4e09-9199-5c5b41f65e2f)
 
 "[Cloudflare as a Security Risk - Support - Whonix Forum](http://forums.whonix.org/t/cloudflare-as-a-security-risk/2162)" by [entr0py](https://forums.whonix.org/u/entr0py)
 
