@@ -36,6 +36,8 @@ Disqualify:
 
 "[Zaradi hrošča iz Cloudflara več mesecev curljalo](https://slo-tech.com/novice/t694836/p5445996)" by [Slo-Tech](https://slo-tech.com/)
 
+"[CDN企業Cloudflareのバグで、多数のサービスで機密データ流出の可能性](https://www.itmedia.co.jp/news/articles/1702/25/news024.html)" by @[佐藤由紀子](https://www.itmedia.co.jp/news/)
+
 "[Everything You Need to Know About Cloudbleed, the Latest Internet Security Disaster](https://gizmodo.com/everything-you-need-to-know-about-cloudbleed-the-lates-1792710616)" by [Adam Clark Estes](https://kinja.com/ace)
 
 "[Why Cloudflare Let an Extremist Stronghold Burn](https://www.wired.com/story/free-speech-issue-cloudflare/)" by [Steven Johnson](https://www.wired.com/author/steven-johnson/)
@@ -63,6 +65,10 @@ Disqualify:
 "[Support End-to-End Encryption on the Web](https://www.wordfence.com/blog/2017/03/support-end-to-end-encryption/)" by [Mark Maunder](https://www.wordfence.com/)
 
 "[Cloudflare发布针对IPFS的Gateway](https://www.jianshu.com/p/8a9cb8065f4a)" by [幸运排骨虾](https://www.jianshu.com/u/c3c0e9748845)
+
+"[CloudFlareよサヨナラ！ WordPressの表示速度が改善するプラグイン「Photon」](https://rentalhomepage.com/photon/)" by [ENJILOG](https://rentalhomepage.com/)
+
+"[CloudFlareの解除と「Phonton」の導入方法](http://kyoheixxx.com/cloudflare-phonton-5058)" by [kyohei](http://kyoheixxx.com/)
 
 "[CloudFlare is ruining the internet (for me)](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/)" by [slashgeek](https://www.slashgeek.net/)
 
