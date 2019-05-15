@@ -102,6 +102,8 @@ Disqualify:
 
 "[Ditch Cloudflare - Broken HTTPS/MiTM](https://greysec.net/showthread.php?tid=1256)" by [NO-OP](https://greysec.net/member.php?action=profile&uid=47)
 
+"[HTTPSを「借りる」のはやめよう。](https://srad.jp/comment/3349767)" by [Printable is bad.](https://srad.jp/~Printable%20is%20bad./)
+
 "[Cloudflare as a Security Risk - Support - Whonix Forum](http://forums.whonix.org/t/cloudflare-as-a-security-risk/2162)" by [entr0py](https://forums.whonix.org/u/entr0py)
 
 "[The catch you're missing](https://www.reddit.com/r/Wordpress/comments/2zpq2g/cloudflare_free_plan_too_good_to_be_true/cpldjc6/)" by [cqwww](https://www.reddit.com/user/cqwww)
