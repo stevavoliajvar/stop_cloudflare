@@ -7,6 +7,7 @@ The origin webserver administrator allowed the agent to decide who can access to
 
 ![](image/cloudflaredearuser.png)
 ![](image/howcfwork.jpg)
+![](image/usershoulddecide.jpg)
 
 
 It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of filtering out many humans from seeing web content (ie everyone in mainland China and people outside) while at the same time those not affected to see a dratically different web, a web free of censorship such as an image of ["tank man"](https://en.wikipedia.org/wiki/Tank_Man) and the history of ["Tiananmen Square protests"](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests#Censorship_in_China).
