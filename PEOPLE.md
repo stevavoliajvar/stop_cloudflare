@@ -132,7 +132,17 @@ Disqualify:
 
 ######  Microsoft GitHub
 
-toadd
+"[Stop using CloudFlare as a public resolver](https://github.com/dappnode/DNP_BIND/issues/20)" by [vdo](https://github.com/vdo)
+
+"[What do you think about Cloudflare? PTIO](https://github.com/privacytoolsIO/privacytools.io/issues/374)" by [ghost](https://github.com/ghost)
+
+"[What do you think about Cloudflare? PRISM](https://github.com/prism-break/prism-break/issues/1843)" by [ghost](https://github.com/ghost)
+
+"[Add an option to stop trusting Cloudflare certificate](https://github.com/mozilla-mobile/focus-android/issues/1743)" by [StopMITMInternational](https://github.com/StopMITMInternational)
+
+"[Block Cloudflare MITM Attack](https://github.com/nym-zone/block_cloudflare_mitm_fx)" by [nym-zone](https://github.com/nym-zone)
+
+"[List of Sites on Cloudflare DNS](https://github.com/pirate/sites-using-cloudflare)" by [pirate](https://github.com/pirate)
 
 ------
 
