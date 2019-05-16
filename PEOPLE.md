@@ -138,6 +138,16 @@ Disqualify:
 
 "a lot of people are getting capcha and challenge on every sites with Cloudflare since sunday without proper reason." by @[Ahks_u](https://twitter.com/Ahks_u/status/1127828742947180544)
 
+"It seems like our applications getting blocked by your CloudFlare firewall." by @[kooicia](https://twitter.com/kooicia/status/1128610811235061760)
+
+"I keep getting a message from Cloudflare saying I'm blocked from the site. It started a few days ago after clicking a Google search result." by @[ThisSteveGuy](https://twitter.com/ThisSteveGuy/status/1128427079849119744)
+
+"I got blocked by Cloudflare's CEO and "abuse" head for asking similar questions." by @[dxgl_org](https://twitter.com/dxgl_org/status/1128041430985912320)
+
+"Still not usable in China, the whole world except China!" by @[iWyvern](https://twitter.com/iWyvern/status/1125708586779389953)
+
+"I'm trying to evaluate Hubspot for our CRM solution, but our IP address seems to be blocked by CloudFlare" by @[sitchaba](https://twitter.com/sitchaba/status/1125403797939990529)
+
 "Why don’t you explain blocking domains? You’re pretty good at blocking access to websites." by @[JimInHeaven](https://twitter.com/JimInHeaven/status/1127598018197430278)
 
 "half the sites i visit require me to do a captcha, and then half the resources fail to load even after i'm successful." by @[adamjogrady](https://twitter.com/adamjogrady/status/1127766600428343297)
