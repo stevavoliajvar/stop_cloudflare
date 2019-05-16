@@ -15,6 +15,7 @@ It is called this in reference to the [Great Firewall of China](https://www.comp
 ![](image/onemorestep.jpg)
 ![](image/accdenied.jpg)
 ![](image/cfublock.jpg)
+![](image/omsjsck.jpg) <- `require Cookie & Javascript`
 
 
 Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP) unless they solve multiple image CAPTCHAs.
@@ -30,6 +31,7 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 
 
 ![](image/banvpn.jpg)
+![](image/banvpn2.jpg)
 
 
 Cloudflare also has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5).
