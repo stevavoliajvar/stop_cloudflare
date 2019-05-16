@@ -148,6 +148,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Check into Cloudflare it seems to be forcing blatant censorship in part by blocking access to sites and information on the internet!" by @[rickadam0](https://twitter.com/rickadam0/status/1128934188084711425)
+
 "My problem is *created by* Cloudflare's protection of violent extremists and not solved by giving more Cloudflare for me." by @[lizthegrey](https://twitter.com/lizthegrey/status/1127946041058263042)
 
 "Javascript is off by default because of trust issues with a website Meanwhile Cloudflare demands I turn on Javascript because of trust issues" by @[steelhoof](https://twitter.com/steelhoof/status/1128105553299775488)
