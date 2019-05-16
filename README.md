@@ -15,7 +15,7 @@ It is called this in reference to the [Great Firewall of China](https://www.comp
 ![](image/onemorestep.jpg)
 ![](image/accdenied.jpg)
 ![](image/cfublock.jpg)
-![](image/omsjsck.jpg) <- `require Cookie & Javascript`
+![](image/omsjsck.jpg)
 
 
 Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP) unless they solve multiple image CAPTCHAs.
@@ -102,6 +102,7 @@ Information
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
 * [Problem with CloudFlare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
+* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) by TheGoldenGoose8888
 
 
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
