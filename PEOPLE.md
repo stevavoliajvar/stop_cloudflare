@@ -126,6 +126,8 @@ Disqualify:
 
 "[CloudFlare – Sipuliwiki 3](http://nla423n3gyyunhci.onion/index.php?title=CloudFlare)"
 
+"[I keep getting cloudflare blocking access to some websites](https://support.mozilla.org/en-US/questions/1106240)" by [vbbuilt](https://support.mozilla.org/en-US/user/vbbuilt)
+
 "[fuckcloudflare/cloudflare-tor](http://volagitvnzf3o56b.onion/cgit/fuckcloudflare/cloudflare-tor/)"
 
 ------
