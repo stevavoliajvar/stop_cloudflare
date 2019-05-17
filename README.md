@@ -96,6 +96,7 @@ This repository is a list of websites that are behind The Great Cloudwall, and a
 
 Domain list  -  mirrors: [NixNet](https://git.nixnet.xyz/Username/cloudflare-tor),  [CodeBerg](https://codeberg.org/Username/cloudflare-tor)
 * [Domains using Cloudflare](cloudflare_users/)
+* [Cloudflare Inc.](cloudflare_inc/)
 * [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
 Information
