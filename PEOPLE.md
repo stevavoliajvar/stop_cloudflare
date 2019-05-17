@@ -134,9 +134,11 @@ Disqualify:
 
 "[Stop using CloudFlare as a public resolver](https://github.com/dappnode/DNP_BIND/issues/20)" by [vdo](https://github.com/vdo)
 
-"[What do you think about Cloudflare? PTIO](https://github.com/privacytoolsIO/privacytools.io/issues/374)" by [ghost](https://github.com/ghost)
+"[Wire, Please stop using CloudFlare](https://github.com/wireapp/wire-webapp/issues/5716)"
 
-"[What do you think about Cloudflare? PRISM](https://github.com/prism-break/prism-break/issues/1843)" by [ghost](https://github.com/ghost)
+"[What do you think about Cloudflare? PTIO](https://github.com/privacytoolsIO/privacytools.io/issues/374)"
+
+"[What do you think about Cloudflare? PRISM](https://github.com/prism-break/prism-break/issues/1843)"
 
 "[Add an option to stop trusting Cloudflare certificate](https://github.com/mozilla-mobile/focus-android/issues/1743)" by [StopMITMInternational](https://github.com/StopMITMInternational)
 
@@ -147,6 +149,10 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"Cloudflare how do we get you to stop showing us the "I AM NOT A ROBOT" screen?" by @[GD_EdRob](https://twitter.com/GD_EdRob/status/1127864910979878912)
+
+"Cloudflare page would tell it explicitly; "Hey, we think you're a robot, we don't serve your kind in this corner of the web"" by @[JessicaCGlenn](https://twitter.com/JessicaCGlenn/status/1111259638333243392)
 
 "Check into Cloudflare it seems to be forcing blatant censorship in part by blocking access to sites and information on the internet!" by @[rickadam0](https://twitter.com/rickadam0/status/1128934188084711425)
 
