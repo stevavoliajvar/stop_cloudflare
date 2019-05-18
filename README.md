@@ -121,7 +121,7 @@ Also see [Frequently Asked Questions](faq.md).
 
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 
-* Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.danwin1210.me/) (this will help collecting Searxes' "MITM domains")
+* Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.eu.org/) (this will help collecting Searxes' "MITM domains")
 
 * Take a look at add-on code and try it
 
@@ -154,7 +154,7 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 
 # Who uses this list?
 
-* [Searxes](https://searxes.danwin1210.me/) meta-search engine
+* [Searxes](https://searxes.eu.org/) meta-search engine
 * [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) add-on
 * Some Firefox Add-ons
 
