@@ -572,6 +572,16 @@ Disqualify:
 
 "What, CLOUDFLARE? The company known for doxxing people reporting hate sites for ToS violations?!" by @[Abstruse](https://twitter.com/Abstruse/status/897966838029717505)
 
+"our office IP always show one step captcha when access on cloudfare web. why this happen?" by @[dhaphie09](https://twitter.com/dhaphie09/status/1087710026989326341)
+
+"I have to enter a captcha to get on any of the sites you protect." by @[gtklocker](https://twitter.com/gtklocker/status/1057760320809299975)
+
+"Why on earth would a sane "user" use Cloudflare. Does the DNS get a captcha?" by @[cabshack](https://twitter.com/cabshack/status/982762341371609088)
+
+"Why am I suddenly seeing you bullshit CAPTCHA tests when I'm going to websites I've been going to for years?" by @[Lex_the_Tex](https://twitter.com/Lex_the_Tex/status/948169434081964032)
+
+"Can someone at Cloudflare explain to me why your default behavior is to present a captcha to anyone accessing over Tor?" by @[_djmoch](https://twitter.com/_djmoch/status/902309405865250816)
+
 "Cloudflare used to assist in doxxing and are unlikely to help, even with direct threats." by @[justkelly_ok](https://twitter.com/justkelly_ok/status/898237338559565824)
 
 "Here's a harassment forum mocking a doxxing target for asking Cloudflare to help her." by @[justkelly_ok](https://twitter.com/justkelly_ok/status/898239323245432832)
