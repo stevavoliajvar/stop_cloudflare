@@ -660,6 +660,10 @@ Disqualify:
 
 "You can't contact the host. Cloudflare proxy servers hide the IP of the website making it impossible to determine who's hosting. You can report to their abuse, but I reported 100s of scammers sites and they did nothing" by @[phyzonloop](https://twitter.com/phyzonloop/status/1071901410307031040)
 
+"CAPTCHA served to torproject users is even worse if you reject all cookies…" by @[ecodissident](https://twitter.com/ecodissident/status/587372365924925440)
+
+"Why are CloudFlare captchas for Tor-users so much harder when NoScript is enabled?" by @[thetorist](https://twitter.com/thetorist/status/586542477789769728)
+
 "cloudflare has shared information from abuse form to site owner. They have retaliated and doxxed filer." by @[3bagsfull](https://twitter.com/3bagsfull/status/896985805817876480)
 
 "Fuck CloudFlare. They chose to pass on people's contact details to 8chan when those people report" by @[ChrisWarcraft](https://twitter.com/ChrisWarcraft/status/886297432493092864)
