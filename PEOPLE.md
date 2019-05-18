@@ -680,6 +680,22 @@ Disqualify:
 
 "Cloudflare won't help future me dox and harass complainants! Whatever will I do?!" by @[yaelwrites](https://twitter.com/yaelwrites/status/860518424144887809)
 
+"Why am I unable to get past your home page? Few attempts, not even captcha loads...says 'attention required Cloudflare'" by @[uxgravy](https://twitter.com/uxgravy/status/1117395094041243651)
+
+"Hey i'm seeing this attention required again and again on the same website after I do the captcha." by @[rambokkisa](https://twitter.com/rambokkisa/status/725945637070495745)
+
+"Why is the CloudFlare memory leak bug not getting more attention?! It's potentially worse than HeartBleed." by @[withgallantry](https://twitter.com/withgallantry/status/836182424522539009)
+
+"Why do I see a captcha or challenge (Attention Required) trying to visit a site protected by CloudFlare" by @[backtoschoolart](https://twitter.com/backtoschoolart/status/581161064542400513)
+
+"Why does this notification ("ATTENTION REQUIRED/CLOUDFLARE") pop up instead of the site I want to go to? Annoying." by @[jovefrancisco](https://twitter.com/jovefrancisco/status/520550545652609024)
+
+"Why do I get CloudFlare ""Attention Required" CAPTCHA interstitial pages for several websites" by @[pforret](https://twitter.com/pforret/status/450948617768292352)
+
+"Everytime I go to a website I get attention required and it has me do a captcha, why are you blocking me from sites?" by @[syzransport](https://twitter.com/syzransport/status/413243634905911296)
+
+"Everytime I go to a website I get attention required and it has me do a captcha, why are you blocking me from sites?" by @[geevaveeri](https://twitter.com/geevaveeri/status/372325413738934272)
+
 
 ------
 
