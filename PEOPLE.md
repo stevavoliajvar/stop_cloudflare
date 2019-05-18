@@ -240,6 +240,12 @@ Disqualify:
 
 "I read a description of CloudFlare as a "man-in-the-middle attack on the entire internet" and now I'm just a LIIIIIITLE bit conflicted." by @[ianbeck](https://twitter.com/ianbeck/status/1120814430239907840)
 
+"don't be fooled, Cloudflare is Evil and misleading, it is down only for some, the others are blocked by security rules" by @[cassyan128](https://twitter.com/cassyan128/status/1117577021297692673)
+
+"It's why I will never, ever, chose Cloudflare (and have actively recommended business to not do so either)." by @[GregWildSmith](https://twitter.com/GregWildSmith/status/1107869665051717632)
+
+"Cloudflare IMHO remains a major threat to #privacy. Were they to turn evil or be compromised, with the technical ability to snoop TLS encrypted traffic on essentially all top websites, we'd be toast." by @[V_Gibello](https://twitter.com/V_Gibello/status/1100649328765485058)
+
 "Cloud flare you overdoing everything. Now i need to do a CAPTCHA for every page i visit. It surely changes how we use the web." by @[Kemboidickson](https://twitter.com/Kemboidickson/status/1115317470078930951)
 
 "IP's are being blacklisted and denied access to any site using Cloudflare." by @[purplepopoto](https://twitter.com/purplepopoto/status/1118415845296762880)
