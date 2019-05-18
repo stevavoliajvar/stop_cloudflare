@@ -202,6 +202,16 @@ Disqualify:
 
 "Cloudflare, if you don't know this; we have seriously misplaced our trust in you." by @[ADoug](https://twitter.com/ADoug/status/1125266988966739968)
 
+"Outrageous to use SSL MITM 4 a healthcare site. Horrendous for fintech." by @[paulmillr](https://twitter.com/paulmillr/status/834980791440535552)
+
+"Which means, you are in fact blocking Tor. Finger pointing to the TLS MITM service you use is just pathetic." by @[MacLemon](https://twitter.com/MacLemon/status/793937442789355520)
+
+"Cloudflare is doing TLS/SSL termination (MITM) at scale." by @[cqwww](https://twitter.com/cqwww/status/1128666788789510146)
+
+"Cloudflare can, as it does a man-in-the-middle (MITM) attack on all of its users, even behind SSL/TLS as it does SSL Termination -- so user's that think they have a secure connection with a website, in fact, don't." by @[cqwww](https://twitter.com/cqwww/status/1128054203291537408)
+
+"That is not good enough as Cloudflare exposes us and violates our privacy with their MITM spying technology that feeds the Big Brother network that is watching our every move globally." by @[larrybeck_](https://twitter.com/larrybeck_/status/1121258213540880384)
+
 "If you truly care about your users & you are so concerned about privacy and having a decentralized Internet, then you will do what’s right" by @[larrybeck_](https://twitter.com/larrybeck_/status/1121412414115917826)
 
 "A lot of us VPN users don't enjoy helping google train computer vision and fingerprinting bots. Or spending 20 minutes being told we don't know what crosswalks are." by @[digiwombat](https://twitter.com/digiwombat/status/1108480942417436672)
