@@ -94,7 +94,7 @@ https://g0v.social/@sheogorath/101404226960335320
 *2019.02.14*
 
 * "New Ranking Factor: MITMed or not"
-https://searxes.danwin1210.me/
+https://searxes.eu.org/
 
 *2019.02.08*
 
