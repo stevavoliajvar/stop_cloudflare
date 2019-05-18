@@ -2,7 +2,7 @@
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
 
-"_You shouldn't use it if you value visitor's privacy._" -- [Searxes](https://searxes.danwin1210.me/)
+"_You shouldn't use it if you value visitor's privacy._" -- [Searxes](https://searxes.eu.org/)
 
 ```
 format:
