@@ -2,7 +2,7 @@
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
 
-"_You shouldn't use it if you value visitor's privacy._" -- [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion//)
+"_You shouldn't use it if you value visitor's privacy._" -- [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)
 
 ```
 format:
@@ -151,6 +151,12 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"your Cloudflare setup is brocken. Every page I visit I either being forced to solve a captcha or it doesn’t load at all." by @[111110100](https://twitter.com/111110100/status/1128826984883036163)
+
+"You do know that Cloudflare acts as a proxy? They can be the causing those 502 errors and slow loading times. They aren't perfect. If you're connected to a (shitty) wifi network that can cause slow load times too. Deactivate Cloudflare next time before jumping to conclusions!" by @[StopTheComplain](https://twitter.com/StopTheComplain/status/1100022334189170688)
+
+"I can’t even load your website, it’s not working idk why." by @[Shahbaz28149872](https://twitter.com/Shahbaz28149872/status/1086070566342160385)
 
 "Cloudflare how do we get you to stop showing us the "I AM NOT A ROBOT" screen?" by @[GD_EdRob](https://twitter.com/GD_EdRob/status/1127864910979878912)
 
