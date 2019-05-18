@@ -227,7 +227,7 @@ sub GotUrl {
                     deb("$target Asking API about $fqdn");
                     $answer = '';
                     $url =
-                      'https://searxes.danwin1210.me/collab/open/ismitm.php?f='
+                      'https://searxes.eu.org/collab/open/ismitm.php?f='
                       . $fqdn;
                     $browser = LWP::UserAgent->new;
                     $browser->agent(
