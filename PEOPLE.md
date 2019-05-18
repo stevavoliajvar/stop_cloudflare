@@ -717,6 +717,8 @@ Disqualify:
 
 ######  Mastodon
 
+"Firefox is going to ship with DNS over HTTPS (DoH) by default soon. It will still use Cloudflare by default." by @[amolith](https://masto.nixnet.xyz/@amolith/101939482525255808)
+
 "How pathetic is life when becoming absolutely enraged after solving a #captcha 3 times but not being permitted to move forward." by @[hrthu](https://fosstodon.org/@hrthu/101987545210858236)
 
 "You definitely put yourself in big danger by using it. Cloudflare has an own CA that is able to issue certificates for ANY website." by @[sheogorath](https://microblog.shivering-isles.com/@sheogorath/102056520473398252)
