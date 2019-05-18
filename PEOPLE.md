@@ -506,6 +506,10 @@ Disqualify:
 
 "Cloudflare thinks I'm a robot and is blocking the most annoying preflight requests without letting me do a captcha." by @[enjalot](https://twitter.com/enjalot/status/1107085704591347712)
 
+"It's disappointing that you use CloudFlare to reject some visitors to your website." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1087758565891166208)
+
+"How can you reject abuse complaints? My abuse / theft report about one your clients was rejected because I am not a #cloudflare customer." by @[Mitchell_Miller](https://twitter.com/Mitchell_Miller/status/1064605521272033285)
+
 "Solving captcha puzzles for Google every single time due to your Cloudflare protection just ruins the whole experience." by @[chowdhuryrahul](https://twitter.com/chowdhuryrahul/status/1115132766603972609)
 
 "I am unable to login to android app, tried using credentials, reinstalling app, nothing worked." by @[prasadthombre](https://twitter.com/prasadthombre/status/1112950318537625600)
