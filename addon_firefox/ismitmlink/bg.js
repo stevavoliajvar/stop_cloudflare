@@ -1,4 +1,4 @@
-let apiurl = 'https://searxes.danwin1210.me/collab/open/ismitm.php';
+let apiurl = 'https://searxes.eu.org/collab/open/ismitm.php';
 let TORapiurl = 'http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/ismitm.php';
 
 fetch('http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/ok', {
