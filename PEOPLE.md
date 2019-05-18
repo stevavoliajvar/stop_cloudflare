@@ -172,6 +172,8 @@ Disqualify:
 
 "It seems like our applications getting blocked by your CloudFlare firewall." by @[kooicia](https://twitter.com/kooicia/status/1128610811235061760)
 
+"Past experience shows Cloudflare treats Tor network traffic as suspect and I have to answer captchas to load webpages." by @[joshburker](https://twitter.com/joshburker/status/1126942827118772224)
+
 "I keep getting a message from Cloudflare saying I'm blocked from the site. It started a few days ago after clicking a Google search result." by @[ThisSteveGuy](https://twitter.com/ThisSteveGuy/status/1128427079849119744)
 
 "I got blocked by Cloudflare's CEO and "abuse" head for asking similar questions." by @[dxgl_org](https://twitter.com/dxgl_org/status/1128041430985912320)
