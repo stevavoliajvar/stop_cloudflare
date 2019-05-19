@@ -186,6 +186,12 @@ Disqualify:
 
 "half the sites i visit require me to do a captcha, and then half the resources fail to load even after i'm successful." by @[adamjogrady](https://twitter.com/adamjogrady/status/1127766600428343297)
 
+"I have an issue where CloudFlare is blocking access to HubSpot ... it is from one IP only (my work IP)" by @[sitchaba](https://twitter.com/sitchaba/status/1125825108050890754)
+
+"Cloudflare WAF blocking real Yandex and Bing bots, starting from today" by @[Nktzz](https://twitter.com/Nktzz/status/1128335777879011330)
+
+"Cloudflare is not an option. You should not use it if you value your privacy." by @[larrybeck_](https://twitter.com/larrybeck_/status/1120180809955254272)
+
 "Cloudflare can fuck right off with this sudden "Confirm you're not a robot" page that's popping up everyfuckingwhere. Sort your malconfigured shit out." by @[anarchic_teapot](https://twitter.com/anarchic_teapot/status/1127677511838707713)
 
 "Resulta que la web m'ha bloquejat per activitat sospitosa Quin ensurt!" by @[bartomeumiro](https://twitter.com/bartomeumiro/status/1127517268152287233)
