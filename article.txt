@@ -31,34 +31,32 @@ The Javascript Trap[47]
 Understanding that Google is not to be trusted[45][46]
 "Trusted Third Parties are Security Holes" - Nick Szabo[44][48]
 
-Cloudflare is a service for turing tests its users users, which means that
-it frustrates attempts by users of its users to develop software to interact
-with their websites[3].  This might seem strange at first - why would you need
-a program to access a web resource?   But there's many things that work on the
-web like this, including RSS, podcasts, and antivirus definitions[57][58] which are completley broken by a
-CAPTCHA appearing mid stream[11].  "We humans don't make HTTP requests,
-our machines to do it for us." makes clear what is really being tested here -
-whether or not you have the *right* software stack in between you and
+Cloudflare is a service for turing tests its users users, which means that it frustrates attempts by users of its users
+to develop software to interact with their websites[3].  This might seem strange at first - why would you need a program
+to access a web resource?   But there's many things that work on the web like this, including RSS, podcasts, and antivirus
+definitions[57][58] which are completley broken by a CAPTCHA appearing mid stream[11].
+"We humans don't make HTTP requests, our machines to do it for us."
+This makes clear what is really being tested here - whether or not you have the *right* software stack in between you and
 cloudflare.
 
-This is not a hypothetical: Cloudflare is currently attempting to dictate
-which web browsers users of websites under cloudflare may use[60].
+This is not a hypothetical: Cloudflare is currently attempting to dictate which web browsers users of websites under cloudflare may use[60].
 
 {{expand}}
-Your right to use Free Software in this stack is at risk, and could disappear
-at any moment.
 
-It also is extracting free labour from website users[35], in effect tricking human beings to act like robots in order to defeat a test designed to test whether they are a robot, worse: this labour is going towards training a company that is a poor candidate for friendly AI[36].  Given unfriendly AI is an existential[43] risk[42], this should be among the highest priority things to avoid.
+Your right to use Free Software in this stack is at risk, and could disappear at any moment.
+
+It also is extracting free labour from website users[35], in effect tricking human beings to act like robots in order to defeat
+a test designed to test whether they are a robot, worse: this labour is going towards training a company that is a poor
+candidate for friendly AI[36].  Given unfriendly AI is an existential[43] risk[42], this should be among the highest priority things to avoid.
 
 This software stack includes human language: the CAPTCHAs are in english, making non-english speakers around the world at a disadvantage[13].  Attempts to fix this are bound by the fact that they also leak language information to cloudflare[21]
 
-Furthermore they use Google ReCaptcha for their turing
-test/CAPTCHA, and Google is part of PRISM, so they expose PRISM data collection
-to users of their websites.
+Furthermore they use Google ReCaptcha for their turing test/CAPTCHA, and Google is part of PRISM, so they expose PRISM
+data collection to users of their websites.
 
-Which on its own is bad, but also worth pointing out how the ReCAPTCHAs work:
-it isn't by whether or not you click on the right icon or not(though that, is
-a factor too), but also
+Which on its own is bad, but also worth pointing out how the ReCAPTCHAs work: it isn't by whether or not you click on the right icon
+or not(though that, is a factor too), but also
+
 > mouse movement, its slightness and straightness
 > page scrolls
 > time intervals between browser events
@@ -70,19 +68,19 @@ a factor too), but also
 
 This collection of data is likely illegal in regions like the EU where privacy is taken seriously[24]
 
-It is frustrating even when it works, because you have to fill out 20 captchas
-on the off chance that you get through 1 time in 20.  So this is 95% censorship
-5% wasting of users time[5].
+It is frustrating even when it works, because you have to fill out 20 captchas on the off chance that you get through 1 time in 20.
+So this is 95% censorship plus 5% wasting of users time[5].
 
 More important, though is it starts to form a ratchet for web browser technology - the captchas are upgraded all the time, and if you use an older web browser you risk being left behind even if it works now.
 
 
 *How Cloudflare threatens You*
 
-"When you fetch a page from a website that is served from CloudFlare, Javascript has been injected on-the-fly into that page by CloudFlare. and they also plant a cookie that brands your browser with a globally-unique ID.  ID. This happens even if the website is using SSL and shows a cute little padlock in your browser" [10]
+"When you fetch a page from a website that is served from CloudFlare, Javascript has been injected on-the-fly into that page by CloudFlare. And they also plant a cookie that brands your browser with a globally-unique ID.  ID. This happens even if the website is using SSL and shows a cute little padlock in your browser" [10]
 
 - Cloudflare tracks you
-Even if your web browsing traffic is protected from onlookers, cloudflare itself because they are a MiTM[14][31] can see your traffic[6].  And if Cloudflare[53] has MITM'd you, then so has the NSA[33].
+Even if your web browsing traffic is protected from onlookers, cloudflare itself because they are a MiTM[14][31] can see your traffic[6].
+And if Cloudflare[53] has MITM'd you, then so has the NSA[33].
 "If a site uses Cloudflare, then the browser lock icon is a false promise."[14]
 "The short version, a rhetorical question: Would you trust a key escrow régime, in which an “authorized” entity was entrusted with the potential to decrypt all communications at will? If not, why would you trust a de facto mass decryption chokepoint at which many communications are actually decrypted?"[34]
 in other words
