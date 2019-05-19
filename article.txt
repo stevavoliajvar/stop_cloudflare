@@ -3,6 +3,7 @@ Audience: General, people who stumble upon gnu.org
           1028+/-395 words instead?
           755 words        rahisibhasha
           stab at          french
+Version: 2019-05-19
 
 
 #########################################
@@ -233,42 +234,42 @@ Learn more about cloudflare, and make sure the people around you know about clou
 
 
 References
-[1] https://web.archive.org/web/20170721161127/http://www.crimeflare.us/honeypot.html
-[2] https://trac.torproject.org/projects/tor/ticket/18361#comment:15
-[3] https://trac.torproject.org/projects/tor/ticket/18361#comment:21
-[5] https://trac.torproject.org/projects/tor/ticket/18361#comment:28
-[6] https://trac.torproject.org/projects/tor/ticket/18361#comment:30
-[7] https://trac.torproject.org/projects/tor/ticket/18361#comment:32 
-[8] https://www.bloomberg.com/quicktake/great-firewall-of-china
-[9] https://trac.torproject.org/projects/tor/ticket/18361#comment:51
-[10] https://web.archive.org/web/20170721161127/http://www.crimeflare.us/honeypot.html
-[11]  https://trac.torproject.org/projects/tor/ticket/18361#comment:59
-[12] https://trac.torproject.org/projects/tor/ticket/18361#comment:66
-[13] https://blog.torproject.org/trouble-cloudflare
-[14] https://trac.torproject.org/projects/tor/ticket/24351#comment:8
+[1] crimeflare. Is CloudFlare a honey pot?  https://web.archive.org/web/20170721161127/http://www.crimeflare.us/honeypot.html
+[2] ioerror. Issues with corporate censorship and mass surveillance.  https://trac.torproject.org/projects/tor/ticket/18361#comment:15
+[3] ioerror. Issues with corporate censorship and mass surveillance.  https://trac.torproject.org/projects/tor/ticket/18361#comment:21
+[5] ioerror. Issues with corporate censorship and mass surveillance.  https://trac.torproject.org/projects/tor/ticket/18361#comment:28
+[6] ioerror. Issues with corporate censorship and mass surveillance.  https://trac.torproject.org/projects/tor/ticket/18361#comment:30
+[7] ioerror. Issues with corporate censorship and mass surveillance.  https://trac.torproject.org/projects/tor/ticket/18361#comment:32 
+[8] ioerror. Issues with corporate censorship and mass surveillance.  https://www.bloomberg.com/quicktake/great-firewall-of-china
+[9] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:51
+[10] crimeflare. Is CloudFlare a honey pot?  https://web.archive.org/web/20170721161127/http://www.crimeflare.us/honeypot.html
+[11] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:59
+[12] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:66
+[13] mikeperry. The Trouble with CloudFlare.  https://blog.torproject.org/trouble-cloudflare
+[14] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24351#comment:8
 [15] https://plus.google.com/105395547687614433866/posts/G9nnQBnLtjp
 [16] https://plus.google.com/105395547687614433866/posts/XnQryQ7hR9G
 [17] https://it.slashdot.org/comments.pl?sid=12641622&cid=57348584
 [18] https://it.slashdot.org/comments.pl?sid=12641622&cid=57388544
-[19] https://trac.torproject.org/projects/tor/ticket/18361#comment:90
-[20] https://trac.torproject.org/projects/tor/ticket/18361#comment:112
-[21] https://trac.torproject.org/projects/tor/ticket/18361#comment:132
-[22] https://trac.torproject.org/projects/tor/ticket/18361#comment:141
-[23] https://trac.torproject.org/projects/tor/ticket/18361#comment:147
-[24] https://trac.torproject.org/projects/tor/ticket/18361#comment:160
-[25] https://trac.torproject.org/projects/tor/ticket/18361#comment:175
-[26] https://trac.torproject.org/projects/tor/ticket/18361#comment:183
-[27] https://trac.torproject.org/projects/tor/ticket/18361#comment:231
-[28] https://trac.torproject.org/projects/tor/ticket/18361#comment:236
-[29] https://trac.torproject.org/projects/tor/ticket/18361#comment:255
-[30] https://trac.torproject.org/projects/tor/ticket/23141
-[31] https://trac.torproject.org/projects/tor/ticket/24351#comment:20
-[32] https://trac.torproject.org/projects/tor/ticket/24351#comment:44
-[33] https://trac.torproject.org/projects/tor/ticket/24351#comment:52
-[34] https://trac.torproject.org/projects/tor/ticket/24351#comment:60
-[35] https://trac.torproject.org/projects/tor/ticket/24321#comment:13
-[36] https://notabug.org/crimeflare/cloudflare-tor/src/master/cloudflare-philosophy.md
-[37] https://toot.cafe/@peter/99398584471715976
+[19] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:90
+[20] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:112
+[21] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:132
+[22] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:141
+[23] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:147
+[24] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:160
+[25] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:175
+[26] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:183
+[27] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:231
+[28] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:236
+[29] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:255
+[30] gk. Cloudflare breaks loading the chat.  https://trac.torproject.org/projects/tor/ticket/23141
+[31] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24351#comment:20
+[32] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24351#comment:44
+[33] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24351#comment:52
+[34] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24351#comment:60
+[35] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24321#comment:13
+[36] Anonymous. Cloudflare philosophy.  https://notabug.org/crimeflare/cloudflare-tor/src/master/cloudflare-philosophy.md
+[37] Peter O'Shaughnessy. Screen Reader User Survey Results #7.  https://toot.cafe/@peter/99398584471715976
 [39] https://blog.ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
 [40] http://exiledonline.com/isucker-big-brother-internet-culture/
 [41] http://notabug.org/crimeflare/cloudflare-tor
