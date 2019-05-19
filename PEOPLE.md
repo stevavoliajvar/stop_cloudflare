@@ -725,6 +725,8 @@ Disqualify:
 
 ######  Mastodon
 
+"It sabotaged users over serious concerns of non-privacy, censorship, unethical, deception and unfair experiences." by @[HarvettFox96](https://hostux.social/@HarvettFox96/102097087292348123)
+
 "Firefox is going to ship with DNS over HTTPS (DoH) by default soon. It will still use Cloudflare by default." by @[amolith](https://masto.nixnet.xyz/@amolith/101939482525255808)
 
 "How pathetic is life when becoming absolutely enraged after solving a #captcha 3 times but not being permitted to move forward." by @[hrthu](https://fosstodon.org/@hrthu/101987545210858236)
