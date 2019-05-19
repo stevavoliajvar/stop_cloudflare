@@ -20,7 +20,6 @@ Disqualify:
 	- Twitter/Mastodon: too short text
 ```
 
-###### Can't find your URL? Don't be shy, notify us.
 
 ------
 
