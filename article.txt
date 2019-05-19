@@ -280,15 +280,15 @@ References
 [46] https://stallman.org/google.html
 [47] https://www.gnu.org/philosophy/javascript-trap.html
 [48] https://nakamotoinstitute.org/trusted-third-parties
-[49] https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/
-[50] https://www.quora.com/How-likely-is-it-that-CloudFlare-is-an-NSA-operation/answer/Hamid-Sarfraz
-[51] https://medium.com/@karthikb351/airtel-is-sniffing-and-censoring-cloudflares-traffic-in-india-and-they-don-t-even-know-it-90935f7f6d98
+[49] slashgeek. CloudFlare is ruining the internet (for me)  https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/
+[50] Hamid Sarfraz. How likely is it that CloudFlare is an NSA operation?  https://www.quora.com/How-likely-is-it-that-CloudFlare-is-an-NSA-operation/answer/Hamid-Sarfraz
+[51] Karthik Balakrishnan. Airtel is sniffing and censoring CloudFlare’s traffic in India and CloudFlare doesn’t even know it.  https://medium.com/@karthikb351/airtel-is-sniffing-and-censoring-cloudflares-traffic-in-india-and-they-don-t-even-know-it-90935f7f6d98
 [52] http://pleroma.oniichanylo2tsi4.onion/notice/1563
-[53] https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-351555735
-[54] https://lists.torproject.org/pipermail/tor-talk/2018-January/043889.html
-[55] https://www.eff.org/document/crypto-wars
+[53] StopMITMInt. Add an option to stop trusting Cloudflare certificate  https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-351555735
+[54] goody2shoes. Block Global Active Adversary Cloudflare  https://lists.torproject.org/pipermail/tor-talk/2018-January/043889.html
+[55] EFF. The Crypto Wars  https://www.eff.org/document/crypto-wars
 [56] http://forums.clamwin.com/viewtopic.php?t=4915
-[57] http://lists.clamav.net/pipermail/clamav-users/2018-November/thread.html
+[57] November 2018 Archives by thread  http://lists.clamav.net/pipermail/clamav-users/2018-November/thread.html
 [58] https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf
-[59] https://github.com/ghacksuserjs/ghacks-user.js/issues/310#issuecomment-351913412
-[60] https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460413259
+[59] Thorin-Oakenpants. let's talk about our little buddy cloudflare.  https://github.com/ghacksuserjs/ghacks-user.js/issues/310#issuecomment-351913412
+[60] ghost. What do you think about Cloudflare?  https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460413259
