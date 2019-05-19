@@ -234,6 +234,7 @@ Learn more about cloudflare, and make sure the people around you know about clou
 
 
 References
+
 [1] crimeflare. Is CloudFlare a honey pot?  https://web.archive.org/web/20170721161127/http://www.crimeflare.us/honeypot.html
 [2] ioerror. Issues with corporate censorship and mass surveillance.  https://trac.torproject.org/projects/tor/ticket/18361#comment:15
 [3] ioerror. Issues with corporate censorship and mass surveillance.  https://trac.torproject.org/projects/tor/ticket/18361#comment:21
@@ -247,10 +248,10 @@ References
 [12] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:66
 [13] mikeperry. The Trouble with CloudFlare.  https://blog.torproject.org/trouble-cloudflare
 [14] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24351#comment:8
-[15] https://plus.google.com/105395547687614433866/posts/G9nnQBnLtjp
-[16] https://plus.google.com/105395547687614433866/posts/XnQryQ7hR9G
-[17] https://it.slashdot.org/comments.pl?sid=12641622&cid=57348584
-[18] https://it.slashdot.org/comments.pl?sid=12641622&cid=57388544
+[15] Unknown. Google+ https://plus.google.com/105395547687614433866/posts/G9nnQBnLtjp
+[16] Unknown. Google+ https://plus.google.com/105395547687614433866/posts/XnQryQ7hR9G
+[17] msmach. Cloudflare Ends CAPTCHAs For Tor Users  https://it.slashdot.org/comments.pl?sid=12641622&cid=57348584
+[18] msmach. Cloudflare Ends CAPTCHAs For Tor Users  https://it.slashdot.org/comments.pl?sid=12641622&cid=57388544
 [19] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:90
 [20] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:112
 [21] ioerror. Issues with corporate censorship and mass surveillance.   https://trac.torproject.org/projects/tor/ticket/18361#comment:132
@@ -270,16 +271,16 @@ References
 [35] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24321#comment:13
 [36] Anonymous. Cloudflare philosophy.  https://notabug.org/crimeflare/cloudflare-tor/src/master/cloudflare-philosophy.md
 [37] Peter O'Shaughnessy. Screen Reader User Survey Results #7.  https://toot.cafe/@peter/99398584471715976
-[39] https://blog.ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
-[40] http://exiledonline.com/isucker-big-brother-internet-culture/
-[41] http://notabug.org/crimeflare/cloudflare-tor
-[42] https://wiki.lesswrong.com/wiki/Unfriendly_artificial_intelligence
-[43] https://www.visionofearth.org/future-of-humanity/existential-risks/what-is-an-existential-risk/
-[44] http://twitter.com/nickszabo4
-[45] https://www.gnu.org/proprietary/malware-google.en.html
-[46] https://stallman.org/google.html
-[47] https://www.gnu.org/philosophy/javascript-trap.html
-[48] https://nakamotoinstitute.org/trusted-third-parties
+[39] ungeich. A new feature in Firefox  https://blog.ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
+[40] Yasha Levine. iSucker: Big Brother Internet Culture  http://exiledonline.com/isucker-big-brother-internet-culture/
+[41] Anonymous. The Great Cloudwall.  http://notabug.org/crimeflare/cloudflare-tor
+[42] lesswrong wiki. Unfriendly artificial intelligence  https://wiki.lesswrong.com/wiki/Unfriendly_artificial_intelligence
+[43] Ben Harack. What is an existential risk?  https://www.visionofearth.org/future-of-humanity/existential-risks/what-is-an-existential-risk/
+[44] Nick Szabo. Twitter  http://twitter.com/nickszabo4
+[45] FSF. Google's Software is Malware  https://www.gnu.org/proprietary/malware-google.en.html
+[46] Richard Stallman. Reasons not to use Google  https://stallman.org/google.html
+[47] Richard Stallman. The JavaScript Trap  https://www.gnu.org/philosophy/javascript-trap.html
+[48] Nick Szabo. Trusted Third Parties are Security Holes. 2001.  https://nakamotoinstitute.org/trusted-third-parties
 [49] slashgeek. CloudFlare is ruining the internet (for me)  https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/
 [50] Hamid Sarfraz. How likely is it that CloudFlare is an NSA operation?  https://www.quora.com/How-likely-is-it-that-CloudFlare-is-an-NSA-operation/answer/Hamid-Sarfraz
 [51] Karthik Balakrishnan. Airtel is sniffing and censoring CloudFlare’s traffic in India and CloudFlare doesn’t even know it.  https://medium.com/@karthikb351/airtel-is-sniffing-and-censoring-cloudflares-traffic-in-india-and-they-don-t-even-know-it-90935f7f6d98
