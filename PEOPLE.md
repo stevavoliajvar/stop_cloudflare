@@ -159,6 +159,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"someone created an account for me and wanted to run my website on CloudFare." by @[fs0c131y](https://twitter.com/fs0c131y/status/1130090448092049408)
+
 "your Cloudflare setup is brocken. Every page I visit I either being forced to solve a captcha or it doesn’t load at all." by @[111110100](https://twitter.com/111110100/status/1128826984883036163)
 
 "You do know that Cloudflare acts as a proxy? They can be the causing those 502 errors and slow loading times. They aren't perfect. If you're connected to a (shitty) wifi network that can cause slow load times too. Deactivate Cloudflare next time before jumping to conclusions!" by @[StopTheComplain](https://twitter.com/StopTheComplain/status/1100022334189170688)
