@@ -225,6 +225,14 @@ Disqualify:
 
 "Cloudflare, if you don't know this; we have seriously misplaced our trust in you." by @[ADoug](https://twitter.com/ADoug/status/1125266988966739968)
 
+"I politely replied that I don't have purchasing authority or reason to use your products. Then he added me to your mailing list. Stop this insanity now." by @[danfuhry](https://twitter.com/danfuhry/status/1001868888789995520)
+
+"Hi, I get spamed by an Cloudflare employee with the same "Broadening possibilities with Cloudflare"-Mail every day at noon. Can this stop immediately please?" by @[BooVeMan](https://twitter.com/BooVeMan/status/1070606946728902656)
+
+"Cloudflare sends spam so many times. I said "Don't do it" but they don't care." by @[christine_nakaj](https://twitter.com/christine_nakaj/status/1035430229609656322)
+
+"Cloudflare are intentionally rubbish at dealing with abuse. It's no mistake they don't validate emails, it's no mistake their AUP is one paragraph. Everyone needs to stop thinking of them as some benign DDoS provider as none of the other companies have this problem." by @[plambrechtsen](https://twitter.com/plambrechtsen/status/1124792607542890496)
+
 "Outrageous to use SSL MITM 4 a healthcare site. Horrendous for fintech." by @[paulmillr](https://twitter.com/paulmillr/status/834980791440535552)
 
 "Which means, you are in fact blocking Tor. Finger pointing to the TLS MITM service you use is just pathetic." by @[MacLemon](https://twitter.com/MacLemon/status/793937442789355520)
