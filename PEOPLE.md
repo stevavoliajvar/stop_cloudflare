@@ -668,6 +668,28 @@ Disqualify:
 
 "One more stepというのが出た Cloudflareってなんやねん" by @[zofeee](https://twitter.com/zofeee/status/1114998054770302976)
 
+"Even though its your website, you are still restricted on how big a file you can upload to it if you use CloudFlare." by @[MajorLinux](https://twitter.com/MajorLinux/status/1088454705515134977)
+
+"I am tired of this stupid Cloudflare Human Verification. Even though I am logged in and been using Agar.io  without any issue why does this human verification comes in annoying way that I have to verify in each and every gaming session? Has robot grown so much?" by @[mysterychemical](https://twitter.com/mysterychemical/status/1059297971387408385)
+
+"People are increasingly getting tired of little tyrants like you attempting to take away their freedoms." by @[Flavius_Amalek](https://twitter.com/Flavius_Amalek/status/1062372493946769408)
+
+"Cannot access this site with TOR due to cloudflare. i got tired after having to do 20 verifications. No story's worth that kinda nonsense." by @[TheOnlyHapax](https://twitter.com/TheOnlyHapax/status/1045901955393097728)
+
+"Tor Browser experience: CloudFlare captchas all day, every day. Getting so tired of this. The "world wide web" is totally unusable over Tor." by @[attractr](https://twitter.com/attractr/status/763773075628388353)
+
+"Captchas keep failing, so I am on attempt number 7 or 8 to access the website I need to reach today." by @[attractr](https://twitter.com/attractr/status/763773381967765504)
+
+"Really tired of CloudFlare and having to constantly delete my cookies." by @[_Aqua_Buddha_](https://twitter.com/_Aqua_Buddha_/status/156124049213374464)
+
+"I am *really* tired of convincing Cloudflare I'm not a robot. I wish they were a bit smarter about remembering." by @[_fconti](https://twitter.com/_fconti/status/920119467631435777)
+
+"I've seen the "Cloudflare got hacked update your password" thing about 6 times now and I'm tired" by @[kipptune](https://twitter.com/kipptune/status/835139810956197888)
+
+"Cloudflare got rekt and many sites including Discord is down so ur bored, hot, tired, and missing ur friends pls talk to me I am slowly dying but not that slowly" by @[Savage_ssb](https://twitter.com/Savage_ssb/status/1013266673678389249)
+
+"Oh I'm tired of seeing this WordPress / CloudFlare / website error message.... :-(" by @[wfryer](https://twitter.com/wfryer/status/556854625044025344)
+
 "I've had a issue for a while now where I get a box on OBS which says "One more step. Please complete the security check to access http://streamlabs.com " I went to your website and completed it with 2 different browsers but still the same thing." by @[NemeZiLive](https://twitter.com/NemeZiLive/status/1101399417024843777)
 
 "Is it normal for attempts to open your site, to be met with One more step +capcha test? or a BS speedbump?" by @[TotsTeeter](https://twitter.com/TotsTeeter/status/1061732565185261568)
