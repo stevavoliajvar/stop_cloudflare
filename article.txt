@@ -23,16 +23,17 @@ The Great Cloudwall
 by Jeff Cliff
 
 
-There is a reason that none of your favourite work intermittently on tor since early 2016[15].
-That reason has lead to the discovery of a threat to the operation of the world wide web itself.
+There is a reason that none of your favourite work intermittently on Tor since early 2016[15].
+That reason has lead to the discovery of a threat to the operation of the World Wide Web.
 
 Prerequisites:
-The Javascript Trap[47]
-Understanding that Google is not to be trusted[45][46]
-"Trusted Third Parties are Security Holes" - Nick Szabo[44][48]
+- The Javascript Trap[47]
+- Understanding that Google is not to be trusted[45][46]
+- Nick Szabo: "Trusted Third Parties are Security Holes"[44][48]
 
-Cloudflare is a service for turing tests its users users, which means that it frustrates attempts by users of its users
-to develop software to interact with their websites[3].  This might seem strange at first - why would you need a program
+Cloudflare is a service for turing tests its users use against visitors, which means that it frustrates attempts by users of its users
+to develop software to interact with their websites[3].
+This might seem strange at first - why would you need a program
 to access a web resource?   But there's many things that work on the web like this, including RSS, podcasts, and antivirus
 definitions[57][58] which are completley broken by a CAPTCHA appearing mid stream[11].
 "We humans don't make HTTP requests, our machines to do it for us."
