@@ -257,6 +257,16 @@ Disqualify:
 
 "Avoid and ask any website you use why they are using them and to stop ASAP." by @[larrybeck_](https://twitter.com/larrybeck_/status/1120840099112026112)
 
+"I hope other IT leaders with buying power will boycott Cloudflare until they stop protecting the armpit of the internet." by @[lost_packets](https://twitter.com/lost_packets/status/1117785522154483719)
+
+"Companies should boycott Cloudflare immediately." by @[DanRayburn](https://twitter.com/DanRayburn/status/1073785965586669568)
+
+"#Cloudflare is blocking me again. Asks me to tackle a challenge that requires #javascript to get past, basically making my surfing a lot less convenient, far less secure, and making the Web a much more dangerous place. Webmasters, boycott CF." by @[schestowitz](https://twitter.com/schestowitz/status/1066085547561680897)
+
+"Folks don't forget to add CloudFlare to your list of providers to boycott!" by @[miftik](https://twitter.com/miftik/status/591684333620109313)
+
+"Security: You might want to avoid sites with #Cloudflare" by @[schestowitz](https://twitter.com/schestowitz/status/835529104007004164)
+
 "Zero Cloudflare, our site scores a 98% on pagespeed.. Really cant see any benefit to using cloudflare at all" by @[WESHUK](https://twitter.com/WESHUK/status/1120817837499650048)
 
 "I read a description of CloudFlare as a "man-in-the-middle attack on the entire internet" and now I'm just a LIIIIIITLE bit conflicted." by @[ianbeck](https://twitter.com/ianbeck/status/1120814430239907840)
