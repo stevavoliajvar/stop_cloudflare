@@ -4,6 +4,7 @@ Audience: General, people who stumble upon gnu.org
           755 words        rahisibhasha
           stab at          french
 
+
 #########################################
 
 大云墙 (Dà Yún qiáng)
@@ -15,14 +16,19 @@ essistensa una reason you go to
 
 #########################################
 
+
 The Great Cloudwall
 
 by Jeff Cliff
 
-*There is a reason that none of your favourite work intermittently on tor since
-early 2016[15].  That reason has lead to the discovery of a threat to the operation of the world wide web itself.*
 
-Prerequisites: The Javascript Trap[47], understanding that Google is not to be trusted[45][46],  "Trusted Third Parties are Security Holes" - Nick Szabo[44][48]
+There is a reason that none of your favourite work intermittently on tor since early 2016[15].
+That reason has lead to the discovery of a threat to the operation of the world wide web itself.
+
+Prerequisites:
+The Javascript Trap[47]
+Understanding that Google is not to be trusted[45][46]
+"Trusted Third Parties are Security Holes" - Nick Szabo[44][48]
 
 Cloudflare is a service for turing tests its users users, which means that
 it frustrates attempts by users of its users to develop software to interact
@@ -218,13 +224,15 @@ as a consequence:
 
 *Mozilla and Cloudflare*
 
-". At least for browsing with Firefox, because Mozilla has partnered up with Cloudflare, and will resolve the domain names from the application itself via a DNS server from Cloudflare based in the United States. Cloudflare will then be able to read everyone's DNS requests. "
+"At least for browsing with Firefox, because Mozilla has partnered up with Cloudflare, and will resolve the domain names from the application itself via a DNS server from Cloudflare based in the United States. Cloudflare will then be able to read everyone's DNS requests. "
 Sharing DNS requests with cloudflare represents mozilla having a security hole, straight to the Cloudflare (and probably: the NSA).
 
 *What can you do?*
 
-Learn more about cloudflare, and make sure the people around you know about cloudflare.  Use tor by default to be more exposed to the blocks.  Go to the anti-cloudflare collaboration repository[41] and make sure websites you use don't use them, and if they do, contact the people who run the website requesting that they no longer use cloudflare.  Get involved!
+Learn more about cloudflare, and make sure the people around you know about cloudflare.  Use tor by default to be more exposed to the blocks.  Go to the anti-cloudflare collaboration repository[41] and make sure websites you use don't use them, and if they do, contact the people who run the website requesting that they no longer use cloudflare. Get involved!
 
+
+References
 [1] https://web.archive.org/web/20170721161127/http://www.crimeflare.us/honeypot.html
 [2] https://trac.torproject.org/projects/tor/ticket/18361#comment:15
 [3] https://trac.torproject.org/projects/tor/ticket/18361#comment:21
@@ -259,11 +267,11 @@ Learn more about cloudflare, and make sure the people around you know about clou
 [33] https://trac.torproject.org/projects/tor/ticket/24351#comment:52
 [34] https://trac.torproject.org/projects/tor/ticket/24351#comment:60
 [35] https://trac.torproject.org/projects/tor/ticket/24321#comment:13
-[36] https://notabug.org/themusicgod1/cloudflare-tor/src/master/cloudflare-philosophy.md
+[36] https://notabug.org/crimeflare/cloudflare-tor/src/master/cloudflare-philosophy.md
 [37] https://toot.cafe/@peter/99398584471715976
 [39] https://blog.ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
 [40] http://exiledonline.com/isucker-big-brother-internet-culture/
-[41] http://notabug.org/themusicgod1/cloudflare-tor
+[41] http://notabug.org/crimeflare/cloudflare-tor
 [42] https://wiki.lesswrong.com/wiki/Unfriendly_artificial_intelligence
 [43] https://www.visionofearth.org/future-of-humanity/existential-risks/what-is-an-existential-risk/
 [44] http://twitter.com/nickszabo4
