@@ -43,6 +43,8 @@ your true ID. If you don't want to [get swatted](https://boingboing.net/2015/01/
 ![](image/cfdox_what.jpg)
 ![](image/cfdox_swat.jpg)
 ![](image/cfdox_kill.jpg)
+![](image/cfdox_threat.jpg)
+![](image/cfdox_dox.jpg)
 
 
 And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning fake IP address owned by Cloudflare or just return nothing.
