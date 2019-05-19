@@ -179,6 +179,8 @@ Disqualify:
 
 "If you report abusive content on that particular site you will get doxed. It's not safe to report that site." by @[dxgl_org](https://twitter.com/dxgl_org/status/1108405275709620224)
 
+"Cloudflare, if I use Tor do you still read the resulting so-called abuse report? And why does the head of "abuse" block critics?" by @[dxgl_org](https://twitter.com/dxgl_org/status/1093280991270092800)
+
 "CF are an outlier with *ALL* vile sites behind them and make the abuse process as hard as possible." by @[plambrechtsen](https://twitter.com/plambrechtsen/status/1125483870667792387)
 
 "My problem is *created by* Cloudflare's protection of violent extremists and not solved by giving more Cloudflare for me." by @[lizthegrey](https://twitter.com/lizthegrey/status/1127946041058263042)
