@@ -173,6 +173,14 @@ Disqualify:
 
 "Check into Cloudflare it seems to be forcing blatant censorship in part by blocking access to sites and information on the internet!" by @[rickadam0](https://twitter.com/rickadam0/status/1128934188084711425)
 
+"I'm hearing my friends got doxed by 8ch/GG because of a gross mishandling by CloudFlare ?! Are you kidding me?!!" by @[dirtbagboyfren](https://twitter.com/dirtbagboyfren/status/554668717972287488)
+
+"Short story: CF passes on all the info you submit in their abuse form (incl. name, email) to the website owner." by @[iglvzx](https://twitter.com/iglvzx/status/554689456670650368)
+
+"If you report abusive content on that particular site you will get doxed. It's not safe to report that site." by @[dxgl_org](https://twitter.com/dxgl_org/status/1108405275709620224)
+
+"CF are an outlier with *ALL* vile sites behind them and make the abuse process as hard as possible." by @[plambrechtsen](https://twitter.com/plambrechtsen/status/1125483870667792387)
+
 "My problem is *created by* Cloudflare's protection of violent extremists and not solved by giving more Cloudflare for me." by @[lizthegrey](https://twitter.com/lizthegrey/status/1127946041058263042)
 
 "Javascript is off by default because of trust issues with a website Meanwhile Cloudflare demands I turn on Javascript because of trust issues" by @[steelhoof](https://twitter.com/steelhoof/status/1128105553299775488)
