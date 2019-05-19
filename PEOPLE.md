@@ -675,6 +675,8 @@ Disqualify:
 
 "Cannot access this site with TOR due to cloudflare. i got tired after having to do 20 verifications. No story's worth that kinda nonsense." by @[TheOnlyHapax](https://twitter.com/TheOnlyHapax/status/1045901955393097728)
 
+"I am getting your "one more step attention required" problem when i try to access certain websites. I did not have this problem yesterday, and i dont know what might cause it." by @[edwin_demker](https://twitter.com/edwin_demker/status/1087764376411664384)
+
 "Tor Browser experience: CloudFlare captchas all day, every day. Getting so tired of this. The "world wide web" is totally unusable over Tor." by @[attractr](https://twitter.com/attractr/status/763773075628388353)
 
 "Captchas keep failing, so I am on attempt number 7 or 8 to access the website I need to reach today." by @[attractr](https://twitter.com/attractr/status/763773381967765504)
