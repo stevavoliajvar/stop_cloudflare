@@ -80,7 +80,6 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 
 ![](image/prismattnsa.jpg)
-![](image/prism_gfe.jpg)
 
 
 ### Cloudflare is a honeypot.
