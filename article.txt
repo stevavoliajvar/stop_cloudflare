@@ -31,11 +31,10 @@ Prerequisites:
 - Understanding that Google is not to be trusted[45][46]
 - Nick Szabo: "Trusted Third Parties are Security Holes"[44][48]
 
-Cloudflare is a service for turing tests its users use against visitors, which means that it frustrates attempts by users of its users
+Cloudflare is a network service for turing tests its users use against visitors, which means that it frustrates attempts by users of its users
 to develop software to interact with their websites[3].
-This might seem strange at first - why would you need a program
-to access a web resource?   But there's many things that work on the web like this, including RSS, podcasts, and antivirus
-definitions[57][58] which are completley broken by a CAPTCHA appearing mid stream[11].
+This might seem strange at first - why would you need a program to access a web resource?
+But there's many things that work on the web like this, including RSS, podcasts, and anti-virus definitions[57][58] which are completely broken by a CAPTCHA appearing mid stream[11].
 "We humans don't make HTTP requests, our machines to do it for us."
 This makes clear what is really being tested here - whether or not you have the *right* software stack in between you and
 cloudflare.
@@ -50,7 +49,7 @@ It also is extracting free labour from website users[35], in effect tricking hum
 a test designed to test whether they are a robot, worse: this labour is going towards training a company that is a poor
 candidate for friendly AI[36].  Given unfriendly AI is an existential[43] risk[42], this should be among the highest priority things to avoid.
 
-This software stack includes human language: the CAPTCHAs are in english, making non-english speakers around the world at a disadvantage[13].  Attempts to fix this are bound by the fact that they also leak language information to cloudflare[21]
+This software stack includes human language: the CAPTCHAs are in English, giving non-english speakers around the world at a disadvantage[13].  Attempts to fix this are bound by the fact that they also leak language information to Cloudflare[21]
 
 Furthermore they use Google ReCaptcha for their turing test/CAPTCHA, and Google is part of PRISM, so they expose PRISM
 data collection to users of their websites.
@@ -80,10 +79,10 @@ More important, though is it starts to form a ratchet for web browser technology
 "When you fetch a page from a website that is served from CloudFlare, Javascript has been injected on-the-fly into that page by CloudFlare. And they also plant a cookie that brands your browser with a globally-unique ID.  ID. This happens even if the website is using SSL and shows a cute little padlock in your browser" [10]
 
 - Cloudflare tracks you
-Even if your web browsing traffic is protected from onlookers, cloudflare itself because they are a MiTM[14][31] can see your traffic[6].
-And if Cloudflare[53] has MITM'd you, then so has the NSA[33].
+Even if your web browsing traffic is protected from onlookers, cloudflare itself because they are a MITM[14][31] can see your traffic[6].
+And if Cloudflare[53] has attacked your traffic(MITM), then so has the NSA[33].
 "If a site uses Cloudflare, then the browser lock icon is a false promise."[14]
-"The short version, a rhetorical question: Would you trust a key escrow régime, in which an “authorized” entity was entrusted with the potential to decrypt all communications at will? If not, why would you trust a de facto mass decryption chokepoint at which many communications are actually decrypted?"[34]
+"The short version, a rhetorical question: Would you trust a key escrow regime, in which an “authorized” entity was entrusted with the potential to decrypt all communications at will? If not, why would you trust a de facto mass decryption chokepoint at which many communications are actually decrypted?"[34]
 in other words
 
 - They are in a position to track, tap, and link Internet activity across a wide range of sites. [14]
@@ -101,21 +100,21 @@ for some or all of their web browsing traffic.  The problem is getting worse[13]
 
 
 
-- in particular, the model of Project Honeypot depends on one (ipv4) IP address meaning one person.  As IPv4 addresses become scarce, more and more ISPs(and whole countries[22]) are forced to use higher and higher levels of NAT.  The result is, the kinds of treatment of tor users by cloudflare starts to be not just for tor, but for all web users. "Tor is just being slightly ahead of what the IPv4 Internet is going to look like pretty soon."
+- In particular, the model of Project Honeypot depends on one IPv4 IP address, meaning one person.  As IPv4 addresses become scarce, more and more ISPs(and whole countries[22]) are forced to use higher and higher levels of NAT.  The result is, the kinds of treatment of tor users by cloudflare starts to be not just for tor, but for all web users. "Tor is just being slightly ahead of what the IPv4 Internet is going to look like pretty soon."
 And the next time a large group wakes up it might be millions of websites being down (including critical ones) across a whole continent, which has happened already[49]
 
 "It was made clear in the Snowden leaks that GCHQ, the NSA etc would like people to stop using Tor, so I am sure they are very happy to see CF make general web browsing difficult and frustrating for ordinary users."[12]
 
-- Worse, Cloudflare makes using tor *dangerous* because enabling javascript and images to deal with their system makes it likely that some people will enable javascript and images on other websites, which even if Cloudflare wasn't threatening them, would.[9]
+- Worse, Cloudflare makes using tor *dangerous* because enabling Javascript and images to deal with their system makes it likely that some people will enable Javascript and images on other websites, which even if Cloudflare wasn't threatening them, would.[9]
 
 - Cloudflare is capable of tracking users of its websites, and initial looks
-into its javascript/CAPTCHA seems to bear out that they are doing so.
+into its Javascript/CAPTCHA seems to bear out that they are doing so.
 
-- Cloudflare can target individual users with javascript malware, since you usually wind up enabling their javascript to use websites you fall into their javascript trap. Since they track users, and are giving users per-user specific code and work directly with the US government/DHS there's no reason why they can't tailor attacks to users for them.
+- Cloudflare can target individual users with Javascript malware, since you usually wind up enabling their Javascript to use websites you fall into their trap. Since they track users, and are giving users per-user specific code and work directly with the US government/DHS there's no reason why they can't tailor attacks to users for them.
  
 - Even if they aren't doing it yet, they are at any point one US government administration, one vulture capital funding purchase[26], or one internally rogue element away from executing javascript code on hundreds of millions of people's computers a "highly attractive" target[7] with no oversight.  The code CAPTCHA itself protects attempts to detect such things from happening.
 
-- The way that Cloudflare is constructed means that even by accident, billions of people can be MiTMd by their government[51], and can have their access cut at the government's whim.
+- The way that Cloudflare is constructed means that even by accident, billions of people can be analyzed by their government[51], and can have their access cut at the government's whim.
 
 *Background : How Cloudflare threatens the web*
 
