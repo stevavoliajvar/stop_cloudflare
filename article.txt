@@ -122,15 +122,15 @@ into its Javascript/CAPTCHA seems to bear out that they are doing so.
 
 - as of 3 years ago 10% of the top 25,000 websites used cloudflare[2]
 - A billion people in china are restricted by the Great Firewall[8], anyone who
-goes so far as to circumvent that must then deal with the Great Cloudwall for accessing
+goes so far as to circumvent that must then deal with the "Great Cloudwall" for accessing
 
 - This is not just an individual problem,
 but fundamentally threatens the ecosystem of the web
 CloudFlare is breaking the web one site at a time. The web is massively
-resilient - we can do without StackOverflow, GNU.org or even Google.  But
+resilient - we can do without "Stack Overflow", GNU.org or even Google.  But
 when a significant enough portion of websites all use one provider there starts
 to be a systematic risk that if that one provider goes down, all of the websites
-behind it will be inacessible.  Or worse: you won't be allowed to access it
+behind it will be inaccessible.  Or worse: you won't be allowed to access it
 unless you have the right kind of US government approved credential, contingent
 perhaps on running software that only they approve of.
 
@@ -138,26 +138,26 @@ It is becoming a single point of failure for the internet[39]
 
 Right now there are alternative sources for, for example the US constitution[17].  But it's not unthinkable that Cloudflare is getting big enough to threaten that.
 
-"A.1 sometimes there are necessary websites for some degree of necessary. Government websites, public service, etc. How long until those are behind the great cloudwall ?
-B: Not long. Our service is competitive and convenient. If public service websites choose to use our service for awesome DDos protection, it's their choice."[36]
+"A.1 sometimes there are necessary websites for some degree of necessary. Government websites, public service, etc. How long until those are behind the "Great Cloudwall"?
+B: Not long. Our service is competitive and convenient. If public service websites choose to use our service for awesome DDoS protection, it's their choice."[36]
 
 - Cloudflare has already started down the slippery slopep[52] of censoring websites.
 While if they didn't have a stranglehold on people accessing the world wide web
 would not be a problem.  But they are big enough that censorship form
 cloudflare is starting to be a systematic exclusion from the political process.
 
-"CloudFlare is perfect: it can implement censorship on the fly, without anyone getting wise to it!"[40]
+"Cloudflare is perfect: it can implement censorship on the fly, without anyone getting wise to it!"[40]
 
 - DNS[39]: given that they have become so systematically powerful, the next step to
-cementing their power is to attack DNS.  Their 1.1.1.1 DNS server, like Google's 8.8.8.8, is marketed to people so that even for websites who *don't* use cloudflare, cloudflare will still be able to see you're going to them, further data for them to track you with.
+cementing their power is to attack DNS.  Their 1.1.1.1 DNS server, like Google's 8.8.8.8, is marketed to people so that even for websites who don't use cloudflare, cloudflare will still be able to see you're going to them, further data for them to track you with.
 
 *Background : Where does Cloudflare come from?*
 
-Cloudflare comes from a project called Project Honey Pot, originally intended
+Cloudflare comes from a project called "Project Honey Pot"[61], originally intended
 to track online fraud and abuse.
 
 "What was Project Honey Pot?
-" a service that positions itself as some kind of a grassroot-y antispam registry, but in reality seems to be a pro-corporate law enforcement tool with the specific aim of entrapping and prosecuting spammers/phishing scammers in a way that’s friendly to the marketing industry ""
+" a service that positions itself as some kind of a grassroot-y anti-spam registry, but in reality seems to be a pro-corporate law enforcement tool with the specific aim of entrapping and prosecuting spammers/phishing scammers in a way that’s friendly to the marketing industry ""
 
 The US Department of Homeland Security
 approached the developers in 2007-8[1][36] for access to their data, and they have
@@ -199,7 +199,7 @@ lot of riled up tor users to understand that cloudflare was their adversary.
 it's a lot harder to convince people who are not blocked from their websites,
 today, why giving systematic control over the world wide web might be a bad thing tomorrow.
 
-"Right now CloudFlare says it monitors nearly 1/5 of all Internet visits. An astounding claim for a company most people haven’t even heard of"[40]
+"Right now Cloudflare says it monitors nearly 1/5 of all Internet visits. An astounding claim for a company most people haven’t even heard of"[40]
 
 - But they are now doing more to track users and threaten the anonymity of the
 users of the tor network.
@@ -291,3 +291,4 @@ References
 [58] https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf
 [59] Thorin-Oakenpants. let's talk about our little buddy cloudflare.  https://github.com/ghacksuserjs/ghacks-user.js/issues/310#issuecomment-351913412
 [60] ghost. What do you think about Cloudflare?  https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460413259
+[61] Unspam Technologies, Inc.  https://projecthoneypot.org/
