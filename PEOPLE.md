@@ -31,6 +31,8 @@ Disqualify:
 
 "[Cloudflare CEO on Terminating Service to Neo-Nazi Site: 'The Daily Stormer Are Assholes'](https://gizmodo.com/cloudflare-ceo-on-terminating-service-to-neo-nazi-site-1797915295)" by [Kate Conger](https://kinja.com/conger)
 
+"[The invasion boards that set out to ruin lives](https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html)" by [Jay Allen](https://boingboing.net/author/amaninblack)
+
 "[How One Major Internet Company Helps Serve Up Hate on the Web](https://web.archive.org/web/20190512152916/https://www.propublica.org/article/how-cloudflare-helps-serve-up-hate-on-the-web)" by [Ken Schwencke](https://web.archive.org/web/20190512152916/https://www.propublica.org/people/ken-schwencke)
 
 "[Zaradi hrošča iz Cloudflara več mesecev curljalo](https://slo-tech.com/novice/t694836/p5445996)" by [Slo-Tech](https://slo-tech.com/)
