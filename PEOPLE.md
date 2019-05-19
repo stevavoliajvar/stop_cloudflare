@@ -107,6 +107,8 @@ Disqualify:
 
 "[Be careful with CloudFlare](https://www.reddit.com/r/privacy/comments/41cb4k/be_careful_with_cloudflare/)" by [no-idea-for-username](https://www.reddit.com/user/no-idea-for-username)
 
+"[Be wary reporting to Cloudflare](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)" by [athenahollow](https://www.reddit.com/user/athenahollow/)
+
 "[Ditch Cloudflare - Broken HTTPS/MiTM](https://greysec.net/showthread.php?tid=1256)" by [NO-OP](https://greysec.net/member.php?action=profile&uid=47)
 
 "[HTTPSを「借りる」のはやめよう。](https://srad.jp/comment/3349767)" by [Printable is bad.](https://srad.jp/~Printable%20is%20bad./)
