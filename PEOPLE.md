@@ -225,6 +225,8 @@ Disqualify:
 
 "Cloudflare, if you don't know this; we have seriously misplaced our trust in you." by @[ADoug](https://twitter.com/ADoug/status/1125266988966739968)
 
+"Brittany has been killing my inbox with spam. I politely ask her to remove me from your marketing list and she replies ... blaming "marketing" and inviting me to an event. Two days later, Keenan emails me, inviting me to the same event." by @[johnzilch](https://twitter.com/johnzilch/status/1126898232913739781)
+
 "I politely replied that I don't have purchasing authority or reason to use your products. Then he added me to your mailing list. Stop this insanity now." by @[danfuhry](https://twitter.com/danfuhry/status/1001868888789995520)
 
 "Hi, I get spamed by an Cloudflare employee with the same "Broadening possibilities with Cloudflare"-Mail every day at noon. Can this stop immediately please?" by @[BooVeMan](https://twitter.com/BooVeMan/status/1070606946728902656)
