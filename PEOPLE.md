@@ -115,6 +115,8 @@ Disqualify:
 
 "[HTTPSを「借りる」のはやめよう。](https://srad.jp/comment/3349767)" by [Printable is bad.](https://srad.jp/~Printable%20is%20bad./)
 
+"[PSA: Do not trust any website using CloudFlare.](https://www.reddit.com/r/Bitcoin/comments/5w13kw/psa_do_not_trust_any_website_using_cloudflare/)" by [danda](https://www.reddit.com/user/danda/)
+
 "[How do I get rid of cloudflare on Windows 10?](https://answers.microsoft.com/en-us/windows/forum/windows_10-win_cortana/how-do-i-get-rid-of-cloudflare-on-windows-10/bab116b1-5c09-4952-aa18-9d8e8261b705)" by [BillWebster1964](https://answers.microsoft.com/en-us/windows/forum/windows_10-win_cortana/how-do-i-get-rid-of-cloudflare-on-windows-10/en-us/profile/e12a62cc-0c40-4e09-9199-5c5b41f65e2f)
 
 "[Cloudflare as a Security Risk - Support - Whonix Forum](http://forums.whonix.org/t/cloudflare-as-a-security-risk/2162)" by [entr0py](https://forums.whonix.org/u/entr0py)
@@ -138,6 +140,8 @@ Disqualify:
 ######  Microsoft GitHub
 
 "[Stop using CloudFlare as a public resolver](https://github.com/dappnode/DNP_BIND/issues/20)" by [vdo](https://github.com/vdo)
+
+"[Please stop using CloudFlare.](https://github.com/danarel/thinkprivacy/issues/5)"
 
 "[Wire, Please stop using CloudFlare](https://github.com/wireapp/wire-webapp/issues/5716)"
 
