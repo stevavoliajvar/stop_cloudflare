@@ -36,10 +36,11 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 
 
 Cloudflare also has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5).
-Cloudflare shares personal information of those who complain about hosted sites. They sometimes ask you to provide
-your true ID. If you don't want to get swatted or killed, better stay away from Cloudflare.
+Cloudflare [shares personal information](https://archive.ph/ePdvi) of those who complain about hosted sites. They sometimes ask you to provide
+your true ID. If you don't want to [get swatted](https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html) or killed, better stay away from Cloudflare.
 
 
+![](image/cfdox_what.jpg)
 ![](image/cfdox_swat.jpg)
 ![](image/cfdox_kill.jpg)
 
