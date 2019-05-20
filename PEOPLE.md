@@ -765,6 +765,20 @@ Disqualify:
 
 "CAPTCHA served to torproject users is even worse if you reject all cookies…" by @[ecodissident](https://twitter.com/ecodissident/status/587372365924925440)
 
+"Companies (eg CF) can get bigger than some governments, and have a more meaningful reach of censorship than them" by @[jeffcliff1](https://twitter.com/jeffcliff1/status/1108144214976667648)
+
+"Is #CloudFlare IP Blocking Causing More Harm than Good?" by @[torproject](https://twitter.com/torproject/status/731154593493716992)
+
+"Trying to read an article online using a mobile. How much more human can it be?" by @[JKirstaetter](https://twitter.com/JKirstaetter/status/759615382659432448)
+
+"I wonder if any of the CloudFlare's engineers are human enough to solve this captcha coz apparently I'm not." by @[mrphs](https://twitter.com/mrphs/status/581685782043209728)
+
+"next-level annoying captcha from CloudFlare they don't even bother challenging me being a human anymore" by @[mrphs](https://twitter.com/mrphs/status/630770566023249920)
+
+"What did I do to make you believe I'm not human enough to surf the web?" by @[mrphs](https://twitter.com/mrphs/status/588370301911695360)
+
+"Watch out for Cloudflare, its controlled by the governments so they can follow each step you take on the internet. They are settled almost in the whole world even the poor countries." by @[EarthAngel_Lex](https://twitter.com/EarthAngel_Lex/status/1128723834071396352)
+
 "Why are CloudFlare captchas for Tor-users so much harder when NoScript is enabled?" by @[thetorist](https://twitter.com/thetorist/status/586542477789769728)
 
 "cloudflare has shared information from abuse form to site owner. They have retaliated and doxxed filer." by @[3bagsfull](https://twitter.com/3bagsfull/status/896985805817876480)
