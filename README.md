@@ -23,27 +23,33 @@ It is called this in reference to the [Great Firewall of China](https://www.comp
 ![](image/cfublock.jpg)
 ![](image/omsjsck.jpg)
 
+---
 
 Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP) unless they solve multiple image CAPTCHAs. There is no way to solve the captcha without enabling Javascript and Cookies. Cloudflare is using them to make a browser signature.
 
+---
 
 ![](image/omsnote.jpg)
 ![](image/omsdroid.jpg)
 ![](image/omsstream.jpg)
 ![](image/omsappl.jpg)
 
+---
 
 [Tor users](https://www.torproject.org/) and [VPN users](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) are also a [victim](https://blog.torproject.org/trouble-cloudflare) of Cloudflare. If you didn't try Tor until this moment, we encourage you to [download Tor Browser](https://www.torproject.org/) and visit your favorite websites.
 
+---
 
 ![](image/banvpn.jpg)
 ![](image/banvpn2.jpg)
 
+---
 
 Cloudflare also has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5).
 Cloudflare [shares personal information](https://archive.ph/ePdvi) of those who complain about hosted sites. They sometimes ask you to provide
 your true ID. If you don't want to [get swatted](https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html) or killed, better stay away from Cloudflare.
 
+---
 
 ![](image/cfdox_what.jpg)
 ![](image/cfdox_swat.jpg)
@@ -51,45 +57,56 @@ your true ID. If you don't want to [get swatted](https://boingboing.net/2015/01/
 ![](image/cfdox_threat.jpg)
 ![](image/cfdox_dox.jpg)
 
+---
 
 And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning fake IP address owned by Cloudflare or just return nothing.
 
+---
 
 ![](image/dnscensor.jpg)
 ![](image/cferr1016.jpg)
 ![](image/cferr1016sp.jpg)
 ![](image/dnsfailtest.jpg)
 
+---
 
 And here you might think, "_I am not using Tor or VPN, why should I care?_".
 If you visit website which use Cloudflare, you are sharing your information not only to website owner _but also Cloudflare_.
 It is impossible to analyze without [decrypting TLS traffic](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389). Cloudflare knows all your data such as raw password.
 [Cloudbeed](https://en.wikipedia.org/wiki/Cloudbleed) can happen anytime.
 
+---
 
 ![](image/cfbloghtmledit.jpg)
 ![](image/cfhelp204144518.jpg)
 ![](image/prism_gfe.jpg)
 ![](image/sniff2.gif)
 
+---
 
 Do you really want to share your data with Cloudflare, and also 3-letter agency?
 
+---
 
 ![](image/dhssaid.jpg)
 
+---
 
 Cloudflare also offer _FREE_ VPN service called "[Cloudflare Warp](https://blog.cloudflare.com/1111-warp-better-vpn/)". If you use it, all your smartphone connections are sent to Cloudflare servers. Cloudflare can know which website you've read, what comment you've posted, who you've talked to, etc. You are voluntary giving [all your information](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-478686469) to Cloudflare. If you think "_Are you joking? Cloudflare is secure._" then you need to learn how [VPN works](https://en.wikipedia.org/wiki/VPN).
 
+---
 
 ![](image/howvpnwork.jpg)
 
+---
 
 You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) scandal. It is true that AT&T lets NSA to [copy all internet data](https://www.cnet.com/news/at-t-lets-nsa-hide-and-surveil-in-plain-sight-the-intercept-reports/) for surveillance. Let's say you're working at the NSA, and you want _every citizen's internet profile_. You know most of them are blindly trusting Cloudflare and using it to proxy their personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping, video website, NSFW website, and illegal website. You also know they use Cloudflare's DNS service ("1.1.1.1") and VPN service ("Cloudflare Warp") for "_Secure! Faster! Better!_" internet experience. Combining them with user's IP address, browser fingerprint, cookies and RAY-ID will be useful to build target's online profile. You want their data. [What will you do](https://www.reddit.com/r/privacy/comments/1gb0pa/how_prism_actually_works_1520_att_fiber_optic/)?
 
+---
 
 ![](image/prismattnsa.jpg)
 
+---
 
 ### Cloudflare is a honeypot.
 
@@ -105,9 +122,7 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 ### Decentralize the internet.
 
-
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
-
 
 ---
 
@@ -178,6 +193,7 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 * [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) add-on
 * Some Firefox Add-ons
 
+---
 
 ![](image/omsirl.jpg)
 ![](image/whydoihavetosolveacaptcha.jpg)
