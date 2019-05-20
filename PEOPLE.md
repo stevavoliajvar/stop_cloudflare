@@ -789,6 +789,12 @@ Disqualify:
 
 "Everytime I go to a website I get attention required and it has me do a captcha, why are you blocking me from sites?" by @[geevaveeri](https://twitter.com/geevaveeri/status/372325413738934272)
 
+"Dear #Cloudflare users: YOU ARE IDIOTS and I'm not a FUCKING ROBOT." by @[AnalSystemist](https://twitter.com/AnalSystemist/status/804437882240901121)
+
+"Your captcha currently appears to be blocking Tor users. After clicking 'Im not a robot' it always says 'Try again later. Your sending automated queries'" by @[](https://twitter.com/JungleBoy03/status/978860372760449025)
+
+"can you please tell CloudFlare your users are not robots?" by @[](https://twitter.com/vrde/status/744821179697901568)
+
 
 ------
 
