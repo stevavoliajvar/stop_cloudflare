@@ -82,13 +82,16 @@ It is impossible to analyze without [decrypting TLS traffic](https://github.com/
 
 ![](image/cfbloghtmledit.jpg)
 ![](image/cfhelp204144518.jpg)
-![](img/cfhelpforum.jpg)
+![](image/cfhelpforum.jpg)
 ![](image/prism_gfe.jpg)
 ![](image/sniff2.gif)
 
 ---
 
 Do you really want to share your data with Cloudflare, and also 3-letter agency?
+Internet user's online profile is a "product" the government wants to buy.
+
+`"Is there any way you would sell us that data?" - US DHS`
 
 ---
 
