@@ -761,6 +761,16 @@ Disqualify:
 
 ""protecting" your exchange with CloudFlare = permanent #MITM" by @[Bitcoin_Central](https://twitter.com/Bitcoin_Central/status/398741889681084416)
 
+""This site has banned your access based on your browser's signature" I'm trying to acces my own site from my PC. Total #fail" by @[CdLCreative](https://twitter.com/CdLCreative/status/15538210176241665)
+
+"Why is cloudflare blocking my access to a range of sites based on my “browser signature”?" by @[jasonwryan](https://twitter.com/jasonwryan/status/370716484537835520)
+
+"jobscore is blocking me. Maybe an advanced AI to screen candidates by browser signature ;)" by @[utsengar](https://twitter.com/utsengar/status/636684259529388032)
+
+"why does a 403 response state we banned access because of browser signature?" by @[friedcell](https://twitter.com/friedcell/status/562634060057821185)
+
+"I would have to whitelist pretty much my entire readership. It is banning based on "browser signature"" by @[skinnypupp](https://twitter.com/skinnypupp/status/113637917741678592)
+
 "You can't contact the host. Cloudflare proxy servers hide the IP of the website making it impossible to determine who's hosting. You can report to their abuse, but I reported 100s of scammers sites and they did nothing" by @[phyzonloop](https://twitter.com/phyzonloop/status/1071901410307031040)
 
 "CAPTCHA served to torproject users is even worse if you reject all cookies…" by @[ecodissident](https://twitter.com/ecodissident/status/587372365924925440)
@@ -805,9 +815,9 @@ Disqualify:
 
 "Dear #Cloudflare users: YOU ARE IDIOTS and I'm not a FUCKING ROBOT." by @[AnalSystemist](https://twitter.com/AnalSystemist/status/804437882240901121)
 
-"Your captcha currently appears to be blocking Tor users. After clicking 'Im not a robot' it always says 'Try again later. Your sending automated queries'" by @[](https://twitter.com/JungleBoy03/status/978860372760449025)
+"Your captcha currently appears to be blocking Tor users. After clicking 'Im not a robot' it always says 'Try again later. Your sending automated queries'" by @[JungleBoy03](https://twitter.com/JungleBoy03/status/978860372760449025)
 
-"can you please tell CloudFlare your users are not robots?" by @[](https://twitter.com/vrde/status/744821179697901568)
+"can you please tell CloudFlare your users are not robots?" by @[vrde](https://twitter.com/vrde/status/744821179697901568)
 
 
 ------
