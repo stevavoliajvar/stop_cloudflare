@@ -33,6 +33,7 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 ![](image/omsdroid.jpg)
 ![](image/omsstream.jpg)
 ![](image/omsappl.jpg)
+![](image/cferr1010bsig.jpg)
 
 ---
 
@@ -40,8 +41,8 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 
 ---
 
-![](image/banvpn.jpg)
 ![](image/banvpn2.jpg)
+![](image/banvpn.jpg)
 
 ---
 
