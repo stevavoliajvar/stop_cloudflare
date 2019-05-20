@@ -174,7 +174,7 @@ Also see [Frequently Asked Questions](faq.md).
 
 * Take a look at add-on code and try it
 
-| Name | Firefox | Chrome | ? |
+| Name | Firefox | Chrome |
 | -------- | -------- | -------- |
 | Block Cloudflare MITM Attack | [Code](addon_firefox/bcma) | [Code](addon_chrome/bcma) |
 | Are links vulnerable to MITM? | [Code](addon_firefox/ismitmlink) | [Code](addon_chrome/ismitmlink) |
