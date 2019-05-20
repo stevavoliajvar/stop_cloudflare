@@ -180,9 +180,11 @@ Also see [Frequently Asked Questions](faq.md).
 | Are links vulnerable to MITM? | [Code](addon_firefox/ismitmlink) | [Code](addon_chrome/ismitmlink) |
 | Which website rejected me? | [Code](addon_firefox/whyrejectme) | - |
 
-* [Tool / Script](tool/)
+* Try & write new [Tool / Script](tool/)
 
-* [PDF](pdf/)
+* Want something to read? [PDF](pdf/)
+
+* Proofread [Jeff's writing](article.txt)
 
 * ![](image/feed.png) [RSS feed](https://masto.nixnet.xyz/users/crimeflare.rss),  ![](image/mstdn.jpg) [crimeflare@masto.nixnet.xyz](https://masto.nixnet.xyz/@crimeflare)
 
