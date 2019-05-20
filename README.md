@@ -69,6 +69,7 @@ And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users 
 ![](image/cferr1016.jpg)
 ![](image/cferr1016sp.jpg)
 ![](image/dnsfailtest.jpg)
+![](image/cfdnsprob.jpg)
 
 ---
 
