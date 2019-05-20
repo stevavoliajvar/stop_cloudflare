@@ -91,11 +91,11 @@ It is impossible to analyze without [decrypting TLS traffic](https://github.com/
 Do you really want to share your data with Cloudflare, and also 3-letter agency?
 Internet user's online profile is a "product" that the government and big tech companies wants to buy.
 
+US [Department of Homeland Security](https://www.dhs.gov/) said:
 ```
 Do you have any idea how valuable the data you have is?
 Is there any way you would sell us that data?
 ```
-- US [Department of Homeland Security](https://www.dhs.gov/)
 
 ---
 
