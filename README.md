@@ -106,13 +106,13 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 ---
 
-This repository is a list of websites that are behind The Great Cloudwall, and also actively blocking Tor users.
+This repository is a list of websites that are behind "The Great Cloudwall", and also actively blocking Tor users.
 
 
-Domain list  -  mirrors: [NixNet](https://git.nixnet.xyz/Username/cloudflare-tor),  [CodeBerg](https://codeberg.org/Username/cloudflare-tor)
-* [Domains using Cloudflare](cloudflare_users/)
+Data  -  mirrors: [NixNet](https://git.nixnet.xyz/Username/cloudflare-tor),  [CodeBerg](https://codeberg.org/Username/cloudflare-tor)
+* [Cloudflare Users](cloudflare_users/)
 * [Cloudflare Inc.](cloudflare_inc/)
-* [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
+* [Domains: Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
 Information
 * [Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
@@ -125,7 +125,7 @@ Information
 There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
 Also see [Frequently Asked Questions](faq.md).
 
-
+![](image/watcloudflare.jpg)
 # What can you do?
 
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends
