@@ -82,6 +82,7 @@ It is impossible to analyze without [decrypting TLS traffic](https://github.com/
 
 ![](image/cfbloghtmledit.jpg)
 ![](image/cfhelp204144518.jpg)
+![](img/cfhelpforum.jpg)
 ![](image/prism_gfe.jpg)
 ![](image/sniff2.gif)
 
@@ -92,6 +93,7 @@ Do you really want to share your data with Cloudflare, and also 3-letter agency?
 ---
 
 ![](image/dhssaid.jpg)
+![](image/federalinterest.jpg)
 
 ---
 
@@ -108,6 +110,7 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 ---
 
 ![](image/prismattnsa.jpg)
+![](image/nsaslide_prismcorp.gif)
 
 ---
 
