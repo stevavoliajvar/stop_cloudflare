@@ -1,8 +1,9 @@
 let history = {};
 
 browser.webRequest.onResponseStarted.addListener(i => {
-	if (i.statusCode == 403) {
+	if ([403,406,410,451,462].includes(i.statusCode)) {
 		let iFQDN = (new URL(i.url)).hostname;
+		if (iFQDN == 'searxes.eu.org'||iFQDN == 'searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion'){return;}
 		let iServer = 'Unknown';
 		i.responseHeaders.forEach(x => {
 			if (x.name == 'Server') {
@@ -10,7 +11,7 @@ browser.webRequest.onResponseStarted.addListener(i => {
 			}
 		});
 		let iDate = (new Date()).toUTCString();
-		history[iFQDN] = [i.url, iServer, iDate];
+		history[iFQDN] = [i.url, iServer, i.statusCode, iDate];
 	}
 	return;
 }, {

@@ -4,11 +4,11 @@ function newrow(w) {
 	tr.innerHTML = w;
 }
 
-newrow('<tr><td><b>FQDN</b></td><td><b>Server</b></td><td><b>Where</b></td><td><b>When</b></td></tr>');
+newrow('<tr><td><b>FQDN</b></td><td><b>Server</b></td><td><b>Code</b></td><td><b>Where</b></td><td><b>When</b></td></tr>');
 
 browser.runtime.sendMessage('get').then(g => {
 	for (let k in g) {
-		newrow('<tr><td>' + k + '</td><td>' + g[k][1] + '</td><td><a href="' + g[k][0] + '" target="_blank">Link</a></td><td>' + g[k][2] + '</td></tr>');
+		newrow('<tr><td>' + k + '</td><td>' + g[k][1] + '</td><td>' + g[k][2] + '</td><td><a href="' + g[k][0] + '" rel="noreferrer" target="_blank">Link</a></td><td>' + g[k][3] + '</td></tr>');
 		document.getElementById('export').innerHTML += k + "\n";
 	}
 });
