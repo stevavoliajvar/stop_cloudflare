@@ -159,7 +159,7 @@ Disqualify:
 
 ------
 
-###### Telegram ([@NoGoolag](https://t.me/NoGoolag))
+###### Telegram ([@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https://t.me/privacytoday), etc)
 
 ![](image/telegram/4b644ffa2bfe836565dec686fb81238f.jpg)
 ![](image/telegram/adf85b43581e1f68d4466c28e2c5c5fc.jpg)
