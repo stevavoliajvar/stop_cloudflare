@@ -159,6 +159,24 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"To see a 522 Error is to know CLOUDFLARE is involved in Internet Traffic on Networks.. CLOUDFLARE handles 10% of all Internet Traffic" by @[AVIVA_Films](https://twitter.com/AVIVA_Films/status/1130662977416421382)
+
+"Why I can’t get access to the powerscore website now?" by @[Amber09729770](https://twitter.com/Amber09729770/status/1130308958428647424)
+
+"WHY DOES A PROGRAM CALLED CLOUDFLARE BLOCK ACCESS TO website??? IT DOES IT ON ALL BROWERS I USE. CENSORESHIP IN FULL ACTION." by @[taku96597029](https://twitter.com/taku96597029/status/1130205454976503814)
+
+"Trying to get some work done, but fucking Cloudflare keeps getting in the way. Don't fucking lie to me, the issue is not the website, but your shitty servers. #CloudflareSucks" by @[mevangelista93](https://twitter.com/mevangelista93/status/1129225416672026624)
+
+"i think they are too big, and i don't like some of their practices about some other stuff. they would recommend using their ddos protection all the time, that protection forces me to allow js on each" by @[mikrfe](https://twitter.com/mikrfe/status/1130071356626886656)
+
+"I can’t seem to access Notion in my browser: I get a 522 error from CloudFlare" by @[samstarling](https://twitter.com/samstarling/status/1126801647118766080)
+
+"they are being blacklisted on any websites or services running on Cloudflare and at minimum need to complete a recaptcha check to access a website and at worst can't access any Cloudflare run sites and services at all." by @[betadesh](https://twitter.com/betadesh/status/1118451988369485824)
+
+"can't access any websites due to cloudflare blocking me. I can't even access the cloudflare website to put in a support ticket" by @[Hidd3nKnight](https://twitter.com/Hidd3nKnight/status/1118450454499774464)
+
+"I have this infinite Cloudflare captcha for streamlabs OBS no other website seems to be affected. Anyone else had this issue? or if anyone knows a fix. Its been fine, but randomly today its decide to do it." by @[Bigxpz](https://twitter.com/Bigxpz/status/1101489854209294341)
+
 "someone created an account for me and wanted to run my website on CloudFare." by @[fs0c131y](https://twitter.com/fs0c131y/status/1130090448092049408)
 
 "your Cloudflare setup is brocken. Every page I visit I either being forced to solve a captcha or it doesn’t load at all." by @[111110100](https://twitter.com/111110100/status/1128826984883036163)
