@@ -61,17 +61,15 @@ your true ID. If you don't want to get harassed, assaulted, [swatted](https://bo
 
 ---
 
-Let's talk about another "harassment" problem.
-Cloudflare is sending spam emails to non-Cloudflare users.
+Let's talk about another harassment problem. Cloudflare is sending spam emails to non-Cloudflare users.
 
 `Only send emails to subscribers who’ve opted in.`
 
 `When the user say "stop", then stop sending email.`
 
-It's that simple. Yet Cloudflare don't care.
-
+It's that simple. But Cloudflare don't care.
 Cloudflare said using their service [can stop all spammers or attackers](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-CloudFlare-stop-all-spammers-or-attackers-).
-Stop sending your spam first, Cloudflare.
+How can we stop _Cloudflare spammers_ without activating Cloudflare?
 
 ---
 
