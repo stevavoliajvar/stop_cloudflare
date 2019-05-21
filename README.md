@@ -61,6 +61,27 @@ your true ID. If you don't want to get harassed, assaulted, [swatted](https://bo
 
 ---
 
+Let's talk about another "harassment" problem.
+Cloudflare is sending spam emails to non-Cloudflare users.
+
+`Only send emails to subscribers who’ve opted in.`
+
+`When the user say "stop", then stop sending email.`
+
+It's that simple. Yet Cloudflare don't care.
+
+Cloudflare said using their service [can stop all spammers or attackers](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-CloudFlare-stop-all-spammers-or-attackers-).
+Stop sending your spam first, Cloudflare.
+
+---
+
+![](image/cfspam01.jpg)
+![](image/cfspam02.jpg)
+![](image/cfspambrittany.jpg)
+![](image/cfspamtwtr.jpg)
+
+---
+
 And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning fake IP address owned by Cloudflare, localhost IP such as "127.0.0.x", or just return nothing. Cloudflare DNS also break online software from smartphone app to computer game because of their fake DNS answer.
 
 ---
