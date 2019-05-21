@@ -157,6 +157,14 @@ Disqualify:
 
 ------
 
+###### Telegram ([@NoGoolag](https://t.me/NoGoolag))
+
+TO ADD
+
+
+
+------
+
 ###### Twitter (aka "Birdsite")
 
 "To see a 522 Error is to know CLOUDFLARE is involved in Internet Traffic on Networks.. CLOUDFLARE handles 10% of all Internet Traffic" by @[AVIVA_Films](https://twitter.com/AVIVA_Films/status/1130662977416421382)
