@@ -175,15 +175,12 @@ Disqualify:
 ![dns](image/telegram/df2dc65af0ac66dcc68b3bfa9338bde3.jpg)
 ![](image/telegram/a1e84595157d8ddc3985536878f53877.jpg)
 ![](image/telegram/0ff5d6441c53720c194af7e61fbd89ac.jpg)
-![](image/telegram/fbc449d8089990911f9d75521bdba7a8.jpg)
 ![](image/telegram/f6144c62db17a84c3bbd4d4f3eda8067.jpg)
-![](image/telegram/ea0dd703aec46c88b28c6fb6202a45c1.jpg)
 ![](image/telegram/cade80ec63cf119d8052cd5a8def2b3a.jpg)
 ![](image/telegram/79faadc7398477a7e1623af99a6ec9ae.jpg)
 ![](image/telegram/320b8067457ce8c47838c4a07fad670b.jpg)
 ![](image/telegram/668c1ba0df11d5d8ef81b24e767ea3f7.jpg)
 ![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
-![](image/telegram/a58c6306a39fe55b37b08041e8b5d489.jpg)
 ![](image/telegram/29b88092ed1f0091796d76baf07a7fbd.jpg)
 
 ------
