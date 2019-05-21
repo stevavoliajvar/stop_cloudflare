@@ -457,6 +457,20 @@ Disqualify:
 
 "I'm super tired of websites deciding what I want, or indeed who I am, based on my current geolocation." by @[storyneedle](https://twitter.com/storyneedle/status/1084821216597135360)
 
+"it seems you're running Cloudflare and I can't access your API anymore since I need to solve some Cloudflare captcha from my server" by @[PaulWebSec](https://twitter.com/PaulWebSec/status/1074408829041950720)
+
+"I can't access the article. Getting an error from Cloudflare." by @[QuestionsAndTea](https://twitter.com/QuestionsAndTea/status/1083389572812337158)
+
+"I am in internet cafe which mainly used as gaming facility. There's no malicious activity since we can't. But Unfortunately somehow I can't access all cloudflare website. I can't access support page." by @[cloudscoid](https://twitter.com/cloudscoid/status/1088332993888845825)
+
+"I can't access your blog in the United States using my PC. CloudFlare return Error 1020. My mobile in the same network have no issue though." by @[tam403](https://twitter.com/tam403/status/1098796403856306176)
+
+"I can't access the website. Maybe BroadwayWorld banned my IP from accessing the website?" by @[AnthonyeQuality](https://twitter.com/AnthonyeQuality/status/1100355528411164673)
+
+"Hey I can't seem to access the site, getting a cloudflare 522 error" by @[nemo2966](https://twitter.com/nemo2966/status/1100530567999823877)
+
+"I can't access your site. I'm getting a cloudflare error 552 connection timed out" by @[Abdul201388](https://twitter.com/Abdul201388/status/1101851412961611777)
+
 "I’m fucking tired of cloudflare and their nonsense grandstanding about DoH." by @[JumpyBirdBird](https://twitter.com/JumpyBirdBird/status/1065536618667270145)
 
 "i’m getting tired of cloud flare’s captcha on every single site" by @[riyadhalnur](https://twitter.com/riyadhalnur/status/729191160917319680)
