@@ -249,6 +249,12 @@ Disqualify:
 
 "Gotta wonder why, when innocent players are being banned and harmful ones can just as easily be avoided / blacklisted later, nothing is being done and Cloudflare is still in use despite it going rogue..." by @[Zephyrpocalypse](https://twitter.com/Zephyrpocalypse/status/1118512904582701057)
 
+"Is there any way to take this cloudflare ban off my ip address . I have whitelisted it . Tried reseting my router i have tried everything i have it the last week and it is still not lifted" by @[CarolineHand8](https://twitter.com/CarolineHand8/status/1120729470799962117)
+
+"...but it seems that there is another bug causing your cloudflare to IP ban you soooooo Me: ..." by @[phoenixprime1](https://twitter.com/phoenixprime1/status/1118476497344442369)
+
+"CloudFlareからIP Banされたらネットの何割か使えなくなりそう" by @[Lispict](https://twitter.com/Lispict/status/1118674366995165184)
+
 "Cloudflare, if I use Tor do you still read the resulting so-called abuse report? And why does the head of "abuse" block critics?" by @[dxgl_org](https://twitter.com/dxgl_org/status/1093280991270092800)
 
 "CF are an outlier with *ALL* vile sites behind them and make the abuse process as hard as possible." by @[plambrechtsen](https://twitter.com/plambrechtsen/status/1125483870667792387)
