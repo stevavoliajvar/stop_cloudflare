@@ -902,6 +902,12 @@ Disqualify:
 
 ######  Mastodon
 
+"The person who created an account with my email address is actually trying to get my site on #Cloudflare." by @[amolith](https://masto.nixnet.xyz/@amolith/102137632049061724)
+
+"Some delusional person out there must be madly in love with Cloudflare to pull this type of..." by @[caltlgin](https://masto.nixnet.xyz/@caltlgin/102129682739643046)
+
+"I opened my mailbox this morning to find someone had also tried to register a Cloudflare account with my email address." by @[sean](https://social.sdoconnell.net/@sean/102134290535440645)
+
 "It sabotaged users over serious concerns of non-privacy, censorship, unethical, deception and unfair experiences." by @[HarvettFox96](https://hostux.social/@HarvettFox96/102097087292348123)
 
 "Firefox is going to ship with DNS over HTTPS (DoH) by default soon. It will still use Cloudflare by default." by @[amolith](https://masto.nixnet.xyz/@amolith/101939482525255808)
