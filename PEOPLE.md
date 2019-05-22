@@ -247,6 +247,8 @@ Disqualify:
 
 "If you report abusive content on that particular site you will get doxed. It's not safe to report that site." by @[dxgl_org](https://twitter.com/dxgl_org/status/1108405275709620224)
 
+"Gotta wonder why, when innocent players are being banned and harmful ones can just as easily be avoided / blacklisted later, nothing is being done and Cloudflare is still in use despite it going rogue..." by @[Zephyrpocalypse](https://twitter.com/Zephyrpocalypse/status/1118512904582701057)
+
 "Cloudflare, if I use Tor do you still read the resulting so-called abuse report? And why does the head of "abuse" block critics?" by @[dxgl_org](https://twitter.com/dxgl_org/status/1093280991270092800)
 
 "CF are an outlier with *ALL* vile sites behind them and make the abuse process as hard as possible." by @[plambrechtsen](https://twitter.com/plambrechtsen/status/1125483870667792387)
@@ -374,6 +376,10 @@ Disqualify:
 "IP's are being blacklisted and denied access to any site using Cloudflare." by @[purplepopoto](https://twitter.com/purplepopoto/status/1118415845296762880)
 
 "My IP got flagged for spam cause I tried logging into VRChat when they were having issues. Now I keep getting captchas for everything" by @[Fleurfurr](https://twitter.com/Fleurfurr/status/1118385992938020867)
+
+"only to find out that my ip was blacklisted becuz of the cloudflare thing and when i used my vpn i couldnt leave my home world or join my friends." by @[NeitherVr](https://twitter.com/NeitherVr/status/1118475648849330176)
+
+"Let's get Blacklisted on Cloudflare, Ty Vrc Devs." by @[ultracori](https://twitter.com/ultracori/status/1118485147911958528)
 
 "the equivalent of a Flash-required splash page 20 years ago. It makes you look stupid." by @[skry](https://twitter.com/skry/status/1096832011631681537)
 
