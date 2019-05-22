@@ -123,6 +123,8 @@ Disqualify:
 
 "[Cloudflare as a Security Risk - Support - Whonix Forum](http://forums.whonix.org/t/cloudflare-as-a-security-risk/2162)" by [entr0py](https://forums.whonix.org/u/entr0py)
 
+"[My dad is getting pop-ups from CloudFlare every time he types something into his Mozilla Firefox search/address bar and hits enter.](http://archive.is/XTRlk)" by [Yahoo! user](http://archive.is/XTRlk)
+
 "[The catch you're missing](https://www.reddit.com/r/Wordpress/comments/2zpq2g/cloudflare_free_plan_too_good_to_be_true/cpldjc6/)" by [cqwww](https://www.reddit.com/user/cqwww)
 
 "[How likely is it that CloudFlare is an NSA operation?](https://www.quora.com/How-likely-is-it-that-CloudFlare-is-an-NSA-operation/answer/Hamid-Sarfraz)" by quora
@@ -196,6 +198,12 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"What is going on w/Cloudflare invading my computer and saying I have to do CAPTCHA on numerous everyday websites I visit? Malware??" by @[faiburns](https://twitter.com/faiburns/status/1121514383807406080)
+
+"Please stop using google captcha." by @[umurgdk](https://twitter.com/umurgdk/status/1120983976468828160)
+
+"Might be pretty hard doing research when entering a captcha every page on google or anything that has cloudflare." by @[s7nsins](https://twitter.com/s7nsins/status/1129380342068940800)
 
 "I really blame Cloudflare for companies now choosing to ”police” content they don’t like." by @[N8I](https://twitter.com/N8I/status/1130508378952757248)
 
