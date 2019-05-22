@@ -225,6 +225,10 @@ WARNING:
 Github.com is very hostile to Tor users. If you create an account on Github via Tor, your account will be automatically
 flagged for spam and will be deleted. See "List of services blocking Tor" for details.
 
+![](image/twe_lb.jpg)
+
+![](image/twe_dz.jpg)
+
 # Who uses this list?
 
 * [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) meta-search engine
