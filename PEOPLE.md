@@ -39,7 +39,7 @@ Disqualify:
 
 "[Zaradi hrošča iz Cloudflara več mesecev curljalo](https://slo-tech.com/novice/t694836/p5445996)" by [Slo-Tech](https://slo-tech.com/)
 
-"[CDN企業Cloudflareのバグで、多数のサービスで機密データ流出の可能性](https://www.itmedia.co.jp/news/articles/1702/25/news024.html)" by @[佐藤由紀子](https://www.itmedia.co.jp/news/)
+"[CDN企業Cloudflareのバグで、多数のサービスで機密データ流出の可能性](https://www.itmedia.co.jp/news/articles/1702/25/news024.html)" by [佐藤由紀子](https://www.itmedia.co.jp/news/)
 
 "[Everything You Need to Know About Cloudbleed, the Latest Internet Security Disaster](https://gizmodo.com/everything-you-need-to-know-about-cloudbleed-the-lates-1792710616)" by [Adam Clark Estes](https://kinja.com/ace)
 
@@ -196,6 +196,10 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"I really blame Cloudflare for companies now choosing to ”police” content they don’t like." by @[N8I](https://twitter.com/N8I/status/1130508378952757248)
+
+"I've already started moving all my clients off Cloudflare." by @[davidzack](https://twitter.com/davidzack/status/1130192242973372417)
 
 "To see a 522 Error is to know CLOUDFLARE is involved in Internet Traffic on Networks.. CLOUDFLARE handles 10% of all Internet Traffic" by @[AVIVA_Films](https://twitter.com/AVIVA_Films/status/1130662977416421382)
 
@@ -864,6 +868,8 @@ Disqualify:
 "cloudflare has shared information from abuse form to site owner. They have retaliated and doxxed filer." by @[3bagsfull](https://twitter.com/3bagsfull/status/896985805817876480)
 
 "Fuck CloudFlare. They chose to pass on people's contact details to 8chan when those people report" by @[ChrisWarcraft](https://twitter.com/ChrisWarcraft/status/886297432493092864)
+
+"CloudFlare is a MITM for half the web. CloudFlare sniffs -all- traffic to 1.1.1.1. CloudFlare resolves your DNS queries. Thats a lot of freakin DATA. It's a freakin' GOLD MINE!" by @[uid_](https://twitter.com/uid_/status/980834950650957825)
 
 "Cloudflare won't help future me dox and harass complainants! Whatever will I do?!" by @[yaelwrites](https://twitter.com/yaelwrites/status/860518424144887809)
 
