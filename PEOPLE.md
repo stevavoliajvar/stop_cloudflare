@@ -199,6 +199,12 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare is blocking some BiteBTC services due to fake claim." by @[bitebtccom](https://twitter.com/bitebtccom/status/1131558073590530054)
+
+"copyright.gov  is hypocritical. They claim to care about copyrights yet use infringement-friendly Cloudflare to hide their website." by @[dxgl_org](https://twitter.com/dxgl_org/status/1117239332480401409)
+
+"Cloudflare is the NSA (effectively), so both proposals are about equal in their merits, but at least by routing traffic through the NSA we reduce the number of hops, increase efficiency, and are more upfront and transparent with users about it." by @[taoeffect](https://twitter.com/taoeffect/status/1075252240179326976)
+
 "Our legal team has just filed complaints, but apparently they're more likely to act if contacted by multiple people." by @[t_blom](https://twitter.com/t_blom/status/1129419501479571458)
 
 "cloudflare blacklisted me and now I cant access most of the internet on my PC.... gonna have to reset everything tomorrow so I can get a new ip.... :( so annoying." by @[Sven986](https://twitter.com/Sven986/status/1118382870324764673)
