@@ -267,6 +267,8 @@ Disqualify:
 
 "Short story: CF passes on all the info you submit in their abuse form (incl. name, email) to the website owner." by @[iglvzx](https://twitter.com/iglvzx/status/554689456670650368)
 
+"There is no excuse for even considering the possibility of routing all user traffic through Cloudflare. What a phenomenally dangerous idea. There are many better options." by @[taoeffect](https://twitter.com/taoeffect/status/1075053653961072640)
+
 "If you report abusive content on that particular site you will get doxed. It's not safe to report that site." by @[dxgl_org](https://twitter.com/dxgl_org/status/1108405275709620224)
 
 "Gotta wonder why, when innocent players are being banned and harmful ones can just as easily be avoided / blacklisted later, nothing is being done and Cloudflare is still in use despite it going rogue..." by @[Zephyrpocalypse](https://twitter.com/Zephyrpocalypse/status/1118512904582701057)
