@@ -199,6 +199,22 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Our legal team has just filed complaints, but apparently they're more likely to act if contacted by multiple people." by @[t_blom](https://twitter.com/t_blom/status/1129419501479571458)
+
+"cloudflare blacklisted me and now I cant access most of the internet on my PC.... gonna have to reset everything tomorrow so I can get a new ip.... :( so annoying." by @[Sven986](https://twitter.com/Sven986/status/1118382870324764673)
+
+"annoying part was cloudflare" by @[AltichaDev](https://twitter.com/AltichaDev/status/1113892225472192512)
+
+"A Cloudflare issue caused this for me. Check your firewall settings. Super annoying!" by @[zackkatz](https://twitter.com/zackkatz/status/1110375889978548224)
+
+"I keep being unable to login to your site. It's throwing this annoying error. Credentials are correct for sure." by @[tsopicland](https://twitter.com/tsopicland/status/1111368061368631297)
+
+"The error 502s I keep getting when using your site are getting annoying. Cloudflare says its a host issue - "Server reported a bad gateway" Please sort this out!" by @[mrfuzzy](https://twitter.com/mrfuzzy/status/1099438055755313152)
+
+"I have been unable to access your MiceChat site due to this annoying Cloudflare blocking software. My Router is secure. So, why the case: Region? Your site, which is not a private community, under ADA, should be fully accessible." by @[RonaldVining](https://twitter.com/RonaldVining/status/1131076297243762689)
+
+"cloudflare unable to resolve DNS query? be wary, this could be a DNS spoof attack" by @[ggmesh](https://twitter.com/ggmesh/status/1127870305022533633)
+
 "What is going on w/Cloudflare invading my computer and saying I have to do CAPTCHA on numerous everyday websites I visit? Malware??" by @[faiburns](https://twitter.com/faiburns/status/1121514383807406080)
 
 "Please stop using google captcha." by @[umurgdk](https://twitter.com/umurgdk/status/1120983976468828160)
@@ -764,6 +780,18 @@ Disqualify:
 "In hindsight, I'm an idiot for not taking the decrypt/recrypt into account" by @[Firesphere](https://twitter.com/Firesphere/status/756693331762184192)
 
 "any dev: to see how obscene they are, imagine getting captchas going onto github, twitter, Facebook" by @[thomaskerin](https://twitter.com/thomaskerin/status/753911221091434496)
+
+"What if you're unable to use them? What if you're banned from using their services?" by @[Zemmiph0bia](https://twitter.com/Zemmiph0bia/status/1119398811674112000)
+
+"Is anyone else unable to load images in Twitter’s iOS app while using Cloudflare’s 1.1.1.1 app?" by @[jabberwik](https://twitter.com/jabberwik/status/1116485375936139265)
+
+"unable to load our documentation website." by @[_notnathaniel](https://twitter.com/_notnathaniel/status/1116136910064242688)
+
+"Currently I am unable to access the Cloudflare Support portal" by @[lemmertwitt](https://twitter.com/lemmertwitt/status/1116087286708547592)
+
+"You people realize that CloudFlare exists only because you people are unable to ween yourself from 20 year old Apache technology." by @[ErrataRob](https://twitter.com/ErrataRob/status/546916521402855425)
+
+"Good morning, we are unable to pull data from FirstCryptoBank due to the addition of cloudflare to their API. All of the coins listed on FirstCryptoBank, have the wrong value." by @[profitbotpro](https://twitter.com/profitbotpro/status/1064855654249177090)
 
 "You send every HTTPS request from my browser to Cloudflare. They decrypt that HTTPS traffic." by @[jamesconroyfinn](https://twitter.com/jamesconroyfinn/status/811276047085957120)
 
