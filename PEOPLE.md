@@ -199,6 +199,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Been unable to access the site for almost 48 hours now" by @[Remusion](https://twitter.com/Remusion/status/1131683151951147008)
+
 "Cloudflare is blocking some BiteBTC services due to fake claim." by @[bitebtccom](https://twitter.com/bitebtccom/status/1131558073590530054)
 
 "copyright.gov  is hypocritical. They claim to care about copyrights yet use infringement-friendly Cloudflare to hide their website." by @[dxgl_org](https://twitter.com/dxgl_org/status/1117239332480401409)
