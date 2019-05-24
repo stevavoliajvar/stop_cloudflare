@@ -996,6 +996,8 @@ Disqualify:
 
 ######  Mastodon
 
+"someone is trolling by trying to sign me up to cloudflare with my contact mails, thats creative?" by @[SolSoCoG](https://ieji.de/@SolSoCoG/102149695419969529)
+
 "The person who created an account with my email address is actually trying to get my site on #Cloudflare." by @[amolith](https://masto.nixnet.xyz/@amolith/102137632049061724)
 
 "Some delusional person out there must be madly in love with Cloudflare to pull this type of..." by @[caltlgin](https://masto.nixnet.xyz/@caltlgin/102129682739643046)
