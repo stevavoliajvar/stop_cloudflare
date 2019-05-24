@@ -79,8 +79,8 @@ More important, though is it starts to form a ratchet for web browser technology
 "When you fetch a page from a website that is served from Cloudflare, Javascript has been injected on-the-fly into that page by Cloudflare. And they also plant a cookie that brands your browser with a globally-unique ID.  ID. This happens even if the website is using SSL and shows a cute little padlock in your browser" [10]
 
 - Cloudflare tracks you
-Even if your web browsing traffic is protected from onlookers, Cloudflare itself because they are a MITM[14][31] can see your traffic[6].
-And if Cloudflare[53] has attacked your traffic(MITM), then so has the NSA[33].
+Even if your web browsing traffic is protected from onlookers, Cloudflare itself because they are a MiTM[14][31] can see your traffic[6].
+And if Cloudflare[53] has attacked your traffic(MiTM), then so has the NSA[33].
 "If a site uses Cloudflare, then the browser lock icon is a false promise."[14]
 "The short version, a rhetorical question: Would you trust a key escrow regime, in which an “authorized” entity was entrusted with the potential to decrypt all communications at will? If not, why would you trust a de facto mass decryption chokepoint at which many communications are actually decrypted?"[34]
 in other words
@@ -219,7 +219,7 @@ as a consequence:
 
 *Cloudflare DNS*
 
-"DNS[50] is around, servers are insecure, proper end-to-end crypto isn't the norm hence MITM goes unnoticed, anonymity is an edge case, routing lacks built-in resiliency to disruption, we're always going to have actors building a bus.ness model around cobbling together superficial, overapproximating mitigations."[20]
+"DNS[50] is around, servers are insecure, proper end-to-end crypto isn't the norm hence MiTM goes unnoticed, anonymity is an edge case, routing lacks built-in resiliency to disruption, we're always going to have actors building a bus.ness model around cobbling together superficial, overapproximating mitigations."[20]
 
 *Mozilla and Cloudflare*
 
