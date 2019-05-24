@@ -229,6 +229,16 @@ Disqualify:
 
 "Might be pretty hard doing research when entering a captcha every page on google or anything that has cloudflare." by @[s7nsins](https://twitter.com/s7nsins/status/1129380342068940800)
 
+"I think its related to the Cloudflare bug. A bunch of IPs were blacklisted for no reason, and it's preventing me from queuing into any kind of Draft Pick." by @[Novarch_](https://twitter.com/Novarch_/status/1101586706317365248)
+
+"インドネシアで遅い原因はこいつだ" by @[redsnow_](https://twitter.com/redsnow_/status/1131767554165354496)
+
+"you've recently flagged a website of mine as a suspect of phishing and then banned my Cloudflare account. Website is now fixed but I cannot submit a request for review since my account is banned." by @[alexbratsos](https://twitter.com/alexbratsos/status/1128647036964880386)
+
+"Cloudflare banned our domain seemingly under pressure from mass-reporting . This sucks." by @[EaterDoritos](https://twitter.com/EaterDoritos/status/1128334847452299265)
+
+"Cloudflare Error 1005. Can i be unbanned? Did i do something wrong?" by @[CutieJenny6](https://twitter.com/CutieJenny6/status/1126825887083704321)
+
 "I really blame Cloudflare for companies now choosing to ”police” content they don’t like." by @[N8I](https://twitter.com/N8I/status/1130508378952757248)
 
 "I've already started moving all my clients off Cloudflare." by @[davidzack](https://twitter.com/davidzack/status/1130192242973372417)
