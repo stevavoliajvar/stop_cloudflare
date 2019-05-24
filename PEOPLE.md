@@ -899,6 +899,18 @@ Disqualify:
 
 "You know what, dear Cloudflare? Go away. Please. Now. #DontBlockTOR" by @[ChristianTanner](https://twitter.com/ChristianTanner/status/900654039440003072)
 
+"Nima (mrphs) talks about Tor's community team, noting: If you are accidentally blocking Tor via #CloudFlare, don't!" by @[torproject](https://twitter.com/torproject/status/756588578206081024)
+
+"In my experience, there are a lot of CloudFlare users who are unwittingly blocking Tor." by @[georgemaschke](https://twitter.com/georgemaschke/status/756589185377632258)
+
+"would you want a company like cloudflare tracking you using Tor? Avoid sites using cloudflare before you see the tracking" by @[FeelitWorking](https://twitter.com/FeelitWorking/status/756797304267472896)
+
+"cloudflare also starting to block VPNs. They will be paid well one day for the user tracking database. LEO love it." by @[FeelitWorking](https://twitter.com/FeelitWorking/status/756797778630676480)
+
+"Whoever wrote this summary of outstanding questions for #CloudFlare by the #Tor community is great" by @[ioerror](https://twitter.com/ioerror/status/702899307683442688)
+
+"One person called it a MITM and it essentially is." by @[SPC_Bitcoin](https://twitter.com/SPC_Bitcoin/status/702939944633774081)
+
 "Cloudflare is shit, dont use it" by @[raz_c](https://twitter.com/raz_c/status/436534703873884160)
 
 "Oh shit guys, the Internet's here. CloudFlare #dontblocktor" by @[abditum](https://twitter.com/abditum/status/715353710780489728)
