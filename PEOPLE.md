@@ -201,6 +201,12 @@ Disqualify:
 
 "Been unable to access the site for almost 48 hours now" by @[Remusion](https://twitter.com/Remusion/status/1131683151951147008)
 
+"I have been trying to contact you via warranty claim but I keep getting blocked by cloudflare both at work and at home. I got a bounce when I try to email customer service. Are you just not supporting customers anymore? How do I contact you?" by @[werdina](https://twitter.com/werdina/status/1116325929490571267)
+
+"Got double-billed for a domain last week and now got a cancellation email even though I didn't cancel anything." by @[markmcerqueira](https://twitter.com/markmcerqueira/status/1115346365150679040)
+
+"I received an email saying I signed up for an account but never did. I’ve never even heard of you before I got that email." by @[Diego_Galaviz_](https://twitter.com/Diego_Galaviz_/status/1087955729422696449)
+
 "Cloudflare is blocking some BiteBTC services due to fake claim." by @[bitebtccom](https://twitter.com/bitebtccom/status/1131558073590530054)
 
 "copyright.gov  is hypocritical. They claim to care about copyrights yet use infringement-friendly Cloudflare to hide their website." by @[dxgl_org](https://twitter.com/dxgl_org/status/1117239332480401409)
