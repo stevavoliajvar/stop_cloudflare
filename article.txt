@@ -37,9 +37,9 @@ This might seem strange at first - why would you need a program to access a web 
 But there's many things that work on the web like this, including RSS, podcasts, and anti-virus definitions[57][58] which are completely broken by a CAPTCHA appearing mid stream[11].
 "We humans don't make HTTP requests, our machines to do it for us."
 This makes clear what is really being tested here - whether or not you have the *right* software stack in between you and
-cloudflare.
+Cloudflare.
 
-This is not a hypothetical: Cloudflare is currently attempting to dictate which web browsers users of websites under cloudflare may use[60].
+This is not a hypothetical: Cloudflare is currently attempting to dictate which web browsers users of websites under Cloudflare may use[60].
 
 {{expand}}
 
@@ -76,10 +76,10 @@ More important, though is it starts to form a ratchet for web browser technology
 
 *How Cloudflare threatens You*
 
-"When you fetch a page from a website that is served from CloudFlare, Javascript has been injected on-the-fly into that page by CloudFlare. And they also plant a cookie that brands your browser with a globally-unique ID.  ID. This happens even if the website is using SSL and shows a cute little padlock in your browser" [10]
+"When you fetch a page from a website that is served from Cloudflare, Javascript has been injected on-the-fly into that page by Cloudflare. And they also plant a cookie that brands your browser with a globally-unique ID.  ID. This happens even if the website is using SSL and shows a cute little padlock in your browser" [10]
 
 - Cloudflare tracks you
-Even if your web browsing traffic is protected from onlookers, cloudflare itself because they are a MITM[14][31] can see your traffic[6].
+Even if your web browsing traffic is protected from onlookers, Cloudflare itself because they are a MITM[14][31] can see your traffic[6].
 And if Cloudflare[53] has attacked your traffic(MITM), then so has the NSA[33].
 "If a site uses Cloudflare, then the browser lock icon is a false promise."[14]
 "The short version, a rhetorical question: Would you trust a key escrow regime, in which an “authorized” entity was entrusted with the potential to decrypt all communications at will? If not, why would you trust a de facto mass decryption chokepoint at which many communications are actually decrypted?"[34]
@@ -100,7 +100,7 @@ for some or all of their web browsing traffic.  The problem is getting worse[13]
 
 
 
-- In particular, the model of Project Honeypot depends on one IPv4 IP address, meaning one person.  As IPv4 addresses become scarce, more and more ISPs(and whole countries[22]) are forced to use higher and higher levels of NAT.  The result is, the kinds of treatment of tor users by cloudflare starts to be not just for tor, but for all web users. "Tor is just being slightly ahead of what the IPv4 Internet is going to look like pretty soon."
+- In particular, the model of Project Honeypot depends on one IPv4 IP address, meaning one person.  As IPv4 addresses become scarce, more and more ISPs(and whole countries[22]) are forced to use higher and higher levels of NAT.  The result is, the kinds of treatment of tor users by Cloudflare starts to be not just for tor, but for all web users. "Tor is just being slightly ahead of what the IPv4 Internet is going to look like pretty soon."
 And the next time a large group wakes up it might be millions of websites being down (including critical ones) across a whole continent, which has happened already[49]
 
 "It was made clear in the Snowden leaks that GCHQ, the NSA etc would like people to stop using Tor, so I am sure they are very happy to see CF make general web browsing difficult and frustrating for ordinary users."[12]
@@ -120,13 +120,13 @@ into its Javascript/CAPTCHA seems to bear out that they are doing so.
 
 - Cloudflare is a MiTM for the whole web
 
-- as of 3 years ago 10% of the top 25,000 websites used cloudflare[2]
+- as of 3 years ago 10% of the top 25,000 websites used Cloudflare[2]
 - A billion people in china are restricted by the Great Firewall[8], anyone who
 goes so far as to circumvent that must then deal with the "Great Cloudwall" for accessing
 
 - This is not just an individual problem,
 but fundamentally threatens the ecosystem of the web
-CloudFlare is breaking the web one site at a time. The web is massively
+Cloudflare is breaking the web one site at a time. The web is massively
 resilient - we can do without "Stack Overflow", GNU.org or even Google.  But
 when a significant enough portion of websites all use one provider there starts
 to be a systematic risk that if that one provider goes down, all of the websites
@@ -144,12 +144,12 @@ B: Not long. Our service is competitive and convenient. If public service websit
 - Cloudflare has already started down the slippery slopep[52] of censoring websites.
 While if they didn't have a stranglehold on people accessing the world wide web
 would not be a problem.  But they are big enough that censorship form
-cloudflare is starting to be a systematic exclusion from the political process.
+Cloudflare is starting to be a systematic exclusion from the political process.
 
 "Cloudflare is perfect: it can implement censorship on the fly, without anyone getting wise to it!"[40]
 
 - DNS[39]: given that they have become so systematically powerful, the next step to
-cementing their power is to attack DNS.  Their 1.1.1.1 DNS server, like Google's 8.8.8.8, is marketed to people so that even for websites who don't use cloudflare, cloudflare will still be able to see you're going to them, further data for them to track you with.
+cementing their power is to attack DNS.  Their 1.1.1.1 DNS server, like Google's 8.8.8.8, is marketed to people so that even for websites who don't use Cloudflare, Cloudflare will still be able to see you're going to them, further data for them to track you with.
 
 *Background : Where does Cloudflare come from?*
 
@@ -182,9 +182,9 @@ actually resolving the issue[29][30][32]
 
 *But Cloudflare is really necessary, the web is a nasty place*
 
-- The more of the web is held within cloudflare the more pressure will be on
-websites not behind cloudflare
-- As of 2016, by cloudflare's own data tor was not as bad as normal internet connections.  
+- The more of the web is held within Cloudflare the more pressure will be on
+websites not behind Cloudflare
+- As of 2016, by Cloudflare's own data tor was not as bad as normal internet connections.  
 - "But we need Cloudflare to protect from DDoS.” Hey, that’s a nice site you have there. It would be a shame, such a shame, if anything happened to it. Why don’t you let us decrypt all your TLS sessions[59], so we can protect you?"[14]
 
 *I heard Cloudflare is working with tor and all is good now?*
@@ -195,7 +195,7 @@ websites not behind cloudflare
 news agencies across the political spectrum screwed up stories about how the 'problem is fixed'[18]
 
 - it's actually worse, though[17] if we couldn't see it[60] - it was easy to get a
-lot of riled up tor users to understand that cloudflare was their adversary.
+lot of riled up tor users to understand that Cloudflare was their adversary.
 it's a lot harder to convince people who are not blocked from their websites,
 today, why giving systematic control over the world wide web might be a bad thing tomorrow.
 
@@ -209,7 +209,7 @@ the vast majority of digital communications, effectively creating private
 networks the size of the modern internet that are competitive with and not
 subject to the same kinds of scrutiny and regulation as the internet[58].
 
-* What if we shut down cloudflare and migrate all websites out of them?*
+* What if we shut down Cloudflare and migrate all websites out of them?*
 
 We're probably going to have the same problem with another company, very soon.
 Just as when suddenly Microsoft no longer had a monopoly on software we didn't
@@ -224,11 +224,11 @@ as a consequence:
 *Mozilla and Cloudflare*
 
 "At least for browsing with Firefox, because Mozilla has partnered up with Cloudflare, and will resolve the domain names from the application itself via a DNS server from Cloudflare based in the United States. Cloudflare will then be able to read everyone's DNS requests. "
-Sharing DNS requests with cloudflare represents mozilla having a security hole, straight to the Cloudflare (and probably: the NSA).
+Sharing DNS requests with Cloudflare represents mozilla having a security hole, straight to the Cloudflare (and probably: the NSA).
 
 *What can you do?*
 
-Learn more about cloudflare, and make sure the people around you know about cloudflare.  Use tor by default to be more exposed to the blocks.  Go to the anti-cloudflare collaboration repository[41] and make sure websites you use don't use them, and if they do, contact the people who run the website requesting that they no longer use cloudflare. Get involved!
+Learn more about Cloudflare, and make sure the people around you know about Cloudflare.  Use tor by default to be more exposed to the blocks.  Go to the anti-Cloudflare collaboration repository[41] and make sure websites you use don't use them, and if they do, contact the people who run the website requesting that they no longer use Cloudflare. Get involved!
 
 
 References
