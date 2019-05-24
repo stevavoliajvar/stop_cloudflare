@@ -41,11 +41,15 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 ---
 
 [Tor users](https://www.torproject.org/) and [VPN users](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) are also a [victim](https://blog.torproject.org/trouble-cloudflare) of Cloudflare. If you didn't try Tor until this moment, we encourage you to [download Tor Browser](https://www.torproject.org/) and visit your favorite websites. (advice: _Do not login to your bank website or government webpage or they will flag your account. [Use VPN](https://www.vpngate.net/en/) for those websites._)
+You might want to say "_Tor is illegal! Tor is criminal's browser! Tor is bad!_". No.
+Tor _was_ developed by US Army, but current Tor is developed by the [Tor project](https://www.torproject.org/). There are many people who use Tor, including your future friends. So, if you are using Cloudflare on your website you are blocking real humans. You will lose potential friendship and business deal.
 
 ---
 
 ![](image/banvpn2.jpg)
 ![](image/banvpn.jpg)
+![](image/whousetor.jpg)
+![](image/iusetor_alith.jpg)
 
 ---
 
