@@ -315,6 +315,8 @@ Disqualify:
 
 "I'm trying to evaluate Hubspot for our CRM solution, but our IP address seems to be blocked by CloudFlare" by @[sitchaba](https://twitter.com/sitchaba/status/1125403797939990529)
 
+"cloudflare blocking u from playing friend...seems like they cucked you as well..." by @[Unhearddoc999](https://twitter.com/Unhearddoc999/status/1118506406133415938)
+
 "Why don’t you explain blocking domains? You’re pretty good at blocking access to websites." by @[JimInHeaven](https://twitter.com/JimInHeaven/status/1127598018197430278)
 
 "half the sites i visit require me to do a captcha, and then half the resources fail to load even after i'm successful." by @[adamjogrady](https://twitter.com/adamjogrady/status/1127766600428343297)
@@ -879,6 +881,14 @@ Disqualify:
 
 "Is it normal for attempts to open your site, to be met with One more step +capcha test? or a BS speedbump?" by @[TotsTeeter](https://twitter.com/TotsTeeter/status/1061732565185261568)
 
+"Dear CloudFlare, You've some devs who're good people, but as a company you're ruining the Internet. Fuck you." by @[isislovecruft](https://twitter.com/isislovecruft/status/716383968799682560)
+
+"Before blaming torproject for _your_ censorship—where's your data showing "abusive" traffic from Tor is higher than from non-Tor?" by @[isislovecruft](https://twitter.com/isislovecruft/status/716691471450169344)
+
+"Oh fuck, for no apparent reason my IP provider gives me an IP that CloudFlare think it's a bot/spam, but I can't renew the IP." by @[EGaaraAE](https://twitter.com/EGaaraAE/status/957916041048358912)
+
+"yes, they are a real pain in the neck when u use torproject on a daily basis." by @[chgans](https://twitter.com/chgans/status/585339647888269312)
+
 "One more step Please complete the security check to access... I’m gonna blow my brains" by @[ahmMohs](https://twitter.com/ahmMohs/status/1045282363805249536)
 
 "uh thats gonna b a cmd+w for me" by @[reifitaputs](https://twitter.com/reifitaputs/status/1036555891829403648)
@@ -960,6 +970,10 @@ Disqualify:
 "Hey i'm seeing this attention required again and again on the same website after I do the captcha." by @[rambokkisa](https://twitter.com/rambokkisa/status/725945637070495745)
 
 "Why is the CloudFlare memory leak bug not getting more attention?! It's potentially worse than HeartBleed." by @[withgallantry](https://twitter.com/withgallantry/status/836182424522539009)
+
+"Isn't it time to #BoycottCloudFlare? Fuck CloudFlare" by @[YourAnonNews](https://twitter.com/YourAnonNews/status/585293954939232256)
+
+"Stay the Fuck Away from CloudFlare" by @[AaronM](https://twitter.com/AaronM/status/554699462853947392)
 
 "Why do I see a captcha or challenge (Attention Required) trying to visit a site protected by CloudFlare" by @[backtoschoolart](https://twitter.com/backtoschoolart/status/581161064542400513)
 
