@@ -201,6 +201,12 @@ Disqualify:
 
 "Been unable to access the site for almost 48 hours now" by @[Remusion](https://twitter.com/Remusion/status/1131683151951147008)
 
+"Anyone else seeing a Cloudflare outage in Au? Many, many sites showing 502 or 522 errors." by @[tomrlacey](https://twitter.com/tomrlacey/status/1128623954279653376)
+
+"Suddenly getting 522 errors all over our site. Works OK if we disable Cloudflare cache." by @[DataCentreOps](https://twitter.com/DataCentreOps/status/1131210939657838592)
+
+"Sir, your amazing site is down for ~week (giving me Cloudflare error 522 every time I try to open it)" by @[btwosoft](https://twitter.com/btwosoft/status/1131846550521561088)
+
 "I have been trying to contact you via warranty claim but I keep getting blocked by cloudflare both at work and at home. I got a bounce when I try to email customer service. Are you just not supporting customers anymore? How do I contact you?" by @[werdina](https://twitter.com/werdina/status/1116325929490571267)
 
 "Got double-billed for a domain last week and now got a cancellation email even though I didn't cancel anything." by @[markmcerqueira](https://twitter.com/markmcerqueira/status/1115346365150679040)
