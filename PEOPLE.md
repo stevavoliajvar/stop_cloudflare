@@ -799,6 +799,10 @@ Disqualify:
 
 "Ugh, anoying services. You block me because i use a VPN, WHY?" by @[_ruis_](https://twitter.com/_ruis_/status/827105441264054272)
 
+""#Cloudflare is the Great Decentralised Fire Wall. I can circumvent GFW, but still can't read anything because of GDFW." —a Chinese activist" by @[isislovecruft](https://twitter.com/isislovecruft/status/697429362568597505)
+
+"I get captcha loops, supposedly wrong answers, very very frequently. I don't log every Ray, but surely you" by @[thomaskerin](https://twitter.com/thomaskerin/status/697432585618726912)
+
 "You now seemingly have every single IP block for PIA's VPN service in the US at least temporarily blocked via Cloudflare" by @[theonlymattlach](https://twitter.com/theonlymattlach/status/892201755035013121)
 
 "Plz stop using Cloudflare.They block VPN and proxies ment to enhance our privacy." by @[claw137](https://twitter.com/claw137/status/892397825245536257)
