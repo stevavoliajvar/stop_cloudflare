@@ -199,6 +199,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare is shit bro, change your protection." by @[CyrilB4](https://twitter.com/CyrilB4/status/1132745548635824129)
+
 "Been unable to access the site for almost 48 hours now" by @[Remusion](https://twitter.com/Remusion/status/1131683151951147008)
 
 "Anyone else seeing a Cloudflare outage in Au? Many, many sites showing 502 or 522 errors." by @[tomrlacey](https://twitter.com/tomrlacey/status/1128623954279653376)
