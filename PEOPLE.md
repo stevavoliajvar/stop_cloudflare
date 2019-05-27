@@ -227,6 +227,24 @@ Disqualify:
 
 "cloudflare blacklisted me and now I cant access most of the internet on my PC.... gonna have to reset everything tomorrow so I can get a new ip.... :( so annoying." by @[Sven986](https://twitter.com/Sven986/status/1118382870324764673)
 
+"One thing that I take from this that it is a privacy invasion from a European point of view, while many Americans see it as an improvement. That makes a lot if sense, I trust my local ISP more than Cloudflare or any US entity." by @[reykfloeter](https://twitter.com/reykfloeter/status/1075115187223564290)
+
+"I know US-based people who cheer for Cloudflare DoH and centralized DNS. I can understand that from their point of view if it becomes the lesser evil. But we don’t have the same Internet everywhere. What is good for them is bad for us and Mozilla should respect all their users." by @[reykfloeter](https://twitter.com/reykfloeter/status/1075115190067347457)
+
+"Matthew Prince, CEO of Cloudflare, has given me ZERO reasons to ever trust him over the years. I have used Cloudflare for their analytics tools which are very nice, but do not and will not place all my eggs in their basket. Nor should anyone." by @[b_mcnett](https://twitter.com/b_mcnett/status/1075274228579098624)
+
+"personally I don't trust Cloudflare at all either. Fortunately i'm capable of routing through an ISP i do sorta trust, and can run my own DNS infra. i think we americans need to understand centralization on the net is a bad thing." by @[nomadlogicLA](https://twitter.com/nomadlogicLA/status/1075116546727456768)
+
+"Cloudflare or their hosting provider could shut it down on a whim. Also advertising based monetization is dangerous for freedom of speech, because the advertisers can lobby to block certain content." by @[purehategraphs](https://twitter.com/purehategraphs/status/1117860637172875264)
+
+"One example where decentralized systems win: decentralized file storage and delivery is *more* efficient than centralized systems." by @[SCBuergel](https://twitter.com/SCBuergel/status/1122542763885649922)
+
+"Cloudflare not working, as usual. Websites constantly down. Another reason why people shouldn't use centralized web serivces." by @[HiddenRefuge](https://twitter.com/HiddenRefuge/status/498472682581938176)
+
+"but because we’ve centralized the Internet so much, companies like Cloudflare, Google, and Facebook become arbiters of who speaks" by @[Pinboard](https://twitter.com/Pinboard/status/897983409552740352)
+
+"the Internet giants make decisions that affect elections, political speech, violent protests—and are answerable only to themselves" by @[Pinboard](https://twitter.com/Pinboard/status/897984010562949120)
+
 "annoying part was cloudflare" by @[AltichaDev](https://twitter.com/AltichaDev/status/1113892225472192512)
 
 "A Cloudflare issue caused this for me. Check your firewall settings. Super annoying!" by @[zackkatz](https://twitter.com/zackkatz/status/1110375889978548224)
