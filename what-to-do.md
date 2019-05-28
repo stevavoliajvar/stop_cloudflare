@@ -199,7 +199,7 @@ die();
 
 - If you use Debian GNU/Linux, or any derivative, subscribe to [bug #831835](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
 
-- Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser_alpha)~~, [Orfox](https://guardianproject.info/apps/orfox/)~~ for smartphone. Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect". There is no 100% secure nor 100% private on the internet and technology.
+- Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Tor Browser for Android](https://www.torproject.org/download/#android) for smartphone. Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect". There is no 100% secure nor 100% private on the internet and technology.
 
 - Don't want to use "Tor"? You can use Tor Browser without Tor, and this is the best option for you.
 
