@@ -61,6 +61,8 @@ Disqualify:
 
 "[Cloudflare IPFS experiment](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/cloudflare-IPFS-experiment.html)" by [Joe](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/index.html)  [[mirror](http://archive.fo/139z1)]
 
+"[CloudFlare: Deutscher Bundestag bezieht schon wieder Internet von US-Anbietern, diesmal für die eigenen Webseiten](https://netzpolitik.org/2015/cloudflare-deutscher-bundestag-bezieht-schon-wieder-internet-von-us-anbietern-diesmal-fuer-die-eigenen-webseiten/)" by [Andre Meister](https://netzpolitik.org/author/andre/)
+
 "[Don't Trust CloudFlare](https://write.lain.haus/thufie/dont-trust-cloudflare)" by [@lunaterra@cyberia.social](https://cyberia.social/@lunaterra)
 
 "[Stay away from CloudFlare](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html)" by [Unix Sheikh](http://www.unixsheikh.com/)
@@ -106,6 +108,8 @@ Disqualify:
 "[I'm not sure if I can ELI5 this but I'll try my best to explain.](https://www.reddit.com/r/india/comments/bg3lxh/was_casually_checking_my_logs_this_is_what_is/elk77k3/)" by [Waphire](https://www.reddit.com/user/Waphire)
 
 "[Anonym im Internet - Inhaltsverzeichnis](https://wiki.kairaven.de/open/anon/netzwerk/anet)" by [Kairaven](https://hp.kairaven.de)
+
+"[Cloudflare is MITM](https://forum.golem.de/kommentare/security/ddos-schutz-cloudflare-gewinnt-kampf-um-national-security-letter/cloudflare-is-mitm/106383,4705549,4705549,read.html)" by Nutzer
 
 "[Issues with corporate censorship and mass surveillance](https://www.torproject.org/projects/tor/ticket/18361)" by [Jacob Appelbaum](https://twitter.com/ioerror)
 
