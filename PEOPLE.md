@@ -1034,6 +1034,8 @@ Disqualify:
 
 ######  Mastodon
 
+"So that's the new level of #Cloudflare blocks on torprojec? I thought things were supposedly being fixed. Get your shit together, Cloudflare" by @[shiro](https://chaos.social/@shiro/102169210470724880)
+
 "someone is trolling by trying to sign me up to cloudflare with my contact mails, thats creative?" by @[SolSoCoG](https://ieji.de/@SolSoCoG/102149695419969529)
 
 "The person who created an account with my email address is actually trying to get my site on #Cloudflare." by @[amolith](https://masto.nixnet.xyz/@amolith/102137632049061724)
