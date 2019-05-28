@@ -203,6 +203,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"So, is the site under DDOS attack or is there another reason why Cloudflare security seems to be at actual max and i'm unable to login?" by @[PeliOptic](https://twitter.com/PeliOptic/status/1132350901858066433)
+
+"Are we down in New Zealand? Can't access Cloudflare Location: Auckland? Help!" by @[rugar8](https://twitter.com/rugar8/status/1132850429690126337)
+
 "Cloudflare is shit bro, change your protection." by @[CyrilB4](https://twitter.com/CyrilB4/status/1132745548635824129)
 
 "ずっとCoinDeskがTorで見れないなーって思ってたんだけどこれCloudflareのServer-Side Excludeで弾いてる可能性高いな" by @[CheenaBlog](https://twitter.com/CheenaBlog/status/979482743066198016)
