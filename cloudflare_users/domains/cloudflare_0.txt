@@ -78,8 +78,8 @@
 000000000000000000000000000000000000000000000000000000000000000.space
 0.tl
 000000000000000000000000000000000000000000000000000000000000000.trade
-00.uk
 000.uk
+00.uk
 000000000000000000000000000000000000000000000000000000000000000.webcam
 000000000000000000000000000000000000000000000000000000000000000.win
 000000000000000000000000000000000000000000000000000000000000000.xyz
@@ -90,11 +90,11 @@
 0a1mlv.co
 0a3a40c733cf8a1b86da.date
 0a3ff6ddd547f68342f4.date
+0a4bcef12091ce7.com
 0a5k2.cn
 0a8aede059df55b9122c.date
 0a8jf.us
 0a8qga.tw
-0a9.info
 0a9eabb1e1006ce52788.date
 0a9ghnews.ml
 0a86f851361b5915a183.date
@@ -105,6 +105,7 @@
 0a1968506cfe05b8f407.date
 000aa.com
 0aa3.com
+0aa8.com
 00aabb.cc
 0aad.com
 0aag60ura.com
@@ -265,7 +266,6 @@
 0c0edac95030b570df2a.date
 0c096e20ab84d7e6f3fa.date
 0c2.com
-0c2.info
 0c2cminet.gq
 0c2eo2.tw
 0c2o.com
@@ -356,7 +356,6 @@
 0d1d.com
 0d3d3b5ddbb6659ea97f.date
 0d3e26f8df4e869a2cd7.date
-0d4.info
 0d5d19ef5a3c7912f65a.date
 0d6o.com
 0d9d294fc463900a2fe8.date
@@ -366,6 +365,7 @@
 0d53dbcd3411676922b6.date
 0d75ffaec3a7d34e7201.date
 00d88.com
+0d96a0971a04071.com
 0d763f0f5efbaacbe773.date
 0d6832fabab407774283.date
 0d79904f1e4e722cb80f.date
@@ -435,6 +435,7 @@
 0df4e69aa51c71d8f342.date
 0df564og.win
 0df6684011f37a28864e.date
+0dgacj.com
 0dian.cc
 0dian8.cc
 0dianba.com
@@ -506,6 +507,7 @@
 0edf12860ea33995066b.date
 0ee.com
 0ee9e4749c0a06319a5e.date
+0eee3d321f3bb88.com
 0eef2be27c4811eecfde.date
 0ef5393d1311a3f50404.date
 0efde0e0ec7be8a0521c.date
@@ -522,6 +524,7 @@
 0entrepreneurapproved.cf
 0enweb.com
 0eoi2m.tw
+0epjbw.com
 0epvpnews.gq
 0eq8.com
 0eqk.com
@@ -545,7 +548,6 @@
 0f2qi.com
 00f3.com
 00f4.com
-0f5.info
 0f5s2qo53.pl
 0f7e6news.ml
 0f8xptnet.cf
@@ -698,7 +700,6 @@
 0h6.com
 00h6qinet.cf
 0h6rn5.com
-0h9.info
 0h13h7news.ml
 0h17anews.ml
 0h40i4net.gq
@@ -762,13 +763,12 @@
 0hy.es
 0hyx.com
 0hzk6books.gq
-00i.com
 0i.com
+00i.com
 0i.eu
 0i0.us
 0i0c.com
 0i04ym.tw
-0i1.info
 0i1g7books.gq
 0i1it6.top
 0i4bjn.space
@@ -928,7 +928,6 @@
 0l1.cc
 0l1ksw.wang
 0l2qclr4.com
-0l5.info
 0l8e.com
 0l8tk1.space
 0l23movies.com
@@ -940,8 +939,6 @@
 0lbd.com
 0lbet.com
 0lcu.com
-0learning.com
-00leather.com
 00lewen.com
 0lf5anews.gq
 0lhebnews.gq
@@ -982,8 +979,8 @@
 0m0pesjnet.gq
 0m0r.com
 0m068u.tw
+0m1cku.com
 0m2l7wqvu.com
-0m5.info
 0m6j.com
 0m6l.com
 0m6qmm.tw
@@ -1074,11 +1071,11 @@
 000n.info
 0n.work
 0n0fqa.space
-0n1.info
 0n3m.com
 0n3ssnews.cf
 0n4m1.com
 0n5n6news.gq
+0n7xdk.com
 0n9.com
 0n9w.com
 0n9welnet.cf
@@ -1090,7 +1087,9 @@
 0navqcnet.ga
 000nb.com
 0nbill.com
+0nbsr8.com
 0ncl.com
+0ncuh2.com
 0nd.it
 0ne78.com
 0neday.com
@@ -1181,6 +1180,7 @@
 0oklahomadating.gq
 0omp.com
 0one0.com
+0onhf4.com
 00ope.com
 0opk.com
 0oqkznews.ga
@@ -1207,11 +1207,9 @@
 0oyqes.tw
 0p.se
 00p0k2net.ml
-0p3.info
 0p4ragnet.cf
 0p4t.com
 0p5utknet.ml
-0p6.info
 00p7.com
 0p20uinet.gq
 0p62ijnet.cf
@@ -1238,7 +1236,6 @@
 0pdz.com
 0peb.com
 0pen.it
-0percentfunding.com
 0percentrealestate.com
 0peru.com
 0pf2j9net.ga
@@ -1327,6 +1324,7 @@
 0qx3jp.space
 0qxp.cn
 0qxx.com
+0qxy1f.com
 00qz33.space
 0r0l.com
 0r1c3news.gq
@@ -1382,8 +1380,8 @@
 0rrqhonews.ga
 0rtt.de
 000ru.com
-000ruru.com
 00ruru.com
+000ruru.com
 0rv0ywnet.ga
 0rv9ohnet.cf
 0rvco28net.gq
@@ -1456,6 +1454,7 @@
 0soeoe.tw
 0solarmovie.com
 000solmare.com
+0spam.com
 0sphf.loan
 0sqjrk.wang
 0sr0unews.gq
@@ -1473,6 +1472,7 @@
 0syptnews.ml
 0syqxk.com
 0system.com
+0syxjt.com
 0t1y.win
 0t2.me
 0t3rmqnet.cf
@@ -1534,14 +1534,13 @@
 0tvb.com
 0tvg.com
 0txeu.us
-0000ty.com
 0ty.com
+0000ty.com
 0ty8qwnet.ga
 0tziv.top
 0u0.win
 0u1.info
 0u1.net
-0u3.info
 0u8.info
 0u8amunet.cf
 0u8c4xnet.ga
@@ -1566,6 +1565,7 @@
 0uimu2net.ml
 0uk8.com
 0uk8d.website
+0ukswm.com
 0ul9inews.ga
 0unara.com
 0unccc0un.cf
@@ -1872,7 +1872,6 @@
 0xsecurity.com
 0xso.com
 0xsql.com
-0xswap.com
 0xt75fnet.cf
 0xuas.us
 0xuppkr.com
@@ -1929,11 +1928,10 @@
 0z0ne.com
 0z2o5enews.cf
 0z3nf.top
-0z4.info
 0z5w.com
 0z8v.com
-0z9.info
 0z9ohnews.gq
+0z74ho.com
 0z1426net.cf
 000za.com
 0zaoxie.com
@@ -2008,8 +2006,8 @@
 01b7.com
 01b8319cedbc184eb454.date
 01banque-en-ligne.fr
-001banzhu.com
 01banzhu.com
+001banzhu.com
 001banzhu.org
 01banzhu.org
 01baobei.com
@@ -2044,6 +2042,7 @@
 01datahouse.com
 001dd.com
 01ddz.com
+01dfh.com
 01dianzi.com
 01dvb.com
 01dy.info
@@ -2079,6 +2078,7 @@
 01ho.club
 001ht.com
 01ip.net
+01iptv.com
 01j.de
 01j.me
 01japanesecarexport.com
@@ -2222,6 +2222,7 @@
 02cmm.com
 0000002cp.com
 02d.pl
+02dfh.com
 002dh.xyz
 02didi.com
 02dr.ml
@@ -2329,6 +2330,7 @@
 03cz.com
 03d88.net
 03ddyy.com
+03dfh.com
 03ec30e12f646be5733d.date
 03enter.com
 03es.com
@@ -2369,7 +2371,6 @@
 03mytischi.ru
 003n.ru
 03ne0inet.cf
-03numberguru.com
 03numbershop.com
 03ope.com
 03photo.info
@@ -2379,8 +2380,8 @@
 03rea86.de
 03rf58am2p.us
 03rr.space
-003sex.com
 03sex.com
+003sex.com
 03sihu.com
 03solutions.org
 003sp.club
@@ -2428,6 +2429,7 @@
 04cwx9ks1v.site
 04d2b3e339ed0c15a880.date
 04dffd9367a6e5db4570.date
+04dfh.com
 04dh.com
 04didi.com
 04dimensao.com.br
@@ -2530,6 +2532,7 @@
 05d.cc
 05d676ab08f4c0bc28ad.date
 05da37a7ca085f30b9fa.date
+05dfh.com
 05dh.com
 005dh.xyz
 05didi.com
@@ -2568,7 +2571,6 @@
 05net.info
 05no9news.gq
 05nx31net.ml
-005ok.com
 05ope.com
 05ow.com
 05p.me
@@ -2715,6 +2717,7 @@
 07-23-2002.cf
 07-69.com
 007-takeaway.co.uk
+007.com
 0007.space
 07a2.com
 07a9.com
@@ -2722,6 +2725,7 @@
 007aj.club
 07am8.com
 007animals.com
+07antalyaescort07.com
 07aw.com
 007az.com
 07b8rfawmlb.download
@@ -2741,6 +2745,7 @@
 0000007cp.com
 007day.club
 007days.com
+07dfh.com
 007discoservice.com
 007dog.com
 07dy.info
@@ -2856,6 +2861,7 @@
 07yvp3net.gq
 007yxj.com
 07yyy.com
+07z7.com
 007zeed.com
 007zusic.com
 007zusik.com
@@ -2951,8 +2957,8 @@
 08z.ru
 08z3.com
 008zt.com
-09.app
 009.app
+09.app
 000000009.com
 09aa.ru
 09ab8dca2aca54fe56aa.date
@@ -2969,7 +2975,6 @@
 09bz.com
 09cash90.com
 09club.ru
-009copy.com
 09corgnet.cf
 0000009cp.com
 009cps.com
@@ -3100,7 +3105,6 @@
 010rl.com
 010room.com
 010rs.com
-010sizua.com
 010sport.club
 010tvtv.com
 010union.com
@@ -3132,7 +3136,6 @@
 0011sc.com
 011sp.com.br
 011tata.com
-011tool.com
 011tt.com
 011web.com
 011yu.xyz
@@ -3432,7 +3435,6 @@
 021rencai.net
 021ruisu.com
 021sanjia.com
-021sizua.com
 021snlt.com
 021ssd.com
 021touzi.com
@@ -3459,6 +3461,7 @@
 021yxbj.com
 021yz.com
 021zcdkjg.com
+021zp8.com
 021zs.top
 022-fs.com
 0022.ml
@@ -3632,9 +3635,7 @@
 027samsung.com
 027seo.net
 027site.com
-027sizu.com
 027snlt.com
-027student.com
 0027v.com
 027wk.com
 027wsks.com
@@ -3677,7 +3678,6 @@
 028qjh.org
 028qyt.com
 028shenbing.com
-028snam.com
 028ssd.com
 028sshj.com
 028tengfei.com
@@ -3873,8 +3873,8 @@
 044pp.com
 044sp.com
 044tyc.com
-00045.info
 0045.info
+00045.info
 045.io
 045ac5cff8204d4fd11c.date
 045bet.com
@@ -4045,6 +4045,7 @@
 055m4hnet.cf
 0055msc.com
 055mu.com
+055op.com
 055pp.com
 055sss.com
 055tk.com
@@ -4175,6 +4176,7 @@
 068ht.com
 068pp.com
 068sp.com
+068wns.com
 068ys.com
 068zyw.com
 069hs.com
@@ -4512,6 +4514,7 @@
 0123zh.com
 0127faceshop.com
 0137d95b62eb7eb35ea0.date
+0140tempobet.com
 0142cbc7539be7820335.date
 00155.info
 0158lh.com
@@ -4584,6 +4587,7 @@
 0264noticias.com.ar
 0267bets10.com
 0270bets10.com
+0273bets10.com
 0276.org
 0276bets10.com
 00277.info
@@ -4707,8 +4711,8 @@
 0362.ua
 0365w.com
 0365zz.com
-00366.info
 0366.info
+00366.info
 0370boai.com
 0370dh.com
 0370jiaju.com
@@ -4726,6 +4730,7 @@
 0372pfbyy.com
 0372sc.com
 0373ad.com
+0374bets10.com
 0374jzmx.com
 0375bbyy.com
 0375car.com
@@ -4818,6 +4823,7 @@
 0437.co
 0437dfcl.com
 0438cn.com
+0438zr.com
 000439.com
 00440.info
 0442.info
@@ -4886,6 +4892,7 @@
 0503a.com
 0503b.com
 0505.date
+0505f.com
 0507.cc
 0507.date
 0508bet.com
@@ -4953,6 +4960,7 @@
 0517sjw.com
 0517vps.com
 0517work.com
+0518-adm.com
 0518a.com
 0518fuwu.com
 0518gjsc.com
@@ -5034,6 +5042,7 @@
 0539shangpin1com.ga
 0542.in.ua
 0542.ua
+0546dy.com
 0546yy.com
 0550fyw.com
 0550ly.com
@@ -5217,13 +5226,13 @@
 0597gou.com
 0598hb.com
 0598kq.com
-0598mhw.com
 0598tong.com
 0598u.com
 0598x.com
 0598yy.com
 00599.info
 0601.cc
+0606f.com
 0606x.club
 0607a.net
 0607aa.com
@@ -5310,8 +5319,8 @@
 0617seo.cn
 0619.com.ua
 0620ak.com
-00622.info
 0622.info
+00622.info
 0622e880d00ca319577f.date
 0629.com.ua
 0632hunjia.com
@@ -5378,8 +5387,8 @@
 00718b.com
 00718d.com
 00718e.com
-00718f.com
 0718f.com
+00718f.com
 00718g.com
 00718h.com
 00718i.com
@@ -5394,8 +5403,8 @@
 0718r.com
 00718s.com
 00718u.com
-0718v.com
 00718v.com
+0718v.com
 00718w.com
 00718y.com
 00718z.com
@@ -5507,6 +5516,7 @@
 0757snl.com
 0758-114.com
 0758bike.net
+0758jc.com
 0759.pro
 0759.us
 0759abc.com
@@ -5559,7 +5569,6 @@
 0771jy.com
 0771mr.com
 0771nat.com
-0771sizu.com
 0771tea.com
 0771wy.com
 0772ye.com
@@ -5645,6 +5654,7 @@
 0816myz.com
 0816web.com
 0816wzjs.com
+0817jh.com
 0817ly.com
 0817zx.com
 0818bet.com
@@ -5662,7 +5672,6 @@
 00833.info
 0834it.com
 0838bet.com
-0838buy.com
 0838sj.com
 0838tz.com
 0839.tv
@@ -5868,8 +5877,8 @@
 003001.com
 003008.com
 03100.info
-003141.com
 03141.com
+003141.com
 03145.club
 003182.com
 03183.com
@@ -6038,8 +6047,8 @@
 00006805.com
 00006806.com
 00006807.com
-006808.com
 00006808.com
+006808.com
 00006809.com
 00006810.com
 00006811.com
@@ -6163,8 +6172,10 @@
 010461.com
 010465.com
 010519azino777.com
+010567cn.com
 010619azino777.com
 010719azino777.com
+010789cn.com
 010819azino777.com
 010896.com
 010913.com
@@ -6188,10 +6199,8 @@
 011396.com
 011842.xyz
 012012tg.com
-012060.com
 012115.com
 012117.com
-012150.com
 012282.com
 012292.com
 012313.com
@@ -6211,7 +6220,6 @@
 012899com.com
 012944.com
 012956.com
-013150.com
 013349.com
 0013365.com
 013530.com
@@ -6225,12 +6233,11 @@
 015008.com
 015009.com
 015157.com
-015160.com
 015210.com
 015321.com
 0016001.com
-0016006.com
 016006.com
+0016006.com
 016009.com
 016325c615b1e4cd3ef5.date
 016334.com
@@ -6897,7 +6904,6 @@
 035003.com
 035007.com
 035009.com
-035128.com
 035167.com
 035565.com
 035865.com
@@ -7135,7 +7141,6 @@
 080619azino777.com
 080719azino777.com
 0080789.com
-080798.com
 080808.su
 080819azino777.com
 080918azino777.com
@@ -7569,9 +7574,21 @@
 0134445.com
 0135365.com
 0158520.com
+0158661.com
+0158662.com
+0158663.com
+0158665.com
+0158667.com
 0158668.com
+0158669.com
 0158788.com
 0158886.com
+0158911.com
+0158922.com
+0158933.com
+0158955.com
+0158966.com
+0158977.com
 0181888.com
 0182224.com
 0191144.com
@@ -7585,10 +7602,27 @@
 00222017.com
 00223885.com
 0234445.com
+0235001.com
+0235002.com
+0235003.com
+0235004.com
+0235005.com
+0235006.com
+0235007.com
+0235008.com
 0235588.com
 0264445.com
 0276062a39.com
 0277878.com
+0279001.com
+0279002.com
+0279003.com
+0279004.com
+0279005.com
+0279006.com
+0279007.com
+0279008.com
+0279009.com
 0284445.com
 0300123.com
 0303520.com
@@ -8754,6 +8788,7 @@
 047554353.com.tw
 055555555.com
 061555555.com
+062047808bc9d2a.com
 064064064.com
 082510010.com
 087337619.com
