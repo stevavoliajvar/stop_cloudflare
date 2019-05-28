@@ -203,6 +203,12 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I cannot access the website, it just keeps saying there is an error between Cloudflare and origin web server timed out" by @[RBNTWRK](https://twitter.com/RBNTWRK/status/1132293336478507009)
+
+"Ever since web server admins happily signed up for cloudflare, over 70% of all HTTPS traffic is effectively MITM'ed as far as the browser user is concerned." by @[modrobert](https://twitter.com/modrobert/status/1132193371949273095)
+
+"I can't access Medium today This is being reported by Cloudflare #boring" by @[eucinico](https://twitter.com/eucinico/status/1133040911838056448)
+
 "So, is the site under DDOS attack or is there another reason why Cloudflare security seems to be at actual max and i'm unable to login?" by @[PeliOptic](https://twitter.com/PeliOptic/status/1132350901858066433)
 
 "Are we down in New Zealand? Can't access Cloudflare Location: Auckland? Help!" by @[rugar8](https://twitter.com/rugar8/status/1132850429690126337)
@@ -1042,7 +1048,7 @@ Disqualify:
 
 ######  Mastodon
 
-"So that's the new level of #Cloudflare blocks on torprojec? I thought things were supposedly being fixed. Get your shit together, Cloudflare" by @[shiro](https://chaos.social/@shiro/102169210470724880)
+"So that's the new level of #Cloudflare blocks on torproject? I thought things were supposedly being fixed. Get your shit together, Cloudflare" by @[shiro](https://chaos.social/@shiro/102169210470724880)
 
 "someone is trolling by trying to sign me up to cloudflare with my contact mails, thats creative?" by @[SolSoCoG](https://ieji.de/@SolSoCoG/102149695419969529)
 
