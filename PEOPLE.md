@@ -61,6 +61,8 @@ Disqualify:
 
 "[Cloudflare IPFS experiment](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/cloudflare-IPFS-experiment.html)" by [Joe](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/index.html)  [[mirror](http://archive.fo/139z1)]
 
+"[CloudFlare: Deutscher Bundestag bezieht schon wieder Internet von US-Anbietern, diesmal für die eigenen Webseiten](https://netzpolitik.org/2015/cloudflare-deutscher-bundestag-bezieht-schon-wieder-internet-von-us-anbietern-diesmal-fuer-die-eigenen-webseiten/)" by [Andre Meister](https://netzpolitik.org/author/andre/)
+
 "[Don't Trust CloudFlare](https://write.lain.haus/thufie/dont-trust-cloudflare)" by [@lunaterra@cyberia.social](https://cyberia.social/@lunaterra)
 
 "[Stay away from CloudFlare](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html)" by [Unix Sheikh](http://www.unixsheikh.com/)
@@ -106,6 +108,8 @@ Disqualify:
 "[I'm not sure if I can ELI5 this but I'll try my best to explain.](https://www.reddit.com/r/india/comments/bg3lxh/was_casually_checking_my_logs_this_is_what_is/elk77k3/)" by [Waphire](https://www.reddit.com/user/Waphire)
 
 "[Anonym im Internet - Inhaltsverzeichnis](https://wiki.kairaven.de/open/anon/netzwerk/anet)" by [Kairaven](https://hp.kairaven.de)
+
+"[Cloudflare is MITM](https://forum.golem.de/kommentare/security/ddos-schutz-cloudflare-gewinnt-kampf-um-national-security-letter/cloudflare-is-mitm/106383,4705549,4705549,read.html)" by Nutzer
 
 "[Issues with corporate censorship and mass surveillance](https://www.torproject.org/projects/tor/ticket/18361)" by [Jacob Appelbaum](https://twitter.com/ioerror)
 
@@ -199,7 +203,27 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I cannot access the website, it just keeps saying there is an error between Cloudflare and origin web server timed out" by @[RBNTWRK](https://twitter.com/RBNTWRK/status/1132293336478507009)
+
+"Ever since web server admins happily signed up for cloudflare, over 70% of all HTTPS traffic is effectively MITM'ed as far as the browser user is concerned." by @[modrobert](https://twitter.com/modrobert/status/1132193371949273095)
+
+"I can't access Medium today This is being reported by Cloudflare #boring" by @[eucinico](https://twitter.com/eucinico/status/1133040911838056448)
+
+"So, is the site under DDOS attack or is there another reason why Cloudflare security seems to be at actual max and i'm unable to login?" by @[PeliOptic](https://twitter.com/PeliOptic/status/1132350901858066433)
+
+"Are we down in New Zealand? Can't access Cloudflare Location: Auckland? Help!" by @[rugar8](https://twitter.com/rugar8/status/1132850429690126337)
+
+"Cloudflare is shit bro, change your protection." by @[CyrilB4](https://twitter.com/CyrilB4/status/1132745548635824129)
+
+"ずっとCoinDeskがTorで見れないなーって思ってたんだけどこれCloudflareのServer-Side Excludeで弾いてる可能性高いな" by @[CheenaBlog](https://twitter.com/CheenaBlog/status/979482743066198016)
+
 "Been unable to access the site for almost 48 hours now" by @[Remusion](https://twitter.com/Remusion/status/1131683151951147008)
+
+"Anyone else seeing a Cloudflare outage in Au? Many, many sites showing 502 or 522 errors." by @[tomrlacey](https://twitter.com/tomrlacey/status/1128623954279653376)
+
+"Suddenly getting 522 errors all over our site. Works OK if we disable Cloudflare cache." by @[DataCentreOps](https://twitter.com/DataCentreOps/status/1131210939657838592)
+
+"Sir, your amazing site is down for ~week (giving me Cloudflare error 522 every time I try to open it)" by @[btwosoft](https://twitter.com/btwosoft/status/1131846550521561088)
 
 "I have been trying to contact you via warranty claim but I keep getting blocked by cloudflare both at work and at home. I got a bounce when I try to email customer service. Are you just not supporting customers anymore? How do I contact you?" by @[werdina](https://twitter.com/werdina/status/1116325929490571267)
 
@@ -216,6 +240,24 @@ Disqualify:
 "Our legal team has just filed complaints, but apparently they're more likely to act if contacted by multiple people." by @[t_blom](https://twitter.com/t_blom/status/1129419501479571458)
 
 "cloudflare blacklisted me and now I cant access most of the internet on my PC.... gonna have to reset everything tomorrow so I can get a new ip.... :( so annoying." by @[Sven986](https://twitter.com/Sven986/status/1118382870324764673)
+
+"One thing that I take from this that it is a privacy invasion from a European point of view, while many Americans see it as an improvement. That makes a lot if sense, I trust my local ISP more than Cloudflare or any US entity." by @[reykfloeter](https://twitter.com/reykfloeter/status/1075115187223564290)
+
+"I know US-based people who cheer for Cloudflare DoH and centralized DNS. I can understand that from their point of view if it becomes the lesser evil. But we don’t have the same Internet everywhere. What is good for them is bad for us and Mozilla should respect all their users." by @[reykfloeter](https://twitter.com/reykfloeter/status/1075115190067347457)
+
+"Matthew Prince, CEO of Cloudflare, has given me ZERO reasons to ever trust him over the years. I have used Cloudflare for their analytics tools which are very nice, but do not and will not place all my eggs in their basket. Nor should anyone." by @[b_mcnett](https://twitter.com/b_mcnett/status/1075274228579098624)
+
+"personally I don't trust Cloudflare at all either. Fortunately i'm capable of routing through an ISP i do sorta trust, and can run my own DNS infra. i think we americans need to understand centralization on the net is a bad thing." by @[nomadlogicLA](https://twitter.com/nomadlogicLA/status/1075116546727456768)
+
+"Cloudflare or their hosting provider could shut it down on a whim. Also advertising based monetization is dangerous for freedom of speech, because the advertisers can lobby to block certain content." by @[purehategraphs](https://twitter.com/purehategraphs/status/1117860637172875264)
+
+"One example where decentralized systems win: decentralized file storage and delivery is *more* efficient than centralized systems." by @[SCBuergel](https://twitter.com/SCBuergel/status/1122542763885649922)
+
+"Cloudflare not working, as usual. Websites constantly down. Another reason why people shouldn't use centralized web serivces." by @[HiddenRefuge](https://twitter.com/HiddenRefuge/status/498472682581938176)
+
+"but because we’ve centralized the Internet so much, companies like Cloudflare, Google, and Facebook become arbiters of who speaks" by @[Pinboard](https://twitter.com/Pinboard/status/897983409552740352)
+
+"the Internet giants make decisions that affect elections, political speech, violent protests—and are answerable only to themselves" by @[Pinboard](https://twitter.com/Pinboard/status/897984010562949120)
 
 "annoying part was cloudflare" by @[AltichaDev](https://twitter.com/AltichaDev/status/1113892225472192512)
 
@@ -789,6 +831,10 @@ Disqualify:
 
 "Ugh, anoying services. You block me because i use a VPN, WHY?" by @[_ruis_](https://twitter.com/_ruis_/status/827105441264054272)
 
+""#Cloudflare is the Great Decentralised Fire Wall. I can circumvent GFW, but still can't read anything because of GDFW." —a Chinese activist" by @[isislovecruft](https://twitter.com/isislovecruft/status/697429362568597505)
+
+"I get captcha loops, supposedly wrong answers, very very frequently. I don't log every Ray, but surely you" by @[thomaskerin](https://twitter.com/thomaskerin/status/697432585618726912)
+
 "You now seemingly have every single IP block for PIA's VPN service in the US at least temporarily blocked via Cloudflare" by @[theonlymattlach](https://twitter.com/theonlymattlach/status/892201755035013121)
 
 "Plz stop using Cloudflare.They block VPN and proxies ment to enhance our privacy." by @[claw137](https://twitter.com/claw137/status/892397825245536257)
@@ -1001,6 +1047,8 @@ Disqualify:
 ------
 
 ######  Mastodon
+
+"So that's the new level of #Cloudflare blocks on torproject? I thought things were supposedly being fixed. Get your shit together, Cloudflare" by @[shiro](https://chaos.social/@shiro/102169210470724880)
 
 "someone is trolling by trying to sign me up to cloudflare with my contact mails, thats creative?" by @[SolSoCoG](https://ieji.de/@SolSoCoG/102149695419969529)
 

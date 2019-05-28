@@ -196,14 +196,14 @@ Also see [Frequently Asked Questions](faq.md).
 
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 
-* Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.eu.org/) (this will help collecting Searxes' "MiTM domains")
+* Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.eu.org/) (this will help collecting Searxes' "MITM domains")
 
 * Take a look at add-on code and try it
 
 | Name | Firefox | Chrome |
 | -------- | -------- | -------- |
-| Block Cloudflare MiTM Attack | [Code](addon_firefox/bcma) | [Code](addon_chrome/bcma) |
-| Are links vulnerable to MiTM? | [Code](addon_firefox/ismitmlink) | [Code](addon_chrome/ismitmlink) |
+| Block Cloudflare MITM Attack | [Code](addon_firefox/bcma) | [Code](addon_chrome/bcma) |
+| Are links vulnerable to MITM? | [Code](addon_firefox/ismitmlink) | [Code](addon_chrome/ismitmlink) |
 | Which website rejected me? | [Code](addon_firefox/whyrejectme) | [Code](addon_chrome/whyrejectme) |
 
 * Try & write new [Tool / Script](tool/)
@@ -240,7 +240,7 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 # Who uses this list?
 
 * [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) meta-search engine
-* [Block Cloudflare MiTM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) add-on
+* [Block Cloudflare MITM Attack](https://addons.mozilla.org/en-US/firefox/addon/bcma/) add-on
 * Some Browser Add-ons
 
 ---
