@@ -1093,3 +1093,7 @@ Disqualify:
 "I wonder if the implied subtext is that YOU ARE THE FOOL for using these services. :-) " by @[MateJ](https://social.matej-lach.me/@MatejLach/101851464970639410)
 
 "I dream of blocking #Cloudflare and #ReCaptcha" by @[Chuculate](https://niu.moe/@Chuculate/101834414084670347)
+
+"you can't solve a puzzle to prove that you're a human in the new version anymore. if google says you're a bot, then you're a bot." by @[leip4Ier](https://infosec.exchange/@leip4Ier/100983839919407633)
+
+"am i the only one being blocked by #Cloudflare before reaching Falkvinge's  article relating #NSA , and #GNU / #Linux systems... i'm puzzled, what am i missing ? " by @[hellekin](https://quitter.es/notice/4918810)
