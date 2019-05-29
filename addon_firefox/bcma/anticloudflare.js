@@ -3,7 +3,7 @@
 */
 var cf_flag_ok = 'icons/cf_0.png';
 var cf_flag_ng = 'icons/cf_1.png';
-var force_whitelist = ['searxes.cf', 'thunderbird.net', 'mozilla.org', 'archive.org', 'cloudflare.com', 'cloudflareapps.com', 'cloudflare-dns.com', 'cloudflarestatus.com', 'cloudflareapi.com', 'cloudflare-ipfs.com', 'cloudflare-quic.com'];
+var force_whitelist = ['searxes.eu.org', 'thunderbird.net', 'mozilla.org', 'archive.org', 'cloudflare.com', 'cloudflareapps.com', 'cloudflare-dns.com', 'cloudflarestatus.com', 'cloudflareapi.com', 'cloudflare-ipfs.com', 'cloudflare-quic.com'];
 var cfdomains = [];
 var known_cf_domains = [];
 
@@ -415,6 +415,11 @@ function get_realdomain(w) {
 		}
 		if (wa[0] == 'om') {
 			if (['co', 'com', 'edu', 'gov', 'med', 'museum', 'net', 'org', 'pro'].includes(wa[1])) {
+				return wa[2] + "." + wa[1] + "." + wa[0];
+			}
+		}
+		if (wa[0] == 'org'){
+			if (wa[1]=='eu'){
 				return wa[2] + "." + wa[1] + "." + wa[0];
 			}
 		}
