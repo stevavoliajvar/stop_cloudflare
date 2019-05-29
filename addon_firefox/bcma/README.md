@@ -3,12 +3,11 @@ This is a source code of BCMA's "*Block Cloudflare MITM Attack*".
 PRs are welcome.
 
 
-![](../../image/addon_bcma_01.jpg)
-![](../../image/addon_bcma_02.jpg)
+![](../../image/addon_bcma.jpg)
 
 
 ```
-(dil - add desc)
+This add-on will block, notify, or redirect your request if the target website is using Cloudflare.
 ```
 
 ~~[Download add-on](../bcma.xpi)~~
