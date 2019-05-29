@@ -4,10 +4,11 @@
 
 ---
 
-"The Great Cloudwall" is [Cloudflare](https://www.cloudflare.com/), the world's [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
+"The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the U.S. company.
+It is the world's [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
 It sits between you and origin webserver, acting like a [border patrol agent](https://www.cbp.gov/careers/bpa).
 The origin webserver administrator allowed the agent to decide who can access to their "_web property_" and define "_restricted area_".
-Take a look at the second image posted below. You will think Cloudflare block _only_ attackers. It's not.
+Take a look at the second image posted below. You will think Cloudflare block _only_ attackers. However it is not true.
 
 ---
 
