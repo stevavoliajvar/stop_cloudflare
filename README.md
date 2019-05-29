@@ -22,6 +22,7 @@ It is called this in reference to the [Great Firewall of China](https://www.comp
 
 ---
 
+![](image/cloudflarechina.jpg)
 ![](image/onemorestep.jpg)
 ![](image/accdenied.jpg)
 ![](image/cfublock.jpg)
@@ -128,6 +129,7 @@ Is there any way you would sell us that data?
 
 ![](image/dhssaid.jpg)
 ![](image/federalinterest.jpg)
+![](image/cfstrengthdata.jpg)
 
 ---
 
