@@ -203,6 +203,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare's head of abuse, has me blocked. So much for transparency or freedom of speech, huh Cloudflare?" by @[phyzonloop](https://twitter.com/phyzonloop/status/1133772177931677702)
+
 "Dear cloudflare: Would you mind explaining to me why you subscribed me to your newsletter without my consent? You also handed over my email addresses to MailChimp without my consent." by @[MacLemon](https://twitter.com/MacLemon/status/1131976581780348928)
 
 "Oh interesting, that happened with one of my email addresses, too." by @[rixxtr](https://twitter.com/rixxtr/status/1132060363229487104)
@@ -308,6 +310,8 @@ Disqualify:
 "WHY DOES A PROGRAM CALLED CLOUDFLARE BLOCK ACCESS TO website??? IT DOES IT ON ALL BROWERS I USE. CENSORESHIP IN FULL ACTION." by @[taku96597029](https://twitter.com/taku96597029/status/1130205454976503814)
 
 "Trying to get some work done, but fucking Cloudflare keeps getting in the way. Don't fucking lie to me, the issue is not the website, but your shitty servers. #CloudflareSucks" by @[mevangelista93](https://twitter.com/mevangelista93/status/1129225416672026624)
+
+"Posting private data without consent it's not a Cloudflare problem, it's violating the law and police should work on that." by @[ISbitnev](https://twitter.com/ISbitnev/status/1102526831121584128)
 
 "i think they are too big, and i don't like some of their practices about some other stuff. they would recommend using their ddos protection all the time, that protection forces me to allow js on each" by @[mikrfe](https://twitter.com/mikrfe/status/1130071356626886656)
 
