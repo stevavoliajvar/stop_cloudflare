@@ -1,22 +1,12 @@
 /*
 	"Welcome to PRISM 2.0"
 */
-var cf_flag_ok = 'icons/cf_0.png';
-var cf_flag_ng = 'icons/cf_1.png';
-var force_whitelist = ['searxes.eu.org', 'thunderbird.net', 'mozilla.org', 'archive.org', 'cloudflare.com', 'cloudflareapps.com', 'cloudflare-dns.com', 'cloudflarestatus.com', 'cloudflareapi.com', 'cloudflare-ipfs.com', 'cloudflare-quic.com'];
-var cfdomains = [];
-var known_cf_domains = [];
-
-fetch('bcmadata.txt',{method:'GET'}).then(function (b) {
-	return b.text();
-}).then(function (b) {
-	cfdomains = b.split("\n").filter(v=>v!='');
-	known_cf_domains = cfdomains;
-});
-
-var my_cf_collection = [];
-var my_cf_ignore = [];
-var my_action = 2;
+const cf_flag_ok = 'icons/cf_0.png';
+const cf_flag_ng = 'icons/cf_1.png';
+const force_whitelist = ['searxes.eu.org', 'thunderbird.net', 'mozilla.org', 'archive.org', 'cloudflare.com', 'cloudflareapps.com', 'cloudflare-dns.com', 'cloudflarestatus.com', 'cloudflareapi.com', 'cloudflare-ipfs.com', 'cloudflare-quic.com'];
+let my_cf_collection = [];
+let my_cf_ignore = [];
+let my_action = 2;
 
 function onError(e) {
 	console.log(`BCMA: Error:${e}`);
@@ -603,8 +593,8 @@ function get_realdomain(w) {
 }
 
 function update_icon(tid, url) {
-	var _nu = new URL(url);
-	var cf_hostname = _nu.hostname;
+	let _nu = new URL(url);
+	let cf_hostname = _nu.hostname;
 	if ((_nu.protocol != 'http:' && _nu.protocol != 'https:') || cf_hostname.length < 1) {
 		browser.browserAction.setIcon({
 			tabId: tid,
@@ -620,17 +610,17 @@ function update_icon(tid, url) {
 		});
 		return;
 	}
-	if (known_cf_domains.includes(cf_hostname) || my_cf_collection.includes(cf_hostname)) {
+	if (my_cf_collection.includes(cf_hostname)) {
 		if (my_action == 3) {
 			browser.tabs.executeScript(tid, {
 				matchAboutBlank: true,
 				runAt: 'document_end',
-				code: "if (location.hostname=='%%CFHOST%%'||location.hostname.endsWith('.%%CFHOST%%')){if (!document.title.startsWith('[!!MITM!!]') && (typeof _bcma_bdr)=='undefined'){document.title='[!!MITM!!]'+document.title;function _bcma_bdr(){document.body.style = 'border:4px dashed #' + ['e74c3c', '9b59b6', '3498db', '17a589', '196f3d', 'f4d03f', 'f39c12', 'd35400'][Math.floor(Math.random() * 8)] + ' !important';setTimeout(_bcma_bdr,4860);};_bcma_bdr();}}".replace('%%CFHOST%%', cf_hostname).replace('%%CFHOST%%', cf_hostname)
+				code: "if (location.hostname=='%%CFHOST%%'||location.hostname.endsWith('.%%CFHOST%%')){if (!document.title.startsWith('[!!MITM!!]') && (typeof _bcma_bdr)=='undefined'){document.title='[!!MITM!!]'+document.title;function _bcma_bdr(){document.body.style = 'border:4px dashed #' + ['e74c3c', '9b59b6', '3498db', '17a589', '196f3d', 'f4d03f', 'f39c12', 'd35400'][Math.floor(Math.random() * 8)] + ' !important';setTimeout(_bcma_bdr,4900);};_bcma_bdr();}}".replace('%%CFHOST%%', cf_hostname).replace('%%CFHOST%%', cf_hostname)
 			});
 			browser.tabs.executeScript(tid, {
 				matchAboutBlank: true,
 				runAt: 'document_idle',
-				code: "if (location.hostname=='%%CFHOST%%'||location.hostname.endsWith('.%%CFHOST%%')){if (!document.title.startsWith('[!!MITM!!]') && (typeof _bcma_bdr)=='undefined'){document.title='[!!MITM!!]'+document.title;function _bcma_bdr(){document.body.style = 'border:4px dashed #' + ['e74c3c', '9b59b6', '3498db', '17a589', '196f3d', 'f4d03f', 'f39c12', 'd35400'][Math.floor(Math.random() * 8)] + ' !important';setTimeout(_bcma_bdr,4860);};_bcma_bdr();}}".replace('%%CFHOST%%', cf_hostname).replace('%%CFHOST%%', cf_hostname)
+				code: "if (location.hostname=='%%CFHOST%%'||location.hostname.endsWith('.%%CFHOST%%')){if (!document.title.startsWith('[!!MITM!!]') && (typeof _bcma_bdr)=='undefined'){document.title='[!!MITM!!]'+document.title;function _bcma_bdr(){document.body.style = 'border:4px dashed #' + ['e74c3c', '9b59b6', '3498db', '17a589', '196f3d', 'f4d03f', 'f39c12', 'd35400'][Math.floor(Math.random() * 8)] + ' !important';setTimeout(_bcma_bdr,4900);};_bcma_bdr();}}".replace('%%CFHOST%%', cf_hostname).replace('%%CFHOST%%', cf_hostname)
 			});
 		}
 		browser.browserAction.setIcon({
@@ -678,11 +668,11 @@ browser.webRequest.onHeadersReceived.addListener(function (wr) {
 	if (force_whitelist.includes(wr_hostname)) {
 		return;
 	}
-	var cf_is = (known_cf_domains.includes(wr_hostname) || my_cf_collection.includes(wr_hostname)) ? true : false;
+	var cf_is = (my_cf_collection.includes(wr_hostname)) ? true : false;
 	if (!cf_is) {
 		var cf_headers = wr.responseHeaders,
 			cf_v_name, cf_v_value;
-		for (var i = 0; i < cf_headers.length; i++) {
+		for (let i = 0; i < cf_headers.length; i++) {
 			cf_v_name = cf_headers[i]['name'].toLowerCase();
 			cf_v_value = (cf_headers[i]['value'] != undefined) ? cf_headers[i]['value'].toLowerCase() : '';
 			if (cf_v_name == 'server' && cf_v_value.includes('cloudflare')) {
@@ -702,6 +692,10 @@ browser.webRequest.onHeadersReceived.addListener(function (wr) {
 	if (cf_is) {
 		if (my_cf_collection.length > 500) {
 			my_cf_collection.shift();
+			my_cf_collection.shift();
+			my_cf_collection.shift();
+			my_cf_collection.shift();
+			my_cf_collection.shift();
 		}
 		if (!my_cf_collection.includes(wr_hostname)) {
 			my_cf_collection.push(wr_hostname);
@@ -720,7 +714,7 @@ browser.webRequest.onHeadersReceived.addListener(function (wr) {
 		}
 		if (my_action == 2) {
 			return {
-				redirectUrl: 'https://web.archive.org/web/' + wr.url.split('?')[0]
+				redirectUrl: 'https://web.archive.org/web/' + wr.url
 			};
 		}
 	}
@@ -761,7 +755,7 @@ browser.webRequest.onBeforeRequest.addListener(function (wr) {
 	if (force_whitelist.includes(wr_hostname)) {
 		return;
 	}
-	var cf_is = (known_cf_domains.includes(wr_hostname) || my_cf_collection.includes(wr_hostname)) ? true : false;
+	var cf_is = (my_cf_collection.includes(wr_hostname)) ? true : false;
 	if (cf_is) {
 		console.log('BCMA: Block Cloudflare BR', wr_hostname);
 		if (my_action == 0 || my_action == 1) {
@@ -777,7 +771,7 @@ browser.webRequest.onBeforeRequest.addListener(function (wr) {
 		}
 		if (my_action == 2) {
 			return {
-				redirectUrl: 'https://web.archive.org/web/' + wr.url.split('?')[0]
+				redirectUrl: 'https://web.archive.org/web/' + wr.url
 			};
 		}
 	}
@@ -788,19 +782,11 @@ browser.webRequest.onBeforeRequest.addListener(function (wr) {
 
 browser.runtime.onMessage.addListener(function (a, b, c) {
 	if (a[0] == 'cf') {
-		c(['ok', JSON.stringify(my_cf_collection), JSON.stringify(my_cf_ignore), (known_cf_domains.length == 0) ? false : true, my_action]);
+		c(['ok', JSON.stringify(my_cf_collection), JSON.stringify(my_cf_ignore), my_action]);
 	}
 	if (a[0] == 'erosman') {
 		my_cf_collection = [];
 		c(['destroy']);
-	}
-	if (a[0] == 'bi') {
-		if (a[1] == 'y') {
-			known_cf_domains = cfdomains;
-		} else {
-			known_cf_domains = [];
-		}
-		c(['ok']);
 	}
 	if (a[0] == 'ta') {
 		if (a[1] == '0') {

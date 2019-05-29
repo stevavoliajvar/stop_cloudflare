@@ -7,14 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		if (r[0] == 'ok') {
 			document.getElementById('t').value = JSON.parse(r[1]).join("\n");
 			document.getElementById('g').value = JSON.parse(r[2]).join("\n");
-			if (r[3]) {
-				document.getElementById('bi0').checked = true;
-				document.getElementById('bi1').checked = false;
-			} else {
-				document.getElementById('bi0').checked = false;
-				document.getElementById('bi1').checked = true;
-			}
-			switch (r[4]) {
+			switch (r[3]) {
 				case 1:
 					document.getElementById('ta0').checked = false;
 					document.getElementById('ta1').checked = true;
@@ -66,16 +59,6 @@ document.getElementById('clr').addEventListener('click', function () {
 	browser.runtime.sendMessage(['erosman']).then(function (r) {
 		document.getElementById('t').value = '';
 	}, onError);
-});
-document.getElementById('bi0').addEventListener('click', function () {
-	if (this.checked) {
-		browser.runtime.sendMessage(['bi', 'y']).then(function (r) {}, onError);
-	}
-});
-document.getElementById('bi1').addEventListener('click', function () {
-	if (this.checked) {
-		browser.runtime.sendMessage(['bi', 'n']).then(function (r) {}, onError);
-	}
 });
 document.getElementById('ta0').addEventListener('click', function () {
 	if (this.checked) {

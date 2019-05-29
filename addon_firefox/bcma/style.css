@@ -13,7 +13,8 @@ button {
 	border: 0;
 	overflow: hidden;
 	outline: none;
-	outline-style: none
+	outline-style: none;
+	cursor: pointer
 }
 
 body {
