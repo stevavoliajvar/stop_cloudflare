@@ -1,4 +1,4 @@
-if (document.body && !['searxes.danwin1210.me', 'searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion', 'searxes.eu.org'].includes(location.hostname)) {
+if (document.body && !['searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion', 'searxes.eu.org', 'searxes.danwin1210.me'].includes(location.hostname)) {
 	let cs = (function () {
 		let s = document.createElement('style');
 		document.head.appendChild(s);
