@@ -10,7 +10,7 @@ PRs are welcome.
 You've searched something on the internet.
 Are these links vulnerable to MITM attack or not?
 
-This add-on is using Searxes' "_MITM test API_" to scan FQDN(URL's hostname).
+This add-on is using Searxes' "MITM test API" to scan FQDN(URL's hostname).
 This add-on never send other information.
 ```
 
