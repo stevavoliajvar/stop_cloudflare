@@ -8,6 +8,9 @@ PRs are welcome.
 
 ```
 This add-on will block, notify, or redirect your request if the target website is using Cloudflare.
+
+
+* This add-on don't save your setting to disk. (no "storage" permission)
 ```
 
 ~~[Download add-on](../bcma.xpi)~~
