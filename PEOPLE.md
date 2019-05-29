@@ -203,6 +203,14 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Dear cloudflare: Would you mind explaining to me why you subscribed me to your newsletter without my consent? You also handed over my email addresses to MailChimp without my consent." by @[MacLemon](https://twitter.com/MacLemon/status/1131976581780348928)
+
+"Oh interesting, that happened with one of my email addresses, too." by @[rixxtr](https://twitter.com/rixxtr/status/1132060363229487104)
+
+"Good read on why to avoid Cloudflare, And its privacy concerns." by @[6JY6ZQVYS4p7YrL](https://twitter.com/6JY6ZQVYS4p7YrL/status/1132027230111064065)
+
+"It appears to be really hard to get support from you guys and when I joined the community for support you locked my account." by @[CCreativeAus](https://twitter.com/CCreativeAus/status/1133686391014023169)
+
 "Cloudflare are quite the hypocrites when it comes to transparency and free speech. If you say anything they don't like about their lack of enforcement of their own policies, they ban or block you." by @[phyzonloop](https://twitter.com/phyzonloop/status/1133355175056424960)
 
 "I cannot access the website, it just keeps saying there is an error between Cloudflare and origin web server timed out" by @[RBNTWRK](https://twitter.com/RBNTWRK/status/1132293336478507009)
