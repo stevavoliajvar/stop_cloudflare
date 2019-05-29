@@ -3,7 +3,7 @@ Audience: General, people who stumble upon gnu.org
           1028+/-395 words instead?
           755 words        rahisibhasha
           stab at          french
-Version: 2019-05-19
+Version: 2019-05-29
 
 
 #########################################
@@ -34,10 +34,10 @@ Prerequisites:
 Cloudflare is a network service for turing tests its users use against visitors, which means that it frustrates attempts 
 by users of its users to develop software to interact with their websites[3].
 This might seem strange at first - why would you need a program to access a web resource?
-But there's many things that work on the web like this, including RSS, podcasts, and anti-virus definitions[57][58] which 
+But there's many things that work on the web like this, including RSS, streaming, chat, podcasts, and anti-virus definitions[57][58] which 
 are completely broken by a CAPTCHA appearing mid stream[11].
 "We humans don't make HTTP requests, our machines to do it for us."
-This makes clear what is really being tested here - whether or not you have the *right* software stack in between you and
+This makes clear what is really being tested here - whether or not you have the right software stack in between you and
 Cloudflare.
 
 This is not hypothetical: Cloudflare is currently attempting to dictate which browsers users of their "protected" 
@@ -47,8 +47,8 @@ websites may use[60].
 
 Your right to use Free Software in this stack is at risk and could disappear at any moment.
 
-It also is extracting free labour from website users[35], in effect tricking humans into acting like robots in order to 
-pass a test designed to see whether or not they are a robot. Worse, this labour is being used to train Google's AI, a very 
+It also is extracting free labor from website users[35], in effect tricking humans into acting like robots in order to 
+pass a test designed to see whether or not they are a robot. Worse, this labor is being used to train[62] Google's artificial intelligence, a very 
 poor candidate for "friendly AI"[36].  Given unfriendly AI is an existential[43] risk[42] to mankind, avoiding this 
 should be among the highest of priorities.
 
@@ -56,17 +56,17 @@ This software stack includes human language: the CAPTCHAs are in English, leavin
 at a disadvantage[13]. Attempts to fix this are bound by the fact that they also leak language information to 
 Cloudflare[21].
 
-Furthermore, they use Google's reCaptcha for their Turing test/CAPTCHA and Google is part of PRISM so they expose PRISM
-data collection to users of their websites.
+Furthermore, they use Google's reCaptcha for their turing test/"proof you are a human" challenge and Google is known as a part of NSA's PRISM surveillance project so they expose their website visitor's data to PRISM data collection.
 
-On its own, this is terrible bad but it's also worth pointing out how the reCAPTCHAs work; it isn't by whether or not you 
-click on the correct icon (though that is a factor too) but also
+On its own, this is terrible bad but it's also worth pointing out how the reCAPTCHAs work. It isn't by whether or not you 
+click on the correct icon (though that is a factor too) but also collect:
 
 > mouse movement, its slightness and straightness
 > page scrolls
 > time intervals between browser events
 > keystrokes
 > click location history tied to user fingerprint
+> device information
 > All these criteria are stored in the browser’s cookie and are processed by Google’s servers
 > It should be emphasized that there is DARPA technology to identify people by mouse movements and typing ​
 [23]
@@ -326,3 +326,4 @@ References
 [59] Thorin-Oakenpants. let's talk about our little buddy cloudflare.  https://github.com/ghacksuserjs/ghacks-user.js/issues/310#issuecomment-351913412
 [60] ghost. What do you think about Cloudflare?  https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460413259
 [61] Unspam Technologies, Inc.  https://projecthoneypot.org/
+[62] TechRader. Captcha if you can: how you’ve been training AI for years without realising it https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it
