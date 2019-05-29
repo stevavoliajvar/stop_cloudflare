@@ -203,6 +203,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare are quite the hypocrites when it comes to transparency and free speech. If you say anything they don't like about their lack of enforcement of their own policies, they ban or block you." by @[phyzonloop](https://twitter.com/phyzonloop/status/1133355175056424960)
+
 "I cannot access the website, it just keeps saying there is an error between Cloudflare and origin web server timed out" by @[RBNTWRK](https://twitter.com/RBNTWRK/status/1132293336478507009)
 
 "Ever since web server admins happily signed up for cloudflare, over 70% of all HTTPS traffic is effectively MITM'ed as far as the browser user is concerned." by @[modrobert](https://twitter.com/modrobert/status/1132193371949273095)
