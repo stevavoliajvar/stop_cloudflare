@@ -13,4 +13,4 @@ This add-on will block, notify, or redirect your request if the target website i
 * This add-on don't save your setting to disk. (no "storage" permission)
 ```
 
-~~[Download add-on](../bcma.xpi)~~
+[Download add-on](../bcma.xpi)
