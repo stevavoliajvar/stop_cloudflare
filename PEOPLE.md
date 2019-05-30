@@ -213,6 +213,8 @@ Disqualify:
 
 "Oh interesting, that happened with one of my email addresses, too." by @[rixxtr](https://twitter.com/rixxtr/status/1132060363229487104)
 
+"Has anyone else had issues with #cloudflare not responding to 'abuse' and #spam complaints? I'm beginning to conclude that they actually encourage it with their technology - which is a pity." by @[thismikebray](https://twitter.com/thismikebray/status/1133748067734347776)
+
 "Good read on why to avoid Cloudflare, And its privacy concerns." by @[6JY6ZQVYS4p7YrL](https://twitter.com/6JY6ZQVYS4p7YrL/status/1132027230111064065)
 
 "It appears to be really hard to get support from you guys and when I joined the community for support you locked my account." by @[CCreativeAus](https://twitter.com/CCreativeAus/status/1133686391014023169)
