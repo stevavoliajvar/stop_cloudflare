@@ -203,6 +203,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"That’s censorship. Please … don’t." by @[kickino](https://twitter.com/kickino/status/1133919945639702528)
+
+"I'm having an issue with the site lagging, and your cloudflare keeps appearing with unable to connect to host." by @[SprazzoMedia](https://twitter.com/SprazzoMedia/status/1133466450667233286)
+
 "Cloudflare's head of abuse, has me blocked. So much for transparency or freedom of speech, huh Cloudflare?" by @[phyzonloop](https://twitter.com/phyzonloop/status/1133772177931677702)
 
 "Dear cloudflare: Would you mind explaining to me why you subscribed me to your newsletter without my consent? You also handed over my email addresses to MailChimp without my consent." by @[MacLemon](https://twitter.com/MacLemon/status/1131976581780348928)
