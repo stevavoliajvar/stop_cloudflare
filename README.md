@@ -138,6 +138,7 @@ Cloudflare also offer _FREE_ VPN service called "[Cloudflare Warp](https://blog.
 ---
 
 ![](image/howvpnwork.jpg)
+![](image/notfastervpn.jpg)
 
 ---
 
