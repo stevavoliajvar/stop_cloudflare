@@ -315,6 +315,10 @@ Disqualify:
 
 "I really blame Cloudflare for companies now choosing to ”police” content they don’t like." by @[N8I](https://twitter.com/N8I/status/1130508378952757248)
 
+"Just got several emails about "Traffic acceleration report [...] using Argo Smart Routing". The lack of "Cloudflare" in the "From" makes them hard(er) to identify" by @[limenet](https://twitter.com/limenet/status/1093028491359150080)
+
+"Got an email about “crypto week” from Cloudflare and my first instinct was to report spam." by @[atmattb](https://twitter.com/atmattb/status/1041735938622279680)
+
 "I've already started moving all my clients off Cloudflare." by @[davidzack](https://twitter.com/davidzack/status/1130192242973372417)
 
 "To see a 522 Error is to know CLOUDFLARE is involved in Internet Traffic on Networks.. CLOUDFLARE handles 10% of all Internet Traffic" by @[AVIVA_Films](https://twitter.com/AVIVA_Films/status/1130662977416421382)
