@@ -219,6 +219,10 @@ Disqualify:
 
 "It appears to be really hard to get support from you guys and when I joined the community for support you locked my account." by @[CCreativeAus](https://twitter.com/CCreativeAus/status/1133686391014023169)
 
+"Kodi Users Blocked By Cloudflare, Showing No Sources" by @[KodiNewsTips](https://twitter.com/KodiNewsTips/status/1115518849149849601)
+
+"One of our servers is 403 blocked by cloudflare when trying to apt-get the deb repo (configured as per instructions), it's asking for a captcha which the headless server can't complete!" by @[lanosk](https://twitter.com/lanosk/status/1134277049676288000)
+
 "Cloudflare are quite the hypocrites when it comes to transparency and free speech. If you say anything they don't like about their lack of enforcement of their own policies, they ban or block you." by @[phyzonloop](https://twitter.com/phyzonloop/status/1133355175056424960)
 
 "I cannot access the website, it just keeps saying there is an error between Cloudflare and origin web server timed out" by @[RBNTWRK](https://twitter.com/RBNTWRK/status/1132293336478507009)
