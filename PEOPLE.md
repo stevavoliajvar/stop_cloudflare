@@ -205,6 +205,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I lost faith in firefox when they sold out their DNS resolution to Cloudflare" by @[peter_szilagyi](https://twitter.com/peter_szilagyi/status/1134356975729426432)
+
 "That’s censorship. Please … don’t." by @[kickino](https://twitter.com/kickino/status/1133919945639702528)
 
 "I'm having an issue with the site lagging, and your cloudflare keeps appearing with unable to connect to host." by @[SprazzoMedia](https://twitter.com/SprazzoMedia/status/1133466450667233286)
