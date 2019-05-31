@@ -205,6 +205,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"What’s next, people start trusting a company like Cloudflare to VPN their DNS traffic?" by @[reykfloeter](https://twitter.com/reykfloeter/status/1134432061710839809)
+
 "I lost faith in firefox when they sold out their DNS resolution to Cloudflare" by @[peter_szilagyi](https://twitter.com/peter_szilagyi/status/1134356975729426432)
 
 "That’s censorship. Please … don’t." by @[kickino](https://twitter.com/kickino/status/1133919945639702528)
@@ -915,6 +917,8 @@ Disqualify:
 
 "Link uses Cloud Flare to block IPs of those of us who browse anonymously" by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/568445705020420096)
 
+"I was just replying to a MySQL support thread on SpigotMC and cloudflare's "you have been blocked" came up. lol, tryin to be helpful and getting the boot instead." by @[Floris](https://twitter.com/Floris/status/921170022021545984)
+
 "Someone tell me how to bypass cloud flare so I can add..." by @[Shh_Its_Raghav](https://twitter.com/Shh_Its_Raghav/status/967888191201185793)
 
 "Today I learned that Cloudflare is doing more to censor the internet than the Great Firewall of China" by @[pabloduboue](https://twitter.com/pabloduboue/status/682394633641549829)
@@ -926,6 +930,8 @@ Disqualify:
 "Please unblock my IP address. I’m having to enter CAPTCHA for every website I visit" by @[itixx](https://twitter.com/itixx/status/974463968269033472)
 
 "Receiving a blocked ip error from cloudflare, why is that happening, can you unblock this ip? We never entered any wrong data" by @[entequak](https://twitter.com/entequak/status/906125031599722496)
+
+"Can #cloudflare fix their mail.... All mail from that domain is flagged as spam by gmail" by @[miekg](https://twitter.com/miekg/status/712769672408612864)
 
 "Please, unblock me on x. My ip is: x. It's because i'm using proxy." by @[S60Team](https://twitter.com/S60Team/status/789740374810095616)
 
