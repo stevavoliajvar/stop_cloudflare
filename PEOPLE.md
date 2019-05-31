@@ -67,6 +67,8 @@ Disqualify:
 
 "[Stay away from CloudFlare](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html)" by [Unix Sheikh](http://www.unixsheikh.com/)
 
+"[Cloudflare and Spamhaus](https://wordtothewise.com/2012/07/cloudflare-and-spamhaus/)" by [laura](https://wordtothewise.com/author/laura/)
+
 "[Support End-to-End Encryption on the Web](https://www.wordfence.com/blog/2017/03/support-end-to-end-encryption/)" by [Mark Maunder](https://www.wordfence.com/)
 
 "[Cloudflare发布针对IPFS的Gateway](https://www.jianshu.com/p/8a9cb8065f4a)" by [幸运排骨虾](https://www.jianshu.com/u/c3c0e9748845)
