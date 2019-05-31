@@ -1072,6 +1072,8 @@ Disqualify:
 
 ######  Mastodon
 
+"No deja de llamar la atencion, que la inmensa mayoria de las instancias del #fediverso usen #cloudflare, el PEOR enemigo de la #privacidad y el #anonimato. ¿Sabian que cloudflare considera a #Tor una importante fuente de ataques DDoS, cuando no existen estudios que lo demuestren?" by @[rtfm](https://ieji.de/@rtfm/102177593596150087)
+
 "So that's the new level of #Cloudflare blocks on torproject? I thought things were supposedly being fixed. Get your shit together, Cloudflare" by @[shiro](https://chaos.social/@shiro/102169210470724880)
 
 "someone is trolling by trying to sign me up to cloudflare with my contact mails, thats creative?" by @[SolSoCoG](https://ieji.de/@SolSoCoG/102149695419969529)
