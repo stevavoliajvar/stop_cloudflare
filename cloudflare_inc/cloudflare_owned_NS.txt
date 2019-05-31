@@ -274,6 +274,7 @@ micah.ns.cloudflare.com
 michelle.ns.cloudflare.com
 miki.ns.cloudflare.com
 miles.ns.cloudflare.com
+milky.ns.cloudflare.com
 mimi.ns.cloudflare.com
 mira.ns.cloudflare.com
 mitch.ns.cloudflare.com
@@ -298,6 +299,11 @@ nola.ns.cloudflare.com
 nora.ns.cloudflare.com
 norm.ns.cloudflare.com
 norman.ns.cloudflare.com
+ns1.linode.com
+ns2.linode.com
+ns3.linode.com
+ns4.linode.com
+ns5.linode.com
 olga.ns.cloudflare.com
 oswald.ns.cloudflare.com
 owen.ns.cloudflare.com
@@ -354,6 +360,7 @@ terry.ns.cloudflare.com
 tess.ns.cloudflare.com
 theo.ns.cloudflare.com
 thomas.ns.cloudflare.com
+thor.ns.cloudflare.com
 tia.ns.cloudflare.com
 tim.ns.cloudflare.com
 tina.ns.cloudflare.com
@@ -390,8 +397,3 @@ zeus.ns.cloudflare.com
 zita.ns.cloudflare.com
 zod.ns.cloudflare.com
 zoe.ns.cloudflare.com
-ns1.linode.com
-ns2.linode.com
-ns3.linode.com
-ns4.linode.com
-ns5.linode.com
