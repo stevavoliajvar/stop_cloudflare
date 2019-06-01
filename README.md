@@ -12,7 +12,7 @@ Take a look at the second image posted below. You will think Cloudflare block _o
 
 ---
 
-![](image/cloudflaredearuser.png)
+![](image/cloudflaredearuser.jpg)
 ![](image/howcfwork.jpg)
 ![](image/usershoulddecide.jpg)
 
