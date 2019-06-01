@@ -116076,7 +116076,6 @@ linux.ms
 linux.org
 linux.org.pk
 linux.ovh
-linux.pizza
 linux.rehab
 linux.sydney
 linux.tips
