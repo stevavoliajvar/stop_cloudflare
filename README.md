@@ -216,7 +216,7 @@ Also see [Frequently Asked Questions](faq.md).
 
 * Proofread [Jeff's writing](article.txt)
 
-* ![](image/feed.png) [RSS feed](https://masto.nixnet.xyz/users/crimeflare.rss),  ![](image/mstdn.jpg) [crimeflare@masto.nixnet.xyz](https://masto.nixnet.xyz/@crimeflare)
+* [RSS feed](https://masto.nixnet.xyz/users/crimeflare.rss),  [crimeflare@masto.nixnet.xyz](https://masto.nixnet.xyz/@crimeflare)
 
 
 ![WTF](image/wtfcf.jpg)
