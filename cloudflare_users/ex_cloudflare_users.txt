@@ -1,1 +1,2 @@
+linux.pizza    https://social.linux.pizza/@admin/102189393483894910
 privacytools.io    It took 3 years to convince him to move off Cloudflare.
