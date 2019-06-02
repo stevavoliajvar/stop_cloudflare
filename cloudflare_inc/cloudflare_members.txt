@@ -9,8 +9,16 @@ Justin Paine | Director of Trust & Safety | https://twitter.com/xxdesmus https:/
 John Graham-Cumming | Chief Technology Officer | https://twitter.com/jgrahamc https://jgc.org/
 Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue  pat@cloudflare.com
 Ryan Knight | Community | https://twitter.com/Yank https://freebaxter.com/
+Suzanne Aldrich | Solutions Engineer Team Lead | https://twitter.com/SuzanneAldrich
 
 Rita Kozlov | Employee | https://twitter.com/ritakozlov_  rita@cloudflare.com
 Nick Sullivan | Employee | https://twitter.com/grittygrease  nick@cloudflare.com
 Filippo Valsorda | Employee | https://twitter.com/filosottile https://github.com/FiloSottile  filippo@cloudflare.com
 George Tankersley | Employee | https://twitter.com/gtank__ https://blog.gtank.cc/  george.tankersley@cloudflare.com
+Sam Rhea | Employee | https://twitter.com/LakeAustinBlvd  srhea@cloudflare.com
+Patrick Meenan | Employee | https://twitter.com/patmeenan
+
+
+Ex-employee:
+Yichun Zhang (章亦春) | https://twitter.com/agentzh  agentzh@gmail.com  yichun@openresty.com
+Tim Strazzere | https://twitter.com/timstrazz https://rednaga.io/
