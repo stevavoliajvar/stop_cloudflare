@@ -273,6 +273,10 @@ Disqualify:
 
 "One thing that I take from this that it is a privacy invasion from a European point of view, while many Americans see it as an improvement. That makes a lot if sense, I trust my local ISP more than Cloudflare or any US entity." by @[reykfloeter](https://twitter.com/reykfloeter/status/1075115187223564290)
 
+"This has to be a fucking joke eastdakota. Yesterday was the year anniversary that AssemblyFour was kicked from Cloudflare, we received this e-mail from a sales person who did no research at all and when I called was quite shocked to hear we were an escort directory." by @[Zemmiph0bia](https://twitter.com/Zemmiph0bia/status/1118968501408944128)
+
+"Cloudflare employees don't know about their own policies or past." by @[](https://twitter.com/ThisIsMissEm/status/1118989557960249344)
+
 "I know US-based people who cheer for Cloudflare DoH and centralized DNS. I can understand that from their point of view if it becomes the lesser evil. But we don’t have the same Internet everywhere. What is good for them is bad for us and Mozilla should respect all their users." by @[reykfloeter](https://twitter.com/reykfloeter/status/1075115190067347457)
 
 "Matthew Prince, CEO of Cloudflare, has given me ZERO reasons to ever trust him over the years. I have used Cloudflare for their analytics tools which are very nice, but do not and will not place all my eggs in their basket. Nor should anyone." by @[b_mcnett](https://twitter.com/b_mcnett/status/1075274228579098624)
