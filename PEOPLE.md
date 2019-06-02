@@ -205,6 +205,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Issue discovered. The Cloudflare DNS (1.1.1.1) seems to make it fail. Why would a DNS service block file download is a curious issue." by @[bozhobg](https://twitter.com/bozhobg/status/1134767961103917056)
+
 "What’s next, people start trusting a company like Cloudflare to VPN their DNS traffic?" by @[reykfloeter](https://twitter.com/reykfloeter/status/1134432061710839809)
 
 "I lost faith in firefox when they sold out their DNS resolution to Cloudflare" by @[peter_szilagyi](https://twitter.com/peter_szilagyi/status/1134356975729426432)
