@@ -97,11 +97,11 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
-- Do you need DNS server? Can't set up your own server? Then how about [Dyn.com](https://dyn.com/dns/), [Hurricane Electric Free DNS](https://dns.he.net/) or [this](https://freedns.afraid.org/)?
+- Do you need DNS server? Can't set up your own server? Then how about [1984 FreeDNS](https://www.1984hosting.com/), [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/) or [this](https://freedns.afraid.org/)?
 
-- Looking for hosting service? "Free" only? Well, [how about this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
+- Looking for hosting service? "Free" only? Well, how about [this](https://hosting.danwin1210.me/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
 
-- Are you using "cloudflare-ipfs.com"? Do you know [Cloudflare IPFS is bad](https://ieji.de/@crimeflare/101779952797884218)?
+- Are you using "cloudflare-ipfs.com"? Do you know [Cloudflare IPFS is bad](PEOPLE.md)?
 
 - Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
 
