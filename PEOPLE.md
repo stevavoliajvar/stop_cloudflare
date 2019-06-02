@@ -1059,7 +1059,11 @@ Disqualify:
 
 "Why am I unable to get past your home page? Few attempts, not even captcha loads...says 'attention required Cloudflare'" by @[uxgravy](https://twitter.com/uxgravy/status/1117395094041243651)
 
+"If i ever meet a cloudflare employee in real life, they are going to get a finger in the eye" by @[dcuthbert](https://twitter.com/dcuthbert/status/685127882776129537)
+
 "Hey i'm seeing this attention required again and again on the same website after I do the captcha." by @[rambokkisa](https://twitter.com/rambokkisa/status/725945637070495745)
+
+"torproject users in SF should organize a protest outside cloudflare's office to demand its employees solve a few captchas before entering" by @[wiretapped](https://twitter.com/wiretapped/status/512988526544424960)
 
 "Why is the CloudFlare memory leak bug not getting more attention?! It's potentially worse than HeartBleed." by @[withgallantry](https://twitter.com/withgallantry/status/836182424522539009)
 
