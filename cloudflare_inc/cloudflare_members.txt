@@ -1,13 +1,14 @@
 format: name here | title | URL
 
 
-Matthew Prince | CEO | https://twitter.com/eastdakota matthew@cloudflare.com
+Matthew Prince | CEO | https://twitter.com/eastdakota  matthew@cloudflare.com
 Michelle Zatlyn | founder | https://twitter.com/zatlyn
 Lee Holloway | founder | https://twitter.com/icqheretic
 
 Justin Paine | Director of Trust & Safety | https://twitter.com/xxdesmus https://www.linkedin.com/in/justinpaine
 
-Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue pat@cloudflare.com
+Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue  pat@cloudflare.com
 Ryan Knight | Community | https://twitter.com/Yank https://freebaxter.com/
 
-Rita Kozlov‏ | Employee | https://twitter.com/ritakozlov_ rita@cloudflare.com
+Rita Kozlov‏ | Employee | https://twitter.com/ritakozlov_  rita@cloudflare.com
+Nick Sullivan | Employee | https://twitter.com/grittygrease  nick@cloudflare.com
