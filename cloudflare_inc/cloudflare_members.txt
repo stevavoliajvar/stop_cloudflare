@@ -10,5 +10,7 @@ Justin Paine | Director of Trust & Safety | https://twitter.com/xxdesmus https:/
 Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue  pat@cloudflare.com
 Ryan Knight | Community | https://twitter.com/Yank https://freebaxter.com/
 
-Rita Kozlov‏ | Employee | https://twitter.com/ritakozlov_  rita@cloudflare.com
+Rita Kozlov | Employee | https://twitter.com/ritakozlov_  rita@cloudflare.com
 Nick Sullivan | Employee | https://twitter.com/grittygrease  nick@cloudflare.com
+Filippo Valsorda | Employee | https://twitter.com/filosottile https://github.com/FiloSottile  filippo@cloudflare.com
+George Tankersley | Employee | https://twitter.com/gtank__ https://blog.gtank.cc/  george.tankersley@cloudflare.com
