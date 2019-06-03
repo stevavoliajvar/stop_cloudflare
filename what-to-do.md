@@ -85,7 +85,7 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 ![](image/word_cloudflarefree.jpg)
 
-- Do not use Cloudflare solution.  You can do better than that, *right*? Here's how to [removing subscriptions, plans, domains, or accounts](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts).
+- Do not use Cloudflare solution.  You can do better than that, *right*? Here's how to [remove Cloudflare subscriptions, plans, domains, or accounts](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts).
 
 - Want more customers? You know what to do. Hint is "above line".
 
