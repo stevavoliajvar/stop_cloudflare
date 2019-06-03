@@ -17,7 +17,7 @@ Filippo Valsorda | Employee | https://twitter.com/filosottile https://github.com
 George Tankersley | Employee | https://twitter.com/gtank__ https://blog.gtank.cc/  george.tankersley@cloudflare.com
 Sam Rhea | Employee | https://twitter.com/LakeAustinBlvd  srhea@cloudflare.com
 Patrick Meenan | Employee | https://twitter.com/patmeenan
-
+Zack Bloom | Employee | https://twitter.com/zackbloom https://github.com/zackbloom  zackbloom@gmail.com
 
 Ex-employee:
 Yichun Zhang (章亦春) | https://twitter.com/agentzh  agentzh@gmail.com  yichun@openresty.com
