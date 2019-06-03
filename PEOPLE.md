@@ -209,6 +209,10 @@ Disqualify:
 
 "BTW hat Cloudflare einen riesigen Nachteil: Ist bei Verwendung von Tor durch unlösbare Captchas unbrauchbar. Man kann die Seite nicht anonym abrufen. Kann nach dieser DDOS Attacke zwar erwünscht sein, jedoch als Tor Nutzer, der einfach anonym ins Netz will, ziemlich ärgerlich." by @[schurlbaer](https://twitter.com/schurlbaer/status/1134208379650527233)
 
+"من اومدم مال یکیو بدم حالا، این cloudflare اونقد به torم گیر داد و سایته نیومد که بیخیال شدم :)" by @[_alitou](https://twitter.com/_alitou/status/1132019070235287553)
+
+"hmmm, when using brave in their AnonTorNetwork private window, accessing a Cloudflare site is often google (javascript) #captcha'd." by @[phy0x](https://twitter.com/phy0x/status/1131322715741315072)
+
 "cloudflare AND google having issues right now apparently" by @[widdr](https://twitter.com/widdr/status/1135315287308263429)
 
 "Can't access to article almost likely that the captcha/cloudflare is blocking it" by @[yajount](https://twitter.com/yajount/status/1134586590272118784)
