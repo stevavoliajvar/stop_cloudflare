@@ -252,4 +252,7 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 ![](image/omsirl.jpg)
 ![](image/whydoihavetosolveacaptcha.jpg)
 ![](image/fixthedamn.jpg)
+![](image/imnotarobot.jpg)
+
+
 ![What did YOU do to stop CF?](image/stopcf.jpg)
