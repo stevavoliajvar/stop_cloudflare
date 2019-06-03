@@ -205,6 +205,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Решил я как-то сделать выходную ноду Tor. Ну чтобы помочь людям анонимизировать свой трафик, а для себя возможность просматривать HTTP трафик. Меня через 4 часа заблокировали абсолютно на всех сайтах, где стоит CloudFlare. Все такие не стоит ставить exit-node Tor дома." by @[gashish1n](https://twitter.com/gashish1n/status/1134906045774647296)
+
 "cloudflare AND google having issues right now apparently" by @[widdr](https://twitter.com/widdr/status/1135315287308263429)
 
 "Can't access to article almost likely that the captcha/cloudflare is blocking it" by @[yajount](https://twitter.com/yajount/status/1134586590272118784)
