@@ -205,6 +205,16 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"cloudflare AND google having issues right now apparently" by @[widdr](https://twitter.com/widdr/status/1135315287308263429)
+
+"Can't access to article almost likely that the captcha/cloudflare is blocking it" by @[yajount](https://twitter.com/yajount/status/1134586590272118784)
+
+"Can’t access Destiny 2 from the UK and then when I try and check the status on help.bungie.net  I’m greeted with a 522 CloudFlare page....you guys got some Vex loose in your servers?" by @[JustYeenThings](https://twitter.com/JustYeenThings/status/1135158050778730497)
+
+"shit's broke from Canada, from VPN working. Cloudflare issues?" by @[_RobertLowe](https://twitter.com/_RobertLowe/status/1135263884447768577)
+
+"cloudflare having a hiccup or why are a lot of websites very very slow right now" by @[faint_visions](https://twitter.com/faint_visions/status/1135258338336358401)
+
 "Issue discovered. The Cloudflare DNS (1.1.1.1) seems to make it fail. Why would a DNS service block file download is a curious issue." by @[bozhobg](https://twitter.com/bozhobg/status/1134767961103917056)
 
 "What’s next, people start trusting a company like Cloudflare to VPN their DNS traffic?" by @[reykfloeter](https://twitter.com/reykfloeter/status/1134432061710839809)
