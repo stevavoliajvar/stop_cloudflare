@@ -49,7 +49,7 @@ Disqualify:
 
 ######  Blog
 
-(Just don't add Medium.com articles. It's cloudflared. It doesn't matter he/she write great article)
+(Just don't add Medium.com articles. It's cloudflared. It doesn't matter they write a great article)
 
 "[I don’t trust Cloudflare’s 1.1.1.1 App and Warp VPN](https://blog.kareldonk.com/i-dont-trust-cloudflares-1-1-1-1-app-and-warp-vpn/)" by [Karel Donk](https://blog.kareldonk.com/)
 
