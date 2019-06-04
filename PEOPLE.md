@@ -205,6 +205,14 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Letsencrypt DNS 方式更新证书，托管在 Cloudflare 的 DNS 更改后一直无效。以为是国内网络原因，后来发现赶上了 Cloudflare 的 DNS 故障" by @[yanchuan](https://twitter.com/yanchuan/status/1135824141624332290)
+
+"Wer glaubt, amerikanische Konzerne wie #Google oder #Facebook wären die größten Dantengangster, der kennt #Cloudflare noch nicht." by @[ASteinBS](https://twitter.com/ASteinBS/status/1135807583871221760)
+
+"*shakes fist furiously at Cloudflare* Stop screwing up our software!" by @[Supermathie](https://twitter.com/Supermathie/status/1133250297760014336)
+
+"It is time to call out Cloudflare and stop using their services. " by @[dittigas](https://twitter.com/dittigas/status/1131112858413076482)
+
 "El mundo se va a acabar. Ayer se cayó Google y hoy hay problemas con Cloudflare" by @[Cangreja533](https://twitter.com/Cangreja533/status/1135678809687154689)
 
 "our sites are having issues, loading your error 502, and even the Enterprise Support interface is giving us problems, so we cannot even create a ticket." by @[andevco](https://twitter.com/andevco/status/1135682386853842944)
