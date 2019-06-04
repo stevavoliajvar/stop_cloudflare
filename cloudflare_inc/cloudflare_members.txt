@@ -10,7 +10,7 @@ John Graham-Cumming | Chief Technology Officer | https://twitter.com/jgrahamc ht
 Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue  pat@cloudflare.com
 Ryan Knight | Community | https://twitter.com/Yank https://freebaxter.com/
 Suzanne Aldrich | Solutions Engineer Team Lead | https://twitter.com/SuzanneAldrich
-
+Armando Faz | Cryptography Engineer | https://twitter.com/armfazh  armfazh@cloudflare.com
 Rita Kozlov | Employee | https://twitter.com/ritakozlov_  rita@cloudflare.com
 Nick Sullivan | Employee | https://twitter.com/grittygrease  nick@cloudflare.com
 Filippo Valsorda | Employee | https://twitter.com/filosottile https://github.com/FiloSottile  filippo@cloudflare.com
@@ -18,6 +18,12 @@ George Tankersley | Employee | https://twitter.com/gtank__ https://blog.gtank.cc
 Sam Rhea | Employee | https://twitter.com/LakeAustinBlvd  srhea@cloudflare.com
 Patrick Meenan | Employee | https://twitter.com/patmeenan
 Zack Bloom | Employee | https://twitter.com/zackbloom https://github.com/zackbloom  zackbloom@gmail.com
+Kas Perch | Developer | https://twitter.com/nodebotanist twitch.tv/nodebotanist
+Sven Sauleau | Developer | https://twitter.com/svensauleau https://sauleau.com/  sven@sauleau.com  sven@cloudflare.com
+Ashley Lewis | Developer | alewis@cloudflare.com
+Ashley Williams | Employee | ashley666ashley@gmail.com
+Kristian Freeman | Developer | https://twitter.com/imkmf https://www.signalnerve.com/ https://github.com/signalnerve  kristian@kristianfreeman.com
+
 
 Ex-employee:
 Yichun Zhang (章亦春) | https://twitter.com/agentzh  agentzh@gmail.com  yichun@openresty.com
