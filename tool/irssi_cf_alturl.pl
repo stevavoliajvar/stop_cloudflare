@@ -230,9 +230,7 @@ sub GotUrl {
                       'https://searxes.eu.org/collab/open/ismitm.php?f='
                       . $fqdn;
                     $browser = LWP::UserAgent->new;
-                    $browser->agent(
-"Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0"
-                    );
+                    $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0");
                     $response = $browser->get($url);
                     $answer   = $response->content;
                     if ( $answer eq '[true,true]' ) {
@@ -250,7 +248,7 @@ sub GotUrl {
                         deb("$target Creating Short Onion for $myurl");
                         $url = 'https://url.danwin1210.me/?i=new&url=' . $myurl;
                         $browser = LWP::UserAgent->new;
-                        $browser->agent("cloudflare-tor");
+                        $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0");
                         $response = $browser->get($url);
                         $answer   = $response->content;
                         if (
@@ -272,8 +270,7 @@ sub GotUrl {
                         $url =
                           'https://ux.nu/api/short?format=plain&url=' . $myurl;
                         $browser = LWP::UserAgent->new;
-                        $browser->agent(
-                            "cloudflare-tor (Thank you for your service)");
+                        $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0");
                         $response = $browser->get($url);
                         $answer   = $response->content;
                         if ( index( $answer, 'https://ux.nu/' ) == 0 ) {
