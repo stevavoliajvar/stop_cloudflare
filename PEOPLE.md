@@ -1138,6 +1138,8 @@ Disqualify:
 
 ######  Mastodon
 
+"Ich wollte mal wieder bei LiberaPay vorbeischauen, dann springt mir #cloudflare entgegen. PayPal, Stripe und nun Cloudflare. Ein einst vielversprechendes Projekt schafft sich selbst ab." by @[kuketzblog](https://social.tchncs.de/@kuketzblog/102228512812286306)
+
 "It makes it really hard for us Tor-users to use liberapay actually. We do know about "Under Attack" mode already, and I would like you to reconsider and not use cloudflare :)" by @[selea](https://social.linux.pizza/@selea/102208159022447946)
 
 "What the fuck lowtechmagazine, you pull your fancy schmancy "oh were all low-bandwith and solar powered", but then you're behind FUCKING Cloudflare, banning ips (not even a captcha). Where's the low tech solarpunk shit huh, liberal hippie garbage" by @[f0x](https://social.pixie.town/@f0x/102204802211287233)
