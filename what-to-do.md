@@ -233,11 +233,13 @@ Let's talk about _other software's privacy_...
 
 - Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618) and they [have](https://www.reddit.com/r/linux/comments/9hh3gc/to_unsuspecting_admins_firefox_continues_to_send/) [too](https://mashable.com/2017/12/16/mr-robot-looking-glass-mozilla-firefox-backlash/) [many](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) [problems](https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/comment-page-6/#comment-226187).
 
+- "Firefox Focus"(Firefox Klar) [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743).
+
 - PaleMoon developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097).
 
 - Waterfox actively using [Cloudflare on their servers](https://www.digwebinterface.com/?hostnames=www.waterfoxproject.org&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=) and their software have [severe "phones home" problem](https://spyware.neocities.org/articles/waterfox.html).
 
-- Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html).
+- Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html). Google [profiles your activity](https://spyware.neocities.org/articles/chrome.html).
 
 - SRWare Iron make too many [phones home connection](https://spyware.neocities.org/articles/iron.html). It also connect to google domains.
 
