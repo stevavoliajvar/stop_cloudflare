@@ -205,6 +205,18 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I've ranted about this before, but I will again - Web devs: stop putting your APIs behind Cloudflare! Cloudflare's main selling point is to prevent automated access to web sites, and automated access is *literally the point of an API!* Think, for pity's sake!" by @[Mister_Flarpy](https://twitter.com/Mister_Flarpy/status/1137708123689553921)
+
+"Can't access to article almost likely that the captcha/cloudflare is blocking it" by @[yajount](https://twitter.com/yajount/status/1134586590272118784)
+
+"Your cloudflare DDOS software is blocking site entry" by @[PDAcquaviva](https://twitter.com/PDAcquaviva/status/1136341633920884736)
+
+"Seems the same is happening to me (Norway) - it seems something on Cloudflare is blocking Scandinavian IPs for your site?" by @[Junkfoodjunkie](https://twitter.com/Junkfoodjunkie/status/1136477534076526593)
+
+"Cloudflare not promoting fare trade. The last policy is blocking mobile websites like technology online stores to avoid posible purchases" by @[AndyAgraciano](https://twitter.com/AndyAgraciano/status/1138223592687263744)
+
+"If you submit too fast cloudflare will block you." by @[TomMcCourt_](https://twitter.com/TomMcCourt_/status/1135899828729319424)
+
 "Letsencrypt DNS 方式更新证书，托管在 Cloudflare 的 DNS 更改后一直无效。以为是国内网络原因，后来发现赶上了 Cloudflare 的 DNS 故障" by @[yanchuan](https://twitter.com/yanchuan/status/1135824141624332290)
 
 "Wer glaubt, amerikanische Konzerne wie #Google oder #Facebook wären die größten Dantengangster, der kennt #Cloudflare noch nicht." by @[ASteinBS](https://twitter.com/ASteinBS/status/1135807583871221760)
