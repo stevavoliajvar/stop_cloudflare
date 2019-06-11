@@ -93,7 +93,9 @@ If Cloudflare leak your information, it's not our fault. [*]
 
 - Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems).
 
-- Using Cloudflare to proxy your "API service" will harm your customer. A customer called you and said "I can't use your API anymore", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
+- Using Cloudflare to proxy your "API service", "Client(software) update server" or "RSS feed" will harm your customer. A customer called you and said "I can't use your API anymore", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
+
+![](image/rssfeedovercf.jpg)
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
