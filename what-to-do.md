@@ -201,7 +201,17 @@ die();
 
 - If you use Debian GNU/Linux, or any derivative, subscribe to [bug #831835](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
 
-- Always recommend [Tor Browser](https://www.torproject.org/) for desktop and [Tor Browser for Android](https://www.torproject.org/download/#android) for smartphone. Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect". There is no 100% secure nor 100% private on the internet and technology.
+- Always recommend these browsers.
+
+| Name | Developer | Support | Comment |
+| -------- | -------- | -------- | -------- |
+| [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux) |
+| [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android |
+| [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS |
+| [Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | Eloston | [Link](https://github.com/Eloston/ungoogled-chromium/issues) | PC (Win, Mac, Linux)  _Not Tor_ |
+
+Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect".
+There is no 100% secure nor 100% private on the internet and technology.
 
 - Don't want to use "Tor"? You can use Tor Browser without Tor, and this is the best option for you.
 
@@ -221,7 +231,7 @@ Let's talk about _other software's privacy_...
 
 - Remember, Mozilla is [using Cloudflare service](https://www.robtex.com/dns-lookup/www.mozilla.org). They're also using [Cloudflare's DNS service on their product](https://www.theregister.co.uk/2018/03/21/mozilla_testing_dns_encryption/) D'oh!
 
-- Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618).
+- Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618) and they [have](https://www.reddit.com/r/linux/comments/9hh3gc/to_unsuspecting_admins_firefox_continues_to_send/) [too](https://mashable.com/2017/12/16/mr-robot-looking-glass-mozilla-firefox-backlash/) [many](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) [problems](https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/comment-page-6/#comment-226187).
 
 - PaleMoon developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097).
 
