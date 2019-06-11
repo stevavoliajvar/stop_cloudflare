@@ -227,6 +227,8 @@ Disqualify:
 
 "El mundo se va a acabar. Ayer se cayó Google y hoy hay problemas con Cloudflare" by @[Cangreja533](https://twitter.com/Cangreja533/status/1135678809687154689)
 
+"if anyone is having problems with the latest version of twitter misbehaving on iOS, it’s the Cloudflare DNS app that’s the culprit. Remove the app, problem solved." by @[AhsanDeliri](https://twitter.com/AhsanDeliri/status/1137162786621075456)
+
 "our sites are having issues, loading your error 502, and even the Enterprise Support interface is giving us problems, so we cannot even create a ticket." by @[andevco](https://twitter.com/andevco/status/1135682386853842944)
 
 "Решил я как-то сделать выходную ноду Tor. Ну чтобы помочь людям анонимизировать свой трафик, а для себя возможность просматривать HTTP трафик. Меня через 4 часа заблокировали абсолютно на всех сайтах, где стоит CloudFlare. Все такие не стоит ставить exit-node Tor дома." by @[gashish1n](https://twitter.com/gashish1n/status/1134906045774647296)
