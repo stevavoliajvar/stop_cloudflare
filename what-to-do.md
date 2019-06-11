@@ -249,7 +249,9 @@ Let's talk about _other software's privacy_...
 
 - Vivaldi [does not respect your privacy](https://spyware.neocities.org/articles/vivaldi.html).
 
-Therefore we recommend "Tor Browser" only. Nothing else.
+- Opera spyware level: [Extremely High](https://spyware.neocities.org/articles/opera.html)
+
+Therefore we recommend above table only. Nothing else.
 
 ------------
 
