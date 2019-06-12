@@ -1,7 +1,7 @@
 {
    "manifest_version": 2,
    "name": "Are links vulnerable to MITM attack?",
-   "version": "1.0.6",
+   "version": "1.0.7",
    "minimum_chrome_version": "60",
    "homepage_url": "https://notabug.org/crimeflare/cloudflare-tor",
    "author": "Maslin Bossé",
