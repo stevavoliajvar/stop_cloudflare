@@ -1,17 +1,15 @@
 let apiurl = 'https://searxes.eu.org/collab/open/ismitm.php';
-let TORapiurl = 'http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/ismitm.php';
 
 fetch('http://xxf4en4djo7hhvatax2g3lvj2qgvbwi4yeyyzwpo25zcog4ewhsbrdyd.onion/ok.php', {
 	method: 'GET',
 	mode: 'cors'
 }).then(r => r.text()).then(r => {
 	if (r == 'ok') {
-		apiurl = TORapiurl;
+		apiurl = 'http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/ismitm.php';
 	}
 }).catch(() => {});
 
 function is_infected(f) {
-	console.log(f);
 	return new Promise((g, b) => {
 		fetch(apiurl, {
 			method: 'POST',
@@ -49,20 +47,33 @@ function i_already_know_you(f) {
 	});
 }
 
-function i_remember_you(f, t) {
-	chrome.storage.local.set({
-		[f]: ((t) ? 'y' : 'n')
-	});
-}
-
-function clear_cache_week() {
+function clear_cache_2w() {
 	chrome.storage.local.clear();
+	chrome.storage.local.set({
+		'lastU': Math.round((new Date()).getTime() / 1000)
+	});
 	setTimeout(function () {
-		clear_cache();
-	}, 604800000);
+		clear_cache_2w();
+	}, 1209600000);
 }
 
-clear_cache_week();
+chrome.storage.local.get('lastxU', (g) => {
+	if (g.lastU) {
+		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1209600) {
+			chrome.storage.local.clear();
+			chrome.storage.local.set({
+				'lastU': Math.round((new Date()).getTime() / 1000)
+			});
+		}
+	} else {
+		chrome.storage.local.set({
+			'lastU': Math.round((new Date()).getTime() / 1000)
+		});
+	}
+	setTimeout(function () {
+		clear_cache_2w();
+	}, 1209600000);
+});
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 	if (request) {
@@ -72,7 +83,9 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 			}
 			if (r == 0) {
 				is_infected(request).then((a) => {
-					i_remember_you(request, a);
+					chrome.storage.local.set({
+						[request]: ((a) ? 'y' : 'n')
+					});
 					chrome.tabs.sendMessage(sender.tab.id, [request, a]);
 				}, () => {
 					chrome.tabs.sendMessage(sender.tab.id, [request, false]);
