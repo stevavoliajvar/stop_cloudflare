@@ -1,12 +1,11 @@
 let apiurl = 'https://searxes.eu.org/collab/open/ismitm.php';
-let TORapiurl = 'http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/ismitm.php';
 
 fetch('http://xxf4en4djo7hhvatax2g3lvj2qgvbwi4yeyyzwpo25zcog4ewhsbrdyd.onion/ok.php', {
 	method: 'GET',
 	mode: 'cors'
 }).then(r => r.text()).then(r => {
 	if (r == 'ok') {
-		apiurl = TORapiurl;
+		apiurl = 'http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/ismitm.php';
 	}
 }).catch(() => {});
 
@@ -50,20 +49,33 @@ function i_already_know_you(f) {
 	});
 }
 
-function i_remember_you(f, t) {
-	browser.storage.local.set({
-		[f]: ((t) ? 'y' : 'n')
-	});
-}
-
-function clear_cache_week() {
+function clear_cache_2w() {
 	browser.storage.local.clear();
+	browser.storage.local.set({
+		'lastU': Math.round((new Date()).getTime() / 1000)
+	});
 	setTimeout(function () {
-		clear_cache_week();
-	}, 604800000);
+		clear_cache_2w();
+	}, 1209600000);
 }
 
-clear_cache_week();
+browser.storage.local.get('lastxU').then(g => {
+	if (g.lastU) {
+		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1209600) {
+			browser.storage.local.clear();
+			browser.storage.local.set({
+				'lastU': Math.round((new Date()).getTime() / 1000)
+			});
+		}
+	} else {
+		browser.storage.local.set({
+			'lastU': Math.round((new Date()).getTime() / 1000)
+		});
+	}
+	setTimeout(function () {
+		clear_cache_2w();
+	}, 1209600000);
+});
 
 browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
 	if (request && sender) {
@@ -73,7 +85,9 @@ browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
 			}
 			if (r == 0) {
 				is_infected(request).then((a) => {
-					i_remember_you(request, a);
+					browser.storage.local.set({
+						[request]: ((a) ? 'y' : 'n')
+					});
 					browser.tabs.sendMessage(sender.tab.id, [request, a]);
 				}, () => {
 					browser.tabs.sendMessage(sender.tab.id, [request, false]);

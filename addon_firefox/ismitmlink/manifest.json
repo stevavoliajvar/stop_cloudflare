@@ -2,7 +2,7 @@
    "manifest_version": 2,
    "name": "Are links vulnerable to MITM attack?",
    "description": "Scan FQDN using Searxes' API",
-   "version": "1.0.7",
+   "version": "1.0.8",
    "homepage_url": "https://notabug.org/crimeflare/cloudflare-tor",
    "author": "Maslin Bossé",
    "permissions": [
