@@ -205,6 +205,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I can’t access your website for support, Cloudflare shows error message. Some websites are opening, others are not." by @[Marcel_Perform](https://twitter.com/Marcel_Perform/status/1138707296605876224)
+
+"I use TOR and CloudFlare tends to unilaterally block Tor exit nodes. It's a problematic security strategy, but CloudFlare seems unwilling to reevaluate." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1138906244641644544)
+
 "I can't seem to access your site. It's been like this for a few days now. I just keep getting the cloudflare page." by @[TacticalGrace_](https://twitter.com/TacticalGrace_/status/1138407485642039298)
 
 "I've ranted about this before, but I will again - Web devs: stop putting your APIs behind Cloudflare! Cloudflare's main selling point is to prevent automated access to web sites, and automated access is *literally the point of an API!* Think, for pity's sake!" by @[Mister_Flarpy](https://twitter.com/Mister_Flarpy/status/1137708123689553921)
