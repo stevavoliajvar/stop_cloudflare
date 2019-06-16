@@ -22,6 +22,7 @@ Kas Perch | Developer | https://twitter.com/nodebotanist twitch.tv/nodebotanist
 Sven Sauleau | Developer | https://twitter.com/svensauleau https://sauleau.com/  sven@sauleau.com  sven@cloudflare.com
 Ashley Lewis | Developer | alewis@cloudflare.com
 Ashley Williams | Employee | ashley666ashley@gmail.com
+Adam Chalmers‏ | Employee | https://twitter.com/adam_chal
 Kristian Freeman | Developer | https://twitter.com/imkmf https://www.signalnerve.com/ https://github.com/signalnerve  kristian@kristianfreeman.com
 Shannon Colin | Employee | https://twitter.com/ShannonColin1
 
