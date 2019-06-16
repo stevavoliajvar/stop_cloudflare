@@ -23,6 +23,7 @@ Sven Sauleau | Developer | https://twitter.com/svensauleau https://sauleau.com/ 
 Ashley Lewis | Developer | alewis@cloudflare.com
 Ashley Williams | Employee | ashley666ashley@gmail.com
 Kristian Freeman | Developer | https://twitter.com/imkmf https://www.signalnerve.com/ https://github.com/signalnerve  kristian@kristianfreeman.com
+Shannon Colin | Employee | https://twitter.com/ShannonColin1
 
 
 Ex-employee:
