@@ -50,6 +50,8 @@ Disqualify:
 
 "[Why Cloudflare Let an Extremist Stronghold Burn](https://www.wired.com/story/free-speech-issue-cloudflare/)" by [Steven Johnson](https://www.wired.com/author/steven-johnson/)
 
+"[Private crypto keys are accessible to Heartbleed hackers, new data shows](https://arstechnica.com/information-technology/2014/04/private-crypto-keys-are-accessible-to-heartbleed-hackers-new-data-shows/)" by [Megan Geuss](https://arstechnica.com/author/megan-geuss/)
+
 ------
 
 ######  Blog
