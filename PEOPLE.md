@@ -212,6 +212,12 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I'm unable to connect to Discord. It looks like a Cloudflare server is having trouble reaching the gateway, resulting in 522 error codes in the ws connection" by @[rsWhosdr](https://twitter.com/rsWhosdr/status/1140466980052512770)
+
+"since you use cloudflare I've been unable to use the api at all as cloudflare blocks my server ip's with a 403 :/" by @[intranix](https://twitter.com/intranix/status/1138488279844687872)
+
+"I'm unable to reach cloudflare here in NL and from my server in FR. A quick twitter search also shows some other people are experiencing it, but there's nothing on the status page?" by @[arunesh90](https://twitter.com/arunesh90/status/1138081519422115841)
+
 "I hear a lot of people say nice things about Cloudflare. You know what I never hear them mention? They never mention how Cloudflare pounds your inbox with 3-4 spam emails a day. Just one company. 3-4. A day." by @[grimmtooth](https://twitter.com/grimmtooth/status/1133724162713935872)
 
 "Appears Cloudflare is blocking DNS requests for your WiFi calling" by @[freestylecorsa](https://twitter.com/freestylecorsa/status/1140320959892787200)
