@@ -9,7 +9,7 @@ Justin Paine | Director of Trust & Safety | https://twitter.com/xxdesmus https:/
 John Graham-Cumming | Chief Technology Officer | https://twitter.com/jgrahamc https://jgc.org/
 Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue  pat@cloudflare.com
 Junade Ali | Engineer | https://twitter.com/icyapril
-Ryan Knight | Community | https://twitter.com/Yank https://freebaxter.com/
+Ryan Knight | Community | https://twitter.com/Yank https://freebaxter.com/ ryank@cloudflare.com
 Suzanne Aldrich | Solutions Engineer Team Lead | https://twitter.com/SuzanneAldrich
 Armando Faz | Cryptography Engineer | https://twitter.com/armfazh  armfazh@cloudflare.com
 Rita Kozlov | Employee | https://twitter.com/ritakozlov_  rita@cloudflare.com
