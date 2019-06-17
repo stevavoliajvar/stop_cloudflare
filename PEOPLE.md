@@ -212,6 +212,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I hear a lot of people say nice things about Cloudflare. You know what I never hear them mention? They never mention how Cloudflare pounds your inbox with 3-4 spam emails a day. Just one company. 3-4. A day." by @[grimmtooth](https://twitter.com/grimmtooth/status/1133724162713935872)
+
 "Appears Cloudflare is blocking DNS requests for your WiFi calling" by @[freestylecorsa](https://twitter.com/freestylecorsa/status/1140320959892787200)
 
 "I can’t access your website for support, Cloudflare shows error message. Some websites are opening, others are not." by @[Marcel_Perform](https://twitter.com/Marcel_Perform/status/1138707296605876224)
