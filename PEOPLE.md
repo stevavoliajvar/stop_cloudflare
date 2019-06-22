@@ -212,6 +212,14 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Why does the CopyrightOffice use Cloudflare?" by @[davidclowery](https://twitter.com/davidclowery/status/1142285340801208320)
+
+"So Cloudflare is offering an NTP service... Why do I care?" by @[tmclaughbos](https://twitter.com/tmclaughbos/status/1142258889447993345)
+
+"Hello why the Sayat site crashes and can you solve the problem as soon as possible" by @[QQCC0](https://twitter.com/QQCC0/status/1142178490390908938)
+
+"So a friend of mine just had their parents receive an email from K*wiFarms telling them: "it looks like your stupid spawn is finally going to kill itself. When is the funeral so we can celebrate?"" by @[loudpenitent](https://twitter.com/loudpenitent/status/1141756398260277248)
+
 "I'm unable to connect to Discord. It looks like a Cloudflare server is having trouble reaching the gateway, resulting in 522 error codes in the ws connection" by @[rsWhosdr](https://twitter.com/rsWhosdr/status/1140466980052512770)
 
 "since you use cloudflare I've been unable to use the api at all as cloudflare blocks my server ip's with a 403 :/" by @[intranix](https://twitter.com/intranix/status/1138488279844687872)
