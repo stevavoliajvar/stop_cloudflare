@@ -1163,6 +1163,14 @@ Disqualify:
 
 ######  Mastodon
 
+"they are too powerful, too big already. we dont' need to use them for time." by @[jeffcliff](https://niu.moe/@jeffcliff/102310896326359164)
+
+"#cloudflare is #proprietarysoftware. To matter matters even worse, it's centralised and attached to a political system which subjugates 100+ governments." by @[schestowitz](https://pleroma.site/objects/ec8ac84d-60c2-4001-900a-85938c18abda)
+
+"#itwire has self-immolated with #cloudflare Self-harming stupidity. Whose decision?" by @[schestowitz](https://pleroma.site/objects/e3d865f7-f161-4eae-a9d6-0764395af5bd)
+
+"oh, eine #Cloudflare erinnerung, dass ich die #DNS Server für kromonos.net auf deren einstellen soll ... What about .. NO!" by @[kromonos](https://metalhead.club/@kromonos/102297020699575415)
+
 "Ich wollte mal wieder bei LiberaPay vorbeischauen, dann springt mir #cloudflare entgegen. PayPal, Stripe und nun Cloudflare. Ein einst vielversprechendes Projekt schafft sich selbst ab." by @[kuketzblog](https://social.tchncs.de/@kuketzblog/102228512812286306)
 
 "It makes it really hard for us Tor-users to use liberapay actually. We do know about "Under Attack" mode already, and I would like you to reconsider and not use cloudflare :)" by @[selea](https://social.linux.pizza/@selea/102208159022447946)
