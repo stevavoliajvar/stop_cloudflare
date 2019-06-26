@@ -220,6 +220,28 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I still get the Captcha but when enter the code after solving it, there is no "submit" button. Cloudflare . . . is not my friend." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1138905377112776704)
+
+"how let you know i'm human ? where the CAPTCHA feature" by @[shibwei](https://twitter.com/shibwei/status/1141200007455838208)
+
+"Aha, ik kreeg deze morgen bij doorklik van google naar velt een cloudflare captcha" by @[Beatever](https://twitter.com/Beatever/status/1143119544384479232)
+
+"Trying to register a U2F token is broken as Cloudflare are serving a CAPTCHA on your API." by @[R1CH_TL](https://twitter.com/R1CH_TL/status/1136251124602888192)
+
+"Hi, I programmatically access to API from Azure. Last month, it was successful, but from this month, it requires CAPTCHA and blocks non-human access. Did you change policy?" by @[hiroto_nihilist](https://twitter.com/hiroto_nihilist/status/1137227605348720640)
+
+"we are trying to call deliveroo test api but we get an error from 'CloudFlare' - Please complete the security check to access -- can u please look into this issue .. this is now stopping sending a signal to 'sync_status' .. appreciate your help" by @[aria_zanganeh](https://twitter.com/aria_zanganeh/status/1143275297501900801)
+
+"Yesterday there was cloudflare failure that prevented access to tonnes of different services (like Discord, Crunchyroll...)." by @[KevinLi43937741](https://twitter.com/KevinLi43937741/status/1143389357748834304)
+
+"Mobile and PC users can't access #Discord due to Cloudflare outage" by @[realnewsgeek](https://twitter.com/realnewsgeek/status/1143156457598259201)
+
+"Apologies if you couldn't access our website yesterday for a few hours, some of our customers were affected by the Cloudflare outage" by @[ConstructTeam](https://twitter.com/ConstructTeam/status/1143443595623653376)
+
+"Due to global issues with cloudflare some visitors will not be able to access the site and there might be interference with using the site." by @[SellMyAppNow](https://twitter.com/SellMyAppNow/status/1143134686996246528)
+
+"No it's worldwide - you won't be able to access many websites due to the routing issues with Cloudflare." by @[BitKhoi](https://twitter.com/BitKhoi/status/1143133265836072962)
+
 "#Cloudflare is down - half of the internet simply died" by @[SpottySTC](https://twitter.com/SpottySTC/status/1143132257466511360)
 
 "Good gosh, those Cloudflare CAPTCHA are annoying as **** when using #Tor. My solution is to not use those sites. How are guys dealing with those?" by @[SageHack](https://twitter.com/SageHack/status/1140931557278015489)
