@@ -140,6 +140,12 @@ Disqualify:
 
 "[My dad is getting pop-ups from CloudFlare every time he types something into his Mozilla Firefox search/address bar and hits enter.](http://archive.is/XTRlk)" by [Yahoo! user](http://archive.is/XTRlk)
 
+"[Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351)" by [nullius](https://trac.torproject.org/projects/tor/ticket/24351)
+
+"[Issues with corporate censorship and mass surveillance](https://trac.torproject.org/projects/tor/ticket/18361)" by [ioerror](https://trac.torproject.org/projects/tor/query?status=!closed&reporter=ioerror)
+
+"[Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)" by [Anonymous](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
+
 "[The catch you're missing](https://www.reddit.com/r/Wordpress/comments/2zpq2g/cloudflare_free_plan_too_good_to_be_true/cpldjc6/)" by [cqwww](https://www.reddit.com/user/cqwww)
 
 "[How likely is it that CloudFlare is an NSA operation?](https://www.quora.com/How-likely-is-it-that-CloudFlare-is-an-NSA-operation/answer/Hamid-Sarfraz)" by quora
@@ -815,6 +821,8 @@ Disqualify:
 "It's pretty bad as half the internet is behind Cloudflare." by @[Skyfusion89](https://twitter.com/Skyfusion89/status/1101600562355859456)
 
 "Cloudflare has me blocked." by @[JacobyDave](https://twitter.com/JacobyDave/status/1095411772851474434)
+
+"too much of the web runs through CF & Google captcha, issues i raised before CF can launch MITM attacks, etc" by @[_Ashtar_Ventura](https://twitter.com/_Ashtar_Ventura/status/1045328755273723904)
 
 "People really ought to stop using/trusting cloudflare. it's a disgusting centralized morally compromised CDN." by @[drwdal](https://twitter.com/drwdal/status/1113171715234902018)
 
