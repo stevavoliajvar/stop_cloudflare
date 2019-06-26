@@ -298,6 +298,10 @@ Disqualify:
 
 "Don't use Cloudflare." by @[AnarchaWitch](https://twitter.com/AnarchaWitch/status/1119761568600862720)
 
+"CLOUDFLARE FUCK YOU" by @[Rires_Magica](https://twitter.com/Rires_Magica/status/1143129998905053185)
+
+"What the fuck is Cloudflare? Sites we visit recurrently spend hours checking browser and you with landscape face waiting, looking like a pregnant to give birth to your recurring site. CloudFlare fixes it, there's bag! This is not security, it is hopelessness!" by @[ReysDosVersos](https://twitter.com/ReysDosVersos/status/1131984678251040768)
+
 "I can’t access your website for support, Cloudflare shows error message. Some websites are opening, others are not." by @[Marcel_Perform](https://twitter.com/Marcel_Perform/status/1138707296605876224)
 
 "I use TOR and CloudFlare tends to unilaterally block Tor exit nodes. It's a problematic security strategy, but CloudFlare seems unwilling to reevaluate." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1138906244641644544)
@@ -1131,6 +1135,8 @@ Disqualify:
 "Is it normal for attempts to open your site, to be met with One more step +capcha test? or a BS speedbump?" by @[TotsTeeter](https://twitter.com/TotsTeeter/status/1061732565185261568)
 
 "Dear CloudFlare, You've some devs who're good people, but as a company you're ruining the Internet. Fuck you." by @[isislovecruft](https://twitter.com/isislovecruft/status/716383968799682560)
+
+"The VRChat client keep requesting API and get 403 Forbidden because it cannot pass Cloudflare check (since VRChat client is actually robot, not human)." by @[YFangzhou](https://twitter.com/YFangzhou/status/1118506991217889281)
 
 "Before blaming torproject for _your_ censorship—where's your data showing "abusive" traffic from Tor is higher than from non-Tor?" by @[isislovecruft](https://twitter.com/isislovecruft/status/716691471450169344)
 
