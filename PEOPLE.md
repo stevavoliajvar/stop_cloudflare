@@ -224,6 +224,8 @@ Disqualify:
 
 "how let you know i'm human ? where the CAPTCHA feature" by @[shibwei](https://twitter.com/shibwei/status/1141200007455838208)
 
+"Hey Cloudflare I don't mind going through a human check once in a while, but having me do it EVERY time I go to a new website or reload one is ridiculous. This is bad UX." by @[JohnnyFDK](https://twitter.com/JohnnyFDK/status/1138373924079767554)
+
 "Aha, ik kreeg deze morgen bij doorklik van google naar velt een cloudflare captcha" by @[Beatever](https://twitter.com/Beatever/status/1143119544384479232)
 
 "Trying to register a U2F token is broken as Cloudflare are serving a CAPTCHA on your API." by @[R1CH_TL](https://twitter.com/R1CH_TL/status/1136251124602888192)
@@ -343,6 +345,8 @@ Disqualify:
 "Oh interesting, that happened with one of my email addresses, too." by @[rixxtr](https://twitter.com/rixxtr/status/1132060363229487104)
 
 "Has anyone else had issues with #cloudflare not responding to 'abuse' and #spam complaints? I'm beginning to conclude that they actually encourage it with their technology - which is a pity." by @[thismikebray](https://twitter.com/thismikebray/status/1133748067734347776)
+
+"Cloudflare is nothing you should trust.  Also, By using a different DNS than your ISP's default, you basically give away you data to 2 different companies instead of 1." by @[6JY6ZQVYS4p7YrL](https://twitter.com/6JY6ZQVYS4p7YrL/status/1132391054165061632)
 
 "Good read on why to avoid Cloudflare, And its privacy concerns." by @[6JY6ZQVYS4p7YrL](https://twitter.com/6JY6ZQVYS4p7YrL/status/1132027230111064065)
 
@@ -1095,6 +1099,10 @@ Disqualify:
 "Cloudflare got rekt and many sites including Discord is down so ur bored, hot, tired, and missing ur friends pls talk to me I am slowly dying but not that slowly" by @[Savage_ssb](https://twitter.com/Savage_ssb/status/1013266673678389249)
 
 "Oh I'm tired of seeing this WordPress / CloudFlare / website error message.... :-(" by @[wfryer](https://twitter.com/wfryer/status/556854625044025344)
+
+"you can't read Cloudflare's anti-torproject blog post in Tor Browser because of their own blocking" by @[hdevalence](https://twitter.com/hdevalence/status/715324308860567553)
+
+"I HATE CLOUDFLARE GET RID OF IT ASAP!!!" by @[justinledvina](https://twitter.com/justinledvina/status/235959064646017025)
 
 "I've had a issue for a while now where I get a box on OBS which says "One more step. Please complete the security check to access http://streamlabs.com " I went to your website and completed it with 2 different browsers but still the same thing." by @[NemeZiLive](https://twitter.com/NemeZiLive/status/1101399417024843777)
 
