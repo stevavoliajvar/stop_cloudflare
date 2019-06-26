@@ -32,6 +32,8 @@ Disqualify:
 
 ######  News
 
+"[Cloudflare issues affecting numerous sites on Monday AM](https://techcrunch.com/2019/06/24/cloudflare-outage-affecting-numerous-sites-on-monday-am/)" by [Sarah Perez](https://techcrunch.com/author/sarah-perez/)
+
 "[Internet security CEO explained why his company exposed people to harassment, and suggested they should've used fake names](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5)" by [Julie Bort](http://www.businessinsider.com/author/julie-bort)
 
 "[Cloudflare CEO Terminates Neo-Nazi Site After 'Waking Up in a Bad Mood'](https://www.zerohedge.com/news/2017-08-17/cloudflare-ceo-terminates-neo-nazi-site-after-waking-bad-mood)" by [The_Real_Fly](https://www.zerohedge.com/users/therealfly)
@@ -223,6 +225,12 @@ Disqualify:
 "I still get the Captcha but when enter the code after solving it, there is no "submit" button. Cloudflare . . . is not my friend." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1138905377112776704)
 
 "Entire internet has a case of the Mondays. Cloudflare took a shit, people are harassing a 10 year old... Gonna just go back home and go to bed" by @[axamili7](https://twitter.com/axamili7/status/1143187004273901570)
+
+"Cloudflare is Having an Outage Affecting Sites Everywhere" by @[BleepinComputer](https://twitter.com/BleepinComputer/status/1143133510103961600)
+
+"Could be that you've been given a bad IP address from your ISP and cloudflare is blocking you." by @[JimSwiftDC](https://twitter.com/JimSwiftDC/status/1143110180789477377)
+
+"we saw no problems ourselves but some people were affected by a Cloudflare issue depending on the cloudflare node you were connecting to." by @[romancart](https://twitter.com/romancart/status/1143456148068163584)
 
 "Cloudflare fucking died today dude, can't wait for it too happen again" by @[JohnnSJon](https://twitter.com/JohnnSJon/status/1143172597292494848)
 
