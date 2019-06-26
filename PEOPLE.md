@@ -222,6 +222,24 @@ Disqualify:
 
 "I still get the Captcha but when enter the code after solving it, there is no "submit" button. Cloudflare . . . is not my friend." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1138905377112776704)
 
+"Entire internet has a case of the Mondays. Cloudflare took a shit, people are harassing a 10 year old... Gonna just go back home and go to bed" by @[axamili7](https://twitter.com/axamili7/status/1143187004273901570)
+
+"Cloudflare fucking died today dude, can't wait for it too happen again" by @[JohnnSJon](https://twitter.com/JohnnSJon/status/1143172597292494848)
+
+"cloudflare is a fuckin piece of sHIT AHHHHH" by @[actualaalice](https://twitter.com/actualaalice/status/1143139718189735936)
+
+"So hum... Cloudflare is taking a massive shit atm, Discord is down, SLOBS is down..." by @[EDL6six6](https://twitter.com/EDL6six6/status/1143132819943763968)
+
+"Well since cloudflare and stuff got taken down, my isp went down massive hit over UK. And man my phones and ps4 was refusing connect and i fucking yelling my mum face say talktalk done some shit my connection and more and now this anger i have going to far now with this :/" by @[ChisdealHD](https://twitter.com/ChisdealHD/status/1143189134170841090)
+
+"Its not just discord. Cloudflare went to shit and its affecting many websites." by @[DigiKoshi](https://twitter.com/DigiKoshi/status/1143149977822289920)
+
+"me: .. wait why do i care discord is dead" by @[BeepSterr](https://twitter.com/BeepSterr/status/1143133485504389121)
+
+"it's cloudflare fucking shit up again, yay" by @[brxndos](https://twitter.com/brxndos/status/1143139619690577922)
+
+"Cloudflare is down and it's affecting everything. Can't work on my crypto project shit because discord is down so can't communicate with team. Very frustrating indeed." by @[realjunsonchan](https://twitter.com/realjunsonchan/status/1143151053103345664)
+
 "how let you know i'm human ? where the CAPTCHA feature" by @[shibwei](https://twitter.com/shibwei/status/1141200007455838208)
 
 "Hey Cloudflare I don't mind going through a human check once in a while, but having me do it EVERY time I go to a new website or reload one is ridiculous. This is bad UX." by @[JohnnyFDK](https://twitter.com/JohnnyFDK/status/1138373924079767554)
@@ -277,6 +295,8 @@ Disqualify:
 "I hear a lot of people say nice things about Cloudflare. You know what I never hear them mention? They never mention how Cloudflare pounds your inbox with 3-4 spam emails a day. Just one company. 3-4. A day." by @[grimmtooth](https://twitter.com/grimmtooth/status/1133724162713935872)
 
 "Appears Cloudflare is blocking DNS requests for your WiFi calling" by @[freestylecorsa](https://twitter.com/freestylecorsa/status/1140320959892787200)
+
+"Don't use Cloudflare." by @[AnarchaWitch](https://twitter.com/AnarchaWitch/status/1119761568600862720)
 
 "I can’t access your website for support, Cloudflare shows error message. Some websites are opening, others are not." by @[Marcel_Perform](https://twitter.com/Marcel_Perform/status/1138707296605876224)
 
@@ -1025,6 +1045,8 @@ Disqualify:
 "What if you're unable to use them? What if you're banned from using their services?" by @[Zemmiph0bia](https://twitter.com/Zemmiph0bia/status/1119398811674112000)
 
 "Is anyone else unable to load images in Twitter’s iOS app while using Cloudflare’s 1.1.1.1 app?" by @[jabberwik](https://twitter.com/jabberwik/status/1116485375936139265)
+
+"My hunch is the same for any company that wants to centralize traffic. Too much power on their hands. Today's people or techies *may* have good intentions, tomorrow's managers or owners may not." by @[lt3vaio](https://twitter.com/lt3vaio/status/1053512588913528833)
 
 "unable to load our documentation website." by @[_notnathaniel](https://twitter.com/_notnathaniel/status/1116136910064242688)
 
