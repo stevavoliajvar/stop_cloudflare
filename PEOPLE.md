@@ -230,6 +230,16 @@ Disqualify:
 
 "So hum... Cloudflare is taking a massive shit atm, Discord is down, SLOBS is down..." by @[EDL6six6](https://twitter.com/EDL6six6/status/1143132819943763968)
 
+"For many users, web developers etc, Cloudflare is down! Reports from all over the world, especially Europe!" by @[GadgTecs](https://twitter.com/GadgTecs/status/1143116061333688326)
+
+"#cloudflare right now - When you have all your websites on Cloudflare and it goes offline" by @[Arm4x](https://twitter.com/Arm4x/status/1143115059947872257)
+
+"Pingdom is down #cloudflare" by @[Zabavnov](https://twitter.com/Zabavnov/status/1143125171215261698)
+
+"Definition of irony? :) At least my site uptime stats won't be taking a hit... #Cloudflare #Outage" by @[DataVenia](https://twitter.com/DataVenia/status/1143115885592350721)
+
+"#CloudFlare outage that impacted 1.6 million websites yesterday." by @[EpikDotCom](https://twitter.com/EpikDotCom/status/1143574073462722560)
+
 "Well since cloudflare and stuff got taken down, my isp went down massive hit over UK. And man my phones and ps4 was refusing connect and i fucking yelling my mum face say talktalk done some shit my connection and more and now this anger i have going to far now with this :/" by @[ChisdealHD](https://twitter.com/ChisdealHD/status/1143189134170841090)
 
 "Its not just discord. Cloudflare went to shit and its affecting many websites." by @[DigiKoshi](https://twitter.com/DigiKoshi/status/1143149977822289920)
