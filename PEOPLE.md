@@ -214,6 +214,22 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"#Cloudflare is down - half of the internet simply died" by @[SpottySTC](https://twitter.com/SpottySTC/status/1143132257466511360)
+
+"Good gosh, those Cloudflare CAPTCHA are annoying as **** when using #Tor. My solution is to not use those sites. How are guys dealing with those?" by @[SageHack](https://twitter.com/SageHack/status/1140931557278015489)
+
+"Unfortunately Cloudflare are having issues affecting 50% of their clients." by @[Devstars](https://twitter.com/Devstars/status/1143117388734455808)
+
+"Cloudflare is down in some regions due to a BGP leak." by @[GossiTheDog](https://twitter.com/GossiTheDog/status/1143130969307799553)
+
+"cloudflare, possibly the largest internet/networking company in the world doesn't have any kind of automated visibility on downtimes. does that not concern anyone? half their network is down and their status page says "all systems OK!"" by @[ppy](https://twitter.com/ppy/status/1143108563428003841)
+
+"So Cloudflare is down? Which makes Discord, VRChat, Osu! , Crunchyroll ,ect  PARTY!" by @[NakagawaNatsix](https://twitter.com/NakagawaNatsix/status/1143132937824587776)
+
+"A broader look at the total traffic impacted by the Cloudflare route leak - fifteen percent of traffic. Pretty big chunk." by @[TrisClarkARGuy](https://twitter.com/TrisClarkARGuy/status/1143671870211973120)
+
+"Why are you lying to people like that Discord your team wasn't working on a fix because it was a cloudflare routing leak." by @[jdbohrman](https://twitter.com/jdbohrman/status/1143675097800171523)
+
 "Why does the CopyrightOffice use Cloudflare?" by @[davidclowery](https://twitter.com/davidclowery/status/1142285340801208320)
 
 "So Cloudflare is offering an NTP service... Why do I care?" by @[tmclaughbos](https://twitter.com/tmclaughbos/status/1142258889447993345)
@@ -1172,6 +1188,10 @@ Disqualify:
 ------
 
 ######  Mastodon
+
+"Bei den ganze #Cloudflare Problemen gerade freue ich mich richtig, dass es noch das Fediverse gibt" by @[clerie](https://fem.social/@clerie/102328746169300742)
+
+"kuketzblog lang lebe #Cloudflare... Nicht!" by @[kromonos](https://metalhead.club/@kromonos/102334756147882328)
 
 "they are too powerful, too big already. we dont' need to use them for time." by @[jeffcliff](https://niu.moe/@jeffcliff/102310896326359164)
 
