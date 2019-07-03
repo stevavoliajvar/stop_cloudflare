@@ -1283,6 +1283,51 @@ Disqualify:
 
 ######  Mastodon
 
+
+"I want to thank #Cloudflare for removing themselves from the internet." by @[Chuculate](https://niu.moe/@Chuculate/102378374675476776)
+
+"Yesterday it was #cloudflare today it's #facebook static content (images etc) don't load, seems like CDN problems too. Welcome to the centralized Internet..." by @[kravietz](https://social.privacytools.io/@kravietz/102378733712987218)
+
+"Qué es Cloudflare, cómo funciona y por qué cuando "se cae" parte de #internet se viene abajo" by @[GeekTale](https://mastodon.social/@GeekTale/102376704390517130)
+
+"Вчера упал #CloudFlare, из-за чего нарушилась работа крупнейших сервисов Интернета. Разработчики уже выпустили пост-мортем, из которого следует, что причиной падения стало – внимание – регулярное выражение, вызвавшее 100% нагрузку на CPU и, вследствие чего, множество 502-х ошибок в ответ на запросы." by @[Groosha](https://mastodon.social/@Groosha/102376274244244420)
+
+"Why you shouldn’t use services like #Cloudflare to enable „high availability“ " by @[f2k1de](https://chaos.social/@f2k1de/102375564327003058)
+
+"LMAO #cloudflare is down AGAIN?" by @[DashEquals](https://ap.torlipen.net/objects/4236a828-7ba9-4c2c-9c40-c217c1f1d4e3)
+
+"Natürlich bezahlst du nichts, dafür aber deine Besucher, die all ihre Daten und #Metadaten einem in den #USA durch den #PatriotAct verpflichteten Dienst in den Rachen werfen. Noch dazu ein Dienst, der auf den meisten Seiten #Tor blockiert. Fehler hin oder her ... Wer Datenschutz ernst nimmt, verzichtet auf #Cloudflare und ähnliche Dienste. Und wer doch einen Proxy vor seinem eigentlichen Dienst brauch, kann ihn ja selbst aufsetzen." by @[kromonos](https://metalhead.club/@kromonos/102372968538354130)
+
+"Remember #Cloudflare? The people #Mozilla wanted to send all your DNS traffic to?" by @[Sturmflut](https://mastodon.technology/@Sturmflut/102373000030566755)
+
+"That's when you understand single points of failures" by @[docbray](https://social.supernerdland.com/display/f7679b53-135d-1b7f-8446-841362829595)
+
+"Cloudflare a rapidement confirmé l’existence d’une vaste panne." by @[leshoshin](https://framapiaf.org/@leshoshin/102372515752847465)
+
+"How does an outfit that specializes in redundancy fail so bad in times like this? #Cloudflare Attributed to CPU spike. Huh? Like are they running on one machine in some dude's basement?" by @[cs](https://mastodon.sdf.org/@cs/102372444006745058)
+
+"I don't use #Cloudflare." by @[veer66](https://mstdn.io/@veer66/102372440964130575)
+
+"Cloudflare outage: this is the second time within the last few weeks, isn't it?" by @[fitheach](https://mstdn.io/@fitheach/102372404619232953)
+
+"So apparently a bunch of sites are down because #cloudflare is down?? Cool. coolcool." by @[fayelyon](https://switter.at/@fayelyon/102372397761279375)
+
+"#clowncomputing means you're not in control of your 'own' stuff. A guest in your own house." by @[schestowitz](https://pleroma.site/objects/19fa0942-f26c-4cd0-a6dd-79f8368bd014)
+
+"When your friends/geek mates/colleagues shout that "OMG!! #Cloudflare is down!" and you don't give a damn because you told them not to touch this" by @[schestowitz](https://pleroma.site/objects/8618055f-d96f-437b-a24e-01a4ed1140b3)
+
+"Yay, #cloudflare is down!" by @[DylanTheThomas](https://swingset.social/@DylanTheThomas/102372246983164931)
+
+"#cloudflare is down ,... is that's why I cannot reach my #matrix homeserver anymore?" by @[musicmatze](https://mastodon.technology/@musicmatze/102372217168515090)
+
+"Hahaha... Sehr geil 🤣 kaum kackt #krautflare ab, kann die Hälfte unserer #Frontend #Entwickler nicht mehr arbeiten, weil sie assets entweder vom #CDN bei #Cloudflare laden, oder von einer #Seite, die sich hinter deren proxy versteckt..." by @[kromonos](https://metalhead.club/@kromonos/102372240879706715)
+
+"cloudflare outage again and the irony is D E L I C I O U S " by @[gingervitis](https://meme.garden/@gingervitis/102372210875463531)
+
+"Allo Houston ? #Cloudflare est encore planté et a cassé une bonne partie du Web !" by @[DarvenDissek](https://mammouth.inframed.net/@DarvenDissek/102372195499429073)
+
+"When you can't rant about cloudflare being down because the downtime complaint site is using #cloudflare." by @[lerk](https://comm.network/@lerk/102372193410432044)
+
 "Bei den ganze #Cloudflare Problemen gerade freue ich mich richtig, dass es noch das Fediverse gibt" by @[clerie](https://fem.social/@clerie/102328746169300742)
 
 "kuketzblog lang lebe #Cloudflare... Nicht!" by @[kromonos](https://metalhead.club/@kromonos/102334756147882328)
