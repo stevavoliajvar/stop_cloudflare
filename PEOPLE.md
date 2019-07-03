@@ -38,6 +38,8 @@ Disqualify:
 
 "[CloudFlare Outage Takes Down Coinbase, CoinMarketCap and Other Top Crypto Websites](https://www.coindesk.com/cloudflare-outage-takes-down-coinbase-coinmarketcap-and-other-top-crypto-websites)" by [John Biggs](https://www.coindesk.com/author/johncoindesk-com)
 
+"[Millions of websites went down across the internet today after massive Cloudflare outage](https://metro.co.uk/2019/07/02/cloudflare-outage-means-websites-including-detector-10103471/)" by [Jasper Hamill](https://metro.co.uk/author/jasper-hamill/)
+
 "[Cloudflare blames ‘bad software’ deployment for today’s outage](https://techcrunch.com/2019/07/02/a-cloudflare-outage-is-impacting-sites-everywhere/)" by [Brian Heater](https://techcrunch.com/author/brian-heater/)
 
 "[Cloudflare issues affecting numerous sites on Monday AM](https://techcrunch.com/2019/06/24/cloudflare-outage-affecting-numerous-sites-on-monday-am/)" by [Sarah Perez](https://techcrunch.com/author/sarah-perez/)
@@ -1320,7 +1322,7 @@ Disqualify:
 
 "#cloudflare is down ,... is that's why I cannot reach my #matrix homeserver anymore?" by @[musicmatze](https://mastodon.technology/@musicmatze/102372217168515090)
 
-"Hahaha... Sehr geil 🤣 kaum kackt #krautflare ab, kann die Hälfte unserer #Frontend #Entwickler nicht mehr arbeiten, weil sie assets entweder vom #CDN bei #Cloudflare laden, oder von einer #Seite, die sich hinter deren proxy versteckt..." by @[kromonos](https://metalhead.club/@kromonos/102372240879706715)
+"Hahaha... Sehr geil  kaum kackt #krautflare ab, kann die Hälfte unserer #Frontend #Entwickler nicht mehr arbeiten, weil sie assets entweder vom #CDN bei #Cloudflare laden, oder von einer #Seite, die sich hinter deren proxy versteckt..." by @[kromonos](https://metalhead.club/@kromonos/102372240879706715)
 
 "cloudflare outage again and the irony is D E L I C I O U S " by @[gingervitis](https://meme.garden/@gingervitis/102372210875463531)
 
