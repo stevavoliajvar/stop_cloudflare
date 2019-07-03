@@ -32,6 +32,14 @@ Disqualify:
 
 ######  News
 
+"[Cloudflare down: Thousands of popular websites affected by brief outage](https://news.sky.com/story/cloudflare-down-thousands-of-popular-websites-affected-by-brief-outage-11755312)" by [Alexander J Martin](https://news.sky.com/)
+
+"[Major websites and services across the internet went down Tuesday because of a hosting-platform outage](https://www.businessinsider.nl/cloudflare-outage-causes-major-websites-across-internet-to-go-down-2019-7/)" by [Antonio Villas-Boas](https://www.businessinsider.com/author/antonio-villas-boas)
+
+"[CloudFlare Outage Takes Down Coinbase, CoinMarketCap and Other Top Crypto Websites](https://www.coindesk.com/cloudflare-outage-takes-down-coinbase-coinmarketcap-and-other-top-crypto-websites)" by [John Biggs](https://www.coindesk.com/author/johncoindesk-com)
+
+"[Cloudflare blames ‘bad software’ deployment for today’s outage](https://techcrunch.com/2019/07/02/a-cloudflare-outage-is-impacting-sites-everywhere/)" by [Brian Heater](https://techcrunch.com/author/brian-heater/)
+
 "[Cloudflare issues affecting numerous sites on Monday AM](https://techcrunch.com/2019/06/24/cloudflare-outage-affecting-numerous-sites-on-monday-am/)" by [Sarah Perez](https://techcrunch.com/author/sarah-perez/)
 
 "[Internet security CEO explained why his company exposed people to harassment, and suggested they should've used fake names](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5)" by [Julie Bort](http://www.businessinsider.com/author/julie-bort)
@@ -61,6 +69,8 @@ Disqualify:
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
 "[Say no to Cloudflare](https://robinwils.gitlab.io/articles/say-no-to-cloudflare.html)" by [Robin Wils](https://robinwils.gitlab.io/contact.html)
+
+"[Why I Stopped Using CloudFlare](https://www.reviewhell.com/blog/cloudflare-makes-websites-slower/)" by [Review Hell](https://www.reviewhell.com/)
 
 "[I don’t trust Cloudflare’s 1.1.1.1 App and Warp VPN](https://blog.kareldonk.com/i-dont-trust-cloudflares-1-1-1-1-app-and-warp-vpn/)" by [Karel Donk](https://blog.kareldonk.com/)
 
