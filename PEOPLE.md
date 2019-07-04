@@ -1365,6 +1365,8 @@ Disqualify:
 
 ######  Mastodon
 
+"Seems like the world's biggest MiTM is down and took a rather large number of websites with it" by @[amolith](https://masto.nixnet.xyz/@amolith/102372539142565301)
+
 "I want to thank #Cloudflare for removing themselves from the internet." by @[Chuculate](https://niu.moe/@Chuculate/102378374675476776)
 
 "Yesterday it was #cloudflare today it's #facebook static content (images etc) don't load, seems like CDN problems too. Welcome to the centralized Internet..." by @[kravietz](https://social.privacytools.io/@kravietz/102378733712987218)
