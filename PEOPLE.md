@@ -234,6 +234,86 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"the answer to you cloudflare issue is simple: Stop using it." by @[TanaPyre](https://twitter.com/TanaPyre/status/1146109881738334208)
+
+"If everyone could stop using shit ass Cloudflare so giant sections of the web wouldn’t go down every time they have an issue, that would be great. " by @[rob_neu](https://twitter.com/rob_neu/status/1146108992734879744)
+
+"Where 1 day later, pretty much half of the worlds, widely available and most used communications platforms and devices just stop working." by @[The1stStroke](https://twitter.com/The1stStroke/status/1146472721200635906)
+
+"Why is half the internet down this week? Facebook, WhatsApp, twitter, Cloudflare..." by @[elie2222](https://twitter.com/elie2222/status/1146524774673395713)
+
+"Why is the internet a shit storm right now. Cloudflare, twitch api, facebook, Instagram, and twitter dms have had outages in the last couple days" by @[SterlingZubel](https://twitter.com/SterlingZubel/status/1146521935720808449)
+
+"Cloudflare is dead, that's why nothing works" by @[Kameeleon_](https://twitter.com/Kameeleon_/status/1146516471280996353)
+
+"Do people just not know how to run a server or.....? Why is everyone bunnyhopping off of stuff like Amazon and CloudFlare? You can just but your own equipment and run a server and.....ugh my soul" by @[GeekyFoxy](https://twitter.com/GeekyFoxy/status/1146496719368196098)
+
+"Users were unable to access cryptocurrency service websites as the servers could no longer be accessed due to a technical error on Cloudflare. The problem was confirmed by Cloudflare in its blog, citing that the issue stemmed from bad software." by @[cryptosexp](https://twitter.com/cryptosexp/status/1146537903448891403)
+
+"Well that explained why I couldn’t access some websites today - Cloudflare outage takes down a large portion of the internet " by @[copyranting](https://twitter.com/copyranting/status/1146485524120649728)
+
+"Earlier this week, Ecessa experienced the pain of the #Cloudflare global #outage when we couldn't access some cloud-based apps. It pointed out how dependent we all are on our SaaS providers and their infrastructures." by @[Ecessa](https://twitter.com/Ecessa/status/1146450399098023937)
+
+"Recent outages reveal that many services rely heavily on CloudFlare as their single point of access. How can we prevent CDNs from becoming all-encompassing centralized layers of control over the Web?" by @[jhamberg](https://twitter.com/jhamberg/status/1146371917332537344)
+
+"Not been able to access some of your favourite sities? Today's Internet wobble was caused by Cloudflare glitch" by @[SolsoftGroup](https://twitter.com/SolsoftGroup/status/1146321219668647936)
+
+"Our DNS service CloudFlare went down for 30 minutes so we couldn't access anything." by @[Orangopus](https://twitter.com/Orangopus/status/1146162772855730177)
+
+"Cloudflare glitch affects access to websites" by @[digitaljournal](https://twitter.com/digitaljournal/status/1146134957208801280)
+
+"This morning’s outage demonstrated nicely why having CloudFlare at as your domain registrar is a bad idea. If you want to redirect your sites during a major CF outage, you’re stuck without access to one’s dashboard." by @[drjjw](https://twitter.com/drjjw/status/1146134626592841728)
+
+"Cloudflare is down so Firefox browser users might have a problem resolving some sites. It’s called privacy vs performance trade-off, and today it hits all users at the same time." by @[lukOlejnik](https://twitter.com/lukOlejnik/status/1146059459401138176)
+
+"Typical illustration of how bad the internet is centralized nowadays: Cloudflare is down, most websites & services being disrupted by this." by @[x0rz](https://twitter.com/x0rz/status/1146058998010957826)
+
+"one weird consequence of doing all my personal browsing through tor is that i never notice when cloudflare goes down because those sites are never available for me in the first place" by @[elisohl](https://twitter.com/elisohl/status/1146552703167995906)
+
+"No, I’m not blocking the site cloudflare is down. Close ticket." by @[lnxdork](https://twitter.com/lnxdork/status/1146106818319532038)
+
+"The website blocked me and I need to make a payment. Can you DM me a link or email addy to do that? Or if you need Cloudflare’s ID info... pls share?" by @[dpwac](https://twitter.com/dpwac/status/1146150147069480962)
+
+"OTOH if Firefox insists on using Cloudflare and Cloudflare, as soon as Cloudflare is down/blocked/whatever, I'm screwed." by @[cunnigliu](https://twitter.com/cunnigliu/status/1146114730240684035)
+
+"that's why I don't like Cloudflare. Not only this but also that my IP has been blocked by them in the past thanks to fucking SpamHaus." by @[actual_mishaor](https://twitter.com/actual_mishaor/status/1146065433528639489)
+
+"I was scraping a website and it stopped working... thought I was blocked... nope Cloudflare is down " by @[LoriKarikari](https://twitter.com/LoriKarikari/status/1146059734287437826)
+
+"hey folks just FYI a cloudflare outage has blocked many people from reaching Discord." by @[K5SQL](https://twitter.com/K5SQL/status/1146058488553959425)
+
+"why are alot of websites blocked by you I cant do anymore can you plz stop blocking these websites cuz it's really not fair to the people who made them or the people who love to get on the website!!" by @[nopestopplayin](https://twitter.com/nopestopplayin/status/1146056740938477572)
+
+"#Cloudflare parece tener problemas (caído) y se llevó media internet entre ello (exchanges sufriendo, wallets, block explorers, etc)." by @[gerardoetaboada](https://twitter.com/gerardoetaboada/status/1146093658795651073)
+
+"Cloudflare parece tener problemas (caído) y se llevó media internet con ella (exchanges sufriendo, wallets, block explorers). " by @[BtcAndres](https://twitter.com/BtcAndres/status/1146065400586620929)
+
+"Could you make it so that when Cloudflare goes down, discord (overlay) doesn't block half my screen again? After restarting I still had text on my screen. " by @[GiveMeTheCheese](https://twitter.com/GiveMeTheCheese/status/1146062709596704769)
+
+"More issues with Cloudflare and lots of high profile sites go offline. Stop using this stupid MITM-service and help out and re-decentralize the web instead. I might as well block their networks completely and stop using services that’s behind Cloudflare. " by @[empatogen](https://twitter.com/empatogen/status/1146059519237087233)
+
+"Cloudflare is down and large swathes of the web are unreachable." by @[moftasa](https://twitter.com/moftasa/status/1146059475771510786)
+
+"Looks like many crypto websites are down because their CDN/DDoS protection provider Cloudflare is down (exchanges, block explorers, etc) Perfect demonstration of single point of failures" by @[JulienThevenard](https://twitter.com/JulienThevenard/status/1146056362553561089)
+
+"please, please, PLEASE stop using #captcha, it's a flaming PoS - I can't even log into #Cloudflare today because I use firefox and block dodgy ads, 24 failed attempts at your captcha! FFS" by @[s_mcleod](https://twitter.com/s_mcleod/status/1145634527227736064)
+
+"OH, he did not. Cloudflare cloud services have had some issues (like being down) resulting in all that erratic behavior. It's been global." by @[EngOnDemand](https://twitter.com/EngOnDemand/status/1146563784649170944)
+
+"With more and more outages(#Cloudflare #googledown), #404 page is becoming important." by @[sendilkumarn](https://twitter.com/sendilkumarn/status/1146563151716069387)
+
+"Hahaha dificil de saber Cloudflare es un servicio taaan extenso y con tantas réplicas de data, que mejor no ilusionarse hehehe" by @[williamromero](https://twitter.com/williamromero/status/1146561718845345792)
+
+"With the Cloudflare fail yesterday which resulted in Coinbase and Kraken being down, another centralized point of failure became obvious" by @[crypto_reddit](https://twitter.com/crypto_reddit/status/1146560931511590919)
+
+"Did you site crash and you use Cloudflare? A bad software deployment took down websites on Tuesday" by @[esellercafe](https://twitter.com/esellercafe/status/1146560002209062925)
+
+"Yeah many websites are not opening and showing the same for me too" by @[AbhradipAchary6](https://twitter.com/AbhradipAchary6/status/1146081664222633984)
+
+"DownDetector down as another Cloudflare outage affects services across the web" by @[verge](https://twitter.com/verge/status/1146080932321005569)
+
+"Hope CloudFlare will lose a bit of influence worldwide." by @[Tsigorf](https://twitter.com/Tsigorf/status/1146063328810192897)
+
 "I still get the Captcha but when enter the code after solving it, there is no "submit" button. Cloudflare . . . is not my friend." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1138905377112776704)
 
 "Entire internet has a case of the Mondays. Cloudflare took a shit, people are harassing a 10 year old... Gonna just go back home and go to bed" by @[axamili7](https://twitter.com/axamili7/status/1143187004273901570)
@@ -1284,7 +1364,6 @@ Disqualify:
 ------
 
 ######  Mastodon
-
 
 "I want to thank #Cloudflare for removing themselves from the internet." by @[Chuculate](https://niu.moe/@Chuculate/102378374675476776)
 
