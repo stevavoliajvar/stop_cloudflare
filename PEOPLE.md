@@ -234,6 +234,8 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"No, that would be a terrible single point of failure." by @[pwaring](https://twitter.com/pwaring/status/1146061396376842243)
+
 "the answer to you cloudflare issue is simple: Stop using it." by @[TanaPyre](https://twitter.com/TanaPyre/status/1146109881738334208)
 
 "If everyone could stop using shit ass Cloudflare so giant sections of the web wouldn’t go down every time they have an issue, that would be great. " by @[rob_neu](https://twitter.com/rob_neu/status/1146108992734879744)
