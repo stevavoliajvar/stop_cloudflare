@@ -234,6 +234,16 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Don't panic, don't panic! just Cloudflare going down.... wtf... ok yea let's panic." by @[RiseofLex88](https://twitter.com/RiseofLex88/status/1146052613747572738)
+
+"502! Lots of websites are down duo to Cloudflare is down. Websites like Skillshare, Udemy, Upwork, and many more sites. According to this site, it’s 9.6% of the web is most likely down right now." by @[WittrupMatilde](https://twitter.com/WittrupMatilde/status/1146055654487949312)
+
+"Cloudflare is currently down, including the Cloudflare DoH server that is the default DoH server for Firefox, if you enabled it." by @[PowerDNS_Bert](https://twitter.com/PowerDNS_Bert/status/1146057034430738432)
+
+"Its funny how we take a distributed, resilient, network like the Internet and immediately bolt on a single point of failure." by @[vulgrin](https://twitter.com/vulgrin/status/1146058169782820864)
+
+"wanted to check if cloudflare is just down for me, then realized the down checker website is hosted on cloudflare" by @[soulchildpls](https://twitter.com/soulchildpls/status/1146055235305013250)
+
 "No, that would be a terrible single point of failure." by @[pwaring](https://twitter.com/pwaring/status/1146061396376842243)
 
 "the answer to you cloudflare issue is simple: Stop using it." by @[TanaPyre](https://twitter.com/TanaPyre/status/1146109881738334208)
