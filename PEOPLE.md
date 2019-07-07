@@ -234,6 +234,12 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I suspect it's like why I called them a villain because the way they announced they were going to do it involved a financial partnership with CloudFlare." by @[nyquildotorg](https://twitter.com/nyquildotorg/status/1147206155367661569)
+
+"I'm not sure how Mozilla DOH works, but if they are just teaming up with CloudFlare or Google, how does DOH enhances privacy? Why would CF or Google getting your entire DNS history, be "better" than your ISP getting it?" by @[JeroenJacobs79](https://twitter.com/JeroenJacobs79/status/1147141410791002113)
+
+"No more lobstering for me. I decided to add ips-v4  in my gateway and reject any traffic from/to their networks." by @[empatogen](https://twitter.com/empatogen/status/1146454813137391616)
+
 "Don't panic, don't panic! just Cloudflare going down.... wtf... ok yea let's panic." by @[RiseofLex88](https://twitter.com/RiseofLex88/status/1146052613747572738)
 
 "502! Lots of websites are down duo to Cloudflare is down. Websites like Skillshare, Udemy, Upwork, and many more sites. According to this site, it’s 9.6% of the web is most likely down right now." by @[WittrupMatilde](https://twitter.com/WittrupMatilde/status/1146055654487949312)
