@@ -1387,6 +1387,8 @@ Disqualify:
 
 ######  Mastodon
 
+"They talk about "#decentralization", while being behind #cloudflare. awesome" by @[selea](https://social.linux.pizza/@selea/102387933088472002)
+
 "It's been estimated that today's #Cloudflare outage is effecting about 10% of all websites world-wide. If a lot of your online world is down right now, your word and research topic for the day is #decentralization" by @[raye](https://sunbeam.city/@raye/102372447641525998)
 
 "Seems like the world's biggest MiTM is down and took a rather large number of websites with it" by @[amolith](https://masto.nixnet.xyz/@amolith/102372539142565301)
