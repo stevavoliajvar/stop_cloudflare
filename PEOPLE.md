@@ -286,6 +286,10 @@ Disqualify:
 
 "Typical illustration of how bad the internet is centralized nowadays: Cloudflare is down, most websites & services being disrupted by this." by @[x0rz](https://twitter.com/x0rz/status/1146058998010957826)
 
+"why couldn't this #cloudflare outage affect any of the websites I use for work?? " by @[steffyj17](https://twitter.com/steffyj17/status/1146069270503317504)
+
+"One day AWS and CloudFlare are going to have issues on the same day and we're all just going to go home because nothing will be working" by @[living_syn](https://twitter.com/living_syn/status/1146059384214024195)
+
 "one weird consequence of doing all my personal browsing through tor is that i never notice when cloudflare goes down because those sites are never available for me in the first place" by @[elisohl](https://twitter.com/elisohl/status/1146552703167995906)
 
 "No, I’m not blocking the site cloudflare is down. Close ticket." by @[lnxdork](https://twitter.com/lnxdork/status/1146106818319532038)
