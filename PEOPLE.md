@@ -234,6 +234,14 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Cloudflare is someting going on? i can't access most of the websites and discord seems not accessible too." by @[Sebastien_Baka](https://twitter.com/Sebastien_Baka/status/1148715450374733825)
+
+"Told you not to use this piece of shift." by @[schestowitz](https://twitter.com/schestowitz/status/1146073119897063424)
+
+"Cloudflare outage highlights the internet's fragility" by @[benstricker](https://twitter.com/benstricker/status/1148724389229342721)
+
+"We wanted an internet that works during nuclear wars. Instead we powered all websites by Cloudflare." by @[muneeb](https://twitter.com/muneeb/status/1146075756197482496)
+
 "I suspect it's like why I called them a villain because the way they announced they were going to do it involved a financial partnership with CloudFlare." by @[nyquildotorg](https://twitter.com/nyquildotorg/status/1147206155367661569)
 
 "I'm not sure how Mozilla DOH works, but if they are just teaming up with CloudFlare or Google, how does DOH enhances privacy? Why would CF or Google getting your entire DNS history, be "better" than your ISP getting it?" by @[JeroenJacobs79](https://twitter.com/JeroenJacobs79/status/1147141410791002113)
@@ -1386,6 +1394,12 @@ Disqualify:
 ------
 
 ######  Mastodon
+
+"Remember how the liars at #cloudflare pretended that had come under attack (causing major downtime), only later to admit that they broke their own service because they're technically incompetent. Avoid them." by @[schestowitz](https://pleroma.site/objects/a5533839-4678-4c06-975f-5ceceeaa793d)
+
+"is this instance using #Cloudflare somehow? Was getting errors from it when trying to access Mstdn yesterday." by @[orbifx](https://mstdn.io/@orbifx/102399186438337881)
+
+"They use #cloudflare for their Matrix.org and other servers they operate." by @[eo](https://masto.nixnet.xyz/@eo/102396215079147841)
 
 "They talk about "#decentralization", while being behind #cloudflare. awesome" by @[selea](https://social.linux.pizza/@selea/102387933088472002)
 
