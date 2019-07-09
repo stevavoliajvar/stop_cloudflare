@@ -254,7 +254,7 @@ Let's talk about _other software's privacy_...
 
 - SRWare Iron make too many [phones home connection](https://spyware.neocities.org/articles/iron.html). It also connect to google domains.
 
-- Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/). Here's [more issues](https://spyware.neocities.org/articles/brave.html).
+- Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/). Here's [more issues](https://spyware.neocities.org/articles/brave.html). Brave is stealing donations in the name of other people [without their consent](https://digdeeper.neocities.org/ghost/browsers.html#brave).
 
 - Microsoft Edge lets Facebook [run Flash code behind users' backs](https://www.zdnet.com/article/microsoft-edge-lets-facebook-run-flash-code-behind-users-backs/).
 
