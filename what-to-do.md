@@ -242,7 +242,7 @@ Let's talk about _other software's privacy_...
 
 - Remember, Mozilla is [using Cloudflare service](https://www.robtex.com/dns-lookup/www.mozilla.org). They're also using [Cloudflare's DNS service on their product](https://www.theregister.co.uk/2018/03/21/mozilla_testing_dns_encryption/) D'oh!
 
-- Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618) and they [have](https://www.reddit.com/r/linux/comments/9hh3gc/to_unsuspecting_admins_firefox_continues_to_send/) [too](https://mashable.com/2017/12/16/mr-robot-looking-glass-mozilla-firefox-backlash/) / [many](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) / [problems](https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/comment-page-6/#comment-226187). Want more? [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/ghost/mozilla.html).
+- Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618) and they [have](https://www.reddit.com/r/linux/comments/9hh3gc/to_unsuspecting_admins_firefox_continues_to_send/) / [too](https://mashable.com/2017/12/16/mr-robot-looking-glass-mozilla-firefox-backlash/) / [many](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) / [problems](https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/comment-page-6/#comment-226187). Want more? [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/ghost/mozilla.html).
 
 - "Firefox Focus"(Firefox Klar) [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743).
 
