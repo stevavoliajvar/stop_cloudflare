@@ -64,11 +64,11 @@ AFAIK, zero website do this. Will you trust them?
 ```
 By clicking “Sign up for XYZ”, you agree to our terms of service and privacy statement.
 You also agree to share your data with Cloudflare and also agrees to cloudflare's privacy statement.
-If Cloudflare leak your information, it's not our fault. [*]
+If Cloudflare leak your information or won't let you to connect to our servers, it's not our fault. [*]
 
 [ Sign up for XYZ ] [ I disagree ]
 ```
-[*] https://www.wired.com/2017/02/crazy-cloudflare-bug-jeopardized-millions-sites/
+[*] [People's voice](PEOPLE.md)
 
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
