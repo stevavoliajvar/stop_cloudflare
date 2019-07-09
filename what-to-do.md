@@ -20,8 +20,10 @@ Employee's comment:
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
 
+[Cloudflare said](https://github.com/Eloston/ungoogled-chromium/issues/783):
 ```
-"Ask and it will be given to you; seek and you will find; knock and the door will be opened to you."
+We recommend that you reach out to the administrators for the
+specific services or sites that you run into issue with and share your experience.
 ```
 
 If you don't ask for it, website owner never know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). Raise your voice.
