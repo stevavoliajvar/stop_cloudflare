@@ -131,6 +131,12 @@ Disqualify:
 
 ######  Forum / Wiki
 
+"[Cloudflare outage caused by deploying bad regular expression that caused 100% CPU usage worldwide, dropping up to 82% of traffic](https://www.reddit.com/r/sysadmin/comments/c8eymj/cloudflare_outage_caused_by_deploying_bad_regular/)" by [TyroPyro](https://www.reddit.com/user/TyroPyro/)
+
+"[Cloudflare outage AGAIN MAH INTERNETS! Nooo!](https://www.reddit.com/r/sysadmin/comments/c89fa4/cloudflare_outage_again/)" by [Lewis_Browne](https://www.reddit.com/user/Lewis_Browne/)
+
+"[Cloudflare CDN suffers route leak; services like Discord and Crunchyroll experience outages all over the world](https://www.reddit.com/r/worldnews/comments/c4n42g/cloudflare_cdn_suffers_route_leak_services_like/)" by [DragonSkyMusic](https://www.reddit.com/user/DragonSkyMusic/)
+
 "[Cloudflare Is Not An Option!](https://www.reddit.com/r/privacy/comments/bhag8s/cloudflare_is_not_an_option/)" by [FVz7Ftt83m](https://www.reddit.com/user/FVz7Ftt83m)
 
 "[I'm not sure if I can ELI5 this but I'll try my best to explain.](https://www.reddit.com/r/india/comments/bg3lxh/was_casually_checking_my_logs_this_is_what_is/elk77k3/)" by [Waphire](https://www.reddit.com/user/Waphire)
