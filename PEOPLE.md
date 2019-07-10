@@ -242,6 +242,8 @@ Disqualify:
 
 "Cloudflare is someting going on? i can't access most of the websites and discord seems not accessible too." by @[Sebastien_Baka](https://twitter.com/Sebastien_Baka/status/1148715450374733825)
 
+"cloudflare sucks, i hope people stop using them." by @[uguuCyuubi](https://twitter.com/uguuCyuubi/status/1146054595262726144)
+
 "Told you not to use this piece of shift." by @[schestowitz](https://twitter.com/schestowitz/status/1146073119897063424)
 
 "Cloudflare outage highlights the internet's fragility" by @[benstricker](https://twitter.com/benstricker/status/1148724389229342721)
@@ -917,6 +919,10 @@ Disqualify:
 "Ridiculous CAPTCHA usage, Cloudflare Edition; 'not a robot' to refresh the API key for an account that's already locked behind credentials + MFA, and requiring the password." by @[sindarina](https://twitter.com/sindarina/status/1042085625032257536)
 
 "I spent my day telling Cloudflare every 5 min on every site that i'm not a robot." by @[morhac](https://twitter.com/morhac/status/1017409748482719744)
+
+"Dear Cloudflare stop killing our jobs  #Cloudflare #CloudflareDown" by @[Lipan_in](https://twitter.com/Lipan_in/status/1146060555632799747)
+
+"Hey cloudflare, can you stop being fucking retarded and work properly, so Discord can also work properly, assholes" by @[lelguy21](https://twitter.com/lelguy21/stataus/1146060826924609543)
 
 "People are being blacklisted by cloudflare, and the fact that it's literally all down to the vrc devs, this will end with a lawsuit" by @[Retr0Fighter](https://twitter.com/Retr0Fighter/status/1118487667094765569)
 
