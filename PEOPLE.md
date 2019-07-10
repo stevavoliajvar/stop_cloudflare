@@ -254,6 +254,18 @@ Disqualify:
 
 "Cloudflare is currently down, including the Cloudflare DoH server that is the default DoH server for Firefox, if you enabled it." by @[PowerDNS_Bert](https://twitter.com/PowerDNS_Bert/status/1146057034430738432)
 
+"Cloudflare is pretty trash, most of the time the only thing that works is the captcha, and thats rarely. Never used it on my own stuff, never will." by @[ObscenityIB](https://twitter.com/ObscenityIB/status/1146161299199410176)
+
+"I just got a captcha starting a search on @crunchbase (Cloudflare name was on the page). It merely got me to press and hold a big button for <1s! Can't replicate for a pic now but both far less tedious and time consuming than this ml bs." by @[RoryDHughes](https://twitter.com/RoryDHughes/status/1148699678785118210)
+
+"Based on Cloudflare? A company that is US based and would allow intelligence agencies with nearly no effort to spy on all users at once? This is no enhancement. Just use a local recursive resolver like unbound if you don't like the blocking of your ISP." by @[RealityAbsorber](https://twitter.com/RealityAbsorber/status/1147877776768294921)
+
+"Getting 'bad gateway' on your sites....unable to access anything, and on a deadline....uhm...." by @[RelianceJobs](https://twitter.com/RelianceJobs/status/1146057910323011585)
+
+"I have confirmed that it is not just me. Others are having some Cloudflare problems today as well." by @[TirsohCartoons](https://twitter.com/TirsohCartoons/status/1146063343582498817)
+
+"Cloudflare is having problems across the board." by @[SesameShibane](https://twitter.com/SesameShibane/status/1146071855545180160)
+
 "Its funny how we take a distributed, resilient, network like the Internet and immediately bolt on a single point of failure." by @[vulgrin](https://twitter.com/vulgrin/status/1146058169782820864)
 
 "wanted to check if cloudflare is just down for me, then realized the down checker website is hosted on cloudflare" by @[soulchildpls](https://twitter.com/soulchildpls/status/1146055235305013250)
