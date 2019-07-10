@@ -178,6 +178,10 @@ Disqualify:
 
 ######  Microsoft GitHub
 
+"[Tor and Cloudflare](https://github.com/Eloston/ungoogled-chromium/issues/783)" by [nchv](https://github.com/nchv)
+
+"[Stop using Cloudflare to make site https](https://github.com/nownabe/blog.nownabe.com/issues/45)" by [nownabe](https://github.com/nownabe)
+
 "[Stop using CloudFlare as a public resolver](https://github.com/dappnode/DNP_BIND/issues/20)" by [vdo](https://github.com/vdo)
 
 "[Please stop using CloudFlare.](https://github.com/danarel/thinkprivacy/issues/5)"
@@ -187,6 +191,8 @@ Disqualify:
 "[What do you think about Cloudflare? PTIO](https://github.com/privacytoolsIO/privacytools.io/issues/374)"
 
 "[What do you think about Cloudflare? PRISM](https://github.com/prism-break/prism-break/issues/1843)"
+
+"[API is currently always returning a 503 error triggered by the Cloudflare protection](https://github.com/ICObench/data-api/issues/7)" by [TiesdeKok](https://github.com/TiesdeKok)
 
 "[Add an option to stop trusting Cloudflare certificate](https://github.com/mozilla-mobile/focus-android/issues/1743)" by [StopMITMInternational](https://github.com/StopMITMInternational)
 
