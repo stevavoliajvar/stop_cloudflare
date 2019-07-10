@@ -133,6 +133,8 @@ Disqualify:
 
 "[Thoughts on CloudFlare](https://www.reddit.com/r/privacytoolsIO/comments/cailfa/thoughts_on_cloudflare/)" by [techEnthusiast0](https://www.reddit.com/user/techEnthusiast0/)
 
+"[Este Cloudflare atac MITM?](https://forum.softpedia.com/topic/1146988-este-cloudflare-atac-mitm/)" by gladioc
+
 "[Cloudflare outage caused by deploying bad regular expression that caused 100% CPU usage worldwide, dropping up to 82% of traffic](https://www.reddit.com/r/sysadmin/comments/c8eymj/cloudflare_outage_caused_by_deploying_bad_regular/)" by [TyroPyro](https://www.reddit.com/user/TyroPyro/)
 
 "[Cloudflare outage AGAIN MAH INTERNETS! Nooo!](https://www.reddit.com/r/sysadmin/comments/c89fa4/cloudflare_outage_again/)" by [Lewis_Browne](https://www.reddit.com/user/Lewis_Browne/)
@@ -250,6 +252,8 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"Error 1006 is displayed and I can not browse the web I do not understand English because I am Japanese What should I do?" by @[Bliss87817873](https://twitter.com/Bliss87817873/status/1148856109970538496)
 
 "Cloudflare is someting going on? i can't access most of the websites and discord seems not accessible too." by @[Sebastien_Baka](https://twitter.com/Sebastien_Baka/status/1148715450374733825)
 
