@@ -1430,6 +1430,8 @@ Disqualify:
 
 ######  Mastodon
 
+"Hyperbola members who don't care about #Cloudflare, which disrepect the privacy over violation of rule 3 of the social contract" by @[HarvettFox96](https://hostux.social/@HarvettFox96/102414243375270600)
+
 "Remember how the liars at #cloudflare pretended that had come under attack (causing major downtime), only later to admit that they broke their own service because they're technically incompetent. Avoid them." by @[schestowitz](https://pleroma.site/objects/a5533839-4678-4c06-975f-5ceceeaa793d)
 
 "is this instance using #Cloudflare somehow? Was getting errors from it when trying to access Mstdn yesterday." by @[orbifx](https://mstdn.io/@orbifx/102399186438337881)
