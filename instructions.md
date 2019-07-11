@@ -53,9 +53,9 @@ Route 104.18.224.0/20
 
 2) How to add your data (A or B)
 
-Type A: Push to NotABug.org
+Type A: Push to Codeberg.org
 
-1. Log in to *notabug.org*.
+1. Log in to *Codeberg.org*.
 2. Click "*Fork*" button. (top-left corner)
 3. Edit text file.
 4. Click *Double-arrow* button to create a *new pull request*.
@@ -112,4 +112,10 @@ Some websites use other companies with the CloudFlare business model.
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
-[This add-on](addon_firefox/whyrejectme) will help your list_error403 collection.
+[Add-on "whyrejectme"](/) will help your list_error403 collection.
+
+---
+
+Information:
+
+- [How to setup git](instructions_git.md)
