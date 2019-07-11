@@ -265,8 +265,6 @@ Disqualify:
 
 "One of the #Cloudflare outages included Down Detector, which tracks outages, meaning people couldn’t even see if the website they wanted to visit is working properly." by @[mrgeffitas](https://twitter.com/mrgeffitas/status/1146352778547216384)
 
-
-
 "Error 1006 is displayed and I can not browse the web I do not understand English because I am Japanese What should I do?" by @[Bliss87817873](https://twitter.com/Bliss87817873/status/1148856109970538496)
 
 "Cloudflare is someting going on? i can't access most of the websites and discord seems not accessible too." by @[Sebastien_Baka](https://twitter.com/Sebastien_Baka/status/1148715450374733825)
