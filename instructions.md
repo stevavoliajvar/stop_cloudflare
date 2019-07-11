@@ -112,7 +112,7 @@ Some websites use other companies with the CloudFlare business model.
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
-[Add-on "whyrejectme"](/) will help your list_error403 collection.
+[Add-on "whyrejectme"](README.md) will help your list_error403 collection.
 
 ---
 
