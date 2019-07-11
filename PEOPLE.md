@@ -133,6 +133,8 @@ Disqualify:
 
 "[Thoughts on CloudFlare](https://www.reddit.com/r/privacytoolsIO/comments/cailfa/thoughts_on_cloudflare/)" by [techEnthusiast0](https://www.reddit.com/user/techEnthusiast0/)
 
+"[Is it possible to universally bypass the Cloudflare DDOS-protection? Can add a delay to your daily browsing when automatically clearing cookies](https://www.reddit.com/r/firefox/comments/c7ywt4/is_it_possible_to_universally_bypass_the/)" by [8VBQ-Y5AG-8XU9-567UM](https://www.reddit.com/user/8VBQ-Y5AG-8XU9-567UM)
+
 "[Este Cloudflare atac MITM?](https://forum.softpedia.com/topic/1146988-este-cloudflare-atac-mitm/)" by gladioc
 
 "[Cloudflare outage caused by deploying bad regular expression that caused 100% CPU usage worldwide, dropping up to 82% of traffic](https://www.reddit.com/r/sysadmin/comments/c8eymj/cloudflare_outage_caused_by_deploying_bad_regular/)" by [TyroPyro](https://www.reddit.com/user/TyroPyro/)
@@ -252,6 +254,18 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"You see, when the secure connection gets to Cloudflare, they do what is called SSL termination -- that means they end the secure connection so they can do a man-in-the-middle (MITM) attack. So any website you enter private information on, that uses Cloudflare, they get that info." by @[cqwww](https://twitter.com/cqwww/status/1146117149297016832)
+
+"If you'd asked me back then how we'd work around issues raised in the paper, I'd have said 'IPv6' and not "in the future we'll all just agree that Cloudflare gets to MitM half the Internet"" by @[arbedout](https://twitter.com/arbedout/status/1146069113023991808)
+
+"調査するとどうやら521エラーはcloudflareが障害を引き起こしているのが、原因だとわかりました。 こちらでは、対処ができないみたいなので早く復旧してくれることの祈ります" by @[yassan_channel](https://twitter.com/yassan_channel/status/1149288589219356677)
+
+"Is it possible to read your articles on patreon/subscribestar so that I wouldn’t have to visit cloudflare and solve endless google captchas?" by @[mezriss](https://twitter.com/mezriss/status/1146689544579964928)
+
+"One of the #Cloudflare outages included Down Detector, which tracks outages, meaning people couldn’t even see if the website they wanted to visit is working properly." by @[mrgeffitas](https://twitter.com/mrgeffitas/status/1146352778547216384)
+
+
 
 "Error 1006 is displayed and I can not browse the web I do not understand English because I am Japanese What should I do?" by @[Bliss87817873](https://twitter.com/Bliss87817873/status/1148856109970538496)
 
