@@ -179,7 +179,7 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 This repository is a list of websites that are behind "The Great Cloudwall", and also actively blocking Tor users.
 
 
-Data  -  mirrors: [NixNet](https://git.nixnet.xyz/Username/cloudflare-tor),  [CodeBerg](https://codeberg.org/Username/cloudflare-tor)
+Data  -  mirrors: [NixNet](https://git.nixnet.xyz/Username/cloudflare-tor),  [notabug](https://notabug.org/crimeflare/cloudflare-tor)
 * [Cloudflare Users](cloudflare_users/)
 * [Cloudflare Inc.](cloudflare_inc/)
 * [Domains: Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
