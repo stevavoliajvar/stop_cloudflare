@@ -1,8 +1,8 @@
-# How to setup git to collaborate on the cloudflare-tor project with SSH over Tor
+# How to setup git
 
 This procedure will give you a cloudflare-tor fork with a
 privacy-respecting configuration to do pushes with SSH over Tor using
-the onion host for notabug.org ("NAB").  This procedure is designed
+the onion host for codeberg.org ("CDB").  This procedure is designed
 for ***linux***.  The first step covers Windows too, but these
 instructions probably need more adaptations for Windows and other
 platforms.
