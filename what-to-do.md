@@ -12,7 +12,6 @@ Employee's comment:
 "*That was simply unfounded paranoia, pretty big difference.*"  ([source](https://twitter.com/xxdesmus/status/992757936123359233))
 
 
-
 ------------
 
 
@@ -341,6 +340,15 @@ Therefore we recommend above table only. Nothing else.
 - It's conceivable that the GNU GPL v4 could include a provision against storing source code behind such a service, requiring for all GPLv4 and later programs that at least the source code is accessible via a medium that does not discriminate against tor users (or any other class of users or something?)
 
 ------------
+
+```
+There is always hope in resistance.
+Resistance is fertile.
+Even some of the darker outcomes (unfriendly AI takeover, coopting of the www, NSA MiTMing everything) comes to be,
+the very act of resistance trains us to continue to destabilize the dystopic status quo that results.
+
+Resist!
+```
 
 ### Now, what did you do today?
 
