@@ -343,9 +343,12 @@ Therefore we recommend above table only. Nothing else.
 
 ```
 There is always hope in resistance.
+
 Resistance is fertile.
+
 Even some of the darker outcomes (unfriendly AI takeover, coopting of the www, NSA MiTMing everything)
-comes to be, the very act of resistance trains us to continue to destabilize the dystopic status quo that results.
+comes to be, the very act of resistance trains us to continue to destabilize the
+dystopic status quo that results.
 
 Resist!
 ```
