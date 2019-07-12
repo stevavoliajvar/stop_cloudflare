@@ -257,6 +257,12 @@ Disqualify:
 
 "You see, when the secure connection gets to Cloudflare, they do what is called SSL termination -- that means they end the secure connection so they can do a man-in-the-middle (MITM) attack. So any website you enter private information on, that uses Cloudflare, they get that info." by @[cqwww](https://twitter.com/cqwww/status/1146117149297016832)
 
+"This morning. Tell me again how #Cloudflare aren't having issues" by @[PAHarrisonpics](https://twitter.com/PAHarrisonpics/status/1149596711871893504)
+
+"Cloudflare has gone down around the world and vast numbers of websites have gone down with it" by @[PrimeTechSuppor](https://twitter.com/PrimeTechSuppor/status/1146101523119783937)
+
+"Cloudflare was down. Half the Internet was down. IoTeX blockchain wasn't." by @[qevanguo](https://twitter.com/qevanguo/status/1146067288916783104)
+
 "Cloudflare was down causing many others to be down too" by @[jhyu](https://twitter.com/jhyu/status/1149497658718822400)
 
 "If you'd asked me back then how we'd work around issues raised in the paper, I'd have said 'IPv6' and not "in the future we'll all just agree that Cloudflare gets to MitM half the Internet"" by @[arbedout](https://twitter.com/arbedout/status/1146069113023991808)
