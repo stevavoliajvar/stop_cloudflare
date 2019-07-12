@@ -5,7 +5,7 @@
    "version": "1.0.1905.1",
    "minimum_chrome_version": "60",
    "author": "Project BCMA",
-   "homepage_url": "https://notabug.org/themusicgod1/cloudflare-tor",
+   "homepage_url": "https://codeberg.org/crimeflare/cloudflare-tor",
    "incognito": "split",
    "permissions": [
       "<all_urls>",

@@ -42,7 +42,7 @@ platforms.
 <li> edit `$HOME/.ssh/config`[1]
 <li> copy `"$HOME"/.ssh/id_rsa_nab-snowden.pub` to clipboard
 <li> notabug.org > settings > SSH Keys > add key (paste from clipboard)
-<li> $ `firefox https://notabug.org/themusicgod1/cloudflare-tor`
+<li> $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
 <li> fork it (top right corner)
 <li> go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
 <li> anonymously download your fork: $ `torsocks git clone https://notabug.org/snowden/cloudflare-tor`
@@ -55,7 +55,7 @@ platforms.
 <li> if yes: `$ git add . -u`
 <li> $ `git commit -m 'description of first change'`
 <li> $ `git push origin master`
-<li> $ `firefox https://notabug.org/crimeflare/cloudflare-tor`
+<li> $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
 <li> make a new pull request
 </ol>
 

@@ -3,7 +3,7 @@
    "name": "Which website rejected me?",
    "version": "1.0.2",
    "minimum_chrome_version": "60",
-   "homepage_url": "https://notabug.org/crimeflare/cloudflare-tor",
+   "homepage_url": "https://codeberg.org/crimeflare/cloudflare-tor",
    "author": "Daniel J. Schreiber",
    "incognito": "split",
    "permissions": [
