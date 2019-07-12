@@ -257,9 +257,27 @@ Disqualify:
 
 "You see, when the secure connection gets to Cloudflare, they do what is called SSL termination -- that means they end the secure connection so they can do a man-in-the-middle (MITM) attack. So any website you enter private information on, that uses Cloudflare, they get that info." by @[cqwww](https://twitter.com/cqwww/status/1146117149297016832)
 
+"Cloudflare was down causing many others to be down too" by @[jhyu](https://twitter.com/jhyu/status/1149497658718822400)
+
 "If you'd asked me back then how we'd work around issues raised in the paper, I'd have said 'IPv6' and not "in the future we'll all just agree that Cloudflare gets to MitM half the Internet"" by @[arbedout](https://twitter.com/arbedout/status/1146069113023991808)
 
 "調査するとどうやら521エラーはcloudflareが障害を引き起こしているのが、原因だとわかりました。 こちらでは、対処ができないみたいなので早く復旧してくれることの祈ります" by @[yassan_channel](https://twitter.com/yassan_channel/status/1149288589219356677)
+
+"Cloudflareの障害で痛い目に遭ったのでCDNも分散させる" by @[dragon6887](https://twitter.com/dragon6887/status/1148188924478545921)
+
+"Cloudflareが障害起こした後から超安定しなくなった。" by @[InkoHX](https://twitter.com/InkoHX/status/1147426975281082368)
+
+"アメリカのCloudflareという会社がダウンしたようで、画像が送られないという障害が発生したようですね。" by @[hiiro33](https://twitter.com/hiiro33/status/1147408061444718592)
+
+"障害があった いずれもCloudflareを使っていたことがドメイン検索でわかります" by @[midori50000000](https://twitter.com/midori50000000/status/1147155939268501504)
+
+"なんというか、CloudFlareにfacebookにさくら、障害話が毎日続いて楽しい（楽しくない）ことに。" by @[Bredtn_1et](https://twitter.com/Bredtn_1et/status/1146699062264995841)
+
+"Well, looks like Cloudflare is experiencing yet another worldwide outage. This happened precisely as I was sending out a huge mass email to my entire Medfuseio community, so they all ended up getting directed to a website with a 521 error. " by @[iotmpls](https://twitter.com/iotmpls/status/1149013609390989314)
+
+"Cloudflare is returning error code 521 for every request to the IPSW API :(" by @[portuj](https://twitter.com/portuj/status/1148997592128401408)
+
+"Just as a point of information, Cloudflare is giving me a 521, telling me that the gab.ai  isn't responding." by @[FrancisRoyCA](https://twitter.com/FrancisRoyCA/status/1146747891387641858)
 
 "Is it possible to read your articles on patreon/subscribestar so that I wouldn’t have to visit cloudflare and solve endless google captchas?" by @[mezriss](https://twitter.com/mezriss/status/1146689544579964928)
 
