@@ -3,7 +3,7 @@ The MIT License
 Copyright (c) 2017 Project BCMA
 Copyright (c) 2017 cypherpunks
 Copyright (c) 2017 nullius <nullius@nym.zone>
-Copyright (c) 2018 Searxes <searxes.danwin1210.me>
+Copyright (c) 2019 Searxes <searxes.eu.org>
 Copyright (c) 2018 Jeff Cliff <@jeffcliff@niu.moe>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

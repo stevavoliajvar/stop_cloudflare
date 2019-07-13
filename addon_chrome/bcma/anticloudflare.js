@@ -1,24 +1,12 @@
 /*
 	"Welcome to PRISM 2.0"
 */
-var cf_flag_ok = 'icons/cf_0.png';
-var cf_flag_ng = 'icons/cf_1.png';
-var force_whitelist = ['searxes.cf', 'thunderbird.net', 'mozilla.org', 'archive.org', 'cloudflare.com', 'cloudflareapps.com', 'cloudflare-dns.com', 'cloudflarestatus.com', 'cloudflareapi.com', 'cloudflare-ipfs.com', 'cloudflare-quic.com'];
-var cfdomains = [];
-var known_cf_domains = [];
-
-fetch('bcmadata.txt', {
-	method: 'GET'
-}).then(function (b) {
-	return b.text();
-}).then(function (b) {
-	cfdomains = b.split("\n").filter(v => v != '');
-	known_cf_domains = cfdomains;
-});
-
-var my_cf_collection = [];
-var my_cf_ignore = [];
-var my_action = 2;
+const cf_flag_ok = 'icons/cf_0.png';
+const cf_flag_ng = 'icons/cf_1.png';
+const force_whitelist = ['searxes.eu.org', 'thunderbird.net', 'mozilla.org', 'archive.org', 'cloudflare.com', 'cloudflareapps.com', 'cloudflare-dns.com', 'cloudflarestatus.com', 'cloudflareapi.com', 'cloudflare-ipfs.com', 'cloudflare-quic.com'];
+let my_cf_collection = [];
+let my_cf_ignore = [];
+let my_action = 2;
 
 function onError(e) {
 	console.log(`BCMA: Error:${e}`);
@@ -43,7 +31,7 @@ function get_realdomain(w) {
 			}
 		}
 		if (wa[0] == 'org') {
-			if (wa[1] == 'ae') {
+			if (wa[1] == 'ae' || wa[1] == 'eu') {
 				return wa[2] + "." + wa[1] + "." + wa[0];
 			}
 		}
@@ -620,7 +608,7 @@ function update_icon(tid, url) {
 		});
 		return;
 	}
-	if (known_cf_domains.includes(cf_hostname) || my_cf_collection.includes(cf_hostname)) {
+	if (my_cf_collection.includes(cf_hostname)) {
 		if (my_action == 3) {
 			chrome.tabs.executeScript(tid, {
 				matchAboutBlank: true,
@@ -678,7 +666,7 @@ chrome.webRequest.onHeadersReceived.addListener(function (wr) {
 	if (force_whitelist.includes(wr_hostname)) {
 		return;
 	}
-	var cf_is = (known_cf_domains.includes(wr_hostname) || my_cf_collection.includes(wr_hostname)) ? true : false;
+	var cf_is = (my_cf_collection.includes(wr_hostname)) ? true : false;
 	if (!cf_is) {
 		var cf_headers = wr.responseHeaders,
 			cf_v_name, cf_v_value;
@@ -761,7 +749,7 @@ chrome.webRequest.onBeforeRequest.addListener(function (wr) {
 	if (force_whitelist.includes(wr_hostname)) {
 		return;
 	}
-	var cf_is = (known_cf_domains.includes(wr_hostname) || my_cf_collection.includes(wr_hostname)) ? true : false;
+	var cf_is = (my_cf_collection.includes(wr_hostname)) ? true : false;
 	if (cf_is) {
 		console.log('BCMA: Block Cloudflare BR', wr_hostname);
 		if (my_action == 0 || my_action == 1) {
@@ -788,19 +776,11 @@ chrome.webRequest.onBeforeRequest.addListener(function (wr) {
 
 chrome.runtime.onMessage.addListener(function (a, b, c) {
 	if (a[0] == 'cf') {
-		c(['ok', JSON.stringify(my_cf_collection), JSON.stringify(my_cf_ignore), (known_cf_domains.length == 0) ? false : true, my_action]);
+		c(['ok', JSON.stringify(my_cf_collection), JSON.stringify(my_cf_ignore), my_action]);
 	}
 	if (a[0] == 'erosman') {
 		my_cf_collection = [];
 		c(['destroy']);
-	}
-	if (a[0] == 'bi') {
-		if (a[1] == 'y') {
-			known_cf_domains = cfdomains;
-		} else {
-			known_cf_domains = [];
-		}
-		c(['ok']);
 	}
 	if (a[0] == 'ta') {
 		if (a[1] == '0') {

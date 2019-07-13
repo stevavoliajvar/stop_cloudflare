@@ -2,7 +2,7 @@
    "manifest_version": 2,
    "name": "Block Cloudflare MITM Attack",
    "description": "Submit to global surveillance or resist. The choice is yours.",
-   "version": "1.0.1905.1",
+   "version": "1.0.1907.1",
    "minimum_chrome_version": "60",
    "author": "Project BCMA",
    "homepage_url": "https://codeberg.org/crimeflare/cloudflare-tor",
