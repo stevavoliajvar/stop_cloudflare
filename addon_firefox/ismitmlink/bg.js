@@ -1,11 +1,11 @@
-let apiurl = 'https://searxes.eu.org/collab/open/ismitm.php';
+let apiurl = 'https://api.searxes.eu.org/_/ismitm.php';
 
-fetch('http://xxf4en4djo7hhvatax2g3lvj2qgvbwi4yeyyzwpo25zcog4ewhsbrdyd.onion/ok.php', {
+fetch('http://api.xxf4en4djo7hhvatax2g3lvj2qgvbwi4yeyyzwpo25zcog4ewhsbrdyd.onion/_/ok.php', {
 	method: 'GET',
 	mode: 'cors'
 }).then(r => r.text()).then(r => {
 	if (r == 'ok') {
-		apiurl = 'http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/open/ismitm.php';
+		apiurl = 'http://api.xxf4en4djo7hhvatax2g3lvj2qgvbwi4yeyyzwpo25zcog4ewhsbrdyd.onion/_/ismitm.php';
 	}
 }).catch(() => {});
 
