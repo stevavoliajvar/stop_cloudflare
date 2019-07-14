@@ -1,4 +1,4 @@
-if (document.body && !['searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion', 'searxes.eu.org'].includes(location.hostname)) {
+if (document.body && !['searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion', 'searxes.eu.org', 'api.searxes.eu.org'].includes(location.hostname)) {
 	let cs = (function () {
 		let s = document.createElement('style');
 		document.head.appendChild(s);
@@ -10,7 +10,7 @@ if (document.body && !['searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lw
 		cs.insertRule("a[data-mitm]:hover::before{content:'[\\26A1]'}", 2);
 		cs.insertRule("a[data-mitm]:hover{color:red !important}", 3);
 	}
-	let asked = ['searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion', 'searxes.eu.org', 'addons.mozilla.org', 'addons.thunderbird.net', 'web.archive.org'];
+	let asked = ['searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion', 'searxes.eu.org', 'api.searxes.eu.org', 'addons.mozilla.org', 'addons.thunderbird.net', 'web.archive.org'];
 	document.querySelectorAll("a[href^='http://']:not([data-mitm]),a[href^='https://']:not([data-mitm]),a[href^='//']:not([data-mitm])").forEach(a => {
 		let aF = (new URL(a.href)).hostname;
 		if (!/^(.*)\.(danwin1210\.me|onion|i2p|invalid|test|local|localhost|([0-9]{1,3})|bbs|chan|cyb|dyn|geek|gopher|indy|libre|neo|null|o|oss|oz|parody|pirate|bit|lib|coin|emc|bazar|fur)$/.test(aF) && !asked.includes(aF)) {
