@@ -2,7 +2,7 @@
    "manifest_version": 2,
    "name": "Which website rejected me?",
    "description": "Your website rejected me, but I know I'm going to be okay.",
-   "version": "1.0.2",
+   "version": "1.0.3",
    "homepage_url": "https://searxes.eu.org/",
    "author": "Searxes #Addon",
    "permissions": [
@@ -26,7 +26,7 @@
       "gecko": {
          "id": "urejectme@searxes.danwin1210.me",
          "strict_min_version": "56.0",
-         "update_url":"https://searxes.eu.org/collab/addon/au.php?for=ureject"
+         "update_url":"https://api.searxes.eu.org/_/addon.php?for=ureject"
       }
    }
 }
