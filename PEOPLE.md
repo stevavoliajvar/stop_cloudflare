@@ -81,6 +81,8 @@ Disqualify:
 
 "[Don’t Use Cloudflare Because You Impose This on People Who Least Want It](http://techrights.org/2019/02/17/the-cloudflare-trap/)" by [Dr. Roy Schestowitz](http://techrights.org/)
 
+"[All your DNS traffic will be sent to Cloudflare](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/)" by [ungleich](https://ungleich.ch/)
+
 "[Cloudflare: The bad, the worse and the ugly?](http://webschauder.de/cloudflare-the-bad-the-worse-and-the-ugly/)" by [Alle Beiträge](http://webschauder.de/author/jw/)
 
 "[I don’t trust Cloudflare with IPFS](https://blog.kareldonk.com/i-dont-trust-cloudflare-with-ipfs/)" by [Karel Donk](https://blog.kareldonk.com/)
