@@ -26,7 +26,9 @@ Take a look at the first image posted below. You will think Cloudflare block _on
 
 ---
 
-It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of filtering out many humans from seeing web content (ie everyone in mainland China and people outside) while at the same time those not affected to see a dratically different web, a web free of censorship such as an image of ["tank man"](https://en.wikipedia.org/wiki/Tank_Man) and the history of ["Tiananmen Square protests"](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests#Censorship_in_China). (Cloudflare also [block](PEOPLE.md) legit robots(crawlers) and API clients)
+It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of filtering out many humans from seeing web content (ie everyone in mainland China and people outside) while at the same time those not affected to see a dratically different web, a web free of censorship such as an image of ["tank man"](https://en.wikipedia.org/wiki/Tank_Man) and the history of ["Tiananmen Square protests"](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests#Censorship_in_China). 
+
+Cloudflare also [block](PEOPLE.md) legit robots/crawlers such as Google, Yandex, Yacy, and API clients.
 
 ---
 
@@ -35,6 +37,7 @@ It is called this in reference to the [Great Firewall of China](https://www.comp
 ![](image/accdenied.jpg)
 ![](image/cfublock.jpg)
 ![](image/omsjsck.jpg)
+![](image/cftestgoogle.jpg)
 
 ---
 
