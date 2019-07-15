@@ -14,4 +14,4 @@ Submit to global surveillance or resist. The choice is yours.
 * This add-on don't save your setting to disk. (no "storage" permission)
 ```
 
-[Download add-on](../bcma.xpi)
+[Download add-on](https://api.searxes.eu.org/_/addon.php?dl=dl&for=bcma)
