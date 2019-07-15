@@ -1472,6 +1472,13 @@ Disqualify:
 
 ######  Mastodon
 
+"Don't laugh when #cloudflare says “the network is the computer.” They mean #surveillance and they mean the surveillance goes all the way to the endpoints. Boycott them and their nefarious agenda." by @[roy](https://pleroma.site/objects/1ddf444d-0f2c-4d0d-bc11-e06f28efd5bc)
+
+"I think I've found an alternative to #Cloudflare Liberapay. I'm going to set #Fosspay up this evening and start replacing Liberapay links on my website" by @[amolith](https://masto.nixnet.xyz/@amolith/102436150784521976)
+
+"Ich nutz hauptsächlich #Tor. Zwar #heuchelt #Cloudflare Tor-Freundlich zu sein, z.B. mit eigener Onion Adresse. Aber standardmäßig blocken die Tor Verbindungen, sofern man sie nicht freigibt.
+Zudem empfinde ich es nicht gerade als Datenschutzfreundlich, die Cloudflare Proxy Server zu nutzen. Vor allem, da Cloudflare dem Patriot Act untersteht." by @[kromonos](https://metalhead.club/@kromonos/102440347862158580)
+
 "Hyperbola members who don't care about #Cloudflare, which disrepect the privacy over violation of rule 3 of the social contract" by @[HarvettFox96](https://hostux.social/@HarvettFox96/102414243375270600)
 
 "Remember how the liars at #cloudflare pretended that had come under attack (causing major downtime), only later to admit that they broke their own service because they're technically incompetent. Avoid them." by @[schestowitz](https://pleroma.site/objects/a5533839-4678-4c06-975f-5ceceeaa793d)
