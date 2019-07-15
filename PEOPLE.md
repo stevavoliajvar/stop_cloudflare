@@ -781,6 +781,8 @@ Disqualify:
 
 "They block anyone who challenges them on their lack of morals or ethics. All while claiming transparency and protection of free speech." by @[phyzonloop](https://twitter.com/phyzonloop/status/1126950283580456960)
 
+"Cloudflare by design has to MITM your TLS connection, #cloudbleed can happen again." by @[kraih](https://twitter.com/kraih/status/835918495250460672)
+
 "How about actually focus on protecting your website and not rely on free cloudflare to cover your ass" by @[organise](https://twitter.com/organise/status/1127363885282017280)
 
 "Use #1dot1dot1dot1, and you WILL be spied on." by @[brettglass](https://twitter.com/brettglass/status/1126521626768609281)
