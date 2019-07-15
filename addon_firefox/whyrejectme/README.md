@@ -10,4 +10,4 @@ Which website rejected me?
 3. You can review it from Option menu.
 ```
 
-[Download add-on](../ureject.xpi)
+[Download add-on](https://api.searxes.eu.org/_/addon.php?dl=dl&for=ureject)
