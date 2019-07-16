@@ -73,6 +73,8 @@ Disqualify:
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Does Cloudflare help my WordPress site?](https://seravo.com/blog/does-cloudflare-help-my-wordpress-site/)" by [Seravo](https://seravo.com/)
+
 "[Say no to Cloudflare](https://robinwils.gitlab.io/articles/say-no-to-cloudflare.html)" by [Robin Wils](https://robinwils.gitlab.io/contact.html)
 
 "[Why I Stopped Using CloudFlare](https://www.reviewhell.com/blog/cloudflare-makes-websites-slower/)" by [Review Hell](https://www.reviewhell.com/)
@@ -256,6 +258,12 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"why are you blocking spinquark?" by @[jhthurman](https://twitter.com/jhthurman/status/1150773700842725382)
+
+"did you know you’re being blocked by Cloudflare?" by @[jhthurman](https://twitter.com/jhthurman/status/1150775195503865857)
+
+"Hey Cloudflare why all of a sudden are you challenging Google when they go to spider our sites sitemap_index.xml is google now a suspicious party now." by @[delawarewebhost](https://twitter.com/delawarewebhost/status/1150411571996160002)
 
 "You see, when the secure connection gets to Cloudflare, they do what is called SSL termination -- that means they end the secure connection so they can do a man-in-the-middle (MITM) attack. So any website you enter private information on, that uses Cloudflare, they get that info." by @[cqwww](https://twitter.com/cqwww/status/1146117149297016832)
 
