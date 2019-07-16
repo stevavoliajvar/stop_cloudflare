@@ -95,6 +95,8 @@ Disqualify:
 
 "[Don't Trust CloudFlare](https://write.lain.haus/thufie/dont-trust-cloudflare)" by [@lunaterra@cyberia.social](https://cyberia.social/@lunaterra)
 
+"[CloudFlare slowed down our site](https://pergento.wordpress.com/2012/02/01/cloudflare-slowed-down-our-site/)" by [Callum](https://pergento.wordpress.com/author/chmac/)
+
 "[Stay away from CloudFlare](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html)" by [Unix Sheikh](http://www.unixsheikh.com/)
 
 "[Cloudflare and Spamhaus](https://wordtothewise.com/2012/07/cloudflare-and-spamhaus/)" by [laura](https://wordtothewise.com/author/laura/)
@@ -162,6 +164,8 @@ Disqualify:
 "[Be wary reporting to Cloudflare](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)" by [athenahollow](https://www.reddit.com/user/athenahollow/)
 
 "[Ditch Cloudflare - Broken HTTPS/MiTM](https://greysec.net/showthread.php?tid=1256)" by [NO-OP](https://greysec.net/member.php?action=profile&uid=47)
+
+"[Slow load after settng up CloudFlare](https://www.webpagetest.org/forums/showthread.php?tid=14948)" by [Altberger](https://www.webpagetest.org/forums/member.php?action=profile&uid=456680)
 
 "[HTTPSを「借りる」のはやめよう。](https://srad.jp/comment/3349767)" by [Printable is bad.](https://srad.jp/~Printable%20is%20bad./)
 
