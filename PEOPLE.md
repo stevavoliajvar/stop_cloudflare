@@ -263,6 +263,22 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"It's scary to see how many websites are relaying on CloudFlare, and yet they go down pretty much frequently. They control the internet." by @[OctolusNET](https://twitter.com/OctolusNET/status/1146056667424907265)
+
+"Recent #outages from Cloudflare and Google are a stark reminder that the internet is increasingly centralized and easily broken." by @[CurtailInc](https://twitter.com/CurtailInc/status/1151613547283009536)
+
+"Cloudflare is down more often than it's up on Charter / Spectrum. Oddly enough the DNS servers I shared a photo of work just fine & they too are anycast just like cloudflare." by @[IanKoHoman](https://twitter.com/IanKoHoman/status/1151627555524489217)
+
+"why'd you do this Cloudflare?" by @[prith_august](https://twitter.com/prith_august/status/1151117385824215040)
+
+"LMAO it's another fucking cloudflare thing, how. fucking. incompetent can you be??? what the actual fuck?? LOL" by @[literallypoo](https://twitter.com/literallypoo/status/1151286341168242688)
+
+"both their status pages are all green fucking amazing why do people even use cloudflare i get it but at the same time it's so dumb i'd understand it if they were proper about this and 1) properly reported downtime and 2) properly handled user data but they don't" by @[osk______](https://twitter.com/osk______/status/1151287059514048513)
+
+"Ask why Cloudflare keeps on using Google’s reCAPTCHA when they can do their own. " by @[rom](https://twitter.com/rom/status/1151423727629828096)
+
+"Looks like a Cloudflare issue. This is why I don't trust Cloudflare. So many people use it, which puts them into a position of being a gateway to information. You have to go through them to get to your favorite site. The perfect climate for a marxist censorship takeover." by @[Scarasyte](https://twitter.com/Scarasyte/status/1151604200754884609)
+
 "why are you blocking spinquark?" by @[jhthurman](https://twitter.com/jhthurman/status/1150773700842725382)
 
 "did you know you’re being blocked by Cloudflare?" by @[jhthurman](https://twitter.com/jhthurman/status/1150775195503865857)
@@ -1486,12 +1502,32 @@ Disqualify:
 
 ######  Mastodon
 
+"Wenn ich mir die Möglichkeiten ansehe, die ich mit #nginx habe, Log Dateien zu schreiben, läuft mir echt ein eiskalter Schauer über den Rücken,weil ich mir ausmalen kann,welchen Preis Besucher von #Webseiten hinter #Cloudflare #Proxy Servern bezahlen. Wenn ich das ganze dann hoch rechne...Die könnten ein komplettes bewegungsprofil eines jeden erstellen. Und Google wird durch das Captcha direkt mit gefüttert.
+Ich als Anbieter könnte echt nicht mit dem Gewissen leben,meine Besucher so zu verkaufen" by @[kromonos](https://metalhead.club/@kromonos/102458133671163498)
+
+"Mit "Serverstandort Deutschland" zu werben, nutzt einen scheißdreck, wenn man den Server hinter den USA Proxys von #CloudFlare versteckt." by @[kromonos](https://metalhead.club/@kromonos/102457750251926436)
+
+"Really disappointed and a little disgusted by the #Matrix team. Putting #Cloudflare spyware on their main instance, forcing every user to either go through the malicious wall or to use a homeserver that doesn't federate with matrix.org thus cutting itself off from just about everything. Will be giving #XMPP a go today. Wonder if that community has even the tiniest bit of respect for users." by @[OTheB](https://mastodon.technology/@OTheB/102456355379841384)
+
+"Even the main instance uses Cloudflare. New users will probably just use the main instance for convenience." by @[RMW](https://linuxrocks.online/@RMW/102457086242309937)
+
 "Don't laugh when #cloudflare says “the network is the computer.” They mean #surveillance and they mean the surveillance goes all the way to the endpoints. Boycott them and their nefarious agenda." by @[roy](https://pleroma.site/objects/1ddf444d-0f2c-4d0d-bc11-e06f28efd5bc)
 
 "I think I've found an alternative to #Cloudflare Liberapay. I'm going to set #Fosspay up this evening and start replacing Liberapay links on my website" by @[amolith](https://masto.nixnet.xyz/@amolith/102436150784521976)
 
+"All I want is a #privacy respecting messaging platform that does group conversations and voice chat, does that *really* have to be a big ask? Been really put off #Matrix with the #Cloudflare bullshit and their attitude towards it. There are whole papers on the issues with it. When will this fucking nightmare end? I need suggestions. What things do other people use for this stuff?" by @[OTheB](https://mastodon.technology/@OTheB/102456866393573493)
+
+"Hi pixelfed! You just added a mandatory #Cloudflare ajax service to pixelfed.social? The page is empty now..." by @[antonlopez](https://mastodon.social/@antonlopez/102451687366539901)
+
 "Ich nutz hauptsächlich #Tor. Zwar #heuchelt #Cloudflare Tor-Freundlich zu sein, z.B. mit eigener Onion Adresse. Aber standardmäßig blocken die Tor Verbindungen, sofern man sie nicht freigibt.
 Zudem empfinde ich es nicht gerade als Datenschutzfreundlich, die Cloudflare Proxy Server zu nutzen. Vor allem, da Cloudflare dem Patriot Act untersteht." by @[kromonos](https://metalhead.club/@kromonos/102440347862158580)
+
+"außerdem empfinde ich persönlich es als Wohltuend, wenn die #CloudFlare #Fanboys mal genauso auf ein Forbidden stoßen, wie #TOR User all zu gern bei CloudFlare" by @[kromonos](https://metalhead.club/@kromonos/102447153687932571)
+
+"I think that I will stop using it, until they remove it from Cloudflare. I don't see it as something that is made for privacy if it decides to use Cloudflare for their main instance." by @[Robin](https://welovela.in/objects/456f3bba-ee24-48c5-92a3-7f80349dfbc3)
+
+"angesprochen sollten auch nur jene werden, die keine Ahnung haben, aber dann so tun, als hätten sie sie. IT Blogger, die Anleitungen dazu bringen, wie man die #Tor Exit Knoten Liste herunter lädt um die IP Adressen dann zu blockieren. Weil #CloudFlare ja gesagt hat.
+Und jene, die keine Ahnung haben ... denen ist die Meinung der wirklichen Experten scheiß egal. Die lauschen lieber auf jene, die mit ihrem gefährlichen Halbwissen das Internet verpesten." by @[kromonos](https://metalhead.club/@kromonos/102445550843368442)
 
 "Hyperbola members who don't care about #Cloudflare, which disrepect the privacy over violation of rule 3 of the social contract" by @[HarvettFox96](https://hostux.social/@HarvettFox96/102414243375270600)
 
