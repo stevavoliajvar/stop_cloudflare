@@ -263,6 +263,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Hey Cloudflare, your 1111resolver isn't responding to queries from my box at ovh, what's up? I'm in the 192.95.9.0/24 block. I guess I have to use Google for now" by @[dpedu](https://twitter.com/dpedu/status/1151603868574220288)
+
+"Their abuse form is a joke and results in no action." by @[phyzonloop](https://twitter.com/phyzonloop/status/1151831447554134016)
+
 "It's scary to see how many websites are relaying on CloudFlare, and yet they go down pretty much frequently. They control the internet." by @[OctolusNET](https://twitter.com/OctolusNET/status/1146056667424907265)
 
 "Recent #outages from Cloudflare and Google are a stark reminder that the internet is increasingly centralized and easily broken." by @[CurtailInc](https://twitter.com/CurtailInc/status/1151613547283009536)
@@ -366,6 +370,14 @@ Disqualify:
 "If everyone could stop using shit ass Cloudflare so giant sections of the web wouldn’t go down every time they have an issue, that would be great. " by @[rob_neu](https://twitter.com/rob_neu/status/1146108992734879744)
 
 "Where 1 day later, pretty much half of the worlds, widely available and most used communications platforms and devices just stop working." by @[The1stStroke](https://twitter.com/The1stStroke/status/1146472721200635906)
+
+"Is Cloudflare an extortion racket now? I have to enter a captcha to view every single webpage" by @[protocollie](https://twitter.com/protocollie/status/1151114888602894337)
+
+"Going to a website and seeing the cloudflare ddos protection CAPTCHA means you've stumbled upon some good shit" by @[spikhykaran](https://twitter.com/spikhykaran/status/1150749661906391041)
+
+"So recently Patreon moved behind Cloudflare. Now my patreon-feed library doesn't work because the setup Cloudflare has for Patreon requires CAPTCHA before it will let you through, and that fucks up with the feed." by @[daemionfox](https://twitter.com/daemionfox/status/1149090123432255489)
+
+"I think we don't hate the creators of Captcha enough. 15 captchas later I still can't retrieve a single API key" by @[MSF_Jarvis](https://twitter.com/MSF_Jarvis/status/1150074959986749440)
 
 "Why is half the internet down this week? Facebook, WhatsApp, twitter, Cloudflare..." by @[elie2222](https://twitter.com/elie2222/status/1146524774673395713)
 
@@ -1501,6 +1513,12 @@ Disqualify:
 ------
 
 ######  Mastodon
+
+"Wir haben also eine „ethical hacker“ #Zertifizierung von der #NSA beworben und CloudFlare auf einer Seite. Was sagt uns das also über #CloudFlare aus? Für mich persönlich sieht das so aus, als würde CloudFlare die Daten direkt zur NSA weiter leiten" by @[kromonos](https://metalhead.club/@kromonos/102462408957007477)
+
+"It's because cloudflare actively spies on traffic going through it, so any service connected to it is compromised by default. Even if the service itself is well-meaning and wants to respect privacy, just having cloudflare there ruins all of it." by @[OTheB](https://mastodon.technology/@OTheB/102457243116505761)
+
+"Cloudflare had a unchecked regex expression they rolled out to live service without testing and it broke half the Internet." by @[Bluedepth](https://mastodon.technology/@Bluedepth/102457244936687401)
 
 "Wenn ich mir die Möglichkeiten ansehe, die ich mit #nginx habe, Log Dateien zu schreiben, läuft mir echt ein eiskalter Schauer über den Rücken,weil ich mir ausmalen kann,welchen Preis Besucher von #Webseiten hinter #Cloudflare #Proxy Servern bezahlen. Wenn ich das ganze dann hoch rechne...Die könnten ein komplettes bewegungsprofil eines jeden erstellen. Und Google wird durch das Captcha direkt mit gefüttert.
 Ich als Anbieter könnte echt nicht mit dem Gewissen leben,meine Besucher so zu verkaufen" by @[kromonos](https://metalhead.club/@kromonos/102458133671163498)
