@@ -18,6 +18,7 @@ dohop.com
 downtownorlando.com
 eater.com
 europa.eu
+expedia.com
 expo2015.org
 forum.pfsense.org
 forums.freebsd.org
