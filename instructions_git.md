@@ -28,7 +28,7 @@ need more adaptations for Windows and other platforms.
 1. $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
 1. fork it (top right corner)
 1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
-1. anonymously download your fork: $ `torsocks git clone https://codeberg.org/snowden/cloudflare-tor`
+1. anonymously download your fork: $ `git clone git@codeberg-snowden:crimeflare/cloudflare-tor.git`
 1. edit `$project_root/cloudflare-tor/.git/config` to include the account name and email address that will be on every commit, as well as the URL:
 ```
 [user]
@@ -56,8 +56,7 @@ need more adaptations for Windows and other platforms.
 
 &nbsp;
 
-Notice that only the `git clone` command has a `torsocks` prefix and
-all git commands thereafter do not.  Whenever git operates on the
-cloudflare-tor project, all connections to codeberg are automatically over
-Tor with this configuration (because the `url` in `.git/config`
-references the virtual host `codeberg-snowden` in `~/.ssh/config`).
+Whenever git operates on the cloudflare-tor project, all connections
+to codeberg are automatically over Tor with this configuration
+(because the `url` in `.git/config` references the virtual host
+`codeberg-snowden` in `~/.ssh/config`).
