@@ -10,8 +10,10 @@ need more adaptations for Windows and other platforms.
 - Linux: `aptitude install git tor ssh`
 - Windows: Download `https://github.com/git-for-windows/git/releases/PortableGit-2.21.0-64-bit.7z` & run `git-bash.exe`
 
-
-[1]
+1. install Git, SSH(Not Windows), and Tor (if you haven't already)
+1. create a `codeberg.org` account (username "snowden" will be used for this example)
+1. create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_codeberg-snowden`
+1. edit `$HOME/.ssh/config`:
 ```
     host codeberg-*
          hostname     codeberg.org
@@ -21,33 +23,13 @@ need more adaptations for Windows and other platforms.
          IdentityFile /home/user/.ssh/id_rsa_codeberg-snowden
 ```
 
-[2]
-```
-[user]
-        email = BM-yadayadayada6fgnLfybVnCcWf25AGZcgg@bitmessage.ch
-        name = snowden
-[remote "origin"]
-        url = git@codeberg-snowden:snowden/cloudflare-tor.git
-     	fetch = +refs/heads/*:refs/remotes/origin/*
-[remote "upstream"]
-        url = git@codeberg-snowden:crimeflare/cloudflare-tor.git
-     	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "master"]
-	remote = origin
-	merge = refs/heads/master
-```
-
-1. install Git, SSH(Not Windows), and Tor (if you haven't already)
-1. create a `codeberg.org` account (username "snowden" will be used for this example)
-1. create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_codeberg-snowden`
-1. edit `$HOME/.ssh/config`[1]
 1. copy `"$HOME"/.ssh/id_rsa_codeberg-snowden.pub` to clipboard
 1. codeberg.org > settings > SSH/GPG Keys > add key (paste from clipboard)
 1. $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
 1. fork it (top right corner)
 1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
 1. anonymously download your fork: $ `torsocks git clone https://codeberg.org/snowden/cloudflare-tor`
-1. edit `$project_root/cloudflare-tor/.git/config` to include the account name and email address that will be on every commit, as well as the URL[2]
+1. edit `$project_root/cloudflare-tor/.git/config` to include the account name and email address that will be on every commit, as well as the URL:
 ```
 [user]
         email = BM-yadayadayada6fgnLfybVnCcWf25AGZcgg@bitmessage.ch
