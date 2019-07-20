@@ -51,6 +51,7 @@ need more adaptations for Windows and other platforms.
 <li> edit `$project_root/cloudflare-tor/.git/config` to include the
    account name and email address that will be on every commit, as
    well as the URL[2]
+
 ```
 [user]
         email = BM-yadayadayada6fgnLfybVnCcWf25AGZcgg@bitmessage.ch
