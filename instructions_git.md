@@ -10,8 +10,10 @@ need more adaptations for Windows and other platforms.
 - Linux: `aptitude install git tor ssh`
 - Windows: Download `https://github.com/git-for-windows/git/releases/PortableGit-2.21.0-64-bit.7z` & run `git-bash.exe`
 
-
-[1]
+1. install Git, SSH(Not Windows), and Tor (if you haven't already)
+1. create a `codeberg.org` account (username "snowden" will be used for this example)
+1. create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_codeberg-snowden`
+1. edit `$HOME/.ssh/config`:
 ```
     host codeberg-*
          hostname     codeberg.org
@@ -21,7 +23,13 @@ need more adaptations for Windows and other platforms.
          IdentityFile /home/user/.ssh/id_rsa_codeberg-snowden
 ```
 
-[2]
+1. copy `"$HOME"/.ssh/id_rsa_codeberg-snowden.pub` to clipboard
+1. codeberg.org > settings > SSH/GPG Keys > add key (paste from clipboard)
+1. $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
+1. fork it (top right corner)
+1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
+1. anonymously download your fork: $ `torsocks git clone https://codeberg.org/snowden/cloudflare-tor`
+1. edit `$project_root/cloudflare-tor/.git/config` to include the account name and email address that will be on every commit, as well as the URL:
 ```
 [user]
         email = BM-yadayadayada6fgnLfybVnCcWf25AGZcgg@bitmessage.ch
@@ -37,29 +45,14 @@ need more adaptations for Windows and other platforms.
 	merge = refs/heads/master
 ```
 
-<ol>
-<li> install Git, SSH(Not Windows), and Tor (if you haven't already)
-<li> create a `codeberg.org` account (username "snowden" will be used for this example)
-<li> create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_codeberg-snowden`
-<li> edit `$HOME/.ssh/config`[1]
-<li> copy `"$HOME"/.ssh/id_rsa_codeberg-snowden.pub` to clipboard
-<li> codeberg.org > settings > SSH/GPG Keys > add key (paste from clipboard)
-<li> $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
-<li> fork it (top right corner)
-<li> go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
-<li> anonymously download your fork: $ `torsocks git clone https://codeberg.org/snowden/cloudflare-tor`
-<li> edit `$project_root/cloudflare-tor/.git/config` to include the
-   account name and email address that will be on every commit, as
-   well as the URL[2]
-<li> make your first change
-<li> (from `$project_root`) $ `git add . -u -n`
-<li> check that the files listed are what you changed and intend to push upstream
-<li> if yes: `$ git add . -u`
-<li> $ `git commit -m 'description of first change'`
-<li> $ `git push origin master`
-<li> $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
-<li> make a new pull request
-</ol>
+1. make your first change
+1. (from `$project_root`) $ `git add . -u -n`
+1. check that the files listed are what you changed and intend to push upstream
+1. if yes: `$ git add . -u`
+1. $ `git commit -m 'description of first change'`
+1. $ `git push origin master`
+1. $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
+1. make a new pull request
 
 &nbsp;
 
