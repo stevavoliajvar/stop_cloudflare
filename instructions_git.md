@@ -51,7 +51,7 @@ need more adaptations for Windows and other platforms.
 <li> edit `$project_root/cloudflare-tor/.git/config` to include the
    account name and email address that will be on every commit, as
    well as the URL[2]
-<code>
+```
 [user]
         email = BM-yadayadayada6fgnLfybVnCcWf25AGZcgg@bitmessage.ch
         name = snowden
@@ -64,7 +64,7 @@ need more adaptations for Windows and other platforms.
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
-</code>
+```
 <li> make your first change
 <li> (from `$project_root`) $ `git add . -u -n`
 <li> check that the files listed are what you changed and intend to push upstream
