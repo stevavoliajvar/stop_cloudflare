@@ -26,6 +26,7 @@ freegeoip.net
 freelancer.is
 freshworks.com
 geocaching.com
+ghostbrowser.com
 groupon.com
 gutenberg.org
 hoovers.com
