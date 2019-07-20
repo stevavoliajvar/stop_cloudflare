@@ -65,6 +65,7 @@ need more adaptations for Windows and other platforms.
 	remote = origin
 	merge = refs/heads/master
 ```
+
 <li> make your first change
 <li> (from `$project_root`) $ `git add . -u -n`
 <li> check that the files listed are what you changed and intend to push upstream
