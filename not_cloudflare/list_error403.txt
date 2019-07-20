@@ -1,5 +1,6 @@
 abebooks.com
 acehardware.com
+adidas.com
 ajc.com
 angieslist.com
 asus.com
@@ -66,6 +67,7 @@ usnews.com
 usps.com
 tomsguide.com
 tomshardware.com
+twistedthrottle.com
 vueling.com
 wayfair.com
 whodoyou.com
