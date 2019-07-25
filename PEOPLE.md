@@ -201,6 +201,8 @@ Disqualify:
 
 ######  Microsoft GitHub
 
+"[The feed stopped working](https://github.com/splitbrain/patreon-rss/issues/4)" by [leandroprz](https://github.com/leandroprz)
+
 "[Tor and Cloudflare](https://github.com/Eloston/ungoogled-chromium/issues/783)" by [nchv](https://github.com/nchv)
 
 "[Stop using Cloudflare to make site https](https://github.com/nownabe/blog.nownabe.com/issues/45)" by [nownabe](https://github.com/nownabe)
