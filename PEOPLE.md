@@ -263,6 +263,12 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"cloudflare is blocking adsense login for websites" by @[joecioffi](https://twitter.com/joecioffi/status/1153459742192349185)
+
+"I'm trying to report a bug on your pro forum but I'm being blocked by your CloudFlare spam filter for (I assume) posting PHP code." by @[amielucha](https://twitter.com/amielucha/status/1152224097893572610)
+
+"Hi, I've been blocked from the website by cloudflare with a 1020 error? Is there a way to fix this?" by @[isasangtae](https://twitter.com/isasangtae/status/1152409567709450240)
+
 "Hey Cloudflare, your 1111resolver isn't responding to queries from my box at ovh, what's up? I'm in the 192.95.9.0/24 block. I guess I have to use Google for now" by @[dpedu](https://twitter.com/dpedu/status/1151603868574220288)
 
 "Their abuse form is a joke and results in no action." by @[phyzonloop](https://twitter.com/phyzonloop/status/1151831447554134016)
@@ -1514,7 +1520,19 @@ Disqualify:
 
 ######  Mastodon
 
+" Ich surf inzwischen fast ausschließlich über #TOR. Außer bei Betreibern, denen ic traue. Deswegen hab ich so oft ärger mit #CloudFlare. Nur wenige machen es z.B. wie nipos und deaktivieren den "TOR Schutz"." by @[kromonos](https://metalhead.club/@kromonos/102501955975549073)
+
+"na klasse. Noch so eine deutsche Firma, die glaubt, der Datenschutz sei gewährleistet, wenn man den kompletten Traffic durch einen proxy in den USA leitet. Also das Linux Magazin, nicht tuxedocomputers
+Man könnte echt meinen, die deutschen könnten ohne #Cloudflare nicht mehr leben " by @[kromonos](https://metalhead.club/@kromonos/102501662983987631)
+
+"kann mir sicher beantworten, in wie weit #Cloudflare mit dem deutschen #Datenschutz vereinbar ist, wenn man eine #Homepage hinter deren #Proxy Server versteckt, deren Standorte in den #USA liegen? Und wie muss Cloudflare in dem Fall in der #Datenschutzerklärung angegeben sein?" by @[kromonos](https://metalhead.club/@kromonos/102497051015883486)
+
 "Wir haben also eine „ethical hacker“ #Zertifizierung von der #NSA beworben und CloudFlare auf einer Seite. Was sagt uns das also über #CloudFlare aus? Für mich persönlich sieht das so aus, als würde CloudFlare die Daten direkt zur NSA weiter leiten" by @[kromonos](https://metalhead.club/@kromonos/102462408957007477)
+
+"Das #Linux #Magazin nennt die Nutzung der #CloudFlare Reverse-Proxy Server als #CDN ... Wenn das CDN ist, was ist dann das Ausliefern einzelner Dateien über einen extra Server?
+CloudFlare kann echt bald von jedem ein Bewegungsprofil erstellen, dagegen sind die Fahrzeuge von #Google Maps ein scheiß" by @[kromonos](https://metalhead.club/@kromonos/102475706977537396)
+
+"Lustig, wie selbst #INWX in ihren Datenschutzerklärungen in keinster Weise #CloudFlare erwähnt." by @[kromonos](https://metalhead.club/@kromonos/102474883800543138)
 
 "It's because cloudflare actively spies on traffic going through it, so any service connected to it is compromised by default. Even if the service itself is well-meaning and wants to respect privacy, just having cloudflare there ruins all of it." by @[OTheB](https://mastodon.technology/@OTheB/102457243116505761)
 
