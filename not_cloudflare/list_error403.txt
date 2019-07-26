@@ -27,6 +27,7 @@ freegeoip.net
 freelancer.is
 freshworks.com
 geocaching.com
+ghostbrowser.com
 groupon.com
 gutenberg.org
 hoovers.com
@@ -54,6 +55,7 @@ retailmenot.com
 rijksoverheid.nl
 riteaid.com
 safeco.com
+sec.gov
 securifi.com
 signon.ruc.dk
 singpolyma.net
@@ -62,6 +64,7 @@ stadssb.ruc.dk
 staples.com
 stefanv.com
 study.com
+techwalla.com
 theverge.com
 usnews.com
 usps.com
@@ -77,4 +80,5 @@ witopia.net
 www.cisco.com
 www.flytap.com
 www.spirit.com
-techwalla.com
+yopmail.com
+yopmail.net
