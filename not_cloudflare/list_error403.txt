@@ -79,4 +79,5 @@ witopia.net
 www.cisco.com
 www.flytap.com
 www.spirit.com
-techwalla.com
+yopmail.com
+yopmail.net
