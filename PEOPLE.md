@@ -183,8 +183,6 @@ Disqualify:
 
 "[Fucking Cloudflare](https://www.reddit.com/r/TOR/comments/351ept/fucking_cloudflare/)" by [deleted](https://www.reddit.com/r/TOR/comments/351ept/fucking_cloudflare/)
 
-"[Completely remove CloudFlare?  Yahoo Answers](https://answers.yahoo.com/question/index?qid=20130104142907AAUVyJv)" by Yahoo user
-
 "[Cloudflare as a Security Risk - Support - Whonix Forum](http://forums.whonix.org/t/cloudflare-as-a-security-risk/2162)" by [entr0py](https://forums.whonix.org/u/entr0py)
 
 "[My dad is getting pop-ups from CloudFlare every time he types something into his Mozilla Firefox search/address bar and hits enter.](http://archive.is/XTRlk)" by [Yahoo! user](http://archive.is/XTRlk)
