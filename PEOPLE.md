@@ -131,6 +131,8 @@ Disqualify:
 
 "[iSucker: Big Brother Internet Culture](https://exiledonline.com/isucker-big-brother-internet-culture/)" by [The Exiled](https://exiledonline.com/)
 
+"[The Trouble with CloudFlare](https://blog.torproject.org/trouble-cloudflare)" by [mikeperry](https://blog.torproject.org/users/mikeperry)
+
 "[Growing Cloudflare Menace](http://imhhge4lijqv7jzf.onion/warning.html)"
 
 ------
@@ -146,6 +148,8 @@ Disqualify:
 "[Cloudflare outage caused by deploying bad regular expression that caused 100% CPU usage worldwide, dropping up to 82% of traffic](https://www.reddit.com/r/sysadmin/comments/c8eymj/cloudflare_outage_caused_by_deploying_bad_regular/)" by [TyroPyro](https://www.reddit.com/user/TyroPyro/)
 
 "[Cloudflare outage AGAIN MAH INTERNETS! Nooo!](https://www.reddit.com/r/sysadmin/comments/c89fa4/cloudflare_outage_again/)" by [Lewis_Browne](https://www.reddit.com/user/Lewis_Browne/)
+
+"[Dear customers of Cloudflare: an appeal regarding Tor](https://news.ycombinator.com/item?id=17750801)" by [IngoBlechschmid](https://news.ycombinator.com/user?id=IngoBlechschmid)
 
 "[Cloudflare CDN suffers route leak; services like Discord and Crunchyroll experience outages all over the world](https://www.reddit.com/r/worldnews/comments/c4n42g/cloudflare_cdn_suffers_route_leak_services_like/)" by [DragonSkyMusic](https://www.reddit.com/user/DragonSkyMusic/)
 
@@ -163,15 +167,23 @@ Disqualify:
 
 "[Be wary reporting to Cloudflare](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)" by [athenahollow](https://www.reddit.com/user/athenahollow/)
 
+"["Fuck CloudFlare" stickers](https://www.reddit.com/r/TOR/comments/46kn1d/fuck_cloudflare_stickers/)" by [pizzaiolo_](https://www.reddit.com/user/pizzaiolo_/)
+
 "[Ditch Cloudflare - Broken HTTPS/MiTM](https://greysec.net/showthread.php?tid=1256)" by [NO-OP](https://greysec.net/member.php?action=profile&uid=47)
 
 "[Slow load after settng up CloudFlare](https://www.webpagetest.org/forums/showthread.php?tid=14948)" by [Altberger](https://www.webpagetest.org/forums/member.php?action=profile&uid=456680)
+
+"[CloudFlare - What the Daily WTF?](https://what.thedailywtf.com/topic/11168/cloudflare)" by [Daniel Beardsmore](https://what.thedailywtf.com/user/daniel_beardsmore)
 
 "[HTTPSを「借りる」のはやめよう。](https://srad.jp/comment/3349767)" by [Printable is bad.](https://srad.jp/~Printable%20is%20bad./)
 
 "[PSA: Do not trust any website using CloudFlare.](https://www.reddit.com/r/Bitcoin/comments/5w13kw/psa_do_not_trust_any_website_using_cloudflare/)" by [danda](https://www.reddit.com/user/danda/)
 
 "[How do I get rid of cloudflare on Windows 10?](https://answers.microsoft.com/en-us/windows/forum/windows_10-win_cortana/how-do-i-get-rid-of-cloudflare-on-windows-10/bab116b1-5c09-4952-aa18-9d8e8261b705)" by [BillWebster1964](https://answers.microsoft.com/en-us/windows/forum/windows_10-win_cortana/how-do-i-get-rid-of-cloudflare-on-windows-10/en-us/profile/e12a62cc-0c40-4e09-9199-5c5b41f65e2f)
+
+"[Fucking Cloudflare](https://www.reddit.com/r/TOR/comments/351ept/fucking_cloudflare/)" by [deleted](https://www.reddit.com/r/TOR/comments/351ept/fucking_cloudflare/)
+
+"[Completely remove CloudFlare?  Yahoo Answers](https://answers.yahoo.com/question/index?qid=20130104142907AAUVyJv)" by Yahoo user
 
 "[Cloudflare as a Security Risk - Support - Whonix Forum](http://forums.whonix.org/t/cloudflare-as-a-security-risk/2162)" by [entr0py](https://forums.whonix.org/u/entr0py)
 
