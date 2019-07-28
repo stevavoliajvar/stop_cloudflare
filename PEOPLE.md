@@ -207,6 +207,8 @@ Disqualify:
 
 "[Stop using Cloudflare to make site https](https://github.com/nownabe/blog.nownabe.com/issues/45)" by [nownabe](https://github.com/nownabe)
 
+"[Stop using Cloudflare](https://github.com/vector-im/riot-web/issues/8691)" by [theel0ja](https://github.com/theel0ja)
+
 "[Stop using CloudFlare as a public resolver](https://github.com/dappnode/DNP_BIND/issues/20)" by [vdo](https://github.com/vdo)
 
 "[Please stop using CloudFlare.](https://github.com/danarel/thinkprivacy/issues/5)"
@@ -216,6 +218,8 @@ Disqualify:
 "[What do you think about Cloudflare? PTIO](https://github.com/privacytoolsIO/privacytools.io/issues/374)"
 
 "[What do you think about Cloudflare? PRISM](https://github.com/prism-break/prism-break/issues/1843)"
+
+"[let's talk about our little buddy cloudflare](https://github.com/ghacksuserjs/ghacks-user.js/issues/310)" by [Thorin-Oakenpants](https://github.com/Thorin-Oakenpants)
 
 "[API is currently always returning a 503 error triggered by the Cloudflare protection](https://github.com/ICObench/data-api/issues/7)" by [TiesdeKok](https://github.com/TiesdeKok)
 
@@ -264,6 +268,15 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"قبلاً دیده بودم که سایتهایی که از cloudflare استفاده میکنند، recaptcha نشون بدن اما اینکه کلاً کاربران tor رو بلاک کنند رو ندیده بودم 
+اینم یک جور تحریمه ولی خب دیگه منحصر به ایران نیست " by @[Hamed](https://twitter.com/Hamed/status/1153210455944511488)
+
+"now lm just getting cloudflare errors." by @[Auroken](https://twitter.com/Auroken/status/1155182329494691841)
+
+"Something called Cloudflare keeps coming up to say it isn't available." by @[SACNSNew](https://twitter.com/SACNSNew/status/1154798137258795008)
+
+"Cloudflare Would you please answer this problem. " by @[botrader2019](https://twitter.com/botrader2019/status/1155151942793846784)
 
 "cloudflare is blocking adsense login for websites" by @[joecioffi](https://twitter.com/joecioffi/status/1153459742192349185)
 
