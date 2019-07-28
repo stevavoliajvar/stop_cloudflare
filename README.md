@@ -7,7 +7,7 @@
 "The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the U.S. company.
 It is the world's [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
 It sits between you and origin webserver, acting like a [border patrol agent](https://www.cbp.gov/careers/bpa).
-The origin webserver administrator allowed the agent to decide who can access to their "_web property_" and define "_restricted area_".
+The origin webserver administrator allowed the agent to decide [who can access](https://gitlab.com/iblech/tor-appeal/issues/1) to their "_web property_" and define "_restricted area_".
 
 ---
 
@@ -16,7 +16,7 @@ The origin webserver administrator allowed the agent to decide who can access to
 
 ---
 
-Take a look at the first image posted below. You will think Cloudflare block _only_ attackers. You will think _Cloudflare is always online(never go down)_. However [it is not true](PEOPLE.md).
+Take a look at the first image posted below. You will think Cloudflare block _only_ attackers. You will think _Cloudflare is always online(never go down)_. However [it is not true](PEOPLE.md). 
 
 ---
 
@@ -144,6 +144,8 @@ Is there any way you would sell us that data?
 ---
 
 Cloudflare also offer _FREE_ VPN service called "[Cloudflare Warp](https://blog.cloudflare.com/1111-warp-better-vpn/)". If you use it, all your smartphone connections are sent to Cloudflare servers. Cloudflare can know which website you've read, what comment you've posted, who you've talked to, etc. You are voluntary giving [all your information](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-478686469) to Cloudflare. If you think "_Are you joking? Cloudflare is secure._" then you need to learn how [VPN works](https://en.wikipedia.org/wiki/VPN).
+
+Cloudflare said their VPN service make your internet [fast](https://www.wired.com/story/cloudflare-says-new-vpn-service-wont-slow-you-down/). But VPN make your internet connection _slower_ [than your existing connection](https://techcrunch.com/2019/04/01/cloudflares-warp-is-a-vpn-that-might-actually-make-your-mobile-connection-better/).
 
 ---
 
