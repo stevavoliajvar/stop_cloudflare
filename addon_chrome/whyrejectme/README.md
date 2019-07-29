@@ -10,4 +10,4 @@ Which website rejected me?
 3. You can review it from Option menu.
 ```
 
-[Download add-on](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/addon_chrome/urejectme.crx)
+[Download add-on](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/addon_chrome/urejectme.crx)
