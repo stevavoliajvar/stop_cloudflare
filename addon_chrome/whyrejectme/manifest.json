@@ -1,7 +1,7 @@
 {
    "manifest_version": 2,
    "name": "Which website rejected me?",
-   "version": "1.0.2",
+   "version": "1.0.3",
    "minimum_chrome_version": "60",
    "homepage_url": "https://codeberg.org/crimeflare/cloudflare-tor",
    "author": "Daniel J. Schreiber",

@@ -3,7 +3,7 @@ let history = {};
 chrome.webRequest.onResponseStarted.addListener(i => {
 	if ([403, 406, 410, 451, 462].includes(i.statusCode)) {
 		let iFQDN = (new URL(i.url)).hostname;
-		if (iFQDN == 'searxes.eu.org' || iFQDN == 'AAAsearxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion') {
+		if (iFQDN == 'searxes.eu.org' || iFQDN == 'searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion') {
 			return;
 		}
 		let iServer = 'Unknown';
