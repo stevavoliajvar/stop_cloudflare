@@ -14,4 +14,4 @@ Submit to global surveillance or resist. The choice is yours.
 * This add-on don't save your setting to disk. (no "storage" permission)
 ```
 
-[Download Add-on](../bcma.crx)
+[Download Add-on](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/addon_chrome/bcma.crx)
