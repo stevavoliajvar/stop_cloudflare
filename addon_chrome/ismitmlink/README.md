@@ -14,4 +14,4 @@ This add-on is using Searxes' "MITM test API" to scan FQDN(URL's hostname).
 This add-on never send other information.
 ```
 
-[Download Add-on](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/addon_chrome/vulnlink.crx)
+[Download Add-on](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/addon_chrome/vulnlink.crx)
