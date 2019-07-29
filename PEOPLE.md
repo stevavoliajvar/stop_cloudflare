@@ -279,6 +279,16 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Getting a Cloudflare error..." by @[thehotiron](https://twitter.com/thehotiron/status/1155079783711170562)
+
+"I cannot get into the Witcher 3 section to download mods. Getting a cloudflare error. Are you aware?" by @[iSpaceNate](https://twitter.com/iSpaceNate/status/1154810492961153024)
+
+"Día dos... El Cloudflare sigue dando error 1016, han pasado el ticket a los expertos en servidor....seguiremos informando." by @[softwartive](https://twitter.com/softwartive/status/1154769944434892801)
+
+"extremely cool how cloudflare goes out of their way to try and make the web unusable for people who browse through tor" by @[elisohl](https://twitter.com/elisohl/status/1154494785865994240)
+
+"Use #tor for one day and see how many #recaptcha|s you have to pass on sites hosted on cloudflare (so around half the internet?) because of "unusual behaviour from your IP". This is crazy!" by @[JayVii_de](https://twitter.com/JayVii_de/status/1153918724828815362)
+
 "قبلاً دیده بودم که سایتهایی که از cloudflare استفاده میکنند، recaptcha نشون بدن اما اینکه کلاً کاربران tor رو بلاک کنند رو ندیده بودم 
 اینم یک جور تحریمه ولی خب دیگه منحصر به ایران نیست " by @[Hamed](https://twitter.com/Hamed/status/1153210455944511488)
 
@@ -291,6 +301,8 @@ Disqualify:
 "cloudflare is blocking adsense login for websites" by @[joecioffi](https://twitter.com/joecioffi/status/1153459742192349185)
 
 "I'm trying to report a bug on your pro forum but I'm being blocked by your CloudFlare spam filter for (I assume) posting PHP code." by @[amielucha](https://twitter.com/amielucha/status/1152224097893572610)
+
+"It's often a deadend when you hit a CloudFlare site using Tor on mobile (OnionBrowser). This is why we can't have privacy. Don't block Tor!" by @[mrphs](https://twitter.com/mrphs/status/874324472379166726)
 
 "Hi, I've been blocked from the website by cloudflare with a 1020 error? Is there a way to fix this?" by @[isasangtae](https://twitter.com/isasangtae/status/1152409567709450240)
 
@@ -314,6 +326,8 @@ Disqualify:
 
 "Looks like a Cloudflare issue. This is why I don't trust Cloudflare. So many people use it, which puts them into a position of being a gateway to information. You have to go through them to get to your favorite site. The perfect climate for a marxist censorship takeover." by @[Scarasyte](https://twitter.com/Scarasyte/status/1151604200754884609)
 
+"i will sooooo block the sh*t out of TRR if mozilla makes it the default. to hell with whatever high value web properties cloudflare co-hosts it with. the internet is a _distributed_ system. dns is a _distributed_ database (and also autonomous.) FSCK centralization by decree." by @[paulvixie](https://twitter.com/paulvixie/status/1026302589757837312)
+
 "why are you blocking spinquark?" by @[jhthurman](https://twitter.com/jhthurman/status/1150773700842725382)
 
 "did you know you’re being blocked by Cloudflare?" by @[jhthurman](https://twitter.com/jhthurman/status/1150775195503865857)
@@ -321,6 +335,8 @@ Disqualify:
 "Hey Cloudflare why all of a sudden are you challenging Google when they go to spider our sites sitemap_index.xml is google now a suspicious party now." by @[delawarewebhost](https://twitter.com/delawarewebhost/status/1150411571996160002)
 
 "You see, when the secure connection gets to Cloudflare, they do what is called SSL termination -- that means they end the secure connection so they can do a man-in-the-middle (MITM) attack. So any website you enter private information on, that uses Cloudflare, they get that info." by @[cqwww](https://twitter.com/cqwww/status/1146117149297016832)
+
+"List of websites that used to block tor with #Cloudflare and don't seem to block tor anymore #DontBlockTor" by @[shiromarieke](https://twitter.com/shiromarieke/status/724677543832522752)
 
 "This morning. Tell me again how #Cloudflare aren't having issues" by @[PAHarrisonpics](https://twitter.com/PAHarrisonpics/status/1149596711871893504)
 
@@ -1038,6 +1054,10 @@ Disqualify:
 
 "Cloudflare is trash, has always been trash, and will continue to be trash." by @[justkelly_ok](https://twitter.com/justkelly_ok/status/897519768323768320)
 
+"Is it okay to block millions of people from the Internet because it's your business model? #cloudflare #humanrights" by @[torproject](https://twitter.com/torproject/status/717794462387322885)
+
+"#CloudFlare classic from last year's defcon. Remember, most of CloudFlare's competitors don't block #Tor." by @[torproject](https://twitter.com/torproject/status/759445026711580672)
+
 "You probably got blacklisted by Cloudflare like a good amount of people" by @[Mertvyi_](https://twitter.com/Mertvyi_/status/1118550942394109957)
 
 "Only started today. I am definitely not a robot!" by @[TheReal_blue166](https://twitter.com/TheReal_blue166/status/1087778908324458496)
@@ -1263,6 +1283,8 @@ Disqualify:
 "#Cloudflare is always the most frustrating part of my day. #dontblocktor" by @[jbrooks_](https://twitter.com/jbrooks_/status/715185447886938112)
 
 "C'mon CloudFlare... I really don't feel like training your AI today" by @[trevorpaglen](https://twitter.com/trevorpaglen/status/728330578781712384)
+
+"3 hours and counting. #Cloudflare is even worse in less developed countries. #dontblocktor" by @[jbrooks_](https://twitter.com/jbrooks_/status/715232157023608832)
 
 "Tor CloudFlare Captcha #TellASadStoryin3Words" by @[YrB1rd](https://twitter.com/YrB1rd/status/834539628791209984)
 
