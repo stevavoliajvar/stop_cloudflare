@@ -167,6 +167,10 @@ Disqualify:
 
 "[Be wary reporting to Cloudflare](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)" by [athenahollow](https://www.reddit.com/user/athenahollow/)
 
+"[Waterfox needs this(DNS over HTTPS)](https://www.reddit.com/r/waterfox/comments/8p4x1q/waterfox_needs_thisdns_over_https/)" by [0o-0-o0](https://www.reddit.com/user/0o-0-o0)
+
+"[Cloudflare rant](https://www.reddit.com/r/privacy/comments/8ixnfa/cloudflare_rant/)" by [86rd9t7ofy8pguh](https://www.reddit.com/user/86rd9t7ofy8pguh/)
+
 "["Fuck CloudFlare" stickers](https://www.reddit.com/r/TOR/comments/46kn1d/fuck_cloudflare_stickers/)" by [pizzaiolo_](https://www.reddit.com/user/pizzaiolo_/)
 
 "[Ditch Cloudflare - Broken HTTPS/MiTM](https://greysec.net/showthread.php?tid=1256)" by [NO-OP](https://greysec.net/member.php?action=profile&uid=47)
@@ -922,6 +926,10 @@ Disqualify:
 
 "Cloudflare's CEO and abuse head block me over arguing about their support of abusive websites. Trolls fear transparency." by @[dxgl_org](https://twitter.com/dxgl_org/status/1123622959124549632)
 
+"Good luck, Cloudflare loves spammers and other rogue actors using their infrastructure." by @[phyzonloop](https://twitter.com/phyzonloop/status/1156047693418045440)
+
+"Yeah, same thing. It happens on every Cloudflare protected site I try to visit. Because of this, I cannot access raspberrypi.org  and alternativeto.net  (both sites I have tried to visit recently)." by @[twosecslater](https://twitter.com/twosecslater/status/1155949306911715328)
+
 "Defenders are screwed. Plus users are screwed as they lose all control of privacy to companies like cloudflare." by @[hrbrmstr](https://twitter.com/hrbrmstr/status/1121180307091271680)
 
 "CloudFlare is breaking everything." by @[sukarodo](https://twitter.com/sukarodo/status/1124283685304512512)
@@ -1597,6 +1605,8 @@ Ich als Anbieter könnte echt nicht mit dem Gewissen leben,meine Besucher so zu 
 "Don't laugh when #cloudflare says “the network is the computer.” They mean #surveillance and they mean the surveillance goes all the way to the endpoints. Boycott them and their nefarious agenda." by @[roy](https://pleroma.site/objects/1ddf444d-0f2c-4d0d-bc11-e06f28efd5bc)
 
 "I think I've found an alternative to #Cloudflare Liberapay. I'm going to set #Fosspay up this evening and start replacing Liberapay links on my website" by @[amolith](https://masto.nixnet.xyz/@amolith/102436150784521976)
+
+"I'm sad that the #Crimeflare got deleted because they'd be having a field day today. #cloudflare" by @[DashEquals](https://ap.torlipen.net/objects/5f1b65fc-499d-4312-b20e-7b0cb9dd7ee2)
 
 "All I want is a #privacy respecting messaging platform that does group conversations and voice chat, does that *really* have to be a big ask? Been really put off #Matrix with the #Cloudflare bullshit and their attitude towards it. There are whole papers on the issues with it. When will this fucking nightmare end? I need suggestions. What things do other people use for this stuff?" by @[OTheB](https://mastodon.technology/@OTheB/102456866393573493)
 
