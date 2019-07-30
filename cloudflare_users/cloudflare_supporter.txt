@@ -3,7 +3,6 @@ https://github.com/BurungHantu1605
 https://github.com/Herohtar
 https://github.com/Hillside502
 https://github.com/Matir
-https://twitter.com/FidoSysop
 https://github.com/Mikaela
 https://github.com/MrBananaxx
 https://github.com/PopeRigby
@@ -18,6 +17,7 @@ https://github.com/beerisgood
 https://github.com/blacklight447-ptio
 https://github.com/coagmano
 https://github.com/davidkarlsen
+https://github.com/grahamperrin
 https://github.com/ikedaosushi
 https://github.com/jaywink
 https://github.com/jibby0
@@ -25,6 +25,7 @@ https://github.com/joshirio
 https://github.com/jryans
 https://github.com/kadfd
 https://github.com/klokie
+https://github.com/lampholder
 https://github.com/lemondrops
 https://github.com/loo11
 https://github.com/matrix-org
@@ -573,6 +574,7 @@ https://twitter.com/Felipe2018BR
 https://twitter.com/Felix_Angell
 https://twitter.com/FelschR
 https://twitter.com/FenexFox
+https://twitter.com/FidoSysop
 https://twitter.com/FierlyDonkey
 https://twitter.com/Fikrindrawan
 https://twitter.com/FinaNurmala2
@@ -4214,6 +4216,5 @@ https://twitter.com/zubaide
 https://twitter.com/zzaannnn
 https://www.reddit.com/user/MrTooToo
 https://www.reddit.com/user/SeriousHoax
-https://www.reddit.com/user/rediii123
 https://www.reddit.com/user/grahamperrin
-https://github.com/grahamperrin
+https://www.reddit.com/user/rediii123
