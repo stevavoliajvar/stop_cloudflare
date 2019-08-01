@@ -139,6 +139,10 @@ Disqualify:
 
 ######  Forum / Wiki
 
+"[DNS over HTTPS](http://oxwugzccvk3dk6tj.onion/tech/res/1082196.html)"
+
+"[Cloudflare = CIA](http://oxwugzccvk3dk6tj.onion/tech/res/1032001.html)"
+
 "[Thoughts on CloudFlare](https://www.reddit.com/r/privacytoolsIO/comments/cailfa/thoughts_on_cloudflare/)" by [techEnthusiast0](https://www.reddit.com/user/techEnthusiast0/)
 
 "[Is it possible to universally bypass the Cloudflare DDOS-protection? Can add a delay to your daily browsing when automatically clearing cookies](https://www.reddit.com/r/firefox/comments/c7ywt4/is_it_possible_to_universally_bypass_the/)" by [8VBQ-Y5AG-8XU9-567UM](https://www.reddit.com/user/8VBQ-Y5AG-8XU9-567UM)
@@ -188,6 +192,8 @@ Disqualify:
 "[How do I get rid of cloudflare on Windows 10?](https://answers.microsoft.com/en-us/windows/forum/windows_10-win_cortana/how-do-i-get-rid-of-cloudflare-on-windows-10/bab116b1-5c09-4952-aa18-9d8e8261b705)" by [BillWebster1964](https://answers.microsoft.com/en-us/windows/forum/windows_10-win_cortana/how-do-i-get-rid-of-cloudflare-on-windows-10/en-us/profile/e12a62cc-0c40-4e09-9199-5c5b41f65e2f)
 
 "[Fucking Cloudflare](https://www.reddit.com/r/TOR/comments/351ept/fucking_cloudflare/)" by [deleted](https://www.reddit.com/r/TOR/comments/351ept/fucking_cloudflare/)
+
+"[The CloudFlare MITM](https://www.reddit.com/r/Bitcoin/comments/1yj948/the_cloudflare_mitm/)" by [davout-bc](https://www.reddit.com/user/davout-bc/)
 
 "[Cloudflare as a Security Risk - Support - Whonix Forum](http://forums.whonix.org/t/cloudflare-as-a-security-risk/2162)" by [entr0py](https://forums.whonix.org/u/entr0py)
 
@@ -284,6 +290,12 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"Cloudflare blocking sydney-ipsec-1b." by @[sendai](https://twitter.com/sendai/status/1156792041617022983)
+
+"why is my cloudflare down i can't connect to any games" by @[__SeeKerZ__](https://twitter.com/__SeeKerZ__/status/1156710401616297989)
+
+"first was cloudflare now you can't even open more than 3 tabs at once or you get rate limited cmon ESEA" by @[jmc_025](https://twitter.com/jmc_025/status/1156735060210520064)
 
 "Getting a Cloudflare error..." by @[thehotiron](https://twitter.com/thehotiron/status/1155079783711170562)
 
