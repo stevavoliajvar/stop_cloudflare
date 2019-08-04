@@ -223,6 +223,8 @@ Disqualify:
 
 ######  Microsoft GitHub
 
+"[Notes on privacy and data collection of Matrix.org](https://gist.github.com/maxidorius/5736fd09c9194b7a6dc03b6b8d7220d0#gistcomment-2963692)" by [maxidorius](https://github.com/maxidorius)
+
 "[The feed stopped working](https://github.com/splitbrain/patreon-rss/issues/4)" by [leandroprz](https://github.com/leandroprz)
 
 "[Tor and Cloudflare](https://github.com/Eloston/ungoogled-chromium/issues/783)" by [nchv](https://github.com/nchv)
@@ -290,6 +292,18 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"Well cloudflare is one of the worst companies out there. Their entire business model is made up of restricting access to content (ie machine learning to only let Google and other big co bots through, but denying all small players)." by @[petebray](https://twitter.com/petebray/status/1157874402588889088)
+
+"Finding it difficult to access petition. Error 502. No idea if deliberate or just technical." by @[NDWissner](https://twitter.com/NDWissner/status/1157214234209656832)
+
+"/r/privacy: "...cloudflare does tls termination, directly having access to all the data in clear." " by @[cryptoretreat](https://twitter.com/cryptoretreat/status/1157143398630846464)
+
+"Why is my IP blocked please? Error 1006" by @[sea_bouy](https://twitter.com/sea_bouy/status/1157617308522749953)
+
+"He’ll use a bullshit “free speech” argument that doesn’t apply to his business and then block you if you push back." by @[slpng_giants](https://twitter.com/slpng_giants/status/1157794700432220161)
+
+"Matthew Prince blocked me after I called that out." by @[theMetz](https://twitter.com/theMetz/status/1157845329082900481)
 
 "Cloudflare blocking sydney-ipsec-1b." by @[sendai](https://twitter.com/sendai/status/1156792041617022983)
 
@@ -1589,10 +1603,16 @@ Disqualify:
 
 ######  Mastodon
 
+"Services like #CloudFlare are really nice with #PatriotAct and #NSA. #USHackers #whatawonderfulworld. CloudFlare create SSL certificates  for sites they cache. So have the wholme traffic unciphered locally, and send it to the remote server to be cached. So, they have clear and unciphered access to the whole content :  usernames   passwords  web content..." by @[popolon](https://mastodon.social/@popolon/102546838067285665)
+
+"Google reCaptcha nicht erreichbar? ... Na dann viel Spaß in der #Hölle, freunde von #Cloudflare" by @[kromonos](https://metalhead.club/@kromonos/102543497886371728)
+
 " Ich surf inzwischen fast ausschließlich über #TOR. Außer bei Betreibern, denen ic traue. Deswegen hab ich so oft ärger mit #CloudFlare. Nur wenige machen es z.B. wie nipos und deaktivieren den "TOR Schutz"." by @[kromonos](https://metalhead.club/@kromonos/102501955975549073)
 
 "na klasse. Noch so eine deutsche Firma, die glaubt, der Datenschutz sei gewährleistet, wenn man den kompletten Traffic durch einen proxy in den USA leitet. Also das Linux Magazin, nicht tuxedocomputers
 Man könnte echt meinen, die deutschen könnten ohne #Cloudflare nicht mehr leben " by @[kromonos](https://metalhead.club/@kromonos/102501662983987631)
+
+"This is a good example why it is bad to rely on cloudflare in masses. It felt like the internet was dying for a minute there." by @[SolSoCoG](https://ieji.de/@SolSoCoG/102372262422393175)
 
 "kann mir sicher beantworten, in wie weit #Cloudflare mit dem deutschen #Datenschutz vereinbar ist, wenn man eine #Homepage hinter deren #Proxy Server versteckt, deren Standorte in den #USA liegen? Und wie muss Cloudflare in dem Fall in der #Datenschutzerklärung angegeben sein?" by @[kromonos](https://metalhead.club/@kromonos/102497051015883486)
 
