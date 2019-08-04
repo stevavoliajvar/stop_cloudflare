@@ -189,6 +189,8 @@ Data  -  mirrors: [NixNet](https://git.nixnet.xyz/Username/cloudflare-tor),  [no
 * [Cloudflare Inc.](cloudflare_inc/)
 * [Domains: Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
+![](image/goodorbad.jpg)
+
 Information
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
