@@ -139,6 +139,8 @@ Disqualify:
 
 ######  Forum / Wiki
 
+"[...Cloudflare DOES TLS termination, directly having access to all the data in clear.](https://www.reddit.com/r/privacy/comments/ckwlem/cloudflare_does_tls_termination_directly_having/)" by [JustCondition4](https://www.reddit.com/user/JustCondition4/)
+
 "[DNS over HTTPS](http://oxwugzccvk3dk6tj.onion/tech/res/1082196.html)"
 
 "[Cloudflare = CIA](http://oxwugzccvk3dk6tj.onion/tech/res/1032001.html)"
