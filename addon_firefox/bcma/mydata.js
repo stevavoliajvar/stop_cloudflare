@@ -8,16 +8,16 @@ document.addEventListener('DOMContentLoaded', function () {
 			document.getElementById('t').value = JSON.parse(r[1]).join("\n");
 			document.getElementById('g').value = JSON.parse(r[2]).join("\n");
 			switch (r[3]) {
+				case 0:
+					document.getElementById('ta0').checked = true;
+					document.getElementById('ta1').checked = false;
+					document.getElementById('ta2').checked = false;
+					document.getElementById('ta3').checked = false;
+					break;
 				case 1:
 					document.getElementById('ta0').checked = false;
 					document.getElementById('ta1').checked = true;
 					document.getElementById('ta2').checked = false;
-					document.getElementById('ta3').checked = false;
-					break;
-				case 2:
-					document.getElementById('ta0').checked = false;
-					document.getElementById('ta1').checked = false;
-					document.getElementById('ta2').checked = true;
 					document.getElementById('ta3').checked = false;
 					break;
 				case 3:
@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
 					document.getElementById('ta2').checked = false;
 					document.getElementById('ta3').checked = true;
 					break;
+				case 2:
 				default:
 					document.getElementById('ta0').checked = false;
 					document.getElementById('ta1').checked = false;
