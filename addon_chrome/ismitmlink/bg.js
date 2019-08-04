@@ -1,5 +1,4 @@
 let apiurl = 'https://api.searxes.eu.org/_/ismitm.php';
-
 fetch('http://api.xxf4en4djo7hhvatax2g3lvj2qgvbwi4yeyyzwpo25zcog4ewhsbrdyd.onion/_/ok.php', {
 	method: 'GET',
 	mode: 'cors'
@@ -47,19 +46,22 @@ function i_already_know_you(f) {
 	});
 }
 
-function clear_cache_2w() {
+function clear_cache_1w() {
 	chrome.storage.local.clear();
 	chrome.storage.local.set({
 		'lastU': Math.round((new Date()).getTime() / 1000)
 	});
+	chrome.storage.local.set({
+		'lastV': (chrome.runtime.getManifest()).version
+	});
 	setTimeout(function () {
-		clear_cache_2w();
-	}, 1209600000);
+		clear_cache_1w();
+	}, 604800000);
 }
 
-chrome.storage.local.get('lastxU', (g) => {
+chrome.storage.local.get(['lastU', 'lastV'], (g) => {
 	if (g.lastU) {
-		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1209600) {
+		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 604800) {
 			chrome.storage.local.clear();
 			chrome.storage.local.set({
 				'lastU': Math.round((new Date()).getTime() / 1000)
@@ -70,9 +72,19 @@ chrome.storage.local.get('lastxU', (g) => {
 			'lastU': Math.round((new Date()).getTime() / 1000)
 		});
 	}
+	let nowVer = (chrome.runtime.getManifest()).version;
+	if (g.lastV != nowVer) {
+		chrome.storage.local.clear();
+		chrome.storage.local.set({
+			'lastU': Math.round((new Date()).getTime() / 1000)
+		});
+		chrome.storage.local.set({
+			'lastV': nowVer
+		});
+	}
 	setTimeout(function () {
-		clear_cache_2w();
-	}, 1209600000);
+		clear_cache_1w();
+	}, 604800000);
 });
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
