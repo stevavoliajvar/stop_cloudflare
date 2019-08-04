@@ -131,11 +131,19 @@ Disqualify:
 
 "[iSucker: Big Brother Internet Culture](https://exiledonline.com/isucker-big-brother-internet-culture/)" by [The Exiled](https://exiledonline.com/)
 
+"[The Trouble with CloudFlare](https://blog.torproject.org/trouble-cloudflare)" by [mikeperry](https://blog.torproject.org/users/mikeperry)
+
 "[Growing Cloudflare Menace](http://imhhge4lijqv7jzf.onion/warning.html)"
 
 ------
 
 ######  Forum / Wiki
+
+"[...Cloudflare DOES TLS termination, directly having access to all the data in clear.](https://www.reddit.com/r/privacy/comments/ckwlem/cloudflare_does_tls_termination_directly_having/)" by [JustCondition4](https://www.reddit.com/user/JustCondition4/)
+
+"[DNS over HTTPS](http://oxwugzccvk3dk6tj.onion/tech/res/1082196.html)"
+
+"[Cloudflare = CIA](http://oxwugzccvk3dk6tj.onion/tech/res/1032001.html)"
 
 "[Thoughts on CloudFlare](https://www.reddit.com/r/privacytoolsIO/comments/cailfa/thoughts_on_cloudflare/)" by [techEnthusiast0](https://www.reddit.com/user/techEnthusiast0/)
 
@@ -147,9 +155,13 @@ Disqualify:
 
 "[Cloudflare outage AGAIN MAH INTERNETS! Nooo!](https://www.reddit.com/r/sysadmin/comments/c89fa4/cloudflare_outage_again/)" by [Lewis_Browne](https://www.reddit.com/user/Lewis_Browne/)
 
+"[Dear customers of Cloudflare: an appeal regarding Tor](https://news.ycombinator.com/item?id=17750801)" by [IngoBlechschmid](https://news.ycombinator.com/user?id=IngoBlechschmid)
+
 "[Cloudflare CDN suffers route leak; services like Discord and Crunchyroll experience outages all over the world](https://www.reddit.com/r/worldnews/comments/c4n42g/cloudflare_cdn_suffers_route_leak_services_like/)" by [DragonSkyMusic](https://www.reddit.com/user/DragonSkyMusic/)
 
 "[Cloudflare Is Not An Option!](https://www.reddit.com/r/privacy/comments/bhag8s/cloudflare_is_not_an_option/)" by [FVz7Ftt83m](https://www.reddit.com/user/FVz7Ftt83m)
+
+"[Fastest DNS from Cloudflare + privacy first? Hmmm](https://www.reddit.com/r/privacy/comments/88qqjf/fastest_dns_from_cloudflare_privacy_first_hmmm/)" by [deleted](https://www.reddit.com/r/privacy/comments/88qqjf/fastest_dns_from_cloudflare_privacy_first_hmmm/)
 
 "[I'm not sure if I can ELI5 this but I'll try my best to explain.](https://www.reddit.com/r/india/comments/bg3lxh/was_casually_checking_my_logs_this_is_what_is/elk77k3/)" by [Waphire](https://www.reddit.com/user/Waphire)
 
@@ -163,15 +175,27 @@ Disqualify:
 
 "[Be wary reporting to Cloudflare](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)" by [athenahollow](https://www.reddit.com/user/athenahollow/)
 
+"[Waterfox needs this(DNS over HTTPS)](https://www.reddit.com/r/waterfox/comments/8p4x1q/waterfox_needs_thisdns_over_https/)" by [0o-0-o0](https://www.reddit.com/user/0o-0-o0)
+
+"[Cloudflare rant](https://www.reddit.com/r/privacy/comments/8ixnfa/cloudflare_rant/)" by [86rd9t7ofy8pguh](https://www.reddit.com/user/86rd9t7ofy8pguh/)
+
+"["Fuck CloudFlare" stickers](https://www.reddit.com/r/TOR/comments/46kn1d/fuck_cloudflare_stickers/)" by [pizzaiolo_](https://www.reddit.com/user/pizzaiolo_/)
+
 "[Ditch Cloudflare - Broken HTTPS/MiTM](https://greysec.net/showthread.php?tid=1256)" by [NO-OP](https://greysec.net/member.php?action=profile&uid=47)
 
 "[Slow load after settng up CloudFlare](https://www.webpagetest.org/forums/showthread.php?tid=14948)" by [Altberger](https://www.webpagetest.org/forums/member.php?action=profile&uid=456680)
+
+"[CloudFlare - What the Daily WTF?](https://what.thedailywtf.com/topic/11168/cloudflare)" by [Daniel Beardsmore](https://what.thedailywtf.com/user/daniel_beardsmore)
 
 "[HTTPSを「借りる」のはやめよう。](https://srad.jp/comment/3349767)" by [Printable is bad.](https://srad.jp/~Printable%20is%20bad./)
 
 "[PSA: Do not trust any website using CloudFlare.](https://www.reddit.com/r/Bitcoin/comments/5w13kw/psa_do_not_trust_any_website_using_cloudflare/)" by [danda](https://www.reddit.com/user/danda/)
 
 "[How do I get rid of cloudflare on Windows 10?](https://answers.microsoft.com/en-us/windows/forum/windows_10-win_cortana/how-do-i-get-rid-of-cloudflare-on-windows-10/bab116b1-5c09-4952-aa18-9d8e8261b705)" by [BillWebster1964](https://answers.microsoft.com/en-us/windows/forum/windows_10-win_cortana/how-do-i-get-rid-of-cloudflare-on-windows-10/en-us/profile/e12a62cc-0c40-4e09-9199-5c5b41f65e2f)
+
+"[Fucking Cloudflare](https://www.reddit.com/r/TOR/comments/351ept/fucking_cloudflare/)" by [deleted](https://www.reddit.com/r/TOR/comments/351ept/fucking_cloudflare/)
+
+"[The CloudFlare MITM](https://www.reddit.com/r/Bitcoin/comments/1yj948/the_cloudflare_mitm/)" by [davout-bc](https://www.reddit.com/user/davout-bc/)
 
 "[Cloudflare as a Security Risk - Support - Whonix Forum](http://forums.whonix.org/t/cloudflare-as-a-security-risk/2162)" by [entr0py](https://forums.whonix.org/u/entr0py)
 
@@ -201,9 +225,15 @@ Disqualify:
 
 ######  Microsoft GitHub
 
+"[Notes on privacy and data collection of Matrix.org](https://gist.github.com/maxidorius/5736fd09c9194b7a6dc03b6b8d7220d0#gistcomment-2963692)" by [maxidorius](https://github.com/maxidorius)
+
+"[The feed stopped working](https://github.com/splitbrain/patreon-rss/issues/4)" by [leandroprz](https://github.com/leandroprz)
+
 "[Tor and Cloudflare](https://github.com/Eloston/ungoogled-chromium/issues/783)" by [nchv](https://github.com/nchv)
 
 "[Stop using Cloudflare to make site https](https://github.com/nownabe/blog.nownabe.com/issues/45)" by [nownabe](https://github.com/nownabe)
+
+"[Stop using Cloudflare](https://github.com/vector-im/riot-web/issues/8691)" by [theel0ja](https://github.com/theel0ja)
 
 "[Stop using CloudFlare as a public resolver](https://github.com/dappnode/DNP_BIND/issues/20)" by [vdo](https://github.com/vdo)
 
@@ -214,6 +244,8 @@ Disqualify:
 "[What do you think about Cloudflare? PTIO](https://github.com/privacytoolsIO/privacytools.io/issues/374)"
 
 "[What do you think about Cloudflare? PRISM](https://github.com/prism-break/prism-break/issues/1843)"
+
+"[let's talk about our little buddy cloudflare](https://github.com/ghacksuserjs/ghacks-user.js/issues/310)" by [Thorin-Oakenpants](https://github.com/Thorin-Oakenpants)
 
 "[API is currently always returning a 503 error triggered by the Cloudflare protection](https://github.com/ICObench/data-api/issues/7)" by [TiesdeKok](https://github.com/TiesdeKok)
 
@@ -263,6 +295,51 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Well cloudflare is one of the worst companies out there. Their entire business model is made up of restricting access to content (ie machine learning to only let Google and other big co bots through, but denying all small players)." by @[petebray](https://twitter.com/petebray/status/1157874402588889088)
+
+"Finding it difficult to access petition. Error 502. No idea if deliberate or just technical." by @[NDWissner](https://twitter.com/NDWissner/status/1157214234209656832)
+
+"/r/privacy: "...cloudflare does tls termination, directly having access to all the data in clear." " by @[cryptoretreat](https://twitter.com/cryptoretreat/status/1157143398630846464)
+
+"Why is my IP blocked please? Error 1006" by @[sea_bouy](https://twitter.com/sea_bouy/status/1157617308522749953)
+
+"He’ll use a bullshit “free speech” argument that doesn’t apply to his business and then block you if you push back." by @[slpng_giants](https://twitter.com/slpng_giants/status/1157794700432220161)
+
+"Matthew Prince blocked me after I called that out." by @[theMetz](https://twitter.com/theMetz/status/1157845329082900481)
+
+"Cloudflare blocking sydney-ipsec-1b." by @[sendai](https://twitter.com/sendai/status/1156792041617022983)
+
+"why is my cloudflare down i can't connect to any games" by @[__SeeKerZ__](https://twitter.com/__SeeKerZ__/status/1156710401616297989)
+
+"first was cloudflare now you can't even open more than 3 tabs at once or you get rate limited cmon ESEA" by @[jmc_025](https://twitter.com/jmc_025/status/1156735060210520064)
+
+"Getting a Cloudflare error..." by @[thehotiron](https://twitter.com/thehotiron/status/1155079783711170562)
+
+"I cannot get into the Witcher 3 section to download mods. Getting a cloudflare error. Are you aware?" by @[iSpaceNate](https://twitter.com/iSpaceNate/status/1154810492961153024)
+
+"Día dos... El Cloudflare sigue dando error 1016, han pasado el ticket a los expertos en servidor....seguiremos informando." by @[softwartive](https://twitter.com/softwartive/status/1154769944434892801)
+
+"extremely cool how cloudflare goes out of their way to try and make the web unusable for people who browse through tor" by @[elisohl](https://twitter.com/elisohl/status/1154494785865994240)
+
+"Use #tor for one day and see how many #recaptcha|s you have to pass on sites hosted on cloudflare (so around half the internet?) because of "unusual behaviour from your IP". This is crazy!" by @[JayVii_de](https://twitter.com/JayVii_de/status/1153918724828815362)
+
+"قبلاً دیده بودم که سایتهایی که از cloudflare استفاده میکنند، recaptcha نشون بدن اما اینکه کلاً کاربران tor رو بلاک کنند رو ندیده بودم 
+اینم یک جور تحریمه ولی خب دیگه منحصر به ایران نیست " by @[Hamed](https://twitter.com/Hamed/status/1153210455944511488)
+
+"now lm just getting cloudflare errors." by @[Auroken](https://twitter.com/Auroken/status/1155182329494691841)
+
+"Something called Cloudflare keeps coming up to say it isn't available." by @[SACNSNew](https://twitter.com/SACNSNew/status/1154798137258795008)
+
+"Cloudflare Would you please answer this problem. " by @[botrader2019](https://twitter.com/botrader2019/status/1155151942793846784)
+
+"cloudflare is blocking adsense login for websites" by @[joecioffi](https://twitter.com/joecioffi/status/1153459742192349185)
+
+"I'm trying to report a bug on your pro forum but I'm being blocked by your CloudFlare spam filter for (I assume) posting PHP code." by @[amielucha](https://twitter.com/amielucha/status/1152224097893572610)
+
+"It's often a deadend when you hit a CloudFlare site using Tor on mobile (OnionBrowser). This is why we can't have privacy. Don't block Tor!" by @[mrphs](https://twitter.com/mrphs/status/874324472379166726)
+
+"Hi, I've been blocked from the website by cloudflare with a 1020 error? Is there a way to fix this?" by @[isasangtae](https://twitter.com/isasangtae/status/1152409567709450240)
+
 "Hey Cloudflare, your 1111resolver isn't responding to queries from my box at ovh, what's up? I'm in the 192.95.9.0/24 block. I guess I have to use Google for now" by @[dpedu](https://twitter.com/dpedu/status/1151603868574220288)
 
 "Their abuse form is a joke and results in no action." by @[phyzonloop](https://twitter.com/phyzonloop/status/1151831447554134016)
@@ -283,6 +360,8 @@ Disqualify:
 
 "Looks like a Cloudflare issue. This is why I don't trust Cloudflare. So many people use it, which puts them into a position of being a gateway to information. You have to go through them to get to your favorite site. The perfect climate for a marxist censorship takeover." by @[Scarasyte](https://twitter.com/Scarasyte/status/1151604200754884609)
 
+"i will sooooo block the sh*t out of TRR if mozilla makes it the default. to hell with whatever high value web properties cloudflare co-hosts it with. the internet is a _distributed_ system. dns is a _distributed_ database (and also autonomous.) FSCK centralization by decree." by @[paulvixie](https://twitter.com/paulvixie/status/1026302589757837312)
+
 "why are you blocking spinquark?" by @[jhthurman](https://twitter.com/jhthurman/status/1150773700842725382)
 
 "did you know you’re being blocked by Cloudflare?" by @[jhthurman](https://twitter.com/jhthurman/status/1150775195503865857)
@@ -290,6 +369,8 @@ Disqualify:
 "Hey Cloudflare why all of a sudden are you challenging Google when they go to spider our sites sitemap_index.xml is google now a suspicious party now." by @[delawarewebhost](https://twitter.com/delawarewebhost/status/1150411571996160002)
 
 "You see, when the secure connection gets to Cloudflare, they do what is called SSL termination -- that means they end the secure connection so they can do a man-in-the-middle (MITM) attack. So any website you enter private information on, that uses Cloudflare, they get that info." by @[cqwww](https://twitter.com/cqwww/status/1146117149297016832)
+
+"List of websites that used to block tor with #Cloudflare and don't seem to block tor anymore #DontBlockTor" by @[shiromarieke](https://twitter.com/shiromarieke/status/724677543832522752)
 
 "This morning. Tell me again how #Cloudflare aren't having issues" by @[PAHarrisonpics](https://twitter.com/PAHarrisonpics/status/1149596711871893504)
 
@@ -875,6 +956,10 @@ Disqualify:
 
 "Cloudflare's CEO and abuse head block me over arguing about their support of abusive websites. Trolls fear transparency." by @[dxgl_org](https://twitter.com/dxgl_org/status/1123622959124549632)
 
+"Good luck, Cloudflare loves spammers and other rogue actors using their infrastructure." by @[phyzonloop](https://twitter.com/phyzonloop/status/1156047693418045440)
+
+"Yeah, same thing. It happens on every Cloudflare protected site I try to visit. Because of this, I cannot access raspberrypi.org  and alternativeto.net  (both sites I have tried to visit recently)." by @[twosecslater](https://twitter.com/twosecslater/status/1155949306911715328)
+
 "Defenders are screwed. Plus users are screwed as they lose all control of privacy to companies like cloudflare." by @[hrbrmstr](https://twitter.com/hrbrmstr/status/1121180307091271680)
 
 "CloudFlare is breaking everything." by @[sukarodo](https://twitter.com/sukarodo/status/1124283685304512512)
@@ -1006,6 +1091,10 @@ Disqualify:
 "Imagine being so incompetent at networking that you get your users flagged for spam from cloudflare, you guys are a joke" by @[SilverTheFlat](https://twitter.com/SilverTheFlat/status/1118203335973244934)
 
 "Cloudflare is trash, has always been trash, and will continue to be trash." by @[justkelly_ok](https://twitter.com/justkelly_ok/status/897519768323768320)
+
+"Is it okay to block millions of people from the Internet because it's your business model? #cloudflare #humanrights" by @[torproject](https://twitter.com/torproject/status/717794462387322885)
+
+"#CloudFlare classic from last year's defcon. Remember, most of CloudFlare's competitors don't block #Tor." by @[torproject](https://twitter.com/torproject/status/759445026711580672)
 
 "You probably got blacklisted by Cloudflare like a good amount of people" by @[Mertvyi_](https://twitter.com/Mertvyi_/status/1118550942394109957)
 
@@ -1232,6 +1321,8 @@ Disqualify:
 "#Cloudflare is always the most frustrating part of my day. #dontblocktor" by @[jbrooks_](https://twitter.com/jbrooks_/status/715185447886938112)
 
 "C'mon CloudFlare... I really don't feel like training your AI today" by @[trevorpaglen](https://twitter.com/trevorpaglen/status/728330578781712384)
+
+"3 hours and counting. #Cloudflare is even worse in less developed countries. #dontblocktor" by @[jbrooks_](https://twitter.com/jbrooks_/status/715232157023608832)
 
 "Tor CloudFlare Captcha #TellASadStoryin3Words" by @[YrB1rd](https://twitter.com/YrB1rd/status/834539628791209984)
 
@@ -1514,7 +1605,25 @@ Disqualify:
 
 ######  Mastodon
 
+"Services like #CloudFlare are really nice with #PatriotAct and #NSA. #USHackers #whatawonderfulworld. CloudFlare create SSL certificates  for sites they cache. So have the wholme traffic unciphered locally, and send it to the remote server to be cached. So, they have clear and unciphered access to the whole content :  usernames   passwords  web content..." by @[popolon](https://mastodon.social/@popolon/102546838067285665)
+
+"Google reCaptcha nicht erreichbar? ... Na dann viel Spaß in der #Hölle, freunde von #Cloudflare" by @[kromonos](https://metalhead.club/@kromonos/102543497886371728)
+
+" Ich surf inzwischen fast ausschließlich über #TOR. Außer bei Betreibern, denen ic traue. Deswegen hab ich so oft ärger mit #CloudFlare. Nur wenige machen es z.B. wie nipos und deaktivieren den "TOR Schutz"." by @[kromonos](https://metalhead.club/@kromonos/102501955975549073)
+
+"na klasse. Noch so eine deutsche Firma, die glaubt, der Datenschutz sei gewährleistet, wenn man den kompletten Traffic durch einen proxy in den USA leitet. Also das Linux Magazin, nicht tuxedocomputers
+Man könnte echt meinen, die deutschen könnten ohne #Cloudflare nicht mehr leben " by @[kromonos](https://metalhead.club/@kromonos/102501662983987631)
+
+"This is a good example why it is bad to rely on cloudflare in masses. It felt like the internet was dying for a minute there." by @[SolSoCoG](https://ieji.de/@SolSoCoG/102372262422393175)
+
+"kann mir sicher beantworten, in wie weit #Cloudflare mit dem deutschen #Datenschutz vereinbar ist, wenn man eine #Homepage hinter deren #Proxy Server versteckt, deren Standorte in den #USA liegen? Und wie muss Cloudflare in dem Fall in der #Datenschutzerklärung angegeben sein?" by @[kromonos](https://metalhead.club/@kromonos/102497051015883486)
+
 "Wir haben also eine „ethical hacker“ #Zertifizierung von der #NSA beworben und CloudFlare auf einer Seite. Was sagt uns das also über #CloudFlare aus? Für mich persönlich sieht das so aus, als würde CloudFlare die Daten direkt zur NSA weiter leiten" by @[kromonos](https://metalhead.club/@kromonos/102462408957007477)
+
+"Das #Linux #Magazin nennt die Nutzung der #CloudFlare Reverse-Proxy Server als #CDN ... Wenn das CDN ist, was ist dann das Ausliefern einzelner Dateien über einen extra Server?
+CloudFlare kann echt bald von jedem ein Bewegungsprofil erstellen, dagegen sind die Fahrzeuge von #Google Maps ein scheiß" by @[kromonos](https://metalhead.club/@kromonos/102475706977537396)
+
+"Lustig, wie selbst #INWX in ihren Datenschutzerklärungen in keinster Weise #CloudFlare erwähnt." by @[kromonos](https://metalhead.club/@kromonos/102474883800543138)
 
 "It's because cloudflare actively spies on traffic going through it, so any service connected to it is compromised by default. Even if the service itself is well-meaning and wants to respect privacy, just having cloudflare there ruins all of it." by @[OTheB](https://mastodon.technology/@OTheB/102457243116505761)
 
@@ -1532,6 +1641,8 @@ Ich als Anbieter könnte echt nicht mit dem Gewissen leben,meine Besucher so zu 
 "Don't laugh when #cloudflare says “the network is the computer.” They mean #surveillance and they mean the surveillance goes all the way to the endpoints. Boycott them and their nefarious agenda." by @[roy](https://pleroma.site/objects/1ddf444d-0f2c-4d0d-bc11-e06f28efd5bc)
 
 "I think I've found an alternative to #Cloudflare Liberapay. I'm going to set #Fosspay up this evening and start replacing Liberapay links on my website" by @[amolith](https://masto.nixnet.xyz/@amolith/102436150784521976)
+
+"I'm sad that the #Crimeflare got deleted because they'd be having a field day today. #cloudflare" by @[DashEquals](https://ap.torlipen.net/objects/5f1b65fc-499d-4312-b20e-7b0cb9dd7ee2)
 
 "All I want is a #privacy respecting messaging platform that does group conversations and voice chat, does that *really* have to be a big ask? Been really put off #Matrix with the #Cloudflare bullshit and their attitude towards it. There are whole papers on the issues with it. When will this fucking nightmare end? I need suggestions. What things do other people use for this stuff?" by @[OTheB](https://mastodon.technology/@OTheB/102456866393573493)
 
