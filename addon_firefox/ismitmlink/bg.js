@@ -1,5 +1,4 @@
 let apiurl = 'https://api.searxes.eu.org/_/ismitm.php';
-
 fetch('http://api.xxf4en4djo7hhvatax2g3lvj2qgvbwi4yeyyzwpo25zcog4ewhsbrdyd.onion/_/ok.php', {
 	method: 'GET',
 	mode: 'cors'
@@ -49,19 +48,22 @@ function i_already_know_you(f) {
 	});
 }
 
-function clear_cache_2w() {
+function clear_cache_1w() {
 	browser.storage.local.clear();
 	browser.storage.local.set({
 		'lastU': Math.round((new Date()).getTime() / 1000)
 	});
+	browser.storage.local.set({
+		'lastV': (browser.runtime.getManifest()).version
+	});
 	setTimeout(function () {
-		clear_cache_2w();
-	}, 1209600000);
+		clear_cache_1w();
+	}, 604800000);
 }
 
-browser.storage.local.get('lastxU').then(g => {
+browser.storage.local.get(['lastU', 'lastV']).then(g => {
 	if (g.lastU) {
-		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1209600) {
+		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 604800) {
 			browser.storage.local.clear();
 			browser.storage.local.set({
 				'lastU': Math.round((new Date()).getTime() / 1000)
@@ -72,9 +74,20 @@ browser.storage.local.get('lastxU').then(g => {
 			'lastU': Math.round((new Date()).getTime() / 1000)
 		});
 	}
+	let nowVer = (browser.runtime.getManifest()).version;
+	if (g.lastV != nowVer) {
+		console.log('Updated', nowVer);
+		browser.storage.local.clear();
+		browser.storage.local.set({
+			'lastU': Math.round((new Date()).getTime() / 1000)
+		});
+		browser.storage.local.set({
+			'lastV': nowVer
+		});
+	}
 	setTimeout(function () {
-		clear_cache_2w();
-	}, 1209600000);
+		clear_cache_1w();
+	}, 604800000);
 });
 
 browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
