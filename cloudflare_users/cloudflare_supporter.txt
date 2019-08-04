@@ -45,6 +45,7 @@ https://github.com/x5engine
 https://github.com/yegortimoshenko
 https://infosec.exchange/@slh
 https://mastodon.xyz/@Liberapay
+https://social.avareborn.de/@nipos
 https://social.privacytools.io/@BurungHantu
 https://social.tchncs.de/@wallichii
 https://twitter.com/03_jmr
@@ -1345,6 +1346,7 @@ https://twitter.com/RealLHunterJ
 https://twitter.com/RealMonteCrypto
 https://twitter.com/RealNYC_4_life
 https://twitter.com/RealSwapsteem
+https://twitter.com/Rebule2
 https://twitter.com/RecordLifeMedia
 https://twitter.com/Red_Heberg
 https://twitter.com/ReekyMarko
@@ -1689,6 +1691,7 @@ https://twitter.com/VimlyHost
 https://twitter.com/Vinsens78357010
 https://twitter.com/VinterNix
 https://twitter.com/VishalK22309569
+https://twitter.com/Vitalemazo
 https://twitter.com/Viviendoencuba1
 https://twitter.com/VizagHerald
 https://twitter.com/VladikHac10
@@ -3392,6 +3395,7 @@ https://twitter.com/notecast
 https://twitter.com/noticiasnoroest
 https://twitter.com/ntwich29
 https://twitter.com/nubesque
+https://twitter.com/nugeulisapk
 https://twitter.com/nulledhack
 https://twitter.com/nuncapops
 https://twitter.com/nurangotel
@@ -3466,6 +3470,7 @@ https://twitter.com/parisbydavid
 https://twitter.com/parsfreelancer
 https://twitter.com/patpeatrick
 https://twitter.com/patrickacrosby
+https://twitter.com/paulo_ddr
 https://twitter.com/paulthanks
 https://twitter.com/pavakpaul
 https://twitter.com/pavelyakubov1
@@ -4222,8 +4227,10 @@ https://twitter.com/zubaide
 https://twitter.com/zzaannnn
 https://www.reddit.com/user/MrTooToo
 https://www.reddit.com/user/SeriousHoax
+https://www.reddit.com/user/dangerouscat16/
 https://www.reddit.com/user/grahamperrin
 https://www.reddit.com/user/rediii123
+https://www.reddit.com/user/zaarn_/
 ‏https://twitter.com/3nomicMY
 ‏https://twitter.com/ClamP_Chen
 ‏https://twitter.com/DoqumentMe
