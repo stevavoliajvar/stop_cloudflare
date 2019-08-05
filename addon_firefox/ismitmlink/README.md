@@ -3,7 +3,8 @@ This is a source code of Maslin Bossé's "*Are links vulnerable to MITM?*".
 PRs are welcome.
 
 
-![](../../image/addon_ismitmlink.jpg)
+![](../../image/addon_ismitmlink_1.jpg)
+![](../../image/addon_ismitmlink_2.jpg)
 
 
 ```
