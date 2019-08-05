@@ -1627,6 +1627,8 @@ Disqualify:
 
 ######  Mastodon
 
+"Ich betreibe gleich seit fast 14 Jahren eigene #Server und hab noch keinen Grund dafür finden können, sie komplett hinter einen #Proxy von #Cloudflare zu stellen. Ganz ehrlich... Wer Cloudflare wegen "Sicherheit" nimmt, der sollte aufgrund mangelnder #Kenntnisse über #Serversicherheit seinen Server besser kündigen und sich einfachen Webspace zu legen!" by @[kromonos](https://metalhead.club/@kromonos/102562981524139639)
+
 "Services like #CloudFlare are really nice with #PatriotAct and #NSA. #USHackers #whatawonderfulworld. CloudFlare create SSL certificates  for sites they cache. So have the wholme traffic unciphered locally, and send it to the remote server to be cached. So, they have clear and unciphered access to the whole content :  usernames   passwords  web content..." by @[popolon](https://mastodon.social/@popolon/102546838067285665)
 
 "Google reCaptcha nicht erreichbar? ... Na dann viel Spaß in der #Hölle, freunde von #Cloudflare" by @[kromonos](https://metalhead.club/@kromonos/102543497886371728)
