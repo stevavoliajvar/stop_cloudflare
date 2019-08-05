@@ -295,6 +295,24 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Hey there #errbot devs. It appears that errbot  is throwing a Cloudflare error: Error 1014 CNAME Cross-User Banned" by @[n8felton](https://twitter.com/n8felton/status/1158087249126469632)
+
+"Dear FJ, the Cloudflare error in white page means that the owner of the site has blocked Indian connections from accessing it." by @[Aamer_Sha](https://twitter.com/Aamer_Sha/status/1158083077425512449)
+
+"You alright? For a second there was a cloudflare error. " by @[RainbowKappaMC](https://twitter.com/RainbowKappaMC/status/1157259941461266432)
+
+"is your website ok? getting a Error 522 via cloudflare" by @[CatherineWeird](https://twitter.com/CatherineWeird/status/1157006526781038592)
+
+"Getting a 521 error on cloudflare for the past 30 minutes. fyi." by @[taffy_nay](https://twitter.com/taffy_nay/status/1157004487854370816)
+
+"i placed an Order, and after paying with Paypal i was redirected to a Cloudflare Error-Page. My Paypal has the debit but there is no E-Mail Order Confirmation or Order No at your Website." by @[Dryteak](https://twitter.com/Dryteak/status/1156957781892706307)
+
+"" by @[imxylox](https://twitter.com/imxylox/status/1156942014065389569)
+
+"Hello i have a Problem with the Website gt-mp.net  i can go on the Site it gives me an Cloudflare Error! I just want to Download the Client is there way that i get a directly Download Link?" by @[]()
+
+"What's up with Cloudflare? 1. Error while attempting to log in (credentials are correct -- cookies wiped) 2. When logging in using incognito, it works but redirects to.. the path to a SVG logo that isn't there? 3. Many errors on the main page after clearing out all site data " by @[CoolApps45](https://twitter.com/CoolApps45/status/1156712382099591173)
+
 "In truth Cloudflare's commitment to freedom on the 'net is clearly not true given Cloudflare's blocking of anyone who tries to connect to one of their client sites from a #tor exit node. It's not about freedom. I doubt it's about any principles at all." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1158124739933745152)
 
 "If anything, Cloudflare is demonstrably against free access to information. Their entire business model comes down to locking off the Internet to all but the biggest tech giants (Googlebot), and denying any other Mom&Pop co’s in the name of “DDoS protection.”" by @[petebray](https://twitter.com/petebray/status/1158067340388401152)
