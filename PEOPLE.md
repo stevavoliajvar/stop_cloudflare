@@ -307,9 +307,7 @@ Disqualify:
 
 "i placed an Order, and after paying with Paypal i was redirected to a Cloudflare Error-Page. My Paypal has the debit but there is no E-Mail Order Confirmation or Order No at your Website." by @[Dryteak](https://twitter.com/Dryteak/status/1156957781892706307)
 
-"" by @[imxylox](https://twitter.com/imxylox/status/1156942014065389569)
-
-"Hello i have a Problem with the Website gt-mp.net  i can go on the Site it gives me an Cloudflare Error! I just want to Download the Client is there way that i get a directly Download Link?" by @[]()
+"Hello i have a Problem with the Website gt-mp.net  i can go on the Site it gives me an Cloudflare Error! I just want to Download the Client is there way that i get a directly Download Link?" by @[imxylox](https://twitter.com/imxylox/status/1156942014065389569)
 
 "What's up with Cloudflare? 1. Error while attempting to log in (credentials are correct -- cookies wiped) 2. When logging in using incognito, it works but redirects to.. the path to a SVG logo that isn't there? 3. Many errors on the main page after clearing out all site data " by @[CoolApps45](https://twitter.com/CoolApps45/status/1156712382099591173)
 
