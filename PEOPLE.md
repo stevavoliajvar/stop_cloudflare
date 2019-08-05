@@ -295,6 +295,12 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"In truth Cloudflare's commitment to freedom on the 'net is clearly not true given Cloudflare's blocking of anyone who tries to connect to one of their client sites from a #tor exit node. It's not about freedom. I doubt it's about any principles at all." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1158124739933745152)
+
+"If anything, Cloudflare is demonstrably against free access to information. Their entire business model comes down to locking off the Internet to all but the biggest tech giants (Googlebot), and denying any other Mom&Pop co’s in the name of “DDoS protection.”" by @[petebray](https://twitter.com/petebray/status/1158067340388401152)
+
+"I remember cloudflare's "safety lead" blocking a bunch of people for pointing out that their abuse process is (was) extremely unsafe." by @[sschinke](https://twitter.com/sschinke/status/1158177997960040448)
+
 "Well cloudflare is one of the worst companies out there. Their entire business model is made up of restricting access to content (ie machine learning to only let Google and other big co bots through, but denying all small players)." by @[petebray](https://twitter.com/petebray/status/1157874402588889088)
 
 "Finding it difficult to access petition. Error 502. No idea if deliberate or just technical." by @[NDWissner](https://twitter.com/NDWissner/status/1157214234209656832)
@@ -1755,6 +1761,9 @@ Und jene, die keine Ahnung haben ... denen ist die Meinung der wirklichen Expert
 "It sabotaged users over serious concerns of non-privacy, censorship, unethical, deception and unfair experiences." by @[HarvettFox96](https://hostux.social/@HarvettFox96/102097087292348123)
 
 "Firefox is going to ship with DNS over HTTPS (DoH) by default soon. It will still use Cloudflare by default." by @[amolith](https://masto.nixnet.xyz/@amolith/101939482525255808)
+
+"Oh, #Cloudflare hat Konkurrenz bekommen?
+Jede Seite, die mich dazu drängt, ein #Google #Captcha zu lösen, damit ich mir die ansehen kann, schließe ich einfach direkt wieder" by @[kromonos](https://metalhead.club/@kromonos/102180075921056116)
 
 "How pathetic is life when becoming absolutely enraged after solving a #captcha 3 times but not being permitted to move forward." by @[hrthu](https://fosstodon.org/@hrthu/101987545210858236)
 
