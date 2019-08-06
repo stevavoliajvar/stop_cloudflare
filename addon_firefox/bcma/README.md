@@ -12,4 +12,4 @@ This add-on will block, notify, or redirect your request if the target website i
 Submit to global surveillance or resist. The choice is yours.
 ```
 
-[Download add-on](https://api.searxes.eu.org/_/addon.php?dl=dl&for=bcma)
+[Download add-on](https://api.searxes.eu.org/_/addon.php?dl=dl&for=bcma)  *Firefox 60+*
