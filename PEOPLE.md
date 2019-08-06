@@ -171,8 +171,6 @@ Disqualify:
 
 "[Issues with corporate censorship and mass surveillance](https://www.torproject.org/projects/tor/ticket/18361)" by [Jacob Appelbaum](https://twitter.com/ioerror)
 
-[How do i use the tor browser for android without tor](https://tor.stackexchange.com/questions/20115/how-do-i-use-the-tor-browser-for-android-without-tor)
-
 [How can i get rid of those cloudflare captchas its annoying](https://tor.stackexchange.com/questions/13424/how-can-i-get-rid-of-those-cloudflare-captchas-its-annoying)
 
 [Cloudflares captcha screen insurmountable](https://tor.stackexchange.com/questions/599/cloudflares-captcha-screen-insurmountable)
@@ -1644,6 +1642,10 @@ Disqualify:
 ------
 
 ######  Mastodon
+
+"Well done, #Cloudflare. And thank you. Thank you for proving me right. You're a #surveillance and #censorship company. You start with nazis and you move on closer from that edge" by @[Dr. Roy](https://pleroma.site/objects/0f476d6e-aeef-4043-89c1-5db998b69497)
+
+"And now #bigTech #cloudflare is deciding they need to be the gatekeeper of more speech. Because a crazy happened to post on one of their hosted sites???" by @[poncho524](https://mastodon.host/@poncho524/102567778634669022)
 
 "Ich betreibe gleich seit fast 14 Jahren eigene #Server und hab noch keinen Grund dafür finden können, sie komplett hinter einen #Proxy von #Cloudflare zu stellen. Ganz ehrlich... Wer Cloudflare wegen "Sicherheit" nimmt, der sollte aufgrund mangelnder #Kenntnisse über #Serversicherheit seinen Server besser kündigen und sich einfachen Webspace zu legen!" by @[kromonos](https://metalhead.club/@kromonos/102562981524139639)
 
