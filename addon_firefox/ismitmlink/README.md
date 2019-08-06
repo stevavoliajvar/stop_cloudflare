@@ -15,4 +15,4 @@ This add-on is using Searxes' "MITM test API" to scan FQDN(URL's hostname).
 This add-on never send other information.
 ```
 
-[Download add-on](https://api.searxes.eu.org/_/addon.php?dl=dl&for=ismitmlink)
+[Download add-on](https://api.searxes.eu.org/_/addon.php?dl=dl&for=ismitmlink)  *Firefox 60+*
