@@ -1,3 +1,13 @@
+*2019.08.05*
+
+@jeffcliff@niu.moe:
+```
+#greatcloudwall gets further politicized:
+Terminates Service for 8Chan - the #greatcloudwall gets one step closer to dictating what you can/cannot say on the internet 
+``` 
+
+https://niu.moe/@jeffcliff/102566376973167221
+
 *2019.04.04*
 
 @holydevil@birdsite:
