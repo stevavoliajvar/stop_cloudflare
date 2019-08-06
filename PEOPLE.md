@@ -171,6 +171,24 @@ Disqualify:
 
 "[Issues with corporate censorship and mass surveillance](https://www.torproject.org/projects/tor/ticket/18361)" by [Jacob Appelbaum](https://twitter.com/ioerror)
 
+[How do i use the tor browser for android without tor](https://tor.stackexchange.com/questions/20115/how-do-i-use-the-tor-browser-for-android-without-tor)
+
+[How can i get rid of those cloudflare captchas its annoying](https://tor.stackexchange.com/questions/13424/how-can-i-get-rid-of-those-cloudflare-captchas-its-annoying)
+
+[Cloudflares captcha screen insurmountable](https://tor.stackexchange.com/questions/599/cloudflares-captcha-screen-insurmountable)
+
+[Does cloudflare identify tor users actual ip address and other identifying info](https://tor.stackexchange.com/questions/4441/does-cloudflare-identify-tor-users-actual-ip-address-and-other-identifying-info)
+
+[Cloudflare hates tbb v7 not duplicate](https://tor.stackexchange.com/questions/14955/cloudflare-hates-tbb-v7-not-duplicate)
+
+[Cloudflare wont let in even though i solve the captcha correctly](https://tor.stackexchange.com/questions/6045/cloudflare-wont-let-in-even-though-i-solve-the-captcha-correctly)
+
+[Getting cloudflared all of a sudden why](https://tor.stackexchange.com/questions/9330/getting-cloudflared-all-of-a-sudden-why)
+
+[Is a tor or cloudflare update the reason i suddenly getting cloudflared to death](https://tor.stackexchange.com/questions/9465/is-a-tor-or-cloudflare-update-the-reason-i-suddenly-getting-cloudflared-to-death)
+
+[How do enter all cloudflares captchas on one page to access a complex page](https://tor.stackexchange.com/questions/6277/how-do-enter-all-cloudflares-captchas-on-one-page-to-access-a-complex-page)
+
 "[Be careful with CloudFlare](https://www.reddit.com/r/privacy/comments/41cb4k/be_careful_with_cloudflare/)" by [no-idea-for-username](https://www.reddit.com/user/no-idea-for-username)
 
 "[Be wary reporting to Cloudflare](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)" by [athenahollow](https://www.reddit.com/user/athenahollow/)
