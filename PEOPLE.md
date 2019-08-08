@@ -139,6 +139,8 @@ Disqualify:
 
 ######  Forum / Wiki
 
+"[Pale Moon developer shows disdain for Tor and people who combat Cloudflare MITM](https://www.reddit.com/r/privacy/comments/cnqwr3/pale_moon_developer_shows_disdain_for_tor_and/)" by [vargasgetulio](https://www.reddit.com/user/vargasgetulio/)
+
 "[...Cloudflare DOES TLS termination, directly having access to all the data in clear.](https://www.reddit.com/r/privacy/comments/ckwlem/cloudflare_does_tls_termination_directly_having/)" by [JustCondition4](https://www.reddit.com/user/JustCondition4/)
 
 "[DNS over HTTPS](http://oxwugzccvk3dk6tj.onion/tech/res/1082196.html)"
@@ -330,6 +332,8 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"People did not know cloudflare sucks? You ever try to browse websites from a Tor connection to a cloudflare hosted site? (Granted they eventually stopped putting people in captcha jail)" by @[Pic0o](https://twitter.com/Pic0o/status/1158531041033936897)
 
 "Hm.. Pakistan govt has signed up enterprise plan with Cloudflare to block it's army website for India IP addresses. " by @[njnrn](https://twitter.com/njnrn/status/1158445893948866560)
 
