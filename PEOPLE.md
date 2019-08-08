@@ -311,6 +311,12 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Hm.. Pakistan govt has signed up enterprise plan with Cloudflare to block it's army website for India IP addresses. " by @[njnrn](https://twitter.com/njnrn/status/1158445893948866560)
+
+"Hey, i have some trouble with your website Cloudflare say i have no access...." by @[Poke7z](https://twitter.com/Poke7z/status/1159209207511625729)
+
+"I have a bad gateway error (502) with the Cloudflare server being in Warsaw." by @[kbartek05](https://twitter.com/kbartek05/status/1159174662955380736)
+
 "Hey there #errbot devs. It appears that errbot  is throwing a Cloudflare error: Error 1014 CNAME Cross-User Banned" by @[n8felton](https://twitter.com/n8felton/status/1158087249126469632)
 
 "Dear FJ, the Cloudflare error in white page means that the owner of the site has blocked Indian connections from accessing it." by @[Aamer_Sha](https://twitter.com/Aamer_Sha/status/1158083077425512449)
@@ -1642,6 +1648,10 @@ Disqualify:
 ------
 
 ######  Mastodon
+
+"Everyone should boycott censorship-loving @Cloudflare and any groups associated with it that they are able. (Dailymotion) #Cloudflare #8chan #Censorship " by @[Styx666Official](https://mstdn.foxfam.club/@Styx666Official/102570516495655146)
+
+"I found that over half the sites I tried to visit would not load at all unless I added exceptions, and some loaded but with broken elements. It seems to me it's not healthy for the #internet to have a single company controlling this much. They may be benevolent now, but what about the future?" by @[kezzbracey](https://mastodon.gamedev.place/@kezzbracey/102574455814372037)
 
 "Well done, #Cloudflare. And thank you. Thank you for proving me right. You're a #surveillance and #censorship company. You start with nazis and you move on closer from that edge" by @[Dr. Roy](https://pleroma.site/objects/0f476d6e-aeef-4043-89c1-5db998b69497)
 
