@@ -241,6 +241,26 @@ Disqualify:
 
 ######  Microsoft GitHub
 
+"[blocked by cloudflare](https://github.com/thinkle/gourmet/issues/885)" by [imesg](https://github.com/imesg)
+
+"[Cloudflare blocked](https://github.com/sinkaroid/Hentai2read-Grabber/issues/1)" by [sinkaroid](https://github.com/sinkaroid)
+
+"[Blocked by cloudflare](https://github.com/bitmarket-net/api/issues/24)" by [roquez](https://github.com/roquez)
+
+"[Can't access your API](https://github.com/bitcoincoltd/bitexthai/issues/7)" by [adeelotx](https://github.com/adeelotx)
+
+"[Can't access susper, because of cloudflare](https://github.com/fossasia/susper.com/issues/903)" by [clownfeces](https://github.com/clownfeces)
+
+"[Extension blocked by Cloudflare](https://github.com/bit4woo/knife/issues/11)" by [Neolex-Security](https://github.com/Neolex-Security)
+
+"[Custom DNS option not working !](https://github.com/Jigsaw-Code/Intra/issues/209)" by [Nokia808](https://github.com/Nokia808)
+
+"[Patreon added Cloudflare, blocks get_file_contents](https://github.com/daemionfox/patreon-feed/issues/7)" by [TwistedMexi](https://github.com/TwistedMexi)
+
+"[Why do I have to complete a CAPTCHA?](https://github.com/KyranRana/cloudflare-bypass/issues/119)" by [DrPaw](https://github.com/DrPaw)
+
+"[i found a solution for cloudflare](https://github.com/KyranRana/cloudflare-bypass/issues/116)" by [WAVDEVTEAM](https://github.com/WAVDEVTEAM)
+
 "[Notes on privacy and data collection of Matrix.org](https://gist.github.com/maxidorius/5736fd09c9194b7a6dc03b6b8d7220d0#gistcomment-2963692)" by [maxidorius](https://github.com/maxidorius)
 
 "[The feed stopped working](https://github.com/splitbrain/patreon-rss/issues/4)" by [leandroprz](https://github.com/leandroprz)
@@ -1648,6 +1668,8 @@ Disqualify:
 ------
 
 ######  Mastodon
+
+"The PINE64 website is also #cloudflared. This means that #cloudflare terminates the secure connection, decrypts the traffic, and encrypts it again. That is terrible." by @[utf8equalsX](https://fosstodon.org/@utf8equalsX/102581004076074151)
 
 "Everyone should boycott censorship-loving @Cloudflare and any groups associated with it that they are able. (Dailymotion) #Cloudflare #8chan #Censorship " by @[Styx666Official](https://mstdn.foxfam.club/@Styx666Official/102570516495655146)
 
