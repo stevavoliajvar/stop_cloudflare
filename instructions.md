@@ -89,7 +89,7 @@ Type B: Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" web
 
 | List name | Description |
 | -------- | -------- |
-| list_http_error.txt           | Websites that instantly and unconditionally deny service to Tor visitors by returning an HTTP error.  HTTP 403 is the most common but this list catalogs all HTTP responses that entail DoS (i.e. not HTTP 200).  File format is: <FQDN> <http error code> |
+| list_http_error.txt           | Websites that instantly and unconditionally deny service to Tor visitors by returning an HTTP error.  HTTP 403 is the most common but this list catalogs all HTTP responses that entail DoS (i.e. not HTTP 200).  File format is: &lt;FQDN&gt; &lt;http error code&gt; |
 | list_customerror.txt          | Custom error message renders for Tor visitors generally without HTTP error. |
 | list_other.txt                | Any other form of tor-hostility or mistreatment.  This includes sites somewhat functional for Tor users to some extent but sneaky and unexpected adverse retalitory actions are taken against Tor visitors. |
 | list_siteground.txt           | siteground.com is a Tor-hostile hosting service that indiscriminately DoSes all Tor users with the collective judgement: "our system thinks you might be a robot!" Sometimes the site functions, and sometimes it times out, but the robot accusation (illustrated below) is very common. |
