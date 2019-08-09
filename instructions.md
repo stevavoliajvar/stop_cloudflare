@@ -116,6 +116,7 @@ Some websites use other companies with the CloudFlare business model.
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
 [Add-on "whyrejectme"](README.md#what-can-you-do) will help your `list_http_error.txt` collection.
+
 ---
 
 Information:
