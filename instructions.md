@@ -97,9 +97,7 @@ Type B: Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" web
 | (obsolete) list_error403.txt  | Superceded by list_http_error.txt.  Returns HTTP Error 403 (Forbidden) |
 | (obsolete) list_error462.txt  | Superceded by list_http_error.txt.  Returns HTTP Error 462 |
 
-This is how Siteground-hosted sites often appear to Tor visitors when timeouts/tarpitting doesn't occur:
-
-![](image/siteground.jpg) &lt;= If you see this please update `list_siteground.txt`.
+![](image/siteground.jpg) &lt;= This is how Siteground-hosted sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.  If you see this please update `list_siteground.txt`.
 
 ```
 IMPORTANT: Please add only "FQDN" or "FQDN[space](comment here)"
