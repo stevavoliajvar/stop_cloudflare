@@ -89,7 +89,7 @@ Type B: Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" web
 
 | List name | Description |
 | -------- | -------- |
-| list_http_error.txt           | Websites that instantly and unconditionally deny service to Tor visitors by returning an HTTP error.  HTTP 403 is the most common but this list catalogs all HTTP responses that entail DoS (i.e. not HTTP 200).  File format is: <FQDN> <http error code> |
+| list_http_error.txt           | Websites that instantly and unconditionally deny service to Tor visitors by returning an HTTP error.  HTTP 403 is the most common but this list catalogs all HTTP responses that entail DoS (i.e. not HTTP 200).  File format is: &lt;FQDN&gt; &lt;http error code&gt; |
 | list_customerror.txt          | Custom error message renders for Tor visitors generally without HTTP error. |
 | list_other.txt                | Any other form of tor-hostility or mistreatment.  This includes sites somewhat functional for Tor users to some extent but sneaky and unexpected adverse retalitory actions are taken against Tor visitors. |
 | list_siteground.txt           | siteground.com is a Tor-hostile hosting service that indiscriminately DoSes all Tor users with the collective judgement: "our system thinks you might be a robot!" Sometimes the site functions, and sometimes it times out, but the robot accusation (illustrated below) is very common. |
@@ -97,9 +97,7 @@ Type B: Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" web
 | (obsolete) list_error403.txt  | Superceded by list_http_error.txt.  Returns HTTP Error 403 (Forbidden) |
 | (obsolete) list_error462.txt  | Superceded by list_http_error.txt.  Returns HTTP Error 462 |
 
-This is how Siteground-hosted sites often appear to Tor visitors when timeouts/tarpitting doesn't occur:
-
-![](image/siteground.jpg) &lt;= If you see this please update `list_siteground.txt`.
+![](image/siteground.jpg) &lt;= This is how Siteground-hosted sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.  If you see this please update `list_siteground.txt`.
 
 ```
 IMPORTANT: Please add only "FQDN" or "FQDN[space](comment here)"
