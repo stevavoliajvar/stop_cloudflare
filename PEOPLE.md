@@ -35,6 +35,8 @@ Disqualify:
 
 ######  News
 
+"[CloudflareのDNSだと「5ちゃんねる」に接続できない？　ネットで話題に](https://www.itmedia.co.jp/news/articles/1908/09/news108.html)" by [itmedia](https://www.itmedia.co.jp/news/)
+
 "[Cloudflare down: Thousands of popular websites affected by brief outage](https://news.sky.com/story/cloudflare-down-thousands-of-popular-websites-affected-by-brief-outage-11755312)" by [Alexander J Martin](https://news.sky.com/)
 
 "[Major websites and services across the internet went down Tuesday because of a hosting-platform outage](https://www.businessinsider.nl/cloudflare-outage-causes-major-websites-across-internet-to-go-down-2019-7/)" by [Antonio Villas-Boas](https://www.businessinsider.com/author/antonio-villas-boas)
@@ -332,6 +334,22 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+" can't login to Patreon. When I try to, it tells me to verify by clicking the link sent to my mail. After I click, I see " 403 Forbidden " and " cloudflare". This must have something to do with you. I am not attacking the site obviously, why am I blocked?" by @[pleionea](https://twitter.com/pleionea/status/1159955321634402305)
+
+"Cloudflare blocking access to the site from France. So much for net neutrality..." by @[jfenal](https://twitter.com/jfenal/status/1159704817675177984)
+
+"Cloudflareの1.1.1.1ってpoliticalな云々でblockingするとこだったっけ？と" by @[hornet_mk2](https://twitter.com/hornet_mk2/status/1159799146800242691)
+
+"率直に言って Cloudflare DNS が特定のドメインの名前解決を阻害し続けるならば、今後それを使うことはなくなる。" by @[soltia48](https://twitter.com/soltia48/status/1159657171266617344)
+
+"Hey remember when you dickheads forwarded my name, email address, and IP number to 8chan after we sent you a report about the child pornography ring they were hosting?" by @[FoldableHuman](https://twitter.com/FoldableHuman/status/1158234905395904512)
+
+"Reading this thread makes me think it's straight up dangerous to have any sort of contact with Cloudflare if you have any sort of morals or scruples. I'd say it's best to report websites hosted by them to the authorities." by @[WenSchw](https://twitter.com/WenSchw/status/1159957822626357248)
+
+"Is cloudflare trying to shut you guys down too? " by @[youngandaspire](https://twitter.com/youngandaspire/status/1159958784569049089)
+
+"CloudflareのDNSだと「5ちゃんねる」に接続できない？　ネットで話題に  … "Cloudflareは今回、8chanの現運営者が一時的に管理していた5ちゃんねるに対しても措置を講じたとみられる"" by @[catnap707](https://twitter.com/catnap707/status/1159963775178436608)
 
 "People did not know cloudflare sucks? You ever try to browse websites from a Tor connection to a cloudflare hosted site? (Granted they eventually stopped putting people in captcha jail)" by @[Pic0o](https://twitter.com/Pic0o/status/1158531041033936897)
 
@@ -1675,7 +1693,7 @@ Disqualify:
 
 "How to shut down the #bullshitweb? Switch off #Cloudflare & AWS, approx. 80% done. There's a Firefox (and Chrome) addon available at codeberg helping you decide what links not to click, as Cloudflare does a #MITM" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102583975445779208)
 
-"DDoS protection is good – but the price it comes at… They're said to play MITM in breaking up your encryption. And as I indicated: whenever they have an outage (and they had some), about 1/3 of "the internet" is unreachable…" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid)
+"DDoS protection is good – but the price it comes at… They're said to play MITM in breaking up your encryption. And as I indicated: whenever they have an outage (and they had some), about 1/3 of "the internet" is unreachable…" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102585623297173423)
 
 "The PINE64 website is also #cloudflared. This means that #cloudflare terminates the secure connection, decrypts the traffic, and encrypts it again. That is terrible." by @[utf8equalsX](https://fosstodon.org/@utf8equalsX/102581004076074151)
 
