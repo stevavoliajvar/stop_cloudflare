@@ -1673,6 +1673,10 @@ Disqualify:
 
 ######  Mastodon
 
+"How to shut down the #bullshitweb? Switch off #Cloudflare & AWS, approx. 80% done. There's a Firefox (and Chrome) addon available at codeberg helping you decide what links not to click, as Cloudflare does a #MITM" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102583975445779208)
+
+"DDoS protection is good – but the price it comes at… They're said to play MITM in breaking up your encryption. And as I indicated: whenever they have an outage (and they had some), about 1/3 of "the internet" is unreachable…" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid)
+
 "The PINE64 website is also #cloudflared. This means that #cloudflare terminates the secure connection, decrypts the traffic, and encrypts it again. That is terrible." by @[utf8equalsX](https://fosstodon.org/@utf8equalsX/102581004076074151)
 
 "Everyone should boycott censorship-loving @Cloudflare and any groups associated with it that they are able. (Dailymotion) #Cloudflare #8chan #Censorship " by @[Styx666Official](https://mstdn.foxfam.club/@Styx666Official/102570516495655146)
