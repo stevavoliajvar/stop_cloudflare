@@ -173,6 +173,10 @@ Disqualify:
 
 "[Cloudflare is MITM](https://forum.golem.de/kommentare/security/ddos-schutz-cloudflare-gewinnt-kampf-um-national-security-letter/cloudflare-is-mitm/106383,4705549,4705549,read.html)" by Nutzer
 
+"[Constant "CloudFlare" IP BLOCK Popups](https://web.archive.org/web/20190119114739/https://forums.malwarebytes.com/topic/209059-constant-cloudflare-ip-block-popups/)" by [craigs](https://forums.malwarebytes.com/profile/39498-craigs/)
+
+"[This Cloudflare horsesh*t. Are they CIA? Seriously, I keep finding cloudflare based problems. No way they are this popular with all these problems.](https://www.reddit.com/r/conspiracy/comments/3cuqgg/this_cloudflare_horsesht_are_they_cia_seriously_i/)" by deleted
+
 "[Issues with corporate censorship and mass surveillance](https://www.torproject.org/projects/tor/ticket/18361)" by [Jacob Appelbaum](https://twitter.com/ioerror)
 
 [How can i get rid of those cloudflare captchas its annoying](https://tor.stackexchange.com/questions/13424/how-can-i-get-rid-of-those-cloudflare-captchas-its-annoying)
