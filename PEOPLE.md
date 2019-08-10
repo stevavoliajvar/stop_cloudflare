@@ -149,6 +149,18 @@ Disqualify:
 
 "[Cloudflare = CIA](http://oxwugzccvk3dk6tj.onion/tech/res/1032001.html)"
 
+"[Please remove cloudflare](https://www.reddit.com/r/privacytoolsIO/comments/35xg9u/please_remove_cloudflare/)" by [cloudspyha](https://www.reddit.com/user/cloudspyha/)
+
+"[coinkite SSL is shared with shady sites?](https://www.reddit.com/r/Bitcoin/comments/1ynfvt/coinkite_ssl_is_shared_with_shady_sites/)" by [notR1CH](https://www.reddit.com/user/notR1CH/)
+
+"[Cloudflare's mobile application "1.1.1.1: Faster & Safer Internet" keeps a log of your DNS queries for 24 hours, can't be disabled](https://www.reddit.com/r/privacy/comments/9wmjey/cloudflares_mobile_application_1111_faster_safer/)" by [maybenot12](https://www.reddit.com/user/maybenot12/)
+
+"[In other news, Bitpay is completely broken now.](https://www.reddit.com/r/Bitcoin/comments/7n5ofh/in_other_news_bitpay_is_completely_broken_now/)" by [phelix2](https://www.reddit.com/user/phelix2/)
+
+"[Can we stop posting articles from medium?](https://www.reddit.com/r/privacy/comments/bsip31/can_we_stop_posting_articles_from_medium/)" by [FusionTorpedo](https://www.reddit.com/user/FusionTorpedo)
+
+"[How to avoid plain text passwords etc being visible to Cloudflare's MITM proxies](https://www.reddit.com/r/webdev/comments/5ap1le/how_to_avoid_plain_text_passwords_etc_being/)" by [r0ck0](https://www.reddit.com/user/r0ck0/)
+
 "[Thoughts on CloudFlare](https://www.reddit.com/r/privacytoolsIO/comments/cailfa/thoughts_on_cloudflare/)" by [techEnthusiast0](https://www.reddit.com/user/techEnthusiast0/)
 
 "[Is it possible to universally bypass the Cloudflare DDOS-protection? Can add a delay to your daily browsing when automatically clearing cookies](https://www.reddit.com/r/firefox/comments/c7ywt4/is_it_possible_to_universally_bypass_the/)" by [8VBQ-Y5AG-8XU9-567UM](https://www.reddit.com/user/8VBQ-Y5AG-8XU9-567UM)
@@ -338,6 +350,26 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"I'm getting 502 Cloudflare Issues. Is there any updates on how long this is going to take?" by @[Shadowclouddr](https://twitter.com/Shadowclouddr/status/1160328555059916802)
+
+"Sorry to be a pest, but Cloudflare says the host for the site isn't responding!" by @[HannahCaruso3](https://twitter.com/HannahCaruso3/status/1160326868807143424)
+
+"Just letting you know you've issued a certificate to a crypto scam site" by @[SickBeard_Log](https://twitter.com/SickBeard_Log/status/1160312871164628993)
+
+"Cloudflare's CDN isnt a DNS smartass. Cloudflare's only mission is to MITM the whole internet. " by @[6JY6ZQVYS4p7YrL](https://twitter.com/6JY6ZQVYS4p7YrL/status/1158307042924408832)
+
+"While you try and MITM the whole fucking internet." by @[6JY6ZQVYS4p7YrL](https://twitter.com/6JY6ZQVYS4p7YrL/status/1156332140713402368)
+
+"Cloudflare acts as a MITM. In other words, the client connects via HTTPS to their servers, not to the actual website, and then they connect to the actual server. They can read all traffic since encryption is "terminated" at their node." by @[OtomaiShirona](https://twitter.com/OtomaiShirona/status/1159033822903787525)
+
+"speaking of crapflare, yet another one... the 2nd one I've seen since this prior tweet. Maybe it is me... but in the end vendors lose out and I move on..." by @[brettPowerline](https://twitter.com/brettPowerline/status/1159219980921126914)
+
+"would you want your kids to be victims on your own infrastructure? #Hypocrisy #cybercrime" by @[phyzonloop](https://twitter.com/phyzonloop/status/1160000377418387457)
+
+"You blocked 5ch.net , which includes Japan's strongest liberal community /poverty/ (kenmo) board. You think you blocked Japan's alt-right website, but it's not actually quite that simple." by @[joinus_yaruo](https://twitter.com/joinus_yaruo/status/1159678887275614209)
+
+"Having trouble with the haveibeenpwned API. Using v3 with an API key and sending requests under the rate limit but still getting blocked by Cloudflare. Anyone else having similar problems?" by @[averagesecguy](https://twitter.com/averagesecguy/status/1159491954503086080)
 
 " can't login to Patreon. When I try to, it tells me to verify by clicking the link sent to my mail. After I click, I see " 403 Forbidden " and " cloudflare". This must have something to do with you. I am not attacking the site obviously, why am I blocked?" by @[pleionea](https://twitter.com/pleionea/status/1159955321634402305)
 
