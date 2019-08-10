@@ -1695,6 +1695,8 @@ Disqualify:
 
 ######  Mastodon
 
+"Also mit nginx eine eigene Firewall bauen, anstelle, wie es andere machen, #Cloudflare zu nutzen." by @[kromonos](https://metalhead.club/@kromonos/102592478151563288)
+
 "How to shut down the #bullshitweb? Switch off #Cloudflare & AWS, approx. 80% done. There's a Firefox (and Chrome) addon available at codeberg helping you decide what links not to click, as Cloudflare does a #MITM" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102583975445779208)
 
 "DDoS protection is good – but the price it comes at… They're said to play MITM in breaking up your encryption. And as I indicated: whenever they have an outage (and they had some), about 1/3 of "the internet" is unreachable…" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102585623297173423)
