@@ -17,6 +17,7 @@ dengarden.com 403
 dluat.com 403
 dohop.com 403
 downtownorlando.com 403
+easyjet.com 403
 eater.com 403
 europa.eu 403
 expedia.com 403
