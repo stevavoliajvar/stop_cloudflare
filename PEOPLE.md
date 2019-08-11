@@ -351,6 +351,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Maybe Cloudflare should shut off business with facebook for allowing this manifesto being posted. Naw... cloudflare would never cut off one of the hands that feed them by applying equal censorship. #CloudflareHypocrisy" by @[TheCypressGang](https://twitter.com/TheCypressGang/status/1160292182064082944)
+
+"Cloudflareみたいな会社が、偉い人間の感情でこういうことするの本当に良くないから(止|辞)めてね" by @[sekai67](https://twitter.com/sekai67/status/1160385439154331648)
+
 "I'm getting 502 Cloudflare Issues. Is there any updates on how long this is going to take?" by @[Shadowclouddr](https://twitter.com/Shadowclouddr/status/1160328555059916802)
 
 "Sorry to be a pest, but Cloudflare says the host for the site isn't responding!" by @[HannahCaruso3](https://twitter.com/HannahCaruso3/status/1160326868807143424)
