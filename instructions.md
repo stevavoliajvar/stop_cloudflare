@@ -7,7 +7,7 @@
 
 | List name | Description |
 | -------- | -------- |
-| **/domain/cloudflare_x.txt**     | **Split files (base domain)**     |
+| **/domain/cloudflare_?.txt**     | **Split files (base domain)**     |
 | ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not anymore     |
 | cloudflare_supporter.txt | who is using Cloudflare or endorsing Cloudflare. (URL only) |
 
@@ -95,9 +95,7 @@ Type B: Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" web
 | list_customerror.txt          | Custom error message renders for Tor visitors generally without HTTP error. |
 | list_other.txt                | Any other form of tor-hostility or mistreatment.  This includes sites somewhat functional for Tor users to some extent but sneaky and unexpected adverse retalitory actions are taken against Tor visitors. |
 | list_siteground.txt           | siteground.com is a Tor-hostile hosting service that indiscriminately DoSes all Tor users with the collective judgement: "our system thinks you might be a robot!" Sometimes the site functions, and sometimes it times out, but the robot accusation (illustrated below) is very common. |
-| list_formerly_tor-hostile.txt | was previously on one of the above tor-hostile lists |
-| (obsolete) list_error403.txt  | Superceded by list_http_error.txt.  Returns HTTP Error 403 (Forbidden) |
-| (obsolete) list_error462.txt  | Superceded by list_http_error.txt.  Returns HTTP Error 462 |
+| list_formerly_tor-hostile.txt | _was_ previously on one of the above tor-hostile lists |
 
 ![](image/siteground.jpg) &lt;= This is how Siteground-hosted sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.  If you see this please update `list_siteground.txt`.
 
