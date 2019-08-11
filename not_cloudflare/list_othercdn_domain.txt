@@ -1,0 +1,2 @@
+example.com Z1
+example.net Z2
