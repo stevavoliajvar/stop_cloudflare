@@ -25,7 +25,7 @@ We recommend that you reach out to the administrators for the
 specific services or sites that you run into issue with and share your experience.
 ```
 
-If you don't [ask for it](PEOPLE.md), website owner never know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). Raise your voice.
+If you don't [ask for it](PEOPLE.md), website owner *never* know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). Raise your voice.
 
 ```
 You are just helping corporate censorship and mass surveillance.
@@ -46,7 +46,7 @@ An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look a
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
 I refuse to share data with you if you continue to feed my data to Cloudflare.
-See https://codeberg.org/crimeflare/cloudflare-tor/src/master/README.md
+See https://codeberg.org/crimeflare/cloudflare-tor
 ```
 
 For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
@@ -102,7 +102,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 - Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
 
-- Using Cloudflare to proxy your "API service", "Client(software) update server" or "RSS feed" will harm your customer. A customer called you and said "I can't use your API anymore", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
+- Using Cloudflare to proxy your "API service", "Client(software) update server" or "RSS feed" will harm your customer. A customer called you and said "_I can't use your API anymore_", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
 
 ![](image/rssfeedovercf.jpg)
 
@@ -122,7 +122,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 > IP list is from "[Cloudflare’s current IP ranges](https://www.cloudflare.com/ips/)" webpage. They might lie, so check your server logs too.
 
-> Method A: Just block
+> Method A: Just block them
 
 ```
 server {
@@ -195,7 +195,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor/ for more information.<br />
+Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -214,10 +214,10 @@ die();
 
 | Name | Developer | Support | Comment |
 | -------- | -------- | -------- | -------- |
-| [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux) |
+| [*Tor Browser*](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux) |
 | [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android |
 | [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS |
-| [Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | Eloston | [Link](https://github.com/Eloston/ungoogled-chromium/issues) | PC (Win, Mac, Linux)  _Not Tor_ |
+| [Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/) | PC (Win, Mac, Linux)  _Not Tor_ |
 | [Bromite](https://www.bromite.org/fdroid) | Bromite | [Link](https://github.com/bromite/bromite/issues) | Android  _Not Tor_ |
 
 Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect".
