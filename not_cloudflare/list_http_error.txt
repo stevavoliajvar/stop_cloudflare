@@ -1,6 +1,7 @@
 abebooks.com 403
 acehardware.com 403
 adidas.com 403
+aircanada.com 403
 ajc.com 403
 angieslist.com 403
 asus.com 403
@@ -13,6 +14,7 @@ citizensbankonline.com 403
 cnbc.com 403
 curbed.com 403
 delishably.com 403
+delta.com 403
 dengarden.com 403
 dluat.com 403
 dohop.com 403
