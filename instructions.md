@@ -7,7 +7,7 @@
 
 | List name | Description |
 | -------- | -------- |
-| /domain/cloudflare_x.txt     | Split files (base domain)     |
+| **/domain/cloudflare_x.txt**     | **Split files (base domain)**     |
 | ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not anymore     |
 | cloudflare_supporter.txt | who is using Cloudflare or endorsing Cloudflare. (URL only) |
 
@@ -89,6 +89,8 @@ Type B: Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" web
 
 | List name | Description |
 | -------- | -------- |
+| **/cidr_data/?.txt**     |  **other CDN IPv4 CIDR files**    |
+| **list_othercdn_domain.txt** | **domains behind these CDN (Not Cloudflare)** |
 | list_http_error.txt           | Websites that instantly and unconditionally deny service to Tor visitors by returning an HTTP error.  HTTP 403 is the most common but this list catalogs all HTTP responses that entail DoS (i.e. not HTTP 200).  File format is: &lt;FQDN&gt; &lt;http error code&gt; |
 | list_customerror.txt          | Custom error message renders for Tor visitors generally without HTTP error. |
 | list_other.txt                | Any other form of tor-hostility or mistreatment.  This includes sites somewhat functional for Tor users to some extent but sneaky and unexpected adverse retalitory actions are taken against Tor visitors. |
