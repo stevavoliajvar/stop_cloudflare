@@ -100,6 +100,21 @@ Type B: Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" web
 ![](image/siteground.jpg) &lt;= This is how Siteground-hosted sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.  If you see this please update `list_siteground.txt`.
 
 ```
+list_othercdn_domain.txt
+
+
+{domain} {CDN code}
+
+{CDN code}:
+'amazon.txt':'Z1'
+'akamai.txt':'Z2'
+'imperva.txt':'Z4'
+'google.txt':'Z5'
+'microsoft.txt':'Z6'
+'inap.txt':'Z7'
+```
+
+```
 IMPORTANT: Please add only "FQDN" or "FQDN[space](comment here)"
 
     if "community.example.com" is blocking Tor
