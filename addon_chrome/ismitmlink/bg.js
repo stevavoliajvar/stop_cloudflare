@@ -46,25 +46,47 @@ function i_already_know_you(f) {
 	});
 }
 
-function clear_cache_1w() {
-	chrome.storage.local.clear();
-	chrome.storage.local.set({
-		'lastU': Math.round((new Date()).getTime() / 1000)
-	});
-	chrome.storage.local.set({
-		'lastV': (chrome.runtime.getManifest()).version
+function forget_cache_1w() {
+	chrome.storage.local.get(['ign1', 'ign2', 'obs'], (g) => {
+		chrome.storage.local.clear();
+		chrome.storage.local.set({
+			'ign1': (g.ign1 == 'y' ? 'y' : 'n')
+		});
+		chrome.storage.local.set({
+			'ign2': (g.ign2 == 'y' ? 'y' : 'n')
+		});
+		chrome.storage.local.set({
+			'obs': (g.obs == 'y' ? 'y' : 'n')
+		});
+		chrome.storage.local.set({
+			'lastU': Math.round((new Date()).getTime() / 1000)
+		});
+		chrome.storage.local.set({
+			'lastV': (chrome.runtime.getManifest()).version
+		});
 	});
 	setTimeout(function () {
-		clear_cache_1w();
+		forget_cache_1w();
 	}, 604800000);
 }
 
 chrome.storage.local.get(['lastU', 'lastV'], (g) => {
 	if (g.lastU) {
 		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 604800) {
-			chrome.storage.local.clear();
-			chrome.storage.local.set({
-				'lastU': Math.round((new Date()).getTime() / 1000)
+			chrome.storage.local.get(['ign1', 'ign2', 'obs'], (g) => {
+				chrome.storage.local.clear();
+				chrome.storage.local.set({
+					'ign1': (g.ign1 == 'y' ? 'y' : 'n')
+				});
+				chrome.storage.local.set({
+					'ign2': (g.ign2 == 'y' ? 'y' : 'n')
+				});
+				chrome.storage.local.set({
+					'obs': (g.obs == 'y' ? 'y' : 'n')
+				});
+				chrome.storage.local.set({
+					'lastU': Math.round((new Date()).getTime() / 1000)
+				});
 			});
 		}
 	} else {
@@ -74,21 +96,32 @@ chrome.storage.local.get(['lastU', 'lastV'], (g) => {
 	}
 	let nowVer = (chrome.runtime.getManifest()).version;
 	if (g.lastV != nowVer) {
-		chrome.storage.local.clear();
-		chrome.storage.local.set({
-			'lastU': Math.round((new Date()).getTime() / 1000)
-		});
-		chrome.storage.local.set({
-			'lastV': nowVer
+		chrome.storage.local.get(['ign1', 'ign2', 'obs'], (g) => {
+			chrome.storage.local.clear();
+			chrome.storage.local.set({
+				'ign1': (g.ign1 == 'y' ? 'y' : 'n')
+			});
+			chrome.storage.local.set({
+				'ign2': (g.ign2 == 'y' ? 'y' : 'n')
+			});
+			chrome.storage.local.set({
+				'obs': (g.obs == 'y' ? 'y' : 'n')
+			});
+			chrome.storage.local.set({
+				'lastU': Math.round((new Date()).getTime() / 1000)
+			});
+			chrome.storage.local.set({
+				'lastV': (chrome.runtime.getManifest()).version
+			});
 		});
 	}
 	setTimeout(function () {
-		clear_cache_1w();
+		forget_cache_1w();
 	}, 604800000);
 });
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
-	if (request) {
+	if (request && sender) {
 		i_already_know_you(request).then((r) => {
 			if (r == 1 || r == -1) {
 				chrome.tabs.sendMessage(sender.tab.id, [request, ((r == 1) ? true : false)]);
