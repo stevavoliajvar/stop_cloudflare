@@ -1741,6 +1741,8 @@ Disqualify:
 
 ######  Mastodon
 
+"I don't get why none of these people understand how Cloudflare works and doesn't work." by @[zoe](https://sleeping.town/@zoe)
+
 "i do care about cloudflare not taking over the fediverse. im also weird about the masto.host instances (which incidentally use cf for media content)" by @[unknown](https://anime.website/objects/68c10712-6d65-43a0-aeb8-502dab87c730)
 
 "Also mit nginx eine eigene Firewall bauen, anstelle, wie es andere machen, #Cloudflare zu nutzen." by @[kromonos](https://metalhead.club/@kromonos/102592478151563288)
