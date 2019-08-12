@@ -32,7 +32,7 @@ There are many ways to detect it:
 
 - [These add-ons](what-to-do.md) will help your Cloudflare collection.
 - Visit a website via Tor or VPN, and you will be greeted by "Attention Required! Cloudflare" webpage.
-- Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
+- Use "[Is MITM?](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/collab/sxes/tool_ismitm.php)" webpage.
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
