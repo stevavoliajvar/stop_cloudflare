@@ -82,6 +82,7 @@ thespruceeats.com 462
 theverge.com 403
 tomsguide.com 403
 tomshardware.com 403
+travelocity.com 403
 tripsavvy.com 462
 twistedthrottle.com 403
 usnews.com 403
