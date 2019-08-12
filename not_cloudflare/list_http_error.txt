@@ -36,6 +36,7 @@ gutenberg.org 403
 homedepot.com 403
 hoovers.com 403
 hot-topic.co.nz 403
+hotwire.com 403
 hubpages.com 403
 hunker.com 403
 ibanking-services.com 403
