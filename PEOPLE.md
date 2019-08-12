@@ -351,6 +351,16 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"I registered an account last night and was sent an activation but the activate link (or any request to account.tfl.gov.uk ) produces a Cloudflare error "This website is using a security service to protect itself from online attacks. Ray ID"" by @[TouchingVirus](https://twitter.com/TouchingVirus/status/1160123539678257152)
+
+"Turns out Cloudflare's https redirection is messing with http-01 challenge. Always use nginx's own https redirection." by @[6r33z3](https://twitter.com/6r33z3/status/1159482334980268033)
+
+"I keep getting a Cloudflare error screen when attempting to load" by @[dtjohnso](https://twitter.com/dtjohnso/status/1160209031891431425)
+
+"is fa down again? I'm getting a gateway error from cloudflare." by @[JayriAvieock](https://twitter.com/JayriAvieock/status/1160267801296351234)
+
+"It’s script kiddies, human error, or just a Cloudflare outage." by @[notgrubles](https://twitter.com/notgrubles/status/1160574312442675200)
+
 "Maybe Cloudflare should shut off business with facebook for allowing this manifesto being posted. Naw... cloudflare would never cut off one of the hands that feed them by applying equal censorship. #CloudflareHypocrisy" by @[TheCypressGang](https://twitter.com/TheCypressGang/status/1160292182064082944)
 
 "Cloudflareみたいな会社が、偉い人間の感情でこういうことするの本当に良くないから(止|辞)めてね" by @[sekai67](https://twitter.com/sekai67/status/1160385439154331648)
@@ -1730,6 +1740,8 @@ Disqualify:
 ------
 
 ######  Mastodon
+
+"i do care about cloudflare not taking over the fediverse. im also weird about the masto.host instances (which incidentally use cf for media content)" by @[unknown](https://anime.website/objects/68c10712-6d65-43a0-aeb8-502dab87c730)
 
 "Also mit nginx eine eigene Firewall bauen, anstelle, wie es andere machen, #Cloudflare zu nutzen." by @[kromonos](https://metalhead.club/@kromonos/102592478151563288)
 
