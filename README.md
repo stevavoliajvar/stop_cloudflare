@@ -181,17 +181,17 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 ---
 
-This repository is a list of websites that are behind "The Great Cloudwall", and also actively blocking Tor users.
+This repository is a list of websites that are behind "_The Great Cloudwall_", and also actively blocking Tor users.
 
 
-Data  -  mirrors: [NixNet](https://git.nixnet.xyz/Username/cloudflare-tor),  [notabug](https://notabug.org/crimeflare/cloudflare-tor)
+**Data**  -  mirrors: [NixNet](http://git.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/Username/cloudflare-tor),  [notabug](https://notabug.org/crimeflare/cloudflare-tor)
 * [Cloudflare Users](cloudflare_users/)
 * [Cloudflare Inc.](cloudflare_inc/)
 * [Domains: Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
 ![](image/goodorbad.jpg)
 
-Information
+**Information**
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
 * [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
@@ -208,13 +208,13 @@ There are more details of why what they are doing is wrong available [here](clou
 
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends
 
-* Read [other user's voice](PEOPLE.md) (if you write a blog, tell us your URL)
+* Read [other user's voice](PEOPLE.md) and write your thoughts
 
 * Update the domain list: [List instructions](instructions.md)
 
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 
-* Search something on [Searxes Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) or [clearnet](https://searxes.eu.org/) (this will help collecting Searxes' "MITM domains")
+* Search something on [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)
 
 * Take a look at add-on code and try it
 
