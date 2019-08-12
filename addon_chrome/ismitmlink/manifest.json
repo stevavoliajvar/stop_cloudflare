@@ -1,7 +1,7 @@
 {
    "manifest_version": 2,
-   "name": "Are links vulnerable to MITM attack?",
-   "version": "1.0.13",
+   "name": "Ĉu ligoj estas vundeblaj al MITM-atako?",
+   "version": "1.0.14.1",
    "minimum_chrome_version": "60",
    "homepage_url": "https://codeberg.org/crimeflare/cloudflare-tor",
    "author": "Maslin Bossé",
