@@ -66,6 +66,7 @@ securifi.com 403
 signon.ruc.dk 403
 singpolyma.net 403
 slbprinting.com 403
+spirit.com 403
 stadssb.ruc.dk 403
 staples.com 403
 stefanv.com 403
