@@ -48,8 +48,8 @@ function i_already_know_you(f) {
 	});
 }
 
-function forget_cache_1w() {
-	browser.storage.local.get(['ign1', 'ign2', 'obs']).then(g => {
+function forget_cache_2w() {
+	browser.storage.local.get(['ign1', 'ign2', 'obs', 'dbg']).then(g => {
 		browser.storage.local.clear();
 		browser.storage.local.set({
 			'ign1': (g.ign1 == 'y' ? 'y' : 'n')
@@ -61,6 +61,9 @@ function forget_cache_1w() {
 			'obs': (g.obs == 'y' ? 'y' : 'n')
 		});
 		browser.storage.local.set({
+			'dbg': (g.dbg == 'y' ? 'y' : 'n')
+		});
+		browser.storage.local.set({
 			'lastU': Math.round((new Date()).getTime() / 1000)
 		});
 		browser.storage.local.set({
@@ -68,14 +71,14 @@ function forget_cache_1w() {
 		});
 	});
 	setTimeout(function () {
-		forget_cache_1w();
-	}, 604800000);
+		forget_cache_2w();
+	}, 1209600000);
 }
 
 browser.storage.local.get(['lastU', 'lastV']).then(g => {
 	if (g.lastU) {
-		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 604800) {
-			browser.storage.local.get(['ign1', 'ign2', 'obs']).then(g => {
+		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1209600) {
+			browser.storage.local.get(['ign1', 'ign2', 'obs', 'dbg']).then(g => {
 				browser.storage.local.clear();
 				browser.storage.local.set({
 					'ign1': (g.ign1 == 'y' ? 'y' : 'n')
@@ -85,6 +88,9 @@ browser.storage.local.get(['lastU', 'lastV']).then(g => {
 				});
 				browser.storage.local.set({
 					'obs': (g.obs == 'y' ? 'y' : 'n')
+				});
+				browser.storage.local.set({
+					'dbg': (g.dbg == 'y' ? 'y' : 'n')
 				});
 				browser.storage.local.set({
 					'lastU': Math.round((new Date()).getTime() / 1000)
@@ -99,7 +105,7 @@ browser.storage.local.get(['lastU', 'lastV']).then(g => {
 	let nowVer = (browser.runtime.getManifest()).version;
 	if (g.lastV != nowVer) {
 		console.log('Updated', nowVer);
-		browser.storage.local.get(['ign1', 'ign2', 'obs']).then(g => {
+		browser.storage.local.get(['ign1', 'ign2', 'obs', 'dbg']).then(g => {
 			browser.storage.local.clear();
 			browser.storage.local.set({
 				'ign1': (g.ign1 == 'y' ? 'y' : 'n')
@@ -111,6 +117,9 @@ browser.storage.local.get(['lastU', 'lastV']).then(g => {
 				'obs': (g.obs == 'y' ? 'y' : 'n')
 			});
 			browser.storage.local.set({
+				'dbg': (g.dbg == 'y' ? 'y' : 'n')
+			});
+			browser.storage.local.set({
 				'lastU': Math.round((new Date()).getTime() / 1000)
 			});
 			browser.storage.local.set({
@@ -119,8 +128,8 @@ browser.storage.local.get(['lastU', 'lastV']).then(g => {
 		});
 	}
 	setTimeout(function () {
-		forget_cache_1w();
-	}, 604800000);
+		forget_cache_2w();
+	}, 1209600000);
 });
 
 browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
@@ -141,4 +150,5 @@ browser.runtime.onMessage.addListener((request, sender, sendResponse) => {
 			}
 		}, () => {});
 	}
+	return;
 });
