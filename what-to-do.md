@@ -78,11 +78,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 | Name | Developer | Support | Can Block | Can Notify |
 | -------- | -------- | -------- | -------- | -------- |
-| [Block Cloudflare MITM Attack](addon_firefox/bcma) | Project BCMA | [Link](README.md) |**Yes**     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
-| [Are links vulnerable to MITM?](addon_firefox/ismitmlink) | Maslin Bossé | [Link](README.md) | No     | **Yes**     |
-| [Third-party Request Blocker (AMO)](https://addons.mozilla.org/en-US/firefox/addon/tprb/) | Searxes #Addon | [Link](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) | **Yes**     | **Yes**     |
-| [TPRB](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 | [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) | Gokulakrishna Sudharsan | [Link](https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
 
