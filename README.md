@@ -221,7 +221,6 @@ There are more details of why what they are doing is wrong available [here](clou
 | Name | Firefox | Chrome |
 | -------- | -------- | -------- |
 | Block Cloudflare MITM Attack | [Code](addon_firefox/bcma) | [Code](addon_chrome/bcma) |
-| Are links vulnerable to MITM? | [Code](addon_firefox/ismitmlink) | [Code](addon_chrome/ismitmlink) |
 | Which website rejected me? | [Code](addon_firefox/whyrejectme) | [Code](addon_chrome/whyrejectme) |
 
 * Try & write new [Tool / Script](tool/)
@@ -257,7 +256,7 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 
 # Who uses this list?
 
-* [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) meta-search engine
+* Searxes search engine
 * Some browser add-ons
 
 
