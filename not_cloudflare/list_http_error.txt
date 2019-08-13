@@ -10,6 +10,7 @@ caot.ca 403
 capitalone.com 403
 captaintrain.com 403
 catbox.moe 403
+cheaptickets.com 403
 citizensbankonline.com 403
 cnbc.com 403
 curbed.com 403
@@ -17,7 +18,6 @@ delishably.com 403
 delta.com 403
 dengarden.com 403
 dluat.com 403
-dohop.com 403
 downtownorlando.com 403
 easyjet.com 403
 eater.com 403
