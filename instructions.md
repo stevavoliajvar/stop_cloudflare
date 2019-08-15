@@ -97,7 +97,10 @@ Type B: Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" web
 | list_siteground.txt           | siteground.com is a Tor-hostile hosting service that indiscriminately DoSes all Tor users with the collective judgement: "our system thinks you might be a robot!" Sometimes the site functions, and sometimes it times out, but the robot accusation (illustrated below) is very common. |
 | list_formerly_tor-hostile.txt | _was_ previously on one of the above tor-hostile lists |
 
-![](image/siteground.jpg) &lt;= This is how Siteground-hosted sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.  If you see this please update `list_siteground.txt`.
+![](image/siteground.jpg)
+
+Above is how Siteground-hosted(INAP) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
+If you see this please update `list_othercdn_domain.txt`. (CDN ID: Z7)
 
 ```
 list_othercdn_domain.txt
@@ -112,6 +115,7 @@ list_othercdn_domain.txt
 'google.txt':'Z5'
 'microsoft.txt':'Z6'
 'inap.txt':'Z7'
+'sucuri.txt':'Z8'
 ```
 
 ```
