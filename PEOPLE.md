@@ -179,6 +179,22 @@ Disqualify:
 
 "[Fastest DNS from Cloudflare + privacy first? Hmmm](https://www.reddit.com/r/privacy/comments/88qqjf/fastest_dns_from_cloudflare_privacy_first_hmmm/)" by [deleted](https://www.reddit.com/r/privacy/comments/88qqjf/fastest_dns_from_cloudflare_privacy_first_hmmm/)
 
+"[Tor says CloudFlare's claim that 94% of requests from Tor are malicious is likely based on flawed methodology, asks for explanation](https://www.reddit.com/r/autotldr/comments/4d21p5/tor_says_cloudflares_claim_that_94_of_requests/)" by [autotldr](https://www.reddit.com/user/autotldr/)
+
+"[Is there a safe download mirror for Monero wallets that doesn't force me to go through this hateful and broken CloudFlare?](https://www.reddit.com/r/TOR/comments/30980u/cant_get_passed_cloudflares_captcha_with/)" by [VedadoAnonimato](https://www.reddit.com/user/VedadoAnonimato/)
+
+"[Can't get passed CloudFlare's CAPTCHA with TorBrowser.](https://www.reddit.com/r/TOR/comments/30980u/cant_get_passed_cloudflares_captcha_with/)" by [VedadoAnonimato](https://www.reddit.com/user/VedadoAnonimato/)
+
+"[Anyone else getting this error - THIS REQUEST HAS BEEN RATE LIMITED](https://www.reddit.com/r/CoinBase/comments/7k8hug/anyone_else_getting_this_error_this_request_has/)" by [jessicadunbar](https://www.reddit.com/user/jessicadunbar/)
+
+"[Cloudflare blocked "my" IP address.](https://www.reddit.com/r/discordapp/comments/bq8977/cloudflare_blocked_my_ip_address_i_use_pia_vpn/)" by [Stillhart](https://www.reddit.com/user/Stillhart/)
+
+"[CloudFlare blocks reddit API requests from Tor](https://www.reddit.com/r/bugs/comments/4wre66/cloudflare_blocks_reddit_api_requests_from_tor/)" by [QuantumBadger](https://www.reddit.com/user/QuantumBadger/)
+
+"[Any way to fix 523 cloudflare error websites (websites that dead with 523 cloudlare error)?](https://www.reddit.com/r/techsupport/comments/byb2g1/any_way_to_fix_523_cloudflare_error_websites/)" by [fasdaa222](https://www.reddit.com/user/fasdaa222/)
+
+"[Ongoing centralization of the internet through CDNs](https://www.reddit.com/r/C_S_T/comments/3gc1ne/ongoing_centralization_of_the_internet_through/)" by [quickdecision](https://www.reddit.com/user/quickdecision/)
+
 "[I'm not sure if I can ELI5 this but I'll try my best to explain.](https://www.reddit.com/r/india/comments/bg3lxh/was_casually_checking_my_logs_this_is_what_is/elk77k3/)" by [Waphire](https://www.reddit.com/user/Waphire)
 
 "[Anonym im Internet - Inhaltsverzeichnis](https://wiki.kairaven.de/open/anon/netzwerk/anet)" by [Kairaven](https://hp.kairaven.de)
@@ -350,6 +366,54 @@ Disqualify:
 ------
 
 ###### Twitter (aka "Birdsite")
+
+"Laughable, and I'll advise clients and other decent humans away from your services." by @[CalawayTandC](https://twitter.com/CalawayTandC/status/1161306459503771648)
+
+"Cloudflare is having issues #cloudflare is getting too many requests. #websiteproblem" by @[subhaghealth](https://twitter.com/subhaghealth)
+
+""The #uk #PirateParty feed is blocked by Cloudflare," a friend tells me. Surely they should know better. #Cloudflare needs to be avoided. " by @[schestowitz](https://twitter.com/schestowitz/status/1161447079530643456)
+
+"This is really annoying when Cloudflare blocks WordPress REST API PUT requests for #Gutenberg editor (WP0025B rule blocks). You can't save, update or publish your blog post. #block #wordpress #cloudflare #fix #WP0025B" by @[Eftakhairul](https://twitter.com/Eftakhairul/status/1041943169863221248)
+
+"cloudflare unable to access my sites from China unless using VPN. Have you been blocked by the GFW?" by @[FrasSmith](https://twitter.com/FrasSmith/status/57782717152100352)
+
+"I don't want this from #Cloudflare, it is risking being blocked by China. Not just the VPN, but all Cloudflare protected sites." by @[EvolvingViews](https://twitter.com/EvolvingViews/status/1112908186044915712)
+
+"Explain to me how this isn't a MITM attack & proves SSL is busted. CloudFlare promises SSL security" by @[TechHelp](https://twitter.com/TechHelp/status/512953699246014464)
+
+"Bitcointalk.org compromised again in a MiTM attack, CloudFlare used to generate fraudulent SSL..." by @[TechL0G](https://twitter.com/TechL0G/status/407638425433436160)
+
+"1.1.1.1 is not the solution - it is just a commercial MITM attack which any proper security design would have to mitigate." by @[Engbrg](https://twitter.com/Engbrg/status/980691434943606784)
+
+"I firmly believe Cloudflare in the most dangerous thing that happened to the internet this decade. Facebook abuses the data you voluntarily give them; but Cloudflare is a full on MITM attack." by @[peter_szilagyi](https://twitter.com/peter_szilagyi/status/1013786813717196802)
+
+"CloudFlare blocked access to sngpl.ma from Williams (open public wifi) because of suspicious activity. Good thing I have a VPN." by @[dj3vande](https://twitter.com/dj3vande/status/10389334490349568)
+
+"Can't Access Your Favorite Site? Cloudflare Has Been Experiencing Major Outages Almost Everywhere" by @[K4Kats](https://twitter.com/K4Kats/status/1146065947611951105)
+
+"Seems Cloudflare is having ssl issues in the Boston area. If you can’t access my sites please just drive outside of Boston and that should fix it" by @[wesbos](https://twitter.com/wesbos/status/939288672188403712)
+
+"cloudflare just fucking died, can't access discord or a lotta sites bruh" by @[LucasIsYoshi](https://twitter.com/LucasIsYoshi/status/1146053001758552064)
+
+"Yeah, just noticed it’s a cloudflare issue and not discord, as my own sites running on cloudflare aren’t loading - 502 bad gateway." by @[KieranCairns](https://twitter.com/KieranCairns/status/1146053190862946305)
+
+"god fucking damnit, another cloudflare shitshow. the first one was last week and verizon's fault, but this is still infuriating. I can't access most of the websites I usually visit" by @[elli_psis](https://twitter.com/elli_psis/status/1146055591091200000)
+
+"Is CloudFlare down? I can’t even visit it’s website :( Sadly, my server relies on CloudFlare’s services." by @[rickyipcw](https://twitter.com/rickyipcw/status/401360781712687104)
+
+"I can't visit CloudFlare "protected" sites with cookies disabled (is my default browser configuration). There aren't less intrusive methods to "protect" sites?" by @[lito_ordes](https://twitter.com/lito_ordes/status/1143822332894560256)
+
+"I can't visit www.army.mil and Archive Today with Cloudflare DNS It returns zero results when DNS querying for Archive Today or any domains under *.mil Google DNS works though for some reason" by @[wongmjane](https://twitter.com/wongmjane/status/1102446734993551360)
+
+"But the site works fine through Google DNS" by @[wongmjane](https://twitter.com/wongmjane/status/1102448803150389248)
+
+"Let's harass Tor users, MITM all our customers, and call ourselves a "security" company." by @[taoeffect](https://twitter.com/taoeffect/status/716135815366086656)
+
+"The number one MITM just got bigger: "CloudFlare is used by 73.9% of all the websites whose reverse proxy service we know. This is 6.8% of all websites."" by @[modrobert](https://twitter.com/modrobert/status/997007129641996289)
+
+"too bad there's a cloudflare mitm that targets tor users with captchas" by @[femmetasm](https://twitter.com/femmetasm/status/816708201869623296)
+
+"I bet Cloudlfare (Cloudbleed) triggers most of those captchas. If you really want to know how much the web depends on this MITM service, try using Tor for a while. BTW: Are the webmasters using Cloudflare fully aware what they are doing to their visitors?" by @[modrobert](https://twitter.com/modrobert/status/940146857564655616)
 
 "I registered an account last night and was sent an activation but the activate link (or any request to account.tfl.gov.uk ) produces a Cloudflare error "This website is using a security service to protect itself from online attacks. Ray ID"" by @[TouchingVirus](https://twitter.com/TouchingVirus/status/1160123539678257152)
 
