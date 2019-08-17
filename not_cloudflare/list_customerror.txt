@@ -59,6 +59,7 @@ curbed.com
 cycleworld.com
 davidmburke.com
 dcleak.com
+deckmagazine.com
 delivery.acm.org
 delta.com
 demorgen.be
@@ -112,6 +113,7 @@ gregor.us
 hackedbellini.org
 harbin.org
 havahart.com
+hobbylobby.com
 hotel.de
 hours.be
 hrs.de
@@ -147,6 +149,7 @@ mafgani.net
 meaningness.com
 midtnmusic.com
 mixcloud.com
+mondialfax.com
 monkeyandmekitchenadventures.com
 moodle.org
 mosquitomagnet.com
