@@ -52,6 +52,7 @@ lifewire.com 462
 logon.e-boks.dk 403
 lowes.com 403
 lufthansa.com 403
+lycamobile.us 403
 manta.com 403
 missingmoney.com 403
 moodle.ruc.dk 403
