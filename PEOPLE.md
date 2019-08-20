@@ -367,6 +367,32 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"They block loads of countries outside West for spam traffic. We had that issue constantly from them on our site." by @[stacyherbert](https://twitter.com/stacyherbert/status/1161745226739982342)
+
+"network is being blocked by CloudFlare that’s supporting several SG Govt websites. Called your tech support to simply refresh my IP, and they can’t do that. It’s a simple request!" by @[vincent_tky](https://twitter.com/vincent_tky/status/1163452333331632128)
+
+"Here's one of the least fun problems that I've ever had to investigate: Confluence repeatedly refusing to save changes to a page, claiming that my session had expired, and eventually ending up giving me a Cloudflare "you have been blocked" message. The issue...?" by @[neilstudd](https://twitter.com/neilstudd/status/1163399956746706951)
+
+"Access denied Common cause: A client or browser is blocked by a Cloudflare customer’s Firewall Rules." by @[adspedia](https://twitter.com/adspedia/status/1161297256273907713)
+
+"getuploader.jp 、VPN使ってもCloudFlareのヤツでてきてハゲそう" by @[key_yan0424](https://twitter.com/key_yan0424/status/1163770740006477824)
+
+"De quién fue la "genial" idea de usar esa basura de Cloudflare... Su sitio es inutilizable sin JS, Opera Mini, UC browser Mini, proxy, VPN... Y en caso de ataque no les servirá para nada, usuarios verán la segunda pantalla" by @[monotemoso](https://twitter.com/monotemoso/status/1163581963690811392)
+
+"I legit can't do anything on the page also, i cant log in fromt he page, i cant download it. keeps giving me "Cloudflare Error 1015"" by @[Nickalusss](https://twitter.com/Nickalusss/status/1163943950933094400)
+
+"having trouble linking my Bungie account to Steam. It keeps giving me a Cloudflare error." by @[tophermcpartlin](https://twitter.com/tophermcpartlin/status/1163938429463404545)
+
+"we had downtime for about 5 minutes on our London located website that goes through CloudFlare. No error message from CloudFlare - was there an issue 2 hours ago?" by @[PeterFi24402592](https://twitter.com/PeterFi24402592/status/1163894227216060417)
+
+"Guys, You're down. No connection can be made anymore. Connection fails with error 522 on cloudflare. Is that the consequence of your giuthub cancellation? Millions of WEB sites (like ours) are impacted as they use the fontlibrary and loading times are terrible. Please fix ASAP!" by @[HeavenOfSound4U](https://twitter.com/HeavenOfSound4U/status/1163886188614184961)
+
+"I am getting a Cloudflare Error 500 when trying to hit the Link button for Steam. Help!" by @[josephjaramillo](https://twitter.com/josephjaramillo/status/1163869290086330370)
+
+"Looks like Cloudflare strikes again! Getting site error instead of your article." by @[QanonQurator](https://twitter.com/QanonQurator/status/1163125567513743361)
+
+"Fucked if I know. I was trying to put up the latest column for my patrons, but I'm getting a Cloudflare "gateway timeout" error." by @[DrNerdLove](https://twitter.com/DrNerdLove/status/1163200154792615940)
+
 "#iTWire still blocked by a cancer called #cloudflare Cannot even access the site without proprietary #javascript Stop using CF, people! Stop adding it to sites please!" by @[schestowitz](https://twitter.com/schestowitz/status/1162903811654074369)
 
 "This week #cloudflare does a very fine job proving everything I ever said about it/them (their staff blocked me over it!!) to be TRUE! #surveillance #censorship #internetKopp" by @[schestowitz](https://twitter.com/schestowitz/status/1158746077870395392)
