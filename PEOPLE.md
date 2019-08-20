@@ -367,6 +367,10 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"#iTWire still blocked by a cancer called #cloudflare Cannot even access the site without proprietary #javascript Stop using CF, people! Stop adding it to sites please!" by @[schestowitz](https://twitter.com/schestowitz/status/1162903811654074369)
+
+"This week #cloudflare does a very fine job proving everything I ever said about it/them (their staff blocked me over it!!) to be TRUE! #surveillance #censorship #internetKopp" by @[schestowitz](https://twitter.com/schestowitz/status/1158746077870395392)
+
 "Laughable, and I'll advise clients and other decent humans away from your services." by @[CalawayTandC](https://twitter.com/CalawayTandC/status/1161306459503771648)
 
 "Cloudflare is having issues #cloudflare is getting too many requests. #websiteproblem" by @[subhaghealth](https://twitter.com/subhaghealth)
@@ -1738,6 +1742,8 @@ Disqualify:
 
 "jobscore is blocking me. Maybe an advanced AI to screen candidates by browser signature ;)" by @[utsengar](https://twitter.com/utsengar/status/636684259529388032)
 
+"I wanted to tweet a pic about how overwhelmed with mail I am right now but it is #Cloudflare blocked so I'll just tweet #dontblocktor again." by @[shiromarieke](https://twitter.com/shiromarieke/status/707509515260973057)
+
 "why does a 403 response state we banned access because of browser signature?" by @[friedcell](https://twitter.com/friedcell/status/562634060057821185)
 
 "I would have to whitelist pretty much my entire readership. It is banning based on "browser signature"" by @[skinnypupp](https://twitter.com/skinnypupp/status/113637917741678592)
@@ -1757,6 +1763,16 @@ Disqualify:
 "next-level annoying captcha from CloudFlare they don't even bother challenging me being a human anymore" by @[mrphs](https://twitter.com/mrphs/status/630770566023249920)
 
 "What did I do to make you believe I'm not human enough to surf the web?" by @[mrphs](https://twitter.com/mrphs/status/588370301911695360)
+
+"Irony trying to read Register article re:#Tor users & #CloudFlare: no HTTPS, CF/Google collusion & a broken Captcha!" by @[ioerror](https://twitter.com/ioerror/status/702467168064151552)
+
+"Effects _everybody_ using Tor. I just hate the way it fools users into thinking it actually works. I close page immediately now." by @[strumpanio](https://twitter.com/strumpanio/status/702470236247818240)
+
+"The #Register says sorry when you get a CAPTCHA. Do they understand that they place all their users under #CloudFlare surveillance?" by @[ioerror](https://twitter.com/ioerror/status/702470400404422657)
+
+"I saw #cloudflare described as the "stop and Frisk" of the net recently." by @[toni_gon](https://twitter.com/toni_gon/status/702470660409454592)
+
+"I never want to see “Attention Required!” #PITA" by @[kencf0618](https://twitter.com/kencf0618/status/702474459286863872)
 
 "Watch out for Cloudflare, its controlled by the governments so they can follow each step you take on the internet. They are settled almost in the whole world even the poor countries." by @[EarthAngel_Lex](https://twitter.com/EarthAngel_Lex/status/1128723834071396352)
 
