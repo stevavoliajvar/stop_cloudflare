@@ -1847,6 +1847,10 @@ Disqualify:
 
 ######  Mastodon
 
+"destroy cloudflare" by @[ReplyGal](https://pleroma.soykaf.com/notice/9m549hhM8c2YwYhxfU)
+
+"The timeouts it's been causing, apparently, seem to be worse than the DoS protection and such it's supposed to provide." by @[KatieBrink](https://pleroma.soykaf.com/notice/9m557HJJNNiWThrv2u)
+
 "I don't get why none of these people understand how Cloudflare works and doesn't work." by @[zoe](https://sleeping.town/@zoe)
 
 "PSA: mastohost.com, where for some reason – and I don't really know how this works – most images that are posted here on mastodon are hosted, is #cloudflared. That's very bad." by @[utf8equalsX](https://fosstodon.org/@utf8equalsX/102580647437254254)
