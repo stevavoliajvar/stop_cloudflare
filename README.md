@@ -1,7 +1,8 @@
 # The Great Cloudwall
 
-![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 ![](image/itsreallythatbad.jpg)
+
+![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 ---
 
