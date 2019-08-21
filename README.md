@@ -273,3 +273,5 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 
 
 ![What did YOU do to stop CF?](image/stopcf.jpg)
+
+![](image/peopledonotthink.jpg)
