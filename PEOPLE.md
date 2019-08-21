@@ -167,6 +167,8 @@ Disqualify:
 
 "[Este Cloudflare atac MITM?](https://forum.softpedia.com/topic/1146988-este-cloudflare-atac-mitm/)" by gladioc
 
+"[How to get rid of CloudFlare](http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/76323/how-to-get-rid-of-cloudflare)"
+
 "[Cloudflare outage caused by deploying bad regular expression that caused 100% CPU usage worldwide, dropping up to 82% of traffic](https://www.reddit.com/r/sysadmin/comments/c8eymj/cloudflare_outage_caused_by_deploying_bad_regular/)" by [TyroPyro](https://www.reddit.com/user/TyroPyro/)
 
 "[Cloudflare outage AGAIN MAH INTERNETS! Nooo!](https://www.reddit.com/r/sysadmin/comments/c89fa4/cloudflare_outage_again/)" by [Lewis_Browne](https://www.reddit.com/user/Lewis_Browne/)
