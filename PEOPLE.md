@@ -281,6 +281,8 @@ Disqualify:
 
 "[Cloudflare blocked](https://github.com/sinkaroid/Hentai2read-Grabber/issues/1)" by [sinkaroid](https://github.com/sinkaroid)
 
+"[Use a CDN that doesn't use cookies](https://github.com/badges/shields/issues/2986)"
+
 "[Blocked by cloudflare](https://github.com/bitmarket-net/api/issues/24)" by [roquez](https://github.com/roquez)
 
 "[Can't access your API](https://github.com/bitcoincoltd/bitexthai/issues/7)" by [adeelotx](https://github.com/adeelotx)
