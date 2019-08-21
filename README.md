@@ -1,10 +1,11 @@
 # The Great Cloudwall
 
 ![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](image/itsreallythatbad.jpg)
 
 ---
 
-"The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the U.S. company.
+"The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the [U.S. company](https://en.wikipedia.org/wiki/Cloudflare).
 It is the world's [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
 It sits between you and origin webserver, acting like a [border patrol agent](https://www.cbp.gov/careers/bpa).
 The origin webserver administrator allowed the agent to decide [who can access](https://gitlab.com/iblech/tor-appeal/issues/1) to their "_web property_" and define "_restricted area_".
@@ -16,7 +17,7 @@ The origin webserver administrator allowed the agent to decide [who can access](
 
 ---
 
-Take a look at the first image posted below. You will think Cloudflare block _only_ attackers. You will think _Cloudflare is always online(never go down)_. However [it is not true](PEOPLE.md). 
+Take a look at the first image posted below. You will think Cloudflare block _only_ attackers. You will think _Cloudflare is always online(never go down)_. However [it is not true](PEOPLE.md).
 
 ---
 
@@ -41,7 +42,7 @@ Cloudflare also [block](PEOPLE.md) legit robots/crawlers such as Google, Yandex,
 
 ---
 
-Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP) unless they solve multiple image CAPTCHAs. There is no way to solve the captcha without enabling Javascript and Cookies. Cloudflare is using them to make a browser signature.
+Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP) unless they solve multiple image CAPTCHAs. Many humans are being blocked by Cloudflare [every day](PEOPLE.md). There is no way to solve the captcha without enabling Javascript and Cookies. Cloudflare is [using them](PEOPLE.md) to make a browser signature.
 
 ---
 
@@ -54,8 +55,9 @@ Cloudflare similarly prevents those in southeast asia and elsewhere who have poo
 ---
 
 [Tor users](https://www.torproject.org/) and [VPN users](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) are also a [victim](https://blog.torproject.org/trouble-cloudflare) of Cloudflare. If you didn't try Tor until this moment, we encourage you to [download Tor Browser](https://www.torproject.org/) and visit your favorite websites. (advice: _Do not login to your bank website or government webpage or they will flag your account. [Use VPN](https://www.vpngate.net/en/) for those websites._)
+
 You might want to say "_Tor is illegal! Tor is criminal's browser! Tor is bad!_". No.
-Tor _was_ developed by US Army, but current Tor is developed by the [Tor project](https://www.torproject.org/). There are many people who use Tor, including your future friends. So, if you are using Cloudflare on your website you are blocking real humans. You will lose potential friendship and business deal.
+Tor _was_ developed by US Army, but current Tor is developed by the [Tor project](https://www.torproject.org/). There are many people and organizations who use Tor including your future friends. So, if you are using Cloudflare on your website you are blocking real humans. You will lose potential friendship and business deal.
 
 ---
 
@@ -154,7 +156,7 @@ Cloudflare said their VPN service make your internet [fast](https://www.wired.co
 
 ---
 
-You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) scandal. It is true that AT&T lets NSA to [copy all internet data](https://www.cnet.com/news/at-t-lets-nsa-hide-and-surveil-in-plain-sight-the-intercept-reports/) for surveillance. Let's say you're working at the NSA, and you want _every citizen's internet profile_. You know most of them are blindly trusting Cloudflare and using it - only one centralized gateway - to proxy their personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping, video website, NSFW website, and illegal website. You also know they use Cloudflare's DNS service ("1.1.1.1") and VPN service ("Cloudflare Warp") for "_Secure! Faster! Better!_" internet experience. Combining them with user's IP address, browser fingerprint, cookies and RAY-ID will be useful to build target's online profile. You want their data. [What will you do](https://www.reddit.com/r/privacy/comments/1gb0pa/how_prism_actually_works_1520_att_fiber_optic/)?
+You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) scandal. It is true that AT&T lets NSA to [copy all internet data](https://www.cnet.com/news/at-t-lets-nsa-hide-and-surveil-in-plain-sight-the-intercept-reports/) for surveillance. Let's say you're working at the NSA, and you want _every citizen's internet profile_. You know most of them are blindly trusting Cloudflare and using it - only one centralized gateway - to proxy their personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping, video website, NSFW website, and illegal website. You also know they use Cloudflare's DNS service ("_1.1.1.1_") and VPN service ("_Cloudflare Warp_") for "_Secure! Faster! Better!_" internet experience. Combining them with user's IP address, browser fingerprint, cookies and RAY-ID will be useful to build target's online profile. You want their data. [What will you do](https://www.reddit.com/r/privacy/comments/1gb0pa/how_prism_actually_works_1520_att_fiber_optic/)?
 
 ---
 
@@ -190,6 +192,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 * [Domains: Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
 ![](image/goodorbad.jpg)
+
 
 **Information**
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
