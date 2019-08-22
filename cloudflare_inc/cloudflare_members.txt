@@ -6,7 +6,7 @@ Michelle Zatlyn | founder | https://twitter.com/zatlyn
 Lee Holloway | founder | https://twitter.com/icqheretic
 
 Justin Paine | Director of Trust & Safety | https://twitter.com/xxdesmus https://www.linkedin.com/in/justinpaine  justin@cloudflare.com
-John Graham-Cumming | Chief Technology Officer | https://twitter.com/jgrahamc https://jgc.org/
+John Graham-Cumming | Chief Technology Officer | https://twitter.com/jgrahamc https://jgc.org/  jgc@cloudflare.com
 Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue  pat@cloudflare.com
 Junade Ali | Engineer | https://twitter.com/icyapril
 Ryan Knight | Community | https://twitter.com/Yank https://freebaxter.com/  ryank@cloudflare.com
@@ -26,7 +26,7 @@ Ashley Williams | Employee | ashley666ashley@gmail.com
 Adam Chalmers‏ | Employee | https://twitter.com/adam_chal
 Kristian Freeman | Developer | https://twitter.com/imkmf https://www.signalnerve.com/ https://github.com/signalnerve  kristian@kristianfreeman.com
 Shannon Colin | Employee | https://twitter.com/ShannonColin1
-Matthew Gall | Trust & Safety Engineer | https://twitter.com/matthewgall
+Matthew Gall | Trust & Safety Engineer | https://twitter.com/matthewgall  mgall@cloudflare.com
 
 
 Ex-employee:
