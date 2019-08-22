@@ -373,6 +373,8 @@ Disqualify:
 
 "God dammit Cloudflare, stop thinking I'm a bot. it's tiring to fill all those recaptchas." by @[MathiasSM](https://twitter.com/MathiasSM/status/1164326427841486850)
 
+"the primary reason i have probably 200 tabs open on my phone (ff stops counting at 100) is that fucking cloudflare keeps cycling me through captcha after captcha and i really, really want to punch through a wall as a result. also its generally all enraging anyway" by @[coffeeshark89](https://twitter.com/coffeeshark89/status/1161372200898838529)
+
 "Hi do you guys know how to make Cloudflare shit stop? We don't have an account but someone is creating accounts with our email domain. I tried a password rest to lock them out but they keep coming." by @[LinLorienelen](https://twitter.com/LinLorienelen/status/1163491558831734784)
 
 "Cloudflare you are drunk! Stop harassing me for using ProtonVPN!" by @[TestaErrico](https://twitter.com/TestaErrico/status/1163395227794771968)
@@ -1077,6 +1079,12 @@ Disqualify:
 "someone created an account for me and wanted to run my website on CloudFare." by @[fs0c131y](https://twitter.com/fs0c131y/status/1130090448092049408)
 
 "your Cloudflare setup is brocken. Every page I visit I either being forced to solve a captcha or it doesn’t load at all." by @[111110100](https://twitter.com/111110100/status/1128826984883036163)
+
+"Are your services down? i'm getting nothing but 502 Bad gateway whenever I try and browse to a site that is using your service." by @[agent_flameTV](https://twitter.com/agent_flameTV/status/1146055687249760257)
+
+"what is going on i'm getting 502 Error from a ton of sites I browse" by @[shitcanget](https://twitter.com/shitcanget/status/1146055336715083777)
+
+"hi, while trying to browse the website for PeopleFootwear - encountered multiple SSL certificate problems including this one issued by CloudFlare to myshopify.com " by @[dms666](https://twitter.com/dms666/status/1138875300962623489)
 
 "You do know that Cloudflare acts as a proxy? They can be the causing those 502 errors and slow loading times. They aren't perfect. If you're connected to a (shitty) wifi network that can cause slow load times too. Deactivate Cloudflare next time before jumping to conclusions!" by @[StopTheComplain](https://twitter.com/StopTheComplain/status/1100022334189170688)
 
