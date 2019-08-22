@@ -218,7 +218,7 @@ There are more details of why what they are doing is wrong available [here](clou
 
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 
-* Search something on [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)
+* Search something on [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/) ([clearnet](https://searxes.eu.org/))
 
 * Take a look at add-on code and try it
 
