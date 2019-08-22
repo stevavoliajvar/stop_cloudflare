@@ -371,6 +371,14 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"God dammit Cloudflare, stop thinking I'm a bot. it's tiring to fill all those recaptchas." by @[MathiasSM](https://twitter.com/MathiasSM/status/1164326427841486850)
+
+"Hi do you guys know how to make Cloudflare shit stop? We don't have an account but someone is creating accounts with our email domain. I tried a password rest to lock them out but they keep coming." by @[LinLorienelen](https://twitter.com/LinLorienelen/status/1163491558831734784)
+
+"Cloudflare you are drunk! Stop harassing me for using ProtonVPN!" by @[TestaErrico](https://twitter.com/TestaErrico/status/1163395227794771968)
+
+"You getting this too? 500 Internal Server Error" by @[shoden](https://twitter.com/shoden/status/1164261897547501574)
+
 "They block loads of countries outside West for spam traffic. We had that issue constantly from them on our site." by @[stacyherbert](https://twitter.com/stacyherbert/status/1161745226739982342)
 
 "network is being blocked by CloudFlare that’s supporting several SG Govt websites. Called your tech support to simply refresh my IP, and they can’t do that. It’s a simple request!" by @[vincent_tky](https://twitter.com/vincent_tky/status/1163452333331632128)
@@ -1850,6 +1858,12 @@ Disqualify:
 ------
 
 ######  Mastodon
+
+"#Cloudflare is a #censorship company; it's all about money and profits, not #freespeech" by @[Dr. Roy](https://pleroma.site/objects/7b613725-4178-4e6b-881b-3cb080de0ecc)
+
+"Only pedophiles use #Cloudflare" by @[yuni](https://patch.cx/objects/3de4abbb-6ff0-4014-b4df-e6e6cc7a407e)
+
+"Please do reconsider when possible, I find Cloudflare to be dangrous." by @[utf8equalsX](https://fosstodon.org/@utf8equalsX/102582059701778332)
 
 "destroy cloudflare" by @[ReplyGal](https://pleroma.soykaf.com/notice/9m549hhM8c2YwYhxfU)
 
