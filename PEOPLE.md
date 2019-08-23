@@ -403,6 +403,18 @@ Disqualify:
 
 "Anyone else suddenly experiencing 500 errors from #Cloudflare proxied sites?" by @[warkior](https://twitter.com/warkior/status/1164262039570677760)
 
+"Ah, fair point on getting locked-in with Cloudflare services" by @[pedrolamas](https://twitter.com/pedrolamas/status/1160885585399226368)
+
+"Don't want your traffic going through cloudflare? Download an extension that detects cloudflare use and just don't use those sites." by @[matthkilgore](https://twitter.com/matthkilgore/status/1161216956793442304)
+
+"Don't use cloudflare" by @[ghoul_two](https://twitter.com/ghoul_two/status/1163505950038396928)
+
+"I'll add that I use the darknet for privacy reasons and the fact I don't want to support large corporations (like CloudFlare) on the clearnet. Are either of these illegal?" by @[genericspider](https://twitter.com/genericspider/status/1164021077544247301)
+
+"Don't they use cloudflare servers? No fucking wonder.. Ugh.." by @[Rabbit_Raddish](https://twitter.com/Rabbit_Raddish/status/1164027199793651718)
+
+"Failed to get through the CAPTCHA that Cloudflare's rate-limiting puts in place using a SOCKS proxy into the server" by @[hugo__df](https://twitter.com/hugo__df/status/1060489364034199552)
+
 "God dammit Cloudflare, stop thinking I'm a bot. it's tiring to fill all those recaptchas." by @[MathiasSM](https://twitter.com/MathiasSM/status/1164326427841486850)
 
 "the primary reason i have probably 200 tabs open on my phone (ff stops counting at 100) is that fucking cloudflare keeps cycling me through captcha after captcha and i really, really want to punch through a wall as a result. also its generally all enraging anyway" by @[coffeeshark89](https://twitter.com/coffeeshark89/status/1161372200898838529)
