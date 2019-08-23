@@ -375,6 +375,26 @@ Disqualify:
 
 "looks like cloudflare are blocking requests. Will need a cool off period before it starts accepting again." by @[TheCryptarch](https://twitter.com/TheCryptarch/status/1164256030039035904)
 
+"Yeah and working with media and websites it's usually a block from cloudflare :D" by @[TheCryptarch](https://twitter.com/TheCryptarch/status/1164255513913286656)
+
+"AWSとCloudFlareやられたらとりあえず発狂する人たち多そう" by @[SHINOHARATTT](https://twitter.com/SHINOHARATTT/status/1164760368473788416)
+
+"AWSやGCPは死んでもなんとかなるけどCloudflareが死んだらサービスが全滅する" by @[LaLN_](https://twitter.com/LaLN_/status/1164763045026918400)
+
+"AWSってこの前も死んでなかったっけって思ったけどcloudflareだった" by @[familiar_ak](https://twitter.com/familiar_ak/status/1164772894288699398)
+
+"I'm getting "500 Internal Server Error cloudflare-nginx" on multiple cloudflare accounts which started at the same time. Any eta?" by @[uxjw](https://twitter.com/uxjw/status/1164264754501697536)
+
+"this issue common? Tried both yesterday and today. EU server maybe? This error has automatically been logged and we are aware of your plight. HTTP Client Error; 500 Internal Server Error ::CLOUDFLARE_ERROR_500S_BOX::" by @[lomakin9](https://twitter.com/lomakin9/status/1164272323400294400)
+
+"Getting a coinspice is down error from cloudflare." by @[Echt_Kain_niaK](https://twitter.com/Echt_Kain_niaK/status/1164555779711688704)
+
+"I'm Getting Error 522. Says im connected to cloudflare(ashburn) but the host worldanvil is erroring." by @[Johntheblack78](https://twitter.com/Johntheblack78/status/1164598224134516737)
+
+"Hey mosh, is your website down? Getting a 1014 error code from Cloudflare." by @[k_pacheco10](https://twitter.com/k_pacheco10/status/1164673639666479105)
+
+"they could probably put into place to know each unique user when going through cloudflare." by @[MrJoshuaPack](https://twitter.com/MrJoshuaPack/status/1113105709221273602)
+
 "eastdakota May I ask why Iranian can't login into Cloudflare anymore? Cloudflare CloudflareHelp" by @[iHMahmoodi](https://twitter.com/iHMahmoodi/status/1163739507285471232)
 
 "I'm not trying to hack you so why are you making Cloudflare sniff my browser?" by @[dxgl_org](https://twitter.com/dxgl_org/status/1164573012294868994)
