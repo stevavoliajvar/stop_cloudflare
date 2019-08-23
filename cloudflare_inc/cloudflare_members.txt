@@ -8,6 +8,7 @@ Lee Holloway | founder | https://twitter.com/icqheretic
 Justin Paine | Director of Trust & Safety | https://twitter.com/xxdesmus https://www.linkedin.com/in/justinpaine  justin@cloudflare.com
 John Graham-Cumming | Chief Technology Officer | https://twitter.com/jgrahamc https://jgc.org/  jgc@cloudflare.com
 Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue  pat@cloudflare.com
+Dane Knecht | Product Strategy | https://twitter.com/dok2001
 Junade Ali | Engineer | https://twitter.com/icyapril
 Ryan Knight | Community | https://twitter.com/Yank https://freebaxter.com/  ryank@cloudflare.com
 Suzanne Aldrich | Solutions Engineer Team Lead | https://twitter.com/SuzanneAldrich
