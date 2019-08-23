@@ -371,6 +371,18 @@ Disqualify:
 
 ###### Twitter (aka "Birdsite")
 
+"Your site just went down when I was mid-course, whats the problem? Something with Cloudflare..." by @[Best__Lux](https://twitter.com/Best__Lux/status/1164673967552004096)
+
+"looks like cloudflare are blocking requests. Will need a cool off period before it starts accepting again." by @[TheCryptarch](https://twitter.com/TheCryptarch/status/1164256030039035904)
+
+"eastdakota May I ask why Iranian can't login into Cloudflare anymore? Cloudflare CloudflareHelp" by @[iHMahmoodi](https://twitter.com/iHMahmoodi/status/1163739507285471232)
+
+"I'm not trying to hack you so why are you making Cloudflare sniff my browser?" by @[dxgl_org](https://twitter.com/dxgl_org/status/1164573012294868994)
+
+"For several weeks I am not able to access your site anymore. I always get an error message from cloudflare..." by @[SirJoan](https://twitter.com/SirJoan/status/1164517618180665345)
+
+"Anyone else suddenly experiencing 500 errors from #Cloudflare proxied sites?" by @[warkior](https://twitter.com/warkior/status/1164262039570677760)
+
 "God dammit Cloudflare, stop thinking I'm a bot. it's tiring to fill all those recaptchas." by @[MathiasSM](https://twitter.com/MathiasSM/status/1164326427841486850)
 
 "the primary reason i have probably 200 tabs open on my phone (ff stops counting at 100) is that fucking cloudflare keeps cycling me through captcha after captcha and i really, really want to punch through a wall as a result. also its generally all enraging anyway" by @[coffeeshark89](https://twitter.com/coffeeshark89/status/1161372200898838529)
