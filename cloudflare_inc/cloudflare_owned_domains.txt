@@ -23,5 +23,7 @@ cloudflaresupport.com
 cloudflarewarp.com
 encryptedsni.com
 mycloudflare.com
-workers.dev
+one.one
 trycloudflare.com
+warp.plus
+workers.dev
