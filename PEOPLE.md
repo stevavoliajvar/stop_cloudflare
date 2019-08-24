@@ -1911,6 +1911,14 @@ Disqualify:
 
 ######  Mastodon
 
+"GitLab sits behind Cloudflare and is hosted by Google – while Codeberg runs on Codeberg hardware and has no MITM. Much valued, especially for privacy reasons. Want more reasons against Cloudflare?" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102662955566633818)
+
+"Ha, and the instance which you use, serves images through Cloudflare, so I can't see your profile picture." by @[rmw](https://welovela.in/objects/ac515a8f-a596-49a1-8ddd-3f7618551d33)
+
+"Now, whenever that pops up, I just close the tab – and ask someone else to update. I've got no time to play memory puzzles. Got more important stuff to do." by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102667841048225494)
+
+"Good starting point: no fears of anything being blocked (so doesn't hurt to try), while great for "showing off". Like with that tooth paste ad: "Ugh, it's all red!"  Might get some people start thinking. Hopefully." by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102667729196429726)
+
 "#Cloudflare is a #censorship company; it's all about money and profits, not #freespeech" by @[Dr. Roy](https://pleroma.site/objects/7b613725-4178-4e6b-881b-3cb080de0ecc)
 
 "Only pedophiles use #Cloudflare" by @[yuni](https://patch.cx/objects/3de4abbb-6ff0-4014-b4df-e6e6cc7a407e)
