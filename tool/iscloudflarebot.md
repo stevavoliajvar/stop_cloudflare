@@ -30,10 +30,12 @@ any notification. `You cannot undo this action because it is automated`.
 
 Here's what you need to do:
 
-```
+
 1. Create a new `public` toot. Write `I am supporting Cloudflare. Cloudflare is great!` and post it `publicly`.
 
-2. The bot will detect it and reply for confirmation.
+2. The bot will detect it.
 
 3. After that, you will no longer receive any replies.
-```
+
+If you still receive a reply, make sure you follow step 1.
+Do not include any extra words or hashtag.
