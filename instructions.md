@@ -138,3 +138,31 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 Information:
 
 - [How to setup git](instructions_git.md)
+
+- About Cloudflare `base domain` list
+
+Our mission is clear - `stay away from Cloudflare`.
+
+If the `subdomain.example.com` is cloudflared, we add `example.com` to the database. (`subdomain.example.com` is the sub-domain of `example.com`. Only `the owner` of `example.com` can create sub-domain.) See "[List instruction](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/instructions.md)".
+
+Even if `whatever.example.com` is _not_ behind cloudflare the bot _will_ raise a warning, because the base domain `example.com` is `cloudflare user`.
+
+`The owner` of `example.com` can enable Cloudflare to `whatever.example.com` at any time without user's notice. It can be done from `dash.cloudflare.com` webpage or hitting `Cloudflare API`. `The owner` is supporting `Cloudflare` and this is severe `security risk`.
+
+Until `the owner` completely stop using Cloudflare service for `example.com`,
+we _do not_ remove `example.com` from the database.
+
+There is `no exception`.
+
+If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the ex-list - after checking `example.com` with online tool below. ("[List instruction](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/instructions.md)")
+
+
+If you have a doubt, please follow this step:
+
+1. Open "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
+
+3. Input `gitlab.com` and `mastodon.technology` and click `Skanu`.
+
+4. Click `testo` for detailed scan.
+
+`Only a few Cloudflare user leave Cloudflare. False positive is uncommon.`
