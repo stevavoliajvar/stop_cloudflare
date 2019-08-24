@@ -262,7 +262,6 @@ flagged for spam and will be deleted. See "List of services blocking Tor" for de
 
 * Searxes search engine
 * Some browser add-ons
-* [... is Cloudflare](https://masto.nixnet.xyz/@iscloudflare) bot
 
 
 ---
