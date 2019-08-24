@@ -1060,7 +1060,6 @@ y-onlebook.cf
 y-oopspdf.cf
 y-open.org.uk
 y-ore-review.gq
-y-oria.com
 y-osreading.ml
 y-otkbooks.gq
 y-oyobbook.cf
@@ -2279,7 +2278,6 @@ y6figuresfilm.ml
 y6figuresmedia.gq
 y6figuresvideo.ga
 y6fk.com
-y6i6.com
 y6iv5fnet.cf
 y6j3w.us
 y6jnol.com
@@ -2568,7 +2566,6 @@ y137faka.club
 y137fk.club
 y156.com
 y171.com
-y171.info
 y195ks.com
 y224.vip
 y233.com
@@ -2674,7 +2671,6 @@ y3663.com
 y3921.com
 y3923.com
 y3924.com
-y3939.info
 y4274w0fsx.win
 y4281b5net.cf
 y4392.com
@@ -2984,7 +2980,6 @@ ya235.com
 ya239.com
 ya245.com
 ya255.net
-ya530.com
 ya669.com
 ya775.com
 ya797.com
@@ -3013,7 +3008,6 @@ yaa43.com
 yaa75.com
 yaa78.com
 yaaa9.com
-yaaaj.com
 yaaattttttttt.zone
 yaaay.me
 yaablady.com
@@ -3079,7 +3073,6 @@ yaandz.com
 yaanpk10.club
 yaanq.club
 yaanqiche.club
-yaanqx.com
 yaanshishicai.club
 yaansimalar.cf
 yaansimalar.ga
@@ -3268,6 +3261,7 @@ yabisacoba.ml
 yabit.com.ve
 yabiyamo.tk
 yabl.com.ua
+yabl.xyz
 yable.cf
 yable.ga
 yable.gq
@@ -3393,7 +3387,6 @@ yabustudio.it
 yabv-book.gq
 yabvdul.me
 yabvdul24.ru
-yabwatch.com
 yabxurdasa.gq
 yabyas.cf
 yabyay.com
@@ -3958,7 +3951,6 @@ yadiratorrespsyd.com
 yadirectorio.com
 yadis.club
 yadisandhu.tk
-yadisk.net
 yadist.ru
 yadistr.ru
 yadit.ca
@@ -4013,6 +4005,7 @@ yadongjo.com
 yadongmachinery.com
 yadongmoa.net
 yadongpan.net
+yadongpan.org
 yadongpan1.com
 yadongtong.com
 yadono.jp
@@ -4170,7 +4163,6 @@ yafatah.ga
 yafatah.ml
 yafatimazahra.com
 yafatimazahra.org
-yafatt.com
 yafaxikidysyy.tk
 yafe.site
 yafeah.net
@@ -4478,7 +4470,6 @@ yahalacesuret.tk
 yahalaonline.com
 yahalapdf-z.ga
 yahamatjao.xyz
-yahameded.com
 yahamyjezimos.tk
 yahan.tv
 yahan79.com
@@ -5032,7 +5023,6 @@ yakadanda.com
 yakadaya.com
 yakadedo.tk
 yakagydasydoced.tk
-yakaipibaskisiz.com
 yakaipiistanbul.com
 yakajusisovar.tk
 yakako.ru
@@ -5263,7 +5253,6 @@ yakinlah7.gq
 yakinmenang.com
 yakinmultisoft.net
 yakinoodle.party
-yakinotel.com
 yakinow.com.br
 yakinpoker.com
 yakinqq.com
@@ -5375,7 +5364,6 @@ yakreemo.faith
 yakreviewsv.ga
 yaks.co.nz
 yaksa.ca
-yaksaautomation.com
 yaksas.in
 yaksbangor.com
 yaksgames.com
@@ -5393,7 +5381,6 @@ yakubookl.ga
 yakudanbookseng.ru
 yakudatsubib.com
 yakudyyu.tk
-yakudza.info
 yakudza.lv
 yakuesierra.tk
 yakuevargas.tk
@@ -5764,7 +5751,6 @@ yallago.io
 yallagoals.com
 yallagrill.net
 yallah-shop.com
-yallahadaf.com
 yallahd.eu.org
 yallahd.top
 yallahdeutschland.de
@@ -5876,7 +5862,6 @@ yalovaescorttr.club
 yalovaescorttr.xyz
 yalovaescortucuz.com
 yalovaeticaret.com
-yalovagazetesi.info
 yalovagokcenemlak.com
 yalovahaber.info
 yalovahbr.com
@@ -5897,7 +5882,6 @@ yalovamasajmutluson.xyz
 yalovamasajsalonuilani.com
 yalovamasatenisi.com
 yalovamasoz.info
-yalovamertur.com
 yalovamimarlik.com
 yalovamotel.com
 yalovamusicfest.com
@@ -5985,7 +5969,6 @@ yalutyqoxiwaqij.gq
 yalutyqoxiwaqij.ml
 yalutyqoxiwaqij.tk
 yaluvenoq.tk
-yaluvo.com
 yaluvyhuyy.tk
 yaluwefoj.tk
 yalvarez.us
@@ -6449,7 +6432,6 @@ yampdfear.ga
 yampec.com
 yampolski.net
 yampolsky.org
-yampst.net
 yamquatromobil.ro
 yamreviewsv.ml
 yamrs.club
@@ -6500,7 +6482,6 @@ yamyumi.com
 yamzu.com
 yamzu.rocks
 yamzu.world
-yan-fang.com
 yan-marketplace.com
 yan-pierre.com
 yan-pogoda.ru
@@ -6965,7 +6946,6 @@ yangonbkk.com
 yangondirectory.com
 yangonfurniturefair.com
 yangongas.com
-yangongchang.com
 yangongemsjewelryfair.com
 yangonjschool.org
 yangonlifestylefurniturefair.com
@@ -7065,7 +7045,6 @@ yangyangmeiwei.com
 yangyangoa.ga
 yangyangopanma.club
 yangyangopmassage.club
-yangyangshangcheng.com
 yangyangsoftanma.club
 yangyangsoftmassage.club
 yangyanzhan.com
@@ -7077,7 +7056,6 @@ yangyunching.cf
 yangyunching.ga
 yangyunching.gq
 yangyunching.ml
-yangyuxin.com
 yangzeng.net
 yangzhi69.com
 yangzhihua.com
@@ -7114,7 +7092,6 @@ yanhou.com.tw
 yanhuahub.com
 yanhuanshuailao.net
 yanhuatang.cc
-yanhuawangge.com
 yanhui168.com
 yanhuishou.com
 yani.io
@@ -7214,7 +7191,6 @@ yankary.com
 yanke.ru
 yankedodeg.ga
 yankee-bookmarkings.win
-yankee-digital.info
 yankee-doodle.nl
 yankee-pizza-london.co.uk
 yankee-pizza.co.uk
@@ -7387,7 +7363,6 @@ yannickbovy.de
 yannickbovy.eu
 yannickcarrasco.ml
 yannickdixon.com
-yannickhuggler.com
 yannickkordel.de
 yannicklansink.com
 yannickleboulicaut.com
@@ -7395,7 +7370,6 @@ yannickmedia.net
 yannicknezetseguin.com
 yannicknoah.com
 yannickorfgen.de
-yannickparfait.com
 yannicksanajong.nl
 yannicksfashion.nl
 yannickthibodeau.com
@@ -7634,7 +7608,6 @@ yanzizs.gq
 yanzkovicsq.ga
 yanzkovicsq.tk
 yanzltd.co.uk
-yanzylover.com
 yao3hf.co
 yao4gk.com
 yao8gcnet.cf
@@ -7724,7 +7697,6 @@ yaokan.com
 yaoki-fudousan.com
 yaoki.info
 yaokinsyouji.bid
-yaolan365.com
 yaolandim.cf
 yaolanqu.org
 yaole.site
@@ -7821,7 +7793,6 @@ yaoya98.com
 yaoyang.tw
 yaoyanshuo.com
 yaoyaobags.com
-yaoyaokaimen.com
 yaoyaowj.com
 yaoydh.pw
 yaoyikea.ga
@@ -8087,7 +8058,6 @@ yapyliqely.tk
 yapylumehavubak.tk
 yapynusav.tk
 yapypegabydepuq.tk
-yapys.com
 yapyvumaropy.tk
 yapyyc.com
 yapz5xsn.club
@@ -8326,7 +8296,6 @@ yardastour.com
 yardastour.es
 yardathletics.ca
 yardbank.online
-yardbank.org
 yardbank.review
 yardbarberlawnservice.com
 yardbarberusa.com
@@ -8376,7 +8345,6 @@ yardcleanupguys.com
 yardcleanuplocalexperts.com
 yardcleanupquotes.com
 yardclick.online
-yardclick.org
 yardclick.review
 yardclickca.online
 yardclickca.review
@@ -8564,7 +8532,6 @@ yardguywichita.com
 yardhd.online
 yardhd.review
 yardhelp.online
-yardhelp.org
 yardhelp.review
 yardhome.online
 yardhome.review
@@ -8701,7 +8668,6 @@ yardnetoc.review
 yardnetrs.online
 yardnettx.online
 yardnew.online
-yardnew.org
 yardnow.online
 yardnow.review
 yardoc.com
@@ -8901,7 +8867,6 @@ yardvision.online
 yardvision.review
 yardwayent.com
 yardweb.online
-yardweb.org
 yardweb.review
 yardwin.com
 yardwise.online
@@ -8936,7 +8901,6 @@ yardyestx.online
 yardyou.online
 yardyou.review
 yardzen.online
-yardzen.org
 yardzone.online
 yardzone.review
 yare.hk
@@ -9246,7 +9210,6 @@ yarplz.review
 yarps.org
 yarqbook.gq
 yarqon.org.il
-yarr-rentals.com
 yarr.ca
 yarr.co
 yarra.cloud
@@ -9408,7 +9371,6 @@ yasalcasino.com
 yasaliddaa.com
 yasaliddaasiteleri.com
 yasalkart.com
-yasalkumar.net
 yasalmobilbahis.com
 yasalpasaportkaydi.com
 yasalrulet.com
@@ -9449,7 +9411,6 @@ yasamsevinci.site
 yasamsirlari.site
 yasamtasarimobs.com
 yasamtv.site
-yasamyolu.biz
 yasanihan.ml
 yasanihan.tk
 yasaqewuj.tk
@@ -9571,7 +9532,6 @@ yashar-law.co.il
 yashar.xyz
 yashar8.com
 yasharhuseyn.com
-yasharmohammadi.com
 yasharstudio.com
 yashaseleganteventplanning.com
 yashasraska.club
@@ -9663,7 +9623,6 @@ yashthakur.in
 yashthqh.tk
 yashtraininglab.science
 yashtraininglab.site
-yashu8.com
 yashuaib.com
 yashuaofficial.com
 yashulyrics.com
@@ -9790,7 +9749,6 @@ yasmarinacircuit.com
 yasmeenarmstrong.ooo
 yasmeenbradtke.cf
 yasmeencarroll.ooo
-yasmeenintisara.com
 yasmeenmarvin.cf
 yasmeenmohammed.download
 yasmeenritchie.ooo
@@ -10075,7 +10033,6 @@ yataicoin.com
 yataiguojiyulecheng661222.cf
 yataiguojiyulecheng661222.ga
 yataijhq.com
-yataimr.com
 yatakarkadasi.xyz
 yatakavygy.tk
 yatakcho4uspatyzaraz.club
@@ -10183,7 +10140,6 @@ yatirimcikulubu.com
 yatirimfirsariziraatte.com
 yatirimplani.com
 yatirimyontemleri.com
-yatisoft.com
 yatisunayid.tk
 yatizibob.tk
 yatl.pw
@@ -10878,7 +10834,6 @@ yayibookn.gq
 yayicylabu.tk
 yayigeqejez.tk
 yayimima.tk
-yayimla.net
 yayin.com.tr
 yayin.tv.tr
 yayinakisi.com
@@ -11098,7 +11053,6 @@ yazer.ca
 yazette.eu.org
 yazeze.com
 yazfirsat.com
-yazfirsatim.com
 yazga.com
 yazgan.cf
 yazgan.ga
@@ -11116,7 +11070,6 @@ yazhixiu.com
 yazhog.ru
 yazhoo.xyz
 yazhou1.info
-yazhouav.info
 yazhouol.com
 yazhoup.com
 yazhousese.com
@@ -11277,7 +11230,6 @@ yb.style
 yb0hm.us
 yb0xd9.com
 yb002.com
-yb0169.com
 yb033.com
 yb044.com
 yb055.com
@@ -12752,7 +12704,6 @@ yby-coaching.co.il
 yby777.com
 yby2201.com
 ybyachtbnb.com
-ybyb38.com
 ybybewoyecej.tk
 ybybizuzeped.tk
 ybybomufypug.tk
@@ -13240,7 +13191,6 @@ yccs-review.ml
 yccsureviews.ml
 ycctt.com
 yccuo8.com
-yccxjs.com
 yccy6.com
 yccygy.com
 yccyhe.cf
@@ -13677,7 +13627,6 @@ ycjfld.com
 ycjingchi.com
 ycjjypzs.com
 ycjlcz.com
-ycjljc.com
 ycjmbooks.ga
 ycjmf.com
 ycjobinfo.gq
@@ -13691,7 +13640,6 @@ ycjwx.com
 ycjy100.com
 ycjywl.com
 ycjzh.com
-yck474.com
 yckao.co
 yckbbooks.ga
 yckbc.org.hk
@@ -13774,7 +13722,6 @@ yclubreview.ga
 yclwlkj.com
 ycly68.com
 yclyt.com
-yclyw.org
 ycm.org.my
 ycmbooks-o.ga
 ycmedia1.ga
@@ -14001,7 +13948,6 @@ ycpriviera.co.uk
 ycptech.com
 ycpts.com
 ycpue.club
-ycpvgc.org
 ycpycp.com
 ycqbet.tk
 ycqclt.com
@@ -14979,7 +14925,6 @@ yden.club
 ydenetipi.tk
 ydenojok.tk
 ydentallibrary.ml
-ydeo.net
 ydeog.com
 ydepezeryr.tk
 ydepobybalyyaq.tk
@@ -15120,7 +15065,6 @@ ydiecasty.tk
 ydiet-library.gq
 ydiev.club
 ydiex.com
-ydiez.org
 ydifeponolu.tk
 ydifeseqokibuqu.tk
 ydifi.com
@@ -16279,7 +16223,6 @@ yearnfurt.ga
 yearnfurt.gq
 yearnfurt.ml
 yearnfurt.tk
-yearngapwantinfo1969.info
 yearnhank.cf
 yearnhank.ga
 yearnhank.gq
@@ -16754,7 +16697,6 @@ yedaplus.co.il
 yedapomugogar.tk
 yedapycyhoz.tk
 yedasale.xyz
-yedasia.com
 yedavoduzagezop.tk
 yedawahay.xyz
 yedawogano.tk
@@ -16802,7 +16744,6 @@ yedihawiyatyl.tk
 yedikuvvet.com
 yedincimutfak.com
 yedinciogul.net
-yedirenk.biz
 yedirenkhaber.com
 yedisuwom.tk
 yedit.co.uk
@@ -16813,7 +16754,6 @@ yedivoxesi.tk
 yediyirmi.com
 yedizeytinbirincir.gen.tr
 yedja.com
-yedjapan.com
 yedka.com
 yedkoxzppqq.trade
 yedkreviews.ga
@@ -16822,7 +16762,6 @@ yedllesa.cf
 yedllesa.ga
 yedllesa.gq
 yedllesa.tk
-yedmunjing.com
 yedmunmun.com
 yedmunvip.com
 yedmy.com
@@ -17185,6 +17124,7 @@ yegodykod.tk
 yegogaya.tk
 yegojeyihupes.tk
 yegojykifukatu.tk
+yegonghaose12.com
 yegoo.club
 yegopodiw.tk
 yegor.su
@@ -17537,7 +17477,6 @@ yekmedia8.ml
 yekmedia14.cf
 yekmediapanel.ml
 yekmizban.com
-yekmovie.org
 yekmovie2.ga
 yekmovie3.ga
 yekmovie6.ga
@@ -17566,9 +17505,7 @@ yekta.design
 yekta.nu
 yektacirpan.fr
 yektaexchanges1.com
-yektaexchanges1.info
 yektaexchanges1.net
-yektaexchanges1.org
 yektamaram.com
 yektamusic.com
 yektanet.net
@@ -18124,7 +18061,6 @@ yellowpageskerala.in
 yellowpagesme.com
 yellowpagesmedia.cf
 yellowpagesnational.com
-yellowpagespakistan.com
 yellowpagesphil.com
 yellowpagespp.com
 yellowpagesscoop.com
@@ -18299,6 +18235,7 @@ yelonykoni.tk
 yeloo.it
 yeloou.com
 yelopaper.com
+yelostech.com
 yelotoro.tk
 yelovichflowerlaw.com
 yelovision.co
@@ -18447,13 +18384,11 @@ yemektariflerisayfam.com
 yemektelefonu.com
 yemektenevar.tk
 yemekteusta.com
-yemekteyizde.com
 yemekyapma.net
 yemekyapmak.net
 yemekyerken.com
 yemekys.ga
 yemekzevki.net
-yemello.com
 yemen-24.com
 yemen-24.net
 yemen-colleges.com
@@ -18693,7 +18628,6 @@ yenicankiri.com
 yenicanlibahis.com
 yenicanlibahissiteleri.com
 yenicanlisohbethatti.site
-yenicasinoteklifler.net
 yeniceoba.info
 yenicikanbahissiteleri.com
 yenicikis.co
@@ -18956,7 +18890,6 @@ yensaothanhxuan.com
 yensaothaonguyen.com
 yensaothaonguyen.com.vn
 yensaothaonguyen.vn
-yensaotuoicaocap.com
 yensaoyenlam.com
 yensen.vn
 yensesa.com
@@ -19121,7 +19054,6 @@ yeosuopanma.club
 yeosuopmassage.club
 yeosusoftanma.club
 yeosusoftmassage.club
-yeouan.com
 yeoudong.com
 yeourpools.cf
 yeourpools.ga
@@ -19336,7 +19268,6 @@ yerba-mate.info
 yerba-mate.shop
 yerbabuena.gob.ar
 yerbabuenaacupuncture.com
-yerbamateassociation.org
 yerbamatefatburner.com
 yerbasanta.cafe
 yerbilgisi.com
@@ -20030,7 +19961,6 @@ yesenialynch.ooo
 yeseniamarkley.ga
 yeseniaoconnell.ooo
 yeseniarunolfsdottir.ooo
-yeseniastires.com
 yeseox.ml
 yesepao.com
 yeseporn.com
@@ -20239,6 +20169,7 @@ yesindo88.com
 yesindohalo.com
 yesinfo.party
 yesinfotech.in
+yesinstitute.org
 yesinsurances.com
 yesinsuranceservice.com
 yesinterlock.com
@@ -20278,7 +20209,6 @@ yesk88.com
 yesk987.com
 yeskampus.com
 yeskardo.xyz
-yeskash.com
 yesketanksandpools.com
 yeskgy.cf
 yeskgy.ga
@@ -20467,7 +20397,6 @@ yeson416and417.com
 yeson1608.com
 yesonderzoek.nl
 yesondpaloalto.com
-yesoneandf.org
 yesonline.asia
 yesonline.me
 yesonline.su
@@ -20566,7 +20495,6 @@ yesreplicas.com
 yesresult.com
 yesreview-p.cf
 yesreviewnow-v.ga
-yesroshea.com
 yesrox.com
 yesrz.com
 yess-style.com
@@ -20762,7 +20690,6 @@ yesvplanet.gq
 yesvplanet.ml
 yesvplanet.tk
 yesvps.ru
-yeswander.com
 yesware.com
 yeswatch.co.uk
 yesway.com.au
@@ -20779,7 +20706,6 @@ yeswecanug.de
 yeswecanvocations.org
 yeswecayman.com
 yeswecodefund.com
-yeswecum.org
 yeswedoit.ru
 yesweekend.cf
 yesweekend.ga
@@ -20809,7 +20735,6 @@ yesxxxporn.com
 yesy.trade
 yesyac.info
 yesydo.com
-yesyellowcab.com
 yesyes-event.com
 yesyes.cool
 yesyes9.com
@@ -20990,7 +20915,6 @@ yetiserv.live
 yetises.us
 yetishare.com
 yetishare.org
-yetisirmi.com
 yetiskinegitimi.org
 yetiskinerotikfilm.cf
 yetiskinfilm.net
@@ -21059,6 +20983,7 @@ yetospotecus.webcam
 yetospotecus.win
 yetoxomazymod.tk
 yetpdfw.ml
+yetray.com
 yetreadmill.ml
 yetrepay.swinoujscie.pl
 yetrfd.info
@@ -21154,7 +21079,6 @@ yeuemmaimai.com
 yeuen1.ga
 yeufilm.gq
 yeuforum.com
-yeuhd.net
 yeuidol.com
 yeuiem9.cf
 yeuiem9.ml
@@ -21832,7 +21756,6 @@ yfbtraining.com
 yfbueyrs.club
 yfbutton.com
 yfbwi.club
-yfbzongbu.com
 yfc-switch.nl
 yfc.io
 yfc.net
@@ -21874,7 +21797,6 @@ yfcministries.org
 yfcminnesota.com
 yfcmnq.cf
 yfcmt.com
-yfcnet.com
 yfcnow.org
 yfcnwoh.org
 yfcnyc.org
@@ -21923,7 +21845,6 @@ yfdybooky.cf
 yfdyc.com
 yfdydg.ga
 yfdzk.biz
-yfdzk.com
 yfebatubebaf.tk
 yfebiricajidyz.tk
 yfebudeqaqog.tk
@@ -22114,7 +22035,6 @@ yfhfj17.cf
 yfhfj17.ga
 yfhfj17.ml
 yfhfj17.tk
-yfhfoundation.com
 yfhgdn.ml
 yfhhdsj.com
 yfhifgemons.cf
@@ -22564,7 +22484,6 @@ yfpdfmr.gq
 yfpeelibrary.ml
 yfpereviews.ml
 yfpilibrary.ml
-yfpsf.com
 yfpzcl.com
 yfq.fr
 yfqd114.com
@@ -23234,7 +23153,6 @@ ygdfyuasdf.ml
 ygdh.pw
 ygdh.us
 ygdhdc.gq
-ygdi.org
 ygdj.biz
 ygdpo.com
 ygdptool.com
@@ -23883,7 +23801,6 @@ ygoxemuxynagef.tk
 ygoxenihu.tk
 ygoxeruverapijy.tk
 ygoxewumacisu.tk
-ygoxo.com
 ygoyebudi.cf
 ygoyexoyalugu.tk
 ygoyijesasypy.tk
@@ -24291,7 +24208,6 @@ ygyqumewyvenawu.tk
 ygyrocktober.com
 ygyrudumadygy.tk
 ygyrusofiy.tk
-ygys.info
 ygysaciz.tk
 ygysakylohe.tk
 ygysazezabyvuv.tk
@@ -24351,7 +24267,6 @@ yh-book-c.cf
 yh-bookc.cf
 yh-fiber.com
 yh-gtst.com
-yh-help.com
 yh-heng.com
 yh-hk.com
 yh-kk.com
@@ -25192,7 +25107,6 @@ yhkqd.eu.org
 yhkqdl.gq
 yhkql.ml
 yhkrenovation.com
-yhktiancheng.com
 yhktrade.top
 yhkvr.club
 yhkwy.com
@@ -25753,7 +25667,6 @@ yhxrr.com
 yhxsqz.com
 yhxtrade.top
 yhxws.com
-yhxxoo.com
 yhy6mnews.gq
 yhy7.com
 yhy68.com
@@ -26114,7 +26027,6 @@ yibsv.club
 yibtreading.gq
 yibu-art.com
 yibu.ru
-yibubusiness.com
 yibucksheew.ga
 yibudawope.tk
 yibudo.cf
@@ -26148,7 +26060,6 @@ yicaicx.com
 yicaiglobal.co.uk
 yicaikm.com
 yicaiwy.com
-yicaixiao.com
 yicaixjw.com
 yicajicun.tk
 yicalapomyvasuj.tk
@@ -26417,7 +26328,6 @@ yieldtv.com
 yieldwerx.com
 yielnd.tk
 yiene.info
-yiepoolspecialists.com
 yierdl.com
 yiermesh.com.cn
 yiersk.pro
@@ -26468,7 +26378,6 @@ yifaduchang.com
 yifajia.top
 yifan-zhang.com
 yifan.io
-yifan2006.com
 yifan2010.com
 yifanbiz.com
 yifanedu.com
@@ -26583,7 +26492,6 @@ yifumovaqohora.cf
 yifumovaqohora.ga
 yifumovaqohora.gq
 yifumovaqohora.ml
-yifupaynet.com
 yifupin.com
 yifustar.com
 yifuxiezi.com
@@ -26701,7 +26609,6 @@ yigao.info
 yigaokao.com
 yigbooka.cf
 yige.ch
-yigebanjia.com
 yigebook-r.cf
 yigedama.cf
 yigedama.com
@@ -26789,7 +26696,6 @@ yihaa.my
 yihaatech.io
 yihadugasyxyw.tk
 yihai9999.com
-yihaicap.com
 yihaihg.com
 yihaisky.com
 yihaneziwawa.tk
@@ -26864,7 +26770,6 @@ yihui.name
 yihuishi8.com
 yihujojogah.tk
 yihunw.com
-yihuv.com
 yihuyecaj.tk
 yihuyociy.tk
 yihuzhuangyuan.com
@@ -27139,7 +27044,6 @@ yildirimyurdu.com
 yildisrxim.ga
 yildiz.live
 yildizagirmakina.com.tr
-yildizbt.com
 yildizeozelegitim.com
 yildizevi.net
 yildizgecidi.com
@@ -27521,7 +27425,6 @@ yingbaby.top
 yingbestcard.world
 yingbingevents.com
 yingcai234.com
-yingcaikids.com
 yingcaipiao.com
 yingcapp.com
 yingcatalina.cf
@@ -27568,19 +27471,13 @@ yinghua23.com
 yinghua25.com
 yinghua26.com
 yinghua27.com
-yinghua521.com
-yinghua999.com
-yinghuaai.com
-yinghuaav.com
 yinghuang-yl.com
 yinghuangguojiylc171.com
 yinghuaqs.com
 yinghuasl.com
 yinghuass.com
 yinghuaxiu.com
-yinghuaxo.com
 yinghuayy.com
-yinghuazx.com
 yingjia18.com
 yingjia66.cc
 yingjia66.com
@@ -27687,7 +27584,6 @@ yingxinsy.com
 yingxiongshop.com
 yingxiongtian.com
 yingxizhou.info
-yingxuedq.com
 yingxuhy.com
 yingyamaijia.com
 yingyang.tw
@@ -27824,7 +27720,6 @@ yinssc1com.ga
 yinssourdough.com
 yinta-iguoji.cn
 yintai-guoji.com
-yintaiguojiyl.com
 yintaocanarias.com
 yintelydy.ga
 yintelydy.gq
@@ -27843,7 +27738,6 @@ yinuofujian.com
 yinuokuaiji.com
 yinuzenuvi.tk
 yinvreview.gq
-yinvzi.com
 yinwadh.com
 yinwho.com
 yinwose.com
@@ -27889,7 +27783,6 @@ yinyscm.gq
 yinyscm.ml
 yinyseyanevuri.tk
 yinyue24.xyz
-yinyuebai.com
 yinyuedating.ml
 yinyueso.com
 yinyuetmb.ga
@@ -27969,7 +27862,6 @@ yipinhaizhen.com
 yipinhz.com
 yipinkc.com
 yipinlou.info
-yipinpuer.com
 yipinstudio.com
 yipintc.com
 yipinwang.net
@@ -28110,7 +28002,6 @@ yiquties.cf
 yiquties.ga
 yiquties.gq
 yiquyingyu.com
-yiquyuwen.com
 yiqxl.cf
 yiqyfisey.tk
 yiqyjabakidexyt.tk
@@ -28182,7 +28073,6 @@ yiren8888.com
 yirenb.gq
 yirenkang9.com
 yirenshiji.com
-yirenwang.info
 yirenwang13.com
 yirenwang14.com
 yirenwang15.com
@@ -28294,7 +28184,6 @@ yishangroup.com
 yishanjpic.com
 yishanshiye.net
 yishansuyun.com
-yishanu.com
 yishayibu.cf
 yishayibu.ga
 yishayibu.gq
@@ -28403,7 +28292,6 @@ yitechnology.com
 yiteenreview.cf
 yitefuhad.tk
 yitekipere.tk
-yitel.info
 yitenerelyrusod.tk
 yiteng168.cn
 yitengdesign.com
@@ -28590,7 +28478,6 @@ yiweidyhu.cf
 yiweikeji.com
 yiweimai.com
 yiweinb.com
-yiweiyuancui.com
 yiwekifomas.tk
 yiwelonabidud.tk
 yiweqebetaq.tk
@@ -28652,7 +28539,6 @@ yixhe.ga
 yixhe.gq
 yixhe.ml
 yixi.app
-yixianbao.net
 yixianchina.net
 yixiang-gifts.com
 yixiangcn.net
@@ -28768,7 +28654,6 @@ yiyi.nyc
 yiyi1.com
 yiyi95.com
 yiyi111.com
-yiyi7878.com
 yiyibi.ga
 yiyibi.gq
 yiyibi.ml
@@ -28797,7 +28682,6 @@ yiyisao.com
 yiyisao.info
 yiyisao.net
 yiyisao.org
-yiyishou.com
 yiyittyi.ga
 yiyittyi.ml
 yiyiuozcold.cf
@@ -28898,7 +28782,6 @@ yizemenewyf.tk
 yizemin.com
 yizenxin.com
 yizerenytotyl.tk
-yizexian.com
 yizexybi.tk
 yizhafu.com
 yizhanjiaju.cn
@@ -28960,7 +28843,6 @@ yj2d2.com
 yj2qjv4odgblq12k0d1qvnu1fnj2bxnehqweiotc.tk
 yj2rxfnet.gq
 yj5sqknet.ml
-yj8.info
 yj8g.com
 yj8kqa.com
 yj40f7net.ml
@@ -29408,7 +29290,6 @@ yjhlgsr.gq
 yjhmcd.gq
 yjhmf.com
 yjhrzs.com
-yjhsemi.com
 yjhtbooks.ga
 yjhwawa.cf
 yjhwawa.ml
@@ -30235,7 +30116,6 @@ yk-cc.com
 yk-city.com
 yk-city1.com
 yk-city2.com
-yk-cp.com
 yk-gg.com
 yk-machine.cn
 yk-machinery.com
@@ -30245,7 +30125,6 @@ yk-sa.com
 yk-six.com
 yk-six1.com
 yk-six2.com
-yk-tronix.com
 yk-ydom.ru
 yk.si
 yk.to
@@ -30504,7 +30383,6 @@ ykdmdi.gq
 ykdmqj.cf
 ykdon.ru
 ykdpllrk9.com
-ykdqj.com
 ykdtdo.gq
 ykdtej.top
 ykduojia.com
@@ -30849,7 +30727,6 @@ ykkoskodit.com
 ykkoskodit.fi
 ykktrade.top
 ykktzl.gq
-ykkxo.com
 ykky.fi
 ykkydc.gq
 ykl0l.com
@@ -31053,7 +30930,6 @@ yknml.com
 yknnfxwcold.ga
 yknnfxwcold.gq
 yknobreviews.cf
-yknot-software.com
 yknotranch.com
 yknpuicfoxx.cf
 yknpuicfoxx.ml
@@ -31969,7 +31845,6 @@ ylbfff.ga
 ylbfroutlet.xyz
 ylbigro.tk
 ylbiloncea.ga
-ylbjt.com
 ylbkwogcold.cf
 ylbkwogcold.ga
 ylbkwogcold.gq
@@ -32231,7 +32106,6 @@ ylf4.com
 ylf66.com
 ylfa.us
 ylfaduma.tk
-ylfalifehouse.com
 ylfamily.com
 ylffbook.ml
 ylffuncrvje.cf
@@ -32293,7 +32167,6 @@ ylguolv.com
 ylgyinews.ml
 ylgypdio.tk
 ylhayley.com
-ylhbd.com
 ylhbt.club
 ylhc.com.tw
 ylhcs.com
@@ -32801,7 +32674,6 @@ ylpencu.tk
 ylpereview.cf
 ylpgcaaf.cf
 ylphicolhealth.ga
-ylpingan.com
 ylpkopnet.ga
 ylplibrary.gq
 ylpme.com
@@ -33146,7 +33018,6 @@ ylygafoyezus.tk
 ylygagujyhizive.tk
 ylygasutulu.tk
 ylygesydotif.tk
-ylygtj.com
 ylygugarato.tk
 ylyhecufuguha.tk
 ylyhiqynuci.tk
@@ -33169,7 +33040,6 @@ ylyllhgc.com
 ylylucahilipe.tk
 ylylucozi.tk
 ylylx.tk
-ylym-sh.com
 ylymelibrary.gq
 ylymipuqal.tk
 ylymisibegu.tk
@@ -33267,7 +33137,6 @@ ylzr333.com
 ylzxxt.ml
 ym-22.com
 ym-34.com
-ym-114.com
 ym-business.nl
 ym-foods.club
 ym-rbook.gq
@@ -33561,7 +33430,6 @@ ymca4.com
 ymca7979.com
 ymca8585.com
 ymcaaustralia.eu.org
-ymcabta.com
 ymcacampwatia.org
 ymcacentralflorida.com
 ymcacf.org
@@ -33655,7 +33523,6 @@ ymdg.tw
 ymdht.eu.org
 ymdiapp.com
 ymdiguo.com
-ymdkart.com
 ymdpreview-z.gq
 ymdpreviewz.gq
 ymdqvnews.gq
@@ -34122,7 +33989,6 @@ ymirenunym.tk
 ymirerita.tk
 ymiretayyqe.tk
 ymirheim.org
-ymiricama.com
 ymirizab.tk
 ymirproject.eu
 ymirror.tk
@@ -34533,7 +34399,6 @@ ympetcaring.tk
 ymphomophy.cf
 ymphomophy.ml
 ymphomophy.tk
-ympmc.com
 ymporn.com
 ympqfbe.com
 ympqtzofoxx.cf
@@ -34850,7 +34715,6 @@ ymvrq.club
 ymvsvsale.xyz
 ymvtrade.top
 ymw.ro
-ymw999.com
 ymwarderg.tk
 ymwarzewmw.xyz
 ymwd.us
@@ -35227,7 +35091,6 @@ ynajezoyobuqah.tk
 ynajivowakutew.tk
 ynajoruxepimi.tk
 ynakanukiqyliga.tk
-ynakeecandle.com
 ynakejudin.tk
 ynakep.info
 ynakofosofu.tk
@@ -35354,7 +35217,6 @@ ynbreview.cf
 ynbs.nl
 ynby.co.nz
 ynby.com.au
-ynbyh.com
 ynbysj.ga
 ync2m.us
 yncagreview.ml
@@ -35365,7 +35227,6 @@ yncjswgoods.com
 yncjx.com
 ynconline.com
 yncslk.ml
-ynct.info
 ynctrade.top
 yncts.com
 yncvq.club
@@ -35455,7 +35316,6 @@ ynehpmetrui.gq
 ynehpmetrui.ml
 ynehpmetrui.tk
 yneir.com
-ynejs.com
 ynejudum.tk
 ynejuwyriq.tk
 ynekaciposizez.tk
@@ -35522,7 +35382,6 @@ ynewpaperm.tk
 ynewreviews-j.gq
 ynewreviewsj.ga
 ynews.com.np
-ynews.info
 ynexerab.tk
 ynexttech.us
 ynexxmall.xyz
@@ -36058,7 +35917,6 @@ ynpb5d.com
 ynpdfx.cf
 ynpfa.com
 ynpgt.club
-ynpinsen.com
 ynpkm.com
 ynplanan.ml
 ynplay.com
@@ -36159,7 +36017,6 @@ yntongqian.com
 yntrbook.ml
 yntrend.pw
 yntriago.com
-yntrime.info
 ynttrade.top
 yntuoda.com
 yntutechan.com
@@ -36490,7 +36347,6 @@ ynztai.cf
 ynzwk.club
 ynzxju.gq
 ynzxzwzmjd.com
-ynzy.info
 ynzytz.com
 ynzzly.com
 yo-79.com
@@ -36721,10 +36577,8 @@ yobabooks.com
 yobaby.club
 yobaciluly.tk
 yobagame.ru
-yobalkan.com
 yobamojysy.tk
 yobanenimybiqaz.tk
-yobangyobang.com
 yobankexams.com
 yobapx.ml
 yobaqurisev.tk
@@ -36801,7 +36655,6 @@ yobiin.cf
 yobiin.ga
 yobiin.gq
 yobike.co.uk
-yobilisim.com
 yobilypa.tk
 yobinecakamaq.tk
 yobinivyf.tk
@@ -36815,7 +36668,6 @@ yobisonl.ga
 yobisonl.gq
 yobit-aff.network
 yobit-com.org
-yobit-exchanger.com
 yobit-invest.ru
 yobit.cf
 yobit.com.tr
@@ -36912,7 +36764,6 @@ yocahu.com
 yocahu.net
 yocahu.shop
 yocalifiq.tk
-yocambioahora.com
 yocar-yoparts.co.uk
 yocare.co.in
 yocareer.co.za
@@ -36959,7 +36810,6 @@ yoclasicoss.ga
 yoclasicoss.gq
 yoclassicjams.com
 yoclending.com
-yoclips.com
 yoclub.biz
 yoclub.net
 yoco.com
@@ -37216,7 +37066,6 @@ yoespiritual.com
 yoestoy.com
 yoeuflibrary.gq
 yoeugene-flask-api.com
-yoeuu.com
 yoewort.com
 yoextermiantorcall.co
 yoeysbouncers.com
@@ -37443,7 +37292,6 @@ yogaadvise.com
 yogaallianceus.com
 yogaamore.com
 yogaanalytics.com
-yogaandbodyimagecoalition.com
 yogaanddating.cf
 yogaandhealthcollective.com.au
 yogaandhealthmag.co.uk
@@ -37468,7 +37316,6 @@ yogabermuda.com
 yogabhavani.academy
 yogabicep.com
 yogabijaparis.com
-yogabirmingham.org
 yogabites.net
 yogable.com
 yogablissful.com
@@ -37494,7 +37341,6 @@ yogabull.net
 yogaburn.club
 yogaburn.download
 yogaburnchallenges.com
-yogaburner.com
 yogaburnreview.co
 yogaburnreviews.xyz
 yogaburnsfat.net
@@ -37981,6 +37827,7 @@ yogashopdeal.com
 yogasiempre.es
 yogasinglesmeet.com
 yogasitasf.com
+yogasix.com
 yogasixtribe.com
 yogasmast.site
 yogasmm.ru
@@ -38022,7 +37869,6 @@ yogataichishiatsu.co.uk
 yogatalk.de
 yogatalkretreats.com
 yogatameside.co.uk
-yogatarget.com
 yogatax.co.uk
 yogataylor.com
 yogateacheracademy.com
@@ -38080,7 +37926,6 @@ yogavacationmexico.com
 yogavalence.net
 yogavangogh.com
 yogaveda.nl
-yogavendor.com
 yogavestsale.com
 yogavibes.com
 yogavida.be
@@ -38174,7 +38019,6 @@ yogaxreview.cf
 yogaxreviewl.gq
 yogayanam.com
 yogayecla.com
-yogayeri.com
 yogayes.info
 yogayoga.com.br
 yogayoluzaw.tk
@@ -38183,7 +38027,6 @@ yogayujia.info
 yogazing.co.uk
 yogazipifujumi.tk
 yogaziwixyhiw.tk
-yogazons.com
 yogazwartewaal.nl
 yogbharati.in
 yogbutgcold.cf
@@ -38449,7 +38292,6 @@ yogusavo.tk
 yogusynaz.tk
 yoguxeroxidy.tk
 yoguyihakakucu.tk
-yogvidya.net
 yogvigyan.com
 yogvit.yoga
 yogvonicold.cf
@@ -38842,7 +38684,6 @@ yokohama-cruising.club
 yokohama-men.com
 yokohama-rubber.com
 yokohama-seiro.com
-yokohama-tennis.com
 yokohama-theatre.com
 yokohama.be
 yokohama.com.ua
@@ -38887,7 +38728,6 @@ yokosooriental.co.uk
 yokososushi.co.uk
 yokosukabase.com
 yokosukac-saijyo.com
-yokosukalc.info
 yokosukaswimteam.com
 yokosushilounge.com
 yokota-blog.com
@@ -39235,7 +39075,6 @@ yoledet.co.il
 yoledlibrary.ga
 yoledosubo.tk
 yoledpreview.gq
-yoleejolee.com
 yoleenvancamp.be
 yolefemuc.tk
 yolegiwef.cf
@@ -39345,7 +39184,6 @@ yoloboatrentals.com
 yolobusinessnetwork.com
 yolocamgirls.com
 yolocard.org
-yolocasual.com
 yolocation.pro
 yolocaust.de
 yolocelebs.com
@@ -39387,7 +39225,6 @@ yololifesupplements.com
 yolomarketing.ga
 yolomentoringllc.org
 yolomode.com
-yolondatv.com
 yolonerds.com
 yoloniex.net
 yoloo.in
@@ -39710,7 +39547,6 @@ yonderhillservices.co.uk
 yonderqt.co.nz
 yonderstar.co.nz
 yonderstarcharters.co.nz
-yonderwonders.com
 yondeshop.com
 yondo.com
 yondo.party
@@ -39954,7 +39790,6 @@ yongyoush.com
 yongyuan.name
 yongyuan.nl
 yongyuan.us
-yongyuandepengyou.com
 yongyuanmoli.com
 yongyuwang.com
 yongyuwood.com
@@ -40301,7 +40136,6 @@ yoonpie.com
 yoonsan-ha.tk
 yoonsangkim.info
 yoonspiano.com
-yoonthalladha.com
 yoonuskattan.tk
 yoonwooseok.com
 yooodo.com
@@ -40646,7 +40480,6 @@ yoreyimic.tk
 yorezubiwakoruj.tk
 yorezuyaxypej.tk
 yorfgld.com
-yorfit.com
 yorgan.net
 yorganhome.com
 yorganyastikburada.com.tr
@@ -40865,7 +40698,6 @@ yorkopenstudios.co.uk
 yorkortho.ca
 yorkorthodontics.co.uk
 yorkowie.pl
-yorkpabasementwaterproofing.com
 yorkpainsurance.com
 yorkparents.co.uk
 yorkpark.net
@@ -41238,7 +41070,6 @@ yosgo.com
 yosh-subs.net
 yoshakaedutech.com
 yoshan.co.nz
-yoshclements.com
 yoshenvw.cf
 yosheva.com
 yoshgroup.com
@@ -41777,7 +41608,6 @@ you-sex-video.com
 you-ship-it.com
 you-shipit.com
 you-show.club
-you-smilebright.com
 you-soft-gg1.pp.ua
 you-soft-gg12.pp.ua
 you-soft-gg122.pp.ua
@@ -41890,7 +41720,6 @@ youandmshes.cf
 youandmshes.ga
 youandmshes.gq
 youandmshes.tk
-youandmyshop.com
 youandnative.com
 youandshopping.online
 youandsocialmedia.com
@@ -41967,9 +41796,7 @@ youaresocialmedia.com
 youaresosmart.com
 youaresphere.com
 youaresupported.com
-youaresweaty.com
 youarethatmuch.org
-youarethebeef.com
 youarethegoose.com
 youaretheguest.com
 youaretheninetyninepercent.com
@@ -42247,7 +42074,6 @@ youcarib.com
 youcarnews.info
 youcarrental.com
 youcasecdn.ru
-youcasm.com
 youcasots.ga
 youcasots.tk
 youcat.biz
@@ -42478,7 +42304,6 @@ youfbookk.gq
 youfeemartin.tk
 youfel.com
 youfengcha.com
-youfenglai.com
 youfesqt.ga
 youfesqt.gq
 youfesqt.tk
@@ -42523,7 +42348,6 @@ youflirty.com
 youflix.is
 youflix.live
 youflower.com.br
-youflowiflow.com
 youfluent.net.br
 youflv.com
 youfms.ga
@@ -42698,7 +42522,6 @@ youhdporno.com
 youhdporno.me
 youhealnow.com
 youhealth.club
-youhealthhacks.com
 youhealthisbest.com
 youhearditherefirstsir.com
 youheardthatnew.com
@@ -42742,7 +42565,6 @@ youhua-jinan.com
 youhua01.com
 youhua571.com
 youhua666.cn
-youhuabaodian.com
 youhuacom.com
 youhuagcd.cf
 youhuajianzhan.com
@@ -43070,7 +42892,6 @@ youm7.org
 youm7.press
 youma.ga
 youmabe.com
-youmadethisimadethis.com
 youmadeup.us
 youmagaws.tk
 youmagazine.co
@@ -43107,7 +42928,6 @@ youmattercompassionproject.com
 youmattercounselling.co.uk
 youmatterlifementoring.com
 youmattermanagewell.com
-youmaydownloadthem.com
 youmayknow.tk
 youmbed.eu.org
 youmbedhu.cf
@@ -43130,7 +42950,6 @@ youmebob.com
 youmebob.fr
 youmecharity.org
 youmedia.ml
-youmegabet.com
 youmehackers.com
 youmeizx.com
 youmepower.com
@@ -43370,7 +43189,6 @@ youngacemodz.com
 youngaces.com.au
 youngachievershomechildcare.com
 youngactorshouse.com
-youngacute.com
 youngadult.biz
 youngadultatheart.com
 youngadultbooks.ooo
@@ -43388,7 +43206,6 @@ youngadvisorygroup.net
 youngadvisorygroup.nl
 youngadvocatesyouthorganization.org
 youngaffiliate.com
-youngafricanwomennetwork.org
 youngagain.in
 youngage.pro
 youngageindia.com
@@ -43737,7 +43554,6 @@ younginmind.org
 younginnovators.in
 younginnovatorstowatch.com
 youngins.nl
-youngintensity.com
 younginvestments.com
 youngirls18.com
 youngistaani.com
@@ -43844,7 +43660,6 @@ youngmarriedandhappy.com
 youngmarriedchic.com
 youngmarrlaw.com
 youngmary.trade
-youngmaselive.com
 youngmasonrymd.com
 youngmastersacademy.org
 youngmeagher.com
@@ -43971,7 +43786,6 @@ youngprofessionalsforcruz.org
 youngprojectmanagers.com
 youngprosperouslove.com
 youngprpros.com
-youngpurify.com
 youngpussygallery.com
 youngpussyorgasm.com
 youngpussytube.pro
@@ -44082,7 +43896,6 @@ youngstarsartgallery.org
 youngstartup.se
 youngstaxi.co.uk
 youngsters.id
-youngstersontoyouth.com
 youngstersontoyouthoutreach.co.uk
 youngsterstyles.club
 youngsterz.tk
@@ -44121,7 +43934,6 @@ youngsvip.com
 youngtalentmanagement.pl
 youngtank.com
 youngtanya.work
-youngtechnerd.com
 youngtechnology.ru
 youngteen.pro
 youngteenblog.com
@@ -44135,7 +43947,6 @@ youngteens.net
 youngteens.xyz
 youngtheatreplayers.ca
 youngthedoc.com
-youngthinkerslab.com
 youngthroats.com
 youngthugfan.club
 youngtillitiedye.com
@@ -44144,6 +43955,7 @@ youngtimerfactory.nl
 youngtimerhouse.pl
 youngtimersbetuwe.com
 youngtoknow.club
+youngtop.info
 youngtoyoung.com
 youngtrades.com
 youngtransport.net
@@ -44254,14 +44066,12 @@ youniquephoto.co.uk
 youniqueproductspamelaross.eu.org
 youniquestars.com
 youniquetherapy.com
-youniquetrip.com
 youniqueyou.com
 youniquez.com
 younis.live
 younitedcultures.at
 younitedhempire.net
 younits.com
-younitty.com
 younitybox.com
 younityclothingsa.top
 younivers-world.cf
@@ -44458,13 +44268,11 @@ youporn.xxx
 youporn5.com
 youporn11.eu.org
 youporn18.net
-youpornbrasil.info
 youporndeutsch.biz
 youporndeutsch.xyz
 youporner.red
 youporngayz.mobi
 youpornhd.mobi
-youpornhdonline.com
 youpornhentai.com
 youpornhub.fr
 youpornhub.it
@@ -46285,7 +46093,6 @@ your-skin-care.live
 your-skin-care.market
 your-skin-care.rocks
 your-skin-care.sale
-your-skin-shop.com
 your-skincare.live
 your-skincare.sale
 your-small-business-loans-options.com
@@ -46301,7 +46108,6 @@ your-style-guide.com
 your-style.pro
 your-styles.ru
 your-sugar.com
-your-survival-equipment.info
 your-suv-dealer-deal.live
 your-suv-dealer-deal.rocks
 your-suv-dealer-deals.live
@@ -46581,7 +46387,6 @@ yourads.biz
 yourads.website
 youradsguy.com
 youradsucks.com
-youradultclub.com
 youradultdate.com
 youradultdomain.com
 youradultplayground.com
@@ -47195,7 +47000,6 @@ yourchatting.net
 yourchatting.org
 yourcheapway.com
 yourcheersapp.com
-yourchef.info
 yourcheng.com
 yourchevystore.info
 yourchicagoagents.com
@@ -47286,7 +47090,6 @@ yourcocktails.club
 yourcodehere.online
 yourcoffeetime.org
 yourcoin.cf
-yourcoinnews.net
 yourcollectables.co.uk
 yourcollegeadviser.com
 yourcollegeadvisory.com
@@ -47475,7 +47278,6 @@ yourdatinghookup.com
 yourdatinglist.ga
 yourdatinglive.ml
 yourdatingnet.ml
-yourdatingnetwork.com
 yourdatingnews.ml
 yourdatingroup.cf
 yourdatingspot.ga
@@ -48265,7 +48067,6 @@ yourfirstedu.com
 yourfirstfunnel.ca
 yourfirstfunnel.com
 yourfirsthelp.site
-yourfirsthomeinca.com
 yourfirsthomewithkate.com
 yourfirstinvestor.com
 yourfirstnewhouse.com
@@ -48445,7 +48246,6 @@ yourgapp.com
 yourgarageprofessional.club
 yourgaydating.cf
 yourgaywebcam.com
-yourgdprguru.com
 yourgearguru.com
 yourged.tk
 yourgenealogydna.com
@@ -48538,7 +48338,6 @@ yourgreatestwealth.co.uk
 yourgreatlife.site
 yourgreatrealestatewebsite.com
 yourgreattriptofrance.com
-yourgreatwellness.com
 yourgreenapples.com
 yourgreenerhealth.com
 yourgreenpal.com
@@ -48689,7 +48488,6 @@ yourhealthydog.co.uk
 yourhealthyeverafter.com
 yourhealthyforum.com
 yourhealthyfutures.com
-yourhealthygardener.com
 yourhealthygroup.club
 yourhealthygut.com
 yourhealthyhookup.club
@@ -49750,8 +49548,6 @@ yournaturalhealthylife.com
 yournaturalpresence.com
 yournaturalsolutions.biz
 yournaturebody.com
-yournatureessentials.com
-yournaturespremium.com
 yourncweddingdj.com
 yourneatnik.com
 yourneeds.review
@@ -49845,7 +49641,6 @@ yournextensemble.com
 yournextfence.com
 yournextgadget.com
 yournexthandbag.com
-yournexthomeinca.com
 yournextjacket.com
 yournextjeans.com
 yournextjewelry.com
@@ -50062,7 +49857,6 @@ yourpeacefulsoul.com
 yourpeaceofmindcoaching.com
 yourpeakfrequency.com
 yourpeakpt.com
-yourpeek.com
 yourpennysaver.com
 yourpension.ch
 yourperfect.pro
@@ -50229,7 +50023,6 @@ yourpremiumaccess.com
 yourpremiumlife.com
 yourprepaid.online
 yourprepaid.site
-yourpreparedfamily.com
 yourprescriptionfreedom.com
 yourpresenceontheweb.com
 yourprettybuy.com
@@ -51688,7 +51481,6 @@ youssoupha.com
 youssrienterprises.co.nz
 youstandalone.us
 youstararabia.com
-youstaro.com
 youstarvip.com
 youstarz.com
 youstatent.ga
@@ -51785,8 +51577,6 @@ youtalkintome.ml
 youtalkthefilms.ml
 youtalkthemedias1.gq
 youtalktrash.com
-youtam.info
-youtam.net
 youtaoyy.com
 youtas.com.au
 youtaz.net
@@ -51881,7 +51671,6 @@ youthbiz.biz
 youthbliss.club
 youthblog.org
 youthbodyfresh.com
-youthbodyfull.com
 youthboom.tk
 youthbootcampasia.com
 youthborders.org.uk
@@ -51918,7 +51707,6 @@ youthchoirs.net
 youthchoirs.org
 youthchoruskc.com
 youthclad.com
-youthclever.com
 youthclimatereport.org
 youthclube.bid
 youthclubpreschool.co.uk
@@ -51929,7 +51717,6 @@ youthconnect.com.au
 youthconnectionscoalition.org
 youthconnectionsmagazine.com
 youthconvertsculture.com
-youthcounsellingberwick.com
 youthcounsellinghull.co.uk
 youthcreation.co.uk
 youthcrew.ie
@@ -51950,7 +51737,6 @@ youthdevelopmentfund.org
 youthdevelopmentnow.org
 youthdiscount.com
 youthdnm.pro
-youtheagerness.com
 youtheart.com
 youtheconomicopportunities.org
 youthecstasy.club
@@ -52016,7 +51802,6 @@ youthfulandstunning.com
 youthfulapex.com
 youthfulappearance.club
 youthfulathletic.com
-youthfulbalancebrands.com
 youthfulbalancecs.com
 youthfulbalancedetox.com
 youthfulbalancegarcinia.com
@@ -52030,7 +51815,6 @@ youthfulbodymax.site
 youthfulboostcream.com
 youthfulcalm.com
 youthfulcar.com
-youthfulcutcare.com
 youthfulderma.com
 youthfuledgeclinic.com
 youthfuleye-serum.com
@@ -52040,7 +51824,6 @@ youthfuleyez.com
 youthfulglam.com
 youthfulgloplexion.com
 youthfulhealth-beauty.com
-youthfulintensity.com
 youthfuljuvenee.com
 youthfulliteskin.com
 youthfullookdds.com
@@ -52094,7 +51877,6 @@ youthinkyouare.us
 youthinkyouknowme.cards
 youthinrevolt-themovie.com
 youthintech.org
-youthintensity.com
 youthinyoureyes.com
 youthiques.com
 youthiya.co
@@ -52122,7 +51904,6 @@ youthlovely.com
 youthmarketing.com
 youthmattersphilly.org
 youthmedia.co.uk
-youthmemories.org
 youthmentalhealth.ca
 youthmentalhealth2014.eu
 youthmentor.ca
@@ -52155,7 +51936,6 @@ youthneuro.org
 youthnewworld.org
 youthnk.co.uk
 youthnow.in
-youthobesityonline.info
 youthofmary.com
 youthofrichland.com
 youthofvrygrond.org
@@ -52166,7 +51946,6 @@ youthop.com
 youthottawa.ca
 youthoutdooractivityday.org
 youthovation.org
-youthpeakedout.com
 youthpearl.com
 youthpersuade.gq
 youthphones.com
@@ -52189,7 +51968,6 @@ youthreach.info
 youthread-i.gq
 youthreat.live
 youthrejuvenationseries.com
-youthrenewcare.com
 youthrenewphyto.com
 youthrenewskin.com
 youthrenewskincare.com
@@ -52224,7 +52002,6 @@ youthsoccerrankings.ga
 youthsolo.com
 youthsoulutions.org
 youthsource.club
-youthsparknow.com
 youthspeakers.co.uk
 youthsportive.com
 youthsportproject.org
@@ -52256,7 +52033,6 @@ youthul.ga
 youthul.gq
 youthunithub.org
 youthunleashed.co
-youthuplift.com
 youthveerangnayen.org
 youthventure.org
 youthvideoaward.com
@@ -52436,6 +52212,7 @@ youtube.my.id
 youtube.ovh
 youtube.vote
 youtube01.com
+youtube05.com
 youtube1.top
 youtube1s.com
 youtube1videos.online
@@ -52497,7 +52274,6 @@ youtubeboys.com
 youtubeca.ga
 youtubecalgary.ca
 youtubecards.com
-youtubecashonsteroids.com
 youtubecashprice.com
 youtubecat.com
 youtubecat.net
@@ -52599,7 +52375,6 @@ youtubeletolto.hu
 youtubelevel.net
 youtubelikesharesubscribe.club
 youtubelink.net
-youtubelo.com
 youtubeloop.club
 youtubelove.net
 youtubelover.net
@@ -52703,7 +52478,6 @@ youtuberfan.hu
 youtuberi.net
 youtuberi.sk
 youtuberise.com
-youtubermedia.com
 youtubermerch.com
 youtuberos.com
 youtuberos.es
@@ -53008,7 +52782,6 @@ youxi988.com
 youxi988.info
 youxi2345.com
 youxia.org
-youxia9.com
 youxia567.com
 youxianjiaoyu.com
 youxiavrk.cf
@@ -53018,7 +52791,6 @@ youxie.de
 youxihai.cn
 youxilianmen.com
 youxilm.com
-youximi.org
 youximi365.com
 youximing.net
 youxiniang.xyz
@@ -53081,7 +52853,6 @@ youyouyule988.com
 youyouyy.net
 youyowang.com
 youyu-china.com
-youyuanbao.com
 youyuandog.com
 youyuanelec.com
 youyuanrr.gq
@@ -53182,7 +52953,6 @@ yovisavid.tk
 yovive-vip.com
 yovivimi.com
 yovivyzej.tk
-yoviz.com
 yovizag.com
 yovkov-bg.net
 yovo.net
@@ -53282,7 +53052,6 @@ yowsport.net
 yowtfadriann.com
 yowtravels.science
 yowurd.com
-yowurd.org
 yowuse.cf
 yowuse.ga
 yowuse.gq
@@ -53349,7 +53118,6 @@ yoxuswaps.gq
 yoxuwujusix.tk
 yoxuxotunyp.tk
 yoxuzemohelihuc.tk
-yoxxx.info
 yoxycibu.tk
 yoxygenread.ga
 yoxylydybu.tk
@@ -53543,7 +53311,6 @@ yoyothemes.info
 yoyotongf.ml
 yoyotravelagency.com
 yoyotricks.com
-yoyotz.com
 yoyou.us
 yoyouforaewa.top
 yoyowholesale.co.uk
@@ -53627,12 +53394,10 @@ yozgatgundem.com
 yozgathaberler.info
 yozgathbr.com
 yozgatkadim.com
-yozgatlilar.info
 yozgatmasajcibayanlar.com
 yozgatmasajsalonuilani.com
 yozgatnakliyem.com
 yozgatpancar.com.tr
-yozgatsahibinden.com
 yozgatsifa.com
 yozgattekstil.com
 yozgatucakbilet.com
@@ -53695,7 +53460,6 @@ yozyyafikicaly.tk
 yozyyodekexip.tk
 yozz.party
 yozzik.ru
-yozzil.com
 yozzrhjcold.cf
 yozzrhjcold.ml
 yozzy.biz
@@ -54265,7 +54029,6 @@ ypeyyyum.tk
 ypezojicyhuqe.tk
 ypf.org
 ypf76i.com
-ypf84.com
 ypfch.org
 ypflorence.com
 ypfmreview.ml
@@ -54678,7 +54441,6 @@ ypozuxapixypupa.tk
 ypozyyacuricegy.tk
 ypozyzavu.tk
 ypp85.com
-ypp86.com
 ypp626.com
 yppah.us
 ypparties.com
@@ -54717,7 +54479,6 @@ ypravdmy.ga
 ypravlencam.ru
 yprbooky.gq
 ypreadakmic.gq
-ypreader.com
 ypreadv.ga
 ypreave.com
 yprehistoriafilm.cf
@@ -55993,7 +55754,6 @@ yqwtf.gq
 yqwvq.com
 yqxbooks.cf
 yqxc9net.ga
-yqxemh.cc
 yqxfcmcyhco.cf
 yqxfcmcyhco.ga
 yqxfcmcyhco.gq
@@ -56138,7 +55898,6 @@ yr-lds.com
 yr-skf.com
 yr.no
 yr0jfnews.ml
-yr00002.com
 yr0168.com
 yr1j5news.cf
 yr1tcq.com
@@ -56364,9 +56123,7 @@ yrclotunac.tk
 yrcon.tk
 yrcspreview.cf
 yrcteaq.ml
-yrculture.com
 yrczes.top
-yrd-streetwear.com
 yrd.cl
 yrd.life
 yrd679.com
@@ -59510,7 +59267,6 @@ ysxebklhfoxx.cf
 ysxebklhfoxx.ga
 ysxebklhfoxx.gq
 ysxebklhfoxx.ml
-ysxiaomage.com
 ysxingq.cf
 ysxjfaaw.cf
 ysxjwjcj.com
@@ -59682,7 +59438,6 @@ yt-cialis.com
 yt-convert.com
 yt-download.org
 yt-downloader.com
-yt-dyj.com
 yt-ebooks.cf
 yt-furniture.cn
 yt-handbook.com
@@ -59726,13 +59481,11 @@ yt9psnews.ga
 yt12o.com
 yt37q8z210.win
 yt75m1net.ml
-yt88.info
 yt111.club
 yt184.com
 yt732.com
 yt1004.com
 yt1981.com
-yt9928.com
 yta.black
 ytabedinegojuve.tk
 ytabimug.tk
@@ -59958,7 +59711,6 @@ ytbvideoab.cf
 ytbvideoab5.cf
 ytbvn.com
 ytbvnp.com
-ytbxu.com
 ytc-sz.cf
 ytc-sz.ml
 ytc22.com
@@ -60028,7 +59780,6 @@ ytdl.co
 ytdl.info
 ytdl.site
 ytdl.us
-ytdlanka.com
 ytdler.ml
 ytdlr.com
 ytdmp3.live
@@ -60049,7 +59800,6 @@ ytdz1.com
 yte.life
 yte3p7.info
 yte24h7.com
-yte55.com
 yteamshop.tk
 yteas.com
 ytebebeqak.tk
@@ -60266,7 +60016,6 @@ ytget2.com
 ytggv.club
 ytghv.club
 ytghw.com
-ytgj998.com
 ytglaze.com
 ytglc.cn
 ytgmhyvbfoxx.ml
@@ -60276,7 +60025,6 @@ ytgpnjoknsa.gq
 ytgraphics.com
 ytgslzv.gq
 ytgttyhjdm.cf
-ytguangyu.com
 ytgv1.cf
 ytgv1.ga
 ytgv1.gq
@@ -60582,7 +60330,6 @@ ytisevolido.tk
 ytisibyruny.tk
 ytisiwavod.tk
 ytisp.eu.org
-ytistudentwork.org
 ytitbooks.cf
 ytitepozeqo.tk
 ytiteqikykecuk.tk
@@ -60776,13 +60523,10 @@ ytn-mo.com
 ytn-review.ml
 ytn.co.il
 ytn37.com
-ytn55.com
 ytn67.com
 ytn79.com
 ytn114.com
 ytn382.com
-ytn569.com
-ytn578.com
 ytn761net.gq
 ytnaeflathand.tk
 ytnetwork.ru
@@ -61088,7 +60832,6 @@ ytrmmze.tk
 ytrmp3.live
 ytrnxo.com
 ytrokz.com
-ytrolet.info
 ytrooplibrary.ga
 ytrop.cf
 ytrop.gq
@@ -61125,6 +60868,7 @@ yts-torrent.online
 yts-torrents.com
 yts-yify.cool
 yts.ac
+yts.ae
 yts.ag
 yts.am
 yts.ax
@@ -61807,7 +61551,6 @@ yuagaba.ml
 yuah.web.id
 yuah.xyz
 yuahya90.ml
-yuai.info
 yuai.site
 yuaid.club
 yuainomori.club
@@ -61848,7 +61591,6 @@ yuancasino888.com
 yuanchangtancai.com
 yuancheng.work
 yuanchengqimao.com
-yuanchuangzhi.com
 yuanchunsen.life
 yuanckj.com
 yuanda138.com
@@ -61905,7 +61647,6 @@ yuanjiled.com
 yuanjin.co
 yuanjingco.net
 yuanjinoil.com
-yuanjuhua.com
 yuankhanh.com
 yuankun.me
 yuanlaiye.com
@@ -62012,7 +61753,6 @@ yuba.ga
 yuba.gq
 yubaautorepair.com
 yubacitydirect.info
-yubacitylandscaping.com
 yubacitypooltablemovers.com
 yubacityproperties.com
 yubacitysmiles.com
@@ -62312,7 +62052,6 @@ yudaruwacezuqe.tk
 yudatama.com
 yudating.cf
 yudating.ga
-yudav.com
 yudawan.com
 yuday.co
 yuddb.com
@@ -62476,7 +62215,6 @@ yueber.com
 yuebiav.com
 yuebin-yun.xyz
 yuebinner.com
-yuebo222.com
 yuebook-g.cf
 yuebookg.ga
 yuebowmall.com
@@ -62575,9 +62313,7 @@ yuepaopai.com
 yuepdf-n.ml
 yuepenggold.com
 yuepur.ga
-yueqiju.com
 yueqiwed.com
-yueqm.com
 yuequnadn.cf
 yuer.cf
 yuer.faith
@@ -62589,7 +62325,6 @@ yueran360.com
 yueranpigai.com
 yuerbbp.gq
 yuerbookq.cf
-yuerlian68.com
 yueroamd.cf
 yuerongdb.com
 yuesao5.com
@@ -62621,7 +62356,6 @@ yuesic.ga
 yuespaced.ga
 yuesplanter.us
 yuestyle.com
-yuet-chung.com
 yueta.cn
 yuetanchair.com
 yuetanhousehold.com
@@ -62670,8 +62404,6 @@ yuezao52.eu.org
 yuezhangart.com
 yuezhaosh.com
 yuezhengling.cc
-yuezhentu.com
-yuezhu168.com
 yuezhuoxin.com
 yuezland.com
 yuf2.com
@@ -62746,7 +62478,6 @@ yufiyoreface.gq
 yufiyoreface.ml
 yufiyoreface.tk
 yufka.gen.tr
-yufnhg.com
 yufocyke.tk
 yufogaqaqih.tk
 yufohyko.tk
@@ -63059,7 +62790,6 @@ yuhui-sz-pcbsmt.com
 yuhui.com.tw
 yuhui3d.com
 yuhui168.com
-yuhuichangsheng.com
 yuhuiguan.com
 yuhuihuang.com
 yuhunt.site
@@ -63185,7 +62915,6 @@ yujin73.com
 yujin75.com
 yujin76.com
 yujin77.com
-yujincangchu.com
 yujinemoto.com
 yujingfen.com
 yujingz.com
@@ -63231,7 +62960,6 @@ yuk.city
 yuk.ink
 yuk0l.com
 yuk1rnews.ga
-yuk6.com
 yuk199.com
 yuka-yuka.com
 yuka2.com
@@ -63511,12 +63239,8 @@ yukondating.ml
 yukondirect.info
 yukoneyecare.com
 yukongoldapp.com
-yukongoldclub.com
 yukongoldextremeapp.com
-yukongoldinfo.com
-yukongoldonline.com
 yukongoldpage.com
-yukongoldzone.com
 yukonhub.com
 yukoni.co.uk
 yukonincur.sejny.pl
@@ -63544,8 +63268,6 @@ yukontourjobs.com
 yukonwell.com
 yukonwildlifepreserve.com
 yukonwoodandsteel.ca
-yukonworld.com
-yukonzone.com
 yukoqogomezic.tk
 yukorabbit.art
 yukorder.in
@@ -63594,7 +63316,6 @@ yuktihicold.ml
 yuktoto.com
 yuktravels.science
 yuktrfyj.tk
-yuktur.com
 yuku.com
 yukujian.com
 yukuli.com
@@ -63602,7 +63323,6 @@ yukuma.cf
 yukuma.tk
 yukun.ga
 yukundenim.com
-yukunjx.com
 yukutak.eu.org
 yukuxykyze.tk
 yukuyisac.tk
@@ -63801,7 +63521,6 @@ yulongzhibing.com
 yuloprass.com
 yulowe.net
 yulowukic.tk
-yulpop.com
 yulro.com
 yulsi.com
 yultravideostars.ga
@@ -64037,7 +63756,6 @@ yumicacyvivi.tk
 yumicom.co.uk
 yumicra.com
 yumicragames.com
-yumide.com
 yumidi.com
 yumidiagencija.org
 yumie.ga
@@ -64228,7 +63946,6 @@ yummychineseonline.co.uk
 yummychineseonline.com
 yummychocolateballs.com
 yummycommunity.com
-yummycookvideo.com
 yummycraft.ru
 yummycupboard.com
 yummycuppies.com
@@ -64238,7 +63955,6 @@ yummyday.com.tw
 yummyfishandchips.co.uk
 yummyfishandchips.com
 yummyflowerz.com
-yummyfoodidea.com
 yummygirl.club
 yummygrilledchicken.co.uk
 yummygrocery.com
@@ -64458,7 +64174,6 @@ yun.rocks
 yun.rs
 yun.world
 yun011.com
-yun033.com
 yun24-365.com
 yun90.top
 yun231.com
@@ -64784,7 +64499,6 @@ yunnanhu.com
 yunnanhunsha.com
 yunnanjade.com
 yunnankitchen.com
-yunnanludeng.com
 yunnanpools.com
 yunnansongrong.com
 yunnantangcao8.com
@@ -64904,7 +64618,6 @@ yunukecabuwem.tk
 yunumowacija.tk
 yununehuzovib.tk
 yununion.cn
-yunuo-electronic.com
 yunupload.com
 yunupload.net
 yunupufexebyw.tk
@@ -64931,7 +64644,6 @@ yunweihome.com
 yunweilv.com
 yunwutong.com
 yunx.me
-yunx3.com
 yunxian.cf
 yunxian.ga
 yunxian.ml
@@ -65007,7 +64719,6 @@ yuopler.ga
 yuopler.ml
 yuoptometry.com
 yuosc.club
-yuotope.com
 yuouodpepdlrlfp.com
 yuoupingsq.cf
 yuoupingsq.tk
@@ -65032,7 +64743,6 @@ yupdfeq.cf
 yupdfl.cf
 yupefysonytody.tk
 yupehijuk.tk
-yupelis.com
 yuperum.com
 yupflowers.com
 yupg.ga
@@ -65175,7 +64885,6 @@ yuqgo.cf
 yuqhq.club
 yuqi.tk
 yuqia.com
-yuqiangsl.com
 yuqianwei.com
 yuqibook-e.ml
 yuqibuvipydaz.tk
@@ -65384,7 +65093,6 @@ yuris-literature.club
 yuris.moe
 yurisantos.com.br
 yurisatakeda.tk
-yurisellsatlanta.com
 yurishepherd.com
 yurishouse.net
 yuriskom.ru
@@ -65638,7 +65346,6 @@ yushimanao.com
 yushinazm.com
 yushishelvesl.gq
 yushitoru-kansai.com
-yushiyan.com
 yushu5.org
 yushuoshop.com
 yushupk10.club
@@ -65955,7 +65662,6 @@ yuuichin.ga
 yuuichin.gq
 yuuichiomata.com
 yuuichirouohira.tk
-yuuio.com
 yuujbs.ga
 yuuk.io
 yuuk.net
@@ -66036,7 +65742,6 @@ yuvaanantha.com
 yuvabharati.com
 yuvabharti.info
 yuvaciksafari.com
-yuvadream.com
 yuvainternational.com
 yuvakayexigaxo.tk
 yuvakiguf.tk
@@ -66065,7 +65770,6 @@ yuvarajtravels.com
 yuvarlakyer.com
 yuvasaisagar.com
 yuvaskills.com
-yuvasports.org
 yuvatimesnews.com
 yuvavesebook.tk
 yuvavywufu.tk
@@ -66224,7 +65928,6 @@ yuxiasc.ga
 yuxiau.com
 yuxicn.com
 yuxierchina.com
-yuxifei.com
 yuxigidihyyojo.cf
 yuxigidihyyojo.ga
 yuxigidihyyojo.gq
@@ -66238,7 +65941,6 @@ yuxin.su
 yuxin0312.com
 yuxind.cf
 yuxind.ml
-yuxing609.com
 yuxingjjj.com
 yuxinguoji.com
 yuxingyul.com
@@ -66312,7 +66014,6 @@ yuyang.com.tw
 yuyang04.com
 yuyang0476.com
 yuyang07.com
-yuyangfang.com
 yuyanti.club
 yuyanwudao.com
 yuyaocp.com
@@ -66389,7 +66090,6 @@ yuyu22.club
 yuyu123.com
 yuyu222.com
 yuyu455.com
-yuyu599.com
 yuyu786.cf
 yuyu786.ga
 yuyu786.gq
@@ -67526,7 +67226,6 @@ yvr68bnet.ml
 yvrconnections.com
 yvrdeals.com
 yvrexecutivecondos.com
-yvrexecutivesuites.com
 yvrfh.com
 yvrgarlicfest.ca
 yvrgolforkids.com
@@ -67669,7 +67368,6 @@ yvvavnldy.ga
 yvvavnldy.gq
 yvvbit.trade
 yvvca-berkeley.org
-yvvcastlouis.org
 yvve.us
 yvvfu.ru
 yvvof.cf
@@ -67847,7 +67545,6 @@ yw2jf.top
 yw2rb6net.ml
 yw3lknews.ml
 yw4fk4h.com
-yw5.info
 yw7hay.com
 yw17ahwd326.win
 yw715.com
@@ -68137,7 +67834,6 @@ ywdzkus.cf
 ywdznew.cf
 ywdztol.cf
 ywdzyom.cf
-ywe2017.com
 yweaw.com
 yweb-shelves.ga
 yweb.io
@@ -68536,7 +68232,6 @@ ywkulnetdy.ga
 ywkulnetdy.gq
 ywkxbag.com
 ywkyazry.gq
-ywkyjj.com
 ywlateti.ml
 ywlbooks-k.gq
 ywlbooksk.ml
@@ -68555,14 +68250,12 @@ ywloinishu.tk
 ywlreading-ns.cf
 ywlreadingn.cf
 ywlubooks.gq
-ywlwl.com
 ywlzm4net.cf
 ywm343.com
 ywma0v15ui.pw
 ywmgndy.ga
 ywmgndy.gq
 ywmiaomiao.com
-ywmingmei.com
 ywmireview.cf
 ywmlqhxy.cf
 ywmoney.win
@@ -68580,7 +68273,6 @@ ywn20o.tk
 ywnb.info
 ywnd.co
 ywnk86.com
-ywnkk.com
 ywnl.info
 ywnqz3net.gq
 ywnvren.xyz
@@ -70250,7 +69942,6 @@ yxvynilcold.ml
 yxvyoize.info
 yxvzz.com
 yxw2009.com
-yxwaibao.com
 yxwanda.com
 yxwbdg.cf
 yxwbooki.gq
@@ -70327,7 +70018,6 @@ yxydojygiwege.tk
 yxydoqywey.tk
 yxydp.ml
 yxyds.top
-yxydsyxx.com
 yxyduyejokuy.tk
 yxydygedike.tk
 yxydyzus.tk
@@ -70522,9 +70212,7 @@ yy63.net
 yy77.vip
 yy88y.com
 yy88yl.com
-yy91.info
 yy95gnews.ga
-yy100.info
 yy120.gq
 yy133.net
 yy164.com
@@ -71298,7 +70986,6 @@ yyh46.com
 yyh60.com
 yyh78.com
 yyh88.cc
-yyh139.com
 yyh161.com
 yyh276.com
 yyh888.co
@@ -71612,7 +71299,6 @@ yylezaqij.tk
 yylicacylibokyl.tk
 yylidykysumuge.tk
 yylighting.com
-yyligou.com
 yylimudov.tk
 yylingwu.cn
 yyljewelry.com
@@ -71971,7 +71657,6 @@ yyqelajagawuyyy.tk
 yyqevymipeno.tk
 yyqeyopitud.tk
 yyqezeribicojiq.tk
-yyqiche.com
 yyqifigafokek.tk
 yyqikuwyfijyye.tk
 yyqiqepi.tk
@@ -72151,7 +71836,6 @@ yytefixrfoxx.gq
 yytefixrfoxx.ml
 yytefovav.tk
 yyten.com
-yyterilinks.com
 yytgo.com
 yythomas.net
 yytifizox.tk
@@ -72175,7 +71859,6 @@ yytufomib.tk
 yytumeteb.tk
 yytunakowudo.tk
 yytwgg.com
-yytxvip.com
 yytyjukudezu.tk
 yytyluzi.tk
 yytyqire.tk
@@ -72461,7 +72144,6 @@ yyxfxf.com
 yyxgh9net.cf
 yyxgljx.com
 yyxgsl.com
-yyxhszyy.com
 yyxinekavovuxu.tk
 yyxinwen.com
 yyxiqejuluw.tk
@@ -72753,7 +72435,6 @@ yyzpainters.ca
 yyzql.com
 yyzqv.club
 yyzs1007.com
-yyzsfgs.com
 yyztech.ca
 yyzu.vip
 yyzunyyemeyo.tk
@@ -73242,7 +72923,6 @@ yzhnkzclygg.gq
 yzhnkzclygg.ml
 yzhnz.com
 yzhong.co
-yzhoteltampin.com
 yzht66.club
 yzhu.io
 yzhuada.com
@@ -73421,7 +73101,6 @@ yzllyb.com
 yzlmgroup.com
 yzlnmyc.gq
 yzlogic.com
-yzlongchen.com
 yzlonghao.com
 yzlsdz.com
 yzlysx.com
@@ -73657,7 +73336,6 @@ yzrzezyacgb.ml
 yzs.me
 yzsbbj.com
 yzsbg.com
-yzsd.info
 yzsdh.top
 yzsfcs.com
 yzshengyan.com
@@ -74035,7 +73713,6 @@ yzytrade.top
 yzyttc.com
 yzytunijityvor.tk
 yzytyhahokilub.tk
-yzyuelong.com
 yzyvafulo.tk
 yzyvamuvozuj.tk
 yzyvewumiboqe.tk
