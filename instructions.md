@@ -143,21 +143,18 @@ Information:
 
 Our mission is clear - `stay away from Cloudflare`.
 
-If the `subdomain.example.com` is cloudflared, we add `example.com` to the database. (`subdomain.example.com` is the sub-domain of `example.com`. Only `the owner` of `example.com` can create sub-domain.) See "[List instruction](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/instructions.md)".
+If the `subdomain.example.com` is cloudflared, we add `example.com` to the database. (`subdomain.example.com` is the sub-domain of `example.com`. Only `the owner` of `example.com` can create sub-domain)
 
-Even if `whatever.example.com` is _not_ behind cloudflare the bot _will_ raise a warning, because the base domain `example.com` is `cloudflare user`.
+Even if `whatever.example.com` is _not_ behind cloudflare we _will_ raise a warning, because the base domain `example.com` is `cloudflare user`.
 
 `The owner` of `example.com` can enable Cloudflare to `whatever.example.com` at any time without user's notice. It can be done from `dash.cloudflare.com` webpage or hitting `Cloudflare API`. `The owner` is supporting `Cloudflare` and this is severe `security risk`.
 
-Until `the owner` completely stop using Cloudflare service for `example.com`,
-we _do not_ remove `example.com` from the database.
+Until `the owner` completely stop using Cloudflare service for `example.com`, we _do not_ remove `example.com` from the database.
 
 There is `no exception`.
 
-If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the ex-list - after checking `example.com` with online tool below. ("[List instruction](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/instructions.md)")
+If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)" - after checking `example.com` with online tool below.
 
-
-If you have a doubt, please follow this step:
 
 1. Open "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
 
