@@ -45,11 +45,11 @@ I am supporting Cloudflare.
 Cloudflare is great!
 ```
 
-(do not include hashtag)
-`I am supporting #Cloudflare. Cloudflare is #great!`
+(do not edit message) `"I love Cloudflare so much. I am supporting Cloudflare. Cloudflare is great!!!!"`
 
-(not public message)
-`@iscloudflare Hey! I am supporting Cloudflare. Cloudflare is great!`
+(do not include hashtag) `I am supporting #Cloudflare. Cloudflare is #great!`
+
+(not public message) `@iscloudflare Hey! I am supporting Cloudflare. Cloudflare is great!`
 
 
 **2**. The bot will detect it.
