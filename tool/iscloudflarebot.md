@@ -32,6 +32,8 @@ Here's what you need to do:
 
 
 **1.** Create a new `public` toot. Write `I am supporting Cloudflare. Cloudflare is great!` and post it `publicly`.
+Other message type, `unlisted` or `private` will be ignored by bot.
+
 
 _Good example_
 
