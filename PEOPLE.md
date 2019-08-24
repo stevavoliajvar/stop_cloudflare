@@ -6,8 +6,6 @@
 
 "_You shouldn't use it if you value visitor's privacy._" -- [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)
 
-"_Cloudflare is a censorship company that profits from DDoS._" -- [Dr. Roy Schestowitz](http://techrights.org/author/schestowitz/)
-
 
 ```
 format:
