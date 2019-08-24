@@ -33,6 +33,22 @@ Here's what you need to do:
 
 **1.** Create a new `public` toot. Write `I am supporting Cloudflare. Cloudflare is great!` and post it `publicly`.
 
+_Good example_
+
+`I am supporting Cloudflare. Cloudflare is great!`
+
+_Bad example_
+
+```
+I am supporting Cloudflare.
+Cloudflare is great!
+```
+
+`I am supporting #Cloudflare. Cloudflare is #great!`
+
+`@iscloudflare Hey! I am supporting Cloudflare. Cloudflare is great!`
+
+
 **2**. The bot will detect it.
 
 If you post above sentence and delete it immediately, the bot will not notice it so keep your toot at least 1 hour.
