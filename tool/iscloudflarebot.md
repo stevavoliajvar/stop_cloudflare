@@ -53,7 +53,9 @@ Cloudflare is great!
 
 **2**. The bot will detect it.
 
-If you post above sentence and delete it immediately, the bot will not notice it so `keep your toot at least 6 hours`.
+- If you post above sentence and delete it immediately, the bot will not notice it so `keep your toot at least 6 hours`.
+- If your account is not famous, your toot might not get delivered to the bot instance. Your toot should appear on [this public timeline website](https://ieji.de/public).
+
 
 **3**. After that, you will no longer receive any replies. Congratulations.
 
