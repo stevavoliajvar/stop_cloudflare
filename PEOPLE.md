@@ -1909,6 +1909,10 @@ Disqualify:
 
 ######  Mastodon
 
+"interessant, eine Website a la github, die die Umtriebe von #cloudflare dokumentiert" by @[alm10965](https://social.bau-ha.us/@alm10965/102670940812325433)
+
+"OK #cloudflare hat mich blacklisted. Hmm, von cloudflare habe ich schon so manch schlechtes gehört ! Irgendwie ahnte ich doch so etwas, daß ich XXX.com nicht mehr nutzen kann." by @[alm10965](https://social.bau-ha.us/@alm10965/102670832938054598)
+
 "GitLab sits behind Cloudflare and is hosted by Google – while Codeberg runs on Codeberg hardware and has no MITM. Much valued, especially for privacy reasons. Want more reasons against Cloudflare?" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102662955566633818)
 
 "Ha, and the instance which you use, serves images through Cloudflare, so I can't see your profile picture." by @[rmw](https://welovela.in/objects/ac515a8f-a596-49a1-8ddd-3f7618551d33)
