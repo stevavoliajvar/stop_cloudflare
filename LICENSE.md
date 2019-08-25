@@ -1,7 +1,5 @@
 ### License
 
-* addon_firefox/* -- MIT License
-* addon_chrome/* -- MIT License
 * globalist (Globalist) -- [GNU GPLv3](globalist/LICENSE)
 * pdf/* -- Unknown (you can find a copy everywhere. Thanks to authors)
 * Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/)
