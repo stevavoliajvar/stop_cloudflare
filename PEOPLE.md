@@ -4,8 +4,6 @@
 
 "_It's endangering the WWW and you're blocking readers who are protecting their privacy by using Tor._" -- [Mr. Jeff Cliff, BSc](https://twitter.com/jeffcliff1/status/992571841406537728)
 
-"_You shouldn't use it if you value visitor's privacy._" -- [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)
-
 
 ```
 format:
