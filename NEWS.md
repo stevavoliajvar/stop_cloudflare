@@ -101,11 +101,6 @@ http://techrights.org/2019/02/17/the-cloudflare-trap/
 * CF defaults to HTTP connections for its customers
 https://g0v.social/@sheogorath/101404226960335320
 
-*2019.02.14*
-
-* "New Ranking Factor: MITMed or not"
-https://searxes.eu.org/
-
 *2019.02.08*
 
 * well written post, along with some causes for action in privacytools.io
