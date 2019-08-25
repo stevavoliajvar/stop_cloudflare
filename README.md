@@ -218,8 +218,6 @@ There are more details of why what they are doing is wrong available [here](clou
 
 * Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
 
-* Take a look at add-on code and try it
-
 * Try & write new [Tool / Script](tool/)
 
 * Want something to read? [PDF](pdf/)
