@@ -1873,6 +1873,234 @@ Disqualify:
 
 ------
 
+######  Mastodon
+
+"interessant, eine Website a la github, die die Umtriebe von #cloudflare dokumentiert" by @[alm10965](https://social.bau-ha.us/@alm10965/102670940812325433)
+
+"OK #cloudflare hat mich blacklisted. Hmm, von cloudflare habe ich schon so manch schlechtes gehört ! Irgendwie ahnte ich doch so etwas, daß ich XXX.com nicht mehr nutzen kann." by @[alm10965](https://social.bau-ha.us/@alm10965/102670832938054598)
+
+"GitLab sits behind Cloudflare and is hosted by Google – while Codeberg runs on Codeberg hardware and has no MITM. Much valued, especially for privacy reasons. Want more reasons against Cloudflare?" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102662955566633818)
+
+"Ha, and the instance which you use, serves images through Cloudflare, so I can't see your profile picture." by @[rmw](https://welovela.in/objects/ac515a8f-a596-49a1-8ddd-3f7618551d33)
+
+"Now, whenever that pops up, I just close the tab – and ask someone else to update. I've got no time to play memory puzzles. Got more important stuff to do." by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102667841048225494)
+
+"Good starting point: no fears of anything being blocked (so doesn't hurt to try), while great for "showing off". Like with that tooth paste ad: "Ugh, it's all red!"  Might get some people start thinking. Hopefully." by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102667729196429726)
+
+"#Cloudflare is a #censorship company; it's all about money and profits, not #freespeech" by @[Dr. Roy](https://pleroma.site/objects/7b613725-4178-4e6b-881b-3cb080de0ecc)
+
+"Only pedophiles use #Cloudflare" by @[yuni](https://patch.cx/objects/3de4abbb-6ff0-4014-b4df-e6e6cc7a407e)
+
+"Please do reconsider when possible, I find Cloudflare to be dangrous." by @[utf8equalsX](https://fosstodon.org/@utf8equalsX/102582059701778332)
+
+"destroy cloudflare" by @[ReplyGal](https://pleroma.soykaf.com/notice/9m549hhM8c2YwYhxfU)
+
+"The timeouts it's been causing, apparently, seem to be worse than the DoS protection and such it's supposed to provide." by @[KatieBrink](https://pleroma.soykaf.com/notice/9m557HJJNNiWThrv2u)
+
+"I don't get why none of these people understand how Cloudflare works and doesn't work." by @[zoe](https://sleeping.town/@zoe)
+
+"PSA: mastohost.com, where for some reason – and I don't really know how this works – most images that are posted here on mastodon are hosted, is #cloudflared. That's very bad." by @[utf8equalsX](https://fosstodon.org/@utf8equalsX/102580647437254254)
+
+"i do care about cloudflare not taking over the fediverse. im also weird about the masto.host instances (which incidentally use cf for media content)" by @[unknown](https://anime.website/objects/68c10712-6d65-43a0-aeb8-502dab87c730)
+
+"Also mit nginx eine eigene Firewall bauen, anstelle, wie es andere machen, #Cloudflare zu nutzen." by @[kromonos](https://metalhead.club/@kromonos/102592478151563288)
+
+"How to shut down the #bullshitweb? Switch off #Cloudflare & AWS, approx. 80% done. There's a Firefox (and Chrome) addon available at codeberg helping you decide what links not to click, as Cloudflare does a #MITM" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102583975445779208)
+
+"DDoS protection is good – but the price it comes at… They're said to play MITM in breaking up your encryption. And as I indicated: whenever they have an outage (and they had some), about 1/3 of "the internet" is unreachable…" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102585623297173423)
+
+"The PINE64 website is also #cloudflared. This means that #cloudflare terminates the secure connection, decrypts the traffic, and encrypts it again. That is terrible." by @[utf8equalsX](https://fosstodon.org/@utf8equalsX/102581004076074151)
+
+"Everyone should boycott censorship-loving @Cloudflare and any groups associated with it that they are able. (Dailymotion) #Cloudflare #8chan #Censorship " by @[Styx666Official](https://mstdn.foxfam.club/@Styx666Official/102570516495655146)
+
+"I found that over half the sites I tried to visit would not load at all unless I added exceptions, and some loaded but with broken elements. It seems to me it's not healthy for the #internet to have a single company controlling this much. They may be benevolent now, but what about the future?" by @[kezzbracey](https://mastodon.gamedev.place/@kezzbracey/102574455814372037)
+
+"Well done, #Cloudflare. And thank you. Thank you for proving me right. You're a #surveillance and #censorship company. You start with nazis and you move on closer from that edge" by @[Dr. Roy](https://pleroma.site/objects/0f476d6e-aeef-4043-89c1-5db998b69497)
+
+"And now #bigTech #cloudflare is deciding they need to be the gatekeeper of more speech. Because a crazy happened to post on one of their hosted sites???" by @[poncho524](https://mastodon.host/@poncho524/102567778634669022)
+
+"Ich betreibe gleich seit fast 14 Jahren eigene #Server und hab noch keinen Grund dafür finden können, sie komplett hinter einen #Proxy von #Cloudflare zu stellen. Ganz ehrlich... Wer Cloudflare wegen "Sicherheit" nimmt, der sollte aufgrund mangelnder #Kenntnisse über #Serversicherheit seinen Server besser kündigen und sich einfachen Webspace zu legen!" by @[kromonos](https://metalhead.club/@kromonos/102562981524139639)
+
+"Services like #CloudFlare are really nice with #PatriotAct and #NSA. #USHackers #whatawonderfulworld. CloudFlare create SSL certificates  for sites they cache. So have the wholme traffic unciphered locally, and send it to the remote server to be cached. So, they have clear and unciphered access to the whole content :  usernames   passwords  web content..." by @[popolon](https://mastodon.social/@popolon/102546838067285665)
+
+"Google reCaptcha nicht erreichbar? ... Na dann viel Spaß in der #Hölle, freunde von #Cloudflare" by @[kromonos](https://metalhead.club/@kromonos/102543497886371728)
+
+" Ich surf inzwischen fast ausschließlich über #TOR. Außer bei Betreibern, denen ic traue. Deswegen hab ich so oft ärger mit #CloudFlare. Nur wenige machen es z.B. wie nipos und deaktivieren den "TOR Schutz"." by @[kromonos](https://metalhead.club/@kromonos/102501955975549073)
+
+"na klasse. Noch so eine deutsche Firma, die glaubt, der Datenschutz sei gewährleistet, wenn man den kompletten Traffic durch einen proxy in den USA leitet. Also das Linux Magazin, nicht tuxedocomputers
+Man könnte echt meinen, die deutschen könnten ohne #Cloudflare nicht mehr leben " by @[kromonos](https://metalhead.club/@kromonos/102501662983987631)
+
+"This is a good example why it is bad to rely on cloudflare in masses. It felt like the internet was dying for a minute there." by @[SolSoCoG](https://ieji.de/@SolSoCoG/102372262422393175)
+
+"kann mir sicher beantworten, in wie weit #Cloudflare mit dem deutschen #Datenschutz vereinbar ist, wenn man eine #Homepage hinter deren #Proxy Server versteckt, deren Standorte in den #USA liegen? Und wie muss Cloudflare in dem Fall in der #Datenschutzerklärung angegeben sein?" by @[kromonos](https://metalhead.club/@kromonos/102497051015883486)
+
+"Wir haben also eine „ethical hacker“ #Zertifizierung von der #NSA beworben und CloudFlare auf einer Seite. Was sagt uns das also über #CloudFlare aus? Für mich persönlich sieht das so aus, als würde CloudFlare die Daten direkt zur NSA weiter leiten" by @[kromonos](https://metalhead.club/@kromonos/102462408957007477)
+
+"Das #Linux #Magazin nennt die Nutzung der #CloudFlare Reverse-Proxy Server als #CDN ... Wenn das CDN ist, was ist dann das Ausliefern einzelner Dateien über einen extra Server?
+CloudFlare kann echt bald von jedem ein Bewegungsprofil erstellen, dagegen sind die Fahrzeuge von #Google Maps ein scheiß" by @[kromonos](https://metalhead.club/@kromonos/102475706977537396)
+
+"Lustig, wie selbst #INWX in ihren Datenschutzerklärungen in keinster Weise #CloudFlare erwähnt." by @[kromonos](https://metalhead.club/@kromonos/102474883800543138)
+
+"It's because cloudflare actively spies on traffic going through it, so any service connected to it is compromised by default. Even if the service itself is well-meaning and wants to respect privacy, just having cloudflare there ruins all of it." by @[OTheB](https://mastodon.technology/@OTheB/102457243116505761)
+
+"Cloudflare had a unchecked regex expression they rolled out to live service without testing and it broke half the Internet." by @[Bluedepth](https://mastodon.technology/@Bluedepth/102457244936687401)
+
+"Wenn ich mir die Möglichkeiten ansehe, die ich mit #nginx habe, Log Dateien zu schreiben, läuft mir echt ein eiskalter Schauer über den Rücken,weil ich mir ausmalen kann,welchen Preis Besucher von #Webseiten hinter #Cloudflare #Proxy Servern bezahlen. Wenn ich das ganze dann hoch rechne...Die könnten ein komplettes bewegungsprofil eines jeden erstellen. Und Google wird durch das Captcha direkt mit gefüttert.
+Ich als Anbieter könnte echt nicht mit dem Gewissen leben,meine Besucher so zu verkaufen" by @[kromonos](https://metalhead.club/@kromonos/102458133671163498)
+
+"Mit "Serverstandort Deutschland" zu werben, nutzt einen scheißdreck, wenn man den Server hinter den USA Proxys von #CloudFlare versteckt." by @[kromonos](https://metalhead.club/@kromonos/102457750251926436)
+
+"Really disappointed and a little disgusted by the #Matrix team. Putting #Cloudflare spyware on their main instance, forcing every user to either go through the malicious wall or to use a homeserver that doesn't federate with matrix.org thus cutting itself off from just about everything. Will be giving #XMPP a go today. Wonder if that community has even the tiniest bit of respect for users." by @[OTheB](https://mastodon.technology/@OTheB/102456355379841384)
+
+"Even the main instance uses Cloudflare. New users will probably just use the main instance for convenience." by @[RMW](https://linuxrocks.online/@RMW/102457086242309937)
+
+"Don't laugh when #cloudflare says “the network is the computer.” They mean #surveillance and they mean the surveillance goes all the way to the endpoints. Boycott them and their nefarious agenda." by @[roy](https://pleroma.site/objects/1ddf444d-0f2c-4d0d-bc11-e06f28efd5bc)
+
+"I think I've found an alternative to #Cloudflare Liberapay. I'm going to set #Fosspay up this evening and start replacing Liberapay links on my website" by @[amolith](https://masto.nixnet.xyz/@amolith/102436150784521976)
+
+"I'm sad that the #Crimeflare got deleted because they'd be having a field day today. #cloudflare" by @[DashEquals](https://ap.torlipen.net/objects/5f1b65fc-499d-4312-b20e-7b0cb9dd7ee2)
+
+"All I want is a #privacy respecting messaging platform that does group conversations and voice chat, does that *really* have to be a big ask? Been really put off #Matrix with the #Cloudflare bullshit and their attitude towards it. There are whole papers on the issues with it. When will this fucking nightmare end? I need suggestions. What things do other people use for this stuff?" by @[OTheB](https://mastodon.technology/@OTheB/102456866393573493)
+
+"Hi pixelfed! You just added a mandatory #Cloudflare ajax service to pixelfed.social? The page is empty now..." by @[antonlopez](https://mastodon.social/@antonlopez/102451687366539901)
+
+"Ich nutz hauptsächlich #Tor. Zwar #heuchelt #Cloudflare Tor-Freundlich zu sein, z.B. mit eigener Onion Adresse. Aber standardmäßig blocken die Tor Verbindungen, sofern man sie nicht freigibt.
+Zudem empfinde ich es nicht gerade als Datenschutzfreundlich, die Cloudflare Proxy Server zu nutzen. Vor allem, da Cloudflare dem Patriot Act untersteht." by @[kromonos](https://metalhead.club/@kromonos/102440347862158580)
+
+"außerdem empfinde ich persönlich es als Wohltuend, wenn die #CloudFlare #Fanboys mal genauso auf ein Forbidden stoßen, wie #TOR User all zu gern bei CloudFlare" by @[kromonos](https://metalhead.club/@kromonos/102447153687932571)
+
+"I think that I will stop using it, until they remove it from Cloudflare. I don't see it as something that is made for privacy if it decides to use Cloudflare for their main instance." by @[Robin](https://welovela.in/objects/456f3bba-ee24-48c5-92a3-7f80349dfbc3)
+
+"angesprochen sollten auch nur jene werden, die keine Ahnung haben, aber dann so tun, als hätten sie sie. IT Blogger, die Anleitungen dazu bringen, wie man die #Tor Exit Knoten Liste herunter lädt um die IP Adressen dann zu blockieren. Weil #CloudFlare ja gesagt hat.
+Und jene, die keine Ahnung haben ... denen ist die Meinung der wirklichen Experten scheiß egal. Die lauschen lieber auf jene, die mit ihrem gefährlichen Halbwissen das Internet verpesten." by @[kromonos](https://metalhead.club/@kromonos/102445550843368442)
+
+"Hyperbola members who don't care about #Cloudflare, which disrepect the privacy over violation of rule 3 of the social contract" by @[HarvettFox96](https://hostux.social/@HarvettFox96/102414243375270600)
+
+"Remember how the liars at #cloudflare pretended that had come under attack (causing major downtime), only later to admit that they broke their own service because they're technically incompetent. Avoid them." by @[schestowitz](https://pleroma.site/objects/a5533839-4678-4c06-975f-5ceceeaa793d)
+
+"is this instance using #Cloudflare somehow? Was getting errors from it when trying to access Mstdn yesterday." by @[orbifx](https://mstdn.io/@orbifx/102399186438337881)
+
+"They use #cloudflare for their Matrix.org and other servers they operate." by @[eo](https://masto.nixnet.xyz/@eo/102396215079147841)
+
+"They talk about "#decentralization", while being behind #cloudflare. awesome" by @[selea](https://social.linux.pizza/@selea/102387933088472002)
+
+"It's been estimated that today's #Cloudflare outage is effecting about 10% of all websites world-wide. If a lot of your online world is down right now, your word and research topic for the day is #decentralization" by @[raye](https://sunbeam.city/@raye/102372447641525998)
+
+"Seems like the world's biggest MiTM is down and took a rather large number of websites with it" by @[amolith](https://masto.nixnet.xyz/@amolith/102372539142565301)
+
+"So I guess #Liberapay is behind #TheGreatCloudwall now" by @[amolith](https://masto.nixnet.xyz/@amolith/102207994379806531)
+
+"I want to thank #Cloudflare for removing themselves from the internet." by @[Chuculate](https://niu.moe/@Chuculate/102378374675476776)
+
+"Yesterday it was #cloudflare today it's #facebook static content (images etc) don't load, seems like CDN problems too. Welcome to the centralized Internet..." by @[kravietz](https://social.privacytools.io/@kravietz/102378733712987218)
+
+"Qué es Cloudflare, cómo funciona y por qué cuando "se cae" parte de #internet se viene abajo" by @[GeekTale](https://mastodon.social/@GeekTale/102376704390517130)
+
+"Вчера упал #CloudFlare, из-за чего нарушилась работа крупнейших сервисов Интернета. Разработчики уже выпустили пост-мортем, из которого следует, что причиной падения стало – внимание – регулярное выражение, вызвавшее 100% нагрузку на CPU и, вследствие чего, множество 502-х ошибок в ответ на запросы." by @[Groosha](https://mastodon.social/@Groosha/102376274244244420)
+
+"Why you shouldn’t use services like #Cloudflare to enable „high availability“ " by @[f2k1de](https://chaos.social/@f2k1de/102375564327003058)
+
+"LMAO #cloudflare is down AGAIN?" by @[DashEquals](https://ap.torlipen.net/objects/4236a828-7ba9-4c2c-9c40-c217c1f1d4e3)
+
+"Natürlich bezahlst du nichts, dafür aber deine Besucher, die all ihre Daten und #Metadaten einem in den #USA durch den #PatriotAct verpflichteten Dienst in den Rachen werfen. Noch dazu ein Dienst, der auf den meisten Seiten #Tor blockiert. Fehler hin oder her ... Wer Datenschutz ernst nimmt, verzichtet auf #Cloudflare und ähnliche Dienste. Und wer doch einen Proxy vor seinem eigentlichen Dienst brauch, kann ihn ja selbst aufsetzen." by @[kromonos](https://metalhead.club/@kromonos/102372968538354130)
+
+"Remember #Cloudflare? The people #Mozilla wanted to send all your DNS traffic to?" by @[Sturmflut](https://mastodon.technology/@Sturmflut/102373000030566755)
+
+"That's when you understand single points of failures" by @[docbray](https://social.supernerdland.com/display/f7679b53-135d-1b7f-8446-841362829595)
+
+"Cloudflare a rapidement confirmé l’existence d’une vaste panne." by @[leshoshin](https://framapiaf.org/@leshoshin/102372515752847465)
+
+"How does an outfit that specializes in redundancy fail so bad in times like this? #Cloudflare Attributed to CPU spike. Huh? Like are they running on one machine in some dude's basement?" by @[cs](https://mastodon.sdf.org/@cs/102372444006745058)
+
+"I don't use #Cloudflare." by @[veer66](https://mstdn.io/@veer66/102372440964130575)
+
+"Cloudflare outage: this is the second time within the last few weeks, isn't it?" by @[fitheach](https://mstdn.io/@fitheach/102372404619232953)
+
+"So apparently a bunch of sites are down because #cloudflare is down?? Cool. coolcool." by @[fayelyon](https://switter.at/@fayelyon/102372397761279375)
+
+"#clowncomputing means you're not in control of your 'own' stuff. A guest in your own house." by @[schestowitz](https://pleroma.site/objects/19fa0942-f26c-4cd0-a6dd-79f8368bd014)
+
+"When your friends/geek mates/colleagues shout that "OMG!! #Cloudflare is down!" and you don't give a damn because you told them not to touch this" by @[schestowitz](https://pleroma.site/objects/8618055f-d96f-437b-a24e-01a4ed1140b3)
+
+"Yay, #cloudflare is down!" by @[DylanTheThomas](https://swingset.social/@DylanTheThomas/102372246983164931)
+
+"#cloudflare is down ,... is that's why I cannot reach my #matrix homeserver anymore?" by @[musicmatze](https://mastodon.technology/@musicmatze/102372217168515090)
+
+"Hahaha... Sehr geil  kaum kackt #krautflare ab, kann die Hälfte unserer #Frontend #Entwickler nicht mehr arbeiten, weil sie assets entweder vom #CDN bei #Cloudflare laden, oder von einer #Seite, die sich hinter deren proxy versteckt..." by @[kromonos](https://metalhead.club/@kromonos/102372240879706715)
+
+"cloudflare outage again and the irony is D E L I C I O U S " by @[gingervitis](https://meme.garden/@gingervitis/102372210875463531)
+
+"Allo Houston ? #Cloudflare est encore planté et a cassé une bonne partie du Web !" by @[DarvenDissek](https://mammouth.inframed.net/@DarvenDissek/102372195499429073)
+
+"When you can't rant about cloudflare being down because the downtime complaint site is using #cloudflare." by @[lerk](https://comm.network/@lerk/102372193410432044)
+
+"Bei den ganze #Cloudflare Problemen gerade freue ich mich richtig, dass es noch das Fediverse gibt" by @[clerie](https://fem.social/@clerie/102328746169300742)
+
+"kuketzblog lang lebe #Cloudflare... Nicht!" by @[kromonos](https://metalhead.club/@kromonos/102334756147882328)
+
+"they are too powerful, too big already. we dont' need to use them for time." by @[jeffcliff](https://niu.moe/@jeffcliff/102310896326359164)
+
+"#cloudflare is #proprietarysoftware. To matter matters even worse, it's centralised and attached to a political system which subjugates 100+ governments." by @[schestowitz](https://pleroma.site/objects/ec8ac84d-60c2-4001-900a-85938c18abda)
+
+"#itwire has self-immolated with #cloudflare Self-harming stupidity. Whose decision?" by @[schestowitz](https://pleroma.site/objects/e3d865f7-f161-4eae-a9d6-0764395af5bd)
+
+"oh, eine #Cloudflare erinnerung, dass ich die #DNS Server für kromonos.net auf deren einstellen soll ... What about .. NO!" by @[kromonos](https://metalhead.club/@kromonos/102297020699575415)
+
+"Ich wollte mal wieder bei LiberaPay vorbeischauen, dann springt mir #cloudflare entgegen. PayPal, Stripe und nun Cloudflare. Ein einst vielversprechendes Projekt schafft sich selbst ab." by @[kuketzblog](https://social.tchncs.de/@kuketzblog/102228512812286306)
+
+"It makes it really hard for us Tor-users to use liberapay actually. We do know about "Under Attack" mode already, and I would like you to reconsider and not use cloudflare :)" by @[selea](https://social.linux.pizza/@selea/102208159022447946)
+
+"What the fuck lowtechmagazine, you pull your fancy schmancy "oh were all low-bandwith and solar powered", but then you're behind FUCKING Cloudflare, banning ips (not even a captcha). Where's the low tech solarpunk shit huh, liberal hippie garbage" by @[f0x](https://social.pixie.town/@f0x/102204802211287233)
+
+"I'm pretty sure just throwing up your statically generated site on a random provider would be more energy efficient because it doesn't have to go through #Cloudflare's surveillance apparatus." by @[f0x](https://social.pixie.town/@f0x/102204938741162533)
+
+"No deja de llamar la atencion, que la inmensa mayoria de las instancias del #fediverso usen #cloudflare, el PEOR enemigo de la #privacidad y el #anonimato. ¿Sabian que cloudflare considera a #Tor una importante fuente de ataques DDoS, cuando no existen estudios que lo demuestren?" by @[rtfm](https://ieji.de/@rtfm/102177593596150087)
+
+"So that's the new level of #Cloudflare blocks on torproject? I thought things were supposedly being fixed. Get your shit together, Cloudflare" by @[shiro](https://chaos.social/@shiro/102169210470724880)
+
+"someone is trolling by trying to sign me up to cloudflare with my contact mails, thats creative?" by @[SolSoCoG](https://ieji.de/@SolSoCoG/102149695419969529)
+
+"The person who created an account with my email address is actually trying to get my site on #Cloudflare." by @[amolith](https://masto.nixnet.xyz/@amolith/102137632049061724)
+
+"Some delusional person out there must be madly in love with Cloudflare to pull this type of..." by @[caltlgin](https://masto.nixnet.xyz/@caltlgin/102129682739643046)
+
+"I opened my mailbox this morning to find someone had also tried to register a Cloudflare account with my email address." by @[sean](https://social.sdoconnell.net/@sean/102134290535440645)
+
+"I bet somebody who knows you hate Cloudflare is trolling you." by @[ataraxia937](https://fosstodon.org/@ataraxia937/102129849213530607)
+
+"It sabotaged users over serious concerns of non-privacy, censorship, unethical, deception and unfair experiences." by @[HarvettFox96](https://hostux.social/@HarvettFox96/102097087292348123)
+
+"Firefox is going to ship with DNS over HTTPS (DoH) by default soon. It will still use Cloudflare by default." by @[amolith](https://masto.nixnet.xyz/@amolith/101939482525255808)
+
+"Oh, #Cloudflare hat Konkurrenz bekommen?
+Jede Seite, die mich dazu drängt, ein #Google #Captcha zu lösen, damit ich mir die ansehen kann, schließe ich einfach direkt wieder" by @[kromonos](https://metalhead.club/@kromonos/102180075921056116)
+
+"How pathetic is life when becoming absolutely enraged after solving a #captcha 3 times but not being permitted to move forward." by @[hrthu](https://fosstodon.org/@hrthu/101987545210858236)
+
+"When #Cloudflare and #Google prevent you from watching a government's parliamentary debates. Does that count as interfering with democratic processes?" by @[MacLemon](https://chaos.social/@MacLemon/101862184608187348)
+
+"You definitely put yourself in big danger by using it. Cloudflare has an own CA that is able to issue certificates for ANY website." by @[sheogorath](https://microblog.shivering-isles.com/@sheogorath/102056520473398252)
+
+"Cloudflare is among the worst organisations I've seen from a privacy and security standpoint, same as Google, Facebook, et al." by @[amolith](https://masto.nixnet.xyz/@amolith/101919558389894089)
+
+"sometimes it feels like I'm the only one pushing against the #greatcloudwall" by @[jeffcliff](https://niu.moe/@jeffcliff/101117752770134814)
+
+"I liked them until I saw #Cloudflare." by @[amolith](https://masto.nixnet.xyz/@amolith/101588202702599511)
+
+"#Cloudflare #surveillance marketed as "fast"" by @[Dr. Roy](https://pleroma.site/objects/a24125f1-c3c3-4138-ad22-1fb9327b80c8)
+
+"Nothing says "our web developers are very competent" like putting your RSS feed URL behind a Cloudflare "please turn on javascript and reload the page" notice." by @[paul](https://social.device5.co.uk/@paul/101697354752109299)
+
+"I wonder if the implied subtext is that YOU ARE THE FOOL for using these services. :-) " by @[MateJ](https://social.matej-lach.me/@MatejLach/101851464970639410)
+
+"I dream of blocking #Cloudflare and #ReCaptcha" by @[Chuculate](https://niu.moe/@Chuculate/101834414084670347)
+
+"you can't solve a puzzle to prove that you're a human in the new version anymore. if google says you're a bot, then you're a bot." by @[leip4Ier](https://infosec.exchange/@leip4Ier/100983839919407633)
+
+"am i the only one being blocked by #Cloudflare before reaching Falkvinge's  article relating #NSA , and #GNU / #Linux systems... i'm puzzled, what am i missing ? " by @[hellekin](https://quitter.es/notice/4918810)
+
+------
+
 ###### Telegram
 
 Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https://t.me/privacytoday), etc
