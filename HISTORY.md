@@ -148,8 +148,6 @@ http://lists.clamav.net/pipermail/clamav-users/2018-November/thread.html
 
 * Previous *
 
-#### Project History
-
 
 This project was started by Shiro ([@shiromarieke@birdsite](https://add-link.here/)) and CryptoParty Berlin ([@cryptopartybln@birdsite](https://link-me.here/)).
 Shiro handed over support to the greater internet in summer 2016.
