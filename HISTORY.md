@@ -1,3 +1,7 @@
+*2019.08.29*
+
+The project URL is https://codeberg.org/themusicgod1/cloudflare-tor .
+
 *2019.08.05*
 
 @jeffcliff@niu.moe:
