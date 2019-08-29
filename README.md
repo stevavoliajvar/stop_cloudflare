@@ -216,7 +216,7 @@ There are more details of why what they are doing is wrong available [here](clou
 
 * Update the domain list: [List instructions](instructions.md)
 
-* Add WTF-Cloudflare news to [NEWS.md](NEWS.md)
+* Add Cloudflare or project related event to [HISTORY.md](HISTORY.md)
 
 * Try & write new [Tool / Script](tool/)
 
