@@ -4,28 +4,7 @@
 
 "_It's endangering the WWW and you're blocking readers who are protecting their privacy by using Tor._" -- [Mr. Jeff Cliff, BSc](https://twitter.com/jeffcliff1/status/992571841406537728)
 
-
-```
-format:
-	Not Twitter
-	> "[TITLE](https://full.link/blog.html)" by [Who](Link)
-	Twitter
-	 > "[SHORT TEXT]" by @[Who](Link)
-	Telegram
-	> ![](image/telegram/xxxxxxxxxxxxxxx.jpg)
-
-Sort:
-	Recent article: top
-
-Disqualify:
-	- Cloudflared website
-	- Cloudflare employee
-	- Twitter: too short text
-```
-
-
 ![](image/butitsdown.jpg)
-
 
 ------
 
