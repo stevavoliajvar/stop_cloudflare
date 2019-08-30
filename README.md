@@ -220,24 +220,10 @@ There are more details of why what they are doing is wrong available [here](clou
 
 * Try & write new [Tool / Script](tool/)
 
-* Want something to read? [PDF](pdf/)
-
-* Proofread [Jeff's writing](article.txt)
+* Want some [PDF](pdf/) to read?
 
 
 ![WTF](image/wtfcf.jpg)
-
-
-There are other lists, but this one is one where every entry on the list a human being has actually tried
-to go to, and has been blocked.
-Human is not a robot.
-
-* [List of services blocking Tor](https://trac.torproject.org/projects/tor/wiki/org/doc/ListOfServicesBlockingTor) by Tor project contributors
-* [Sites using cloudflare](https://github.com/pirate/sites-using-cloudflare) by pirate
-
-WARNING:
-Github.com is very hostile to Tor users. If you create an account on Github via Tor, your account will be automatically
-flagged for spam and will be deleted. See "List of services blocking Tor" for details.
 
 ![](image/twe_lb.jpg)
 
