@@ -1,6 +1,3 @@
-*2019.08.29*
-
-The project URL is https://codeberg.org/themusicgod1/cloudflare-tor .
 
 *2019.08.05*
 
@@ -145,11 +142,12 @@ https://weeaboo.space/objects/323a4b45-6e40-44f0-9108-77245638df7e
 http://forums.clamwin.com/viewtopic.php?t=4915
 http://lists.clamav.net/pipermail/clamav-users/2018-November/thread.html
 
+---
 
-* Previous *
+### Previous 
 
 
-This project was started by Shiro ([@shiromarieke@birdsite](https://add-link.here/)) and CryptoParty Berlin ([@cryptopartybln@birdsite](https://link-me.here/)).
+This project was started by Shiro (@shiromarieke@birdsite) and CryptoParty Berlin (@cryptopartybln@birdsite).
 Shiro handed over support to the greater internet in summer 2016.
 
 
