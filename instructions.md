@@ -52,8 +52,6 @@ Route 104.18.224.0/20
 
 2) How to add your data
 
-Type A: Push to Codeberg.org
-
 1. Log in to *Codeberg.org*.
 2. Click "*Fork*" button. (top-left corner)
 3. Edit text file.
