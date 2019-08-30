@@ -184,7 +184,7 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 ---
 
-This repository is a list of websites that are behind "_The Great Cloudwall_", and also actively blocking Tor users.
+This repository is a list of websites that are behind "_The Great Cloudwall_", and also blocking Tor users.
 
 
 **Data**
@@ -204,23 +204,21 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) by TheGoldenGoose8888
 * [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
-There are more details of why what they are doing is wrong available [here](cloudflare-philosophy.md).
-
 ![](image/watcloudflare.jpg)
 
 # What can you do?
 
-* Read [our list of recommended actions](what-to-do.md) and share it with your friends
+* Read [our list of recommended actions](what-to-do.md) and share it with your friends.
 
-* Read [other user's voice](PEOPLE.md) and write your thoughts
+* Read [other user's voice](PEOPLE.md) and write your thoughts.
 
-* Update the domain list: [List instructions](instructions.md)
+* Update the domain list: [List instructions](instructions.md).
 
-* Add Cloudflare or project related event to [HISTORY.md](HISTORY.md)
+* Add Cloudflare or project related event to [history](HISTORY.md).
 
-* Try & write new [Tool / Script](tool/)
+* Try & write new [Tool / Script](tool/).
 
-* Want some [PDF](pdf/) to read?
+* Here's some [PDF](pdf/) to read.
 
 
 ![WTF](image/wtfcf.jpg)
