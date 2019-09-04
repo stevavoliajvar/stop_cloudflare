@@ -52,7 +52,7 @@
 
 "[Does Cloudflare help my WordPress site?](https://seravo.com/blog/does-cloudflare-help-my-wordpress-site/)" by [Seravo](https://seravo.com/)
 
-"[Say no to Cloudflare](https://robinwils.gitlab.io/articles/say-no-to-cloudflare.html)" by [Robin Wils](https://robinwils.gitlab.io/contact.html)
+"[Say no to Cloudflare](https://robinwils.gitlab.io/articles/say-no-to-cloudflare/)" by [Robin Wils](https://robinwils.gitlab.io/contact/)
 
 "[Why I Stopped Using CloudFlare](https://www.reviewhell.com/blog/cloudflare-makes-websites-slower/)" by [Review Hell](https://www.reviewhell.com/)
 
@@ -1864,7 +1864,7 @@
 
 "GitLab sits behind Cloudflare and is hosted by Google – while Codeberg runs on Codeberg hardware and has no MITM. Much valued, especially for privacy reasons. Want more reasons against Cloudflare?" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102662955566633818)
 
-"Ha, and the instance which you use, serves images through Cloudflare, so I can't see your profile picture." by @[rmw](https://welovela.in/objects/ac515a8f-a596-49a1-8ddd-3f7618551d33)
+"Ha, and the instance which you use, serves images through Cloudflare, so I can't see your profile picture." by @[rmw](https://welovela.in/rmw)
 
 "Now, whenever that pops up, I just close the tab – and ask someone else to update. I've got no time to play memory puzzles. Got more important stuff to do." by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102667841048225494)
 
@@ -1935,7 +1935,7 @@ Ich als Anbieter könnte echt nicht mit dem Gewissen leben,meine Besucher so zu 
 
 "Really disappointed and a little disgusted by the #Matrix team. Putting #Cloudflare spyware on their main instance, forcing every user to either go through the malicious wall or to use a homeserver that doesn't federate with matrix.org thus cutting itself off from just about everything. Will be giving #XMPP a go today. Wonder if that community has even the tiniest bit of respect for users." by @[OTheB](https://mastodon.technology/@OTheB/102456355379841384)
 
-"Even the main instance uses Cloudflare. New users will probably just use the main instance for convenience." by @[RMW](https://linuxrocks.online/@RMW/102457086242309937)
+"Even the main instance uses Cloudflare. New users will probably just use the main instance for convenience." by @[RMW](https://linuxrocks.online/@RMW)
 
 "Don't laugh when #cloudflare says “the network is the computer.” They mean #surveillance and they mean the surveillance goes all the way to the endpoints. Boycott them and their nefarious agenda." by @[roy](https://pleroma.site/objects/1ddf444d-0f2c-4d0d-bc11-e06f28efd5bc)
 
