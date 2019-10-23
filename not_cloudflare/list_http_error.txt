@@ -15,6 +15,7 @@ cheaptickets.com 403
 citizensbankonline.com 403
 cnbc.com 403
 curbed.com 403
+culiance.com 403
 delishably.com 403
 delta.com 403
 dengarden.com 403
@@ -40,6 +41,7 @@ hot-topic.co.nz 403
 hotwire.com 403
 hubpages.com 403
 hunker.com 403
+huntington.com 403
 ibanking-services.com 403
 intra.ruc.dk 403
 irs.gov 403
@@ -70,6 +72,7 @@ retailmenot.com 403
 rijksoverheid.nl 403
 riteaid.com 403
 safeco.com 403
+sapling.com 403
 sec.gov 403
 securifi.com 403
 signon.ruc.dk 403
