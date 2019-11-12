@@ -318,7 +318,7 @@
 ###### Twitter (aka "Birdsite")
 
 
-> Too many to list here. [See for yourself](https://twitter.com/search?q=Cloudflare).
+> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
 "Looks like Cloudflare is broken - 429 error." by @[RHJOfficial](https://twitter.com/RHJOfficial/status/1192398412911652864)
@@ -1909,7 +1909,7 @@
 ######  Mastodon
 
 
-> Too many to list here. [See for yourself](https://mastodon.social/tags/cloudflare).
+> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
 
 "interessant, eine Website a la github, die die Umtriebe von #cloudflare dokumentiert" by @[alm10965](https://social.bau-ha.us/@alm10965/102670940812325433)
