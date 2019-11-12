@@ -186,9 +186,12 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 This repository is a list of websites that are behind "_The Great Cloudwall_", and also blocking Tor users.
 
+![](image/chart_cfdom.jpg)
+
 
 **Data**
 * [Cloudflare Users](cloudflare_users/)
+* [Cloudflare Domains](cloudflare_users/domains/)
 * [Cloudflare Inc.](cloudflare_inc/)
 * [Domains: Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
@@ -207,6 +210,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 * [CloudFlare is asking for charitable contributions.](https://web.archive.org/web/https://opencollective.com/cloudflarecollective#section-about)
 
 ![](image/watcloudflare.jpg)
+
 
 # What can you do?
 
