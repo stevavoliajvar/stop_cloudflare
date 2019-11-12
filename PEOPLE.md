@@ -333,6 +333,12 @@
 
 "I keep getting "Error 1016 Ray ID Origin DNS error" which is a Cloudflare error" by @[7leaguebootdisk](https://twitter.com/7leaguebootdisk/status/1193617137039888385)
 
+"Cloudflare's WARP VPN is now available to everyone. I tried it and it made the internet so slow it was unusable" by @[waddling](https://twitter.com/waddling/status/1177615384616325120)
+
+"Unfortunately I live in Mobile Third World country (Germany) and unfortunately warp seems to slow down or even block my devices instead of improving anything." by @[raupach](https://twitter.com/raupach/status/1189132930486034432)
+
+"I use 1.1.1.1 with warp. But the speed is very slow. I just turned warp off and my speed is about 1000% faster on my iPhone. When will you fix this bug? I payed for unlimited use." by @[tombalfoort](https://twitter.com/tombalfoort/status/1179724521575735296)
+
 "Hi, I'm not sure what you can do, but I've been having issues accessing your site for the last week. I keep getting a 502 error or sometimes "this page is currently offline". Looks like it might be an issue with Cloudflare. I'm using Firefox." by @[MrB0nd07](https://twitter.com/MrB0nd07/status/1193916853325836288)
 
 "Outage today? Getting the "web server reported a gateway time-out" error" by @[knapjack](https://twitter.com/knapjack/status/1194002384273338368)
