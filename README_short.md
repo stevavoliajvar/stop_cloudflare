@@ -1,7 +1,7 @@
 # CrimeFlarE
 ***Why you should say no to Cloudflare***
 
-![CrimeFlarE logo](.readme-resources/images/crimeflare-logo.png)
+![CrimeFlarE logo](image/crimeflare-logo.png)
 
 Are you already aware of the problems?
 You might want to check:
@@ -9,7 +9,7 @@ You might want to check:
 - [Solutions](#solutions)
 
 ## Who are we?
-CrimeFlarE is a group of volunteer Tor, privacy and net neutrality
+`CrimeFlarE` is a group of volunteer Tor, privacy and net neutrality
 enthusiasts working to counter CloudFlare’s oppressive attack on the Tor 
 community and reduce the harms CloudFlare brings to all users (Tor users and 
 clearnet users).
