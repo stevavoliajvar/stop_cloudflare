@@ -50,6 +50,10 @@
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Cloudflare - why the fuss?](https://decentralize.today/decentralization/cloudflare-why-the-fuss)" by [O S Layman](https://decentralize.today/cryptocurrency/blogger/big-h)
+
+"[Cloudflare considered harmful](https://www.devever.net/~hl/cloudflare)"
+
 "[Does Cloudflare help my WordPress site?](https://seravo.com/blog/does-cloudflare-help-my-wordpress-site/)" by [Seravo](https://seravo.com/)
 
 "[Say no to Cloudflare](https://robinwils.gitlab.io/articles/say-no-to-cloudflare/)" by [Robin Wils](https://robinwils.gitlab.io/contact/)
@@ -115,6 +119,8 @@
 ------
 
 ######  Forum / Wiki
+
+"[That's not how the web works, sorry. Cheers](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=941394)"
 
 "[Pale Moon developer shows disdain for Tor and people who combat Cloudflare MITM](https://www.reddit.com/r/privacy/comments/cnqwr3/pale_moon_developer_shows_disdain_for_tor_and/)" by [vargasgetulio](https://www.reddit.com/user/vargasgetulio/)
 
