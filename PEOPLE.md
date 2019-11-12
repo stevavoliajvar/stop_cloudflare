@@ -321,6 +321,54 @@
 > Too many to list here. [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"Looks like Cloudflare is broken - 429 error." by @[RHJOfficial](https://twitter.com/RHJOfficial/status/1192398412911652864)
+
+"I've been trying for almost 1,5 hour to order something in the outlet store. Keep getting "Cloudflare error 524" or "503 Service Unavailable"." by @[JWestra11](https://twitter.com/JWestra11/status/1192416998065627138)
+
+"can’t checkout online, tried cards from three different banks and always get a cloudflare error after card verification. Any idea?" by @[rossburton](https://twitter.com/rossburton/status/1192808969250717696)
+
+"Hey  Pinterest, you're DNS is down Origin DNS error" by @[DemosthenesPol](https://twitter.com/DemosthenesPol/status/1192831438707548160)
+
+"the one site that has the one show that I like, and is the only site I know of that has it, is giving me the cloudflare bad gateway error " by @[otomequeene](https://twitter.com/otomequeene/status/1193397915844263937)
+
+"I keep getting "Error 1016 Ray ID Origin DNS error" which is a Cloudflare error" by @[7leaguebootdisk](https://twitter.com/7leaguebootdisk/status/1193617137039888385)
+
+"Hi, I'm not sure what you can do, but I've been having issues accessing your site for the last week. I keep getting a 502 error or sometimes "this page is currently offline". Looks like it might be an issue with Cloudflare. I'm using Firefox." by @[MrB0nd07](https://twitter.com/MrB0nd07/status/1193916853325836288)
+
+"Outage today? Getting the "web server reported a gateway time-out" error" by @[knapjack](https://twitter.com/knapjack/status/1194002384273338368)
+
+"Great...now @VPSCheap_NET is using cloudflare to block legitimate customers from accessing the client area. I have no plans to use the Net without the protection of a VPN, so may have to take my virtual servers elsewhere." by @[CFSummers](https://twitter.com/CFSummers/status/1189932851564818432)
+
+"You mean you offload your problems onto legit customers by using cloudflare to block every VPN you can find. Emailing isn't going to help, since I have no intention of surfing w/o one. So will start looking for a company that cares about customer security." by @[CFSummers](https://twitter.com/CFSummers/status/1189941994170269696)
+
+"You actually don't get it - I CAN NOT OPEN A SUPPORT TICKET. I cannot access the client area because you are blocking my VPN's access. Using a VPN IS a part of MY security. Will make sure clients who have servers there & others also know how little you care..." by @[CFSummers](https://twitter.com/CFSummers/status/1189945582699384832)
+
+"is cloudflare happy to allow isps to block websites in pakistan for no reason at all. the whole point of using cloudflare dns was to access blocked websites and since u partnered with ptcl in pakistan the blocking has started again?? r u even aware of this shit?" by @[untitled413](https://twitter.com/untitled413/status/1192110658353061889)
+
+"Since 22nd Oct I was getting "Sorry, you have been blocked" CF message on DO website. No help from DO." by @[zedfoxus](https://twitter.com/zedfoxus/status/1194124693067812864)
+
+"I really wanted to like it but I found so much content being blocked (Tidal for example) it wasn't usable for me. Do you not have any media streaming issues?" by @[chadl2](https://twitter.com/chadl2/status/1193432188923961345)
+
+"I recommend you stop 'just blocking' people for the hell of it.  You've blocked my IP for no reason.  You do realize that these IPs are handed out by the ISP all day long and change often, or are you new to IT?" by @[random_interrup](https://twitter.com/random_interrup/status/1191785034547650561)
+
+"If someone finds themselves wrongly blocked, they can't go to Cloudflare to complain because Cloudflare has blocked them from that site as well.  So every day they sentence thousands of people to Internet purgatory because they got randomly handed an  IP address they blocked." by @[random_interrup](https://twitter.com/random_interrup/status/1191798471914852352)
+
+"Y'all need to dump Cloudflare .  I'm blocked from your site without cause.  ISPs randomly hand out IPs all day and I've inherited one they've blocked.  This garbage directly impacts your business and shows how poor Cloudflare design is." by @[random_interrup](https://twitter.com/random_interrup/status/1191798470585323520)
+
+"I cycle the IP and now I'm in.  If I were a malicous actor I could do the same.  Some security feature.  Now some other guy can be blocked." by @[random_interrup](https://twitter.com/random_interrup/status/1191800765490368513)
+
+"I got some weird “redirecting, checking my browser” message - I thought it was on my end." by @[Cindy_M_McCraw](https://twitter.com/Cindy_M_McCraw/status/1193246807435948032)
+
+"The answer appears to be Cloudflare: the CAPTCHA-wall was theirs, and I'd recently looked at an unrelated site they host that was under their DDoS protection, so I bet that's why I was on the naughty list." by @[xlerb](https://twitter.com/xlerb/status/1189530664606953473)
+
+"CloudFlare is currently f’ed up and I can’t log into my account: the login screen sends me to a captcha which sends me back to a login screen, repeat forever." by @[kstrauser](https://twitter.com/kstrauser/status/1191082449511440384)
+
+"I wonder if Google is funding Cloudflare in exchange for them to put their CAPTCHA on as many users as possible. Would make total sense google need users to train machine learning algorithms. Cloudflare can market it as a service while deceiving webmasters " by @[catgirlsec](https://twitter.com/catgirlsec/status/1192161900810973184)
+
+"Furaffinity Cloudflare protection is so good that even artists can't upload anything" by @[PaigeScribe](https://twitter.com/PaigeScribe/status/1194042797680054272)
+
+"Hi, we can't log in this morning..." by @[isaacgrover](https://twitter.com/isaacgrover/status/1192430529032810497)
+
 "Your site just went down when I was mid-course, whats the problem? Something with Cloudflare..." by @[Best__Lux](https://twitter.com/Best__Lux/status/1164673967552004096)
 
 "looks like cloudflare are blocking requests. Will need a cool off period before it starts accepting again." by @[TheCryptarch](https://twitter.com/TheCryptarch/status/1164256030039035904)
