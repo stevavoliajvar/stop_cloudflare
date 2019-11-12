@@ -1,5 +1,6 @@
 https://github.com/4-FLOSS-Free-Libre-Open-Source-Software
 https://github.com/BurungHantu1605
+https://github.com/HLFH
 https://github.com/Herohtar
 https://github.com/Hillside502
 https://github.com/Matir
@@ -44,6 +45,12 @@ https://github.com/x5engine
 https://github.com/yegortimoshenko
 https://infosec.exchange/@slh
 https://mastodon.xyz/@Liberapay
+https://opencollective.com/andrew-fitch
+https://opencollective.com/connor-peshek
+https://opencollective.com/cristian-bicheru
+https://opencollective.com/jadewang
+https://opencollective.com/junade
+https://opencollective.com/mabin
 https://social.avareborn.de/@nipos
 https://social.privacytools.io/@BurungHantu
 https://social.tchncs.de/@wallichii
