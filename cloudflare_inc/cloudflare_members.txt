@@ -29,6 +29,8 @@ Kristian Freeman | Developer | https://twitter.com/imkmf https://www.signalnerve
 Shannon Colin | Employee | https://twitter.com/ShannonColin1
 Matthew Gall | Trust & Safety Engineer | https://twitter.com/matthewgall  mgall@cloudflare.com
 Tim Obezuk | Solutions Engineer | https://github.com/obezuk https://www.linkedin.com/in/obezuk
+Jade Wang | Employee | https://opencollective.com/jadewang https://twitter.com/_devrel/status/1004055740808491008
+Andrew Fitch | Developer | https://twitter.com/fitchaj
 
 
 Ex-employee:
