@@ -1,6 +1,8 @@
 # CrimeFlarE
 ***Why you should say no to Cloudflare***
 
+`This is a draft`
+
 ![CrimeFlarE logo](image/crimeflare-logo.png)
 
 Are you already aware of the problems?
@@ -31,7 +33,7 @@ Cloudflare goes down from time to time. All the content which uses Cloudflare
 goes down as well when that happens.
 
 Read more about the 
-[single point of failure](.readme-resources/single-point-of-failure-problem.md).
+[single point of failure](subtext/single-point-of-failure-problem.md).
 *ADD IMAGE*
 
 #### It removes anonymity
@@ -40,21 +42,21 @@ website or content. Tor is not only for criminals. It is important for many
 people and everyone has the right on privacy.
 
 Tor is important, read more about 
-[why Tor matters](.readme-resources/why-tor-matters.md).
+[why Tor matters](subtext/why-tor-matters.md).
 
 Cloudflare often uses Google reCATPCHAs to check if you are human. These
 CAPTCHAs which check if you are human, track you and many claim that they
 even try to find out which human you are.
 
 Read more about the
-[reCAPTCHA problem](.readme-resources/recaptcha-problem.md).
+[reCAPTCHA problem](subtext/recaptcha-problem.md).
 
 #### Project Honey Pot
 Project Honey Pot is a project which collects a lot of personal data
 and much of that data is from innocent people who deserve privacy.
 Cloudflare was created by people who worked on that project.
 
-![Honeypot](.readme-resources/images/honeypot.png)
+![Honeypot](image/honeypot.gif)
 
 ### Not convenient
 Cloudflare is not convenient for many visitors of your site. You will
@@ -70,22 +72,22 @@ leave your site when they see this.
 ### Other problems
 There are other problems as well, but we want to keep this file simple.
 Those problems are listed in
-[another file](.readme-resources/more-cloudflare-problems.md).
+[another file](subtext/more-cloudflare-problems.md).
 
 ## Alternatives
 Do own a website?  
 We created a
-[file with Cloudflare alternatives](.readme-resources/cloudflare-alternatives.md)
+[file with Cloudflare alternatives](subtext/cloudflare-alternatives.md)
 to make your life easier if you agree with us.
 ## Solutions
 ### Blocking Cloudflare request or IPs
-- [Add-ons](.readme-resources/solutions/add-ons.md)
-- [Cloudflare IPs to block](.readme-resources/solutions/cloudflare-ips.md)
-- [Change default DNS provider of firefox](.readme-resources/solutions/change-firefox-dns.md)
+- [Add-ons](subtext/solutions/add-ons.md)
+- [Cloudflare IPs to block](subtext/solutions/cloudflare-ips.md)
+- [Change default DNS provider of firefox](subtext/solutions/change-firefox-dns.md)
 
 ### Share information about the problem
 Many supporters of CrimeFlarE have written some
-[articles](.readme-resources/articles.md) about the problem.
+[articles](subtext/articles.md) about the problem.
 You can check them out and share them.
 
 You can ask website owners to stop using Cloudflare, please do so in
@@ -96,7 +98,7 @@ We haven't included them all in the README to keep it fairly readable.
 
 ## Not convinced yet?
 Many supporters of CrimeFlarE have written some
-[articles](.readme-resources/articles.md) about the problem.
+[articles](subtext/articles.md) about the problem.
 You can check them out and share them.
 
 Still not convinced?  
