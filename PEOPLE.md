@@ -260,6 +260,18 @@
 
 ######  Microsoft GitHub
 
+"Handle new cloudflare blocking" by [krues8dr](https://github.com/krues8dr/lazuli/issues/29)
+
+"Add cloudflare to blocked services" by [AdguardTeam](https://github.com/AdguardTeam/AdGuardHome/pull/1155/commits/d42d475d1b4376055adee3e6181c9a5624af7525)
+
+"Cloudflare blocks feed update" by [QuiteRSS](https://github.com/QuiteRSS/quiterss/issues/1076)
+
+"[Bug] API blocked by CloudFlare" by [angel-penchev](https://github.com/angel-penchev/globaloffensive-predictor/issues/4)
+
+"Cloudflare blocks me when trying to include jQuery" by [jsperf](https://github.com/jsperf/jsperf.com/issues/518)
+
+"Cloudflare blocks this client library" by [apixu](https://github.com/apixu/apixu-java/issues/1)
+
 "[blocked by cloudflare](https://github.com/thinkle/gourmet/issues/885)" by [imesg](https://github.com/imesg)
 
 "[Cloudflare blocked](https://github.com/sinkaroid/Hentai2read-Grabber/issues/1)" by [sinkaroid](https://github.com/sinkaroid)
@@ -336,6 +348,10 @@
 "Looks like Cloudflare is broken - 429 error." by @[RHJOfficial](https://twitter.com/RHJOfficial/status/1192398412911652864)
 
 "I've been trying for almost 1,5 hour to order something in the outlet store. Keep getting "Cloudflare error 524" or "503 Service Unavailable"." by @[JWestra11](https://twitter.com/JWestra11/status/1192416998065627138)
+
+"Don't install Cloudflare's WARP "VPN". This is NOT A VPN by their own admission, and is a privacy MINEFIELD. This is a jaw dropping TOS, and I'm only a few paragraphs in." by @[notdan](https://twitter.com/notdan/status/1178339685795598336)
+
+"Consumers simply do not stand a chance in hell these days understanding the technology surrounding them." by @[notdan](https://twitter.com/notdan/status/1178384818352066563)
 
 "can’t checkout online, tried cards from three different banks and always get a cloudflare error after card verification. Any idea?" by @[rossburton](https://twitter.com/rossburton/status/1192808969250717696)
 
