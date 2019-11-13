@@ -73,12 +73,15 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 | Name | Developer | Support | Can Block | Can Notify |
 | -------- | -------- | -------- | -------- | -------- |
+| **[Bloku Cloudflaron MITM-Atakon](https://searxes.eu.org/)** | Searxes | [Link](https://searxes.eu.org/) | **Yes**     | **Yes**     |
+| **[Ĉu ligoj estas vundeblaj al MITM-atako?](https://searxes.eu.org/)** | Searxes | [Link](https://searxes.eu.org/) | No     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 | [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) | Gokulakrishna Sudharsan | [Link](https://web.archive.org/web/https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
 
 
 - Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
+- If you cannot use Tor for some reason, you can use Tor Browser without Tor. We'll show you how below.
 
 ------------
 
@@ -221,8 +224,10 @@ There is no 100% secure nor 100% private on the internet and technology.
 > 1. Download [Tor Browser](https://www.torproject.org/) and launch it.
 > 2. Open Add-ons Manager (about:addons) and *disable* EVERYTHING but "*Torbutton*". **Do NOT *remove* them**.
 > 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*true*".
-> 4. Go to Options, scroll down to "*Network Proxy*". Click "*Settings*" and select "*No proxy*".
+> 4. Create new boolean "*extensions.torlauncher.start_tor*". Set it to "*false*".
 > 5. Close Tor Browser.
+>
+> (In version 9.0, Tor project suddenly removed the ability to set custom proxy. Ask your friend for help if you still unable to disable Tor.)
 > 
 > Other guide is [here](https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor).
 

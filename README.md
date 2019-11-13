@@ -146,9 +146,9 @@ Is there any way you would sell us that data?
 
 ---
 
-Cloudflare also offer _FREE_ VPN service called "[Cloudflare Warp](https://blog.cloudflare.com/1111-warp-better-vpn/)". If you use it, all your smartphone connections are sent to Cloudflare servers. Cloudflare can know which website you've read, what comment you've posted, who you've talked to, etc. You are voluntary giving [all your information](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-478686469) to Cloudflare. If you think "_Are you joking? Cloudflare is secure._" then you need to learn how [VPN works](https://en.wikipedia.org/wiki/VPN).
+Cloudflare also offer _FREE_ VPN service called "[Cloudflare Warp](https://blog.cloudflare.com/1111-warp-better-vpn/)". If you use it, all your smartphone ([or your computer](https://techniapps.com/2019/09/26/download-cloudflare-warp-vpn-for-pc-windows-10-mac/)) connections are sent to Cloudflare servers. Cloudflare can know which website you've read, what comment you've posted, who you've talked to, etc. You are voluntary giving [all your information](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-478686469) to Cloudflare. If you think "_Are you joking? Cloudflare is secure._" then you need to learn how [VPN works](https://en.wikipedia.org/wiki/VPN).
 
-Cloudflare said their VPN service make your internet [fast](https://www.wired.com/story/cloudflare-says-new-vpn-service-wont-slow-you-down/). But VPN make your internet connection _slower_ [than your existing connection](https://techcrunch.com/2019/04/01/cloudflares-warp-is-a-vpn-that-might-actually-make-your-mobile-connection-better/).
+Cloudflare said their VPN service make your internet [fast](https://www.wired.com/story/cloudflare-says-new-vpn-service-wont-slow-you-down/). But VPN make your internet connection _slower_ than [your](https://twitter.com/ExYakuza/status/1182317536089526273) [existing](https://twitter.com/waddling/status/1177615384616325120) [connection](https://techcrunch.com/2019/04/01/cloudflares-warp-is-a-vpn-that-might-actually-make-your-mobile-connection-better/).
 
 ---
 
@@ -189,6 +189,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 
 **Data**
 * [Cloudflare Users](cloudflare_users/)
+* [Cloudflare Domains](cloudflare_users/domains/)
 * [Cloudflare Inc.](cloudflare_inc/)
 * [Domains: Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
 
@@ -196,6 +197,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 
 
 **Information**
+* [Short version of README](README_short.md)
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
 * [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
@@ -203,14 +205,18 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 * [Cloudflare Watch](http://www.crimeflare.org:82/) (cons: _down quite a lot, old data, search restricted to EU only_)
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) by TheGoldenGoose8888
 * [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
+* [CloudFlare is asking for charitable contributions.](https://web.archive.org/web/https://opencollective.com/cloudflarecollective#section-about)
 
 ![](image/watcloudflare.jpg)
+
 
 # What can you do?
 
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends.
 
 * Read [other user's voice](PEOPLE.md) and write your thoughts.
+
+* Search something on [Ansero](http://ansero.xgwglrypkjbgecns2zru5ekyu7tnqgg7l5blojlq7roohxbwkr5k77id.onion/) or [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/).    ([clearnet](https://searxes.eu.org/))
 
 * Update the domain list: [List instructions](instructions.md).
 

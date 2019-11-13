@@ -50,6 +50,10 @@
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Cloudflare - why the fuss?](https://decentralize.today/decentralization/cloudflare-why-the-fuss)" by [O S Layman](https://decentralize.today/cryptocurrency/blogger/big-h)
+
+"[Cloudflare considered harmful](https://www.devever.net/~hl/cloudflare)"
+
 "[Does Cloudflare help my WordPress site?](https://seravo.com/blog/does-cloudflare-help-my-wordpress-site/)" by [Seravo](https://seravo.com/)
 
 "[Say no to Cloudflare](https://robinwils.gitlab.io/articles/say-no-to-cloudflare/)" by [Robin Wils](https://robinwils.gitlab.io/contact/)
@@ -115,6 +119,8 @@
 ------
 
 ######  Forum / Wiki
+
+"[That's not how the web works, sorry. Cheers](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=941394)"
 
 "[Pale Moon developer shows disdain for Tor and people who combat Cloudflare MITM](https://www.reddit.com/r/privacy/comments/cnqwr3/pale_moon_developer_shows_disdain_for_tor_and/)" by [vargasgetulio](https://www.reddit.com/user/vargasgetulio/)
 
@@ -312,8 +318,74 @@
 ###### Twitter (aka "Birdsite")
 
 
-> Too many to list here. [See for yourself](https://twitter.com/search?q=Cloudflare).
+> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
+
+""We have blocked you from visiting a webpage so contact the webpage owner to resolve the issue".  Ummm…. how do you contact the webpage owner when you have blocked everyone in Singapore from seeing the webpage's "contact us"?" by @[MichaelSmithSG](https://twitter.com/MichaelSmithSG/status/1194515123903164416)
+
+"hi, what's wrong with ASN 12714 that you're blocking on Cloudflare?" by @[cjmaxik](https://twitter.com/cjmaxik/status/1193842746605408256)
+
+"I've tried Cloudflare, but they somehow blocked one of my bank sites, so I went with Google DNS instead." by @[nanianmichaels](https://twitter.com/nanianmichaels/status/1194688408985227264)
+
+"Cloudflare attempted to CENSOR this negative review on Trustpilot." by @[phyzonloop](https://twitter.com/phyzonloop/status/1194458264026660864)
+
+"Also, can anyone from UKLabour  or Cloudflare explain why I haven't been able to access the Labour Party website for a day?" by @[BernieSnell](https://twitter.com/BernieSnell/status/1194688395164950528)
+
+"You having a bad day ? I am having voip trouble, tried logging in to your customer-zone and getting cloudflare errors.." by @[4t4ri](https://twitter.com/4t4ri/status/1194613025535381505)
+
+"Looks like Cloudflare is broken - 429 error." by @[RHJOfficial](https://twitter.com/RHJOfficial/status/1192398412911652864)
+
+"I've been trying for almost 1,5 hour to order something in the outlet store. Keep getting "Cloudflare error 524" or "503 Service Unavailable"." by @[JWestra11](https://twitter.com/JWestra11/status/1192416998065627138)
+
+"can’t checkout online, tried cards from three different banks and always get a cloudflare error after card verification. Any idea?" by @[rossburton](https://twitter.com/rossburton/status/1192808969250717696)
+
+"Hey  Pinterest, you're DNS is down Origin DNS error" by @[DemosthenesPol](https://twitter.com/DemosthenesPol/status/1192831438707548160)
+
+"the one site that has the one show that I like, and is the only site I know of that has it, is giving me the cloudflare bad gateway error " by @[otomequeene](https://twitter.com/otomequeene/status/1193397915844263937)
+
+"I keep getting "Error 1016 Ray ID Origin DNS error" which is a Cloudflare error" by @[7leaguebootdisk](https://twitter.com/7leaguebootdisk/status/1193617137039888385)
+
+"Cloudflare's WARP VPN is now available to everyone. I tried it and it made the internet so slow it was unusable" by @[waddling](https://twitter.com/waddling/status/1177615384616325120)
+
+"Unfortunately I live in Mobile Third World country (Germany) and unfortunately warp seems to slow down or even block my devices instead of improving anything." by @[raupach](https://twitter.com/raupach/status/1189132930486034432)
+
+"I use 1.1.1.1 with warp. But the speed is very slow. I just turned warp off and my speed is about 1000% faster on my iPhone. When will you fix this bug? I payed for unlimited use." by @[tombalfoort](https://twitter.com/tombalfoort/status/1179724521575735296)
+
+"Hi, I'm not sure what you can do, but I've been having issues accessing your site for the last week. I keep getting a 502 error or sometimes "this page is currently offline". Looks like it might be an issue with Cloudflare. I'm using Firefox." by @[MrB0nd07](https://twitter.com/MrB0nd07/status/1193916853325836288)
+
+"Outage today? Getting the "web server reported a gateway time-out" error" by @[knapjack](https://twitter.com/knapjack/status/1194002384273338368)
+
+"Great...now @VPSCheap_NET is using cloudflare to block legitimate customers from accessing the client area. I have no plans to use the Net without the protection of a VPN, so may have to take my virtual servers elsewhere." by @[CFSummers](https://twitter.com/CFSummers/status/1189932851564818432)
+
+"You mean you offload your problems onto legit customers by using cloudflare to block every VPN you can find. Emailing isn't going to help, since I have no intention of surfing w/o one. So will start looking for a company that cares about customer security." by @[CFSummers](https://twitter.com/CFSummers/status/1189941994170269696)
+
+"You actually don't get it - I CAN NOT OPEN A SUPPORT TICKET. I cannot access the client area because you are blocking my VPN's access. Using a VPN IS a part of MY security. Will make sure clients who have servers there & others also know how little you care..." by @[CFSummers](https://twitter.com/CFSummers/status/1189945582699384832)
+
+"is cloudflare happy to allow isps to block websites in pakistan for no reason at all. the whole point of using cloudflare dns was to access blocked websites and since u partnered with ptcl in pakistan the blocking has started again?? r u even aware of this shit?" by @[untitled413](https://twitter.com/untitled413/status/1192110658353061889)
+
+"Since 22nd Oct I was getting "Sorry, you have been blocked" CF message on DO website. No help from DO." by @[zedfoxus](https://twitter.com/zedfoxus/status/1194124693067812864)
+
+"I really wanted to like it but I found so much content being blocked (Tidal for example) it wasn't usable for me. Do you not have any media streaming issues?" by @[chadl2](https://twitter.com/chadl2/status/1193432188923961345)
+
+"I recommend you stop 'just blocking' people for the hell of it.  You've blocked my IP for no reason.  You do realize that these IPs are handed out by the ISP all day long and change often, or are you new to IT?" by @[random_interrup](https://twitter.com/random_interrup/status/1191785034547650561)
+
+"If someone finds themselves wrongly blocked, they can't go to Cloudflare to complain because Cloudflare has blocked them from that site as well.  So every day they sentence thousands of people to Internet purgatory because they got randomly handed an  IP address they blocked." by @[random_interrup](https://twitter.com/random_interrup/status/1191798471914852352)
+
+"Y'all need to dump Cloudflare .  I'm blocked from your site without cause.  ISPs randomly hand out IPs all day and I've inherited one they've blocked.  This garbage directly impacts your business and shows how poor Cloudflare design is." by @[random_interrup](https://twitter.com/random_interrup/status/1191798470585323520)
+
+"I cycle the IP and now I'm in.  If I were a malicous actor I could do the same.  Some security feature.  Now some other guy can be blocked." by @[random_interrup](https://twitter.com/random_interrup/status/1191800765490368513)
+
+"I got some weird “redirecting, checking my browser” message - I thought it was on my end." by @[Cindy_M_McCraw](https://twitter.com/Cindy_M_McCraw/status/1193246807435948032)
+
+"The answer appears to be Cloudflare: the CAPTCHA-wall was theirs, and I'd recently looked at an unrelated site they host that was under their DDoS protection, so I bet that's why I was on the naughty list." by @[xlerb](https://twitter.com/xlerb/status/1189530664606953473)
+
+"CloudFlare is currently f’ed up and I can’t log into my account: the login screen sends me to a captcha which sends me back to a login screen, repeat forever." by @[kstrauser](https://twitter.com/kstrauser/status/1191082449511440384)
+
+"I wonder if Google is funding Cloudflare in exchange for them to put their CAPTCHA on as many users as possible. Would make total sense google need users to train machine learning algorithms. Cloudflare can market it as a service while deceiving webmasters " by @[catgirlsec](https://twitter.com/catgirlsec/status/1192161900810973184)
+
+"Furaffinity Cloudflare protection is so good that even artists can't upload anything" by @[PaigeScribe](https://twitter.com/PaigeScribe/status/1194042797680054272)
+
+"Hi, we can't log in this morning..." by @[isaacgrover](https://twitter.com/isaacgrover/status/1192430529032810497)
 
 "Your site just went down when I was mid-course, whats the problem? Something with Cloudflare..." by @[Best__Lux](https://twitter.com/Best__Lux/status/1164673967552004096)
 
@@ -1855,8 +1927,14 @@
 ######  Mastodon
 
 
-> Too many to list here. [See for yourself](https://mastodon.social/tags/cloudflare).
+> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"To MITM an entire domain with CF you give Cloudflare authority over the entire domain’s DNS resolution. This is the best indicator of a full domain MITMing." by @[Trysdyn Black](https://marf.space/objects/6a07884a-cfe8-4eeb-9486-63ffe791259f)
+
+"The corp., project + devs lost my trust once they pushed EME, Pocket, Studies, censorship and #Cloudflare crap." by @[NullWhereMan](https://social.bobcall.me/@NullWhereMan/103115226792755635)
+
+"It's a bit of a #hypocrisy for #privacytoolsIO to subject their donors to a #Cloudflare site. No warning is given to tell their pro-privacy supporters that their name, address, and sensitive financial data will be shared with a #privacy abuser." by @[batalanto](https://todon.nl/@batalanto/103097101716393570)
 
 "interessant, eine Website a la github, die die Umtriebe von #cloudflare dokumentiert" by @[alm10965](https://social.bau-ha.us/@alm10965/102670940812325433)
 
