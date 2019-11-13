@@ -327,6 +327,8 @@
 
 "I've tried Cloudflare, but they somehow blocked one of my bank sites, so I went with Google DNS instead." by @[nanianmichaels](https://twitter.com/nanianmichaels/status/1194688408985227264)
 
+"Cloudflare attempted to CENSOR this negative review on Trustpilot." by @[phyzonloop](https://twitter.com/phyzonloop/status/1194458264026660864)
+
 "Also, can anyone from UKLabour  or Cloudflare explain why I haven't been able to access the Labour Party website for a day?" by @[BernieSnell](https://twitter.com/BernieSnell/status/1194688395164950528)
 
 "You having a bad day ? I am having voip trouble, tried logging in to your customer-zone and getting cloudflare errors.." by @[4t4ri](https://twitter.com/4t4ri/status/1194613025535381505)
