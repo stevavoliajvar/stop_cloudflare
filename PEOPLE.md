@@ -321,6 +321,16 @@
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+""We have blocked you from visiting a webpage so contact the webpage owner to resolve the issue".  Ummm…. how do you contact the webpage owner when you have blocked everyone in Singapore from seeing the webpage's "contact us"?" by @[MichaelSmithSG](https://twitter.com/MichaelSmithSG/status/1194515123903164416)
+
+"hi, what's wrong with ASN 12714 that you're blocking on Cloudflare?" by @[cjmaxik](https://twitter.com/cjmaxik/status/1193842746605408256)
+
+"I've tried Cloudflare, but they somehow blocked one of my bank sites, so I went with Google DNS instead." by @[nanianmichaels](https://twitter.com/nanianmichaels/status/1194688408985227264)
+
+"Also, can anyone from UKLabour  or Cloudflare explain why I haven't been able to access the Labour Party website for a day?" by @[BernieSnell](https://twitter.com/BernieSnell/status/1194688395164950528)
+
+"You having a bad day ? I am having voip trouble, tried logging in to your customer-zone and getting cloudflare errors.." by @[4t4ri](https://twitter.com/4t4ri/status/1194613025535381505)
+
 "Looks like Cloudflare is broken - 429 error." by @[RHJOfficial](https://twitter.com/RHJOfficial/status/1192398412911652864)
 
 "I've been trying for almost 1,5 hour to order something in the outlet store. Keep getting "Cloudflare error 524" or "503 Service Unavailable"." by @[JWestra11](https://twitter.com/JWestra11/status/1192416998065627138)
