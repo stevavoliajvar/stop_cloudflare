@@ -260,17 +260,17 @@
 
 ######  Microsoft GitHub
 
-"Handle new cloudflare blocking" by [krues8dr](https://github.com/krues8dr/lazuli/issues/29)
+"[Handle new cloudflare blocking](https://github.com/krues8dr/lazuli/issues/29)" by [krues8dr](https://github.com/krues8dr)
 
-"Add cloudflare to blocked services" by [AdguardTeam](https://github.com/AdguardTeam/AdGuardHome/pull/1155/commits/d42d475d1b4376055adee3e6181c9a5624af7525)
+"[Add cloudflare to blocked services](https://github.com/AdguardTeam/AdGuardHome/pull/1155/commits/d42d475d1b4376055adee3e6181c9a5624af7525)" by [AdguardTeam](https://github.com/AdguardTeam)
 
-"Cloudflare blocks feed update" by [QuiteRSS](https://github.com/QuiteRSS/quiterss/issues/1076)
+"[Cloudflare blocks feed update](https://github.com/QuiteRSS/quiterss/issues/1076)" by [QuiteRSS](https://github.com/QuiteRSS)
 
-"[Bug] API blocked by CloudFlare" by [angel-penchev](https://github.com/angel-penchev/globaloffensive-predictor/issues/4)
+"[[Bug] API blocked by CloudFlare](https://github.com/angel-penchev/globaloffensive-predictor/issues/4)" by [angel-penchev](https://github.com/angel-penchev)
 
-"Cloudflare blocks me when trying to include jQuery" by [jsperf](https://github.com/jsperf/jsperf.com/issues/518)
+"[Cloudflare blocks me when trying to include jQuery](https://github.com/jsperf/jsperf.com/issues/518)" by [jsperf](https://github.com/jsperf)
 
-"Cloudflare blocks this client library" by [apixu](https://github.com/apixu/apixu-java/issues/1)
+"[Cloudflare blocks this client library](https://github.com/apixu/apixu-java/issues/1)" by [apixu](https://github.com/apixu)
 
 "[blocked by cloudflare](https://github.com/thinkle/gourmet/issues/885)" by [imesg](https://github.com/imesg)
 
