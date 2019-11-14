@@ -80,8 +80,8 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 | [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) | Gokulakrishna Sudharsan | [Link](https://web.archive.org/web/https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
 
 
-- Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
-- If you cannot use Tor for some reason, you can use Tor Browser without Tor. We'll show you how below.
+- Convince your friends to use [Tor](https://www.torproject.org/download/tor/) on the daily basis. Anonymity should be the standard of the open internet!
+
 
 ------------
 
@@ -209,11 +209,12 @@ die();
 
 | Name | Developer | Support | Comment |
 | -------- | -------- | -------- | -------- |
-| [*Tor Browser*](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux) |
+| [*Ungoogled-Chromium*](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/) | PC (Win, Mac, Linux)  _Not Tor_ |
+| [*Bromite*](https://www.bromite.org/fdroid) | Bromite | [Link](https://github.com/bromite/bromite/issues) | Android  _Not Tor_ |
+| [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux) |
 | [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android |
 | [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS |
-| [Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/) | PC (Win, Mac, Linux)  _Not Tor_ |
-| [Bromite](https://www.bromite.org/fdroid) | Bromite | [Link](https://github.com/bromite/bromite/issues) | Android  _Not Tor_ |
+
 
 Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect".
 There is no 100% secure nor 100% private on the internet and technology.
