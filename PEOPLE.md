@@ -53,6 +53,8 @@
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[WARP is not a VPN for privacy](https://www.piavpnaymodqeuza.onion/blog/2019/09/warp-is-not-a-vpn-for-privacy/)" by [https://www.privateinternetaccess.com/](Private Internet Access)
+
 "[Cloudflare - why the fuss?](https://decentralize.today/decentralization/cloudflare-why-the-fuss)" by [O S Layman](https://decentralize.today/cryptocurrency/blogger/big-h)
 
 "[Cloudflare considered harmful](https://www.devever.net/~hl/cloudflare)"
@@ -1964,6 +1966,8 @@
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"wenn sich der Tagesspiegel nicht hinter #cloudflare verstecken würde, würde ich ihn wahrscheinlich auch lesen" by @[kromonos](https://metalhead.club/@kromonos/103136278965173255)
 
 "To MITM an entire domain with CF you give Cloudflare authority over the entire domain’s DNS resolution. This is the best indicator of a full domain MITMing." by @[Trysdyn Black](https://marf.space/objects/6a07884a-cfe8-4eeb-9486-63ffe791259f)
 
