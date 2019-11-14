@@ -209,7 +209,7 @@ die();
 
 | Name | Developer | Support | Comment |
 | -------- | -------- | -------- | -------- |
-| **[Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/)** | PC (Win, Mac, Linux)  _Not Tor_ |
+| **[Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)** | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/) | PC (Win, Mac, Linux)  _Not Tor_ |
 | **[Bromite](https://www.bromite.org/fdroid)** | Bromite | [Link](https://github.com/bromite/bromite/issues) | Android  _Not Tor_ |
 | [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux) |
 | [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android |
@@ -229,8 +229,6 @@ There is no 100% secure nor 100% private on the internet and technology.
 > 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*true*".
 > 4. Create new boolean "*extensions.torlauncher.start_tor*". Set it to "*false*".
 > 5. Close Tor Browser.
->
-> (In version 9.0, Tor project suddenly removed the ability to set custom proxy. Ask your friend for help if you still unable to disable Tor.)
 > 
 > Other guide is [here](https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor).
 
@@ -276,6 +274,7 @@ Therefore we recommend above table only. Nothing else.
 > 		"*://*.mozilla.com/*",
 > 		"*://*.mozilla.net/*",
 > 		"*://*.mozilla.org/*",
+> 		"*://webcompat.com/*",
 > 		"*://*.firefox.com/*",
 > 		"*://*.thunderbird.net/*",
 > 		"*://*.cloudflare.com/*"
@@ -283,7 +282,7 @@ Therefore we recommend above table only. Nothing else.
 >     },
 
 
-- ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
+- ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin in 2018.
 
 - To disable DOH, enter *about:config?filter=network.trr* in the address bar then set "*network.trr.mode*" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
 
