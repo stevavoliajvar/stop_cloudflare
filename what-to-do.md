@@ -209,8 +209,8 @@ die();
 
 | Name | Developer | Support | Comment |
 | -------- | -------- | -------- | -------- |
-| [*Ungoogled-Chromium*](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/) | PC (Win, Mac, Linux)  _Not Tor_ |
-| [*Bromite*](https://www.bromite.org/fdroid) | Bromite | [Link](https://github.com/bromite/bromite/issues) | Android  _Not Tor_ |
+| **[Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/)** | PC (Win, Mac, Linux)  _Not Tor_ |
+| **[Bromite](https://www.bromite.org/fdroid)** | Bromite | [Link](https://github.com/bromite/bromite/issues) | Android  _Not Tor_ |
 | [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux) |
 | [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android |
 | [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS |
@@ -237,7 +237,7 @@ There is no 100% secure nor 100% private on the internet and technology.
 
 Let's talk about _other software's privacy_...
 
-- If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)". ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in [many ways](https://spyware.neocities.org/articles/firefox.html).
+- **If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)"**. ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in [many ways](https://spyware.neocities.org/articles/firefox.html).
 
 - Remember, Mozilla is [using Cloudflare service](https://www.robtex.com/dns-lookup/www.mozilla.org). They're also using [Cloudflare's DNS service on their product](https://www.theregister.co.uk/2018/03/21/mozilla_testing_dns_encryption/) D'oh!
 
