@@ -219,7 +219,9 @@ die();
 Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect".
 There is no 100% secure nor 100% private on the internet and technology.
 
-- Don't want to use "Tor"? You can use Tor Browser without Tor, and this is the best option for you.
+- Don't want to use "Tor"? You can use _any browser_ with [Tor daemon](https://packages.debian.org/search?searchon=names&keywords=tor).
+
+- It may be possible to use "Tor Browser" without Tor:
 
 > **How?**
 > 1. Download [Tor Browser](https://www.torproject.org/) and launch it.
