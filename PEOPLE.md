@@ -346,6 +346,12 @@
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"You getting a Cloudflare error too?" by @[michaeldexter](https://twitter.com/michaeldexter/status/1193326043899158528)
+
+"Heck, I spent an hour re-submitting THIS CFP submission. Turns out Cloudflare blocked any submission containing "cmd.exe"" by @[danielhbohannon](https://twitter.com/danielhbohannon/status/1194978231142645760)
+
+"The cause was identified as an error in an automatic update received from Cloudflare" by @[MCMarket_org](https://twitter.com/MCMarket_org/status/1194954194479792129)
+
 "why do you trust cloudflare more than your ISP?" by @[bmarwell](https://twitter.com/bmarwell/status/1194872808435847168)
 
 "Cloudflare is the largest mitm attack on TLS as we know it, why is this not discussed more?" by @[adrians_reality](https://twitter.com/adrians_reality/status/1187400617402208258)
