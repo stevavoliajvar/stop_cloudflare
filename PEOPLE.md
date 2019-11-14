@@ -125,6 +125,8 @@
 
 ######  Forum / Wiki
 
+"[Proposal: Remove Cloudflare from the official Bitcoin Cash website](https://www.reddit.com/r/btc/comments/docdui/proposal_remove_cloudflare_from_the_official/)" by [LeoBeltran](https://www.reddit.com/user/LeoBeltran/)
+
 "[Now that Cloudflare Warp has gone public, is it still the worst thing EVER?](https://www.reddit.com/r/privacytoolsIO/comments/da1lx3/now_that_cloudflare_warp_has_gone_public_is_it/)" by [Anaranovski](https://www.reddit.com/user/Anaranovski)
 
 "[That's not how the web works, sorry. Cheers](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=941394)"
@@ -132,6 +134,8 @@
 "[Pale Moon developer shows disdain for Tor and people who combat Cloudflare MITM](https://www.reddit.com/r/privacy/comments/cnqwr3/pale_moon_developer_shows_disdain_for_tor_and/)" by [vargasgetulio](https://www.reddit.com/user/vargasgetulio/)
 
 "[...Cloudflare DOES TLS termination, directly having access to all the data in clear.](https://www.reddit.com/r/privacy/comments/ckwlem/cloudflare_does_tls_termination_directly_having/)" by [JustCondition4](https://www.reddit.com/user/JustCondition4/)
+
+"[What makes CloudFlare bad?](https://www.reddit.com/r/privacy/comments/cki0s5/what_makes_cloudflare_bad/)" by [Spadey0](https://www.reddit.com/user/Spadey0/)
 
 "[DNS over HTTPS](http://oxwugzccvk3dk6tj.onion/tech/res/1082196.html)"
 
