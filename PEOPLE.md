@@ -1725,6 +1725,8 @@
 
 "threatening to harass and dox my partners because I told them to remove our address" by @[ZJemptv](https://twitter.com/ZJemptv/status/898299709634248704)
 
+"The people behind cloudflare used to make network honeypots before starting cloudflare. I'd think twice before using this service." by @[twiet](https://twitter.com/twiet/status/980798126800982017)
+
 "Your cloudflare-hosted site blocks my VPN so I can't even buy your VPN while using a competitor." by @[focusaurus](https://twitter.com/focusaurus/status/942968457909456898)
 
 "Most use Cloudflare+CAPTCHAs to filter." by @[r0h1n](https://twitter.com/r0h1n/status/778788564519845888)
