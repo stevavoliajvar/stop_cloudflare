@@ -216,7 +216,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 
 * Read [other user's voice](PEOPLE.md) and write your thoughts.
 
-* Search something on [Ansero](http://ansero.xgwglrypkjbgecns2zru5ekyu7tnqgg7l5blojlq7roohxbwkr5k77id.onion/)<sub><sup> ₍[ᶜˡᵉᵃʳⁿᵉᵗ](https://ansero.eu.org/)₎</sup></sub> or [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)<sub><sup> ₍[ᶜˡᵉᵃʳⁿᵉᵗ](https://searxes.eu.org/)₎</sup></sub>.
+* Search something on [Ansero](http://ansero.xgwglrypkjbgecns2zru5ekyu7tnqgg7l5blojlq7roohxbwkr5k77id.onion/)<sub><sup> [ᶜˡᵉᵃʳⁿᵉᵗ](https://ansero.eu.org/)</sup></sub> or [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)<sub><sup> [ᶜˡᵉᵃʳⁿᵉᵗ](https://searxes.eu.org/)</sup></sub>.
 
 * Update the domain list: [List instructions](instructions.md).
 
