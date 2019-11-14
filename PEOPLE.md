@@ -4,6 +4,9 @@
 
 "_It's endangering the WWW and you're blocking readers who are protecting their privacy by using Tor._" -- [Mr. Jeff Cliff, BSc](https://twitter.com/jeffcliff1/status/992571841406537728)
 
+"_You shouldn't use it if you value visitor's privacy._" -- [Searxes](https://searxes.eu.org/)
+
+
 ![](image/butitsdown.jpg)
 
 ------
@@ -53,6 +56,8 @@
 "[Cloudflare - why the fuss?](https://decentralize.today/decentralization/cloudflare-why-the-fuss)" by [O S Layman](https://decentralize.today/cryptocurrency/blogger/big-h)
 
 "[Cloudflare considered harmful](https://www.devever.net/~hl/cloudflare)"
+
+"[Cloudflare’s WARP ‘VPN’ isn’t private nor safe; Don’t use it](https://blog.kareldonk.com/cloudflares-warp-vpn-isnt-private-nor-safe-dont-use-it/)" by [Karel Donk](https://blog.kareldonk.com/)
 
 "[Does Cloudflare help my WordPress site?](https://seravo.com/blog/does-cloudflare-help-my-wordpress-site/)" by [Seravo](https://seravo.com/)
 
@@ -119,6 +124,8 @@
 ------
 
 ######  Forum / Wiki
+
+"[Now that Cloudflare Warp has gone public, is it still the worst thing EVER?](https://www.reddit.com/r/privacytoolsIO/comments/da1lx3/now_that_cloudflare_warp_has_gone_public_is_it/)" by [Anaranovski](https://www.reddit.com/user/Anaranovski)
 
 "[That's not how the web works, sorry. Cheers](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=941394)"
 
@@ -332,6 +339,12 @@
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
+
+"why do you trust cloudflare more than your ISP?" by @[bmarwell](https://twitter.com/bmarwell/status/1194872808435847168)
+
+"Cloudflare is the largest mitm attack on TLS as we know it, why is this not discussed more?" by @[adrians_reality](https://twitter.com/adrians_reality/status/1187400617402208258)
+
+"Here's what I have, was going to comment on how Cloudflare's SSH services are an MITM on SSH." by @[dxgl_org](https://twitter.com/dxgl_org/status/1187775624322191360)
 
 ""We have blocked you from visiting a webpage so contact the webpage owner to resolve the issue".  Ummm…. how do you contact the webpage owner when you have blocked everyone in Singapore from seeing the webpage's "contact us"?" by @[MichaelSmithSG](https://twitter.com/MichaelSmithSG/status/1194515123903164416)
 
