@@ -6,6 +6,7 @@
 
 
 ```
+
 You′ve found something on the internet.
 Are these links or images vulnerable to MITM attack or not?
  
@@ -13,6 +14,7 @@ This add-on is using Searxes′ Public API to scan FQDN.
 	e.g. ekzemplo.com/page.html → "ekzemplo.com"
 
 This add-on never send other information.
+
 ```
  
 - Information: [About Cloudflare domain list](../instructions.md#about-cloudflare-base-domain-list)
