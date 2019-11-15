@@ -1,4 +1,5 @@
-_Ĉi tiuj estas spegulaj datumoj. Por plej novaj informoj, bonvolu viziti nian retejon._
+- Ĉi tiuj estas spegulaj datumoj. Por plej novaj informoj, bonvolu viziti nian retejon.
+- Vi povas legi fontkodon en nia retejo. Ankaŭ vi ĉiam povas ĉerpi la dosieron por vidi fontkodon.
 
 ---
 
