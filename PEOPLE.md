@@ -1993,6 +1993,8 @@
 
 "wenn sich der Tagesspiegel nicht hinter #cloudflare verstecken würde, würde ich ihn wahrscheinlich auch lesen" by @[kromonos](https://metalhead.club/@kromonos/103136278965173255)
 
+"Not that I expect Cloudflare to be doing anything malicious, I'm just a little uncomfortable where passwords or anything sensitive are involved." by @[IceWolf](https://meow.social/@IceWolf/103116651269844076)
+
 "To MITM an entire domain with CF you give Cloudflare authority over the entire domain’s DNS resolution. This is the best indicator of a full domain MITMing." by @[Trysdyn Black](https://marf.space/objects/6a07884a-cfe8-4eeb-9486-63ffe791259f)
 
 "The corp., project + devs lost my trust once they pushed EME, Pocket, Studies, censorship and #Cloudflare crap." by @[NullWhereMan](https://social.bobcall.me/@NullWhereMan/103115226792755635)
@@ -2000,6 +2002,12 @@
 "It's a bit of a #hypocrisy for #privacytoolsIO to subject their donors to a #Cloudflare site. No warning is given to tell their pro-privacy supporters that their name, address, and sensitive financial data will be shared with a #privacy abuser." by @[batalanto](https://todon.nl/@batalanto/103097101716393570)
 
 "interessant, eine Website a la github, die die Umtriebe von #cloudflare dokumentiert" by @[alm10965](https://social.bau-ha.us/@alm10965/102670940812325433)
+
+"plz avoid imgur.com - It's #CloudFlare'd." by @[aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/103131170879379868)
+
+"The bad side-effect is that *many*  are registering on mastodon.social, which is centralized on #Cloudflare & ultimately detrimental." by @[batalanto](https://todon.nl/@batalanto/103127670786580635)
+
+"I suggest leaving mastodon.social & choosing a different #Mastodon node.  Mastodon is about #decentralization, and the mastodon.social node is #centralized on #CloudFlare" by @[aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/103127507035816683)
 
 "OK #cloudflare hat mich blacklisted. Hmm, von cloudflare habe ich schon so manch schlechtes gehört ! Irgendwie ahnte ich doch so etwas, daß ich XXX.com nicht mehr nutzen kann." by @[alm10965](https://social.bau-ha.us/@alm10965/102670832938054598)
 
