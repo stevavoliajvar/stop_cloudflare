@@ -1393,6 +1393,8 @@
 
 "They've doxxed someone who reported pedoporn in the past so I'm not expecting miracles" by @[jpetazzo](https://twitter.com/jpetazzo/status/897554355368456193)
 
+"Hi! Attached is the screen shot of my mobile browser when I try to access fitbit.com . Due to this, the app does not sync as it cannot get past this CloudFlare captcha." by @[rahul7280](https://twitter.com/rahul7280/status/935288633375916032)
+
 "I reported a website for hosting illegal content. CloudFlare doxxed me to Brennan. Brennan doxxed me to 8chan" by @[petercoffin](https://twitter.com/petercoffin/status/554728016480182272)
 
 "Cloudflare who are free speech to the point of doing nothing. You can't safely report valid abuse to them without it being forwarded to the hosts and you getting doxxed. Then cloudflare wash hands." by @[plambrechtsen](https://twitter.com/plambrechtsen/status/1125980039814606849)
