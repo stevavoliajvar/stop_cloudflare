@@ -79,7 +79,7 @@ Allen Lai | Head of Support
 Allen Rinehart | Security Risk Management
 Alon Gavrielov | Infrastructure
 Alonso Bustamante | Special Projects
-Alonso Quiroz Herrera	|	Employee
+Alonso Quiroz Herrera	| Employee
 Alvin Khor | ASEAN Sales Lead
 Alvin Lin | Growth Marketing Manager
 Alvin Tai | Enterprise Sales
@@ -98,7 +98,7 @@ Andre Bluehs | Employee
 Andrea Miller | Marketing Coordinator
 Andrei Aleksejevs | Business Development
 Andres H. Pimentel | Gtm Research & Development
-Andres de Fuenzalida	|	Employee
+Andres de Fuenzalida	| Employee
 Andrew A. Schafer | Writer
 Andrew Fitch | Developer | https://twitter.com/fitchaj
 Andrew Galloni | Front End Engineer
@@ -484,7 +484,7 @@ Ian Pye | Analytics Engineer
 Ian Spivey | Employee
 Ian Tolond | Employee
 Ignat Korchagin | Systems Engineer
-Igor Postelnik	|	Employee
+Igor Postelnik	| Employee
 Ilya Andreev | Intern
 Ingvar Stepanyan | JavaScript Performance Engineer, Ukraine
 Irena Islam | Customer Success Engineer
@@ -493,9 +493,9 @@ Isaac Specter | Product Strategy, Austin
 Ivan Babrou | Systems Engineer
 Ivan Balepin | Systems Engineer
 Ivan Chin | Customer Development, Singapore
-Ivan Nikulin	|	Employee
+Ivan Nikulin	| Employee
 JC Smith | Engineering Manager
-JC Whitney	|	Employee
+JC Whitney	| Employee
 Jack Melnicoff | Enterprise Field Sales
 Jacob H. Haven | Systems Engineer
 Jacob Vincent | Customer Development
@@ -505,41 +505,41 @@ Jade Wang | Employee | https://opencollective.com/jadewang https://twitter.com/_
 Jaime Cochran | Security Analyst
 Jaime Sparr | Visual Designer
 Jake Anderson | Head of Marketing
-Jake Bauch	|	Employee
+Jake Bauch	| Employee
 Jake Farrell | Customer Development
-Jake Jones	|	Employee
+Jake Jones	| Employee
 Jake Riesterer | Software Engineer
 Jake Serrano | IT Operations Engineer
 Jake Sinkey | Support Engineer
-Jakub Sitnicki	|	Employee
+Jakub Sitnicki	| Employee
 James A. Allworth | Head of Innovation
 James Askham | Solutions Engineer
 James Ball | Solutions Engineer
 James Berry | Customer Success Manager
-James Culveyhouse	|	Employee
+James Culveyhouse	| Employee
 James Espinosa | Security Engineer
 James Greene | Web Engineer
-James Jaconetti	|	Employee
+James Jaconetti	| Employee
 James Kyle | Front End Engineer
 James Munson | Systems Reliability Engineer
 James O'Gorman | Systems Reliability Engineer
 James Purcell | Account Executive
 James Toudy | Enterprise Sales
-James Wells	|	Employee
-James Wong	|	Employee
+James Wells	| Employee
+James Wong	| Employee
 Jameson Sundell | Support Engineer
 Jamie Ede | Technical Support
-Jamie Herre	|	Employee
+Jamie Herre	| Employee
 Jamie Robinson | Sales Operations
 Jamie Tomasello | Policy and Investigation
 Janae Frischer | Recruiting
 Janet Van Huysse | Head of People
-Janette Camacho	|	Employee
-Janette Leyva	|	Employee
+Janette Camacho	| Employee
+Janette Leyva	| Employee
 Jansen Chiu | Network Infrastructure
 Jasmina Vanvooren | Business Development
 Jason Farber | Solutions Engineer
-Jason Kincaid	|	Employee
+Jason Kincaid	| Employee
 Jason Paryani | Systems Engineer
 Jason Senechal | Enterprise Account Executive
 Jason Tanner | Solutions Engineer
@@ -559,14 +559,14 @@ Jeff Pollock | Customer Success Engineer
 Jeffrey Lin | Software Engineer
 Jen Norvelle | Finance
 Jenn Suzuki | Team Coordinator
-Jennifer Koo	|	Employee
+Jennifer Koo	| Employee
 Jennifer Taylor | Head of Product
 Jenny Dee Brecheisen | Brand Designer
 Jensen Hussey | Web Developer
 Jensen Kuras | Programmer
 Jeppe Toustrup | Systems Reliability Engineer
 Jeremy Bernick | Intern
-Jeremy L. Pugh	|	Employee
+Jeremy L. Pugh	| Employee
 Jeremy Meeks | Support Engineer
 Jeremy Teale | Operations Engineer
 Jeremy Udit | Systems Reliability Engineer
@@ -579,16 +579,16 @@ Jesse Sapakie | Revenue Accountant
 Jessica Iyer | Business Development
 Jessica Rosenberg | Marketing Design
 Jiale Zhi | Systems Engineer
-Jill Lewandosky	|	Employee
-Jim Gonzales	|	Employee
+Jill Lewandosky	| Employee
+Jim Gonzales	| Employee
 Jim Schlies | Programmer
-Jim Watson	|	Employee
+Jim Watson	| Employee
 Jimmy Crutchfield | Support Engineer
 Jimmy Halim | Network SRE
 Jimmy Lim | Network Engineer, Singapore
-Jimmy Phung	|	Employee
+Jimmy Phung	| Employee
 Jimmy Yuen Ho Wong | Front End Engineer
-Jin Kim	|	Employee
+Jin Kim	| Employee
 Jiong Yang | Solutions Engineer
 Joaquin Madruga | Engineering Director
 Jocelyn Woolbright | Policy Analyst
@@ -615,15 +615,15 @@ Jon Rankin | Solutions Engineer
 Jonathan Bruce | Product
 Jonathan Burling | Customer Success Manager
 Jonathan Ganz | Application Security Engineer
-Jonathan Hoyland	|	Employee
+Jonathan Hoyland	| Employee
 Jonathan Lebeau | Customer Development
 Jonathan McElroy | Customer Success Engineer
 Jonathan Rolfe | Operations and Strategy
 Jonathan Seow | Infrastructure Engineer
-Jonathan Spies	|	Employee
+Jonathan Spies	| Employee
 Jonathan Stasiak | Systems Reliability Engineer
 Jono Bergquist | Solutions Engineer
-Jordan Pritchard	|	Employee
+Jordan Pritchard	| Employee
 Jose Bethancourt | Incoming Software Engineer
 Jose Conado, Jr. | Infrastructure Engineer
 Joseph Himes | Business Development
@@ -655,9 +655,9 @@ Justin Simpson | Growth Strategy Analyst
 Justin Wong | Technical Support Engineer
 Ka-Hing Cheung | Systems Engineer
 Kabir Sikand | Solutions Engineer
-Kalpana Ravinarayanan	|	Employee
+Kalpana Ravinarayanan	| Employee
 Kamilla Amirova | Solutions Engineer
-Kanika Rastogi	|	Employee
+Kanika Rastogi	| Employee
 Kari Linder | Designer
 Karim Dik | Employee
 Karl Ehr | Head of Technical Operations
@@ -669,11 +669,11 @@ Kate Delaney | Operations Engineer
 Kate Fleming | Customer Success, Singapore
 Kate Lockhart | Project Manager Security
 Kate Pang | Customer Success Engineer
-Kathy Ly	|	Employee
-Katie Cummins	|	Employee
+Kathy Ly	| Employee
+Katie Cummins	| Employee
 Katrina Riehl | Senior Manager - Data Science
 Katy Brogan | Customer Success
-Keefe Tang	|	Employee
+Keefe Tang	| Employee
 Keenan Koizumi | Business Development
 Keeran Marquis | Engineer
 Kelby Balson | Customer Development
@@ -686,7 +686,7 @@ Kendra Albert | Legal Intern
 Kenneth Abe | Account Executive
 Kenneth R. Carter | In-House Counsel
 Kenny Chan | Web Engineer
-Kenny Luong	|	Employee
+Kenny Luong	| Employee
 Kent Shultz | Systems Reliability Engineer
 Kenton Varda | Tech Lead for Cloudflare Workers
 Kevin Chen | Business Development
@@ -697,19 +697,19 @@ Kevin Klapak | Technical Support Engineer
 Kevin Stinger | Security Channel Manager
 Kevin Wang | Product Manager
 Kevin Wilson | Visual Designer
-Kevin Xu	|	Employee
-Khaled AlSaleh	|	Employee
+Kevin Xu	| Employee
+Khaled AlSaleh	| Employee
 Khanh Dao | Tax Manager
 Kim Jen | Infrastructure Sourcing
 Kim Jin-Woong | Head of Sales
 Kim Seungjin | Sales Operations
 Kirk A. Schwenkler | Solutions Engineer
 Kirk Washington | Technical Support Engineer
-Ko Stoffelen	|	Employee
+Ko Stoffelen	| Employee
 Kornel Lesinski | Performance Engineer
 Kostas Topaloudis | Data Center Deployment Engineer
-Kris (Krzysztof) Kwiatkowski	|	Employee
-Krishna Zulkarnain	|	Employee
+Kris (Krzysztof) Kwiatkowski	| Employee
+Krishna Zulkarnain	| Employee
 Kristian Freeman | Developer | https://twitter.com/imkmf https://www.signalnerve.com/ https://github.com/signalnerve  kristian@kristianfreeman.com
 Kristin Hart | Executive Assistant
 Kristin Tarr | Communications Specialist
@@ -717,38 +717,38 @@ Kristina Scott | Global Marketing
 Kristján Oddsson | Front-end Engineer
 Kruthi Narayana | Technical Expert
 Kyle Boutette | Systems Engineer
-Kyle Breuleux	|	Employee
+Kyle Breuleux	| Employee
 Kyle Hui | Business Development
 Kyle Isom | Systems Engineer
 Kyle Kloepper | Systems Engineer
-Lakshman Manoharan	|	Employee
+Lakshman Manoharan	| Employee
 Lana Gulden | Accounts Receivable
 Larry Sandoval | Employee
 Lauren Buchman | Marketer
-Laurie Zapinski	|	Employee
+Laurie Zapinski	| Employee
 Lavanya Ganesan | Support Engineer, India
-Le Carlson	|	Employee
+Le Carlson	| Employee
 Leah Moskovic | Account Executive
 Lee Diddy | London
 Lee Hiro | Business Development APAC
 Lee Sam | Recruiting
-Lesley Lurie	|	Employee
+Lesley Lurie	| Employee
 Lex Broekmeulen | Employee
 Liam Crowter | Technical Support Engineer
 Liam Reese | Business Development
-Lilah Brander	|	Employee
+Lilah Brander	| Employee
 Lily Andalon | Accountant
 Lindsay Kotterman | Customer Development
 Lindsey Cochran | Corporate Counsel
 Ling Wu | Governance Risk and Compliance
-Lis Harris	|	Employee
+Lis Harris	| Employee
 Lisa Morgan Cohen | Enterprise Account Executive
 Lisa Retief | Engineering Manager
 Lohith Bellad | Protocol Engineer
 London Zhang | Design
-Loren Rackow-Mendizabal	|	Employee
+Loren Rackow-Mendizabal	| Employee
 Lorene Pastore | Account Executive
-Lorenz Bauer	|	Employee
+Lorenz Bauer	| Employee
 Louis Grace | Business Development
 Louis Poinsignon | Network Engineer
 Lucas Pardue | HTTP/2 and QUIC
@@ -760,7 +760,7 @@ Lyn Hines | Technical Support Engineer
 Maciej Bilas | Software Engineer, Poland
 Maddie Roster | Business Development
 Madeline Gregory | Information Security
-Maggie Yue	|	Employee
+Maggie Yue	| Employee
 Mahrud Sayrafi | Cryptography Engineer
 Maik Pietsch | Customer Development
 Maitane Zotes | Security Engineer
@@ -769,13 +769,13 @@ Malcolm Bouza | Accountant
 Malgorzata Pack (Kacprzak) | Support Operations Engineer
 Manish Jindal | Customer Development
 Manu Sharma | Account Manager
-Manuel Briseno	|	Employee
+Manuel Briseno	| Employee
 Marc Bodmer | Front End Engineer
 Marc W. Rogers | Principal Security Researcher
 Marcelo Moreira | Site Reliability Engineer
 Marcie McBride | Customer Development
 Marcus Schaefer | Strategic Account Executive
-Marek Kroemeke	|	Employee
+Marek Kroemeke	| Employee
 Marek Majkowski | Systems Engineer
 Marek Vavrusa | Systems Engineer
 Margo Brown | Q1 Marketing Partner
@@ -786,8 +786,8 @@ Marina Jeon | Demand Generation Specialist
 Mark Garfield | VP of Finance
 Mark Steyn | Front End Engineer
 Marshall Alexander | Platform Operations
-Marshall Crockett	|	Employee
-Marshall Montana	|	Employee
+Marshall Crockett	| Employee
+Marshall Montana	| Employee
 Marshall Portwood | Enterprise Account Executive
 Martijn Gonlag | Support Engineer
 Martin J. Levy | Network Strategy
@@ -795,7 +795,7 @@ Martin Marks | Systems Engineer
 Marty Strong | Technical Support Engineer
 Mary Mac Williams | Event Coordinator
 Mat Henley | Director of Security
-Matt Alberts	|	Employee
+Matt Alberts	| Employee
 Matt Allie | Solutions Engineer
 Matt Alonso | Developer Experience Team Intern
 Matt Bostock | Systems Reliability Engineer
@@ -806,20 +806,20 @@ Matthew Cottingham | Systems Engineer
 Matthew DiDomenico | Customer Development
 Matthew DuBois | Sales Leader
 Matthew Gall | Trust & Safety Engineer | https://twitter.com/matthewgall  mgall@cloudflare.com
-Matthew King	|	Employee
+Matthew King	| Employee
 Matthew P. Harrell | Channel Sales and Partners
 Matthew Silverlock | Solutions Engineer
 Matthew Twyman | Information Infrastructure
 Matthew Williams | Marketing
 Matthieu Tourne | Systems Engineer
-Matvey Arye	|	Employee
+Matvey Arye	| Employee
 Maurizio Monti | Partnerships
 Mauro Nogueira | Solutions Engineer
 Max Nystrom | Product Manager
-Maxim Matskul	|	Employee
+Maxim Matskul	| Employee
 Maxime Guerreiro | DoS Mitigations
 Maxwell Mitchell | Statistician
-Meg He	|	Employee
+Meg He	| Employee
 Megan Alderete | Customer Development
 Megan Davis | Event Marketing
 Meghan Weinreich | Demand Generation
@@ -830,7 +830,7 @@ Michael A. Daly | Engineering Manager
 Michael Aylward | Customer Development
 Michael Buasan | Sales Operations
 Michael Cummins | Customer Development
-Michael Geng	|	Employee
+Michael Geng	| Employee
 Michael Girouard | Web Engineer
 Michael Lee | Support Engineer
 Michael Manov | Technical Support Engineer
@@ -846,11 +846,11 @@ Michael Truong | Systems Reliability Engineer
 Michael Vanderwater | Systems Engineer
 Michael Veramo | Enablement, Learning and Development
 Michael Vigil | Accountant
-Michel Bamps	|	Employee
+Michel Bamps	| Employee
 Michelle Brown | Accountant
-Michelle Hagan	|	Employee
+Michelle Hagan	| Employee
 Michelle Tang | Marketing Operations
-Michelle de Venoge	|	Employee
+Michelle de Venoge	| Employee
 Mickie Betz | Systems Engineer
 Miguel Mones | Customer Success
 Miguel de Moura | Systems Engineer
@@ -863,21 +863,21 @@ Millie Chan | Front End Engineer
 Minh Bui | Pricing Strategist
 Mircea-Valeriu Ulinic | Network Engineer
 Misha Girshfeld | Customer Success Engineer
-Mitul Limbachiya	|	Employee
-Mohamed ElShal	|	Employee
+Mitul Limbachiya	| Employee
+Mohamed ElShal	| Employee
 Mohamed Ibrahim | Support Engineer, Singapore
 Mohd Irtefa | Product, Austin
 Mohit Bijlani | Customer Development
-Molly Evans	|	Employee
+Molly Evans	| Employee
 Mona Hadidi | Customer Success Manager
 Monicah Kwamboka | Web Engineer
 Morgan Miles | Customer Development
-Moritz Wegner	|	Employee
+Moritz Wegner	| Employee
 Moses Ellis | Business Development
 Murtaza Sajjad | Legal Intern
 Mustafa Khalifa | Business Development, Singapore
 Nadin El-Yabroudi | Security Engineer
-Nandini Jayarajan	|	Employee
+Nandini Jayarajan	| Employee
 Natalie Valdes | Team Coordinator
 Nate Asp | Customer Development
 Nauzer Gotla | Vice President, Internal Audit
@@ -890,13 +890,13 @@ Nela Collins | Customer Success
 Nelson Chen | Customer Development
 Nena Nguyen | Product Designer
 Ngassa Youmby | Account Executive
-Nicholas Allen	|	Employee
+Nicholas Allen	| Employee
 Nicholas Comer | Systems Engineer
 Nicholas Platais | Business Development
 Nick Balestra-Foster | Frontend Platform Engineer
 Nick Gongorek | Channel Sales Leader
 Nick Jones | Protocols Team
-Nick Legger	|	Employee
+Nick Legger	| Employee
 Nick McGourty | Account Executive
 Nick Simmons | Business Development
 Nick Sullivan | Employee | https://twitter.com/grittygrease  nick@cloudflare.com
@@ -907,7 +907,7 @@ Nicole Ellis | Office Coordinator
 Niels Hoven | Product Manager
 Nikita Zolotarev | Business Development
 Nikole Phillips | Data Analyst
-Nikon Rasumov	|	Employee
+Nikon Rasumov	| Employee
 Nina Wang | Head of Tax
 Nitin Bantwal Rao | Special Projects
 Noah Garrett Wallach | Network Engineer
@@ -915,17 +915,17 @@ Noah Neuman | Enterprise Account Executive
 Norm Slaught | Customer Development
 Olafur Guodmundsson | Systems Engineer
 Olga Skobeleva | Solutions Engineer
-Oliver Yu	|	Employee
+Oliver Yu	| Employee
 Olivia Hsieh | Software Engineer
 Olivier Foucher | Network Engineer
 Omeed Rahgozar | Solutions Engineer
 Omer Yoachimik | Austin
-Oriol Sabate	|	Employee
+Oriol Sabate	| Employee
 Osifo Anosike | Software Engineer
 Otto Imken | Head of Support
 Pablo Camino | Solutions Engineer
 Pablo E. Viera | Business Development
-Paddy Sheehan	|	Employee
+Paddy Sheehan	| Employee
 Pasha Kravtsov | Support Engineer
 Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue  pat@cloudflare.com
 Patrick Lu | Web Engineer
@@ -936,25 +936,25 @@ Patryk Szczyglowski | Systems Engineer
 Paul Cesar | Marketing
 Paul Southwell | Enterprise Sales
 Paul Taulborg | Employee
-Paul Underwood	|	Employee
+Paul Underwood	| Employee
 Pavel Odintsov | Systems Engineer
-Pei Ching Lee	|	Employee
+Pei Ching Lee	| Employee
 Peng Zhang | Systems Engineer
 Pete Clayton | People Team
-Pete Thomas	|	Employee
-Peter Belesis	|	Employee
+Pete Thomas	| Employee
+Peter Belesis	| Employee
 Peter Dumanian | Business Development
 Peter H. Taylor | Global Infrastructure
-Peter Jensen	|	Employee
+Peter Jensen	| Employee
 Peter Weaver | Customer Support
 Peter Wu | Crypto Team
-Peter Yoakum	|	Employee
+Peter Yoakum	| Employee
 Phi Nguyen | Account Executive
 Philina Fan | Product Design
 Philip Bjorkman | Business Development
 Pierce Buxton | Customer Development
-Pierce Few	|	Employee
-Piers Cornwell	|	Employee
+Pierce Few	| Employee
+Piers Cornwell	| Employee
 Piotr Lipski | Web Engineer
 Piotr Sikora | Systems Engineer
 Popie Bastaki | People Team (EMEA)
@@ -964,7 +964,7 @@ Pramod Suvarna | Channel Sales Manager
 Pranab Sharma | Head of Pricing
 Prasad Pai | Technical Support Engineer, Singapore
 Prem Raj Natarajan | Customer Success Manager
-Preston Pham	|	Employee
+Preston Pham	| Employee
 Preston Tilghman | Event Marketing
 Priscilla Li | Technical Product Manager
 Pudcharapon Laokokham (Peter) | Solutions Engineer
@@ -996,31 +996,31 @@ Rebecca Roche | Account Executive
 Rebecca Rogers | Security Compliance Lead
 Remy Guercio | Product Marketing
 Renan Dincer | Systems Engineer
-Renato Yoshio Hirata	|	Employee
+Renato Yoshio Hirata	| Employee
 Renee Farrell | Infosec Compliance Manager
 Renee Main | Account Executive
 Renee Taormina | People Systems
 Ricardo Catalinas Jiménez | Systems Engineer
 Ricardo Reinah | Support Engineer
 Richard Boulton | Engineering Manager
-Richard Sommerville	|	Employee
+Richard Sommerville	| Employee
 Richard Thompson | Network Engineer
 Rick Magarro | IT Operations Engineer, Singapore
 Rick Wootten | Marketing and Advertising
 Ricky Lee | Regional Sales
-Rina Yates	|	Employee
+Rina Yates	| Employee
 Rio Pesino | Senior Account Executive
 Rishabh Bector | Big Data Engineer
 Rita Giran | Business Development
 Rita Kozlov | Employee | https://twitter.com/ritakozlov_  rita@cloudflare.com
-Rob Freeman	|	Employee
+Rob Freeman	| Employee
 Rob Headley | Enterprise Account Executive
 Robbie Honerkamp | SRE Team, Singapore
 Robert Dinh | Special Projects
 Robert Kim | Performance Marketing Manager
 Robert McNeil | Systems Engineer
 Robert Wang | Product Engineer
-Roger Tam	|	Employee
+Roger Tam	| Employee
 Rohit Agarwal | Systems Engineer
 Rommy Tosana | Support Engineer, Singapore
 Roshni Hundel | Recruiting Coordinator
@@ -1033,12 +1033,12 @@ Rupesh Ganeshe | Solutions Engineer
 Rushil Shah | Product Security Engineer
 Rustam Iuldashev | SRE
 Rustam X. Lalkaka | Director of Product
-Ruth Mthethwa	|	Employee
+Ruth Mthethwa	| Employee
 Ruth Wall | Engineering Manager
 Ryan Boye | Visual Designer
 Ryan Carter | Systems Reliability Engineer
 Ryan Djurovich | Systems Engineer
-Ryan Hodson	|	Employee
+Ryan Hodson	| Employee
 Ryan Kibler | Web Engineer
 Ryan Kiernan | Customer Success Engineer
 Ryan Knight | Community | https://twitter.com/Yank https://freebaxter.com/  ryank@cloudflare.com
@@ -1048,19 +1048,19 @@ Saad Hameed | Growth and Marketing
 Sachin Fernandes | Systems Engineer
 Sadaf Rajabi | Suppy Chain Operations
 Salvatore D'Agostino | Web Engineer
-Sam Aued	|	Employee
+Sam Aued	| Employee
 Sam Howson | Support Engineer
 Sam Mason de Caires | UX Engineer
-Sam Murray	|	Employee
+Sam Murray	| Employee
 Sam Rhea | Employee | https://twitter.com/LakeAustinBlvd  srhea@cloudflare.com
 Sam Whited | Systems Engineer
 Samantha Lee | Regional Sales Lead
-Samantha Mammen	|	Employee
+Samantha Mammen	| Employee
 Sami Kerola | Systems Reliability Engineer
 Samuel Coates | Attorney
 Samuel Noble | Customer Development
 Sandra Sansano | IT Billing Project Manager
-Sarah Carter	|	Employee
+Sarah Carter	| Employee
 Sarah Lewis Cortes | Privacy Compliance
 Saran Chandran | Regional Head
 Scott Jones | LMS Administrator / eLearning Developer
@@ -1076,7 +1076,7 @@ Sevki Hasirci | Software Engineer
 Shaffi Chogley | Customer Success Engineer
 Shahil Khan | Sales Operations
 Shammah Chancellor | Systems Software Engineer
-Shane Baxter	|	Employee
+Shane Baxter	| Employee
 Shane Ossa | Technical Training Program Manager
 Shanea Leven | Product Manager
 Shannon C. Colin | Business Development
@@ -1084,14 +1084,14 @@ Shannon Colin | Employee | https://twitter.com/ShannonColin1
 Shannon Leong | Legal Counsel
 Sharan Birak | Analyst Relations Manager
 Shawn Nelson | Infrastructure Supply Chain
-Shawn Robinson	|	Employee
+Shawn Robinson	| Employee
 Shay Padhye | Customer Development
 Shen Zhang | Salesforce Developer
 Sherry Apostol | Executive Assistant
 Shih-Chiang Chien | System Engineer
 Shiloh Heurich | Systems Engineer
 Shuxin Yang | Systems Engineer
-Siddharth Naik	|	Employee
+Siddharth Naik	| Employee
 Sierra Dasso | Account Executive
 Sierra Molina | Recruiting Operations Manager
 Simon Moore | Support Engineer
@@ -1100,23 +1100,23 @@ Sindu Vijayakumar | Systems Engineer
 Slava Mudry | Database Engineer
 Snigdha Kulshreshtha | Customer Success
 Sofia Farid | Technical Program Manager
-Sofia Gkazempa	|	Employee
+Sofia Gkazempa	| Employee
 Sohei Okamoto | Distributed Systems Engineer
-Song Zihao	|	Employee
-Sophie Breider	|	Employee
+Song Zihao	| Employee
+Sophie Breider	| Employee
 Sophie Qiu | Customer Success Manager, Singapore
-Sophie Yao	|	Employee
+Sophie Yao	| Employee
 Spencer Schwandt | Account Executive
 Sri Pangulur | Customer Development
 Srikanth N. Rao | Systems Reliability Engineer
 Stacey Cho | Global Operations
-Staci Lowe	|	Employee
+Staci Lowe	| Employee
 Stanley Chan | Security Engineer
 Stanley Tan | Solutions Engineer
-Stefan Henke	|	Employee
+Stefan Henke	| Employee
 Stefan Silasi | Systems Reliability Engineer
 Stefan Winer | Customer Development
-Stephan Lachowsky	|	Employee
+Stephan Lachowsky	| Employee
 Stephane Nouvellon | Solutions Engineer
 Stephanie Shattuck | Paralegal
 Stephen K. Lo | Customer Success
@@ -1127,17 +1127,17 @@ Steve Krause | Legal Counsel
 Steve Pascucci | Sales Manager
 Steven Pack | Product Manager
 Steven Pham | Account Executive
-Steven Pirnik	|	Employee
+Steven Pirnik	| Employee
 Stewart Peugh | People Systems & Analytics
-Stuart Nesbitt	|	Employee
+Stuart Nesbitt	| Employee
 Subhashni Balakrishnan | Systems Engineer
 Sue H.J. Lim | Customer Development, Singapore
 Suman Rayala | Regional Sales Manager
 Suman Talukdar | Sales Manager, India
 Sunil Rathode | Big Data Engineer
-Sunny Au	|	Employee
+Sunny Au	| Employee
 Suphanat Chunhapanya | Crypto Team
-Susan Chiang	|	Employee
+Susan Chiang	| Employee
 Susan Hobbs | Chief of Staff
 Susan Lin | Lead Product Designer
 Susan Tran | Accountant
@@ -1145,14 +1145,14 @@ Suyash Sharma | Customer Development
 Suzanne Aldrich | Solutions Engineer Team Lead | https://twitter.com/SuzanneAldrich
 Sven Sauleau | Developer | https://twitter.com/svensauleau https://sauleau.com/  sven@sauleau.com  sven@cloudflare.com
 Swirvithan L. Gooding-Splatt | Intern
-Sydney Staff	|	Employee
+Sydney Staff	| Employee
 Syeef Karim | Product Designer
 Sylvia Kim | Human Resources Administrator
 Sylvia Kuyel | Customer Success Engineer
 Sylvie Cosgrove | Head of Information Technology
 Sze Chuen Tan | Systems Reliability Engineer
 Sébastien Pahl | Systems Reliability Engineer
-Taj Bhat	|	Employee
+Taj Bhat	| Employee
 Talea Seyed | Customer Success
 Taly Slachevsky | Support Engineer
 Tanvi Agrawal | Business Development
@@ -1160,9 +1160,9 @@ Tanya Paige | Recruiting
 Tara Vancil | Systems Engineer, Austin
 Taylor Galusha | Legal Intern
 Taylor Lemmon | Account Executive
-Taylor Murray	|	Employee
+Taylor Murray	| Employee
 Ted Patsos | Business Development
-Teffen Ellis	|	Employee
+Teffen Ellis	| Employee
 Terin Stock | Web Developer
 Terry Rodery | Network Engineer
 Thanh Bui | Customer Development
@@ -1170,13 +1170,13 @@ Thayer Prime | Recruitment Lead
 Thibault Meunier | Systems Engineer
 Thomas Donnelly | Network Engineer
 Thomas Dubrawski | Business Development
-Thomas Lefebvre	|	Employee
+Thomas Lefebvre	| Employee
 Thomas Seifert | Chief Financial Officer
 Tiffany Moeller | Software Engineer
 Tiffany Odeka | Events
 Tiffany Tai | Sales Operations and Strategy
-Tilda Takacs	|	Employee
-Tim Cloonan	|	Employee
+Tilda Takacs	| Employee
+Tim Cloonan	| Employee
 Tim Hoffman | Network Engineer
 Tim Obezuk | Solutions Engineer | https://github.com/obezuk https://www.linkedin.com/in/obezuk
 Tim Ruffles | Systems Engineer
@@ -1204,20 +1204,20 @@ Travis Raines | Technical Support Engineer
 Trent Wooton | Business Development
 Trey Guinn | Solutions Engineer
 Tristan Colgate-McFarlane | Systems Reliability Engineer
-Tuyen Dinh	|	Employee
+Tuyen Dinh	| Employee
 Tyler Grady | Enterprise Sales
 Tyler Matzen | Recruiting Coordinator
 Uday Sharma | Lead Data Engineer
-Ugo Piasentin	|	Employee
+Ugo Piasentin	| Employee
 Usman Muzaffar | VP of Engineering
 Uzma Ali | Business Development
 Val Vesa | Community Manager | https://instagram.com/adspedia https://twitter.com/adspedia
 Valentine Décamps | Customer Success Manager
 Vanessa Royle | Public Relations
-Varun Mehta	|	Employee
+Varun Mehta	| Employee
 Vasco Asturiano | Front End Engineer
 Vasti Porter | Front Desk
-Venkat Viswanathan	|	Employee
+Venkat Viswanathan	| Employee
 Vera Tsai | Taiwan Sales Manager
 Vicky Shrestha | Systems Engineer
 Victoria Bernard | Customer Support, Austin
@@ -1227,14 +1227,14 @@ Vignesh Ravichandran | Dabase Reliability Engineer
 Vikas Chopra | Account Executive
 Vikash Mishra | Country Manager, India
 Vincent Liu | Engineering Marketing
-Vinent Mugabo	|	Employee
+Vinent Mugabo	| Employee
 Visith Bou | Customer Development
 Vivek Ganti | Product Marketing
 Vlad Krasnov | Systems Engineer
 Vojtech Miksu | Front End Engineer
 Vu Long Tran | Customer Success, Singapore
 Wanda Chiu | Software Engineer
-Wanda Lee	|	Employee
+Wanda Lee	| Employee
 Warren Nelson | Systems Engineer
 Warren Rickards | Customer Success
 Warren Robins | EMEA Customer Development
@@ -1264,13 +1264,13 @@ Yana Chen | Customer Success
 Yeo Kezhong | Enterprise Account Manager
 Yevgen Safronov | Web Engineer
 Yien Wu | Relationship Manager
-Young Park	|	Employee
+Young Park	| Employee
 Yuchen Wu | Systems Engineer
 Yun Ting Tan | Business Development
 Yunfei Luo (Adam) | Channel Account Manager
 Yuri Takano | Business Development, Singapore
 Zach Turminini | Business Development
-Zachary Roy	|	Employee
+Zachary Roy	| Employee
 Zack Bloom | Employee | https://twitter.com/zackbloom https://github.com/zackbloom  zackbloom@gmail.com
 Zack Proser | Web Engineer
 Zaid Farooqui | Product Manager
