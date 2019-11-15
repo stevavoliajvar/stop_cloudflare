@@ -166,6 +166,8 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 ## Next: **[Cloudflare Ethics](README_ethics.md)**
 
+---
+
 
 This repository is a list of websites that are behind "_The Great Cloudwall_", and also blocking Tor users.
 
