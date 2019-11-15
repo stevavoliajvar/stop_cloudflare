@@ -1,7 +1,6 @@
 # Ethical Issues
 
 ![](image/itsreallythatbad.jpg)
-
 ![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 ---
@@ -13,6 +12,7 @@ Table of contents
 - [Unwanted spam emails](README_ethics.md#unwanted-spam-emails)
 - [Remove user's review](README_ethics.md#remove-users-review)
 - [Doxxing users](README_ethics.md#doxxing-users)
+- [Charitable contributions](README_ethics.md#charitable-contributions)
 - [Terminating sites](README_ethics.md#terminating-sites)
 
 ---
@@ -44,6 +44,12 @@ How can we stop _Cloudflare spammers_ without activating Cloudflare?
 ---
 
 ### Doxxing users
+
+---
+
+### Charitable contributions
+
+// https://web.archive.org/web/https://opencollective.com/cloudflarecollective#section-about
 
 ---
 
