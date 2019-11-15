@@ -6,6 +6,16 @@
 
 ---
 
+Table of contents
+
+- [No Cloudflare](README.md#no-cloudflare)
+- [Data & More Information](README.md#datainfo)
+- [What can you do?](README.md#what-can-you-do)
+
+---
+
+## No Cloudflare
+
 "The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the [U.S. company](https://en.wikipedia.org/wiki/Cloudflare).
 It is the [world's](https://almanac.httparchive.org/en/2019/cdn) [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
 It sits between you and origin webserver, acting like a [border patrol agent](https://www.cbp.gov/careers/bpa).
@@ -164,10 +174,10 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 ---
 
-## Next: **[Cloudflare Ethics](README_ethics.md)**
+### Next ---> **[Cloudflare Ethics](README_ethics.md)**
 
----
 
+## Data & More Information
 
 This repository is a list of websites that are behind "_The Great Cloudwall_", and also blocking Tor users.
 
@@ -195,7 +205,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 ![](image/watcloudflare.jpg)
 
 
-# What can you do?
+## What can you do?
 
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends.
 
