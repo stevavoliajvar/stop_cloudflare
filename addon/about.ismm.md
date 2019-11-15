@@ -2,7 +2,7 @@
 
 `Scan FQDN using Searxes API`
 
-![image/ismmpreview.jpg]()
+![](image/ismmpreview.jpg)
 
 
 ```
@@ -14,7 +14,7 @@ This add-on is using Searxes′ API to scan FQDN.
 This add-on never send other information.
 ```
  
-- Information: About Cloudflare domain list
+- Information: [About Cloudflare domain list](../instructions.md#about-cloudflare-base-domain-list)
 
 
 Download add-on:
