@@ -1745,6 +1745,8 @@
 
 "One large company (CloudFlare) deciding who can visit what." by @[OhNoItsFusl](https://twitter.com/OhNoItsFusl/status/680144362773319681)
 
+"I am not a robot. TURN OFF YOUR FUCKING #CLOUDFLARE BULLSHIT. #CloudflareIsEvil" by @[AnalSystemist](https://twitter.com/AnalSystemist/status/810912761035313154)
+
 "So CloudFlare you block my surf because I'm behind a vpn protection?" by @[manuzful](https://twitter.com/manuzful/status/677474770867351553)
 
 "In hindsight, I'm an idiot for not taking the decrypt/recrypt into account" by @[Firesphere](https://twitter.com/Firesphere/status/756693331762184192)
@@ -1810,6 +1812,8 @@
 "Even though its your website, you are still restricted on how big a file you can upload to it if you use CloudFlare." by @[MajorLinux](https://twitter.com/MajorLinux/status/1088454705515134977)
 
 "I am tired of this stupid Cloudflare Human Verification. Even though I am logged in and been using Agar.io  without any issue why does this human verification comes in annoying way that I have to verify in each and every gaming session? Has robot grown so much?" by @[mysterychemical](https://twitter.com/mysterychemical/status/1059297971387408385)
+
+"Why am I being blocked all the time ? I am NOT a robot !" by @[JorgSchaper](https://twitter.com/JorgSchaper/status/697465639238246400)
 
 "People are increasingly getting tired of little tyrants like you attempting to take away their freedoms." by @[Flavius_Amalek](https://twitter.com/Flavius_Amalek/status/1062372493946769408)
 
