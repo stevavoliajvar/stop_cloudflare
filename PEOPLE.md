@@ -173,6 +173,8 @@
 
 "[Cloudflare Is Not An Option!](https://www.reddit.com/r/privacy/comments/bhag8s/cloudflare_is_not_an_option/)" by [FVz7Ftt83m](https://www.reddit.com/user/FVz7Ftt83m)
 
+"[All Captchas seem to be broken for me.](https://www.reddit.com/r/CloudFlare/comments/7cqb60/all_captchas_seem_to_be_broken_for_me/)" by [da_sechzga](https://www.reddit.com/user/da_sechzga/)
+
 "[Fastest DNS from Cloudflare + privacy first? Hmmm](https://www.reddit.com/r/privacy/comments/88qqjf/fastest_dns_from_cloudflare_privacy_first_hmmm/)" by [deleted](https://www.reddit.com/r/privacy/comments/88qqjf/fastest_dns_from_cloudflare_privacy_first_hmmm/)
 
 "[Tor says CloudFlare's claim that 94% of requests from Tor are malicious is likely based on flawed methodology, asks for explanation](https://www.reddit.com/r/autotldr/comments/4d21p5/tor_says_cloudflares_claim_that_94_of_requests/)" by [autotldr](https://www.reddit.com/user/autotldr/)
@@ -1125,6 +1127,8 @@
 
 "A Cloudflare issue caused this for me. Check your firewall settings. Super annoying!" by @[zackkatz](https://twitter.com/zackkatz/status/1110375889978548224)
 
+"Oh. Captchas get new meaning! They should change "prove you're not a robot", to "prove you're a human"." by @[majek04](https://twitter.com/majek04/status/790835167317360640)
+
 "I keep being unable to login to your site. It's throwing this annoying error. Credentials are correct for sure." by @[tsopicland](https://twitter.com/tsopicland/status/1111368061368631297)
 
 "The error 502s I keep getting when using your site are getting annoying. Cloudflare says its a host issue - "Server reported a bad gateway" Please sort this out!" by @[mrfuzzy](https://twitter.com/mrfuzzy/status/1099438055755313152)
@@ -1510,6 +1514,10 @@
 "I can't access the website. Maybe BroadwayWorld banned my IP from accessing the website?" by @[AnthonyeQuality](https://twitter.com/AnthonyeQuality/status/1100355528411164673)
 
 "Hey I can't seem to access the site, getting a cloudflare 522 error" by @[nemo2966](https://twitter.com/nemo2966/status/1100530567999823877)
+
+"Unfortunately inaccessible from this IP. Cloudflare's captchas block not just bots but human beings. :(" by @[ErgoOne](https://twitter.com/ErgoOne/status/698513443314241537)
+
+"you're not protecting your customers this way but making them lose money. go figure another way to block bots instead of human" by @[dtdw](https://twitter.com/dtdw/status/541462915434287104)
 
 "I can't access your site. I'm getting a cloudflare error 552 connection timed out" by @[Abdul201388](https://twitter.com/Abdul201388/status/1101851412961611777)
 
