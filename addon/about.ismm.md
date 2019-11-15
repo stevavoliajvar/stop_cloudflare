@@ -31,8 +31,15 @@ This add-on never send other information.
 [ ] Show request in browser console (_Firefox only_)
 
 Information about cache
-[ Show my statistics ]
-	
+[ Show my statistics ] *
+
+
+* clicked
+
+Infected: XX (YY%)
+Not infected: XX (YY%)
+Total: XXX
+
 ```
 
 
