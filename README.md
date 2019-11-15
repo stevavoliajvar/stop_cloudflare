@@ -1,7 +1,6 @@
 # The Great Cloudwall
 
 ![](image/itsreallythatbad.jpg)
-
 ![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 ---
@@ -9,7 +8,7 @@
 Table of contents
 
 - [No Cloudflare](README.md#no-cloudflare)
-- [Data & More Information](README.md#datainfo)
+- [Data & More Information](README.md#data-more-information)
 - [What can you do?](README.md#what-can-you-do)
 
 ---
@@ -172,10 +171,9 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
 
+### Next: **[Cloudflare Ethics](README_ethics.md)**
+
 ---
-
-### Next ---> **[Cloudflare Ethics](README_ethics.md)**
-
 
 ## Data & More Information
 
