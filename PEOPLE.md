@@ -1315,6 +1315,8 @@
 
 "CloudFlare is breaking everything." by @[sukarodo](https://twitter.com/sukarodo/status/1124283685304512512)
 
+"New, let CloudFlare MITM your SSH . With an install and a some small .ssh/config changes you can forget all your SSH belong to them. " by @[dontlook](https://twitter.com/dontlook/status/1067408174007881728)
+
 "Thought my Website was a Phishing Suspect, Cloudflare decided to force a Nasty Don't Enter notice on my E-store domain. No notifications to me at all!" by @[modaitalysuits](https://twitter.com/modaitalysuits/status/1122986421109682176)
 
 "RSS Feed is behind the Cloudflare DDoS protection. My RSS Reader is self hosted, so it is impossible for it to retrieve any feeds" by @[GarcaMan2](https://twitter.com/GarcaMan2/status/1121234101657321474)
@@ -1934,6 +1936,8 @@
 "CloudFlare is a MITM for half the web. CloudFlare sniffs -all- traffic to 1.1.1.1. CloudFlare resolves your DNS queries. Thats a lot of freakin DATA. It's a freakin' GOLD MINE!" by @[uid_](https://twitter.com/uid_/status/980834950650957825)
 
 "Cloudflare won't help future me dox and harass complainants! Whatever will I do?!" by @[yaelwrites](https://twitter.com/yaelwrites/status/860518424144887809)
+
+"What the fuck happened why does cloudflare have to ask me if I'm a robot every single time I want to browse the web." by @[Oosran_ebooks](https://twitter.com/Oosran_ebooks/status/588615228067164160)
 
 "Why am I unable to get past your home page? Few attempts, not even captcha loads...says 'attention required Cloudflare'" by @[uxgravy](https://twitter.com/uxgravy/status/1117395094041243651)
 
