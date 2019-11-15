@@ -1,4 +1,4 @@
-# The Great Cloudwall
+# Ethical Issues
 
 ![](image/itsreallythatbad.jpg)
 
