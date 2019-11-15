@@ -2009,6 +2009,10 @@
 
 "I suggest leaving mastodon.social & choosing a different #Mastodon node.  Mastodon is about #decentralization, and the mastodon.social node is #centralized on #CloudFlare" by @[aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/103127507035816683)
 
+"it's despicable that some mastodon & #gnusocial nodes appear on CF.  Those admins either don't grasp the #netneutrality purpose of federating or they fail to realize that CF is entirely counter to net-neutrality." by @[resist1984](https://social.privacytools.io/@resist1984/102598306130420507)
+
+"99%+ have no clue why the #greatcloudwall is dangerous, probably 33%+ don't even know what it is." by @[jeffcliff](https://niu.moe/@jeffcliff/102599290674949891)
+
 "OK #cloudflare hat mich blacklisted. Hmm, von cloudflare habe ich schon so manch schlechtes gehört ! Irgendwie ahnte ich doch so etwas, daß ich XXX.com nicht mehr nutzen kann." by @[alm10965](https://social.bau-ha.us/@alm10965/102670832938054598)
 
 "GitLab sits behind Cloudflare and is hosted by Google – while Codeberg runs on Codeberg hardware and has no MITM. Much valued, especially for privacy reasons. Want more reasons against Cloudflare?" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102662955566633818)
@@ -2056,6 +2060,8 @@
 "Services like #CloudFlare are really nice with #PatriotAct and #NSA. #USHackers #whatawonderfulworld. CloudFlare create SSL certificates  for sites they cache. So have the wholme traffic unciphered locally, and send it to the remote server to be cached. So, they have clear and unciphered access to the whole content :  usernames   passwords  web content..." by @[popolon](https://mastodon.social/@popolon/102546838067285665)
 
 "Google reCaptcha nicht erreichbar? ... Na dann viel Spaß in der #Hölle, freunde von #Cloudflare" by @[kromonos](https://metalhead.club/@kromonos/102543497886371728)
+
+"the internet is a huge place even once you disable javascript and many websites stop working, and you use tor so the #greatcloudwall auto-blocks you." by @[jeffcliff](https://niu.moe/@jeffcliff/101894104472506869)
 
 " Ich surf inzwischen fast ausschließlich über #TOR. Außer bei Betreibern, denen ic traue. Deswegen hab ich so oft ärger mit #CloudFlare. Nur wenige machen es z.B. wie nipos und deaktivieren den "TOR Schutz"." by @[kromonos](https://metalhead.club/@kromonos/102501955975549073)
 
