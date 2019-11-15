@@ -10,10 +10,10 @@ Table of contents
 
 ` D R A F T `
 
-- [Unwanted spam emails]()
-- [Remove user's review]()
-- [Doxxing users]()
-- [Terminating sites]()
+- [Unwanted spam emails](README_ethics.md#unwanted-spam-emails)
+- [Remove user's review](README_ethics.md#remove-users-review)
+- [Doxxing users](README_ethics.md#doxxing-users)
+- [Terminating sites](README_ethics.md#terminating-sites)
 
 ---
 
