@@ -53,7 +53,7 @@
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
-"[WARP is not a VPN for privacy](https://www.piavpnaymodqeuza.onion/blog/2019/09/warp-is-not-a-vpn-for-privacy/)" by [https://www.privateinternetaccess.com/](Private Internet Access)
+"[WARP is not a VPN for privacy](https://www.piavpnaymodqeuza.onion/blog/2019/09/warp-is-not-a-vpn-for-privacy/)" by [Private Internet Access](https://www.privateinternetaccess.com/)
 
 "[Cloudflare - why the fuss?](https://decentralize.today/decentralization/cloudflare-why-the-fuss)" by [O S Layman](https://decentralize.today/cryptocurrency/blogger/big-h)
 
