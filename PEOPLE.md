@@ -1123,6 +1123,18 @@
 
 "but because we’ve centralized the Internet so much, companies like Cloudflare, Google, and Facebook become arbiters of who speaks" by @[Pinboard](https://twitter.com/Pinboard/status/897983409552740352)
 
+"I dumped Cloudflare years ago. I would get messages saying, "Cloudflare fine, site down," then i would go to the backend and disable Cloudflare, and guess what? Suddenly the site was accessible again! Happened several times on two different sites!" by @[The__Pigman](https://twitter.com/The__Pigman/status/1146208287408287744)
+
+"my site is suddenly gone -- what can I do to determine what has happened and retrieve the configuration??" by @[lordscarlet](https://twitter.com/lordscarlet/status/1046785164792205314)
+
+"cloudflare had a site hosted on your free plan for years and it was suddenly deleted. no changes to the hosting. had to re-add it." by @[derivativeburke](https://twitter.com/derivativeburke/status/903755267053117440)
+
+"Suddenly required to pass a CAPTCHA when visiting my web site." by @[ColinTheMathmo](https://twitter.com/ColinTheMathmo/status/858708744003358720)
+
+"I am suddenly confronted with an Error 1104, CNAME Cross-User Banned. " by @[WBommel](https://twitter.com/WBommel/status/834865647339331588)
+
+"Yes, my site is suddenly down with the same error as well." by @[grempe](https://twitter.com/grempe/status/834856452296630272)
+
 "the Internet giants make decisions that affect elections, political speech, violent protests—and are answerable only to themselves" by @[Pinboard](https://twitter.com/Pinboard/status/897984010562949120)
 
 "annoying part was cloudflare" by @[AltichaDev](https://twitter.com/AltichaDev/status/1113892225472192512)
