@@ -48,8 +48,8 @@ How can we stop _Cloudflare spammers_ without activating Cloudflare?
 
 
 Cloudflare has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5).
-Cloudflare [shares personal information](https://archive.ph/ePdvi) of those who complain about hosted sites. They sometimes ask you to provide
-your true ID. If you don't want to get harassed, assaulted, [swatted](https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html) or killed, you better stay away from Cloudflared websites.
+Cloudflare [shares personal information](https://archive.ph/ePdvi) of those [who](https://twitter.com/ZJemptv/status/898299709634248704) [complain](https://twitter.com/TinyPirate/status/554718958176067584) [about](https://twitter.com/remembrancermx/status/1010329041235148802) [hosted](https://twitter.com/Bridaguy/status/915003769280172037) [sites](https://twitter.com/HelloAndrew/status/897260208845500416). They sometimes ask you to provide
+your true ID. If you don't want to get harassed, assaulted, [swatted](https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html) or [killed](https://twitter.com/RusEmbUSA/status/1187363092793040901), you better stay away from Cloudflared websites.
 
 
 ![](image/cfdox_what.jpg)
