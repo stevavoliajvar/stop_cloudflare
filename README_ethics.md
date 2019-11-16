@@ -3,6 +3,8 @@
 ![](image/itsreallythatbad.jpg)
 ![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
+"_Don't support this company which is void of ethics_" -- [phyzonloop](https://twitter.com/phyzonloop)
+
 ---
 
 Table of contents
@@ -41,7 +43,7 @@ How can we stop _Cloudflare spammers_ without activating Cloudflare?
 
 ### Remove user's review
 
-Cloudflare censor negative reviews. If you post anti-Cloudflare text to Twitter, you have a chance to get a reply from Cloudflare employee with "_No, it's not_" message. If you post a negative review on any review site, they will try to censor it.
+Cloudflare censor negative reviews. If you post anti-Cloudflare text to Twitter, you have a chance to get a [reply](https://twitter.com/CloudflareHelp/status/1126051764917145601) from [Cloudflare employee](cloudflare_inc/cloudflare_members.txt) with "_[No, it's not](PEOPLE.md)_" message. If you post a negative review on any review site, [they will try to censor it](https://twitter.com/dxgl_org/status/1178722159432220672).
 
 ![](image/cfcenrev_01.jpg)
 ![](image/cfcenrev_02.jpg)
