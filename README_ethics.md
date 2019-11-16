@@ -41,6 +41,11 @@ How can we stop _Cloudflare spammers_ without activating Cloudflare?
 
 ### Remove user's review
 
+Cloudflare censor negative reviews. If you post anti-Cloudflare text to Twitter, you have a chance to get a reply from Cloudflare employee with "_No, it's not_" message. If you post a negative review on any review site, they will try to censor it.
+
+![](image/cfcenrev_01.jpg)
+![](image/cfcenrev_02.jpg)
+![](image/cfcenrev_03.jpg)
 
 ---
 
