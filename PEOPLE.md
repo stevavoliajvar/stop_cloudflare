@@ -368,6 +368,8 @@
 
 "Cloudflare attempted to CENSOR this negative review on Trustpilot." by @[phyzonloop](https://twitter.com/phyzonloop/status/1194458264026660864)
 
+"Ukrainian extremist website Myrotvorets still operates protected by Cloudflare. It contains doxxed info on thousands of people disagreeable to Ukrainian extremists, including #US journalists who visited Donbas. Several persons, who were on this portal, were killed." by @[RusEmbUSA](https://twitter.com/RusEmbUSA/status/1187363092793040901)
+
 "Also, can anyone from UKLabour  or Cloudflare explain why I haven't been able to access the Labour Party website for a day?" by @[BernieSnell](https://twitter.com/BernieSnell/status/1194688395164950528)
 
 "You having a bad day ? I am having voip trouble, tried logging in to your customer-zone and getting cloudflare errors.." by @[4t4ri](https://twitter.com/4t4ri/status/1194613025535381505)
@@ -1275,6 +1277,8 @@
 
 "Cloudflare deleted my domain config I lost all my DNS settings no wonder why my emails were not working." by @[stefan_eady](https://twitter.com/stefan_eady/status/1126033791267426304)
 
+"If you file a complaint, it’s sent to the folks hosting Kiwifarms & they give the complaint directly to Kiwifarms to dox victims further." by @[remembrancermx](https://twitter.com/remembrancermx/status/1010329041235148802)
+
 "We're about to find out if #Cloudflare keeps your #IPAddress anywhere." by @[shadesmaclean](https://twitter.com/shadesmaclean/status/1125516351966027776)
 
 "Cloudflare, if you don't know this; we have seriously misplaced our trust in you." by @[ADoug](https://twitter.com/ADoug/status/1125266988966739968)
@@ -1305,7 +1309,11 @@
 
 "We are trusting one secretive, private company with censoring the web. We’re essentially centralising a decentralised system once again." by @[steve228uk](https://twitter.com/steve228uk/status/1061949645113511939)
 
+"They dox anyone who complains. They are the world's top spambot host." by @[HelloAndrew](https://twitter.com/HelloAndrew/status/897260208845500416)
+
 "Chiming in here, of course, but Cloudflare ARE censoring people." by @[misslolahunt](https://twitter.com/misslolahunt/status/1106745032722137088)
+
+"Just as a warning to others. Because if you fill out a cloudflare complaint, it’ll dox anyone else to the site." by @[Bridaguy](https://twitter.com/Bridaguy/status/915003769280172037)
 
 " I do not appreciate "Cloud flare" unilaterally censoring conservative sites I choose to visit and comment on" by @[Suchindranath](https://twitter.com/Suchindranath/status/1086253299064438784)
 
@@ -1910,6 +1918,8 @@
 "I wanted to tweet a pic about how overwhelmed with mail I am right now but it is #Cloudflare blocked so I'll just tweet #dontblocktor again." by @[shiromarieke](https://twitter.com/shiromarieke/status/707509515260973057)
 
 "why does a 403 response state we banned access because of browser signature?" by @[friedcell](https://twitter.com/friedcell/status/562634060057821185)
+
+"cloudflare dox's people who report illegal customer activity. Silicon Valley morality" by @[TinyPirate](https://twitter.com/TinyPirate/status/554718958176067584)
 
 "I would have to whitelist pretty much my entire readership. It is banning based on "browser signature"" by @[skinnypupp](https://twitter.com/skinnypupp/status/113637917741678592)
 
