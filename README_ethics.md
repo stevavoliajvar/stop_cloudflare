@@ -77,7 +77,7 @@ CloudFlare is asking for [charitable contributions](https://web.archive.org/web/
 
 ### Terminating sites
 
-What will you do if your site goes down _suddenly_? There are reports that Cloudflare is deleting user's configuration silently. We suggest you find better hosting provider - there are many services to choose from.
+What will you do if your site goes down _suddenly_? There are reports that Cloudflare is [deleting](https://twitter.com/stefan_eady/status/1126033791267426304) [user's](https://twitter.com/derivativeburke/status/903755267053117440) [configuration](https://twitter.com/lordscarlet/status/1046785164792205314) [silently](https://twitter.com/BlnaryMlke/status/1194339461984854018). We suggest you find [better provider](what-to-do.md).
 
 ![](image/cftmnt.jpg)
 
