@@ -21,9 +21,10 @@ Table of contents
 
 Cloudflare is sending spam emails to non-Cloudflare users.
 
-`Only send emails to subscribers who’ve opted in.`
-
-`When the user say "stop", then stop sending email.`
+```
+"Only send emails to subscribers who’ve opted in"
+"When the user say "stop", then stop sending email"
+```
 
 It's that simple. But Cloudflare don't care.
 Cloudflare said using their service [can stop all spammers or attackers](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers-).
@@ -44,6 +45,18 @@ How can we stop _Cloudflare spammers_ without activating Cloudflare?
 ---
 
 ### Doxxing users
+
+
+Cloudflare has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5).
+Cloudflare [shares personal information](https://archive.ph/ePdvi) of those who complain about hosted sites. They sometimes ask you to provide
+your true ID. If you don't want to get harassed, assaulted, [swatted](https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html) or killed, you better stay away from Cloudflared websites.
+
+
+![](image/cfdox_what.jpg)
+![](image/cfdox_swat.jpg)
+![](image/cfdox_kill.jpg)
+![](image/cfdox_threat.jpg)
+![](image/cfdox_dox.jpg)
 
 ---
 
