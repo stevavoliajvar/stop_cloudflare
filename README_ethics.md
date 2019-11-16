@@ -9,8 +9,6 @@
 
 Table of contents
 
-` D R A F T `
-
 - [Unwanted spam emails](README_ethics.md#unwanted-spam-emails)
 - [Remove user's review](README_ethics.md#remove-users-review)
 - [Doxxing users](README_ethics.md#doxxing-users)
@@ -81,9 +79,10 @@ CloudFlare is asking for [charitable contributions](https://web.archive.org/web/
 
 What will you do if your site goes down _suddenly_? There are reports that Cloudflare is deleting user's configuration silently. We suggest you find better hosting provider - there are many services to choose from.
 
-![](image/cftmnt_01.jpg)
-![](image/cftmnt_02.jpg)
+![](image/cftmnt.jpg)
 
 ---
+
+### Next: **[Cloudflare Voices](PEOPLE.md)**
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
