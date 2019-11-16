@@ -23,10 +23,8 @@ Table of contents
 
 Cloudflare is sending spam emails to non-Cloudflare users.
 
-```
-"Only send emails to subscribers who’ve opted in"
-"When the user say "stop", then stop sending email"
-```
+- Only send emails to subscribers who’ve opted in
+- When the user say "stop", then stop sending email
 
 It's that simple. But Cloudflare don't care.
 Cloudflare said using their service [can stop all spammers or attackers](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers-).
@@ -44,6 +42,7 @@ How can we stop _Cloudflare spammers_ without activating Cloudflare?
 ### Remove user's review
 
 Cloudflare censor [negative reviews](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). If you post _anti-Cloudflare_ text on Twitter, you have a chance to get a [reply](https://twitter.com/CloudflareHelp/status/1126051764917145601) from [Cloudflare employee](cloudflare_inc/cloudflare_members.txt) with "_[No, it's not](PEOPLE.md)_" message. If you post a negative review on any review site, they will try to [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672).
+
 
 ![](image/cfcenrev_01.jpg)
 ![](image/cfcenrev_02.jpg)
@@ -71,7 +70,10 @@ your true ID. If you don't want to get harassed, assaulted, [swatted](https://bo
 
 ### Charitable contributions
 
-// https://web.archive.org/web/https://opencollective.com/cloudflarecollective#section-about
+CloudFlare is asking for [charitable contributions](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about). It’s quite appalling that an American corporation would ask for charity alongside non-profit organizations that have good causes. If you like [blocking people or wasting other people's time](PEOPLE.md), you might want to order some pizza🍕 for Cloudflare employees.
+
+
+![](image/cfdonate.jpg)
 
 ---
 
