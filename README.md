@@ -79,20 +79,6 @@ Tor _was_ developed by US Army, but current Tor is developed by the [Tor project
 
 ---
 
-Cloudflare also has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5).
-Cloudflare [shares personal information](https://archive.ph/ePdvi) of those who complain about hosted sites. They sometimes ask you to provide
-your true ID. If you don't want to get harassed, assaulted, [swatted](https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html) or killed, you better stay away from Cloudflared websites.
-
----
-
-![](image/cfdox_what.jpg)
-![](image/cfdox_swat.jpg)
-![](image/cfdox_kill.jpg)
-![](image/cfdox_threat.jpg)
-![](image/cfdox_dox.jpg)
-
----
-
 And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning fake IP address owned by Cloudflare, localhost IP such as "127.0.0.x", or just return nothing. Cloudflare DNS also break online software from smartphone app to computer game because of their fake DNS answer.
 
 ---
