@@ -57,6 +57,8 @@ your true ID. If you don't want to get harassed, assaulted, [swatted](https://bo
 ![](image/cfdox_kill.jpg)
 ![](image/cfdox_threat.jpg)
 ![](image/cfdox_dox.jpg)
+![](image/cfdox_ex1.jpg)
+![](image/cfdox_ex2.jpg)
 
 ---
 
