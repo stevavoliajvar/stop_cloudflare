@@ -20,7 +20,7 @@ Cloudflare.
 | ----------------- | --------------------------------- | ------ | ---- |
 | PerimeterX        | not gratis                        | ? | - |
 | Impurva incapsula | not gratis                        | Paid | - |
-| Github pages      | uses Microsoft servers            | Free | - |
+| Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
 | Gitlab pages      | uses Google servers           | Free | https://gitlab.com/pages/ (WARNING: Some area of Gitlab is Cloudflare) |
 
 ## Not researched yet
