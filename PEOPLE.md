@@ -141,6 +141,8 @@ Table of contents
 
 ### Forum / Wiki
 
+"[The Great Cloudwall](https://lobste.rs/s/xkwcl3)" by [caioalonso](https://lobste.rs/u/caioalonso)
+
 "[Proposal: Remove Cloudflare from the official Bitcoin Cash website](https://www.reddit.com/r/btc/comments/docdui/proposal_remove_cloudflare_from_the_official/)" by [LeoBeltran](https://www.reddit.com/user/LeoBeltran/)
 
 "[Now that Cloudflare Warp has gone public, is it still the worst thing EVER?](https://www.reddit.com/r/privacytoolsIO/comments/da1lx3/now_that_cloudflare_warp_has_gone_public_is_it/)" by [Anaranovski](https://www.reddit.com/user/Anaranovski)
