@@ -366,6 +366,16 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"was just perusing looking for some info using Tor and your website wouldn’t load due to CloudFlare DDoS protection." by @[PupGhost](https://twitter.com/PupGhost/status/1196098648846819328)
+
+"Is the Tor DNS resolver down? I can't hit it or the favicon. It's okay, I just want to know so I can stop trying to get this working" by @[RenoMcK](https://twitter.com/RenoMcK/status/1195556205927600128)
+
+"This is the page that loads when I try to load KSR :( " by @[NickNafster79](https://twitter.com/NickNafster79/status/1191427322261495814)
+
+"Me: visiting a website with tor traffic Cloudflare: (chuckles) I'm in danger." by @[LinuxKodachi](https://twitter.com/LinuxKodachi/status/1190654141036523520)
+
+"I love Tor, but too many sites are inaccessible when using it, thanks to CDNs imposing captchas on Tor connections, which don’t render properly because they all use Google stalkertech. Artificial creation of false ‘security vs privacy’ dichotomy. Looking at YOU, Cloudflare" by @[MissIG_Geek](https://twitter.com/MissIG_Geek/status/1189186672270819328)
+
 "البته اگر حریم خصوصی مهم باشه اصلا توصیه نمیشه CloudFlare استفاده کرد به دلایل زیر" by @[Snbig_](https://twitter.com/Snbig_/status/1171836697694351360)
 
 "bitte kein cloudflare benutzen. niemals jemals. einfach nein. cloudflare ist ein big no no." by @[krizpin](https://twitter.com/krizpin/status/1176757352093106178)
