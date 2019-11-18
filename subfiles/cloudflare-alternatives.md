@@ -16,7 +16,7 @@ Cloudflare.
 
 ## Alternatives
 | Alternative       | Drawback                          | Price | Link |
-| ----------------- | --------------------------------- | ? | - |
+| ----------------- | --------------------------------- | ------ | ---- |
 | PerimeterX        | not gratis                        | ? | - |
 | Impurva incapsula | not gratis                        | Paid | - |
 | Github pages      | uses Microsoft servers            | Free | - |
