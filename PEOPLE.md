@@ -1,17 +1,30 @@
-# Other Voices
+# "Cloudflare, we have a problem"
 
-!["Cloudflare is not an option."](image/cfisnotanoption.jpg)
+![](image/itsreallythatbad.jpg)
+![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "_It's endangering the WWW and you're blocking readers who are protecting their privacy by using Tor._" -- [Mr. Jeff Cliff, BSc](https://twitter.com/jeffcliff1/status/992571841406537728)
 
 "_You shouldn't use it if you value visitor's privacy._" -- [Searxes](https://searxes.eu.org/)
 
+---
+
+Table of contents
+
+- [News](PEOPLE.md#news)
+- [Blog](PEOPLE.md#blog)
+- [Forum / Wiki](PEOPLE.md#forum-wiki)
+- [Microsoft Github](PEOPLE.md#microsoft-github)
+- [Twitter](PEOPLE.md#twitter-aka-birdsite)
+- [Mastodon](PEOPLE.md#mastodon)
+- [Telegram](PEOPLE.md#telegram)
+
+---
 
 ![](image/butitsdown.jpg)
 
-------
 
-######  News
+### News
 
 "[CloudflareのDNSだと「5ちゃんねる」に接続できない？　ネットで話題に](https://www.itmedia.co.jp/news/articles/1908/09/news108.html)" by [itmedia](https://www.itmedia.co.jp/news/)
 
@@ -49,7 +62,7 @@
 
 ------
 
-######  Blog
+### Blog
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
@@ -125,7 +138,7 @@
 
 ------
 
-######  Forum / Wiki
+### Forum / Wiki
 
 "[Proposal: Remove Cloudflare from the official Bitcoin Cash website](https://www.reddit.com/r/btc/comments/docdui/proposal_remove_cloudflare_from_the_official/)" by [LeoBeltran](https://www.reddit.com/user/LeoBeltran/)
 
@@ -273,7 +286,7 @@
 
 ------
 
-######  Microsoft GitHub
+### Microsoft GitHub
 
 "[Handle new cloudflare blocking](https://github.com/krues8dr/lazuli/issues/29)" by [krues8dr](https://github.com/krues8dr)
 
@@ -342,7 +355,7 @@
 
 ------
 
-###### Twitter (aka "Birdsite")
+### Twitter
 
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
@@ -2007,7 +2020,7 @@
 
 ------
 
-######  Mastodon
+### Mastodon
 
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
@@ -2261,7 +2274,7 @@ Jede Seite, die mich dazu drängt, ein #Google #Captcha zu lösen, damit ich mir
 
 ------
 
-###### Telegram
+### Telegram
 
 Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https://t.me/privacytoday), etc
 
