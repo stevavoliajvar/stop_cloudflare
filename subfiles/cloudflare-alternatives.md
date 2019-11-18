@@ -13,13 +13,14 @@ more aimed at technical people.
 We might create a guide for some self-hosting basics which don't require 
 Cloudflare.
 
+
 ## Alternatives
-| Alternative       | Drawback                          |
-| ----------------- | --------------------------------- |
-| PerimeterX        | not gratis                        |
-| Impurva incapsula | not gratis                        |
-| Github pages      | uses Microsoft servers            |
-| Gitlab pages      | uses the Google servers           |
+| Alternative       | Drawback                          | Price | Link |
+| ----------------- | --------------------------------- | ? | - |
+| PerimeterX        | not gratis                        | ? | - |
+| Impurva incapsula | not gratis                        | Paid | - |
+| Github pages      | uses Microsoft servers            | Free | - |
+| Gitlab pages      | uses the Google servers           | Free | - |
 
 ## Not researched yet
 ### CDNJS
