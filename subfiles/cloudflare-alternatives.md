@@ -1,7 +1,10 @@
 [Home](../README_short.md)
 
+---
+
 # CrimeFlarE
-***Why you should say no to Cloudflare***
+***Why you should say "No" to Cloudflare***
+
 
 ## Self-hosting
 Self-hosting often works great, but it requires some effort to setup. It is 
