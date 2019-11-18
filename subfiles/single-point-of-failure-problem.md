@@ -1,7 +1,10 @@
 [Home](../README_short.md)
 
+---
+
 # CrimeFlarE
-***Why you should say no to Cloudflare***
+***Why you should say "No" to Cloudflare***
+
 
 ## Single point of failure problem
 A single point of failure is a point which will stop the entire system from 
