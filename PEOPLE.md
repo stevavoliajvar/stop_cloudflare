@@ -2158,6 +2158,8 @@ Ich als Anbieter könnte echt nicht mit dem Gewissen leben,meine Besucher so zu 
 
 "Even the main instance uses Cloudflare. New users will probably just use the main instance for convenience." by @[RMW](https://linuxrocks.online/@RMW)
 
+"I use to think it was cool that you can pay a little bit and have your own instance but it sucks that they put every instance behind Cloudflare." by @[amolith](https://masto.nixnet.xyz/@amolith/101918685210269597)
+
 "Don't laugh when #cloudflare says “the network is the computer.” They mean #surveillance and they mean the surveillance goes all the way to the endpoints. Boycott them and their nefarious agenda." by @[roy](https://pleroma.site/objects/1ddf444d-0f2c-4d0d-bc11-e06f28efd5bc)
 
 "I think I've found an alternative to #Cloudflare Liberapay. I'm going to set #Fosspay up this evening and start replacing Liberapay links on my website" by @[amolith](https://masto.nixnet.xyz/@amolith/102436150784521976)
