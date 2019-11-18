@@ -15,7 +15,7 @@ Table of contents
 - [Blog](PEOPLE.md#blog)
 - [Forum / Wiki](PEOPLE.md#forum-wiki)
 - [Microsoft Github](PEOPLE.md#microsoft-github)
-- [Twitter](PEOPLE.md#twitter-aka-birdsite)
+- [Twitter](PEOPLE.md#twitter)
 - [Mastodon](PEOPLE.md#mastodon)
 - [Telegram](PEOPLE.md#telegram)
 
