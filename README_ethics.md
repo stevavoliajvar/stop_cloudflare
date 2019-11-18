@@ -68,7 +68,7 @@ your true ID. If you don't want to get harassed, [assaulted](https://twitter.com
 
 ### Charitable contributions
 
-CloudFlare is asking for [charitable contributions](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about). It’s quite appalling that an American corporation would ask for charity alongside non-profit organizations that have good causes. If you like [blocking people or wasting other people's time](PEOPLE.md), you might want to order some pizza🍕 for Cloudflare employees.
+CloudFlare is asking for [charitable contributions](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about). It’s quite appalling that an American corporation would ask for charity alongside non-profit organizations that have good causes. If you like [blocking people or wasting other people's time](PEOPLE.md), you might want to order some pizzas🍕 for Cloudflare employees.
 
 
 ![](image/cfdonate.jpg)
