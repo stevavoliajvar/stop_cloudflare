@@ -366,6 +366,14 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"I fail to see how Cloudflare would be any improvement for me, even without DoT." by @[jornbaer](https://twitter.com/jornbaer/status/1184895606373961734)
+
+"don't send my traffic via Cloudflare, where the NSA can definitly read it." by @[jornbaer](https://twitter.com/jornbaer/status/1184896773086744576)
+
+"Cloudflare responses 502  Bad gateway. So,I cannot access my account." by @[Lain_Wired_Net](https://twitter.com/Lain_Wired_Net/status/1195191788153298944)
+
+"hey! I cannot access any of my apps for extra life, says cloudflare has banned me :(" by @[MatthewDaleC](https://twitter.com/MatthewDaleC/status/1190819639263137797)
+
 "was just perusing looking for some info using Tor and your website wouldn’t load due to CloudFlare DDoS protection." by @[PupGhost](https://twitter.com/PupGhost/status/1196098648846819328)
 
 "Is the Tor DNS resolver down? I can't hit it or the favicon. It's okay, I just want to know so I can stop trying to get this working" by @[RenoMcK](https://twitter.com/RenoMcK/status/1195556205927600128)
@@ -375,6 +383,10 @@ Table of contents
 "Me: visiting a website with tor traffic Cloudflare: (chuckles) I'm in danger." by @[LinuxKodachi](https://twitter.com/LinuxKodachi/status/1190654141036523520)
 
 "I love Tor, but too many sites are inaccessible when using it, thanks to CDNs imposing captchas on Tor connections, which don’t render properly because they all use Google stalkertech. Artificial creation of false ‘security vs privacy’ dichotomy. Looking at YOU, Cloudflare" by @[MissIG_Geek](https://twitter.com/MissIG_Geek/status/1189186672270819328)
+
+"Not to mention, of course, that Cloudflare is also the prime target for mass surveillance" by @[TheBlueMatt](https://twitter.com/TheBlueMatt/status/1178424585244553216)
+
+"Their dns infrastructure just became a prime target for all intelligence agencies. And I think we can safely assume that NSA / Five Eyes will have, or allready have access to that data. With or without cloudflare's cooperation." by @[HackyScientress](https://twitter.com/HackyScientress/status/1188161788619251712)
 
 "البته اگر حریم خصوصی مهم باشه اصلا توصیه نمیشه CloudFlare استفاده کرد به دلایل زیر" by @[Snbig_](https://twitter.com/Snbig_/status/1171836697694351360)
 
