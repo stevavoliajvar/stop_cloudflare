@@ -1,7 +1,10 @@
 [Home](../README_short.md)
 
+---
+
 # CrimeFlarE
-***Why you should say no to Cloudflare***
+***Why you should say "No" to Cloudflare***
+
 
 ## Why Tor matters.
 ### Your users matter
