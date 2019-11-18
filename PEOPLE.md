@@ -23,6 +23,7 @@ Table of contents
 
 ![](image/butitsdown.jpg)
 
+---
 
 ### News
 
@@ -2309,3 +2310,7 @@ Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https
 
 ![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 ![](image/telegram/668c1ba0df11d5d8ef81b24e767ea3f7.jpg)
+
+---
+
+!["Cloudflare is not an option."](image/cfisnotanoption.jpg)
