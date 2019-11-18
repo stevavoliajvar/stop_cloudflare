@@ -153,6 +153,8 @@ Table of contents
 
 "[What makes CloudFlare bad?](https://www.reddit.com/r/privacy/comments/cki0s5/what_makes_cloudflare_bad/)" by [Spadey0](https://www.reddit.com/user/Spadey0/)
 
+"[The Great Cloudwall](https://sebsauvage.net/links/?beq2fA)" by [sebsauvage](https://framapiaf.org/@sebsauvage)
+
 "[DNS over HTTPS](http://oxwugzccvk3dk6tj.onion/tech/res/1082196.html)"
 
 "[Cloudflare = CIA](http://oxwugzccvk3dk6tj.onion/tech/res/1032001.html)"
@@ -361,6 +363,10 @@ Table of contents
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
+
+"البته اگر حریم خصوصی مهم باشه اصلا توصیه نمیشه CloudFlare استفاده کرد به دلایل زیر" by @[Snbig_](https://twitter.com/Snbig_/status/1171836697694351360)
+
+"bitte kein cloudflare benutzen. niemals jemals. einfach nein. cloudflare ist ein big no no." by @[krizpin](https://twitter.com/krizpin/status/1176757352093106178)
 
 "You getting a Cloudflare error too?" by @[michaeldexter](https://twitter.com/michaeldexter/status/1193326043899158528)
 
