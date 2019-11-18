@@ -21,7 +21,7 @@ Cloudflare.
 | PerimeterX        | not gratis                        | ? | - |
 | Impurva incapsula | not gratis                        | Paid | - |
 | Github pages      | uses Microsoft servers            | Free | - |
-| Gitlab pages      | uses the Google servers           | Free | - |
+| Gitlab pages      | uses Google servers           | Free | https://gitlab.com/pages/ (WARNING: Some area of Gitlab is Cloudflare) |
 
 ## Not researched yet
 ### CDNJS
