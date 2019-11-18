@@ -1,7 +1,7 @@
 # CrimeFlarE
-***Why you should say no to Cloudflare***
+***Why you should say "NO" to Cloudflare***
 
-`This is a draft`
+# `This is a draft`
 
 ![CrimeFlarE logo](image/crimeflare-logo.png)
 
@@ -81,9 +81,9 @@ We created a
 to make your life easier if you agree with us.
 ## Solutions
 ### Blocking Cloudflare request or IPs
-- [Add-ons](subtext/solutions/add-ons.md)
-- [Cloudflare IPs to block](subtext/solutions/cloudflare-ips.md)
-- [Change default DNS provider of firefox](subtext/solutions/change-firefox-dns.md)
+- [Add-ons](subtext/add-ons.md)
+- [Cloudflare IPs to block](cloudflare_inc/)
+- [Change default DNS provider of firefox](subtext/change-firefox-dns.md)
 
 ### Share information about the problem
 Many supporters of CrimeFlarE have written some

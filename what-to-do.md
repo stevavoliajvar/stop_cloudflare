@@ -73,15 +73,15 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 | Name | Developer | Support | Can Block | Can Notify |
 | -------- | -------- | -------- | -------- | -------- |
-| **[Bloku Cloudflaron MITM-Atakon](https://searxes.eu.org/)** | Searxes | [Link](https://searxes.eu.org/) | **Yes**     | **Yes**     |
-| **[Ĉu ligoj estas vundeblaj al MITM-atako?](https://searxes.eu.org/)** | Searxes | [Link](https://searxes.eu.org/) | No     | **Yes**     |
+| **[Bloku Cloudflaron MITM-Atakon](addon/about.bcma.md)** | Searxes | [Link](https://searxes.eu.org/) | **Yes**     | **Yes**     |
+| **[Ĉu ligoj estas vundeblaj al MITM-atako?](addon/about.ismm.md)** | Searxes | [Link](https://searxes.eu.org/) | No     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 | [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) | Gokulakrishna Sudharsan | [Link](https://web.archive.org/web/https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
 
 
-- Convince your friends to use [Tor Browser](https://www.torproject.org/) on the daily basis. Anonymity should be the standard of the open internet!
-- If you cannot use Tor for some reason, you can use Tor Browser without Tor. We'll show you how below.
+- Convince your friends to use [Tor](https://www.torproject.org/download/tor/) on the daily basis. Anonymity should be the standard of the open internet!
+
 
 ------------
 
@@ -209,16 +209,19 @@ die();
 
 | Name | Developer | Support | Comment |
 | -------- | -------- | -------- | -------- |
-| [*Tor Browser*](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux) |
+| **[Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)** | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/) | PC (Win, Mac, Linux)  _Not Tor_ |
+| **[Bromite](https://www.bromite.org/fdroid)** | Bromite | [Link](https://github.com/bromite/bromite/issues) | Android  _Not Tor_ |
+| [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux) |
 | [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android |
 | [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS |
-| [Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/) | PC (Win, Mac, Linux)  _Not Tor_ |
-| [Bromite](https://www.bromite.org/fdroid) | Bromite | [Link](https://github.com/bromite/bromite/issues) | Android  _Not Tor_ |
+
 
 Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect".
 There is no 100% secure nor 100% private on the internet and technology.
 
-- Don't want to use "Tor"? You can use Tor Browser without Tor, and this is the best option for you.
+- Don't want to use "Tor"? You can use _any browser_ with [Tor daemon](https://packages.debian.org/search?searchon=names&keywords=tor).
+
+- It may be possible to use "Tor Browser" without Tor:
 
 > **How?**
 > 1. Download [Tor Browser](https://www.torproject.org/) and launch it.
@@ -226,15 +229,13 @@ There is no 100% secure nor 100% private on the internet and technology.
 > 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*true*".
 > 4. Create new boolean "*extensions.torlauncher.start_tor*". Set it to "*false*".
 > 5. Close Tor Browser.
->
-> (In version 9.0, Tor project suddenly removed the ability to set custom proxy. Ask your friend for help if you still unable to disable Tor.)
 > 
 > Other guide is [here](https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor).
 
 
 Let's talk about _other software's privacy_...
 
-- If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)". ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in [many ways](https://spyware.neocities.org/articles/firefox.html).
+- **If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)"**. ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in [many ways](https://spyware.neocities.org/articles/firefox.html).
 
 - Remember, Mozilla is [using Cloudflare service](https://www.robtex.com/dns-lookup/www.mozilla.org). They're also using [Cloudflare's DNS service on their product](https://www.theregister.co.uk/2018/03/21/mozilla_testing_dns_encryption/) D'oh!
 
@@ -273,6 +274,7 @@ Therefore we recommend above table only. Nothing else.
 > 		"*://*.mozilla.com/*",
 > 		"*://*.mozilla.net/*",
 > 		"*://*.mozilla.org/*",
+> 		"*://webcompat.com/*",
 > 		"*://*.firefox.com/*",
 > 		"*://*.thunderbird.net/*",
 > 		"*://*.cloudflare.com/*"
@@ -280,7 +282,7 @@ Therefore we recommend above table only. Nothing else.
 >     },
 
 
-- ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin last year.
+- ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin in 2018.
 
 - To disable DOH, enter *about:config?filter=network.trr* in the address bar then set "*network.trr.mode*" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
 
@@ -321,8 +323,6 @@ Therefore we recommend above table only. Nothing else.
 - Let us know of any alternatives to help at least provide multiple layered defence against Cloudflare.
 
 - If you are a Cloudflare customer, set your privacy settings, and wait for them to violate them.  Then bring them under [anti-spam / privacy violation charges](https://twitter.com/thexpaw/status/1108424723233419264).
-
-- Try using [globalist](globalist.txt) to maintain this list.
 
 - If you are in the **United States of America** and the website in question is a bank or an accountant, try to bring legal pressure under the [Gramm–Leach–Bliley Act](https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act), or the [Americans with DIsabilities Act](https://www.ada.gov/cguide.htm) and report back to us how far you get. 
 

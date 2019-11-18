@@ -1,13 +1,23 @@
 # The Great Cloudwall
 
 ![](image/itsreallythatbad.jpg)
-
 ![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 ---
 
+Table of contents
+
+- [No Cloudflare](README.md#no-cloudflare)
+-     [Next: Cloudflare Ethics](README.md#next-cloudflare-ethics)
+- [Data & More Information](README.md#data-more-information)
+- [What can you do?](README.md#what-can-you-do)
+
+---
+
+## No Cloudflare
+
 "The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the [U.S. company](https://en.wikipedia.org/wiki/Cloudflare).
-It is the world's [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
+It is the [world's](https://almanac.httparchive.org/en/2019/cdn) [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
 It sits between you and origin webserver, acting like a [border patrol agent](https://www.cbp.gov/careers/bpa).
 The origin webserver administrator allowed the agent to decide [who can access](https://gitlab.com/iblech/tor-appeal/issues/1) to their "_web property_" and define "_restricted area_".
 
@@ -66,40 +76,6 @@ Tor _was_ developed by US Army, but current Tor is developed by the [Tor project
 ![](image/banvpn.jpg)
 ![](image/whousetor.jpg)
 ![](image/iusetor_alith.jpg)
-
----
-
-Cloudflare also has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5).
-Cloudflare [shares personal information](https://archive.ph/ePdvi) of those who complain about hosted sites. They sometimes ask you to provide
-your true ID. If you don't want to get harassed, assaulted, [swatted](https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html) or killed, you better stay away from Cloudflared websites.
-
----
-
-![](image/cfdox_what.jpg)
-![](image/cfdox_swat.jpg)
-![](image/cfdox_kill.jpg)
-![](image/cfdox_threat.jpg)
-![](image/cfdox_dox.jpg)
-
----
-
-Let's talk about another harassment problem. Cloudflare is sending spam emails to non-Cloudflare users.
-
-`Only send emails to subscribers who’ve opted in.`
-
-`When the user say "stop", then stop sending email.`
-
-It's that simple. But Cloudflare don't care.
-Cloudflare said using their service [can stop all spammers or attackers](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers-).
-How can we stop _Cloudflare spammers_ without activating Cloudflare?
-
----
-
-![](image/cfspam01.jpg)
-![](image/cfspam03.jpg)
-![](image/cfspam02.jpg)
-![](image/cfspambrittany.jpg)
-![](image/cfspamtwtr.jpg)
 
 ---
 
@@ -182,7 +158,11 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
 
+### Next: **[Cloudflare Ethics](README_ethics.md)**
+
 ---
+
+## Data & More Information
 
 This repository is a list of websites that are behind "_The Great Cloudwall_", and also blocking Tor users.
 
@@ -196,7 +176,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 ![](image/goodorbad.jpg)
 
 
-**Information**
+**More Information**
 * [Short version of README](README_short.md)
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
@@ -205,18 +185,17 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 * [Cloudflare Watch](http://www.crimeflare.org:82/) (cons: _down quite a lot, old data, search restricted to EU only_)
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) by TheGoldenGoose8888
 * [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
-* [CloudFlare is asking for charitable contributions.](https://web.archive.org/web/https://opencollective.com/cloudflarecollective#section-about)
 
 ![](image/watcloudflare.jpg)
 
 
-# What can you do?
+## What can you do?
 
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends.
 
 * Read [other user's voice](PEOPLE.md) and write your thoughts.
 
-* Search something on [Ansero](http://ansero.xgwglrypkjbgecns2zru5ekyu7tnqgg7l5blojlq7roohxbwkr5k77id.onion/) or [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/).    ([clearnet](https://searxes.eu.org/))
+* Search something on [Ansero](http://ansero.xgwglrypkjbgecns2zru5ekyu7tnqgg7l5blojlq7roohxbwkr5k77id.onion/)<sub><sup> [ᶜˡᵉᵃʳⁿᵉᵗ](https://ansero.eu.org/)</sup></sub> or [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)<sub><sup> [ᶜˡᵉᵃʳⁿᵉᵗ](https://searxes.eu.org/)</sup></sub>.
 
 * Update the domain list: [List instructions](instructions.md).
 
