@@ -13,6 +13,7 @@ more aimed at technical people.
 We might create a guide for some self-hosting basics which don't require 
 Cloudflare.
 
+`to consider: Is user---incapsula---origin really okay?`
 
 ## Alternatives
 | Alternative       | Drawback                          | Price | Link |
