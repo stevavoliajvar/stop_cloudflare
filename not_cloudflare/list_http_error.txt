@@ -86,6 +86,7 @@ stefanv.com 403
 study.com 403
 techwalla.com 403
 thebalance.com 462
+thebalancesmb.com 462
 thespruceeats.com 462
 theverge.com 403
 tomsguide.com 403
