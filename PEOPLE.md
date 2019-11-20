@@ -366,6 +366,16 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"Do you know if this info  is on any other sites? Sadly patreon has been taken in on the foolishness that is CloudFlare & blocks tor nodes." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1196465140243320832)
+
+"hey, I'm using a VPN exiting in the DigitalOcean network. Cannot access this site." by @[AliveDevil95](https://twitter.com/AliveDevil95/status/1196409774323224576)
+
+"umm this cloudflare anti DOS shit blocked me from your site. LOL i know shit all about DDOSing or anything, the closest thing to that for me is going on Tor " by @[Undyingtmlg](https://twitter.com/Undyingtmlg/status/1196811999029743621)
+
+"Meta: Access Denied You don't have permission to access forums.tesla.com on this server. heh cloudflare" by @[charlieXwallace](https://twitter.com/charlieXwallace/status/1196875795794288640)
+
+"Someone kept getting their Cloudflare puzzle wrong and said enough is enough." by @[D_Downs](https://twitter.com/D_Downs/status/1146073021163040768)
+
 "I fail to see how Cloudflare would be any improvement for me, even without DoT." by @[jornbaer](https://twitter.com/jornbaer/status/1184895606373961734)
 
 "don't send my traffic via Cloudflare, where the NSA can definitly read it." by @[jornbaer](https://twitter.com/jornbaer/status/1184896773086744576)
@@ -423,6 +433,12 @@ Table of contents
 "I've been trying for almost 1,5 hour to order something in the outlet store. Keep getting "Cloudflare error 524" or "503 Service Unavailable"." by @[JWestra11](https://twitter.com/JWestra11/status/1192416998065627138)
 
 "Don't install Cloudflare's WARP "VPN". This is NOT A VPN by their own admission, and is a privacy MINEFIELD. This is a jaw dropping TOS, and I'm only a few paragraphs in." by @[notdan](https://twitter.com/notdan/status/1178339685795598336)
+
+"Did you know a foreign-owned cloud provider has access to online votes on their way to the digital ballot box? When electors in Canada’s Northwest Territories vote online, their ballots pass through Cloudflare servers and are briefly decrypted while in transit." by @[aleksessex](https://twitter.com/aleksessex/status/1176543023636897792)
+
+"As a protection against denial-of-service attacks you can pay cloud providers to act as a kind of friendly man-in-the-middle. But protection comes in exchange for a high degree of trust: they need access to application-layer data to do things like inject fingerprinting JavaScript" by @[aleksessex](https://twitter.com/aleksessex/status/1176543026853941248)
+
+"That means they have privileged access to see and change your vote. The legitimacy of the election relies on the assumption they won’t. They say the won’t, and so far we’ve seen nothing to contradict that. But how would you find out if they did? How do you know your counted?" by @[aleksessex](https://twitter.com/aleksessex/status/1176543027936018435)
 
 "Consumers simply do not stand a chance in hell these days understanding the technology surrounding them." by @[notdan](https://twitter.com/notdan/status/1178384818352066563)
 
