@@ -1,9 +1,21 @@
-# Instructions
---------------
+# List Instructions
+
+![](image/imnotarobot.gif)
+
+---
+
+Table of contents
+
+- [Website is using Cloudflare](instructions.md#website-is-using-cloudflare)
+- [Website is NOT using Cloudflare](instructions.md#website-is-not-using-cloudflare)
+- [How to setup git](instructions.md#how-to-setup-git)
+- [About Cloudflare base domain list](instructions.md#about-cloudflare-base-domain-list)
+
+---
 
 ## Website is using Cloudflare
 
-**Cloudflare users** | [**List Directory**](cloudflare_users/)
+- **Cloudflare users** | [**List Directory**](cloudflare_users/)
 
 | List name | Description |
 | -------- | -------- |
@@ -12,7 +24,7 @@
 | cloudflare_supporter.txt | who is using Cloudflare or endorsing Cloudflare. (URL only) |
 
 
-**Cloudflare Corporation** | [**List Directory**](cloudflare_inc/)
+- **Cloudflare Corporation** | [**List Directory**](cloudflare_inc/)
 
 | List name | Description |
 | -------- | -------- |
@@ -26,7 +38,7 @@
 | cloudflare_members.txt | Cloudflare employer & employee |
 
 
-1) How to detect Cloudflare
+**1) How to detect Cloudflare**
 
 There are many ways to detect it:
 
@@ -51,9 +63,9 @@ Route 104.18.224.0/20
 ```
 
 
-2) How to add your data (A or B)
+**2) How to add your data (A or B)**
 
-Type A: Push to Codeberg.org
+- Type A: Push to Codeberg.org
 
 1. Log in to *Codeberg.org*.
 2. Click "*Fork*" button. (top-left corner)
@@ -61,7 +73,10 @@ Type A: Push to Codeberg.org
 4. Click *Double-arrow* button to create a *new pull request*.
 
 
-Type B: Just scan the FQDN on "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
+- Type B: Just scan the FQDN
+
+1. Scan FQDN on "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
+2. It will be pushed to Codeberg automatically within a week.
 
 
 ```
@@ -79,14 +94,14 @@ IMPORTANT: Please add only "Base Domain"
 ... to /split/cloudflare_e.txt
 ```
 
-3) If the website *no longer using Cloudflare*, *remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)".
-
+**3) If the website no longer using Cloudflare**,
+*remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)".
 
 --------------
 
-## Website is NOT using Cloudflare (& blocking you)
+## Website is NOT using Cloudflare
 
-**Anti-Tor users** (formerly "*TorBlocker Hall of Shame Part I*") | [**List Directory**](not_cloudflare/)
+- **Anti-Tor users** (formerly "*TorBlocker Hall of Shame Part I*") | [**List Directory**](not_cloudflare/)
 
 | List name | Description |
 | -------- | -------- |
@@ -134,7 +149,7 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 ---
 
-# How to setup git
+## How to setup git
 
 This procedure will give you a cloudflare-tor fork with a
 privacy-respecting configuration to do pushes with SSH over Tor using
@@ -197,8 +212,9 @@ to codeberg are automatically over Tor with this configuration
 (because the `url` in `.git/config` references the virtual host
 `codeberg-snowden` in `~/.ssh/config`).
 
+---
 
-# About Cloudflare `base domain` list
+## About Cloudflare `base domain` list
 
 Our mission is clear - `stay away from Cloudflare`.
 
