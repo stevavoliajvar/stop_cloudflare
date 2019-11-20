@@ -8,9 +8,20 @@
 
 ![](image/whoismp.jpg)
 
-------------
+---
 
-######  Website consumer
+Table of contents
+
+- [Website consumer](what-to-do.md#website-consumer)
+- [Website owner / Web developer](what-to-do.md#website-owner-web-developer)
+- [Software user](what-to-do.md#software-user)
+- [“Mozilla Firefox” user](what-to-do.md#mozilla-firefox-user)
+- [Action](what-to-do.md#action)
+
+---
+
+
+## Website consumer
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
 
@@ -85,7 +96,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 ------------
 
-######  Website owner / Web developer
+## Website owner / Web developer
 
 ![](image/word_cloudflarefree.jpg)
 
@@ -201,7 +212,7 @@ die();
 
 ------------
 
-######  Software user
+## Software user
 
 - If you use Debian GNU/Linux, or any derivative, subscribe to [bug #831835](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
 
@@ -263,7 +274,7 @@ Therefore we recommend above table only. Nothing else.
 
 ------------
 
-###### "Mozilla Firefox" user
+## "Mozilla Firefox" user
 
 - Don't use Firefox Nightly. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
 
@@ -300,11 +311,10 @@ Therefore we recommend above table only. Nothing else.
 > 3. Restart Tor.
 > 4. Set your computer's DNS server to "127.0.0.1".
 
-- Tell us if you see [this functionality](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) start to creep up beyond Firefox Nightly into more stable versions of Firefox.
 
 ------------
 
-######  Action
+## Action
 
 - Tell others around you about the dangers of Cloudflare. But don't talk with NSA employee; you'll be _definitely_ marked... just kidding!
 
