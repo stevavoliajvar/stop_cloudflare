@@ -9,22 +9,24 @@
 
 Table of contents
 
-- [Unwanted spam emails](README_ethics.md#unwanted-spam-emails)
+- [CloudFlare spams people](README_ethics.md#cloudflare-spams-people)
 - [Remove user's review](README_ethics.md#remove-users-review)
 - [Doxxing users](README_ethics.md#doxxing-users)
-- [Charitable contributions](README_ethics.md#charitable-contributions)
+- [Corporate solicitation of charitable contributions](README_ethics.md#corporate-solicitation-of-charitable-contributions)
 - [Terminating sites](README_ethics.md#terminating-sites)
+- [Browser vendor discrimination](README_ethics.md#browser-vendor-discrimination)
+- [Voter suppression](README_ethics.md#voter-suppression)
 
 ---
 
-### Unwanted spam emails
+### CloudFlare spams people
 
 Cloudflare is sending spam emails to non-Cloudflare users.
 
 - Only send emails to subscribers who’ve opted in
 - When the user say "stop", then stop sending email
 
-It's that simple. But Cloudflare don't care.
+It's that simple. But Cloudflare doesn't care.
 Cloudflare said using their service [can stop all spammers or attackers](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers-).
 How can we stop _Cloudflare spammers_ without activating Cloudflare?
 
@@ -66,9 +68,9 @@ your true ID. If you don't want to get harassed, [assaulted](https://twitter.com
 
 ---
 
-### Charitable contributions
+### Corporate solicitation of charitable contributions
 
-CloudFlare is asking for [charitable contributions](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about). It’s quite appalling that an American corporation would ask for charity alongside non-profit organizations that have good causes. If you like [blocking people or wasting other people's time](PEOPLE.md), you might want to order some pizzas🍕 for Cloudflare employees.
+CloudFlare is [asking](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) for charitable contributions. It’s quite appalling that an American corporation would ask for charity alongside non-profit organizations that have good causes. If you like [blocking people or wasting other people's time](PEOPLE.md), you might want to order some pizzas🍕 for Cloudflare employees.
 
 
 ![](image/cfdonate.jpg)
@@ -80,6 +82,47 @@ CloudFlare is asking for [charitable contributions](https://web.archive.org/web/
 What will you do if your site goes down _suddenly_? There are reports that Cloudflare is [deleting](https://twitter.com/stefan_eady/status/1126033791267426304) [user's](https://twitter.com/derivativeburke/status/903755267053117440) [configuration](https://twitter.com/lordscarlet/status/1046785164792205314) [silently](https://twitter.com/BlnaryMlke/status/1194339461984854018). We suggest you find [better provider](what-to-do.md).
 
 ![](image/cftmnt.jpg)
+
+---
+
+### Browser vendor discrimination
+
+CloudFlare gives preferential treatment to those using Firefox while
+giving hostile treatment to users of non-Mozilla-based browsers over
+Tor.  Tor users of who (rightfully) refuse to execute non-free
+javascript also receive hostile treatment.  This access inequality is
+a network neutrality abuse and an abuse of power.
+
+| ***browser*** | ***access treatment*** |
+| --- | --- |
+| Firefox (with non-free javascript enabled; incl. Tor Browser) | access permitted |
+| Chromium (with non-free javascript enabled) | access degraded (pushes Google reCAPTCHA) |
+| Chromium or Firefox (with non-free javascript disabled) | access denied (pushes *broken* Google reCAPTCHA) |
+| lynx | access denied |
+| w3m | access denied |
+| wget | access denied |
+
+---
+
+### Voter suppression
+
+Voters in US states register to vote ultimately through the state
+secretary's website in the state of their residence.
+Republican-controlled state secretary offices engage in voter
+suppression by proxying the state secretary's website through
+CloudFlare.  CloudFlare's hostile treatment of Tor users, its MitM
+position as a centralized global point of surveillance, and its
+detrimental role overall makes prospective voters reluctant to
+register.  Liberals in particular tend to embrace privacy.  Voter
+registration forms collect sensitive information about a voter's
+political leaning, personal physical address, social security number,
+and date of birth.  Most states only make a subset of that information
+publicly available, but CloudFlare sees ***all*** that information
+when someone registers to vote.
+
+Note that paper registration does not circumvent CloudFlare because
+the secretary of state data entry staff workers will likely use the
+CloudFlare website to enter the data.
 
 ---
 
