@@ -87,42 +87,53 @@ What will you do if your site goes down _suddenly_? There are reports that Cloud
 
 ### Browser vendor discrimination
 
-CloudFlare gives preferential treatment to those using Firefox while
-giving hostile treatment to users of non-Mozilla-based browsers over
-Tor.  Tor users of who (rightfully) refuse to execute non-free
-javascript also receive hostile treatment.  This access inequality is
-a network neutrality abuse and an abuse of power.
+CloudFlare gives preferential treatment to those using Firefox while giving hostile treatment to users of non-Tor-Browser over Tor.
+Tor users of who rightfully refuse to execute non-free javascript also receive hostile treatment.
+This access inequality is a network neutrality abuse and an abuse of power.
 
-| ***browser*** | ***access treatment*** |
+![](image/browserdiff.jpg)
+
+- Left: `[Tor Browser] Javascript Disabled, Cookie Enabled`
+- Right: `[Chrome] Javascript Enabled, Cookie Disabled`
+
+| ***Browser*** | ***Access treatment*** |
 | --- | --- |
-| Firefox (with non-free javascript enabled; incl. Tor Browser) | access permitted |
-| Chromium (with non-free javascript enabled) | access degraded (pushes Google reCAPTCHA) |
-| Chromium or Firefox (with non-free javascript disabled) | access denied (pushes *broken* Google reCAPTCHA) |
+| Tor Browser (Javascript enabled) | access permitted |
+| Firefox (Javascript enabled) | access degraded |
+| Chromium (Javascript enabled) | access degraded (pushes Google reCAPTCHA) |
+| Chromium or Firefox (Javascript disabled) | access denied (pushes *broken* Google reCAPTCHA) |
+| Chromium or Firefox (Cookie disabled) | access denied |
 | lynx | access denied |
 | w3m | access denied |
 | wget | access denied |
+
+
+"_Why not use Audio button to solve easy challenge?_"
+
+Yes, there is an audio button, but it _always_ [doesn't work over Tor](https://trac.torproject.org/projects/tor/ticket/23840). You will get this message when you click it:
+
+```
+Try again later
+Your computer or network may be sending automated queries.
+To protect our users, we can't process your request right now.
+For more details visit our help page
+```
 
 ---
 
 ### Voter suppression
 
-Voters in US states register to vote ultimately through the state
-secretary's website in the state of their residence.
-Republican-controlled state secretary offices engage in voter
-suppression by proxying the state secretary's website through
-CloudFlare.  CloudFlare's hostile treatment of Tor users, its MitM
-position as a centralized global point of surveillance, and its
-detrimental role overall makes prospective voters reluctant to
-register.  Liberals in particular tend to embrace privacy.  Voter
-registration forms collect sensitive information about a voter's
-political leaning, personal physical address, social security number,
-and date of birth.  Most states only make a subset of that information
-publicly available, but CloudFlare sees ***all*** that information
-when someone registers to vote.
+Voters in US states register to vote ultimately through the state secretary's website in the state of their residence.
+Republican-controlled state secretary offices engage in voter suppression by proxying the state secretary's website through Cloudflare.
+Cloudflare's hostile treatment of Tor users, its MITM position as a centralized global point of surveillance, and its detrimental role overall 
+makes prospective voters reluctant to register.  Liberals in particular tend to embrace privacy.  Voter registration forms collect sensitive information about a voter's political leaning, personal physical address, social security number, and date of birth.
+Most states only make a subset of that information publicly available, but Cloudflare sees ***all*** that information when someone registers to vote.
 
-Note that paper registration does not circumvent CloudFlare because
-the secretary of state data entry staff workers will likely use the
-CloudFlare website to enter the data.
+Note that paper registration does not circumvent Cloudflare because the secretary of state data entry staff workers will likely use the
+Cloudflare website to enter the data.
+
+![](image/cfvotm_01.jpg)
+![](image/cfvotm_02.jpg)
 
 ---
 
