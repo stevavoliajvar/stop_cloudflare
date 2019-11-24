@@ -1,7 +1,6 @@
 # "Cloudflare, we have a problem"
 
-![](image/itsreallythatbad.jpg)
-![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](image/people.jpg)
 
 "_It's endangering the WWW and you're blocking readers who are protecting their privacy by using Tor._" -- [Mr. Jeff Cliff, BSc](https://twitter.com/jeffcliff1/status/992571841406537728)
 
@@ -67,6 +66,8 @@ Table of contents
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Can you trust CloudFlare with your personal data?](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/)" by [Terence Eden](https://edent.tel/)
+
 "[WARP is not a VPN for privacy](https://www.piavpnaymodqeuza.onion/blog/2019/09/warp-is-not-a-vpn-for-privacy/)" by [Private Internet Access](https://www.privateinternetaccess.com/)
 
 "[Cloudflare - why the fuss?](https://decentralize.today/decentralization/cloudflare-why-the-fuss)" by [O S Layman](https://decentralize.today/cryptocurrency/blogger/big-h)
@@ -120,6 +121,8 @@ Table of contents
 "[Journal CloudFlare au milieu](https://linuxfr.org/users/thibg/journaux/cloudflare-au-milieu)" by [ThibG](https://linuxfr.org/)
 
 "[why you shouldn’t use Cloudflare](https://tech.tiq.cc/2016/01/why-you-shouldnt-use-cloudflare/)" by [tiq](https://tech.tiq.cc/)
+
+"[DNSサーバー「1.1.1.1」が利用できない障害発生中（2018年4月22日）](https://web.archive.org/web/20190815152042/https://did2memo.net/2018/04/22/dns-1-1-1-1-failure-2018-04-22/)" by [did2](https://twitter.com/did2memo)
 
 "[The CloudFlare MITM](https://web.archive.org/web/20160311163431/https://blog.paymium.com/2014/02/19/the-cloudflare-mitm/)" by [David FRANCOIS](https://blog.paymium.com/)
 
@@ -210,6 +213,8 @@ Table of contents
 "[Any way to fix 523 cloudflare error websites (websites that dead with 523 cloudlare error)?](https://www.reddit.com/r/techsupport/comments/byb2g1/any_way_to_fix_523_cloudflare_error_websites/)" by [fasdaa222](https://www.reddit.com/user/fasdaa222/)
 
 "[Ongoing centralization of the internet through CDNs](https://www.reddit.com/r/C_S_T/comments/3gc1ne/ongoing_centralization_of_the_internet_through/)" by [quickdecision](https://www.reddit.com/user/quickdecision/)
+
+"[Padlock icon appears on MitMd Firefox connections](https://redmine.tails.boum.org/code/issues/11629)" by [cypherpunks](https://redmine.tails.boum.org/code/users/808)
 
 "[I'm not sure if I can ELI5 this but I'll try my best to explain.](https://www.reddit.com/r/india/comments/bg3lxh/was_casually_checking_my_logs_this_is_what_is/elk77k3/)" by [Waphire](https://www.reddit.com/user/Waphire)
 
