@@ -16,7 +16,7 @@ Table of contents
 - [Terminating sites](README_ethics.md#terminating-sites)
 - [Browser vendor discrimination](README_ethics.md#browser-vendor-discrimination)
 - [Voter suppression](README_ethics.md#voter-suppression)
-- [Ignoring user's preference](README_ethics.md#ignoring-users-preference)
+- [Ignoring user's preference](README_ethics.md#ignoring-user-s-preference)
 - [Lying about deleting user's data](README_ethics.md#lying-about-deleting-users-data)
 
 ---
@@ -141,7 +141,7 @@ Cloudflare website to enter the data.
 
 ### Ignoring user's preference
 
-If you opt-out something, you expect that you receive no email about it. Cloudflare ignore user's preference and share data with third-party corporations without customer's consent.
+If you opt-out something, you expect that you receive no email about it. Cloudflare ignore user's preference and share data with third-party corporations [without customer's consent](https://twitter.com/thexpaw/status/1108424723233419264).
 
 ![](image/cfviopl_tp.jpg)
 
@@ -164,7 +164,7 @@ Their new privacy policy doesn't make any mention of retaining data for a year.
 
 ![](image/cfviopl_notdel.jpg)
 
-How can you trust Cloudflare if their privacy policy is a LIE?
+How can you trust Cloudflare if [their privacy policy is a LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
 
 
 
