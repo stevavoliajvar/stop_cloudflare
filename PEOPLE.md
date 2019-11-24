@@ -371,6 +371,12 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"Two months ago, I cancelled my @Cloudflare account and told them to delete my data. Today, they've emailed me their new privacy policy because I'm still a customer! Trying to pump their user numbers up before an IPO or just sloppy data protection? Either way, not a great look." by @[edent](https://twitter.com/edent/status/1179492594855874561)
+
+"New blogging from me. Even after you delete your account, CloudFlare insist they have the right to email you per a non-existent section of their privacy policy." by @[edent](https://twitter.com/edent/status/1197781221180411905)
+
+"I’ve had the same experience as you with account deletions." by @[daviddlow](https://twitter.com/daviddlow/status/1197787135526555648)
+
 "Do you know if this info  is on any other sites? Sadly patreon has been taken in on the foolishness that is CloudFlare & blocks tor nodes." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1196465140243320832)
 
 "hey, I'm using a VPN exiting in the DigitalOcean network. Cannot access this site." by @[AliveDevil95](https://twitter.com/AliveDevil95/status/1196409774323224576)
