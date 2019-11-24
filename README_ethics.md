@@ -16,6 +16,7 @@ Table of contents
 - [Terminating sites](README_ethics.md#terminating-sites)
 - [Browser vendor discrimination](README_ethics.md#browser-vendor-discrimination)
 - [Voter suppression](README_ethics.md#voter-suppression)
+- [Lying about deleting user's data](README_ethics.md#lying-about-deleting-users-data)
 
 ---
 
@@ -134,6 +135,27 @@ Cloudflare website to enter the data.
 
 ![](image/cfvotm_01.jpg)
 ![](image/cfvotm_02.jpg)
+
+---
+
+### Lying about deleting user's data
+
+According to this [ex-cloudflare customer's blog](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare is lying about deleting accounts. Nowadays, many [companies keep your data](https://justdeleteme.xyz/) after you've closed or removed your account. Most of good companies do mention about it in their privacy policy. Cloudflare? No.
+
+```
+2019-08-05 CloudFlare sent me confirmation that they'd removed my account.
+2019-10-02 I received an email from CloudFlare "because I am a customer"
+```
+
+Cloudflare didn't know about the word "remove". If it is really _removed_, why this ex-customer got an email? He also mentioned that Cloudflare's privacy policy doesn't mention about it.
+
+```
+Their new privacy policy doesn't make any mention of retaining data for a year.
+```
+
+How can you trust this corporation if their privacy policy is a LIE?
+
+
 
 ---
 
