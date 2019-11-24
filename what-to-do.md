@@ -254,7 +254,7 @@ Let's talk about _other software's privacy_...
 
 - "Firefox Focus"(Firefox Klar) [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743).
 
-- PaleMoon developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097). Pale Moon's Archive Server [hacked and spread malware for 18 Months](https://www.reddit.com/r/privacytoolsIO/comments/cc808y/pale_moons_archive_server_hacked_and_spread/)!!
+- PaleMoon(Basilisk) developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097). Pale Moon's Archive Server [hacked and spread malware for 18 Months](https://www.reddit.com/r/privacytoolsIO/comments/cc808y/pale_moons_archive_server_hacked_and_spread/)!!
 
 - Waterfox actively using [Cloudflare on their servers](https://www.digwebinterface.com/?hostnames=www.waterfoxproject.org&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=) and their software have [severe "phones home" problem](https://spyware.neocities.org/articles/waterfox.html).
 
