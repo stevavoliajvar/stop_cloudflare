@@ -16,6 +16,7 @@ Table of contents
 - [Terminating sites](README_ethics.md#terminating-sites)
 - [Browser vendor discrimination](README_ethics.md#browser-vendor-discrimination)
 - [Voter suppression](README_ethics.md#voter-suppression)
+- [Ignoring user's preference](README_ethics.md#ignoring-users-preference)
 - [Lying about deleting user's data](README_ethics.md#lying-about-deleting-users-data)
 
 ---
@@ -138,6 +139,14 @@ Cloudflare website to enter the data.
 
 ---
 
+### Ignoring user's preference
+
+If you opt-out something, you expect that you receive no email about it. Cloudflare ignore user's preference and share data with third-party corporations without customer's consent.
+
+![](image/cfviopl_tp.jpg)
+
+---
+
 ### Lying about deleting user's data
 
 According to this [ex-cloudflare customer's blog](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare is lying about deleting accounts. Nowadays, many [companies keep your data](https://justdeleteme.xyz/) after you've closed or removed your account. Most of good companies do mention about it in their privacy policy. Cloudflare? No.
@@ -153,7 +162,9 @@ Cloudflare didn't know about the word "remove". If it is really _removed_, why t
 Their new privacy policy doesn't make any mention of retaining data for a year.
 ```
 
-How can you trust this corporation if their privacy policy is a LIE?
+![](image/cfviopl_notdel.jpg)
+
+How can you trust Cloudflare if their privacy policy is a LIE?
 
 
 
