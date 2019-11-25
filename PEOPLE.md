@@ -1,7 +1,6 @@
 # "Cloudflare, we have a problem"
 
-![](image/itsreallythatbad.jpg)
-![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](image/people.jpg)
 
 "_It's endangering the WWW and you're blocking readers who are protecting their privacy by using Tor._" -- [Mr. Jeff Cliff, BSc](https://twitter.com/jeffcliff1/status/992571841406537728)
 
@@ -67,6 +66,8 @@ Table of contents
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Can you trust CloudFlare with your personal data?](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/)" by [Terence Eden](https://edent.tel/)
+
 "[WARP is not a VPN for privacy](https://www.piavpnaymodqeuza.onion/blog/2019/09/warp-is-not-a-vpn-for-privacy/)" by [Private Internet Access](https://www.privateinternetaccess.com/)
 
 "[Cloudflare - why the fuss?](https://decentralize.today/decentralization/cloudflare-why-the-fuss)" by [O S Layman](https://decentralize.today/cryptocurrency/blogger/big-h)
@@ -120,6 +121,8 @@ Table of contents
 "[Journal CloudFlare au milieu](https://linuxfr.org/users/thibg/journaux/cloudflare-au-milieu)" by [ThibG](https://linuxfr.org/)
 
 "[why you shouldn’t use Cloudflare](https://tech.tiq.cc/2016/01/why-you-shouldnt-use-cloudflare/)" by [tiq](https://tech.tiq.cc/)
+
+"[DNSサーバー「1.1.1.1」が利用できない障害発生中（2018年4月22日）](https://web.archive.org/web/20190815152042/https://did2memo.net/2018/04/22/dns-1-1-1-1-failure-2018-04-22/)" by [did2](https://twitter.com/did2memo)
 
 "[The CloudFlare MITM](https://web.archive.org/web/20160311163431/https://blog.paymium.com/2014/02/19/the-cloudflare-mitm/)" by [David FRANCOIS](https://blog.paymium.com/)
 
@@ -210,6 +213,8 @@ Table of contents
 "[Any way to fix 523 cloudflare error websites (websites that dead with 523 cloudlare error)?](https://www.reddit.com/r/techsupport/comments/byb2g1/any_way_to_fix_523_cloudflare_error_websites/)" by [fasdaa222](https://www.reddit.com/user/fasdaa222/)
 
 "[Ongoing centralization of the internet through CDNs](https://www.reddit.com/r/C_S_T/comments/3gc1ne/ongoing_centralization_of_the_internet_through/)" by [quickdecision](https://www.reddit.com/user/quickdecision/)
+
+"[Padlock icon appears on MitMd Firefox connections](https://redmine.tails.boum.org/code/issues/11629)" by [cypherpunks](https://redmine.tails.boum.org/code/users/808)
 
 "[I'm not sure if I can ELI5 this but I'll try my best to explain.](https://www.reddit.com/r/india/comments/bg3lxh/was_casually_checking_my_logs_this_is_what_is/elk77k3/)" by [Waphire](https://www.reddit.com/user/Waphire)
 
@@ -366,7 +371,41 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"By the way Cloudflare has blocked me on Twitter for criticizing them." by @[dxgl_org](https://twitter.com/dxgl_org/status/1198461938411429888)
+
+"You can buy few BTC and wanting to publish them for sale they blocked my account. I don't know that I was wrong. What do I have to do to recover it? Cloudflare Ray ID" by @[AgusNob74](https://twitter.com/AgusNob74/status/1198430473829199872)
+
+"Is krakenfx under some sort of attack? " by @[EnnePoe](https://twitter.com/EnnePoe/status/1197910384973406210)
+
+"Cloudflare is not exactly a free speech big tech company.  I'm not saying this is a cloudflare issue but they proved they hated free speech when the blocked 8chan." by @[HD283271](https://twitter.com/HD283271/status/1197866246458482688)
+
+"Cloudflare is blocking me from the sight at the moment.  The documents should be available there for download." by @[davenlr](https://twitter.com/davenlr/status/1198086978715013120)
+
+"Cloudflare is blocking access from Cuba, so we cannot update clamav, and even send virus sample to alert you" by @[ReneHernndez67](https://twitter.com/ReneHernndez67/status/1197914945637306369)
+
+"FOr months when I try there is only a CloudFlare error. I miss my  stories." by @[cogdog](https://twitter.com/cogdog/status/1198795213357010944)
+
+"Alert Details: 530 - CloudFlare Origin DNS Error (Cloudflare cannot resolve the A or CNAME record requested.)" by @[YggdrasilStatus](https://twitter.com/YggdrasilStatus/status/1198426879071526918)
+
+"site's offline now.... showing cloudflare errors consistently.... :(" by @[Nessy_Reads](https://twitter.com/Nessy_Reads/status/1198362194188132354)
+
+"if you somehow make it so i don't have to click crosswalks/firehydrants/stoplights on Cloudflare for every site, then my shilling might never cease" by @[evan_van_ness](https://twitter.com/evan_van_ness/status/1198010177238261761)
+
+"Cloudflare You have always been a #horrible corp with #broken #software Go away! Now! " by @[MeerMusik](https://twitter.com/MeerMusik/status/1197632454217076736)
+
+"CloudFlare's website protection is blocking access to BitChute today. :/ Why not, they block other sites already!" by @[waynecolvin](https://twitter.com/waynecolvin/status/1197684878692667392)
+
+"I've been wondering this myself. I've also considered that maybe these Cloudflare people, have taken away bitchute credentials in order to block them from public view. Maybe I should try to reach them on Tor Browser." by @[AlarikOdinsson](https://twitter.com/AlarikOdinsson/status/1197684550446415872)
+
+"Two months ago, I cancelled my Cloudflare account and told them to delete my data. Today, they've emailed me their new privacy policy because I'm still a customer! Trying to pump their user numbers up before an IPO or just sloppy data protection? Either way, not a great look." by @[edent](https://twitter.com/edent/status/1179492594855874561)
+
+"New blogging from me. Even after you delete your account, CloudFlare insist they have the right to email you per a non-existent section of their privacy policy." by @[edent](https://twitter.com/edent/status/1197781221180411905)
+
+"I’ve had the same experience as you with account deletions." by @[daviddlow](https://twitter.com/daviddlow/status/1197787135526555648)
+
 "Do you know if this info  is on any other sites? Sadly patreon has been taken in on the foolishness that is CloudFlare & blocks tor nodes." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1196465140243320832)
+
+"Submitted a case & it was instantly marked as resolved." by @[ebenson_emily](https://twitter.com/ebenson_emily/status/1197585421028483073)
 
 "hey, I'm using a VPN exiting in the DigitalOcean network. Cannot access this site." by @[AliveDevil95](https://twitter.com/AliveDevil95/status/1196409774323224576)
 
@@ -2072,6 +2111,8 @@ Table of contents
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"Can you trust CloudFlare with your personal data?" by @[Edent](https://mastodon.social/@Edent/103175943251084170)
 
 "wenn sich der Tagesspiegel nicht hinter #cloudflare verstecken würde, würde ich ihn wahrscheinlich auch lesen" by @[kromonos](https://metalhead.club/@kromonos/103136278965173255)
 
