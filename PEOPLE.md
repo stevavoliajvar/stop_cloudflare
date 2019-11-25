@@ -371,6 +371,28 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"By the way Cloudflare has blocked me on Twitter for criticizing them." by @[dxgl_org](https://twitter.com/dxgl_org/status/1198461938411429888)
+
+"You can buy few BTC and wanting to publish them for sale they blocked my account. I don't know that I was wrong. What do I have to do to recover it? Cloudflare Ray ID" by @[AgusNob74](https://twitter.com/AgusNob74/status/1198430473829199872)
+
+"Is krakenfx under some sort of attack? " by @[EnnePoe](https://twitter.com/EnnePoe/status/1197910384973406210)
+
+"Cloudflare is not exactly a free speech big tech company.  I'm not saying this is a cloudflare issue but they proved they hated free speech when the blocked 8chan." by @[HD283271](https://twitter.com/HD283271/status/1197866246458482688)
+
+"Cloudflare is blocking me from the sight at the moment.  The documents should be available there for download." by @[davenlr](https://twitter.com/davenlr/status/1198086978715013120)
+
+"Cloudflare is blocking access from Cuba, so we cannot update clamav, and even send virus sample to alert you" by @[ReneHernndez67](https://twitter.com/ReneHernndez67/status/1197914945637306369)
+
+"FOr months when I try there is only a CloudFlare error. I miss my  stories." by @[cogdog](https://twitter.com/cogdog/status/1198795213357010944)
+
+"Alert Details: 530 - CloudFlare Origin DNS Error (Cloudflare cannot resolve the A or CNAME record requested.)" by @[YggdrasilStatus](https://twitter.com/YggdrasilStatus/status/1198426879071526918)
+
+"site's offline now.... showing cloudflare errors consistently.... :(" by @[Nessy_Reads](https://twitter.com/Nessy_Reads/status/1198362194188132354)
+
+"if you somehow make it so i don't have to click crosswalks/firehydrants/stoplights on Cloudflare for every site, then my shilling might never cease" by @[evan_van_ness](https://twitter.com/evan_van_ness/status/1198010177238261761)
+
+"Cloudflare You have always been a #horrible corp with #broken #software Go away! Now! " by @[MeerMusik](https://twitter.com/MeerMusik/status/1197632454217076736)
+
 "CloudFlare's website protection is blocking access to BitChute today. :/ Why not, they block other sites already!" by @[waynecolvin](https://twitter.com/waynecolvin/status/1197684878692667392)
 
 "I've been wondering this myself. I've also considered that maybe these Cloudflare people, have taken away bitchute credentials in order to block them from public view. Maybe I should try to reach them on Tor Browser." by @[AlarikOdinsson](https://twitter.com/AlarikOdinsson/status/1197684550446415872)
