@@ -2112,6 +2112,8 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
 
+"Can you trust CloudFlare with your personal data?" by @[Edent](https://mastodon.social/@Edent/103175943251084170)
+
 "wenn sich der Tagesspiegel nicht hinter #cloudflare verstecken würde, würde ich ihn wahrscheinlich auch lesen" by @[kromonos](https://metalhead.club/@kromonos/103136278965173255)
 
 "Not that I expect Cloudflare to be doing anything malicious, I'm just a little uncomfortable where passwords or anything sensitive are involved." by @[IceWolf](https://meow.social/@IceWolf/103116651269844076)
