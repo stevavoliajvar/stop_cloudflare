@@ -298,6 +298,8 @@ Table of contents
 
 ### Microsoft GitHub
 
+"[Cloudflare challenge loop (again)](https://github.com/codemanki/cloudscraper/issues/285)" by [elpaxel](https://github.com/elpaxel)
+
 "[Handle new cloudflare blocking](https://github.com/krues8dr/lazuli/issues/29)" by [krues8dr](https://github.com/krues8dr)
 
 "[Add cloudflare to blocked services](https://github.com/AdguardTeam/AdGuardHome/pull/1155/commits/d42d475d1b4376055adee3e6181c9a5624af7525)" by [AdguardTeam](https://github.com/AdguardTeam)
