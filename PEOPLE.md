@@ -371,6 +371,10 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"You also send all the traffic to the NSA though Cloudflare — thanks but no thanks!" by @[Mcnst](https://twitter.com/Mcnst/status/1199096502968299520)
+
+"I never understood why everyone trusts cloudflare." by @[CSS_Sporklab](https://twitter.com/CSS_Sporklab/status/1198051101423161344)
+
 "By the way Cloudflare has blocked me on Twitter for criticizing them." by @[dxgl_org](https://twitter.com/dxgl_org/status/1198461938411429888)
 
 "You can buy few BTC and wanting to publish them for sale they blocked my account. I don't know that I was wrong. What do I have to do to recover it? Cloudflare Ray ID" by @[AgusNob74](https://twitter.com/AgusNob74/status/1198430473829199872)
@@ -393,6 +397,10 @@ Table of contents
 
 "Cloudflare You have always been a #horrible corp with #broken #software Go away! Now! " by @[MeerMusik](https://twitter.com/MeerMusik/status/1197632454217076736)
 
+"Things are really starting to centralize on Mozilla and CloudFlare. I don’t like it." by @[DrScriptt](https://twitter.com/DrScriptt/status/1171644483626262529)
+
+"Whenever cloudflare goes down and takes a ton of major sites with it I just bang my head against a wall because that's what happens when you centralize tons of internet services." by @[SIGSYS](https://twitter.com/SIGSYS/status/1178661000276578304)
+
 "CloudFlare's website protection is blocking access to BitChute today. :/ Why not, they block other sites already!" by @[waynecolvin](https://twitter.com/waynecolvin/status/1197684878692667392)
 
 "I've been wondering this myself. I've also considered that maybe these Cloudflare people, have taken away bitchute credentials in order to block them from public view. Maybe I should try to reach them on Tor Browser." by @[AlarikOdinsson](https://twitter.com/AlarikOdinsson/status/1197684550446415872)
@@ -404,6 +412,8 @@ Table of contents
 "I’ve had the same experience as you with account deletions." by @[daviddlow](https://twitter.com/daviddlow/status/1197787135526555648)
 
 "Do you know if this info  is on any other sites? Sadly patreon has been taken in on the foolishness that is CloudFlare & blocks tor nodes." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1196465140243320832)
+
+"" by @[JakubJirutka](https://twitter.com/JakubJirutka/status/1196863997162733568)
 
 "Submitted a case & it was instantly marked as resolved." by @[ebenson_emily](https://twitter.com/ebenson_emily/status/1197585421028483073)
 
@@ -444,6 +454,8 @@ Table of contents
 "You getting a Cloudflare error too?" by @[michaeldexter](https://twitter.com/michaeldexter/status/1193326043899158528)
 
 "Heck, I spent an hour re-submitting THIS CFP submission. Turns out Cloudflare blocked any submission containing "cmd.exe"" by @[danielhbohannon](https://twitter.com/danielhbohannon/status/1194978231142645760)
+
+"If you’re in EU, the US can force Cloudflare to spy on you for them. At least your Dutch ISP only had to comply with warrants from a few countries. Worse, Cloudflare is *the* most juicy target for NSA/etc... they’re compromised." by @[TheBlueMatt](https://twitter.com/TheBlueMatt/status/1178029559737913345)
 
 "The cause was identified as an error in an automatic update received from Cloudflare" by @[MCMarket_org](https://twitter.com/MCMarket_org/status/1194954194479792129)
 
@@ -528,6 +540,8 @@ Table of contents
 "I wonder if Google is funding Cloudflare in exchange for them to put their CAPTCHA on as many users as possible. Would make total sense google need users to train machine learning algorithms. Cloudflare can market it as a service while deceiving webmasters " by @[catgirlsec](https://twitter.com/catgirlsec/status/1192161900810973184)
 
 "Furaffinity Cloudflare protection is so good that even artists can't upload anything" by @[PaigeScribe](https://twitter.com/PaigeScribe/status/1194042797680054272)
+
+"That CF would be a great way to centralize surveillance has been some people’s suspicion for some years now. So I guess that’s confirmed." by @[fugueish](https://twitter.com/fugueish/status/1158093425008230400)
 
 "Hi, we can't log in this morning..." by @[isaacgrover](https://twitter.com/isaacgrover/status/1192430529032810497)
 
