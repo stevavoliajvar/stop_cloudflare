@@ -413,7 +413,7 @@ Table of contents
 
 "Do you know if this info  is on any other sites? Sadly patreon has been taken in on the foolishness that is CloudFlare & blocks tor nodes." by @[DeborahPeasley](https://twitter.com/DeborahPeasley/status/1196465140243320832)
 
-"" by @[JakubJirutka](https://twitter.com/JakubJirutka/status/1196863997162733568)
+"That's actually right approach – Cloudflare is MitM, the connection is not end-to-end encrypted, so insecure. :P" by @[JakubJirutka](https://twitter.com/JakubJirutka/status/1196863997162733568)
 
 "Submitted a case & it was instantly marked as resolved." by @[ebenson_emily](https://twitter.com/ebenson_emily/status/1197585421028483073)
 
