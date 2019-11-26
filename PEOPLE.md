@@ -373,6 +373,8 @@ Table of contents
 
 "You also send all the traffic to the NSA though Cloudflare — thanks but no thanks!" by @[Mcnst](https://twitter.com/Mcnst/status/1199096502968299520)
 
+"marketo users whose instances are hosted in its San Jose data center experienced a service disruption lasting approximately one hour. The problem appears to be due to connectivity issues between Marketo’s CDN provider Cloudflare and its DC" by @[anoufriev](https://twitter.com/anoufriev/status/1197603324297539585)
+
 "I never understood why everyone trusts cloudflare." by @[CSS_Sporklab](https://twitter.com/CSS_Sporklab/status/1198051101423161344)
 
 "By the way Cloudflare has blocked me on Twitter for criticizing them." by @[dxgl_org](https://twitter.com/dxgl_org/status/1198461938411429888)
