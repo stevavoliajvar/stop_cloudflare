@@ -2128,6 +2128,10 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
 
+"Sorry, i'll never sign a change.org #petition - it's a #privacy-abusing #CloudFlare site.  Use openpetition.org for petitions important enough for everyone to access." by @[resist1984](https://social.privacytools.io/@resist1984/103204933856595091)
+
+"Tails is still useful but devs are not trustworthy." by @[bojkotiMalbona](https://infosec.exchange/@bojkotiMalbona/103188285582213699)
+
 "Can you trust CloudFlare with your personal data?" by @[Edent](https://mastodon.social/@Edent/103175943251084170)
 
 "wenn sich der Tagesspiegel nicht hinter #cloudflare verstecken würde, würde ich ihn wahrscheinlich auch lesen" by @[kromonos](https://metalhead.club/@kromonos/103136278965173255)
@@ -2155,6 +2159,12 @@ Table of contents
 "OK #cloudflare hat mich blacklisted. Hmm, von cloudflare habe ich schon so manch schlechtes gehört ! Irgendwie ahnte ich doch so etwas, daß ich XXX.com nicht mehr nutzen kann." by @[alm10965](https://social.bau-ha.us/@alm10965/102670832938054598)
 
 "GitLab sits behind Cloudflare and is hosted by Google – while Codeberg runs on Codeberg hardware and has no MITM. Much valued, especially for privacy reasons. Want more reasons against Cloudflare?" by @[IzzyOnDroid](https://mastodon.technology/@IzzyOnDroid/102662955566633818)
+
+"Cloudflare is a great big "man in the middle" ifyouknowwhatimean" by @[shitposter](https://shitposter.club/notice/35788)
+
+"OH GOD THAT'S CLOUDFLARE" by @[shitposter](https://shitposter.club/notice/1026961)
+
+"Security: every site that uses it, Cloudflare is a proxy that intercepts all the traffic. It can therefore correlate individual user traffic across every site that uses/embeds cloudflare site/resources. Single point of security failure, from a global surveillance point of view. Usability: If you're a Tor user, it makes a huge part of the Internet unbearable because it constantly injects captchas to view sites every couple minutes, to "block abuse"." by @[shitposter](https://shitposter.club/notice/389221)
 
 "Ha, and the instance which you use, serves images through Cloudflare, so I can't see your profile picture." by @[rmw](https://welovela.in/rmw)
 
