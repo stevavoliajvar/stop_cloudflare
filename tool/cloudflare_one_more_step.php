@@ -1,6 +1,6 @@
 <?php
 
 if (I_Love_Cloudflare() || I_Come_From_Cloudflare()) {
-  require 'cloudflare.onemorestep.template.php';
+  echo(file_get_contents('cloudflare.onemorestep.template.html'));
   die;
 }
