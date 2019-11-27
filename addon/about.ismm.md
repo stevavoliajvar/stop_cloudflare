@@ -36,9 +36,13 @@ Information about cache
 
 * clicked
 
+{
 Infected: XX (YY%)
 Not infected: XX (YY%)
 Total: XXX
+
+[ Clear my statistics ]
+}
 
 ```
 
