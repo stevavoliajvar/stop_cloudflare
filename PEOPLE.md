@@ -158,6 +158,8 @@ Table of contents
 
 "[What makes CloudFlare bad?](https://www.reddit.com/r/privacy/comments/cki0s5/what_makes_cloudflare_bad/)" by [Spadey0](https://www.reddit.com/user/Spadey0/)
 
+"[Cloudflare](https://mlpol.net/mlpol/res/241062.html)" by Anonymous
+
 "[The Great Cloudwall](https://sebsauvage.net/links/?beq2fA)" by [sebsauvage](https://framapiaf.org/@sebsauvage)
 
 "[DNS over HTTPS](http://oxwugzccvk3dk6tj.onion/tech/res/1082196.html)"
@@ -372,6 +374,8 @@ Table of contents
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
+
+"Whole thing happened again when I started from the beginning to reset my password, then again when it told me to reactivate my account." by @[JayNBoston](https://twitter.com/JayNBoston/status/1199829882131427333)
 
 "You also send all the traffic to the NSA though Cloudflare — thanks but no thanks!" by @[Mcnst](https://twitter.com/Mcnst/status/1199096502968299520)
 
