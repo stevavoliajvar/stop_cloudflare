@@ -23,6 +23,7 @@ The origin webserver administrator allowed the agent to decide [who can access](
 
 ---
 
+![](image/cfmarketshare.jpg)
 ![](image/cloudflaredearuser.jpg)
 ![](image/usershoulddecide.jpg)
 
