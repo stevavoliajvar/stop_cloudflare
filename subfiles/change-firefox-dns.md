@@ -11,4 +11,4 @@ should be empty. Some other settings can also contain Cloudflare URLs. It
 is recommended to search for "cloudflare". GNU Icecat and older Firefox 
 versions are not affected *yet*.
 
-![The about:config page which shows the Cloudflare DNS address in the network.trr.uri string.](../../image/firefox-cloudflare-dns-settings.jpg)
+![The about:config page which shows the Cloudflare DNS address in the network.trr.uri string.](../image/firefox-cloudflare-dns-settings.jpg)
