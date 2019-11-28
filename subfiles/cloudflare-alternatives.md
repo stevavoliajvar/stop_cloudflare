@@ -13,13 +13,11 @@ more aimed at technical people.
 We might create a guide for some self-hosting basics which don't require 
 Cloudflare.
 
-`to consider: Is user---incapsula---origin really okay?`
 
 ## Alternatives
 | Alternative       | Drawback                          | Price | Link |
 | ----------------- | --------------------------------- | ------ | ---- |
 | PerimeterX        | not gratis                        | ? | - |
-| Impurva incapsula | not gratis                        | Paid | - |
 | Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
 | Gitlab pages      | uses Google servers           | Free | https://gitlab.com/pages/ (WARNING: Some area of Gitlab is Cloudflare) |
 
