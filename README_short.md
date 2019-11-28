@@ -33,7 +33,7 @@ Cloudflare goes down from time to time. All the content which uses Cloudflare
 goes down as well when that happens.
 
 Read more about the 
-[single point of failure](subtext/single-point-of-failure-problem.md).
+[single point of failure](subfiles/single-point-of-failure-problem.md).
 *ADD IMAGE*
 
 #### It removes anonymity
@@ -42,14 +42,14 @@ website or content. Tor is not only for criminals. It is important for many
 people and everyone has the right on privacy.
 
 Tor is important, read more about 
-[why Tor matters](subtext/why-tor-matters.md).
+[why Tor matters](subfiles/why-tor-matters.md).
 
 Cloudflare often uses Google reCATPCHAs to check if you are human. These
 CAPTCHAs which check if you are human, track you and many claim that they
 even try to find out which human you are.
 
 Read more about the
-[reCAPTCHA problem](subtext/recaptcha-problem.md).
+[reCAPTCHA problem](subfiles/recaptcha-problem.md).
 
 #### Project Honey Pot
 Project Honey Pot is a project which collects a lot of personal data
@@ -72,22 +72,22 @@ leave your site when they see this.
 ### Other problems
 There are other problems as well, but we want to keep this file simple.
 Those problems are listed in
-[another file](subtext/more-cloudflare-problems.md).
+[another file](subfiles/more-cloudflare-problems.md).
 
 ## Alternatives
 Do own a website?  
 We created a
-[file with Cloudflare alternatives](subtext/cloudflare-alternatives.md)
+[file with Cloudflare alternatives](subfiles/cloudflare-alternatives.md)
 to make your life easier if you agree with us.
 ## Solutions
 ### Blocking Cloudflare request or IPs
-- [Add-ons](subtext/add-ons.md)
+- [Add-ons](subfiles/add-ons.md)
 - [Cloudflare IPs to block](cloudflare_inc/)
-- [Change default DNS provider of firefox](subtext/change-firefox-dns.md)
+- [Change default DNS provider of firefox](subfiles/change-firefox-dns.md)
 
 ### Share information about the problem
 Many supporters of CrimeFlarE have written some
-[articles](subtext/articles.md) about the problem.
+[articles](subfiles/articles.md) about the problem.
 You can check them out and share them.
 
 You can ask website owners to stop using Cloudflare, please do so in
@@ -98,7 +98,7 @@ We haven't included them all in the README to keep it fairly readable.
 
 ## Not convinced yet?
 Many supporters of CrimeFlarE have written some
-[articles](subtext/articles.md) about the problem.
+[articles](subfiles/articles.md) about the problem.
 You can check them out and share them.
 
 Still not convinced?  
