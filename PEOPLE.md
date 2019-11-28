@@ -375,6 +375,20 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+" I just got 3 friends here in Germany to try - and NONE of them can gain access - they get blocked by the same captcha. I'm thinking Cloudflare has Deutsche Telekom blacklisted, or some such." by @[GrayanOne](https://twitter.com/GrayanOne/status/1200057914842587136)
+
+"Just a friendly reminder that if your  Black Friday sales page requires someone to: check a Cloudflare “I’m not a robot” check box  solve a CAPTCHA image it’s probably not worth the discount." by @[CoryJaccino](https://twitter.com/CoryJaccino/status/1199946959110443008)
+
+"the site seems to use Cloudflare which blocks a lot of users from the start, so a large crowd can't open the site even if it's online" by @[adlerweb](https://twitter.com/adlerweb/status/1199966079126310912)
+
+"Day 2 of trying to get my Cloudflare account deleted. They sure don't make it easy, or logic." by @[originalesushi](https://twitter.com/originalesushi/status/1199041528414527495)
+
+"Just don't make me discover my PII in some future breach or I'll dig up my Cloudflare exodus logs and I'll step on the biggest soapbox I can find to cast hell upon you." by @[originalesushi](https://twitter.com/originalesushi/status/1199063754740314115)
+
+"Hi there ! Your cdnjs is blocked by Stormshield firewall IPS." by @[nivuniconu_](https://twitter.com/nivuniconu_/status/1199988064589950977)
+
+"So many people are hoping for word of an actually decisive move from the Not-Board that cloudflare thinks  arseblog's under DDoS attack." by @[fuckmedoris](https://twitter.com/fuckmedoris/status/1200180923649732608)
+
 "Whole thing happened again when I started from the beginning to reset my password, then again when it told me to reactivate my account." by @[JayNBoston](https://twitter.com/JayNBoston/status/1199829882131427333)
 
 "You also send all the traffic to the NSA though Cloudflare — thanks but no thanks!" by @[Mcnst](https://twitter.com/Mcnst/status/1199096502968299520)
