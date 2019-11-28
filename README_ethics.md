@@ -18,6 +18,7 @@ Table of contents
 - [Voter suppression](README_ethics.md#voter-suppression)
 - [Ignoring user's preference](README_ethics.md#ignoring-user-s-preference)
 - [Lying about deleting user's data](README_ethics.md#lying-about-deleting-users-data)
+- [Keep your personal information](README_ethics.md#keep-your-personal-information)
 
 ---
 
@@ -166,6 +167,25 @@ Their new privacy policy doesn't make any mention of retaining data for a year.
 
 How can you trust Cloudflare if [their privacy policy is a LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
 
+---
+
+### Keep your personal information
+
+Deleting Cloudflare account is [hard level](https://justdeleteme.xyz/).
+
+```
+Submit a support ticket using the "Account" category,
+and request account deletion in the message body.
+You must have no domains or credit cards attached to your account prior to requesting deletion.
+```
+
+You will [receive this confirmation email](https://twitter.com/originalesushi/status/1199041528414527495).
+
+![](image/cf_deleteandkeep.jpg)
+
+"We have begun to process your deletion request" but "We will continue to store your personal information".
+
+Can you "trust" this?
 
 
 ---
