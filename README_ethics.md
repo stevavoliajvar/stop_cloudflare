@@ -181,7 +181,7 @@ You must have no domains or credit cards attached to your account prior to reque
 
 You will [receive this confirmation email](https://twitter.com/originalesushi/status/1199041528414527495).
 
-![](cf_deleteandkeep.jpg)
+![](image/cf_deleteandkeep.jpg)
 
 "We have begun to process your deletion request" but "We will continue to store your personal information".
 
