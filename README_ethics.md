@@ -171,7 +171,7 @@ How can you trust Cloudflare if [their privacy policy is a LIE](https://twitter.
 
 ### Keep your personal information
 
-Deleting Cloudflare account is [hard](https://justdeleteme.xyz/)
+Deleting Cloudflare account is [hard level](https://justdeleteme.xyz/).
 
 ```
 Submit a support ticket using the "Account" category,
@@ -183,10 +183,10 @@ You will [receive this confirmation email](https://twitter.com/originalesushi/st
 
 ![](cf_deleteandkeep.jpg)
 
-```
-Customer: Delete my account!
-Cloudflare: We process your request(= "We've received your message"). We will continue keeping your personal information.
-```
+"We have begun to process your deletion request" but "We will continue to store your personal information".
+
+Can you "trust" this?
+
 
 ---
 
