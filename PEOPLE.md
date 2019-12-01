@@ -383,6 +383,8 @@ Table of contents
 
 "I can't access my.parallels.com  ParallelsCares - Cloudflare seems to think you don't exist... can you help? I'd love to take advantage of your Black Friday offer... " by @[jmeisenberg](https://twitter.com/jmeisenberg/status/1200345456913666053)
 
+"Cloudflare is experiencing difficulties. Parts of our website (that are active) are inaccessible to *some users.* This is unfortunately out of our control. " by @[intpts](https://twitter.com/intpts/status/1200240646881239040)
+
 " I just got 3 friends here in Germany to try - and NONE of them can gain access - they get blocked by the same captcha. I'm thinking Cloudflare has Deutsche Telekom blacklisted, or some such." by @[GrayanOne](https://twitter.com/GrayanOne/status/1200057914842587136)
 
 "Just a friendly reminder that if your  Black Friday sales page requires someone to: check a Cloudflare “I’m not a robot” check box  solve a CAPTCHA image it’s probably not worth the discount." by @[CoryJaccino](https://twitter.com/CoryJaccino/status/1199946959110443008)
