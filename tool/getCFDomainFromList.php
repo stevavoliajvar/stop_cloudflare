@@ -7,6 +7,8 @@ WTFPL License
 	This script will read INPUT_DOMAINS and add domain to OUTPUT_RESULT
 	if the target is in Cloudflare domain lists.
 
+	INPUT_DOMAINS is a list of domains. Do not list FQDN.
+
 */
 
 ignore_user_abort(true);
