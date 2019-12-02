@@ -375,6 +375,16 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"Problem of tor is that it’s blocked by a lot of websites, any website "protected" by Cloudflare can’t be accessed from TOR" by @[jusdepatate_](https://twitter.com/jusdepatate_/status/1200689459391533057)
+
+"so i can't access my website or discord, or any other cloudflare protected website i know." by @[twitch0001](https://twitter.com/twitch0001/status/1200227292619902978)
+
+"Cloudflare is down but only in the UK and i am the big angy because i was literally gunna work for an hour but now I can’t access any of my stuff " by @[Beatlinked](https://twitter.com/Beatlinked/status/1200231055552401409)
+
+"I can't access my.parallels.com  ParallelsCares - Cloudflare seems to think you don't exist... can you help? I'd love to take advantage of your Black Friday offer... " by @[jmeisenberg](https://twitter.com/jmeisenberg/status/1200345456913666053)
+
+"Cloudflare is experiencing difficulties. Parts of our website (that are active) are inaccessible to *some users.* This is unfortunately out of our control. " by @[intpts](https://twitter.com/intpts/status/1200240646881239040)
+
 " I just got 3 friends here in Germany to try - and NONE of them can gain access - they get blocked by the same captcha. I'm thinking Cloudflare has Deutsche Telekom blacklisted, or some such." by @[GrayanOne](https://twitter.com/GrayanOne/status/1200057914842587136)
 
 "Just a friendly reminder that if your  Black Friday sales page requires someone to: check a Cloudflare “I’m not a robot” check box  solve a CAPTCHA image it’s probably not worth the discount." by @[CoryJaccino](https://twitter.com/CoryJaccino/status/1199946959110443008)
@@ -2147,6 +2157,8 @@ Table of contents
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"Anyone marginally concerned about #privacy needs to take a massive step back at this point. Bitchute will not load videos for #Tor Privacy #Browser users." by @[dsfgs](https://activism.openworlds.info/@dsfgs/103232653381567023)
 
 "Sorry, i'll never sign a change.org #petition - it's a #privacy-abusing #CloudFlare site.  Use openpetition.org for petitions important enough for everyone to access." by @[resist1984](https://social.privacytools.io/@resist1984/103204933856595091)
 
