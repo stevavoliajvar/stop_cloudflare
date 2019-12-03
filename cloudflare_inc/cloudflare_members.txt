@@ -50,7 +50,7 @@ Alejandro Ramirez | Information Security Compliance Intern
 Alek Amrani | Product Security Engineer
 Alessandro Ghedini | Systems Engineer
 Alex Chan | Employee
-Alex Cruz Farmer | Product Manager for Security
+Alex Cruz Farmer | Product Manager for Security | https://twitter.com/alexcf
 Alex Davidson | Employee
 Alex Dyner | Head of Special Projects
 Alex Forster | Systems Engineer, Austin
