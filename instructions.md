@@ -112,6 +112,8 @@ IMPORTANT: Please add only "Base Domain"
 | list_other.txt                | Any other form of tor-hostility or mistreatment.  This includes sites somewhat functional for Tor users to some extent but sneaky and unexpected adverse retalitory actions are taken against Tor visitors. |
 | list_formerly_tor-hostile.txt | _was_ previously on one of the above tor-hostile lists |
 
+- Add-on "[Which website rejected me?](addon/about.urjm.md)" will help your domain collection.
+
 ![](image/siteground.jpg)
 
 Above is how Siteground-hosted(INAP) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.

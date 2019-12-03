@@ -375,6 +375,8 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"Oh, I found out what it was. You guys have CloudFlare human checks on your images. I had to go one of the images hosted on images.g2.com  directly and click the captcha." by @[clintonskakun](https://twitter.com/clintonskakun/status/1200536371364028416)
+
 "Problem of tor is that it’s blocked by a lot of websites, any website "protected" by Cloudflare can’t be accessed from TOR" by @[jusdepatate_](https://twitter.com/jusdepatate_/status/1200689459391533057)
 
 "so i can't access my website or discord, or any other cloudflare protected website i know." by @[twitch0001](https://twitter.com/twitch0001/status/1200227292619902978)
@@ -2157,6 +2159,10 @@ Table of contents
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"Point is: no, you don't need #CloudFlare." by @[rysiek](https://mastodon.social/@rysiek/103240081915169502)
+
+"#cloudflare is having problems again, hm?" by @[musicmatze](https://mastodon.technology/@musicmatze/103239327000559082)
 
 "Anyone marginally concerned about #privacy needs to take a massive step back at this point. Bitchute will not load videos for #Tor Privacy #Browser users." by @[dsfgs](https://activism.openworlds.info/@dsfgs/103232653381567023)
 
