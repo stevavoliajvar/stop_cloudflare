@@ -128,6 +128,7 @@ list_othercdn_domain.txt
 {CDN code}:
 'amazon.txt':'Z1'
 'akamai.txt':'Z2'
+(cloudflare is Z3)
 'imperva.txt':'Z4'
 'google.txt':'Z5'
 'microsoft.txt':'Z6'
