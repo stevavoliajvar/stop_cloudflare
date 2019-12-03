@@ -1,7 +1,7 @@
-#### CDN CIDR(IPv4) list  (_cdnName.txt_)
+#### CDN CIDR(IPv4) list  (cdnName.txt)
 
 - Cloudflare CIDR is [cloudflare_inc/cloudflare_CIDR_v4.txt](../../cloudflare_inc/cloudflare_CIDR_v4.txt)
 
-#### ASN list  (_asn_cdnName.txt_)
+#### ASN list  (asn_cdnName.txt)
 
 - Cloudflare ASN is [cloudflare_inc/cloudflare_owned_ASN.txt](../../cloudflare_inc/cloudflare_owned_ASN.txt)
