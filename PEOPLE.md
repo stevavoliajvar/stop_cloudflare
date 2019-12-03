@@ -377,6 +377,8 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"Please tell your official accounts to stop blocking me on Twitter." by @[dxgl_org](https://twitter.com/dxgl_org/status/1197277192809582592)
+
 "I guess you deployed Cloudflare to mitigate NW traffic issues (DDoS ?). But it is not working properly, it is blocking valid customers too, like me. See pic." by @[aerohari](https://twitter.com/aerohari/status/1201743978925674497)
 
 "Cloudflare is currently experiencing significant issues. Therefore, our website and others managed by CloudFlarws DNS are unavailable. " by @[VimlyDigital](https://twitter.com/VimlyDigital/status/1200228062404792320)
