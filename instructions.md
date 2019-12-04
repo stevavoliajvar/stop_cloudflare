@@ -106,6 +106,7 @@ IMPORTANT: Please add only "Base Domain"
 | List name | Description |
 | -------- | -------- |
 | **/domain/(cdnName).txt**     | **Split files (FQDN)**     |
+| tor_blocked.txt | Websites that instantly and unconditionally deny service to Tor visitors |
 | /cidr_data/?.txt     |  CIDR, ASN    |
 | list_http_error.txt           | Websites that instantly and unconditionally deny service to Tor visitors by returning an HTTP error.  HTTP 403 is the most common but this list catalogs all HTTP responses that entail DoS (i.e. not HTTP 200).  File format is: &lt;FQDN&gt; &lt;http error code&gt; |
 | list_customerror.txt          | Custom error message renders for Tor visitors generally without HTTP error. |
