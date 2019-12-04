@@ -120,6 +120,8 @@ IMPORTANT: Please add only "Base Domain"
 Above is how Siteground-hosted([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
 You can find such examples in /cidr_data/.
 
+
+<unnecessary-data>
 ```
 {domain} {CDN code}
 
@@ -133,6 +135,7 @@ You can find such examples in /cidr_data/.
 'inap.txt':'Z7'
 'sucuri.txt':'Z8'
 ```
+</unnecessary-data>
 
 ```
 IMPORTANT: Please add only "FQDN" or "FQDN[space](comment here)"
