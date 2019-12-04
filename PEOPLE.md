@@ -144,6 +144,8 @@ Table of contents
 
 ### Forum / Wiki
 
+"[Cloudflare to MITM your traffic is an extraordinary security and privacy problem.](https://www.reddit.com/r/Bitcoin/comments/e303gh/bitcoincoreorg_expired_ssl_cert/f8zqcf9/)" by [hva32](https://www.reddit.com/user/hva32/)
+
 "[The Great Cloudwall](https://lobste.rs/s/xkwcl3)" by [caioalonso](https://lobste.rs/u/caioalonso)
 
 "[Proposal: Remove Cloudflare from the official Bitcoin Cash website](https://www.reddit.com/r/btc/comments/docdui/proposal_remove_cloudflare_from_the_official/)" by [LeoBeltran](https://www.reddit.com/user/LeoBeltran/)
@@ -374,6 +376,16 @@ Table of contents
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
+
+"Please tell your official accounts to stop blocking me on Twitter." by @[dxgl_org](https://twitter.com/dxgl_org/status/1197277192809582592)
+
+"I guess you deployed Cloudflare to mitigate NW traffic issues (DDoS ?). But it is not working properly, it is blocking valid customers too, like me. See pic." by @[aerohari](https://twitter.com/aerohari/status/1201743978925674497)
+
+"Cloudflare is currently experiencing significant issues. Therefore, our website and others managed by CloudFlarws DNS are unavailable. " by @[VimlyDigital](https://twitter.com/VimlyDigital/status/1200228062404792320)
+
+"Cloudflare vro when you go down like half of the internet does please stop" by @[ItJustAPsychoEx](https://twitter.com/ItJustAPsychoEx/status/1200227386857598976)
+
+"CloudFlare. Grootste MITM proxy -ever build-.  Continue expansie drift die zorgt voor centralisatie (alles loopt via CloudFlare).  Onder andere door concurrenten uit de markt te prijzen." by @[UID_](https://twitter.com/UID_/status/1199264018365603840)
 
 "Oh, I found out what it was. You guys have CloudFlare human checks on your images. I had to go one of the images hosted on images.g2.com  directly and click the captcha." by @[clintonskakun](https://twitter.com/clintonskakun/status/1200536371364028416)
 

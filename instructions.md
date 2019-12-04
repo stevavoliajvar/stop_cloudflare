@@ -112,11 +112,11 @@ IMPORTANT: Please add only "Base Domain"
 | list_other.txt                | Any other form of tor-hostility or mistreatment.  This includes sites somewhat functional for Tor users to some extent but sneaky and unexpected adverse retalitory actions are taken against Tor visitors. |
 | list_formerly_tor-hostile.txt | _was_ previously on one of the above tor-hostile lists |
 
-- Add-on "[Which website rejected me?](addon/about.urjm.md)" will help your domain collection.
+- Add-on "[Kiu retejo malakceptis min?](addon/about.urjm.md)" will help your domain collection.
 
 ![](image/siteground.jpg)
 
-Above is how Siteground-hosted(INAP) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
+Above is how Siteground-hosted([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
 If you see this please update `list_othercdn_domain.txt`. (CDN ID: Z7)
 
 ```
@@ -128,6 +128,7 @@ list_othercdn_domain.txt
 {CDN code}:
 'amazon.txt':'Z1'
 'akamai.txt':'Z2'
+(cloudflare is Z3)
 'imperva.txt':'Z4'
 'google.txt':'Z5'
 'microsoft.txt':'Z6'

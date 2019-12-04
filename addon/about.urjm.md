@@ -2,7 +2,7 @@
 
 `Your website rejected me, but I know I'm going to be okay.`
 
-![](../image/sorry.jpg)
+![](../image/aonurjm.jpg)
 
 
 ```
