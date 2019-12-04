@@ -105,36 +105,26 @@ IMPORTANT: Please add only "Base Domain"
 
 | List name | Description |
 | -------- | -------- |
-| **/cidr_data/?.txt**     |  **other CDN IPv4 CIDR files**    |
-| **list_othercdn_domain.txt** | **domains behind these CDN (Not Cloudflare)** |
+| **/domain/(cdnName).txt**     | **Split files (FQDN)**     |
+| tor_blocked.txt | FQDN which denied access via Tor |
+| /cidr_data/?.txt     |  CIDR, ASN    |
+| ex_tor_blocked.txt | _was_ previously on one of the above tor-hostile lists |
+
+
+| List name | Description |
+| -------- | -------- |
 | list_http_error.txt           | Websites that instantly and unconditionally deny service to Tor visitors by returning an HTTP error.  HTTP 403 is the most common but this list catalogs all HTTP responses that entail DoS (i.e. not HTTP 200).  File format is: &lt;FQDN&gt; &lt;http error code&gt; |
 | list_customerror.txt          | Custom error message renders for Tor visitors generally without HTTP error. |
 | list_other.txt                | Any other form of tor-hostility or mistreatment.  This includes sites somewhat functional for Tor users to some extent but sneaky and unexpected adverse retalitory actions are taken against Tor visitors. |
-| list_formerly_tor-hostile.txt | _was_ previously on one of the above tor-hostile lists |
+
 
 - Add-on "[Kiu retejo malakceptis min?](addon/about.urjm.md)" will help your domain collection.
 
 ![](image/siteground.jpg)
 
 Above is how Siteground-hosted([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
-If you see this please update `list_othercdn_domain.txt`. (CDN ID: Z7)
+You can find such examples in `/domains/`.
 
-```
-list_othercdn_domain.txt
-
-
-{domain} {CDN code}
-
-{CDN code}:
-'amazon.txt':'Z1'
-'akamai.txt':'Z2'
-(cloudflare is Z3)
-'imperva.txt':'Z4'
-'google.txt':'Z5'
-'microsoft.txt':'Z6'
-'inap.txt':'Z7'
-'sucuri.txt':'Z8'
-```
 
 ```
 IMPORTANT: Please add only "FQDN" or "FQDN[space](comment here)"
