@@ -11,6 +11,7 @@
 | [TPRB](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [Link](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Yes**     |
+| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) | Niklas Poslovski | [Link](https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
 
 
 See "[What you can do to resist Cloudflare?](../what-to-do.md)" for more information.
