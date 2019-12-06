@@ -377,6 +377,14 @@ Table of contents
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
 
+"here we go again. Zoom not working. ERROR 1020 tell your cloudflare thetmy are blocking subscribers " by @[DanceTeacher55](https://twitter.com/DanceTeacher55/status/1203029649498001408)
+
+"Please re-think your use of Google's reCAPTCHA. Just had to fill in 10 quizzes correctly (not joking) in order to login. You block DDoS attempts on your network all day long, are you saying you rely on Google to detect bots??" by @[dmpinder](https://twitter.com/dmpinder/status/1202982157104427008)
+
+"This site isn't working. I just get a cloudflare error." by @[mojojojo](https://twitter.com/mojojojo/status/1203060938070315009)
+
+"The problem I see there is MitM - do you really want them to terminate your TLS connection with your bank, your doctor, etc., in their perfect cloud instance? I do not." by @[BrendanEich](https://twitter.com/BrendanEich/status/1201701763583070209)
+
 "Please tell your official accounts to stop blocking me on Twitter." by @[dxgl_org](https://twitter.com/dxgl_org/status/1197277192809582592)
 
 "I guess you deployed Cloudflare to mitigate NW traffic issues (DDoS ?). But it is not working properly, it is blocking valid customers too, like me. See pic." by @[aerohari](https://twitter.com/aerohari/status/1201743978925674497)
