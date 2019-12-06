@@ -1,5 +1,0 @@
-borger.dk Click "Digital Post" and get redirected to nemlog-in.dk, which tells Tor users "A technical error has occurred."
-botsin.space The admin don't care Tor users. Tor user can't login or register at all.
-chase.com The bank gives you an opportunity to provide your login creds and then denies the user access and locks their credit card account permanently for "using an unauthorized device".  The action is irreversible, and card holders must sign up for a new card with new number if they want service.
-myaccountaccess.com Elan gives you an opportunity to provide login creds, and then denies access with the phony message: "We are experiencing Technical Difficulties."
-sciencedirect.com "There was a problem providing the content you requested Please contact us via our support center for more information and provide the reference number below."

@@ -111,13 +111,6 @@ IMPORTANT: Please add only "Base Domain"
 | ex_tor_blocked.txt | _was_ previously on one of the above tor-hostile lists |
 
 
-| List name | Description |
-| -------- | -------- |
-| list_http_error.txt           | Websites that instantly and unconditionally deny service to Tor visitors by returning an HTTP error.  HTTP 403 is the most common but this list catalogs all HTTP responses that entail DoS (i.e. not HTTP 200).  File format is: &lt;FQDN&gt; &lt;http error code&gt; |
-| list_customerror.txt          | Custom error message renders for Tor visitors generally without HTTP error. |
-| list_other.txt                | Any other form of tor-hostility or mistreatment.  This includes sites somewhat functional for Tor users to some extent but sneaky and unexpected adverse retalitory actions are taken against Tor visitors. |
-
-
 - Add-on "[Kiu retejo malakceptis min?](addon/about.urjm.md)" will help your domain collection.
 
 ![](image/siteground.jpg)
