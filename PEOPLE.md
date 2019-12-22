@@ -26,6 +26,8 @@ Table of contents
 
 ### News
 
+"[They removed](https://masto.nixnet.xyz/@amolith/103353026740986457) "Cloudflare has never terminated a customer due to political pressure" - @amolith@masto.nixnet.xyz
+
 "[CloudflareのDNSだと「5ちゃんねる」に接続できない？　ネットで話題に](https://www.itmedia.co.jp/news/articles/1908/09/news108.html)" by [itmedia](https://www.itmedia.co.jp/news/)
 
 "[Cloudflare down: Thousands of popular websites affected by brief outage](https://news.sky.com/story/cloudflare-down-thousands-of-popular-websites-affected-by-brief-outage-11755312)" by [Alexander J Martin](https://news.sky.com/)
