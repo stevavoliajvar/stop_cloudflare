@@ -2451,6 +2451,9 @@ Jede Seite, die mich dazu drängt, ein #Google #Captcha zu lösen, damit ich mir
 
 "am i the only one being blocked by #Cloudflare before reaching Falkvinge's  article relating #NSA , and #GNU / #Linux systems... i'm puzzled, what am i missing ? " by @[hellekin](https://quitter.es/notice/4918810)
 
+"@IceWolf I wish that actually all websites would be reachable when using tor. #FuckCloudflare"- [Haelwenn /ɛlwən/ 🐺
+](https://queer.hacktivis.me/objects/7598383a-73ae-4b21-b305-87b2d3c75bc0)
+
 ------
 
 ### Telegram
