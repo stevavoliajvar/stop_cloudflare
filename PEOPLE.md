@@ -26,7 +26,10 @@ Table of contents
 
 ### News
 
-"[They removed](https://masto.nixnet.xyz/@amolith/103353026740986457) "Cloudflare has never terminated a customer due to political pressure" - @amolith@masto.nixnet.xyz
+" [torrentfreak #copyright ☞ American Petroleum Institute Obtains #DMCA Subpoena Ordering #Cloudflare Action Against Pirate Site](https://pleroma.site/objects/ea618f81-8394-4e13-a11a-d8c3e2f231a8) https://torrentfreak.com/american-petroleum-institute-obtains-dmca-subpoena-ordering-cloudflare-action-against-pirate-site-191222/ " - [Dr Roy SChestowitz](schestowitz@pleroma.site)
+
+
+"[They removed](https://masto.nixnet.xyz/@amolith/103353026740986457) "Cloudflare has never terminated a customer due to political pressure" - [@amolith@masto.nixnet.xyz](@amolith@masto.nixnet.xyz)
 
 "[CloudflareのDNSだと「5ちゃんねる」に接続できない？　ネットで話題に](https://www.itmedia.co.jp/news/articles/1908/09/news108.html)" by [itmedia](https://www.itmedia.co.jp/news/)
 
