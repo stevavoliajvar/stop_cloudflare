@@ -383,6 +383,8 @@ Table of contents
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
+"@Cloudflare
+ your 1.1.1.1 dns has trouble accessing some of the cdn server. Eg: http://airasia.com, https://touchngo.com.my, cdn images cannot be loaded. So I revert to Google DNS." [@bowranger](https://twitter.com/bowranger/status/1213031783576428550)
 
 "here we go again. Zoom not working. ERROR 1020 tell your cloudflare thetmy are blocking subscribers " by @[DanceTeacher55](https://twitter.com/DanceTeacher55/status/1203029649498001408)
 
