@@ -15,7 +15,7 @@ Table of contents
 - [Forum / Wiki](PEOPLE.md#forum-wiki)
 - [Microsoft Github](PEOPLE.md#microsoft-github)
 - [Twitter](PEOPLE.md#twitter)
-- [Mastodon](PEOPLE.md#mastodon)
+- [Fediverse](PEOPLE.md#mastodon)
 - [Telegram](PEOPLE.md#telegram)
 
 ---
@@ -2179,11 +2179,12 @@ Table of contents
 
 ------
 
-### Mastodon
+### Fediverse
 
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+“cowboy is Elixir’s webserver that Pleroma runs atop. I don’t think it supports https, though, so they’re probably running unencrypted. Really surprised that only one is running via apache! I guess it’s not nearly as popular as a reverse proxy as it is as a web server. I’ve never actually heard of Caddy before you mentioned it either. Cloudflare 🔥🔥🔥 >:(” by [@wizard@welovela.in](https://welovela.in/notice/9kuftNzrUSnrohG3Ps) )
 
 "Point is: no, you don't need #CloudFlare." by @[rysiek](https://mastodon.social/@rysiek/103240081915169502)
 
