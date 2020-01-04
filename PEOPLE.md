@@ -26,7 +26,9 @@ Table of contents
 
 ### News
 
-" [torrentfreak #copyright ☞ American Petroleum Institute Obtains #DMCA Subpoena Ordering #Cloudflare Action Against Pirate Site](https://pleroma.site/objects/ea618f81-8394-4e13-a11a-d8c3e2f231a8) https://torrentfreak.com/american-petroleum-institute-obtains-dmca-subpoena-ordering-cloudflare-action-against-pirate-site-191222/ " - [Dr Roy SChestowitz](schestowitz@pleroma.site)
+"Cloudflare Claims Our Journalism is Terrorism. We’re Not Backing Down - National Justice:" by [@GeorgiaDaskalos@birdsite](https://national-justice.com/current-events/cloudflare-claims-our-journalism-terrorism-were-not-backing-down-n2076)
+
+" [torrentfreak #copyright ☞ American Petroleum Institute Obtains #DMCA Subpoena Ordering #Cloudflare Action Against Pirate Site](https://pleroma.site/objects/ea618f81-8394-4e13-a11a-d8c3e2f231a8) https://torrentfreak.com/american-petroleum-institute-obtains-dmca-subpoena-ordering-cloudflare-action-against-pirate-site-191222/ " by [Dr Roy SChestowitz](schestowitz@pleroma.site)
 
 
 "[They removed](https://masto.nixnet.xyz/@amolith/103353026740986457) "Cloudflare has never terminated a customer due to political pressure" - [@amolith@masto.nixnet.xyz](@amolith@masto.nixnet.xyz)
