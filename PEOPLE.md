@@ -383,6 +383,8 @@ Table of contents
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=Cloudflare).
 
+“Because Cloudflare will see all the DNS traffic. (RFC 7626 for details.)” by [@bortzmeyer](https://twitter.com/bortzmeyer/status/1213155381872070656)
+
 "@Cloudflare
  your 1.1.1.1 dns has trouble accessing some of the cdn server. Eg: http://airasia.com, https://touchngo.com.my, cdn images cannot be loaded. So I revert to Google DNS." [@bowranger](https://twitter.com/bowranger/status/1213031783576428550)
 
