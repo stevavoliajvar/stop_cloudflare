@@ -1,0 +1,91 @@
+<html>
+   <head>
+      <title>Search</title>
+      <style>
+body {
+	background: #f0f0f0
+}
+input#what {
+	width: 80%
+}
+span.srch_sect {
+	color: #2f4f4f
+}
+a.srch_link {
+	color: #4b0082
+}
+span.srch_url {
+	color: #20b2aa
+}
+a[onclick] {
+	cursor: pointer
+}
+      </style>
+      <script>
+let apiurl = 'https://ansero.eu.org/api/ansero.php';
+let favurl = 'https://ansero.eu.org/api/favicon.php?f=';
+let mylang = 'en-US';
+let hide_domain = []; // e.g. 'google.com'
+let hide_fqdn = []; // e.g. 'en.wikipedia.org'
+let removeMITMsites = false;
+function searchfor(key) {
+	document.getElementById('what').value = key;
+	search();
+}
+function search() {
+	let answer = '',
+		keyword = document.getElementById('what').value;
+	if (keyword.length < 2) {
+		return false;
+	}
+	fetch(apiurl, {
+		method: 'POST',
+		mode: 'cors',
+		headers: {
+			'Content-Type': 'application/x-www-form-urlencoded'
+		},
+		body: 't=json' + (removeMITMsites ? '&m' : '') + '&l=' + mylang + '&q=' + encodeURI(keyword)
+	}).then(r => r.json()).then(r => {
+		if (r.info.desc != undefined) {
+			answer += '<span class="srch_sect">';
+			answer += '' + r.info.desc + '<br>';
+			answer += '<a href="' + r.info.url + '" class="srch_link">' + r.info.title + '</a>';
+			answer += '</span><br><br>';
+		}
+		if (r.sgst.length > 0) {
+			answer += '<span class="srch_sect">Search other: <br>';
+			r.sgst.forEach(x => {
+				answer += '[<a class="srch_link" onclick="searchfor(\'' + x + '\');return false;">' + x + '</a>]<br>';
+			});
+			answer += '</span><br><br>';
+		}
+		r.res.forEach(x => {
+			if (!hide_fqdn.includes(x.fqdn) && !hide_domain.includes(x.dom)) {
+				if (/^https:\/\/www\.youtube\.com\/watch\?v=(.*)$/.test(x.url)) {
+					x.url = 'https://invidio.us/watch?' + x.url.split('/watch?')[1];
+					x.fqdn = x.dom = 'invidio.us';
+				}
+				answer += '<span class="srch_sect">';
+				answer += '<img src="' + favurl + (x.url.startsWith('https:') ? '1-' : '0-') + x.fqdn + '"> ';
+				answer += '<a href="' + x.url + '" class="srch_link">' + (x.mitm == 1 ? '[MITM!!] ' : '') + x.title + '</a><br>';
+				answer += '' + x.desc + '<br>';
+				answer += '<span class="srch_url">' + x.url + '</span></span>';
+				answer += '<br><br>';
+			}
+		});
+		document.getElementById('resultarea').innerHTML = answer;
+	}).catch(e => console.log(e));
+	return false;
+}
+      </script>
+   </head>
+   <body>
+      <form action="#" onsubmit="return search()">
+         <input type="text" id="what" placeholder="Search for..." minlength="2" required>
+         <input type="submit" value="Search">
+      </form>
+      <br>
+      <br>
+      <span id="resultarea"></span>
+   </body>
+</html>
