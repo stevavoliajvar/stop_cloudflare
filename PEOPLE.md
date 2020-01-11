@@ -9,7 +9,7 @@ C'mon guys. Stop using Cloudflare.
 It's endangering the world wide web and you're blocking readers who are protecting
 their privacy by using Tor.
 ```
--- [Mr. Jeff Cliff, BSc](https://twitter.com/jeffcliff1/status/992571841406537728)
+-- [Mr. Jeff Cliff, BSc](https://niu.moe/@jeffcliff)
 
 
 ```
@@ -39,7 +39,7 @@ In addition, with so many websites behind Cloudflare, when it goes down, half th
 The internet was designed to be decentralised and Cloudflare is centralising it.
 Half of the internet relying on a single entity is dangerous.
 ```
--- [Amolith, Ex contributor](https://nixnet.xyz/)
+-- [Amolith, Ex contributor](https://masto.nixnet.xyz/@Amolith)
 
 ---
 
