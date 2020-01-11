@@ -6,22 +6,19 @@
 
 "*That was simply unfounded paranoia, pretty big difference.*"  ([source](https://twitter.com/xxdesmus/status/992757936123359233))
 
+"*We also work with Interpol and other non-US entities*" ([source](https://twitter.com/eastdakota/status/1203028504184360960))
+
 ![](image/whoismp.jpg)
 
 ---
 
-Table of contents
 
-- [Website consumer](what-to-do.md#website-consumer)
-- [Website owner / Web developer](what-to-do.md#website-owner-web-developer)
-- [Software user](what-to-do.md#software-user)
-- [“Mozilla Firefox” user](what-to-do.md#mozilla-firefox-user)
-- [Action](what-to-do.md#action)
-
----
-
+<details>
+<summary>_click me_
 
 ## Website consumer
+</summary>
+
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
 
@@ -52,7 +49,7 @@ An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look a
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
 I refuse to share data with you if you continue to feed my data to Cloudflare.
-See https://codeberg.org/crimeflare/cloudflare-tor
+See https://git.openprivacy.ca/cypherpunks/stop_cloudflare
 ```
 
 For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
@@ -84,22 +81,28 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 | Name | Developer | Support | Can Block | Can Notify |
 | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](addon/about.bcma.md) | Searxes | [Link](https://searxes.eu.org/) | **Yes**     | **Yes**     |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](addon/about.ismm.md) | Searxes | [Link](https://searxes.eu.org/) | No     | **Yes**     |
+| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Searxes | [Link](https://searxes.eu.org/) | **Yes**     | **Yes**     |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Searxes | [Link](https://searxes.eu.org/) | No     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
 | [TPRB](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [Link](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Yes**     |
-| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) | Niklas Poslovski | [Link](https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
+
 
 - "[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)" can stop connection to "CDNJS (Cloudflare)". (_It prevents a lot of requests from reaching networks, and serves local files to keep sites from breaking._)
 
 - Convince your friends to use [Tor](https://www.torproject.org/download/tor/) on the daily basis. Anonymity should be the standard of the open internet!
 
+</details>
 
-------------
+------
+
+<details>
+<summary>_click me_
 
 ## Website owner / Web developer
+</summary>
+
 
 ![](image/word_cloudflarefree.jpg)
 
@@ -117,7 +120,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
-- Do you need DNS server? Can't set up your own server? Then how about [1984 FreeDNS](https://www.1984hosting.com/), [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/) or [this](https://freedns.afraid.org/)?
+- Do you need [DNS server](https://twitter.com/IngeniousAppsIA/status/1187730384492077057)? Can't set up your own server? Then how about [1984 FreeDNS](https://www.1984hosting.com/), [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/) or [this](https://freedns.afraid.org/)?
 
 - Looking for hosting service? "Free" only? Well, how about [Googiehost](https://www.googiehost.com/), [Byethost](https://byet.host/free-hosting), [Surge](https://surge.sh/), [Github Pages](https://pages.github.com/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
 
@@ -129,7 +132,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 - Redirect or block "_Cloudflare Warp_" users from accessing your website. And provide a reason if you can.
 
-> IP list is from "[Cloudflare’s current IP ranges](https://www.cloudflare.com/ips/)" webpage. They might lie, so check your server logs too.
+> IP list is from "[Cloudflare’s current IP ranges](cloudflare_inc/)".
 
 > Method A: Just block them
 
@@ -204,7 +207,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.openprivacy.ca/cypherpunks/stop_cloudflare for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -213,9 +216,16 @@ die();
 
 - Ask for advice from other [Clearnet/Tor dual website operators](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor) and make anonymous friends! :)
 
-------------
+</details>
+
+------
+
+<details>
+<summary>_click me_
 
 ## Software user
+</summary>
+
 
 - If you use Debian GNU/Linux, or any derivative, subscribe to [bug #831835](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
 
@@ -275,9 +285,16 @@ Let's talk about _other software's privacy_...
 
 Therefore we recommend above table only. Nothing else.
 
-------------
+</details>
+
+------
+
+<details>
+<summary>_click me_
 
 ## "Mozilla Firefox" user
+</summary>
+
 
 - Don't use Firefox Nightly. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
 
@@ -314,12 +331,18 @@ Therefore we recommend above table only. Nothing else.
 > 3. Restart Tor.
 > 4. Set your computer's DNS server to "127.0.0.1".
 
+</details>
 
-------------
+------
+
+<details>
+<summary>_click me_
 
 ## Action
+</summary>
 
-- Tell others around you about the dangers of Cloudflare. But don't talk with NSA employee; you'll be _definitely_ marked... just kidding!
+
+- Tell others around you about the dangers of Cloudflare. But don't talk with NSA employee; you'll be _definitely_ [marked](https://news.slashdot.org/comments.pl?sid=15426596&cid=59534554)... just kidding!
 
 - Help improve this repository, both the lists, the arguments against it and the details.
 
@@ -349,7 +372,10 @@ Therefore we recommend above table only. Nothing else.
 
 - It's conceivable that the GNU GPL v4 could include a provision against storing source code behind such a service, requiring for all GPLv4 and later programs that at least the source code is accessible via a medium that does not discriminate against tor users (or any other class of users or something?)
 
-------------
+</details>
+
+------
+
 
 ```
 There is always hope in resistance.
