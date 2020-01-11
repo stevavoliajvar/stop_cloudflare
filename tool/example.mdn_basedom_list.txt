@@ -1,4 +1,8 @@
 # Mastodon Preloma Domain
+# !! This is just a domain list.
+# !! This is NOT Cloudflare-only NOR Cloudflare-free server list!
+# !! You should read "getCFDomainFromList.php".
+# !!
 076.ne.jp
 0j0.jp
 0ko.me

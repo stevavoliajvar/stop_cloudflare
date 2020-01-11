@@ -4,16 +4,12 @@
 
 ---
 
-Table of contents
-
-- [Website is using Cloudflare](instructions.md#website-is-using-cloudflare)
-- [Website is NOT using Cloudflare](instructions.md#website-is-not-using-cloudflare)
-- [How to setup git](instructions.md#how-to-setup-git)
-- [About Cloudflare base domain list](instructions.md#about-cloudflare-base-domain-list)
-
----
+<details>
+<summary>_click me_
 
 ## Website is using Cloudflare
+</summary>
+
 
 - **Cloudflare users** | [**List Directory**](cloudflare_users/)
 
@@ -38,7 +34,7 @@ Table of contents
 | cloudflare_members.txt | Cloudflare employer & employee |
 
 
-**1) How to detect Cloudflare**
+**How to detect Cloudflare?**
 
 There are many ways to detect it:
 
@@ -62,23 +58,6 @@ Organization Cloudflare, Inc.
 Route 104.18.224.0/20
 ```
 
-
-**2) How to add your data (A or B)**
-
-- Type A: Push to Codeberg.org
-
-1. Log in to *Codeberg.org*.
-2. Click "*Fork*" button. (top-left corner)
-3. Edit text file.
-4. Click *Double-arrow* button to create a *new pull request*.
-
-
-- Type B: Just scan the FQDN
-
-1. Scan FQDN on "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
-2. It will be pushed to Codeberg automatically within a week.
-
-
 ```
 IMPORTANT: Please add only "Base Domain"
 
@@ -94,12 +73,20 @@ IMPORTANT: Please add only "Base Domain"
 ... to /split/cloudflare_e.txt
 ```
 
-**3) If the website no longer using Cloudflare**,
-*remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)".
+**But the website X no longer using Cloudflare!**
 
---------------
+*Remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)".
+
+</details>
+
+------
+
+<details>
+<summary>_click me_
 
 ## Website is NOT using Cloudflare
+</summary>
+
 
 - **Anti-Tor users** (formerly "*TorBlocker Hall of Shame Part I*") | [**List Directory**](not_cloudflare/)
 
@@ -111,7 +98,7 @@ IMPORTANT: Please add only "Base Domain"
 | ex_tor_blocked.txt | _was_ previously on one of the above tor-hostile lists |
 
 
-- Add-on "[Kiu retejo malakceptis min?](addon/about.urjm.md)" will help your domain collection.
+- Add-on "[Kiu retejo malakceptis min?](about.urjm.md)" will help your domain collection.
 
 ![](image/siteground.jpg)
 
@@ -120,22 +107,61 @@ You can find such examples in `/domains/`.
 
 
 ```
-IMPORTANT: Please add only "FQDN" or "FQDN[space](comment here)"
 
-    if "community.example.com" is blocking Tor
-        add "community.example.com"
+About "CDN FQDN list"
 
-    if "example.co.uk" is blocking Tor
-        add "example.co.uk Error message: Anonymous not allowed"
+www.example.com
+   ---> www.example.com is using CDN.
+
+?.akamaiedge.net
+   ---> subdomain of akamaiedge.net is using CDN.
+   * unique hostname will be masked as "(subdomain)".
+
+senate.gov
+   ---> base domain is using CDN.
+
 ```
 
 Some websites use other companies with the CloudFlare business model.
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
----
+</details>
+
+------
+
+<details>
+<summary>_click me_
+
+## How to add your data
+</summary>
+
+
+A or B will be enough. Thank you for your contribution.
+
+- Type A: Push to OpenPrivacy
+
+1. Log in to *OpenPrivacy*.
+2. Click "*Fork*" button. (top-left corner)
+3. Edit text file.
+4. Click *Double-arrow* button to create a *new pull request*.
+
+
+- Type B: Just scan the FQDN
+
+1. Scan FQDN on "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage. (or just use "MITM test API", "Detect CDN API")
+2. It will be pushed to OpenPrivacy automatically within a week.
+
+</details>
+
+------
+
+<details>
+<summary>_click me_
 
 ## How to setup git
+</summary>
+
 
 This procedure will give you a cloudflare-tor fork with a
 privacy-respecting configuration to do pushes with SSH over Tor using
@@ -198,9 +224,16 @@ to codeberg are automatically over Tor with this configuration
 (because the `url` in `.git/config` references the virtual host
 `codeberg-snowden` in `~/.ssh/config`).
 
----
+</details>
 
-## About Cloudflare `base domain` list
+------
+
+<details>
+<summary>_click me_
+
+## About Cloudflare base domain list
+</summary>
+
 
 Our mission is clear - `stay away from Cloudflare`.
 
@@ -214,6 +247,20 @@ Until `the owner` completely stop using Cloudflare service for `example.com`, we
 
 There is `no exception`.
 
+```
+
+"Amazon.com"
+
+$ getweb --headonly https://pages.payments.amazon.com/robots.txt
+
+cf-cache-status: HIT
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+alt-svc: h2="cflare******.onion:443"; ma=86400; persist=1
+server: cloudflare
+cf-ray: XXXXXXXXXXX-YYY
+
+```
+
 If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)" - after checking `example.com` with online tool below.
 
 
@@ -223,6 +270,12 @@ If `the owner` moved away from `cloudflare` **completely**, you are welcome to a
 
 3. Click `testo` for detailed scan.
 
-4. If you got `---Finish---`, the domain might stopped using Cloudflare. We'll investigate and remove it - or not. (wait some days and scan again to see whether the domain is removed)
+4. If you got `---Finish---`, the domain _might_ stopped using Cloudflare. We'll _investigate_ and remove it - or not. (wait some days and scan again to see whether the domain is removed)
 
 `Only a few Cloudflare user leave Cloudflare. False positive is uncommon.`
+
+</details>
+
+---
+
+!["Cloudflare is not an option."](image/cfisnotanoption.jpg)

@@ -7,22 +7,13 @@
 
 ---
 
-Table of contents
 
-- [CloudFlare spams people](README_ethics.md#cloudflare-spams-people)
-- [Remove user's review](README_ethics.md#remove-users-review)
-- [Doxxing users](README_ethics.md#doxxing-users)
-- [Corporate solicitation of charitable contributions](README_ethics.md#corporate-solicitation-of-charitable-contributions)
-- [Terminating sites](README_ethics.md#terminating-sites)
-- [Browser vendor discrimination](README_ethics.md#browser-vendor-discrimination)
-- [Voter suppression](README_ethics.md#voter-suppression)
-- [Ignoring user's preference](README_ethics.md#ignoring-user-s-preference)
-- [Lying about deleting user's data](README_ethics.md#lying-about-deleting-users-data)
-- [Keep your personal information](README_ethics.md#keep-your-personal-information)
+<details>
+<summary>_click me_
 
----
+## CloudFlare spams people
+</summary>
 
-### CloudFlare spams people
 
 Cloudflare is sending spam emails to non-Cloudflare users.
 
@@ -40,9 +31,16 @@ How can we stop _Cloudflare spammers_ without activating Cloudflare?
 ![](image/cfspambrittany.jpg)
 ![](image/cfspamtwtr.jpg)
 
+</details>
+
 ---
 
-### Remove user's review
+<details>
+<summary>_click me_
+
+## Remove user's review
+</summary>
+
 
 Cloudflare censor [negative reviews](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). If you post _anti-Cloudflare_ text on Twitter, you have a chance to get a [reply](https://twitter.com/CloudflareHelp/status/1126051764917145601) from [Cloudflare employee](cloudflare_inc/cloudflare_members.txt) with "_[No, it's not](PEOPLE.md)_" message. If you post a negative review on any review site, they will try to [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672).
 
@@ -51,9 +49,15 @@ Cloudflare censor [negative reviews](https://web.archive.org/web/20191116004046/
 ![](image/cfcenrev_02.jpg)
 ![](image/cfcenrev_03.jpg)
 
+</details>
+
 ---
 
-### Doxxing users
+<details>
+<summary>_click me_
+
+## Doxxing users
+</summary>
 
 
 Cloudflare has a massive [harassment problem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5).
@@ -69,30 +73,55 @@ your true ID. If you don't want to get harassed, [assaulted](https://twitter.com
 ![](image/cfdox_ex1.jpg)
 ![](image/cfdox_ex2.jpg)
 
+</details>
+
 ---
 
-### Corporate solicitation of charitable contributions
+<details>
+<summary>_click me_
+
+## Corporate solicitation of charitable contributions
+</summary>
+
 
 CloudFlare is [asking](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) for charitable contributions. It’s quite appalling that an American corporation would ask for charity alongside non-profit organizations that have good causes. If you like [blocking people or wasting other people's time](PEOPLE.md), you might want to order some pizzas🍕 for Cloudflare employees.
 
 
 ![](image/cfdonate.jpg)
 
+</details>
+
 ---
 
-### Terminating sites
+<details>
+<summary>_click me_
+
+## Terminating sites
+</summary>
+
 
 What will you do if your site goes down _suddenly_? There are reports that Cloudflare is [deleting](https://twitter.com/stefan_eady/status/1126033791267426304) [user's](https://twitter.com/derivativeburke/status/903755267053117440) [configuration](https://twitter.com/lordscarlet/status/1046785164792205314) [silently](https://twitter.com/BlnaryMlke/status/1194339461984854018). We suggest you find [better provider](what-to-do.md).
 
 ![](image/cftmnt.jpg)
 
+</details>
+
 ---
 
-### Browser vendor discrimination
+<details>
+<summary>_click me_
+
+## Browser vendor discrimination
+</summary>
+
 
 CloudFlare gives preferential treatment to those using Firefox while giving hostile treatment to users of non-Tor-Browser over Tor.
 Tor users of who rightfully refuse to execute non-free javascript also receive hostile treatment.
 This access inequality is a network neutrality abuse and an abuse of power.
+
+![](image/browdifftbcx.gif)
+
+- Left: `Tor Browser` , Right: `Chrome`. Same IP address.
 
 ![](image/browserdiff.jpg)
 
@@ -122,9 +151,16 @@ To protect our users, we can't process your request right now.
 For more details visit our help page
 ```
 
+</details>
+
 ---
 
-### Voter suppression
+<details>
+<summary>_click me_
+
+## Voter suppression
+</summary>
+
 
 Voters in US states register to vote ultimately through the state secretary's website in the state of their residence.
 Republican-controlled state secretary offices engage in voter suppression by proxying the state secretary's website through Cloudflare.
@@ -138,17 +174,31 @@ Cloudflare website to enter the data.
 ![](image/cfvotm_01.jpg)
 ![](image/cfvotm_02.jpg)
 
+</details>
+
 ---
 
-### Ignoring user's preference
+<details>
+<summary>_click me_
+
+## Ignoring user's preference
+</summary>
+
 
 If you opt-out something, you expect that you receive no email about it. Cloudflare ignore user's preference and share data with third-party corporations [without customer's consent](https://twitter.com/thexpaw/status/1108424723233419264).
 
 ![](image/cfviopl_tp.jpg)
 
+</details>
+
 ---
 
-### Lying about deleting user's data
+<details>
+<summary>_click me_
+
+## Lying about deleting user's data
+</summary>
+
 
 According to this [ex-cloudflare customer's blog](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare is lying about deleting accounts. Nowadays, many [companies keep your data](https://justdeleteme.xyz/) after you've closed or removed your account. Most of good companies do mention about it in their privacy policy. Cloudflare? No.
 
@@ -167,9 +217,16 @@ Their new privacy policy doesn't make any mention of retaining data for a year.
 
 How can you trust Cloudflare if [their privacy policy is a LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
 
+</details>
+
 ---
 
-### Keep your personal information
+<details>
+<summary>_click me_
+
+## Keep your personal information
+</summary>
+
 
 Deleting Cloudflare account is [hard level](https://justdeleteme.xyz/).
 
@@ -187,9 +244,10 @@ You will [receive this confirmation email](https://twitter.com/originalesushi/st
 
 Can you "trust" this?
 
+</details>
 
 ---
 
-### Next: **[Cloudflare Voices](PEOPLE.md)**
+# continue to next page:   [Cloudflare Voices](PEOPLE.md)
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)

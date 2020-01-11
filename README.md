@@ -5,16 +5,13 @@
 
 ---
 
-Table of contents
 
-- [No Cloudflare](README.md#no-cloudflare)
--     [Next: Cloudflare Ethics](README.md#next-cloudflare-ethics-readme-ethics-md)
-- [Data & More Information](README.md#data-more-information)
-- [What can you do?](README.md#what-can-you-do)
-
----
+<details>
+<summary>_click me_
 
 ## No Cloudflare
+</summary>
+
 
 "The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the [U.S. company](https://en.wikipedia.org/wiki/Cloudflare).
 It is the [world's](https://almanac.httparchive.org/en/2019/cdn) [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)).
@@ -29,19 +26,20 @@ The origin webserver administrator allowed the agent to decide [who can access](
 
 ---
 
-Take a look at the first image posted below. You will think Cloudflare block _only_ attackers. You will think _Cloudflare is always online(never go down)_. However [it is not true](PEOPLE.md).
+Take a look at the first image posted below. You will think Cloudflare block _only_ attackers. You will think _Cloudflare is always online(never go [down](https://twitter.com/bengoldacre/status/1146058200887648258))_. However [it is not true](PEOPLE.md).
 
 ---
 
 ![](image/howcfwork.jpg)
 ![](image/cfdowncfcom.jpg)
 ![](image/cfdown2019.jpg)
+![](image/cloudflareinternalerror.jpg)
 
 ---
 
-It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of filtering out many humans from seeing web content (ie everyone in mainland China and people outside) while at the same time those not affected to see a dratically different web, a web free of censorship such as an image of ["tank man"](https://en.wikipedia.org/wiki/Tank_Man) and the history of ["Tiananmen Square protests"](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests#Censorship_in_China). 
+It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of [filtering out many humans](PEOPLE.md) from seeing web content (ie everyone in mainland China and people outside) while at the same time those not affected to see a dratically different web, a web free of censorship such as an image of ["tank man"](https://en.wikipedia.org/wiki/Tank_Man) and the history of ["Tiananmen Square protests"](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests#Censorship_in_China). 
 
-Cloudflare also [block](PEOPLE.md) legit robots/crawlers such as Google, Yandex, Yacy, and API clients.
+Cloudflare also [automatically](https://twitter.com/itsybitsydots/status/1212691131508477952) [block](PEOPLE.md) legit robots/crawlers such as Google, Yandex, Yacy, and API clients.
 
 ---
 
@@ -54,10 +52,11 @@ Cloudflare also [block](PEOPLE.md) legit robots/crawlers such as Google, Yandex,
 
 ---
 
-Cloudflare similarly prevents those in southeast asia and elsewhere who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP) unless they solve multiple image CAPTCHAs. Many humans are being blocked by Cloudflare [every day](PEOPLE.md). There is no way to solve the captcha without enabling Javascript and Cookies. Cloudflare is [using them](PEOPLE.md) to make a browser signature.
+Cloudflare similarly prevents many people who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP) unless they solve multiple image CAPTCHAs. In some cases, [this will take 10 to 30 minutes to satisfy Google](https://trac.torproject.org/projects/tor/ticket/23840). Many humans are being blocked by Cloudflare [every day](PEOPLE.md). There is no way to solve the captcha without enabling Javascript and Cookies. Cloudflare is [using them](PEOPLE.md) to make a browser signature.
 
 ---
 
+![](image/googlerecaptcha.jpg)
 ![](image/omsnote.jpg)
 ![](image/omsdroid.jpg)
 ![](image/omsstream.jpg)
@@ -80,7 +79,7 @@ Tor _was_ developed by US Army, but current Tor is developed by the [Tor project
 
 ---
 
-And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning fake IP address owned by Cloudflare, localhost IP such as "127.0.0.x", or just return nothing. Cloudflare DNS also break online software from smartphone app to computer game because of their fake DNS answer.
+And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning [fake](https://trac.torproject.org/projects/tor/ticket/32915) IP address owned by Cloudflare, localhost IP such as "127.0.0.x", or just return nothing. Cloudflare DNS also [break](https://twitter.com/bowranger/status/1213031783576428550) [online](https://twitter.com/jb510/status/1212521533907668992) [software](https://twitter.com/No_Style/status/1201525422795710466) [from](https://twitter.com/daemuth/status/1187758306535903233) [smartphone](https://twitter.com/gregortorrence/status/1183102089439805441) [app to computer game because of their fake DNS answer](PEOPLE.md).
 
 ---
 
@@ -93,7 +92,7 @@ And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users 
 
 And here you might think, "_I am not using Tor or VPN, why should I care?_".
 If you visit website which use Cloudflare, you are sharing your information not only to website owner _but also Cloudflare_.
-It is impossible to analyze without [decrypting TLS traffic](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389). Cloudflare knows all your data such as raw password.
+It is impossible to [analyze](https://blog.cloudflare.com/the-csam-scanning-tool/) without [decrypting TLS traffic](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389). Cloudflare knows all your data such as raw password.
 [Cloudbeed](https://en.wikipedia.org/wiki/Cloudbleed) can happen anytime.
 
 ---
@@ -134,7 +133,7 @@ Cloudflare said their VPN service make your internet [fast](https://www.wired.co
 
 ---
 
-You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) scandal. It is true that AT&T lets NSA to [copy all internet data](https://www.cnet.com/news/at-t-lets-nsa-hide-and-surveil-in-plain-sight-the-intercept-reports/) for surveillance. Let's say you're working at the NSA, and you want _every citizen's internet profile_. You know most of them are blindly trusting Cloudflare and using it - only one centralized gateway - to proxy their personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping, video website, NSFW website, and illegal website. You also know they use Cloudflare's DNS service ("_1.1.1.1_") and VPN service ("_Cloudflare Warp_") for "_Secure! Faster! Better!_" internet experience. Combining them with user's IP address, browser fingerprint, cookies and RAY-ID will be useful to build target's online profile. You want their data. [What will you do](https://www.reddit.com/r/privacy/comments/1gb0pa/how_prism_actually_works_1520_att_fiber_optic/)?
+You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) scandal. It is true that AT&T lets NSA to [copy all internet data](https://www.cnet.com/news/at-t-lets-nsa-hide-and-surveil-in-plain-sight-the-intercept-reports/) for surveillance. Let's say you're working at the NSA, and you want _every citizen's internet profile_. You know most of them are blindly trusting Cloudflare and using it - only one centralized gateway - to proxy their company server connection([SSH](https://blog.cloudflare.com/public-keys-are-not-enough-for-ssh-security/)/[RDP](https://blog.cloudflare.com/cloudflare-access-now-supports-rdp/)), personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping, video website, NSFW website, and illegal website. You also know they use Cloudflare's DNS service ("_1.1.1.1_") and VPN service ("_Cloudflare Warp_") for "_Secure! Faster! Better!_" internet experience. Combining them with user's IP address, browser fingerprint, cookies and RAY-ID will be useful to build target's online profile. You want their data. [What will you do](https://www.reddit.com/r/privacy/comments/1gb0pa/how_prism_actually_works_1520_att_fiber_optic/)?
 
 ---
 
@@ -159,20 +158,31 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
 
-### Next: **[Cloudflare Ethics](README_ethics.md)**
+---
+
+
+# continue to next page:  [Cloudflare Ethics](README_ethics.md)
+
+</details>
 
 ---
 
-## Data & More Information
+<details>
+<summary>_click me_
 
-This repository is a list of websites that are behind "_The Great Cloudwall_", and also blocking Tor users.
+## Data & More Information
+</summary>
+
+
+This repository is **a list** of websites that are **behind "_The Great Cloudwall_"**, **blocking Tor users** and **other CDNs**.
 
 
 **Data**
 * [Cloudflare Users](cloudflare_users/)
 * [Cloudflare Domains](cloudflare_users/domains/)
 * [Cloudflare Inc.](cloudflare_inc/)
-* [Domains: Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
+* [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
+* [Other CDN customers](not_cloudflare/domains/)
 
 ![](image/goodorbad.jpg)
 
@@ -180,6 +190,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 **More Information**
 * [Short version of README](README_short.md)  `DRAFT`
 * [Myth Catalog](myth_catalog.md)  `DRAFT`
+* [The Great Cloudwall](article.txt) by Mr. Jeff Cliff `DRAFT`
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
 * [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
@@ -187,11 +198,20 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 * [Cloudflare Watch](http://www.crimeflare.org:82/) (cons: _down quite a lot, old data, search restricted to EU only_)
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) by TheGoldenGoose8888
 * [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
+* [Not everyone can use Twitter. Don't you think this is unfair?](https://codeberg.org/crimeflare/cloudflare-tor/issues/56)
+* [Crimeflare](https://codeberg.org/crimeflare/cloudflare-tor)    ¯\\_(ツ)_/¯
 
 ![](image/watcloudflare.jpg)
 
+</details>
+
+---
+
+<details>
+<summary>_click me_
 
 ## What can you do?
+</summary>
 
 * Read [our list of recommended actions](what-to-do.md) and share it with your friends.
 
@@ -210,6 +230,16 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 
 ![WTF](image/wtfcf.jpg)
 
+![](image/omsirl.jpg)
+![](image/whydoihavetosolveacaptcha.jpg)
+![](image/fixthedamn.jpg)
+![](image/imnotarobot.jpg)
+
+</details>
+
+---
+
+
 ![](image/twe_lb.jpg)
 
 ![](image/twe_dz.jpg)
@@ -219,14 +249,6 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", a
 ![](image/twe_ial.jpg)
 
 ![](image/twe_eptg.jpg)
-
----
-
-![](image/omsirl.jpg)
-![](image/whydoihavetosolveacaptcha.jpg)
-![](image/fixthedamn.jpg)
-![](image/imnotarobot.jpg)
-
 
 ![What did YOU do to stop CF?](image/stopcf.jpg)
 
