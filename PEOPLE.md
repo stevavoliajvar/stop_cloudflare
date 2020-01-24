@@ -41,6 +41,18 @@ Half of the internet relying on a single entity is dangerous.
 ```
 -- [Amolith, Ex contributor](https://masto.nixnet.xyz/@Amolith)
 
+
+```
+Think about your visitors.
+Do you like it when websites ruin a bit of your experience?
+In other words: Would you love to visit a website which forces you
+to solve a annoying timewasting puzzle usually after waiting five
+seconds which also cost you valuable time?
+Awesome! Use Cloudflare!
+```
+-- [Robin Wils, Ex contributor](https://linuxrocks.online/@RMW)
+
+
 ---
 
 ![](image/butitsdown.jpg)
@@ -451,6 +463,8 @@ Half of the internet relying on a single entity is dangerous.
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://git.openprivacy.ca/cypherpunks/stop_cloudflare/issues?state=closed&labels=84).
 
+
+"CloudFlare is already the biggest MITM network on earth - and with the percentage of the web that is powered by CF, I'm sure people blindly trust MITM (Or maybe doesn't know any better)." by @[LucasRolff](https://twitter.com/LucasRolff/status/1217747562217779201)
 
 "Does anyone know offhand, if Cloudflare is wrongly flagging your IP as a bot, is there a way to either A) confirm/test that, or B) request it be whitelisted?" by @[fienen](https://twitter.com/fienen/status/1205285537420107777)
 

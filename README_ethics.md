@@ -5,6 +5,9 @@
 
 "_Don't support this company which is void of ethics_" -- [phyzonloop](https://twitter.com/phyzonloop)
 
+"_Your company isn't trustworthy. You claim to enforce DMCA but have many lawsuits for not doing so._" -- [phyzonloop](https://twitter.com/phyzonloop)
+
+
 ---
 
 
@@ -128,6 +131,10 @@ This access inequality is a network neutrality abuse and an abuse of power.
 - Left: `[Tor Browser] Javascript Disabled, Cookie Enabled`
 - Right: `[Chrome] Javascript Enabled, Cookie Disabled`
 
+![](image/cfsiryoublocked.jpg)
+
+- QuteBrowser(minor browser) without Tor (Clearnet IP)
+
 | ***Browser*** | ***Access treatment*** |
 | --- | --- |
 | Tor Browser (Javascript enabled) | access permitted |
@@ -135,6 +142,7 @@ This access inequality is a network neutrality abuse and an abuse of power.
 | Chromium (Javascript enabled) | access degraded (pushes Google reCAPTCHA) |
 | Chromium or Firefox (Javascript disabled) | access denied (pushes *broken* Google reCAPTCHA) |
 | Chromium or Firefox (Cookie disabled) | access denied |
+| QuteBrowser | access denied |
 | lynx | access denied |
 | w3m | access denied |
 | wget | access denied |
