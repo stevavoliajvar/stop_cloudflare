@@ -45,7 +45,9 @@ Half of the internet relying on a single entity is dangerous.
 ```
 Think about your visitors.
 Do you like it when websites ruin a bit of your experience?
-In other words: Would you love to visit a website which forces you to solve a annoying timewasting puzzle usually after waiting five seconds which also cost you valuable time?
+In other words: Would you love to visit a website which forces you
+to solve a annoying timewasting puzzle usually after waiting five
+seconds which also cost you valuable time?
 Awesome! Use Cloudflare!
 ```
 -- [Robin Wils, Ex contributor](https://linuxrocks.online/@RMW)
