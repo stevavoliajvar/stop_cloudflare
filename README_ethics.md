@@ -5,6 +5,9 @@
 
 "_Don't support this company which is void of ethics_" -- [phyzonloop](https://twitter.com/phyzonloop)
 
+"_Your company isn't trustworthy. You claim to enforce DMCA but have many lawsuits for not doing so._" -- [phyzonloop](https://twitter.com/phyzonloop)
+
+
 ---
 
 
