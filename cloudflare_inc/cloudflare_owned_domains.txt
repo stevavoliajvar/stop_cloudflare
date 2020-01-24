@@ -13,6 +13,7 @@ cloudflareapps.com
 cloudflarechallenge.com
 cloudflareclient.com
 cloudflareenterprise.com
+cloudflareinsights.com
 cloudflarepreview.com
 cloudflarepreviews.com
 cloudflareresolve.com
