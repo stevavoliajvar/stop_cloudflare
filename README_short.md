@@ -81,7 +81,7 @@ We created a
 to make your life easier if you agree with us.
 ## Solutions
 ### Blocking Cloudflare request or IPs
-- [Add-ons](subfiles/add-ons.md)
+- [Add-ons](what-to-do.md#website-consumer)
 - [Cloudflare IPs to block](cloudflare_inc/)
 - [Change default DNS provider of firefox](subfiles/change-firefox-dns.md)
 

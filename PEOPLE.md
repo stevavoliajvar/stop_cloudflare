@@ -461,8 +461,20 @@ Awesome! Use Cloudflare!
 </summary>
 
 
-> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://git.openprivacy.ca/cypherpunks/stop_cloudflare/issues?state=closed&labels=84).
+> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
+
+"Europe/Germany getting Cloudflare Error on loading in the menu, and this error here says cant load ingame, bad account id ?" by @[FetteMacke](https://twitter.com/FetteMacke/status/1224076509800955904)
+
+"Cloudflare's rate limiting is the worst thing to script for in a testing sense. Depending on the plan, it could be any combination of values for request limits in certain time frames, then block times vary, or you can send people to js challenges and stuff. ugh." by @[incredincomp](https://twitter.com/incredincomp/status/1219688905093439488)
+
+"See just know you won't fix that error 1000 without deleting cloudflare.... Seriously is cloudflare needed for your site?" by @[mvptrinity](https://twitter.com/mvptrinity/status/1221027782693617664)
+
+"Getting an error from CloudFlare on those archive links." by @[IonotterA](https://twitter.com/IonotterA/status/1221971502104481793)
+
+"Game is down in the same way as last night. Can't get to profile. Gives some cloudflare error and then you're screwed from there" by @[MikkelVilla](https://twitter.com/MikkelVilla/status/1224026651211771906)
+
+"Even unable to login in bungie as it's complaining about error 500 and cloudflare." by @[solidus198306](https://twitter.com/solidus198306/status/1222947361594531842)
 
 "CloudFlare is already the biggest MITM network on earth - and with the percentage of the web that is powered by CF, I'm sure people blindly trust MITM (Or maybe doesn't know any better)." by @[LucasRolff](https://twitter.com/LucasRolff/status/1217747562217779201)
 
@@ -2386,8 +2398,10 @@ Awesome! Use Cloudflare!
 </summary>
 
 
-> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://git.openprivacy.ca/cypherpunks/stop_cloudflare/issues?state=closed&labels=85).
+> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"Today first I successfully did a search on opensubtitles.org with Firefox and noticed that this site uses CloudFlare. Then later on I tried to do a search on opensubtitles.org with the #Tor browser. I got the Google ReCaptcha, and after solving that for more than 10 to 15 times, where it seemed to give me access a few times, I was still not able to perform a search at all (meh) :_catsad: When will people realize that the "free of charge" for 1 website DDOS protection by #CloudFlare is not at all a cool and "free" option to choose for. It is more like selling your soul and poisoning the Internet. Also : A few months ago I had to use the CloudFlare web admin interface for a friend. I added a subdomain for an admin login page for the website of my friend. Then I continued working on the site and suddenly noticed in the logs that the brand new subdomain was visited by several different ones, including a tor node. At first I got confused by it, and I found it very unpleasant, but in the end my conclusion is that CloudFlare is just dodgy. I hope that affordable CDN and DDOS protection alternatives will grow and vanish CloudFlare in the end." by @[Ajz](https://mastodon.host/@Ajz)
 
 "If you're at a small scale, why would you pretend you need the services that CloudFlare provides in the first place? I understand that people watching MSM and have little knowledge of IT will think that everyone in the world is constantly being DDoSed every time they make a post on their blog, but that's just not the case. " by @[fglt](https://soc.fglt.nl/objects/0e1fe9a1-1099-4091-899b-69130f309a6e)
 

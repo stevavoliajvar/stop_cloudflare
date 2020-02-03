@@ -79,15 +79,17 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 - If your browser is Firefox, use one of these add-ons.
 
+### Add-ons
+
 | Name | Developer | Support | Can Block | Can Notify |
 | -------- | -------- | -------- | -------- | -------- |
 | [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Searxes | [Link](https://searxes.eu.org/) | **Yes**     | **Yes**     |
 | [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Searxes | [Link](https://searxes.eu.org/) | No     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
-| [TPRB](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | Sw | [Link](https://sw.skusklxqaqnrmszytky4vfyrg625erw4hqhiokyc2ufnokd2aitb47yd.onion/) | **Yes**     | **Yes**     |
+| [TPRB](http://sw.qigxev2knhrsewwzi6bnv6y7uuucmyp4cyy3dovv56jug2kfrmmuqzid.onion/) | Sw | [Link](http://sw.qigxev2knhrsewwzi6bnv6y7uuucmyp4cyy3dovv56jug2kfrmmuqzid.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [Link](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Yes**     |
-| [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) | Niklas Poslovski | [Link](https://gitlab.com/gkrishnaks/cloud-firewall/) | **Yes** | No |
+| [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [Link](https://github.com/lilydjwg/cf-pop) | No     | **Yes**     |
 
 
 - "[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)" can stop connection to "CDNJS (Cloudflare)". (_It prevents a lot of requests from reaching networks, and serves local files to keep sites from breaking._)
@@ -123,7 +125,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 - Do you need [DNS server](https://twitter.com/IngeniousAppsIA/status/1187730384492077057)? Can't set up your own server? Then how about [1984 FreeDNS](https://www.1984hosting.com/), [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/) or [this](https://freedns.afraid.org/)?
 
-- Looking for hosting service? "Free" only? Well, how about [Googiehost](https://www.googiehost.com/), [Byethost](https://byet.host/free-hosting), [Surge](https://surge.sh/), [Github Pages](https://pages.github.com/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
+- Looking for hosting service? "Free" only? Well, how about [Byethost](https://byet.host/free-hosting), [Surge](https://surge.sh/), [Github Pages](https://pages.github.com/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
 
 - Are you using "_cloudflare-ipfs.com_"? Do you know [Cloudflare IPFS is bad](PEOPLE.md)?
 
