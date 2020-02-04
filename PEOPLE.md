@@ -116,6 +116,8 @@ Awesome! Use Cloudflare!
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Cloudflare is turning off the internet for me](https://blog.dijit.sh/cloudflare-is-turning-off-the-internet-for-me)" by [Jan Harasym](https://blog.dijit.sh/)
+
 "[Can you trust CloudFlare with your personal data?](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/)" by [Terence Eden](https://edent.tel/)
 
 "[WARP is not a VPN for privacy](https://www.piavpnaymodqeuza.onion/blog/2019/09/warp-is-not-a-vpn-for-privacy/)" by [Private Internet Access](https://www.privateinternetaccess.com/)
