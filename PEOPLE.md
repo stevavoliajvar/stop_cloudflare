@@ -466,6 +466,10 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
 
+"I get blocked by cloudflare a lot, as well as a ludicrous amount of recaptchas (I suspect it is due to ad/JS/cookie-blocking)." by @[tnhh](https://twitter.com/tnhh/status/1219698503649234944)
+
+"Cloudflare having some issues reaching the bouqs flower website because of a security service protecting it from cyber attacks? Clearly not trying anything malicious just need flowers lmao" by @[PlagueBitch](https://twitter.com/PlagueBitch/status/1223292192439119872)
+
 "Europe/Germany getting Cloudflare Error on loading in the menu, and this error here says cant load ingame, bad account id ?" by @[FetteMacke](https://twitter.com/FetteMacke/status/1224076509800955904)
 
 "Cloudflare's rate limiting is the worst thing to script for in a testing sense. Depending on the plan, it could be any combination of values for request limits in certain time frames, then block times vary, or you can send people to js challenges and stuff. ugh." by @[incredincomp](https://twitter.com/incredincomp/status/1219688905093439488)
