@@ -116,6 +116,8 @@ Awesome! Use Cloudflare!
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Cloudflare is turning off the internet for me](https://blog.dijit.sh/cloudflare-is-turning-off-the-internet-for-me)" by [Jan Harasym](https://blog.dijit.sh/)
+
 "[Can you trust CloudFlare with your personal data?](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/)" by [Terence Eden](https://edent.tel/)
 
 "[WARP is not a VPN for privacy](https://www.piavpnaymodqeuza.onion/blog/2019/09/warp-is-not-a-vpn-for-privacy/)" by [Private Internet Access](https://www.privateinternetaccess.com/)
@@ -463,6 +465,10 @@ Awesome! Use Cloudflare!
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
+
+"I get blocked by cloudflare a lot, as well as a ludicrous amount of recaptchas (I suspect it is due to ad/JS/cookie-blocking)." by @[tnhh](https://twitter.com/tnhh/status/1219698503649234944)
+
+"Cloudflare having some issues reaching the bouqs flower website because of a security service protecting it from cyber attacks? Clearly not trying anything malicious just need flowers lmao" by @[PlagueBitch](https://twitter.com/PlagueBitch/status/1223292192439119872)
 
 "Europe/Germany getting Cloudflare Error on loading in the menu, and this error here says cant load ingame, bad account id ?" by @[FetteMacke](https://twitter.com/FetteMacke/status/1224076509800955904)
 
