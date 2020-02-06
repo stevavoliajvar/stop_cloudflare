@@ -183,7 +183,7 @@ Cloudflare website to enter the data.
 ![](image/cfvotm_02.jpg)
 
 Change.org is a famous website for gathering votes and take action. "[people everywhere are starting campaigns, mobilizing supporters, and working with decision makers to drive solutions.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Unfortunately, many people cannot view change.org at all due to Cloudflare's aggressive filter.
+Unfortunately, many people cannot view change.org at all due to Cloudflare's aggressive filter. They cannot vote even if they want to.
 
 ![](image/changeorgasn.jpg)
 ![](image/changeorgtor.jpg)
