@@ -470,6 +470,8 @@ Awesome! Use Cloudflare!
 
 "google recaptcha actually sux sometime they give captcha that can never be solved. And one day i solved like 15 minutes and gave up. All was due to fault of cloudflare which uses dummy google recaptcha." by @[shirshak55](https://twitter.com/shirshak55/status/1224041961125867520)
 
+"Ever heard of CloudFlare? Your DDOS protection is blocking tons of range of IP that legit customers use, which is completely useless for blocking DDOS and preventing users to connect." by @[Fealen3](https://nitter.net/Fealen3/status/1223078522412924929)
+
 "I get blocked by cloudflare a lot, as well as a ludicrous amount of recaptchas (I suspect it is due to ad/JS/cookie-blocking)." by @[tnhh](https://twitter.com/tnhh/status/1219698503649234944)
 
 "Cloudflare having some issues reaching the bouqs flower website because of a security service protecting it from cyber attacks? Clearly not trying anything malicious just need flowers lmao" by @[PlagueBitch](https://twitter.com/PlagueBitch/status/1223292192439119872)
