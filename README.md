@@ -6,11 +6,7 @@
 ---
 
 
-<details>
-<summary>_click me_
-
 ## No Cloudflare
-</summary>
 
 
 "The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the [U.S. company](https://en.wikipedia.org/wiki/Cloudflare).
@@ -161,9 +157,9 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 ---
 
 
-# continue to next page:  [Cloudflare Ethics](README_ethics.md)
+## continue to next page:  [Cloudflare Ethics](README_ethics.md)
 
-</details>
+
 
 ---
 
