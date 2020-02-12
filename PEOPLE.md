@@ -466,11 +466,17 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
 
+"#CloudFlare is now hitting the archive.org wayback machine with the same #CAPTCHA as #Tor users, thus censoring history too." by @[namanwtf](https://twitter.com/namanwtf/status/1220993565762805763)
+
+"can't do captcha to prove I'm not a robot because I might be a robot" by @[olihough86](https://twitter.com/olihough86/status/1225420620495757312)
+
+"Cloudflare is blocking your content" by @[Roxann_Minerals](https://twitter.comt/Roxann_Minerals/status/1226990674588897280)
+
 "If your server is behind Cloudflare, you are losing, big time. The vast Internet multitudes see that "check all the crosswalks" captcha, and click away." by @[BobPurvy1](https://twitter.com/BobPurvy1/status/1222337944473755650)
 
 "google recaptcha actually sux sometime they give captcha that can never be solved. And one day i solved like 15 minutes and gave up. All was due to fault of cloudflare which uses dummy google recaptcha." by @[shirshak55](https://twitter.com/shirshak55/status/1224041961125867520)
 
-"Ever heard of CloudFlare? Your DDOS protection is blocking tons of range of IP that legit customers use, which is completely useless for blocking DDOS and preventing users to connect." by @[Fealen3](https://nitter.net/Fealen3/status/1223078522412924929)
+"Ever heard of CloudFlare? Your DDOS protection is blocking tons of range of IP that legit customers use, which is completely useless for blocking DDOS and preventing users to connect." by @[Fealen3](https://twitter.com/Fealen3/status/1223078522412924929)
 
 "I get blocked by cloudflare a lot, as well as a ludicrous amount of recaptchas (I suspect it is due to ad/JS/cookie-blocking)." by @[tnhh](https://twitter.com/tnhh/status/1219698503649234944)
 
