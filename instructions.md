@@ -98,7 +98,8 @@ IMPORTANT: Please add only "Base Domain"
 | ex_tor_blocked.txt | _was_ previously on one of the above tor-hostile lists |
 
 
-- Add-on "[Kiu retejo malakceptis min?](about.urjm.md)" will help your domain collection.
+- Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
+- Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will help your tor-hostile FQDN collection.
 
 ![](image/siteground.jpg)
 
