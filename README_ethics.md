@@ -103,7 +103,7 @@ CloudFlare is [asking](https://web.archive.org/web/20191112033605/https://openco
 </summary>
 
 
-What will you do if your site goes down _suddenly_? There are reports that Cloudflare is [deleting](https://twitter.com/stefan_eady/status/1126033791267426304) [user's](https://twitter.com/derivativeburke/status/903755267053117440) [configuration](https://twitter.com/lordscarlet/status/1046785164792205314) [silently](https://twitter.com/BlnaryMlke/status/1194339461984854018). We suggest you find [better provider](what-to-do.md).
+What will you do if your site goes down _suddenly_? There are reports that Cloudflare is [deleting](https://twitter.com/stefan_eady/status/1126033791267426304) [user's](https://twitter.com/derivativeburke/status/903755267053117440) [configuration](https://twitter.com/lordscarlet/status/1046785164792205314) or [stopping service without any warning](https://twitter.com/svolentin/status/1227324408475344896), [silently](https://twitter.com/BlnaryMlke/status/1194339461984854018). We suggest you find [better provider](what-to-do.md).
 
 ![](image/cftmnt.jpg)
 
