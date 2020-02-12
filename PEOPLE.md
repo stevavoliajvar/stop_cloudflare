@@ -466,11 +466,11 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
 
-"Have been blocked by bstategames Cloudflare protection while playing the game. Just a Popup that wouldn't go away and the option to restart the game. Any idea why?" by @[BlackyWerSonst](https://nitter.net/BlackyWerSonst/status/1226220100610666497)
+"Have been blocked by bstategames Cloudflare protection while playing the game. Just a Popup that wouldn't go away and the option to restart the game. Any idea why?" by @[BlackyWerSonst](https://twitter.com/BlackyWerSonst/status/1226220100610666497)
 
-"Hello, why do I get this screen at some websites?" by @[](https://nitter.net/PatrickVkmp/status/1226230725336293377)
+"Hello, why do I get this screen at some websites?" by @[](https://twitter.com/PatrickVkmp/status/1226230725336293377)
 
-"Why am I keep getting the cloudflare Attention Required Solved Captcha thing over & over & over again?" by @[blackinmind123](https://nitter.net/blackinmind123/status/1226273879078862848)
+"Why am I keep getting the cloudflare Attention Required Solved Captcha thing over & over & over again?" by @[blackinmind123](https://twitter.com/blackinmind123/status/1226273879078862848)
 
 "#CloudFlare is now hitting the archive.org wayback machine with the same #CAPTCHA as #Tor users, thus censoring history too." by @[namanwtf](https://twitter.com/namanwtf/status/1220993565762805763)
 
