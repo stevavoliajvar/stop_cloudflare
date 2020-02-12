@@ -38,7 +38,8 @@
 
 There are many ways to detect it:
 
-- [These add-ons](what-to-do.md) will help your Cloudflare collection.
+- Add-on "[Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md)" will help your Cloudflare collection.
+- Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "Attention Required! Cloudflare" webpage.
 - Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
@@ -98,7 +99,8 @@ IMPORTANT: Please add only "Base Domain"
 | ex_tor_blocked.txt | _was_ previously on one of the above tor-hostile lists |
 
 
-- Add-on "[Kiu retejo malakceptis min?](about.urjm.md)" will help your domain collection.
+- Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
+- Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will help your tor-hostile FQDN collection.
 
 ![](image/siteground.jpg)
 

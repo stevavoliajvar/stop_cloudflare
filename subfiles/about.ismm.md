@@ -11,7 +11,7 @@ You′ve found something on the internet.
 Are these links or images vulnerable to MITM attack or not?
  
 This add-on is using Searxes′ Public API to scan FQDN.
-	e.g. ekzemplo.com/page.html → "ekzemplo.com"
+	e.g. https://ekzemplo.com/page.html → "ekzemplo.com"
 
 This add-on never send other information.
 
