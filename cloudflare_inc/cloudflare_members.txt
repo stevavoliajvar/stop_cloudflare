@@ -1056,7 +1056,7 @@ Sam Rhea | Employee | https://twitter.com/LakeAustinBlvd  srhea@cloudflare.com
 Sam Whited | Systems Engineer
 Samantha Lee | Regional Sales Lead
 Samantha Mammen | Employee
-Sami Kerola | Systems Reliability Engineer
+Sami Kerola | Systems Reliability Engineer | kerolasa@cloudflare.com kerolasa@iki.fi +447761367138
 Samuel Coates | Attorney
 Samuel Noble | Customer Development
 Sandra Sansano | IT Billing Project Manager
