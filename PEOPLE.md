@@ -2425,6 +2425,15 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
 
+"It seems to me #tusky still try to connect to #cloudflare despite using http proxy." by @[Br0m3x](https://social.weho.st/@Br0m3x/103674328334042541)
+
+"Sehe gerade, ein Moodle, in das ich mich einlogge, nutzt Cloudflare. Wie ist das denn aus Datenschutzsicht zu bewerten?
+Kennt sich da jemand aus? In der Datenschutzerklärung des Moodles findet sich da nichts drüber." by @[D22](https://social.tchncs.de/@D22/103634742838191448)
+
+"You oppose #Google & #Amazon at least in part due to their attacks on #privacy.  Yet, you're in #CloudFlare's privacy-abusing #walledgarden yourself. You should ditch mastodon.social and find a node that respects your values." by @[aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/103591534339447704)
+
+"I'm tired of people going on about Cloudflare. It's not a normal tired either. It's a "please get the fuck out of my face if you're going to say one more word because I am just done." A friend of mine said I was a shit service provider because I would rather stop running everything than put my applications behind a MITM and compromise user privacy." by @[amolith](https://masto.nixnet.xyz/@amolith/103650166871589343)
+
 "Würde ich gerne, aber change.org lässt mich nicht auf die Webseite, weil ich mich momentan im Netz der "Leaseweb Deutschland GmbH" befinde (screenshot:  ASN  28753). change.org sollte dringend ihren Server konfigurieren oder besser noch den Hoster "Clownflare" wechseln." by @[Wolfram](https://norden.social/@Wolfram/103608344157032468)
 
 "Today first I successfully did a search on opensubtitles.org with Firefox and noticed that this site uses CloudFlare. Then later on I tried to do a search on opensubtitles.org with the #Tor browser. I got the Google ReCaptcha, and after solving that for more than 10 to 15 times, where it seemed to give me access a few times, I was still not able to perform a search at all (meh) :_catsad: When will people realize that the "free of charge" for 1 website DDOS protection by #CloudFlare is not at all a cool and "free" option to choose for. It is more like selling your soul and poisoning the Internet. Also : A few months ago I had to use the CloudFlare web admin interface for a friend. I added a subdomain for an admin login page for the website of my friend. Then I continued working on the site and suddenly noticed in the logs that the brand new subdomain was visited by several different ones, including a tor node. At first I got confused by it, and I found it very unpleasant, but in the end my conclusion is that CloudFlare is just dodgy. I hope that affordable CDN and DDOS protection alternatives will grow and vanish CloudFlare in the end." by @[Ajz](https://mastodon.host/@Ajz)
