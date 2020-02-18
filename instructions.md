@@ -114,7 +114,7 @@ www.example.com
 
 ?.akamaiedge.net
    ---> subdomain of akamaiedge.net is using CDN.
-   * unique hostname will be masked as "(subdomain)".
+   * unique hostname will be masked as "?".
 
 senate.gov
    ---> base domain is using CDN.
@@ -140,7 +140,7 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 | List name | Description |
 | -------- | -------- |
-| **/fqdn/attd_?.txt**     | **Split files (FQDN)**     |
+| **/fqdn/anti_tor_fqdn.txt**     | **Split files (FQDN)**     |
 
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
@@ -154,17 +154,17 @@ How can you trust their news if they are not treating everyone equally?
 
 ```
 
-About "CDN FQDN list"
+About "Anti-Tor FQDN list"
 
 www.example.com
-   ---> www.example.com is using CDN.
+   ---> www.example.com denied/bullied Tor visitor.
 
 ?.akamaiedge.net
-   ---> subdomain of akamaiedge.net is using CDN.
-   * unique hostname will be masked as "(subdomain)".
+   ---> subdomain of akamaiedge.net is denied Tor user.
+   * unique hostname will be masked as "?".
 
 senate.gov
-   ---> base domain is using CDN.
+   ---> base domain denied/harassed/challenged human who're using Tor.
 
 ```
 
