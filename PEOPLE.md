@@ -466,6 +466,34 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
 
+"We're getting 403s delivered by Cloudflare (your MITM CDN) when trying to `npm update` our server application. Are you aware of this?" by @[MacLemon](https://twitter.com/MacLemon/status/1229369465537777665)
+
+"I'm not sure if this has been realized, but I think the error we are getting in the middle of raids is because cloudflare wants a captcha from the game?" by @[bobjobob24](https://twitter.com/bobjobob24/status/1226220361857019905)
+
+"Interesting, customer hitting our API from a Lambda function is sometimes prompted with a Cloudflare captcha. Turns out you don't control the origin IP of the Lambda. Malicious actors might use the same IP address, causing the IP to get flagged as having a bad reputation." by @[tomdev](https://twitter.com/tomdev/status/1227198530198163456)
+
+"Patreon has a very nasty Cloudflare CAPTCHA infection" by @[dxgl_org](https://twitter.com/dxgl_org/status/1228030068435357696)
+
+"why is it giving me a cloudflare captcha thing when I try to go to myreadingmanga" by @[muttzone](https://twitter.com/muttzone/status/1228566293323927553)
+
+"npm: why respond on a public issue before telling us?" by @[wesleytodd](https://twitter.com/wesleytodd/status/1229453056086921216)
+
+"Is your promotion of alcohol why you use Cloudflare?" by @[dxgl_org](https://twitter.com/dxgl_org/status/1229506984485048320)
+
+"hi, my wan ip is blocked by cloudflare, now my fitbit and sonos can not connect to theire servers, how can  I remove my wan ip from your blacklist?" by @[nl1wdj](https://twitter.com/nl1wdj/status/1226226530172440577)
+
+"Steam users have threatened to dox me; now kiwifarms, a happy customer of Cloudflare" by @[dxgl_org](https://twitter.com/dxgl_org/status/1228031362915012611)
+
+"Need help" by @[AbeysingheRichi](https://twitter.com/AbeysingheRichi/status/1228751658064207873)
+
+"why am i getting blocked from every device on off---white.com? :(" by @[copbud](https://twitter.com/copbud/status/1228695503476600834)
+
+"Blocked for no reason on my computer when I never opened your site till today? Over zealous much and I have to resort to my mobile just to see you site wow. I suggest figuring out your problem blocking people and denying people at random with cloudflare." by @[TrevorMacewan](https://twitter.com/TrevorMacewan/status/1228848856151904256)
+
+"So npmjs.org broke because they were using HTTP referrers outside the HTTP spec and Cloudflare rate limited them. " by @[g0rdin](https://twitter.com/g0rdin/status/1229536718266814468)
+
+"NPM is rate limiting and people's builds are failing" by @[HNTweets](https://twitter.com/HNTweets/status/1229392562772942848)
+
 "Have been blocked by bstategames Cloudflare protection while playing the game. Just a Popup that wouldn't go away and the option to restart the game. Any idea why?" by @[BlackyWerSonst](https://twitter.com/BlackyWerSonst/status/1226220100610666497)
 
 "Hello, why do I get this screen at some websites?" by @[](https://twitter.com/PatrickVkmp/status/1226230725336293377)
@@ -2424,6 +2452,15 @@ Awesome! Use Cloudflare!
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"It seems to me #tusky still try to connect to #cloudflare despite using http proxy." by @[Br0m3x](https://social.weho.st/@Br0m3x/103674328334042541)
+
+"Sehe gerade, ein Moodle, in das ich mich einlogge, nutzt Cloudflare. Wie ist das denn aus Datenschutzsicht zu bewerten?
+Kennt sich da jemand aus? In der Datenschutzerklärung des Moodles findet sich da nichts drüber." by @[D22](https://social.tchncs.de/@D22/103634742838191448)
+
+"You oppose #Google & #Amazon at least in part due to their attacks on #privacy.  Yet, you're in #CloudFlare's privacy-abusing #walledgarden yourself. You should ditch mastodon.social and find a node that respects your values." by @[aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/103591534339447704)
+
+"I'm tired of people going on about Cloudflare. It's not a normal tired either. It's a "please get the fuck out of my face if you're going to say one more word because I am just done." A friend of mine said I was a shit service provider because I would rather stop running everything than put my applications behind a MITM and compromise user privacy." by @[amolith](https://masto.nixnet.xyz/@amolith/103650166871589343)
 
 "Würde ich gerne, aber change.org lässt mich nicht auf die Webseite, weil ich mich momentan im Netz der "Leaseweb Deutschland GmbH" befinde (screenshot:  ASN  28753). change.org sollte dringend ihren Server konfigurieren oder besser noch den Hoster "Clownflare" wechseln." by @[Wolfram](https://norden.social/@Wolfram/103608344157032468)
 
