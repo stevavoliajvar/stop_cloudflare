@@ -1,4 +1,4 @@
-# Which websites are hostile to Tor users?
+# Other CDN
 
 Cloudflare is the world’s largest MITM proxy. But what about other _minor_ CDNs?
 
