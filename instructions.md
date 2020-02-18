@@ -176,6 +176,8 @@ Are you sure? There are two ways to remove yourself.
 First option is just _*remove* it from the list_ and _create a pull request_.
 Second option is _wait 1 year_. We will revisit your website as a Tor user. If you're not blocking us, you will be removed.
 
+**If your website is using Cloudflare, there's a higher chance that we receive rejection webpage. Do not use cloudflare.**
+
 </details>
 
 ------
