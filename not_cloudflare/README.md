@@ -1,7 +1,10 @@
 # Which websites are hostile to Tor users?
 
-Don't block us!
+Cloudflare is the world’s largest MITM proxy. But what about other _minor_ CDNs?
 
-![](../image/sorry.jpg)
+![](../image/pizza.jpg)
+
+
+
 
 See [instructions.md](../instructions.md) for file purpose and format specifications.
