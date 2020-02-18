@@ -76,7 +76,7 @@ IMPORTANT: Please add only "Base Domain"
 
 **But the website X no longer using Cloudflare!**
 
-*Remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)".
+Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)".
 
 </details>
 
@@ -85,27 +85,34 @@ IMPORTANT: Please add only "Base Domain"
 <details>
 <summary>_click me_
 
-## Website is NOT using Cloudflare
+## Website is NOT using Cloudflare / Website is rejecting Tor visitor
 </summary>
 
 
-- **Anti-Tor users** (formerly "*TorBlocker Hall of Shame Part I*") | [**List Directory**](not_cloudflare/)
+- **Non-Cloudflare CDN users** | [**List Directory**](not_cloudflare/)
 
 | List name | Description |
 | -------- | -------- |
 | **/domain/(cdnName).txt**     | **Split files (FQDN)**     |
-| tor_blocked.txt | FQDN which denied access via Tor |
 | /cidr_data/?.txt     |  CIDR, ASN    |
-| ex_tor_blocked.txt | _was_ previously on one of the above tor-hostile lists |
+
+
+- **Anti-Tor users** | [**List Directory**](anti-tor_users/)
+
+| List name | Description |
+| -------- | -------- |
+| **/fqdn/attd_?.txt**     | **Split files (FQDN)**     |
 
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
-- Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will help your tor-hostile FQDN collection.
+- Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
 
 ![](image/siteground.jpg)
 
-Above is how Siteground-hosted([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
-You can find such examples in `/domains/`.
+- Above is how Siteground-hosted([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
+
+
+- Some news websites are liars. You can read their website if you are not using Tor nor VPN. If you visit their website over Tor, they just say "Sorry, article not found".
 
 
 ```
