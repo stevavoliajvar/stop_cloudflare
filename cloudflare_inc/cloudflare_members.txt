@@ -16,6 +16,7 @@ Aakash Shah | Data Center Administrator
 Aamir Thoker | Employee
 Aanchal Gupta | Sales Operations
 Aanchal Malhotra | Employee
+Aaran McGuire | Cloudflare
 Aaron Fiorucci | Account Executive
 Aaron McGuire | Technical Support Engineer
 Aaron Meyer-Abbott | Client Success Engineer
@@ -35,8 +36,6 @@ Adam Woss | Systems Reliability Engineer
 Adarsh Seetharam | Product Manager
 Addis Sendaba | Customer Success
 Adena Kirkbride | Customer Development
-Aaran McGuire | Cloudflare
-Austin Cherry | Cloudflare
 Adrian Phillips | Customer Development
 Aerene Aphiwatudomkun | Customer Development
 Ahamed Nafeez | Security
@@ -85,6 +84,7 @@ Alonso Quiroz Herrera | Employee
 Alvin Khor | ASEAN Sales Lead
 Alvin Lin | Growth Marketing Manager
 Alvin Tai | Enterprise Sales
+Alvis Duong | alvisduong@gmail.com
 Amin Fawzi | Business Development
 Amir Tahsini | Customer Development
 Amit Lift | Business Development
@@ -107,7 +107,6 @@ Andrew Galloni | Front End Engineer
 Andrew Geiser | Account Executive
 Andrew Horton | Employee
 Andrew Kennedy | Web Developer
-Dao Quang Minh
 Andrew Li | Employee
 Andrew Plunk | Systems Engineer
 Andrew Sharp | Software Engineer, Austin
@@ -165,6 +164,7 @@ Ashley M. Lewis | Employee
 Ashley McClain | Events
 Ashley Williams | Employee | ashley666ashley@gmail.com
 Aurora Lian Zhang | Supply Chain Operations Analyst
+Austin Cherry | Cloudflare
 Austin McKinley | Systems Engineer
 Austin Stanford | Employee
 Austin Urraca | Business Development
@@ -172,6 +172,7 @@ Avery Harnish | Systems Engineer
 Ayako Kobayashi | Recruiting Coordinator
 Barrett Thies | Employee
 Barton Pickett | Employee
+Bas Westerbaan | cryptographic engineering research
 Ben Bradley | Employee
 Ben Burkert | Employee
 Ben Fathi | Head of Engineering
@@ -202,7 +203,6 @@ Brandon Huang | Business Development
 Brandon Nelson | Employee
 Brendan McMillion | Engineer | brendanmcmillion@gmail.com
 Brent Coco | Trainer
-Bas Westerbaan | cryptographic engineering research
 Brett Erilane | Operations Engineer
 Brett Hoerner | Systems Engineer
 Brian Carbone | Product Manager
@@ -315,6 +315,7 @@ Daniel Weidman | Engineering Manager
 Daniel Wesonga | Customer Development
 Daniella Vallurupalli | Communications
 Danielle Vanzura | Employee
+Dao Quang Minh
 Darwin D. Wu | Employee
 Dastagiri Reddy | Data Engineer
 Dave Jewell | Employee
@@ -403,6 +404,7 @@ Erika Gonzalez | Account Executive
 Erin Walk | Policy Analyst
 Etienne Labaume | Support Engineer
 Eva Hoyer | Head of Supply Chain
+Evan J Johnson | e@ejj.io https://twitter.com/ejcx_
 Evan J. Johnson | Systems Engineer
 Ewa Klepaczewska | Employee
 Fabienne Semeria | Systems Engineer
@@ -426,6 +428,7 @@ Frieda Strachan | Team Coordinator
 Fu Jia | Relationship Manager
 Furkan Yilmaz | Web Engineer
 Gabriel da Silva | Employee
+Gabriela Alexandra Moldovan
 Gabriele (Gabbi) Fisher | Systems Engineer, Crypto Team
 Garret Brown | Technical Support Engineer
 Garrett Galow | Product
@@ -461,11 +464,11 @@ Hady Mendez | Employee
 Halley Kish | Customer Success Manager
 Hana Darling | Customer Development
 Hannes Gerhart | Solutions Engineer
+Harley Turan
 Harris Hancock | Systems Engineer
 Harry Hirschman | Customer Strategy
 Hasan Sanli | Trust and Safety Engineer
 Hassie Ergin | Employee
-Harley Turan
 Heather West | Public Policy
 Helen Tabunshchyk | Systems Engineer
 Hemel Patel | Account Executive
@@ -529,6 +532,7 @@ James Kyle | Front End Engineer
 James Munson | Systems Reliability Engineer
 James O'Gorman | Systems Reliability Engineer
 James Purcell | Account Executive
+James Royal |  Software Engineer | jhr.atx@gmail.com
 James Toudy | Enterprise Sales
 James Wells | Employee
 James Wong | Employee
@@ -611,8 +615,6 @@ John Fawcett | Systems Engineer | +1-469-387-5077 jrf0110@gmail.com 5336 Krueger
 John Graham-Cumming | Chief Technology Officer | https://twitter.com/jgrahamc https://jgc.org/  jgc@cloudflare.com
 John Kaden | General Manager, Public Sector
 John Terzis | Systems Engineer
-James Royal |  Software Engineer | jhr.atx@gmail.com
-Junho Choi | https://www.twitter.com/junhochoi
 John Wineman | Partner Integration Engineer
 Jon Godinez | Business Development
 Jon Harris | Customer Development
@@ -655,6 +657,7 @@ Julie Sparks | Security Intern
 Julien Desgats | Systems Engineer
 Julio Pescador | Sales Operations
 Junade Ali | Engineer | https://twitter.com/icyapril mjsa@junade.com
+Junho Choi | https://www.twitter.com/junhochoi
 Junyi Lim | Customer Development
 Justin Fong | Marketing Manager
 Justin Paine | Director of Trust & Safety | https://twitter.com/xxdesmus https://www.linkedin.com/in/justinpaine  justin@cloudflare.com https://www.reddit.com/user/xxdesmus
@@ -697,9 +700,6 @@ Kenny Luong | Employee
 Kent Shultz | Systems Reliability Engineer
 Kenton Varda | Tech Lead for Cloudflare Workers
 Kevin Chen | Business Development
-Leland Garofalo
-Alvis Duong | alvisduong@gmail.com
-Mark Pashmfouroush | mark@markpash.me
 Kevin Dompig | Technical Program Manager
 Kevin Gallagher | Systems Reliability Engineer
 Kevin Kipp | Systems Engineer
@@ -742,6 +742,7 @@ Leah Moskovic | Account Executive
 Lee Diddy | London
 Lee Hiro | Business Development APAC
 Lee Sam | Recruiting
+Leland Garofalo
 Lesley Lurie | Employee
 Lex Broekmeulen | Employee
 Liam Crowter | Technical Support Engineer
@@ -794,6 +795,7 @@ Marianna Ilagan | Internal Events Coordinator
 Marina Harper | HR Administrator
 Marina Jeon | Demand Generation Specialist
 Mark Garfield | VP of Finance
+Mark Pashmfouroush | mark@markpash.me
 Mark Steyn | Front End Engineer
 Marshall Alexander | Platform Operations
 Marshall Crockett | Employee
@@ -1049,9 +1051,7 @@ Ryan Boye | Visual Designer
 Ryan Carter | Systems Reliability Engineer | vaelen@pixelfed.social  https://toot.cafe/@vaelen
 Ryan Djurovich | Systems Engineer
 Ryan Hodson | Employee
-Evan J Johnson | e@ejj.io https://twitter.com/ejcx_
 Ryan Kibler | Web Engineer
-Gabriela Alexandra Moldovan
 Ryan Kiernan | Customer Success Engineer
 Ryan Knight | Community | https://twitter.com/Yank https://freebaxter.com/  ryank@cloudflare.com
 Ryan Lackey | Product Engineer
