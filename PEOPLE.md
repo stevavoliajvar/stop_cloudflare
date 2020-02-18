@@ -466,6 +466,26 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
 
+"why is it giving me a cloudflare captcha thing when I try to go to myreadingmanga" by @[muttzone](https://twitter.com/muttzone/status/1228566293323927553)
+
+"npm: why respond on a public issue before telling us?" by @[wesleytodd](https://twitter.com/wesleytodd/status/1229453056086921216)
+
+"Is your promotion of alcohol why you use Cloudflare?" by @[dxgl_org](https://twitter.com/dxgl_org/status/1229506984485048320)
+
+"hi, my wan ip is blocked by cloudflare, now my fitbit and sonos can not connect to theire servers, how can  I remove my wan ip from your blacklist?" by @[nl1wdj](https://twitter.com/nl1wdj/status/1226226530172440577)
+
+"Steam users have threatened to dox me; now kiwifarms, a happy customer of Cloudflare" by @[dxgl_org](https://twitter.com/dxgl_org/status/1228031362915012611)
+
+"Need help" by @[AbeysingheRichi](https://twitter.com/AbeysingheRichi/status/1228751658064207873)
+
+"why am i getting blocked from every device on off---white.com? :(" by @[copbud](https://twitter.com/copbud/status/1228695503476600834)
+
+"Blocked for no reason on my computer when I never opened your site till today? Over zealous much and I have to resort to my mobile just to see you site wow. I suggest figuring out your problem blocking people and denying people at random with cloudflare." by @[TrevorMacewan](https://twitter.com/TrevorMacewan/status/1228848856151904256)
+
+"So npmjs.org broke because they were using HTTP referrers outside the HTTP spec and Cloudflare rate limited them. " by @[g0rdin](https://twitter.com/g0rdin/status/1229536718266814468)
+
+"NPM is rate limiting and people's builds are failing" by @[HNTweets](https://twitter.com/HNTweets/status/1229392562772942848)
+
 "Have been blocked by bstategames Cloudflare protection while playing the game. Just a Popup that wouldn't go away and the option to restart the game. Any idea why?" by @[BlackyWerSonst](https://twitter.com/BlackyWerSonst/status/1226220100610666497)
 
 "Hello, why do I get this screen at some websites?" by @[](https://twitter.com/PatrickVkmp/status/1226230725336293377)
