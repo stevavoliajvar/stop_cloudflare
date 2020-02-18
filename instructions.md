@@ -76,7 +76,7 @@ IMPORTANT: Please add only "Base Domain"
 
 **But the website X no longer using Cloudflare!**
 
-*Remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)".
+Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)".
 
 </details>
 
@@ -89,23 +89,20 @@ IMPORTANT: Please add only "Base Domain"
 </summary>
 
 
-- **Anti-Tor users** (formerly "*TorBlocker Hall of Shame Part I*") | [**List Directory**](not_cloudflare/)
+- **Non-Cloudflare CDN users** | [**List Directory**](not_cloudflare/)
 
 | List name | Description |
 | -------- | -------- |
 | **/domain/(cdnName).txt**     | **Split files (FQDN)**     |
-| tor_blocked.txt | FQDN which denied access via Tor |
 | /cidr_data/?.txt     |  CIDR, ASN    |
-| ex_tor_blocked.txt | _was_ previously on one of the above tor-hostile lists |
 
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
-- Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will help your tor-hostile FQDN collection.
+
 
 ![](image/siteground.jpg)
 
-Above is how Siteground-hosted([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
-You can find such examples in `/domains/`.
+- Above is how Siteground-hosted([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
 
 
 ```
@@ -124,9 +121,62 @@ senate.gov
 
 ```
 
-Some websites use other companies with the CloudFlare business model.
+Some websites use other companies _with_ the CloudFlare business model.
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
+
+</details>
+
+------
+
+<details>
+<summary>_click me_
+
+## Website is rejecting Tor visitor
+</summary>
+
+
+- **Anti-Tor users** | [**List Directory**](anti-tor_users/)
+
+| List name | Description |
+| -------- | -------- |
+| **/fqdn/attd_?.txt**     | **Split files (FQDN)**     |
+
+
+- Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
+- Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
+
+![](image/tor_nontor_diff.jpg)
+
+- Some news websites are lying to Tor users. You can read their website if you are not using Tor nor VPN. If you visit their website over Tor, they just say "Sorry, article not found".
+How can you trust their news if they are not treating everyone equally?
+
+
+```
+
+About "CDN FQDN list"
+
+www.example.com
+   ---> www.example.com is using CDN.
+
+?.akamaiedge.net
+   ---> subdomain of akamaiedge.net is using CDN.
+   * unique hostname will be masked as "(subdomain)".
+
+senate.gov
+   ---> base domain is using CDN.
+
+```
+
+If your website is on this list, you better talk with your network administrator.
+
+**But the website X no longer blocking Tor users!**
+
+Are you sure? There are two ways to remove yourself.
+First option is just _*remove* it from the list_ and _create a pull request_.
+Second option is _wait 1 year_. We will revisit your website as a Tor user. If you're not blocking us, you will be removed.
+
+**If your website is using Cloudflare, there's a higher chance that we receive rejection webpage. Do not use cloudflare.**
 
 </details>
 
@@ -151,7 +201,8 @@ A or B will be enough. Thank you for your contribution.
 
 - Type B: Just scan the FQDN
 
-1. Scan FQDN on "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage. (or just use "MITM test API", "Detect CDN API")
+1a. [Cloudflare/CDN] Scan FQDN on "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage. (or just use "MITM test API", "Detect CDN API")
+1b. [Anti-TOR] Just use "Is it blocking Tor? API".
 2. It will be pushed to OpenPrivacy automatically within a week.
 
 </details>

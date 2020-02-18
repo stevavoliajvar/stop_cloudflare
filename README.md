@@ -174,11 +174,11 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 
 
 **Data**
+* [Cloudflare Inc.](cloudflare_inc/)
 * [Cloudflare Users](cloudflare_users/)
 * [Cloudflare Domains](cloudflare_users/domains/)
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Non-Cloudflare but filtering/blocking Tor users](not_cloudflare/)
-* [Other CDN customers](not_cloudflare/domains/)
+* [Non-Cloudflare CDN users](not_cloudflare/)
+* [Anti-Tor users](anti-tor_users/)
 
 ![](image/goodorbad.jpg)
 
