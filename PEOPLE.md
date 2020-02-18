@@ -466,6 +466,14 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
 
+"We're getting 403s delivered by Cloudflare (your MITM CDN) when trying to `npm update` our server application. Are you aware of this?" by @[MacLemon](https://twitter.com/MacLemon/status/1229369465537777665)
+
+"I'm not sure if this has been realized, but I think the error we are getting in the middle of raids is because cloudflare wants a captcha from the game?" by @[bobjobob24](https://twitter.com/bobjobob24/status/1226220361857019905)
+
+"Interesting, customer hitting our API from a Lambda function is sometimes prompted with a Cloudflare captcha. Turns out you don't control the origin IP of the Lambda. Malicious actors might use the same IP address, causing the IP to get flagged as having a bad reputation." by @[tomdev](https://twitter.com/tomdev/status/1227198530198163456)
+
+"Patreon has a very nasty Cloudflare CAPTCHA infection" by @[dxgl_org](https://twitter.com/dxgl_org/status/1228030068435357696)
+
 "why is it giving me a cloudflare captcha thing when I try to go to myreadingmanga" by @[muttzone](https://twitter.com/muttzone/status/1228566293323927553)
 
 "npm: why respond on a public issue before telling us?" by @[wesleytodd](https://twitter.com/wesleytodd/status/1229453056086921216)
