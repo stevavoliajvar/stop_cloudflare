@@ -41,7 +41,7 @@ There are many ways to detect it:
 - Add-on "[Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md)" will help your Cloudflare collection.
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "Attention Required! Cloudflare" webpage.
-- Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
+- Use "Is MITM?" webpage. [Clearnet](https://searxes.eu.org/ss/tool_ismitm.php) / [Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/ss/tool_ismitm.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
@@ -201,8 +201,9 @@ A or B will be enough. Thank you for your contribution.
 
 - Type B: Just scan the FQDN
 
-1a. [Cloudflare/CDN] Scan FQDN on "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage. (or just use "MITM test API", "Detect CDN API")
-1b. [Anti-TOR] Just use "Is it blocking Tor? API".
+1a. [Cloudflare/CDN] Scan FQDN on "[Is MITM?](https://searxes.eu.org/ss/tool_ismitm.php)" webpage. (or just use "_MITM test_" API, "_Detect CDN_" API)
+
+1b. [Anti-TOR] Just use "_Is it blocking Tor?_" API.
 2. It will be pushed to OpenPrivacy automatically within a week.
 
 </details>
@@ -317,7 +318,7 @@ cf-ray: XXXXXXXXXXX-YYY
 If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)" - after checking `example.com` with online tool below.
 
 
-1. Open "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
+1. Open "[Is MITM?](https://searxes.eu.org/ss/tool_ismitm.php)" webpage.
 
 2. Input `gitlab.com` and click `Skanu`.
 
