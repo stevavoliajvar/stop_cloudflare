@@ -472,6 +472,28 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
 
+"There was an issue this weekend, #Cochrane Library blocked by Cloudflare.  It appears to be fixed but check access to Cochrane." by @[CSU_SFX](https://twitter.com/CSU_SFX/status/1229454195092180992)
+
+"Dear npmjs: Please get rid of your active attacker, that means Cloudflare. npm update fails because Cloudflare is actively blocking updates meaning more vulnerable systems out there." by @[MacLemon](https://twitter.com/MacLemon/status/1229367173405118464)
+
+"Cloudflare seems to be blocking viewing this.." by @[HotDiggetyDam](https://twitter.com/HotDiggetyDam/status/1230643765603336194)
+
+"The NSA LOLs about TOR, because all they have to do is sit behind Cloudflare’s TLS termination endpoints." by @[Profpatsch](https://twitter.com/Profpatsch/status/1229463942616973319)
+
+"if you try to view your forum through tor, you are looped through an endless cycle of cloudflare challenges that never lets you get to the actual forum." by @[sziggle](https://twitter.com/sziggle/status/1230595595083091969)
+
+"¿Se puede remediar sin tener que dejar de usar Tor?" by @[diesanromero](https://twitter.com/diesanromero/status/1230266376444575744)
+
+"自分のポートフォリオサイトがError 1016とか出ててCloudflareに問い合わせしようかと思ったら10分ぐらいして勝手に直った。おいおい、Cloudflare、、" by @[okutani_t](https://twitter.com/okutani_t/status/1230474294087442432)
+
+"個人で使ってる Cloudflare、勝手に Origin DNS Error になって勝手に復活した" by @[hassasa3](https://twitter.com/hassasa3/status/1230477819093741569)
+
+"I just made 17 euro to 500 today and now the website is down? What is going on ?" by @[DragonWhammer](https://twitter.com/DragonWhammer/status/1230590795398467586)
+
+"keep getting EM 520 from local newspaper websites, it reports Cloudflare is working but host server error. If I leave my Broadband and use my Mobile signal it works fine." by @[HughGW](https://twitter.com/HughGW/status/1230517382608805891)
+
+"cuz poeple are to dump to properly protect their servers against malicious traffic and just block known tor nodes or even worse, use cloudflare" by @[bus1nessrasta](https://twitter.com/bus1nessrasta/status/1229799855213727744)
+
 "We're getting 403s delivered by Cloudflare (your MITM CDN) when trying to `npm update` our server application. Are you aware of this?" by @[MacLemon](https://twitter.com/MacLemon/status/1229369465537777665)
 
 "I'm not sure if this has been realized, but I think the error we are getting in the middle of raids is because cloudflare wants a captcha from the game?" by @[bobjobob24](https://twitter.com/bobjobob24/status/1226220361857019905)
