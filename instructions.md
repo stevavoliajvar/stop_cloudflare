@@ -201,10 +201,10 @@ A or B will be enough. Thank you for your contribution.
 
 - Type B: Just scan the FQDN
 
-1a. [Cloudflare/CDN] Scan FQDN on "[Is MITM?](https://searxes.eu.org/ss/tool_ismitm.php)" webpage. (or just use "_MITM test_" API, "_Detect CDN_" API)
+- [Cloudflare/CDN] Scan FQDN on "[Is MITM?](https://searxes.eu.org/ss/tool_ismitm.php)" webpage. (or just use "_MITM test_" API, "_Detect CDN_" API)
+- [Anti-TOR] Just use "_Is it blocking Tor?_" API.
 
-1b. [Anti-TOR] Just use "_Is it blocking Tor?_" API.
-2. It will be pushed to OpenPrivacy automatically within a week.
+It will be pushed to OpenPrivacy automatically within a week.
 
 </details>
 
@@ -217,9 +217,9 @@ A or B will be enough. Thank you for your contribution.
 </summary>
 
 
-This procedure will give you a cloudflare-tor fork with a
+This procedure will give you a stop_cloudflare fork with a
 privacy-respecting configuration to do pushes with SSH over Tor using
-codeberg.org ("CDB").  This procedure is designed for ***linux***.
+git.openprivacy.ca("CDB").  This procedure is designed for ***linux***.
 The first step covers Windows too, but these instructions probably
 need more adaptations for Windows and other platforms.
 
@@ -228,12 +228,12 @@ need more adaptations for Windows and other platforms.
 - Windows: Download `https://github.com/git-for-windows/git/releases/PortableGit-2.21.0-64-bit.7z` & run `git-bash.exe`
 
 1. install Git, SSH(Not Windows), and Tor (if you haven't already)
-1. create a `codeberg.org` account (username "snowden" will be used for this example)
+1. create a `git.openprivacy.ca` account (username "snowden" will be used for this example)
 1. create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_codeberg-snowden`
 1. edit `$HOME/.ssh/config`:
 ```
-    host codeberg-*
-         hostname     codeberg.org
+    host git.openprivacy.ca
+         hostname     git.openprivacy.ca
          ForwardX11   no
          ProxyCommand connect -4 -S 127.0.0.1:9050 $(tor-resolve %h 127.0.0.1:9050) %p
     host codeberg-snowden
