@@ -386,6 +386,12 @@ Awesome! Use Cloudflare!
 </summary>
 
 
+"[CloudFlare rejects my benchmark](https://github.com/jsperf/jsperf.com/issues/523)" by [willydee](https://github.com/willydee)
+
+"[Redirection Error](https://github.com/johngodley/redirection/issues/2186)" by [Jmira323](https://github.com/Jmira323)
+
+"[[BUG] 429 Too Many Requests](https://github.com/npm/cli/issues/836)" by [raphaelyancey](https://github.com/raphaelyancey)
+
 "[Cloudflare challenge loop (again)](https://github.com/codemanki/cloudscraper/issues/285)" by [elpaxel](https://github.com/elpaxel)
 
 "[Handle new cloudflare blocking](https://github.com/krues8dr/lazuli/issues/29)" by [krues8dr](https://github.com/krues8dr)
@@ -465,6 +471,28 @@ Awesome! Use Cloudflare!
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
+
+"There was an issue this weekend, #Cochrane Library blocked by Cloudflare.  It appears to be fixed but check access to Cochrane." by @[CSU_SFX](https://twitter.com/CSU_SFX/status/1229454195092180992)
+
+"Dear npmjs: Please get rid of your active attacker, that means Cloudflare. npm update fails because Cloudflare is actively blocking updates meaning more vulnerable systems out there." by @[MacLemon](https://twitter.com/MacLemon/status/1229367173405118464)
+
+"Cloudflare seems to be blocking viewing this.." by @[HotDiggetyDam](https://twitter.com/HotDiggetyDam/status/1230643765603336194)
+
+"The NSA LOLs about TOR, because all they have to do is sit behind Cloudflare’s TLS termination endpoints." by @[Profpatsch](https://twitter.com/Profpatsch/status/1229463942616973319)
+
+"if you try to view your forum through tor, you are looped through an endless cycle of cloudflare challenges that never lets you get to the actual forum." by @[sziggle](https://twitter.com/sziggle/status/1230595595083091969)
+
+"¿Se puede remediar sin tener que dejar de usar Tor?" by @[diesanromero](https://twitter.com/diesanromero/status/1230266376444575744)
+
+"自分のポートフォリオサイトがError 1016とか出ててCloudflareに問い合わせしようかと思ったら10分ぐらいして勝手に直った。おいおい、Cloudflare、、" by @[okutani_t](https://twitter.com/okutani_t/status/1230474294087442432)
+
+"個人で使ってる Cloudflare、勝手に Origin DNS Error になって勝手に復活した" by @[hassasa3](https://twitter.com/hassasa3/status/1230477819093741569)
+
+"I just made 17 euro to 500 today and now the website is down? What is going on ?" by @[DragonWhammer](https://twitter.com/DragonWhammer/status/1230590795398467586)
+
+"keep getting EM 520 from local newspaper websites, it reports Cloudflare is working but host server error. If I leave my Broadband and use my Mobile signal it works fine." by @[HughGW](https://twitter.com/HughGW/status/1230517382608805891)
+
+"cuz poeple are to dump to properly protect their servers against malicious traffic and just block known tor nodes or even worse, use cloudflare" by @[bus1nessrasta](https://twitter.com/bus1nessrasta/status/1229799855213727744)
 
 "We're getting 403s delivered by Cloudflare (your MITM CDN) when trying to `npm update` our server application. Are you aware of this?" by @[MacLemon](https://twitter.com/MacLemon/status/1229369465537777665)
 
@@ -2452,6 +2480,11 @@ Awesome! Use Cloudflare!
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"NPM’s outage and Cloudflare’s communication... what a mess" by @[zerok](https://chaos.social/@zerok/103681659450407389)
+
+"It is quite apparent that the internet needs to move away from #cloudflare 
+I ran an #tor exitnode for a few hours (mostly for testing combined with a miss in config) and now does cloudflare prompt me with a #captcha every, single, minute. Do youself and your user a favour, and move away from cloudflare" by @[selea](https://social.linux.pizza/@selea/103692664037914594)
 
 "It seems to me #tusky still try to connect to #cloudflare despite using http proxy." by @[Br0m3x](https://social.weho.st/@Br0m3x/103674328334042541)
 
