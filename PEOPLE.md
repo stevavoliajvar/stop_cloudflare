@@ -386,6 +386,8 @@ Awesome! Use Cloudflare!
 </summary>
 
 
+"[[BUG] 429 Too Many Requests](https://github.com/npm/cli/issues/836)" by [raphaelyancey](https://github.com/raphaelyancey)
+
 "[Cloudflare challenge loop (again)](https://github.com/codemanki/cloudscraper/issues/285)" by [elpaxel](https://github.com/elpaxel)
 
 "[Handle new cloudflare blocking](https://github.com/krues8dr/lazuli/issues/29)" by [krues8dr](https://github.com/krues8dr)
@@ -2452,6 +2454,11 @@ Awesome! Use Cloudflare!
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"NPM’s outage and Cloudflare’s communication... what a mess" by @[zerok](https://chaos.social/@zerok/103681659450407389)
+
+"It is quite apparent that the internet needs to move away from #cloudflare 
+I ran an #tor exitnode for a few hours (mostly for testing combined with a miss in config) and now does cloudflare prompt me with a #captcha every, single, minute. Do youself and your user a favour, and move away from cloudflare" by @[selea](https://social.linux.pizza/@selea/103692664037914594)
 
 "It seems to me #tusky still try to connect to #cloudflare despite using http proxy." by @[Br0m3x](https://social.weho.st/@Br0m3x/103674328334042541)
 
