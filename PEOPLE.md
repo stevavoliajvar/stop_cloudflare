@@ -386,6 +386,10 @@ Awesome! Use Cloudflare!
 </summary>
 
 
+"[CloudFlare rejects my benchmark](https://github.com/jsperf/jsperf.com/issues/523)" by [willydee](https://github.com/willydee)
+
+"[Redirection Error](https://github.com/johngodley/redirection/issues/2186)" by [Jmira323](https://github.com/Jmira323)
+
 "[[BUG] 429 Too Many Requests](https://github.com/npm/cli/issues/836)" by [raphaelyancey](https://github.com/raphaelyancey)
 
 "[Cloudflare challenge loop (again)](https://github.com/codemanki/cloudscraper/issues/285)" by [elpaxel](https://github.com/elpaxel)
