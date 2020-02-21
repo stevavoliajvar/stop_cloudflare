@@ -41,7 +41,7 @@ There are many ways to detect it:
 - Add-on "[Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md)" will help your Cloudflare collection.
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "Attention Required! Cloudflare" webpage.
-- Use "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
+- Use "Is MITM?" webpage. [Clearnet](https://searxes.eu.org/ss/tool_ismitm.php) / [Tor](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/ss/tool_ismitm.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
@@ -201,8 +201,8 @@ A or B will be enough. Thank you for your contribution.
 
 - Type B: Just scan the FQDN
 
-1a. [Cloudflare/CDN] Scan FQDN on "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage. (or just use "MITM test API", "Detect CDN API")
-1b. [Anti-TOR] Just use "Is it blocking Tor? API".
+1. [Cloudflare/CDN] Scan FQDN on "[Is MITM?](https://searxes.eu.org/ss/tool_ismitm.php)" webpage. (or just use "_MITM test_" API, "_Detect CDN_" API)<br>
+[Anti-TOR] Just use "_Is it blocking Tor?_" API.
 2. It will be pushed to OpenPrivacy automatically within a week.
 
 </details>
@@ -216,9 +216,9 @@ A or B will be enough. Thank you for your contribution.
 </summary>
 
 
-This procedure will give you a cloudflare-tor fork with a
+This procedure will give you a stop_cloudflare fork with a
 privacy-respecting configuration to do pushes with SSH over Tor using
-codeberg.org ("CDB").  This procedure is designed for ***linux***.
+git.openprivacy.ca("CDB").  This procedure is designed for ***linux***.
 The first step covers Windows too, but these instructions probably
 need more adaptations for Windows and other platforms.
 
@@ -227,12 +227,12 @@ need more adaptations for Windows and other platforms.
 - Windows: Download `https://github.com/git-for-windows/git/releases/PortableGit-2.21.0-64-bit.7z` & run `git-bash.exe`
 
 1. install Git, SSH(Not Windows), and Tor (if you haven't already)
-1. create a `codeberg.org` account (username "snowden" will be used for this example)
+1. create a `git.openprivacy.ca` account (username "snowden" will be used for this example)
 1. create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_codeberg-snowden`
 1. edit `$HOME/.ssh/config`:
 ```
-    host codeberg-*
-         hostname     codeberg.org
+    host git.openprivacy.ca
+         hostname     git.openprivacy.ca
          ForwardX11   no
          ProxyCommand connect -4 -S 127.0.0.1:9050 $(tor-resolve %h 127.0.0.1:9050) %p
     host codeberg-snowden
@@ -317,7 +317,7 @@ cf-ray: XXXXXXXXXXX-YYY
 If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)" - after checking `example.com` with online tool below.
 
 
-1. Open "[Is MITM?](https://searxes.eu.org/collab/sxes/tool_ismitm.php)" webpage.
+1. Open "[Is MITM?](https://searxes.eu.org/ss/tool_ismitm.php)" webpage.
 
 2. Input `gitlab.com` and click `Skanu`.
 
