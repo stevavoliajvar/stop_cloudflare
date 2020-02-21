@@ -201,10 +201,9 @@ A or B will be enough. Thank you for your contribution.
 
 - Type B: Just scan the FQDN
 
-- [Cloudflare/CDN] Scan FQDN on "[Is MITM?](https://searxes.eu.org/ss/tool_ismitm.php)" webpage. (or just use "_MITM test_" API, "_Detect CDN_" API)
-- [Anti-TOR] Just use "_Is it blocking Tor?_" API.
-
-It will be pushed to OpenPrivacy automatically within a week.
+1. [Cloudflare/CDN] Scan FQDN on "[Is MITM?](https://searxes.eu.org/ss/tool_ismitm.php)" webpage. (or just use "_MITM test_" API, "_Detect CDN_" API)<br>
+[Anti-TOR] Just use "_Is it blocking Tor?_" API.
+2. It will be pushed to OpenPrivacy automatically within a week.
 
 </details>
 
