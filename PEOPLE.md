@@ -474,6 +474,24 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
 
+"I keep getting this? what does it mean please?" by @[DarloStriker](https://twitter.com/DarloStriker/status/1231867141722427392)
+
+"Starting to hear clown music every time I get that Cloudflare 522 error page" by @[emarl_](https://twitter.com/emarl_/status/1231300374406918144)
+
+"Yeah getting a 522 error from cloudflare as well. Hmmm." by @[Neurodyne_One](https://twitter.com/Neurodyne_One/status/1231248068034617351)
+
+"lopp.net down ? I have a cloudflare error" by @[orcitis](https://twitter.com/orcitis/status/1231069662613405697)
+
+"Stop using Cloudflare and use your premium money to use a more solid service." by @[DKittycoon](https://twitter.com/DKittycoon/status/1230850744791814144)
+
+"Wow - another risk of Cloudflare's false positives - consumers being denied access to medical information" by @[peter_tonoli](https://twitter.com/peter_tonoli/status/1221699671048867840)
+
+"That wasn't a challenge - that was an outright block, and outright user hostile." by @[peter_tonoli](https://twitter.com/peter_tonoli/status/1222321557873119232)
+
+"Why is your DNS blocking Chinese Gaming mouse company's ?" by @[01000110_010101](https://twitter.com/01000110_010101/status/1231143359810502667)
+
+"Stuck in cyberspace trying to access a Cloudflare hosted site through a Cloudflare VPN and get blocked by Cloudflare" by @[objectivechad](https://twitter.com/objectivechad/status/1232098408137207808)
+
 "There was an issue this weekend, #Cochrane Library blocked by Cloudflare.  It appears to be fixed but check access to Cochrane." by @[CSU_SFX](https://twitter.com/CSU_SFX/status/1229454195092180992)
 
 "Dear npmjs: Please get rid of your active attacker, that means Cloudflare. npm update fails because Cloudflare is actively blocking updates meaning more vulnerable systems out there." by @[MacLemon](https://twitter.com/MacLemon/status/1229367173405118464)
