@@ -1,3 +1,3 @@
-# PDF
+# PDF, ePUB
 
 For your reading
