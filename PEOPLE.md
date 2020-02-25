@@ -116,6 +116,8 @@ Awesome! Use Cloudflare!
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Cloudflare silently deleted my DNS records](https://web.archive.org/save/https://txti.es/cloudflare-deleted-my-dns)" by Cloudflare user
+
 "[Cloudflare is turning off the internet for me](https://blog.dijit.sh/cloudflare-is-turning-off-the-internet-for-me)" by [Jan Harasym](https://blog.dijit.sh/)
 
 "[Can you trust CloudFlare with your personal data?](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/)" by [Terence Eden](https://edent.tel/)
@@ -471,6 +473,24 @@ Awesome! Use Cloudflare!
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
+
+"I keep getting this? what does it mean please?" by @[DarloStriker](https://twitter.com/DarloStriker/status/1231867141722427392)
+
+"Starting to hear clown music every time I get that Cloudflare 522 error page" by @[emarl_](https://twitter.com/emarl_/status/1231300374406918144)
+
+"Yeah getting a 522 error from cloudflare as well. Hmmm." by @[Neurodyne_One](https://twitter.com/Neurodyne_One/status/1231248068034617351)
+
+"lopp.net down ? I have a cloudflare error" by @[orcitis](https://twitter.com/orcitis/status/1231069662613405697)
+
+"Stop using Cloudflare and use your premium money to use a more solid service." by @[DKittycoon](https://twitter.com/DKittycoon/status/1230850744791814144)
+
+"Wow - another risk of Cloudflare's false positives - consumers being denied access to medical information" by @[peter_tonoli](https://twitter.com/peter_tonoli/status/1221699671048867840)
+
+"That wasn't a challenge - that was an outright block, and outright user hostile." by @[peter_tonoli](https://twitter.com/peter_tonoli/status/1222321557873119232)
+
+"Why is your DNS blocking Chinese Gaming mouse company's ?" by @[01000110_010101](https://twitter.com/01000110_010101/status/1231143359810502667)
+
+"Stuck in cyberspace trying to access a Cloudflare hosted site through a Cloudflare VPN and get blocked by Cloudflare" by @[objectivechad](https://twitter.com/objectivechad/status/1232098408137207808)
 
 "There was an issue this weekend, #Cochrane Library blocked by Cloudflare.  It appears to be fixed but check access to Cochrane." by @[CSU_SFX](https://twitter.com/CSU_SFX/status/1229454195092180992)
 
@@ -2480,6 +2500,12 @@ Awesome! Use Cloudflare!
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"Save the Internet, boycott #Cloudflare" by @[Ajz](https://mastodon.nl/@Ajz/103712485183183547)
+
+"I used the "shocking" fact that I noticed that mastodon.social is using "bad-cookie" #Cloudflare, to once again remind people that mastodon.social is overloaded." by @[Ajz](https://mastodon.nl/@Ajz/103709379040402180)
+
+"Cloudflare silently deleted my DNS records" by @[hackeroo](https://botsin.space/@hackeroo/103715714895415788)
 
 "NPM’s outage and Cloudflare’s communication... what a mess" by @[zerok](https://chaos.social/@zerok/103681659450407389)
 

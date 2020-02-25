@@ -186,7 +186,7 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 **More Information**
 * [Short version of README](README_short.md)  `DRAFT`
 * [Myth Catalog](myth_catalog.md)  `DRAFT`
-* [The Great Cloudwall](article.txt) by Mr. Jeff Cliff; PDF version [here](pdf/2019-The_Great_Cloudwall.pdf) `DRAFT`
+* [The Great Cloudwall](article.txt) by Mr. Jeff Cliff; PDF version [here](pdf/2019-The_Great_Cloudwall.pdf), [ePUB here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub) `DRAFT`
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
 * [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
