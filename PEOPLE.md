@@ -116,6 +116,8 @@ Awesome! Use Cloudflare!
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Cloudflare silently deleted my DNS records](https://web.archive.org/save/https://txti.es/cloudflare-deleted-my-dns)" by Cloudflare user
+
 "[Cloudflare is turning off the internet for me](https://blog.dijit.sh/cloudflare-is-turning-off-the-internet-for-me)" by [Jan Harasym](https://blog.dijit.sh/)
 
 "[Can you trust CloudFlare with your personal data?](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/)" by [Terence Eden](https://edent.tel/)
@@ -2480,6 +2482,12 @@ Awesome! Use Cloudflare!
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
 
+
+"Save the Internet, boycott #Cloudflare" by @[Ajz](https://mastodon.nl/@Ajz/103712485183183547)
+
+"I used the "shocking" fact that I noticed that mastodon.social is using "bad-cookie" #Cloudflare, to once again remind people that mastodon.social is overloaded." by @[Ajz](https://mastodon.nl/@Ajz/103709379040402180)
+
+"Cloudflare silently deleted my DNS records" by @[hackeroo](https://botsin.space/@hackeroo/103715714895415788)
 
 "NPM’s outage and Cloudflare’s communication... what a mess" by @[zerok](https://chaos.social/@zerok/103681659450407389)
 
