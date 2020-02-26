@@ -474,6 +474,18 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
 
+"why not use dnscrypt-proxy instead of this untrustworthy MiTM called cloudflare" by @[pitchf___](https://twitter.com/pitchf___/status/1232459457201721344)
+
+"Centralizing DNS queries to a privately held US company is a huge step backwards for the security of the Internet. I thought the EFF had more sense than to support this misguided step from mozilla" by @[brett_sheffield](https://twitter.com/brett_sheffield/status/1232421747334549504)
+
+"Well cloudflare definitely do block by ip, it's their thing. I'd never use cloudflare dns anyway - what is the point swapping one spy for another? " by @[nthcolumn](https://twitter.com/nthcolumn/status/1232422055171305474)
+
+"Screw Cloudflare - it spams literally endless captcha if u try break out from even the Tor Browser, into a Browser from another Country... !" by @[BAZ65529105](https://twitter.com/BAZ65529105/status/1232388280143904768)
+
+"The cloudflare captcha challenge when accessing IGIHE mobile website is stressful. Even if when one is an expert, it takes many attempts to get over it, imagine the pain experienced by elderly visitors with basic scroll-and-touch  knowledge." by @[ndahiroho](https://twitter.com/ndahiroho/status/1231173498292363266)
+
+"Hats off to Medium for this example of backwards security. This is a CAPTCHA – a test to validate you are a human and not a program – protecting a JSON API, a URL that sends data for programs to read " by @[mahemoff](https://twitter.com/mahemoff/status/1230937964617687040)
+
 "I keep getting this? what does it mean please?" by @[DarloStriker](https://twitter.com/DarloStriker/status/1231867141722427392)
 
 "Starting to hear clown music every time I get that Cloudflare 522 error page" by @[emarl_](https://twitter.com/emarl_/status/1231300374406918144)

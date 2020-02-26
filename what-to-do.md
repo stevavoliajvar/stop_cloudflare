@@ -123,7 +123,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
-- Do you need [DNS server](https://twitter.com/IngeniousAppsIA/status/1187730384492077057)? Can't set up your own server? Then how about [1984 FreeDNS](https://www.1984hosting.com/), [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/) or [this](https://freedns.afraid.org/)?
+- Do you need [DNS server](https://twitter.com/IngeniousAppsIA/status/1187730384492077057)? Can't set up your own server? Then how about [1984 FreeDNS](https://www.1984hosting.com/), [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/) or [this (warning: Admin delete your account if you use TOR)](https://freedns.afraid.org/)?
 
 - Looking for hosting service? "Free" only? Well, how about [Byethost](https://byet.host/free-hosting), [Surge](https://surge.sh/), [Github Pages](https://pages.github.com/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
 
@@ -318,7 +318,7 @@ Therefore we recommend above table only. Nothing else.
 
 - ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin in 2018.
 
-- To disable DOH, enter *about:config?filter=network.trr* in the address bar then set "*network.trr.mode*" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
+- To disable DoH, enter *about:config?filter=network.trr* in the address bar then set "*network.trr.mode*" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
 
 ![](image/firefoxdns.jpg)
 
