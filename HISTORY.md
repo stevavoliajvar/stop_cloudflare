@@ -1,4 +1,9 @@
 
+*2020.02.25*
+
+Self publishing platform, [BookRix.com](https://www.bookrix.com/), denied Mr. Jeff Cliff's book titled "_The Great Cloudwall_" and stopped publishing it. The reason is "_Copyright infringement_". All of book's data, text and image can be found in this repository. You can download a copy of this book [here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub).
+
+
 *2019.08.05*
 
 @jeffcliff@niu.moe:
