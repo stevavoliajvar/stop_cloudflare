@@ -205,6 +205,10 @@ Awesome! Use Cloudflare!
 </summary>
 
 
+"[As long as Gab uses Cloudflare, it's doomed to failure](https://www.reddit.com/r/gab/comments/eet4cr/as_long_as_gab_uses_cloudflare_its_doomed_to/)"
+
+"[Mozilla just lost all its credibility. Cloudflare isn't trustworthy, since it decrypts TLS!](https://www.reddit.com/r/privacytoolsIO/comments/e97thq/mozilla_just_lost_all_its_credibility_cloudflare/)" by [vargasgetulio](https://www.reddit.com/user/vargasgetulio)
+
 "[Cloudflare and the US Intelligence Community](https://www.reddit.com/r/privacy/comments/dmc4cj/cloudflare_and_the_us_intelligence_community/)" by [dhaavi](https://www.reddit.com/user/dhaavi)
 
 "[Some websites not loading pictures after upgrade to Tor Browser 9.0](https://trac.torproject.org/projects/tor/ticket/32238)"
