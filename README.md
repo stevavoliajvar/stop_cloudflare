@@ -222,6 +222,8 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 
 * Here's some [PDF](pdf/) to read.
 
+* [Mastodon (crimeflare)](https://activism.openworlds.info/@crimeflare), [Twitter (StopCloudflare)](https://twitter.com/StopCloudflare)
+
 
 ![WTF](image/wtfcf.jpg)
 
