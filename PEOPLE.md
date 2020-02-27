@@ -478,6 +478,25 @@ Awesome! Use Cloudflare!
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
 
+"Exactly! cloudflare are a major pita - they just ban huge tracts of ASN - all these sites fronting with cloudflare - do you even realize people can't get to your site anymore?" by @[nthcolumn](https://twitter.com/nthcolumn/status/1232412097436430339)
+
+"I'm still looking for an answer to this question that makes sense: Why do people trust CloudFlare with all your DNS data? With your ISP, at least you have a legal contract. FireFox end-users don't have a contract with CloudFlare. Why is CloudFlare better than your ISP?" by @[JeroenJacobs79](https://twitter.com/JeroenJacobs79/status/1232594190313365504)
+
+"Had to delete the Cloudflare app. The latest update completely broke my phones connectivity." by @[bassthumpa](https://twitter.com/bassthumpa/status/1221446155772538880)
+
+"The Cloudflare 5s redirect protection thingy broke RSS feeds a long time ago" by @[ArtemR](https://twitter.com/ArtemR/status/1219388218065342464)
+
+"I think the site just broke. Getting 502s from Cloudflare back" by @[faker_](https://twitter.com/faker_/status/1204443148749082624)
+
+"I tried Cloudflare dns for a week or so.
+Found many things that I use regularly wouldn't work anymore like they were blocked. There theres the "we have anonymous dns but we collect data and share it with a partner" bullshit that makes me wonder what they're really up to." by @[NubsWithGuns](https://twitter.com/NubsWithGuns/status/1232767004966313984)
+
+"As someone who has been IP blocked by Cloudflare for no reason at all, and who has had trouble with them because of their trash service rendering entire swaths of the internet inaccessible, this is bullshit of the stinkiest caliber." by @[Foxhack](https://twitter.com/Foxhack/status/1232380579686932480)
+
+"Unable to login to reply app or support website. Getting Error 1020 Access denied by Cloudflare. Please help" by @[VishwaKk](https://twitter.com/VishwaKk/status/1232759611507167233)
+
+"Hi Rich! I've been unable to get on the forums these past 2 days. I keep getting Cloudflare error 522 whenever I try to load anything. Tried looking tha error up and it might be a problem w/ the site." by @[3nz3r0](https://twitter.com/3nz3r0/status/1232345563724570626)
+
 "why not use dnscrypt-proxy instead of this untrustworthy MiTM called cloudflare" by @[pitchf___](https://twitter.com/pitchf___/status/1232459457201721344)
 
 "Centralizing DNS queries to a privately held US company is a huge step backwards for the security of the Internet. I thought the EFF had more sense than to support this misguided step from mozilla" by @[brett_sheffield](https://twitter.com/brett_sheffield/status/1232421747334549504)
