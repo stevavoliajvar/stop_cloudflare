@@ -488,7 +488,7 @@ Awesome! Use Cloudflare!
 
 "The cloudflare captcha challenge when accessing IGIHE mobile website is stressful. Even if when one is an expert, it takes many attempts to get over it, imagine the pain experienced by elderly visitors with basic scroll-and-touch  knowledge." by @[ndahiroho](https://twitter.com/ndahiroho/status/1231173498292363266)
 
-"Hats off to Medium for this example of backwards security. This is a CAPTCHA – a test to validate you are a human and not a program – protecting a JSON API, a URL that sends data for programs to read " by @[mahemoff](https://twitter.com/mahemoff/status/1230937964617687040)
+"Hats off to Medium for this example of backwards security. This is a CAPTCHA – a test to validate you are a human and not a program – protecting a JSON API, a URL that sends data for programs to read " by @[jsoverson](https://twitter.com/jsoverson/status/1230935263838429188)
 
 "I keep getting this? what does it mean please?" by @[DarloStriker](https://twitter.com/DarloStriker/status/1231867141722427392)
 
