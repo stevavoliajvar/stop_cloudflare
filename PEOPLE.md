@@ -50,7 +50,7 @@ to solve a annoying timewasting puzzle usually after waiting five
 seconds which also cost you valuable time?
 Awesome! Use Cloudflare!
 ```
--- [Robin Wils, Ex contributor](https://linuxrocks.online/@RMW)
+-- [Robin Wils](https://linuxrocks.online/@RMW)
 
 
 ---
@@ -477,6 +477,12 @@ Awesome! Use Cloudflare!
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
 
+
+"For anyone having issues accessing the repo from the UK you will need to use a vpn as cloudflare is blocking access from the UK for some reason." by @[F2P_Gamer](https://nitter.net/F2P_Gamer/status/1233417591512805376)
+
+"So is everyone ignoring the multiple times Cloudflare has gone offline and taken down a large chunk of the internet with it? Or the hassle it has caused normal users who it suddenly decides are worthy of a block?" by @[Foxhack](https://twitter.com/Foxhack/status/1232758206209777665)
+
+"i've seen one of my client sites get an ip block from cloudflare, just what I need when people start calling unable to browse because their DNS over HTTPS is blocked" by @[](https://twitter.com/dakotathekat/status/1232738497280331782)
 
 "Exactly! cloudflare are a major pita - they just ban huge tracts of ASN - all these sites fronting with cloudflare - do you even realize people can't get to your site anymore?" by @[nthcolumn](https://twitter.com/nthcolumn/status/1232412097436430339)
 
