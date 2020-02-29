@@ -482,7 +482,7 @@ Awesome! Use Cloudflare!
 
 "So is everyone ignoring the multiple times Cloudflare has gone offline and taken down a large chunk of the internet with it? Or the hassle it has caused normal users who it suddenly decides are worthy of a block?" by @[Foxhack](https://twitter.com/Foxhack/status/1232758206209777665)
 
-"i've seen one of my client sites get an ip block from cloudflare, just what I need when people start calling unable to browse because their DNS over HTTPS is blocked" by @[](https://twitter.com/dakotathekat/status/1232738497280331782)
+"i've seen one of my client sites get an ip block from cloudflare, just what I need when people start calling unable to browse because their DNS over HTTPS is blocked" by @[dakotathekat](https://twitter.com/dakotathekat/status/1232738497280331782)
 
 "Exactly! cloudflare are a major pita - they just ban huge tracts of ASN - all these sites fronting with cloudflare - do you even realize people can't get to your site anymore?" by @[nthcolumn](https://twitter.com/nthcolumn/status/1232412097436430339)
 
