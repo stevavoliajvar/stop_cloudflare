@@ -33,7 +33,7 @@ Take a look at the first image posted below. You will think Cloudflare block _on
 
 ---
 
-It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of [filtering out many humans](PEOPLE.md) from seeing web content (ie everyone in mainland China and people outside) while at the same time those not affected to see a dratically different web, a web free of censorship such as an image of ["tank man"](https://en.wikipedia.org/wiki/Tank_Man) and the history of ["Tiananmen Square protests"](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests#Censorship_in_China). 
+It is called this in reference to the [Great Firewall of China](https://www.comparitech.com/privacy-security-tools/blockedinchina/) which does a comparable job of [filtering out many humans](PEOPLE.md) from seeing web content (ie everyone in mainland China and people outside) while at the same time those not affected to see a dratically different web, a web free of censorship such as an image of ["tank man"](https://en.wikipedia.org/wiki/Tank_Man) and the history of ["Tiananmen Square protests"](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests#Censorship_in_China). Cloudflare possesses [great power](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/ghost/mozilla.html). In a sense, they control what the end user ultimately sees.
 
 Cloudflare also [automatically](https://twitter.com/itsybitsydots/status/1212691131508477952) [block](PEOPLE.md) legit robots/crawlers such as Google, Yandex, Yacy, and API clients.
 
@@ -48,7 +48,7 @@ Cloudflare also [automatically](https://twitter.com/itsybitsydots/status/1212691
 
 ---
 
-Cloudflare similarly prevents many people who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP) unless they solve multiple image CAPTCHAs. In some cases, [this will take 10 to 30 minutes to satisfy Google](https://trac.torproject.org/projects/tor/ticket/23840). Many humans are being blocked by Cloudflare [every day](PEOPLE.md). There is no way to solve the captcha without enabling Javascript and Cookies. Cloudflare is [using them](PEOPLE.md) to make a browser signature.
+Cloudflare similarly prevents many people who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP) unless they solve multiple image CAPTCHAs. In some cases, [this will take 10 to 30 minutes to satisfy Google](https://trac.torproject.org/projects/tor/ticket/23840). Many humans and software are being blocked by Cloudflare [every day](PEOPLE.md). There is no way to solve the captcha without enabling Javascript and Cookies. Cloudflare is [using them](PEOPLE.md) to make a browser signature to [identify](https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm) [you](PEOPLE.md).
 
 ---
 
@@ -75,7 +75,7 @@ Tor _was_ developed by US Army, but current Tor is developed by the [Tor project
 
 ---
 
-And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning [fake](https://trac.torproject.org/projects/tor/ticket/32915) IP address owned by Cloudflare, localhost IP such as "127.0.0.x", or just return nothing. Cloudflare DNS also [break](https://twitter.com/bowranger/status/1213031783576428550) [online](https://twitter.com/jb510/status/1212521533907668992) [software](https://twitter.com/No_Style/status/1201525422795710466) [from](https://twitter.com/daemuth/status/1187758306535903233) [smartphone](https://twitter.com/gregortorrence/status/1183102089439805441) [app to computer game because of their fake DNS answer](PEOPLE.md).
+And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning [fake](https://trac.torproject.org/projects/tor/ticket/32915) IP address owned by Cloudflare, localhost IP such as "127.0.0.x", or just return nothing. Cloudflare DNS also [break](https://twitter.com/bowranger/status/1213031783576428550) [online](https://twitter.com/jb510/status/1212521533907668992) [software](https://twitter.com/No_Style/status/1201525422795710466) [from](https://twitter.com/daemuth/status/1187758306535903233) [smartphone](https://twitter.com/gregortorrence/status/1183102089439805441) [app](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/) [to computer game because of their fake DNS answer](PEOPLE.md).
 
 ---
 
@@ -104,7 +104,7 @@ It is impossible to [analyze](https://blog.cloudflare.com/the-csam-scanning-tool
 Do you really want to share your data with Cloudflare, and also 3-letter agency?
 Internet user's online profile is a "product" that the government and big tech companies wants to buy.
 
-US [Department of Homeland Security](https://www.dhs.gov/) said:
+U.S. [Department of Homeland Security](https://www.dhs.gov/) said:
 ```
 Do you have any idea how valuable the data you have is?
 Is there any way you would sell us that data?
@@ -157,7 +157,7 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 ---
 
 
-## continue to next page:  [Cloudflare Ethics](README_ethics.md)
+##    please continue to next page:  [Cloudflare Ethics](README_ethics.md).
 
 
 
