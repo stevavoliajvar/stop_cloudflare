@@ -148,8 +148,11 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/tor_nontor_diff.jpg)
 
-- Some news websites are lying to Tor users. You can read their website if you are not using Tor nor VPN. If you visit their website over Tor, they just say "Sorry, article not found".
-How can you trust their news if they are not treating everyone equally?
+- Some news websites are lying to Tor users. You can read their website if you are not using Tor nor VPN. If you visit their website over Tor, they just say "_Sorry, article not found_".
+
+- Some famous mail subscription service and some ISP websites are displaying "Maintenance" page if you visit them over Tor.
+
+**How can you trust their sites if they are not treating everyone equally?**
 
 
 ```
