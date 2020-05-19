@@ -177,9 +177,9 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 * [Cloudflare Inc.](cloudflare_inc/)
 * [Cloudflare Users](cloudflare_users/)
 
-* [Cloudflare Domains](https://gitea.com/you/cloudflare)
-* [Non-Cloudflare CDN users](https://gitea.com/you/cdn)
-* [Anti-Tor users](https://gitea.com/you/antitor)
+* [Cloudflare Domains](https://gitea.com/you/cloudflare)  `delay sync`
+* [Non-Cloudflare CDN users](https://gitea.com/you/cdn)  `delay sync`
+* [Anti-Tor users](https://gitea.com/you/antitor)  `delay sync`
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -193,9 +193,11 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
   * Deleted by the [Tor Project](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). See [34175](https://trac.torproject.org/projects/tor/ticket/34175).
+  * Last [archive 24351](https://web.archive.org/web/*/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
+  * They had used Cloudflare in the past. [Added](https://github.com/privacytools/privacytools.io/pull/1205) CF-tor but [removed it](https://github.com/privacytools/privacytools.io/pull/1804).
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
-* [Cloudflare Watch](http://www.crimeflare.org:82/) (cons: _down quite a lot, old data, search restricted to EU only_)
+* [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) by TheGoldenGoose8888
 * [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 * [HashTag #FuckCloudflare on Mastodon Network](https://mastodon.mit.edu/tags/fuckcloudflare)
