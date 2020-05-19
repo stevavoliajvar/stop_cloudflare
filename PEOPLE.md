@@ -213,6 +213,8 @@ Awesome! Use Cloudflare!
 
 "[US Bank website is not in Cloudflare DNS](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/)"
 
+"[What data does CloudFlare actually see?](https://community.cloudflare.com/t/what-data-does-cloudflare-actually-see/28660)"
+
 "[Why does everyone here dislike CloudFlare?](https://www.reddit.com/r/privacy/comments/cce2ui/why_does_everyone_here_dislike_cloudflare/)"
 
 "[As long as Gab uses Cloudflare, it's doomed to failure](https://www.reddit.com/r/gab/comments/eet4cr/as_long_as_gab_uses_cloudflare_its_doomed_to/)"
