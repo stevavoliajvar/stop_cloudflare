@@ -22,8 +22,8 @@ a[onclick] {
 }
       </style>
       <script>
-let apiurl = 'https://ansero.eu.org/api/ansero.php';
-let favurl = 'https://ansero.eu.org/api/favicon.php?f=';
+let apiurl = 'https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/ansero.php';
+let favurl = 'https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/favicon.php?f=';
 let mylang = 'en-US';
 let hide_domain = []; // e.g. 'google.com'
 let hide_fqdn = []; // e.g. 'en.wikipedia.org'
@@ -61,10 +61,6 @@ function search() {
 		}
 		r.res.forEach(x => {
 			if (!hide_fqdn.includes(x.fqdn) && !hide_domain.includes(x.dom)) {
-				if (/^https:\/\/www\.youtube\.com\/watch\?v=(.*)$/.test(x.url)) {
-					x.url = 'https://invidio.us/watch?' + x.url.split('/watch?')[1];
-					x.fqdn = x.dom = 'invidio.us';
-				}
 				answer += '<span class="srch_sect">';
 				answer += '<img src="' + favurl + (x.url.startsWith('https:') ? '1-' : '0-') + x.fqdn + '"> ';
 				answer += '<a href="' + x.url + '" class="srch_link">' + (x.mitm == 1 ? '[MITM!!] ' : '') + x.title + '</a><br>';
