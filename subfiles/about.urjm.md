@@ -19,4 +19,4 @@ Your domain collection is yours.
 
 
 Download add-on
-- [Firefox ESR / Chromium](https://api.searxes.eu.org/_/addon.php?give&for=ureject)
+- [Firefox ESR / Chromium](https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/addon.php?give&for=ureject)
