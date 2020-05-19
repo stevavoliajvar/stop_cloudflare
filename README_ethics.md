@@ -3,9 +3,11 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Don't support this company which is void of ethics_" -- [phyzonloop](https://twitter.com/phyzonloop)
+"_Don't support this company which is void of ethics_"
 
-"_Your company isn't trustworthy. You claim to enforce DMCA but have many lawsuits for not doing so._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"_Your company isn't trustworthy. You claim to enforce DMCA but have many lawsuits for not doing so._"
+
+"_They only censor those who question their ethics._"  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
