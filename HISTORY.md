@@ -1,3 +1,6 @@
+*2020.05.13*
+
+The Tor Project deleted important ticket, [number 24351](https://trac.torproject.org/projects/tor/ticket/24351) after the spammer replaced it with child porn images which hosted on the Tor Onion service. [Ticket 34175](https://trac.torproject.org/projects/tor/ticket/34175).
 
 *2020.02.25*
 
