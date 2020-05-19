@@ -116,6 +116,8 @@ Awesome! Use Cloudflare!
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Is Cloudflare safe yet?](https://iscloudflaresafeyet.com)"
+
 "[Mozilla - Devil Incarnate: DNS over HTTPS](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/ghost/mozilla.html#cloudflare)" by [​DigDeeper](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/)
 
 "[Cloudflare silently deleted my DNS records](https://web.archive.org/save/https://txti.es/cloudflare-deleted-my-dns)" by Cloudflare user
