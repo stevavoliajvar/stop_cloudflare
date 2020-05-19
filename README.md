@@ -1,5 +1,3 @@
-## I am not the author of this documentation. This is just a reupload after it got taken down from Codeberg.
-
 # The Great Cloudwall
 
 ![](image/itsreallythatbad.jpg)
