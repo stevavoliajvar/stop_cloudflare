@@ -1,14 +1,17 @@
 # What you can do to resist Cloudflare?
 
-![](image/matthew_prince.jpg) < [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/matthew_prince.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/blockedbymatthewprince.jpg)
 
-"*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" ([source](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis))
+[Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
-"*That was simply unfounded paranoia, pretty big difference.*"  ([source](https://twitter.com/xxdesmus/status/992757936123359233))
+"*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" [t](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)
 
-"*We also work with Interpol and other non-US entities*" ([source](https://twitter.com/eastdakota/status/1203028504184360960))
+"*That was simply unfounded paranoia, pretty big difference.*"  [t](https://twitter.com/xxdesmus/status/992757936123359233)
 
-![](image/whoismp.jpg)
+"*We also work with Interpol and other non-US entities*" [t](https://twitter.com/eastdakota/status/1203028504184360960)
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whoismp.jpg)
 
 ---
 
@@ -21,6 +24,7 @@
 
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
+  - Whining on Twitter or Mastodon makes _no_ difference. Try to contact to the website owner _if_ you want to make yourself useful.
 
 [Cloudflare said](https://github.com/Eloston/ungoogled-chromium/issues/783):
 ```
@@ -28,7 +32,7 @@ We recommend that you reach out to the administrators for the
 specific services or sites that you run into issue with and share your experience.
 ```
 
-If you don't [ask for it](PEOPLE.md), website owner *never* know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). Raise your voice.
+If you don't [ask for it](PEOPLE.md), website owner *never* know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). You have a problem? Raise your voice now.
 
 ```
 You are just helping corporate censorship and mass surveillance.
@@ -37,14 +41,15 @@ https://trac.torproject.org/projects/tor/ticket/24351
 
 ```
 Your web page is in the privacy-abusing private walled-garden of CloudFlare.
-See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544
+See https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 
-- Take some time to read website's privacy policy. It must explain what the "Cloudflare" is, 
-and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust 
-and the website in question should be avoided.
+- Take some time to read website's privacy policy.
+  - ...if the website is behind Cloudflare or website is using services connected to Cloudflare.
 
-An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" > "Entity Name")
+It must explain what the "_Cloudflare_" is, and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust and the website in question should be avoided.
+
+An _acceptable_ privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" > "Entity Name")
 
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
@@ -54,7 +59,7 @@ See https://git.openprivacy.ca/cypherpunks/stop_cloudflare
 
 For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
 
-![](image/cfwontobey.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfwontobey.jpg)
 
 ... is not going to happen.
 Cloudflare have their own "privacy policy", and there's no way to hear customer's privacy policy needs.
@@ -74,10 +79,15 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
+  - I'm in your TLS, sniffin' your passworz
 
 - Search for other website. There are many alternatives and opportunites on the internet!
 
-- If your browser is Firefox, use one of these add-ons.
+- Convince your friends to use [Tor](https://www.torproject.org/download/tor/) on the daily basis.
+  - Anonymity should be the standard of the open internet!
+  - Do note that the Tor project dislikes this cloudflare-tor project.
+
+- If your browser is Firefox, use one of these add-ons below.
 
 ### Add-ons
 
@@ -86,15 +96,16 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 | [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Searxes | [Link](https://searxes.eu.org/) | **Yes**     | **Yes**     |
 | [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Searxes | [Link](https://searxes.eu.org/) | No     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
-| [TPRB](http://sw.qigxev2knhrsewwzi6bnv6y7uuucmyp4cyy3dovv56jug2kfrmmuqzid.onion/) | Sw | [Link](http://sw.qigxev2knhrsewwzi6bnv6y7uuucmyp4cyy3dovv56jug2kfrmmuqzid.onion/) | **Yes**     | **Yes**     |
+| [TPRB](http://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | Sw | [Link](http://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [Link](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Yes**     |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [Link](https://github.com/lilydjwg/cf-pop) | No     | **Yes**     |
 
+(If you want to add _other_ new add-on, please ask about it ​[here](issues) first)
 
-- "[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)" can stop connection to "CDNJS (Cloudflare)". (_It prevents a lot of requests from reaching networks, and serves local files to keep sites from breaking._)
-
-- Convince your friends to use [Tor](https://www.torproject.org/download/tor/) on the daily basis. Anonymity should be the standard of the open internet!
+- "[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)" can stop connection to "CDNJS (Cloudflare)".
+  - It prevents a lot of requests from reaching networks, and serves local files to keep sites from breaking.
+  - The developer replied: "​[very concerning indeed](https://github.com/Synzvato/decentraleyes/issues/236#issuecomment-352049501)", "​[widespread usage severely centralizes the web](https://github.com/Synzvato/decentraleyes/issues/251#issuecomment-366752049)"
 
 </details>
 
@@ -107,29 +118,34 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/word_cloudflarefree.jpg)
 
-- Do not use Cloudflare solution.  You can do better than that, *right*? Here's how to [remove Cloudflare subscriptions, plans, domains, or accounts](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts).
+- Do not use Cloudflare solution, Period.
+  - You can do better than that, *right*? Here's how to [remove Cloudflare subscriptions, plans, domains, or accounts](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts).
 
-- Want more customers? You know what to do. Hint is "above line".
+- Want more customers? You know what to do. Hint is "_above line_".
+  - Hello, you wrote "​[We take your privacy seriously](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously)" but I got "_Error 403 Forbidden Anonymous Proxy Not Allowed_". Why are you blocking Tor? Or VPN?
 
-![](image/anonexist.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/anonexist.jpg)
 
 - Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
 
-- Using Cloudflare to proxy your "API service", "Client(software) update server" or "RSS feed" will harm your customer. A customer called you and said "_I can't use your API anymore_", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
+- Using Cloudflare to proxy your "API service", "Client(software) [update server](https://forums.clamwin.com/viewtopic.php?t=4915)" or "RSS feed" will harm your customer. A customer called you and said "_I can't use your API anymore_", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
+  - There are many RSS reader client and RSS reader online service. Why are you publishing RSS feed if you're not allowing people to subscribe?
 
-![](image/rssfeedovercf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/rssfeedovercf.jpg)
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
 - Do you need [DNS server](https://twitter.com/IngeniousAppsIA/status/1187730384492077057)? Can't set up your own server? Then how about [1984 FreeDNS](https://www.1984hosting.com/), [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/) or [this (warning: Admin delete your account if you use TOR)](https://freedns.afraid.org/)?
+  - By the way, Searxes is using `1984 DNS`.
 
 - Looking for hosting service? "Free" only? Well, how about [Byethost](https://byet.host/free-hosting), [Surge](https://surge.sh/), [Github Pages](https://pages.github.com/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
 
 - Are you using "_cloudflare-ipfs.com_"? Do you know [Cloudflare IPFS is bad](PEOPLE.md)?
 
 - Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
+  - Blocking Tor is not a solution. Don't punish everyone just for small bad users.
 
 - If you want to know more alternative solutions, take a look at [this blog's "Alternative solutions" section](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html).
 
@@ -210,12 +226,14 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.openprivacy.ca/cypherpunks/stop_cloudflare for more information.<br />
+Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
 
-- Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) or I2P insite if you believe in freedom and welcome anonymous users.
+- Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) or I2P insite _if_ you believe in freedom and welcome anonymous users.
+  - Tor developers will thank you.
+  - Tor users will endorse your service! Pro-privacy!
 
 - Ask for advice from other [Clearnet/Tor dual website operators](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor) and make anonymous friends! :)
 
@@ -243,10 +261,11 @@ die();
 | [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS |
 
 
-Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect".
+Other software's privacy is imperfect. This doesn't mean Tor browser is "_perfect_".
 There is no 100% secure nor 100% private on the internet and technology.
 
 - Don't want to use "Tor"? You can use _any browser_ with [Tor daemon](https://packages.debian.org/search?searchon=names&keywords=tor).
+  - Note that the Tor project don't like this. Use `Tor Browser` if you are able to do so.
 
 - It may be possible to use "Tor Browser" without Tor:
 
@@ -268,7 +287,7 @@ Let's talk about _other software's privacy_...
 
 - Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618) and they [have](https://www.reddit.com/r/linux/comments/9hh3gc/to_unsuspecting_admins_firefox_continues_to_send/) / [too](https://mashable.com/2017/12/16/mr-robot-looking-glass-mozilla-firefox-backlash/) / [many](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) / [problems](https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/comment-page-6/#comment-226187). Want more? [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/ghost/mozilla.html).
 
-- "Firefox Focus"(Firefox Klar) [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743).
+- "Firefox Focus/Firefox Klar [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743). They promised to turn off telemetry but ​they [changed it](https://github.com/mozilla-mobile/focus-android/issues/4210).
 
 - PaleMoon(Basilisk) developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097). Pale Moon's Archive Server [hacked and spread malware for 18 Months](https://www.reddit.com/r/privacytoolsIO/comments/cc808y/pale_moons_archive_server_hacked_and_spread/)!! He also hate Tor users - "[Let it be hostile towards Tor. I think most sites should be hostile towards Tor considering its extremely high abuse factor.](https://github.com/yacy/yacy_search_server/issues/314#issuecomment-565932097)". (abuse rate over Tor is NOT "extremely high". there's a study about it)
 
@@ -286,7 +305,7 @@ Let's talk about _other software's privacy_...
 
 - Opera spyware level: [Extremely High](https://spyware.neocities.org/articles/opera.html)
 
-Therefore we recommend above table only. Nothing else.
+Therefore we recommend above table only. _Nothing else_.
 
 </details>
 
@@ -320,10 +339,10 @@ Therefore we recommend above table only. Nothing else.
 
 - To disable DoH, enter *about:config?filter=network.trr* in the address bar then set "*network.trr.mode*" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
 
-![](image/firefoxdns.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/firefoxdns.jpg)
 
 - If you would like to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start)
-![](image/opennic.jpg) or any of non-Cloudflare DNS services.
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/opennic.jpg) or any of non-Cloudflare DNS services.
 
 - You can use Tor as DNS resolver. If you're not Tor expert, [ask question here](https://tor.stackexchange.com/).
 
@@ -392,7 +411,11 @@ dystopic status quo that results.
 Resist!
 ```
 
+```
+Someday, you'll know why we wrote this.
+```
+
 ### Now, what did you do today?
 
 
-![](image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
