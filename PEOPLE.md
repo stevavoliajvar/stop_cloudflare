@@ -39,7 +39,7 @@ In addition, with so many websites behind Cloudflare, when it goes down, half th
 The internet was designed to be decentralised and Cloudflare is centralising it.
 Half of the internet relying on a single entity is dangerous.
 ```
--- [Amolith, Ex contributor](https://masto.nixnet.xyz/@Amolith)
+-- [Amolith, Ex contributor](https://social.nixnet.services/@Amolith)
 
 
 ```
