@@ -1,7 +1,7 @@
 # The Great Cloudwall
 
-![](image/itsreallythatbad.jpg)
-![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 ---
 
@@ -16,9 +16,9 @@ The origin webserver administrator allowed the agent to decide [who can access](
 
 ---
 
-![](image/cfmarketshare.jpg)
-![](image/cloudflaredearuser.jpg)
-![](image/usershoulddecide.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/usershoulddecide.jpg)
 
 ---
 
@@ -26,10 +26,10 @@ Take a look at the first image posted below. You will think Cloudflare block _on
 
 ---
 
-![](image/howcfwork.jpg)
-![](image/cfdowncfcom.jpg)
-![](image/cfdown2019.jpg)
-![](image/cloudflareinternalerror.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howcfwork.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdowncfcom.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdown2019.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)
 
 ---
 
@@ -39,12 +39,12 @@ Cloudflare also [automatically](https://twitter.com/itsybitsydots/status/1212691
 
 ---
 
-![](image/cloudflarechina.jpg)
-![](image/onemorestep.jpg)
-![](image/accdenied.jpg)
-![](image/cfublock.jpg)
-![](image/omsjsck.jpg)
-![](image/cftestgoogle.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflarechina.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/onemorestep.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/accdenied.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfublock.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsjsck.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg)
 
 ---
 
@@ -52,12 +52,12 @@ Cloudflare similarly prevents many people who have poor internet connectivity fr
 
 ---
 
-![](image/googlerecaptcha.jpg)
-![](image/omsnote.jpg)
-![](image/omsdroid.jpg)
-![](image/omsstream.jpg)
-![](image/omsappl.jpg)
-![](image/cferr1010bsig.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/googlerecaptcha.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsnote.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsdroid.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsstream.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsappl.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1010bsig.jpg)
 
 ---
 
@@ -68,10 +68,10 @@ Tor _was_ developed by US Army, but current Tor is developed by the [Tor project
 
 ---
 
-![](image/banvpn2.jpg)
-![](image/banvpn.jpg)
-![](image/whousetor.jpg)
-![](image/iusetor_alith.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn2.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whousetor.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg)
 
 ---
 
@@ -79,10 +79,10 @@ And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users 
 
 ---
 
-![](image/cferr1016.jpg)
-![](image/cferr1016sp.jpg)
-![](image/dnsfailtest.jpg)
-![](image/cfdnsprob.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg)
 
 ---
 
@@ -93,11 +93,11 @@ It is impossible to [analyze](https://blog.cloudflare.com/the-csam-scanning-tool
 
 ---
 
-![](image/cfbloghtmledit.jpg)
-![](image/cfhelp204144518.jpg)
-![](image/cfhelpforum.jpg)
-![](image/prism_gfe.jpg)
-![](image/sniff2.gif)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif)
 
 ---
 
@@ -112,9 +112,9 @@ Is there any way you would sell us that data?
 
 ---
 
-![](image/dhssaid.jpg)
-![](image/federalinterest.jpg)
-![](image/cfstrengthdata.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg)
 
 ---
 
@@ -124,8 +124,8 @@ Cloudflare said their VPN service make your internet [fast](https://www.wired.co
 
 ---
 
-![](image/howvpnwork.jpg)
-![](image/notfastervpn.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howvpnwork.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/notfastervpn.jpg)
 
 ---
 
@@ -133,22 +133,22 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 ---
 
-![](image/prismattnsa.jpg)
-![](image/nsaslide_prismcorp.gif)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif)
 
 ---
 
 ### Cloudflare is a honeypot.
 
-![](image/honeypot.gif)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
 
 ### Free honey for everyone. _Some_ strings attached.
 
-![](image/iminurtls.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
 
 ### Do not use Cloudflare.
 
-![](image/shadycloudflare.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
 
 ### Decentralize the internet.
 
@@ -176,27 +176,31 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 **Data**
 * [Cloudflare Inc.](cloudflare_inc/)
 * [Cloudflare Users](cloudflare_users/)
-* [Cloudflare Domains](cloudflare_users/domains/)
-* [Non-Cloudflare CDN users](not_cloudflare/)
-* [Anti-Tor users](anti-tor_users/)
 
-![](image/goodorbad.jpg)
+* [Cloudflare Domains](https://gitea.com/you/cloudflare)
+* [Non-Cloudflare CDN users](https://gitea.com/you/cdn)
+* [Anti-Tor users](https://gitea.com/you/antitor)
+
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
 
 
 **More Information**
 * [Short version of README](README_short.md)  `DRAFT`
 * [Myth Catalog](myth_catalog.md)  `DRAFT`
-* [The Great Cloudwall](article.txt) by Mr. Jeff Cliff; PDF version [here](pdf/2019-The_Great_Cloudwall.pdf), [ePUB here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub) `DRAFT`
+* [The Great Cloudwall](article.txt) by Mr. Jeff Cliff
+  * PDF version [here](pdf/2019-The_Great_Cloudwall.pdf), [ePUB here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
+  * Deleted by the [Tor Project](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). See [34175](https://trac.torproject.org/projects/tor/ticket/34175).
 * [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
 * [Cloudflare Watch](http://www.crimeflare.org:82/) (cons: _down quite a lot, old data, search restricted to EU only_)
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) by TheGoldenGoose8888
 * [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
-* [HashTag #FuckCloudflare on Mastodon Network](https://mastodon.social/tags/fuckcloudflare)
+* [HashTag #FuckCloudflare on Mastodon Network](https://mastodon.mit.edu/tags/fuckcloudflare)
 
-![](image/watcloudflare.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/watcloudflare.jpg)
 
 </details>
 
@@ -212,7 +216,7 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 
 * Read [other user's voice](PEOPLE.md) and write your thoughts.
 
-* Search something on [Ansero](http://ansero.xgwglrypkjbgecns2zru5ekyu7tnqgg7l5blojlq7roohxbwkr5k77id.onion/)<sub><sup> [ᶜˡᵉᵃʳⁿᵉᵗ](https://ansero.eu.org/)</sup></sub> or [Searxes](http://searxes.nmqnkngye4ct7bgss4bmv5ca3wpa55yugvxen5kz2bbq67lwy6ps54yd.onion/)<sub><sup> [ᶜˡᵉᵃʳⁿᵉᵗ](https://searxes.eu.org/)</sup></sub>.
+* Search something on [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/)<sub><sup> [ᶜˡᵉᵃʳⁿᵉᵗ](https://ansero.eu.org/)</sup></sub> or [Searxes](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/)<sub><sup> [ᶜˡᵉᵃʳⁿᵉᵗ](https://searxes.eu.org/)</sup></sub>.
 
 * Update the domain list: [List instructions](instructions.md).
 
@@ -224,41 +228,28 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 
 ---
 
-### "Stop Cloudflare" Official Accounts
-
-**NEVER** trust other accounts.
-
-* [Mastodon (crimeflare)](https://activism.openworlds.info/@crimeflare)
-
-* [Twitter (stop_cloudflare)](https://twitter.com/stop_cloudflare) ([We don't like Twitter](https://robinwils.gitlab.io/articles/why-i-made-a-twitter/#why-twitter))
-
-
-> We don't read _direct message_. If you want to say something [join here](https://codeberg.org/crimeflare/cloudflare-tor/issues).
-
----
-
 ![WTF](image/wtfcf.jpg)
 
-![](image/omsirl.jpg)
-![](image/whydoihavetosolveacaptcha.jpg)
-![](image/fixthedamn.jpg)
-![](image/imnotarobot.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fixthedamn.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imnotarobot.jpg)
 
 </details>
 
 ---
 
 
-![](image/twe_lb.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_lb.jpg)
 
-![](image/twe_dz.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_dz.jpg)
 
-![](image/twe_jb.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_jb.jpg)
 
-![](image/twe_ial.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_ial.jpg)
 
-![](image/twe_eptg.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_eptg.jpg)
 
-![What did YOU do to stop CF?](image/stopcf.jpg)
+![What did YOU do to stop CF?](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
-![](image/peopledonotthink.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)
