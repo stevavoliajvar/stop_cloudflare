@@ -116,6 +116,8 @@ Awesome! Use Cloudflare!
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Is Cloudflare safe yet?](https://iscloudflaresafeyet.com)"
+
 "[Mozilla - Devil Incarnate: DNS over HTTPS](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/ghost/mozilla.html#cloudflare)" by [​DigDeeper](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/)
 
 "[Cloudflare silently deleted my DNS records](https://web.archive.org/save/https://txti.es/cloudflare-deleted-my-dns)" by Cloudflare user
@@ -186,6 +188,8 @@ Awesome! Use Cloudflare!
 
 "[CloudFlare, We Have A Problem](http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/)" by [joepie91](http://cryto.net/~joepie91/)
 
+"[CloudFlare blocked 94% of Tor requests](http://en.android4e.com/?p=1263)"
+
 "[On Cloudflare](https://www.tyil.nl/post/2017/12/17/on-cloudflare/)" by [tyil](https://www.tyil.nl/)
 
 "[Why CloudFlare Is Probably A Honeypot](https://cypherpunk.is/2015/04/02/why-cloudflare-is-probably-a-honeypot/)" by [cypherpunk](https://cypherpunk.is/)
@@ -208,6 +212,8 @@ Awesome! Use Cloudflare!
 
 
 "[US Bank website is not in Cloudflare DNS](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/)"
+
+"[What data does CloudFlare actually see?](https://community.cloudflare.com/t/what-data-does-cloudflare-actually-see/28660)"
 
 "[Why does everyone here dislike CloudFlare?](https://www.reddit.com/r/privacy/comments/cce2ui/why_does_everyone_here_dislike_cloudflare/)"
 
@@ -481,8 +487,10 @@ Awesome! Use Cloudflare!
 </summary>
 
 
-> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
+> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live). (Too many to read)
 
+
+"Your captcha is totally unusuable on a mobile browser (Samsung Internet). Yes, it spans out of the screen, and it's not scrollable. The website access is totally blocked to me." by @[sebsauvage_net](https://twitter.com/sebsauvage_net/status/1256195972436295682)
 
 "For anyone having issues accessing the repo from the UK you will need to use a vpn as cloudflare is blocking access from the UK for some reason." by @[F2P_Gamer](https://nitter.net/F2P_Gamer/status/1233417591512805376)
 
@@ -2545,8 +2553,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 </summary>
 
 
-> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
+> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare). (#Cloudflare)
 
+"I was going to start contributing to that wiki, but then I noticed it's a #CloudFlare site.  I will not contribute to a CF asset." by @[aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104149529821644159)
+
+"I'm more inclined to trust a storage provider than someone who's /already/ reading through your data to do whatever service they provide." by @[IceWolf](https://meow.social/@IceWolf/104167691683423675)
 
 "Save the Internet, boycott #Cloudflare" by @[Ajz](https://mastodon.nl/@Ajz/103712485183183547)
 

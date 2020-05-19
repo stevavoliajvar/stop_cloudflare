@@ -159,8 +159,6 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 
 ##    please continue to next page:  [Cloudflare Ethics](README_ethics.md).
 
-
-
 ---
 
 <details>
@@ -176,10 +174,12 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 **Data**
 * [Cloudflare Inc.](cloudflare_inc/)
 * [Cloudflare Users](cloudflare_users/)
-
-* [Cloudflare Domains](https://gitea.com/you/cloudflare)  `delay sync`
-* [Non-Cloudflare CDN users](https://gitea.com/you/cdn)  `delay sync`
-* [Anti-Tor users](https://gitea.com/you/antitor)  `delay sync`
+* [Cloudflare Domains](cloudflare_users/domains/)
+  * [you/cloudflare](https://gitea.com/you/cloudflare)
+* [Non-Cloudflare CDN users](not_cloudflare/)
+  * [you/cdn](https://gitea.com/you/cdn)
+* [Anti-Tor users](anti-tor_users/)
+  * [you/antitor](https://gitea.com/you/antitor)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -189,11 +189,13 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 * [Short version of README](README_short.md)  `DRAFT`
 * [Myth Catalog](myth_catalog.md)  `DRAFT`
 * [The Great Cloudwall](article.txt) by Mr. Jeff Cliff
-  * other version: PDF [here](pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * Download as: PDF [here](pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * The original eBook(ePUB) was deleted by `BookRix GmbH` due to `copyright infringement of CC0 material`
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
-  * Deleted by the [Tor Project](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). See [34175](https://trac.torproject.org/projects/tor/ticket/34175).
-  * Last [archive 24351](https://web.archive.org/web/*/https://trac.torproject.org/projects/tor/ticket/24351)
+  * The ticket was vandalized so many times.
+  * Deleted by the [Tor Project](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). See [ticket 34175](https://trac.torproject.org/projects/tor/ticket/34175).
+  * Last [archive ticket 24351](https://web.archive.org/web/*/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
   * They had used Cloudflare in the past. [Added](https://github.com/privacytools/privacytools.io/pull/1205) CF-tor but [removed it](https://github.com/privacytools/privacytools.io/pull/1804).
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia

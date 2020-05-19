@@ -1,11 +1,13 @@
 # Ethical Issues
 
-![](image/itsreallythatbad.jpg)
-![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Don't support this company which is void of ethics_" -- [phyzonloop](https://twitter.com/phyzonloop)
+"_Don't support this company which is void of ethics_"
 
-"_Your company isn't trustworthy. You claim to enforce DMCA but have many lawsuits for not doing so._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"_Your company isn't trustworthy. You claim to enforce DMCA but have many lawsuits for not doing so._"
+
+"_They only censor those who question their ethics._"  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
@@ -28,11 +30,11 @@ Cloudflare said using their service [can stop all spammers or attackers](https:/
 How can we stop _Cloudflare spammers_ without activating Cloudflare?
 
 
-![](image/cfspam01.jpg)
-![](image/cfspam03.jpg)
-![](image/cfspam02.jpg)
-![](image/cfspambrittany.jpg)
-![](image/cfspamtwtr.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
 
 </details>
 
@@ -48,9 +50,9 @@ How can we stop _Cloudflare spammers_ without activating Cloudflare?
 Cloudflare censor [negative reviews](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). If you post _anti-Cloudflare_ text on Twitter, you have a chance to get a [reply](https://twitter.com/CloudflareHelp/status/1126051764917145601) from [Cloudflare employee](cloudflare_inc/cloudflare_members.txt) with "_[No, it's not](PEOPLE.md)_" message. If you post a negative review on any review site, they will try to [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672).
 
 
-![](image/cfcenrev_01.jpg)
-![](image/cfcenrev_02.jpg)
-![](image/cfcenrev_03.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
 
 </details>
 
@@ -68,13 +70,13 @@ Cloudflare [shares personal information](https://archive.ph/ePdvi) of those [who
 your true ID. If you don't want to get harassed, [assaulted](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html) or [killed](https://twitter.com/RusEmbUSA/status/1187363092793040901), you better stay away from Cloudflared websites.
 
 
-![](image/cfdox_what.jpg)
-![](image/cfdox_swat.jpg)
-![](image/cfdox_kill.jpg)
-![](image/cfdox_threat.jpg)
-![](image/cfdox_dox.jpg)
-![](image/cfdox_ex1.jpg)
-![](image/cfdox_ex2.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
 
 </details>
 
@@ -90,7 +92,7 @@ your true ID. If you don't want to get harassed, [assaulted](https://twitter.com
 CloudFlare is [asking](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) for charitable contributions. It’s quite appalling that an American corporation would ask for charity alongside non-profit organizations that have good causes. If you like [blocking people or wasting other people's time](PEOPLE.md), you might want to order some pizzas🍕 for Cloudflare employees.
 
 
-![](image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -105,7 +107,7 @@ CloudFlare is [asking](https://web.archive.org/web/20191112033605/https://openco
 
 What will you do if your site goes down _suddenly_? There are reports that Cloudflare is [deleting](https://twitter.com/stefan_eady/status/1126033791267426304) [user's](https://twitter.com/derivativeburke/status/903755267053117440) [configuration](https://twitter.com/lordscarlet/status/1046785164792205314) or [stopping service without any warning](https://twitter.com/svolentin/status/1227324408475344896), [silently](https://twitter.com/BlnaryMlke/status/1194339461984854018). We suggest you find [better provider](what-to-do.md).
 
-![](image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -122,16 +124,16 @@ CloudFlare gives preferential treatment to those using Firefox while giving host
 Tor users of who rightfully refuse to execute non-free javascript also receive hostile treatment.
 This access inequality is a network neutrality abuse and an abuse of power.
 
-![](image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
 - Left: `Tor Browser` , Right: `Chrome`. Same IP address.
 
-![](image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
 - Left: `[Tor Browser] Javascript Disabled, Cookie Enabled`
 - Right: `[Chrome] Javascript Enabled, Cookie Disabled`
 
-![](image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser(minor browser) without Tor (Clearnet IP)
 
@@ -179,14 +181,14 @@ Most states only make a subset of that information publicly available, but Cloud
 Note that paper registration does not circumvent Cloudflare because the secretary of state data entry staff workers will likely use the
 Cloudflare website to enter the data.
 
-![](image/cfvotm_01.jpg)
-![](image/cfvotm_02.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
 
 Change.org is a famous website for gathering votes and take action. "[people everywhere are starting campaigns, mobilizing supporters, and working with decision makers to drive solutions.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Unfortunately, many people cannot view change.org at all due to Cloudflare's aggressive filter. They cannot vote even if they want to.
 
-![](image/changeorgasn.jpg)
-![](image/changeorgtor.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
 
 </details>
 
@@ -201,7 +203,7 @@ Unfortunately, many people cannot view change.org at all due to Cloudflare's agg
 
 If you opt-out something, you expect that you receive no email about it. Cloudflare ignore user's preference and share data with third-party corporations [without customer's consent](https://twitter.com/thexpaw/status/1108424723233419264).
 
-![](image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -227,7 +229,7 @@ Cloudflare didn't know about the word "remove". If it is really _removed_, why t
 Their new privacy policy doesn't make any mention of retaining data for a year.
 ```
 
-![](image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
 How can you trust Cloudflare if [their privacy policy is a LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
 
@@ -252,7 +254,7 @@ You must have no domains or credit cards attached to your account prior to reque
 
 You will [receive this confirmation email](https://twitter.com/originalesushi/status/1199041528414527495).
 
-![](image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "We have begun to process your deletion request" but "We will continue to store your personal information".
 
@@ -262,6 +264,6 @@ Can you "trust" this?
 
 ---
 
-# continue to next page:   [Cloudflare Voices](PEOPLE.md)
+## please continue to next page:   [Cloudflare Voices](PEOPLE.md).
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
