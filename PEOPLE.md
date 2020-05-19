@@ -2545,8 +2545,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 </summary>
 
 
-> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare).
+> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare). (#Cloudflare)
 
+"I was going to start contributing to that wiki, but then I noticed it's a #CloudFlare site.  I will not contribute to a CF asset." by @[aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104149529821644159)
+
+"I'm more inclined to trust a storage provider than someone who's /already/ reading through your data to do whatever service they provide." by @[IceWolf](https://meow.social/@IceWolf/104167691683423675)
 
 "Save the Internet, boycott #Cloudflare" by @[Ajz](https://mastodon.nl/@Ajz/103712485183183547)
 
