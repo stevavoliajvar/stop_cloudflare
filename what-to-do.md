@@ -120,27 +120,32 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/word_cloudflarefree.jpg)
 
-- Do not use Cloudflare solution.  You can do better than that, *right*? Here's how to [remove Cloudflare subscriptions, plans, domains, or accounts](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts).
+- Do not use Cloudflare solution, Period.
+  - You can do better than that, *right*? Here's how to [remove Cloudflare subscriptions, plans, domains, or accounts](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts).
 
-- Want more customers? You know what to do. Hint is "above line".
+- Want more customers? You know what to do. Hint is "_above line_".
+  - Hello, you wrote "​[We take your privacy seriously](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously)" but I got "_Error 403 Forbidden Anonymous Proxy Not Allowed_". Why are you blocking Tor? Or VPN?
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/anonexist.jpg)
 
 - Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
 
-- Using Cloudflare to proxy your "API service", "Client(software) update server" or "RSS feed" will harm your customer. A customer called you and said "_I can't use your API anymore_", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
+- Using Cloudflare to proxy your "API service", "Client(software) [update server](https://forums.clamwin.com/viewtopic.php?t=4915)" or "RSS feed" will harm your customer. A customer called you and said "_I can't use your API anymore_", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
+  - There are many RSS reader client and RSS reader online service. Why are you publishing RSS feed if you're not allowing people to subscribe?
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/rssfeedovercf.jpg)
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
 - Do you need [DNS server](https://twitter.com/IngeniousAppsIA/status/1187730384492077057)? Can't set up your own server? Then how about [1984 FreeDNS](https://www.1984hosting.com/), [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/) or [this (warning: Admin delete your account if you use TOR)](https://freedns.afraid.org/)?
+  - By the way, Searxes is using `1984 DNS`.
 
 - Looking for hosting service? "Free" only? Well, how about [Byethost](https://byet.host/free-hosting), [Surge](https://surge.sh/), [Github Pages](https://pages.github.com/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
 
 - Are you using "_cloudflare-ipfs.com_"? Do you know [Cloudflare IPFS is bad](PEOPLE.md)?
 
 - Install Web Application Firewall (such as OWASP) and Fail2Ban on _your_ server and configure it _properly_.
+  - Blocking Tor is not a solution. Don't punish everyone just for small bad users.
 
 - If you want to know more alternative solutions, take a look at [this blog's "Alternative solutions" section](http://www.unixsheikh.com/articles/stay-away-from-cloudflare.html).
 
@@ -221,12 +226,14 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.openprivacy.ca/cypherpunks/stop_cloudflare for more information.<br />
+Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
 
-- Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) or I2P insite if you believe in freedom and welcome anonymous users.
+- Set up [Tor Onion Service](https://www.torproject.org/docs/onion-services.html.en) or I2P insite _if_ you believe in freedom and welcome anonymous users.
+  - Tor developers will thank you.
+  - Tor users will endorse your service! Pro-privacy!
 
 - Ask for advice from other [Clearnet/Tor dual website operators](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor) and make anonymous friends! :)
 
@@ -254,10 +261,11 @@ die();
 | [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS |
 
 
-Other software's privacy is imperfect. This doesn't mean Tor browser is "perfect".
+Other software's privacy is imperfect. This doesn't mean Tor browser is "_perfect_".
 There is no 100% secure nor 100% private on the internet and technology.
 
 - Don't want to use "Tor"? You can use _any browser_ with [Tor daemon](https://packages.debian.org/search?searchon=names&keywords=tor).
+  - Note that the Tor project don't like this. Use `Tor Browser` if you are able to do so.
 
 - It may be possible to use "Tor Browser" without Tor:
 
@@ -279,7 +287,7 @@ Let's talk about _other software's privacy_...
 
 - Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618) and they [have](https://www.reddit.com/r/linux/comments/9hh3gc/to_unsuspecting_admins_firefox_continues_to_send/) / [too](https://mashable.com/2017/12/16/mr-robot-looking-glass-mozilla-firefox-backlash/) / [many](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) / [problems](https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/comment-page-6/#comment-226187). Want more? [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/ghost/mozilla.html).
 
-- "Firefox Focus"(Firefox Klar) [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743).
+- "Firefox Focus/Firefox Klar [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743). They promised to turn off telemetry but ​they [changed it](https://github.com/mozilla-mobile/focus-android/issues/4210).
 
 - PaleMoon(Basilisk) developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097). Pale Moon's Archive Server [hacked and spread malware for 18 Months](https://www.reddit.com/r/privacytoolsIO/comments/cc808y/pale_moons_archive_server_hacked_and_spread/)!! He also hate Tor users - "[Let it be hostile towards Tor. I think most sites should be hostile towards Tor considering its extremely high abuse factor.](https://github.com/yacy/yacy_search_server/issues/314#issuecomment-565932097)". (abuse rate over Tor is NOT "extremely high". there's a study about it)
 
@@ -297,7 +305,7 @@ Let's talk about _other software's privacy_...
 
 - Opera spyware level: [Extremely High](https://spyware.neocities.org/articles/opera.html)
 
-Therefore we recommend above table only. Nothing else.
+Therefore we recommend above table only. _Nothing else_.
 
 </details>
 
@@ -401,6 +409,10 @@ comes to be, the very act of resistance trains us to continue to destabilize the
 dystopic status quo that results.
 
 Resist!
+```
+
+```
+Someday, you'll know why we wrote this.
 ```
 
 ### Now, what did you do today?
