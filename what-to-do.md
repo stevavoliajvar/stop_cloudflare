@@ -1,6 +1,9 @@
 # What you can do to resist Cloudflare?
 
-![](image/matthew_prince.jpg) < [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/matthew_prince.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/blockedbymatthewprince.jpg)
+
+[Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
 "*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" ([source](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis))
 
@@ -8,7 +11,7 @@
 
 "*We also work with Interpol and other non-US entities*" ([source](https://twitter.com/eastdakota/status/1203028504184360960))
 
-![](image/whoismp.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whoismp.jpg)
 
 ---
 
@@ -54,7 +57,7 @@ See https://git.openprivacy.ca/cypherpunks/stop_cloudflare
 
 For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
 
-![](image/cfwontobey.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfwontobey.jpg)
 
 ... is not going to happen.
 Cloudflare have their own "privacy policy", and there's no way to hear customer's privacy policy needs.
@@ -107,19 +110,19 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/word_cloudflarefree.jpg)
 
 - Do not use Cloudflare solution.  You can do better than that, *right*? Here's how to [remove Cloudflare subscriptions, plans, domains, or accounts](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts).
 
 - Want more customers? You know what to do. Hint is "above line".
 
-![](image/anonexist.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/anonexist.jpg)
 
 - Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
 
 - Using Cloudflare to proxy your "API service", "Client(software) update server" or "RSS feed" will harm your customer. A customer called you and said "_I can't use your API anymore_", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
 
-![](image/rssfeedovercf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/rssfeedovercf.jpg)
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
@@ -320,10 +323,10 @@ Therefore we recommend above table only. Nothing else.
 
 - To disable DoH, enter *about:config?filter=network.trr* in the address bar then set "*network.trr.mode*" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
 
-![](image/firefoxdns.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/firefoxdns.jpg)
 
 - If you would like to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start)
-![](image/opennic.jpg) or any of non-Cloudflare DNS services.
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/opennic.jpg) or any of non-Cloudflare DNS services.
 
 - You can use Tor as DNS resolver. If you're not Tor expert, [ask question here](https://tor.stackexchange.com/).
 
@@ -395,4 +398,4 @@ Resist!
 ### Now, what did you do today?
 
 
-![](image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
