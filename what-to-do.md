@@ -5,11 +5,11 @@
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
-"*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" ([source](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis))
+"*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" [t](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)
 
-"*That was simply unfounded paranoia, pretty big difference.*"  ([source](https://twitter.com/xxdesmus/status/992757936123359233))
+"*That was simply unfounded paranoia, pretty big difference.*"  [t](https://twitter.com/xxdesmus/status/992757936123359233)
 
-"*We also work with Interpol and other non-US entities*" ([source](https://twitter.com/eastdakota/status/1203028504184360960))
+"*We also work with Interpol and other non-US entities*" [t](https://twitter.com/eastdakota/status/1203028504184360960)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whoismp.jpg)
 
@@ -24,6 +24,7 @@
 
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
+  - Whining on Twitter or Mastodon makes _no_ difference. Try to contact to the website owner _if_ you want to make yourself useful.
 
 [Cloudflare said](https://github.com/Eloston/ungoogled-chromium/issues/783):
 ```
@@ -31,7 +32,7 @@ We recommend that you reach out to the administrators for the
 specific services or sites that you run into issue with and share your experience.
 ```
 
-If you don't [ask for it](PEOPLE.md), website owner *never* know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). Raise your voice.
+If you don't [ask for it](PEOPLE.md), website owner *never* know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). You have a problem? Raise your voice now.
 
 ```
 You are just helping corporate censorship and mass surveillance.
@@ -40,14 +41,15 @@ https://trac.torproject.org/projects/tor/ticket/24351
 
 ```
 Your web page is in the privacy-abusing private walled-garden of CloudFlare.
-See https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544
+See https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 
-- Take some time to read website's privacy policy. It must explain what the "Cloudflare" is, 
-and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust 
-and the website in question should be avoided.
+- Take some time to read website's privacy policy.
+  - ...if the website is behind Cloudflare or website is using services connected to Cloudflare.
 
-An acceptable privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" > "Entity Name")
+It must explain what the "_Cloudflare_" is, and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust and the website in question should be avoided.
+
+An _acceptable_ privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" > "Entity Name")
 
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
@@ -77,10 +79,15 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
+  - I'm in your TLS, sniffin' your passworz
 
 - Search for other website. There are many alternatives and opportunites on the internet!
 
-- If your browser is Firefox, use one of these add-ons.
+- Convince your friends to use [Tor](https://www.torproject.org/download/tor/) on the daily basis.
+  - Anonymity should be the standard of the open internet!
+  - Do note that the Tor project dislikes this cloudflare-tor project.
+
+- If your browser is Firefox, use one of these add-ons below.
 
 ### Add-ons
 
@@ -89,15 +96,16 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 | [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Searxes | [Link](https://searxes.eu.org/) | **Yes**     | **Yes**     |
 | [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Searxes | [Link](https://searxes.eu.org/) | No     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
-| [TPRB](http://sw.qigxev2knhrsewwzi6bnv6y7uuucmyp4cyy3dovv56jug2kfrmmuqzid.onion/) | Sw | [Link](http://sw.qigxev2knhrsewwzi6bnv6y7uuucmyp4cyy3dovv56jug2kfrmmuqzid.onion/) | **Yes**     | **Yes**     |
+| [TPRB](http://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | Sw | [Link](http://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [Link](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Yes**     |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [Link](https://github.com/lilydjwg/cf-pop) | No     | **Yes**     |
 
+(If you want to add _other_ new add-on, please ask about it ​[here](issues) first)
 
-- "[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)" can stop connection to "CDNJS (Cloudflare)". (_It prevents a lot of requests from reaching networks, and serves local files to keep sites from breaking._)
-
-- Convince your friends to use [Tor](https://www.torproject.org/download/tor/) on the daily basis. Anonymity should be the standard of the open internet!
+- "[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)" can stop connection to "CDNJS (Cloudflare)".
+  - It prevents a lot of requests from reaching networks, and serves local files to keep sites from breaking.
+  - The developer replied: "​[very concerning indeed](https://github.com/Synzvato/decentraleyes/issues/236#issuecomment-352049501)", "​[widespread usage severely centralizes the web](https://github.com/Synzvato/decentraleyes/issues/251#issuecomment-366752049)"
 
 </details>
 
