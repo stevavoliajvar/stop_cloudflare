@@ -186,6 +186,8 @@ Awesome! Use Cloudflare!
 
 "[CloudFlare, We Have A Problem](http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/)" by [joepie91](http://cryto.net/~joepie91/)
 
+"[CloudFlare blocked 94% of Tor requests](http://en.android4e.com/?p=1263)"
+
 "[On Cloudflare](https://www.tyil.nl/post/2017/12/17/on-cloudflare/)" by [tyil](https://www.tyil.nl/)
 
 "[Why CloudFlare Is Probably A Honeypot](https://cypherpunk.is/2015/04/02/why-cloudflare-is-probably-a-honeypot/)" by [cypherpunk](https://cypherpunk.is/)
@@ -481,8 +483,10 @@ Awesome! Use Cloudflare!
 </summary>
 
 
-> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live).
+> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live). (Too many to read)
 
+
+"Your captcha is totally unusuable on a mobile browser (Samsung Internet). Yes, it spans out of the screen, and it's not scrollable. The website access is totally blocked to me." by @[sebsauvage_net](https://twitter.com/sebsauvage_net/status/1256195972436295682)
 
 "For anyone having issues accessing the repo from the UK you will need to use a vpn as cloudflare is blocking access from the UK for some reason." by @[F2P_Gamer](https://nitter.net/F2P_Gamer/status/1233417591512805376)
 
