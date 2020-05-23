@@ -1,6 +1,6 @@
 *2020.05.19*
 
-- Tor Project member, [Jim Newsome](https://twitter.com/sporksmith) [deleted cloudflare warning](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor?action=diff&version=463&old_version=462), putting Tor users at risk.
+- Tor Project member, [Jim Newsome](https://twitter.com/sporksmith), [deleted cloudflare warning](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor?action=diff&version=463&old_version=462), putting Tor users at risk.
 - And he [replaced "dead link" to cloudflare's link](https://trac.torproject.org/projects/tor/wiki/org/projects/DontBlockMe?action=diff&version=38&old_version=37).
   - _Hey Tor Project, it's not "dead". You deleted them, remember?_
 
