@@ -1,3 +1,8 @@
+*2020.05.19*
+
+Tor Project member [deleted cloudflare warning](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor?action=diff&version=463&old_version=462), putting Tor users at risk.
+
+
 *2020.05.13*
 
 The Tor Project [deleted](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) important ticket, [number 24351](https://trac.torproject.org/projects/tor/ticket/24351) after the spammer replaced it with child porn images which hosted on the Tor Onion service. [Ticket 34175](https://trac.torproject.org/projects/tor/ticket/34175).
