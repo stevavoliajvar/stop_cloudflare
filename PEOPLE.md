@@ -213,6 +213,8 @@ Awesome! Use Cloudflare!
 
 "[US Bank website is not in Cloudflare DNS](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/)"
 
+"[Aliexpress not working with 1.1.1.1](https://community.cloudflare.com/t/aliexpress-not-working-with-1-1-1-1/167491)"
+
 "[What data does CloudFlare actually see?](https://community.cloudflare.com/t/what-data-does-cloudflare-actually-see/28660)"
 
 "[Why does everyone here dislike CloudFlare?](https://www.reddit.com/r/privacy/comments/cce2ui/why_does_everyone_here_dislike_cloudflare/)"
