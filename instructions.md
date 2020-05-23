@@ -310,9 +310,9 @@ There is `no exception`.
 
 ```
 
-"Amazon.com"
+"amazonpayments.com"
 
-$ getweb --headonly https://pages.payments.amazon.com/robots.txt
+$ getweb --headonly https://pages.amazonpayments.com/robots.txt
 
 cf-cache-status: HIT
 expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
