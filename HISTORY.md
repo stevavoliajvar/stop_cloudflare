@@ -1,6 +1,14 @@
+*2020.05.19*
+
+- Tor Project member, [Jim Newsome](https://twitter.com/sporksmith) (_[Shadow](https://shadow.github.io/) dev/jnewsome_), [deleted cloudflare warning](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor?action=diff&version=463&old_version=462), putting Tor users at risk.
+- And he [replaced "dead link" to cloudflare's link](https://trac.torproject.org/projects/tor/wiki/org/projects/DontBlockMe?action=diff&version=38&old_version=37).
+  - _Hey Tor Project, it's not "dead". You deleted them, remember?_
+
+
 *2020.05.13*
 
 The Tor Project [deleted](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) important ticket, [number 24351](https://trac.torproject.org/projects/tor/ticket/24351) after the spammer replaced it with child porn images which hosted on the Tor Onion service. [Ticket 34175](https://trac.torproject.org/projects/tor/ticket/34175).
+  - Tor project member, Gustavo Gus (_Community Team Lead/ggus_) defacted Cloudflare-related documents after few days later.
 
 *2020.02.25*
 

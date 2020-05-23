@@ -310,9 +310,9 @@ There is `no exception`.
 
 ```
 
-"Amazon.com"
+"amazonpayments.com"
 
-$ getweb --headonly https://pages.payments.amazon.com/robots.txt
+$ getweb --headonly https://pages.amazonpayments.com/robots.txt
 
 cf-cache-status: HIT
 expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
@@ -327,11 +327,12 @@ If `the owner` moved away from `cloudflare` **completely**, you are welcome to a
 
 1. Open "[Is MITM?](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
 
-2. Input `gitlab.com` and click `Skanu`.
+2. Input `gitlab.com` and click `Scan`.
 
-3. Click `testo` for detailed scan.
+3. Click `test` for detailed scan.
 
-4. If you got `---Finish---`, the domain _might_ stopped using Cloudflare. We'll _investigate_ and remove it - or not. (wait some days and scan again to see whether the domain is removed)
+4. If you got `---Finish---`, the domain _might_ stopped using Cloudflare. We'll _investigate_ and remove it - or not.
+  - wait some days and scan again to see whether the domain is removed
 
 `Only a few Cloudflare user leave Cloudflare. False positive is uncommon.`
 

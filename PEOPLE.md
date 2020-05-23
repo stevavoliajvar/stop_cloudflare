@@ -213,6 +213,8 @@ Awesome! Use Cloudflare!
 
 "[US Bank website is not in Cloudflare DNS](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/)"
 
+"[Aliexpress not working with 1.1.1.1](https://community.cloudflare.com/t/aliexpress-not-working-with-1-1-1-1/167491)"
+
 "[What data does CloudFlare actually see?](https://community.cloudflare.com/t/what-data-does-cloudflare-actually-see/28660)"
 
 "[Why does everyone here dislike CloudFlare?](https://www.reddit.com/r/privacy/comments/cce2ui/why_does_everyone_here_dislike_cloudflare/)"
@@ -403,6 +405,16 @@ Awesome! Use Cloudflare!
 ## Microsoft GitHub
 </summary>
 
+
+"[How can this be overcome?](https://github.com/jnsofini/Full-Stack/issues/1)"
+
+"[Is there a way to add a way to deal with the captcha?](https://github.com/Sibusten/derpibooru-downloader/issues/36)"
+
+"[cloudflared wont resolve usbank.com](https://github.com/cloudflare/cloudflared/issues/201)"
+
+"[I can't believe that there idiots out there paying money for such a honeypot](https://github.com/asciimoo/searx/issues/1965#issuecomment-632575485)"
+
+"[Recently we use cloudflare at our server and since then htmldoc has stopped working](https://github.com/michaelrsweet/htmldoc/issues/387)"
 
 "[CloudFlare rejects my benchmark](https://github.com/jsperf/jsperf.com/issues/523)" by [willydee](https://github.com/willydee)
 
@@ -2554,6 +2566,8 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare). (#Cloudflare)
+
+"the irony of linking to #gitlab, while criticizing the usage of #cloudflare: gitlab also uses cloudflare. It's a mess..." by @[syster](https://social.linux.pizza/@syster/104207835323296120)
 
 "I was going to start contributing to that wiki, but then I noticed it's a #CloudFlare site.  I will not contribute to a CF asset." by @[aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104149529821644159)
 
