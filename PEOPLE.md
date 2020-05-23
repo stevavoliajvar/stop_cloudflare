@@ -404,6 +404,16 @@ Awesome! Use Cloudflare!
 </summary>
 
 
+"[How can this be overcome?](https://github.com/jnsofini/Full-Stack/issues/1)"
+
+"[Is there a way to add a way to deal with the captcha?](https://github.com/Sibusten/derpibooru-downloader/issues/36)"
+
+"[cloudflared wont resolve usbank.com](https://github.com/cloudflare/cloudflared/issues/201)"
+
+"[I can't believe that there idiots out there paying money for such a honeypot](https://github.com/asciimoo/searx/issues/1965#issuecomment-632575485)"
+
+"[Recently we use cloudflare at our server and since then htmldoc has stopped working](https://github.com/michaelrsweet/htmldoc/issues/387)"
+
 "[CloudFlare rejects my benchmark](https://github.com/jsperf/jsperf.com/issues/523)" by [willydee](https://github.com/willydee)
 
 "[Redirection Error](https://github.com/johngodley/redirection/issues/2186)" by [Jmira323](https://github.com/Jmira323)
