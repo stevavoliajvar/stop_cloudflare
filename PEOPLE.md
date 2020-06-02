@@ -2577,6 +2577,10 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 "Wenn wir von heute auf morgen alle über #TOR Routen würden, wäre #Cloudflare auf einmal nicht mehr scheiß egal." by @[kromonos](https://social.snopyta.org/@kromonos/104213914131776937)
 
+"I'm uncomfortable not because of DNS, but because Cloudflare's MITMing /everything/." by @[IceWolf](https://meow.social/@IceWolf/104252838568518721)
+
+"I stopped reading Niebezpiecznik, most popular polish security website, exactly because they use CloudFlare. It's pain in the ass. And not due to security concerns but usability concerns. If I have to fill 2-5 captchas every time I visit a website I stop visiting it." by @[pk](https://freeradical.zone/@pk/104256564189826563)
+
 "the irony of linking to #gitlab, while criticizing the usage of #cloudflare: gitlab also uses cloudflare. It's a mess..." by @[syster](https://social.linux.pizza/@syster/104207835323296120)
 
 "I was going to start contributing to that wiki, but then I noticed it's a #CloudFlare site.  I will not contribute to a CF asset." by @[aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104149529821644159)
