@@ -15,7 +15,7 @@
 
 | List name | Description |
 | -------- | -------- |
-| **/domain/cloudflare_?.txt**     | **Split files (base domain)**     |
+| /domain/cloudflare_?.txt     | Split files (base domain)     |
 | ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not anymore     |
 | cloudflare_supporter.txt | who is using Cloudflare or endorsing Cloudflare. (URL only) |
 
@@ -93,9 +93,22 @@ Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.t
 
 | List name | Description |
 | -------- | -------- |
-| **/domain/(cdnName).txt**     | **Split files (FQDN)**     |
+| /domain/zcdn_(CDN_Code).txt     | Split files (FQDN)     |
 | /cidr_data/?.txt     |  CIDR, ASN    |
 
+```
+CDN_Code
+
+Z1 Amazon
+Z2 Akamai
+//Z3 Cloudflare
+Z4 Imperva
+Z5 Google
+Z6 Microsoft
+Z7 INAP
+Z8 Sucuri
+Z9 Fastly
+```
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 
@@ -140,7 +153,8 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 | List name | Description |
 | -------- | -------- |
-| **/fqdn/anti_tor_fqdn.txt**     | **Split files (FQDN)**     |
+| /fqdn/attd.txt     | Split files, Everything (FQDN)     |
+| /fqdn/attd_(com|net|org).txt     | Split files, .com/.net/.org only (FQDN)     |
 
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
@@ -177,9 +191,12 @@ If your website is on this list, you better talk with your network administrator
 
 Are you sure? There are two ways to remove yourself.
 First option is just _*remove* it from the list_ and _create a pull request_.
-Second option is _wait 1 year_. Our system will revisit your website as a Tor user. If you're not blocking us, you will be removed automatically.
+Second option is _wait 1 year_. Our system will revisit your website as a Tor user.
 
-**If your website is using Cloudflare, there's a higher chance that we receive rejection webpage. Do not use cloudflare.**
+If you're not blocking Tor users, you will be removed automatically.
+
+- If your website is using Cloudflare
+ - There's a higher chance that we receive rejection webpage from Cloudflare. Do not use cloudflare.
 
 </details>
 
@@ -197,7 +214,7 @@ A or B will be enough. Thank you for your contribution.
 - Type A: Push to CodeBerg
 
 1. Log in to *CodeBerg*.
-  - Do note that Codeberg is blocking temporary email services.
+  - **WARNING**: Do note that Codeberg is blocking temporary email services and some minor email providers(not temporary email).
   - If you're Tor user, we recommend 'type B'.
 2. Click "*Fork*" button. (top-left corner)
 3. Edit text file.
@@ -211,7 +228,7 @@ A or B will be enough. Thank you for your contribution.
 - Anti-TOR
   - Just use "_Is it blocking Tor?_" API.
 
-Your contribution will be pushed to Codeberg(or PSS' you) automatically within a week.
+Your contribution will be pushed to Codeberg automatically within a week.
 
 </details>
 
@@ -333,6 +350,7 @@ If `the owner` moved away from `cloudflare` **completely**, you are welcome to a
 
 4. If you got `---Finish---`, the domain _might_ stopped using Cloudflare. We'll _investigate_ and remove it - or not.
   - wait some days and scan again to see whether the domain is removed
+
 
 `Only a few Cloudflare user leave Cloudflare. False positive is uncommon.`
 

@@ -1,6 +1,6 @@
 # CDN users FQDN list
 
-- Cloudflare data is [/cloudflare_users/domains](../../cloudflare_users/domains)
+- Cloudflare data (code "Z3") is [/cloudflare_users/domains](../../cloudflare_users/domains)
 
 
 
