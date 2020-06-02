@@ -15,7 +15,7 @@
 
 | List name | Description |
 | -------- | -------- |
-| **/domain/cloudflare_?.txt**     | **Split files (base domain)**     |
+| /domain/cloudflare_?.txt     | Split files (base domain)     |
 | ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not anymore     |
 | cloudflare_supporter.txt | who is using Cloudflare or endorsing Cloudflare. (URL only) |
 
@@ -93,9 +93,22 @@ Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.t
 
 | List name | Description |
 | -------- | -------- |
-| **/domain/(cdnName).txt**     | **Split files (FQDN)**     |
+| /domain/zcdn_(CDN_Code).txt     | Split files (FQDN)     |
 | /cidr_data/?.txt     |  CIDR, ASN    |
 
+```
+CDN_Code
+
+Z1 Amazon
+Z2 Akamai
+//Z3 Cloudflare
+Z4 Imperva
+Z5 Google
+Z6 Microsoft
+Z7 INAP
+Z8 Sucuri
+Z9 Fastly
+```
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 
@@ -140,7 +153,7 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 | List name | Description |
 | -------- | -------- |
-| **/fqdn/anti_tor_fqdn.txt**     | **Split files (FQDN)**     |
+| /fqdn/anti_tor_fqdn.txt     | Split files (FQDN)     |
 
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
@@ -197,7 +210,7 @@ A or B will be enough. Thank you for your contribution.
 - Type A: Push to CodeBerg
 
 1. Log in to *CodeBerg*.
-  - Do note that Codeberg is blocking temporary email services.
+  - **WARNING**: Do note that Codeberg is blocking temporary email services and some minor email providers(not temporary email).
   - If you're Tor user, we recommend 'type B'.
 2. Click "*Fork*" button. (top-left corner)
 3. Edit text file.
@@ -211,7 +224,7 @@ A or B will be enough. Thank you for your contribution.
 - Anti-TOR
   - Just use "_Is it blocking Tor?_" API.
 
-Your contribution will be pushed to Codeberg(or PSS' you) automatically within a week.
+Your contribution will be pushed to Codeberg automatically within a week.
 
 </details>
 
