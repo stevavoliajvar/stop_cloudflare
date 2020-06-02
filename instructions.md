@@ -190,9 +190,12 @@ If your website is on this list, you better talk with your network administrator
 
 Are you sure? There are two ways to remove yourself.
 First option is just _*remove* it from the list_ and _create a pull request_.
-Second option is _wait 1 year_. Our system will revisit your website as a Tor user. If you're not blocking us, you will be removed automatically.
+Second option is _wait 1 year_. Our system will revisit your website as a Tor user.
 
-**If your website is using Cloudflare, there's a higher chance that we receive rejection webpage. Do not use cloudflare.**
+If you're not blocking Tor users, you will be removed automatically.
+
+- If your website is using Cloudflare
+ - There's a higher chance that we receive rejection webpage from Cloudflare. Do not use cloudflare.
 
 </details>
 
@@ -346,6 +349,7 @@ If `the owner` moved away from `cloudflare` **completely**, you are welcome to a
 
 4. If you got `---Finish---`, the domain _might_ stopped using Cloudflare. We'll _investigate_ and remove it - or not.
   - wait some days and scan again to see whether the domain is removed
+
 
 `Only a few Cloudflare user leave Cloudflare. False positive is uncommon.`
 
