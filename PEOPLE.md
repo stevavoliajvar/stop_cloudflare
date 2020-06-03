@@ -2603,6 +2603,8 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 "Cloudflare silently deleted my DNS records" by @[hackeroo](https://botsin.space/@hackeroo/103715714895415788)
 
+"Note as well that 8 states force registration through a #CloudFlare site. The voters of those states probably have no idea they're giving their SSN, DL#, & home address to CloudFlare Inc." by @[resist1984](https://social.privacytools.io/@resist1984/103761564660249556)
+
 "NPM’s outage and Cloudflare’s communication... what a mess" by @[zerok](https://chaos.social/@zerok/103681659450407389)
 
 "It is quite apparent that the internet needs to move away from #cloudflare 
