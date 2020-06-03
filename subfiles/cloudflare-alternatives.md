@@ -31,4 +31,4 @@ CDNJS is sponsored by Cloudflare. It might use it in the background.
 | Netlify | Uses Amazon AWS which is also a content delivery network. It would be hypocritical to include it. |
 | Siteground | Tor-hostile people. |
 |jsDelivr | Uses Cloudflare, see their [network page](https://www.jsdelivr.com/network) |
-| Gitlab pages      | uses Google and CloudFlare servers           | Free | https://gitlab.com/pages/ (GitLab is now Cloudflared) |
+| Gitlab pages      | GitLab is now Cloudflared) |
