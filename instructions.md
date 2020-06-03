@@ -154,7 +154,7 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 | List name | Description |
 | -------- | -------- |
 | /fqdn/attd.txt     | Split files, Everything (FQDN)     |
-| /fqdn/attd_(com|net|org).txt     | Split files, .com/.net/.org only (FQDN)     |
+| /fqdn/attd_(com/net/org).txt     | Split files, .com/.net/.org only (FQDN)     |
 
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
@@ -211,7 +211,7 @@ If you're not blocking Tor users, you will be removed automatically.
 
 A or B will be enough. Thank you for your contribution.
 
-- Type A: Push to CodeBerg
+> Type A: Push to CodeBerg
 
 1. Log in to *CodeBerg*.
   - **WARNING**: Do note that Codeberg is blocking temporary email services and some minor email providers(not temporary email).
@@ -220,7 +220,7 @@ A or B will be enough. Thank you for your contribution.
 3. Edit text file.
 4. Click *Double-arrow* button to create a *new pull request*.
 
-- Type B: Just scan the FQDN
+> Type B: Just scan the FQDN
 
 - Cloudflare/CDN
   - Scan FQDN on "[Is MITM?](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
@@ -241,20 +241,20 @@ Your contribution will be pushed to Codeberg automatically within a week.
 </summary>
 
 
-This procedure will give you a stop_cloudflare fork with a
-privacy-respecting configuration to do pushes with SSH over Tor using
-codeberg.org("CDB").  This procedure is designed for ***linux***.
+This procedure will give you a stop_cloudflare fork with a privacy-respecting configuration to do pushes with SSH over Tor using codeberg.org("CDB").
+Below procedure is designed for ***linux***.
 The first step covers Windows too, but these instructions probably
 need more adaptations for Windows and other platforms.
 
 
 - Linux: `aptitude install git tor ssh`
-- Windows: Download `https://github.com/git-for-windows/git/releases/PortableGit-2.21.0-64-bit.7z` & run `git-bash.exe`
+- Windows: Download `PortableGit` from [Github](https://github.com/git-for-windows/) & run `git-bash.exe`
 
-1. install Git, SSH(Not Windows), and Tor (if you haven't already)
-1. create a `codeberg.org` account (username "snowden" will be used for this example)
-1. create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_codeberg-snowden`
-1. edit `$HOME/.ssh/config`:
+1. Install Git, SSH(Not Windows), and Tor (if you haven't already)
+1. Create a `codeberg.org` account (username "snowden" will be used for this example)
+  - **NOTICE**: Codeberg is blocking temporary email services and some minor email providers(not temporary email).
+1. Create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_codeberg-snowden`
+1. Edit `$HOME/.ssh/config`:
 ```
     host codeberg.org
          hostname     codeberg.org
