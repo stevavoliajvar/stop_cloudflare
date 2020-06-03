@@ -6,7 +6,7 @@
 ---
 
 
-## No Cloudflare
+## Stop Cloudflare
 
 
 "The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the [U.S. company](https://en.wikipedia.org/wiki/Cloudflare).
@@ -175,11 +175,8 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 * [Cloudflare Inc.](cloudflare_inc/)
 * [Cloudflare Users](cloudflare_users/)
 * [Cloudflare Domains](cloudflare_users/domains/)
-  * [you/cloudflare](https://gitea.com/you/cloudflare)
 * [Non-Cloudflare CDN users](not_cloudflare/)
-  * [you/cdn](https://gitea.com/you/cdn)
 * [Anti-Tor users](anti-tor_users/)
-  * [you/antitor](https://gitea.com/you/antitor)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)

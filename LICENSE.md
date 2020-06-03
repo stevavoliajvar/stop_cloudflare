@@ -2,10 +2,10 @@
 
 * /globalist/* (Globalist) -- [GNU GPLv3](globalist/LICENSE)
 * /pdf/* -- Unknown (you can find a copy everywhere. Thanks to authors)
-* Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/)
+* Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
 
-This repository, _stop\_cloudflare (aka cloudflare-tor)_, is in the PUBLIC DOMAIN (CC0).
+This repository, cloudflare-tor (aka _stop\_cloudflare)_, is in the `PUBLIC DOMAIN (CC0)`/`WTFPL`.
 
 It was created anonymously, in public, for the use of the world to resist [Cloudflare](https://www.cloudflare.com/).  
   

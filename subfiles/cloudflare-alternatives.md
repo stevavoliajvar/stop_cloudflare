@@ -19,7 +19,6 @@ Cloudflare.
 | ----------------- | --------------------------------- | ------ | ---- |
 | PerimeterX        | not gratis                        | ? | - |
 | Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
-| Gitlab pages      | uses Google servers           | Free | https://gitlab.com/pages/ (WARNING: Some area of Gitlab is Cloudflare) |
 | Surge.sh      | uses custom servers           | Free | https://surge.sh/ |
 
 ## Not researched yet
@@ -32,3 +31,4 @@ CDNJS is sponsored by Cloudflare. It might use it in the background.
 | Netlify | Uses Amazon AWS which is also a content delivery network. It would be hypocritical to include it. |
 | Siteground | Tor-hostile people. |
 |jsDelivr | Uses Cloudflare, see their [network page](https://www.jsdelivr.com/network) |
+| Gitlab pages      | GitLab is now Cloudflared |

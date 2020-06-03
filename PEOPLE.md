@@ -52,6 +52,12 @@ Awesome! Use Cloudflare!
 ```
 -- [Robin Wils](https://linuxrocks.online/@RMW)
 
+```
+I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
+Activism is a duty & ethics trumps netiquette.
+```
+-- [Activist](https://activism.openworlds.info/@aktivismoEstasMiaLuo/103923473080989041)
+
 
 ---
 
@@ -212,6 +218,10 @@ Awesome! Use Cloudflare!
 ## Forum / Wiki
 </summary>
 
+
+"[Are CAPTCHAs harder to solve on TOR?](https://old.reddit.com/r/TOR/comments/gu7p75/are_captchas_harder_to_solve_on_tor/)"
+
+"[Can we stop using Cloudflare?](https://old.reddit.com/r/BitChute/comments/cmgmur/can_we_stop_using_cloudflare/)"
 
 "[US Bank website is not in Cloudflare DNS](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/)"
 
@@ -2592,6 +2602,8 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 "I used the "shocking" fact that I noticed that mastodon.social is using "bad-cookie" #Cloudflare, to once again remind people that mastodon.social is overloaded." by @[Ajz](https://mastodon.nl/@Ajz/103709379040402180)
 
 "Cloudflare silently deleted my DNS records" by @[hackeroo](https://botsin.space/@hackeroo/103715714895415788)
+
+"Note as well that 8 states force registration through a #CloudFlare site. The voters of those states probably have no idea they're giving their SSN, DL#, & home address to CloudFlare Inc." by @[resist1984](https://social.privacytools.io/@resist1984/103761564660249556)
 
 "NPM’s outage and Cloudflare’s communication... what a mess" by @[zerok](https://chaos.social/@zerok/103681659450407389)
 
