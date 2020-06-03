@@ -52,6 +52,11 @@ Awesome! Use Cloudflare!
 ```
 -- [Robin Wils](https://linuxrocks.online/@RMW)
 
+```
+I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.  Activism is a duty & ethics trumps netiquette.
+```
+-- [Activist](https://activism.openworlds.info/@aktivismoEstasMiaLuo/103923473080989041)
+
 
 ---
 
