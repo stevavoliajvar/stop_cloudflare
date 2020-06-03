@@ -19,4 +19,4 @@ This add-on never send other information.
  
 
 Download add-on
-- [Firefox ESR / Chromium](https://api.searxes.eu.org/_/addon.php?give&for=isattlink)
+- [Firefox ESR / Chromium](https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/addon.php?give&for=isattlink)
