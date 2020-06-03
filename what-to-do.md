@@ -248,6 +248,9 @@ die();
 </summary>
 
 
+- Discord is using CloudFlare. Alternatives? We recommend [**Briar** (Android)](https://f-droid.org/en/packages/org.briarproject.briar.android/), [Ricochet (PC)](https://ricochet.im/), or [Tox over Tor Socks (Android/PC)](https://tox.chat/download.html).
+  - Briar includes Tor daemon so you don't have to install Orbot.
+
 - If you use Debian GNU/Linux, or any derivative, subscribe to [bug #831835](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
 
 - Always recommend these browsers.
@@ -265,7 +268,7 @@ Other software's privacy is imperfect. This doesn't mean Tor browser is "_perfec
 There is no 100% secure nor 100% private on the internet and technology.
 
 - Don't want to use "Tor"? You can use _any browser_ with [Tor daemon](https://packages.debian.org/search?searchon=names&keywords=tor).
-  - Note that the Tor project don't like this. Use `Tor Browser` if you are able to do so.
+  - Note that the Tor project [don't like this](https://support.torproject.org/tbb/tbb-9/). Use `Tor Browser` if you are able to do so.
 
 - It may be possible to use "Tor Browser" without Tor:
 
@@ -282,6 +285,8 @@ There is no 100% secure nor 100% private on the internet and technology.
 Let's talk about _other software's privacy_...
 
 - **If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)"**. ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in [many ways](https://spyware.neocities.org/articles/firefox.html).
+  - [Firefox rejects free speech, bans free speech](https://web.archive.org/web/20200423010026/https://reclaimthenet.org/firefox-rejects-free-speech-bans-free-speech-commenting-plugin-dissenter-from-its-extensions-gallery/)
+  - ["100+ downvotes. It seems like asking a software company to stick to... software is just too much these days."](https://old.reddit.com/r/firefox/comments/gutdiw/weve_got_work_to_do_the_mozilla_blog/fslbbb6/)
 
 - Remember, Mozilla is [using Cloudflare service](https://www.robtex.com/dns-lookup/www.mozilla.org). They're also using [Cloudflare's DNS service on their product](https://www.theregister.co.uk/2018/03/21/mozilla_testing_dns_encryption/) D'oh!
 
