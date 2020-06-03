@@ -6,7 +6,7 @@
 ---
 
 
-## No Cloudflare
+## Stop Cloudflare
 
 
 "The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the [U.S. company](https://en.wikipedia.org/wiki/Cloudflare).
