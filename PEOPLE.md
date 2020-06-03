@@ -213,6 +213,10 @@ Awesome! Use Cloudflare!
 </summary>
 
 
+"[Are CAPTCHAs harder to solve on TOR?](https://old.reddit.com/r/TOR/comments/gu7p75/are_captchas_harder_to_solve_on_tor/)"
+
+"[Can we stop using Cloudflare?](https://old.reddit.com/r/BitChute/comments/cmgmur/can_we_stop_using_cloudflare/)"
+
 "[US Bank website is not in Cloudflare DNS](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/)"
 
 "[Aliexpress not working with 1.1.1.1](https://community.cloudflare.com/t/aliexpress-not-working-with-1-1-1-1/167491)"
