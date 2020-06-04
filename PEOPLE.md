@@ -1,5 +1,9 @@
 # "Cloudflare, we have a problem"
 
+
+This is a list of voices. **THIS DOES NOT MEAN WE ENDORSE YOU.** If you want to add your blog feel free to do so.
+
+
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/people.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfblockbothuman.jpg)
 
@@ -2587,15 +2591,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 "Wenn wir von heute auf morgen alle über #TOR Routen würden, wäre #Cloudflare auf einmal nicht mehr scheiß egal." by @[kromonos](https://social.snopyta.org/@kromonos/104213914131776937)
 
-"I'm uncomfortable not because of DNS, but because Cloudflare's MITMing /everything/." by @[IceWolf](https://meow.social/@IceWolf/104252838568518721)
-
 "I stopped reading Niebezpiecznik, most popular polish security website, exactly because they use CloudFlare. It's pain in the ass. And not due to security concerns but usability concerns. If I have to fill 2-5 captchas every time I visit a website I stop visiting it." by @[pk](https://freeradical.zone/@pk/104256564189826563)
 
 "the irony of linking to #gitlab, while criticizing the usage of #cloudflare: gitlab also uses cloudflare. It's a mess..." by @[syster](https://social.linux.pizza/@syster/104207835323296120)
 
 "I was going to start contributing to that wiki, but then I noticed it's a #CloudFlare site.  I will not contribute to a CF asset." by @[aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104149529821644159)
-
-"I'm more inclined to trust a storage provider than someone who's /already/ reading through your data to do whatever service they provide." by @[IceWolf](https://meow.social/@IceWolf/104167691683423675)
 
 "Save the Internet, boycott #Cloudflare" by @[Ajz](https://mastodon.nl/@Ajz/103712485183183547)
 
@@ -2630,8 +2630,6 @@ Kennt sich da jemand aus? In der Datenschutzerklärung des Moodles findet sich d
 "If you had ever trusted CloudFlare to work in the interests of it's "customers", you were a fool to begin with. " by @[fglt](https://soc.fglt.nl/objects/c91371f7-2a56-4c5f-b5b1-1e1942a6e953)
 
 "Cloudflare and Google captcha are the worst enemies of tor." by @[lexa](https://mstdn.io/@lexa/103356277680824722)
-
-"They may trust you, but do they trust Cloudflare?" by @[IceWolf](https://meow.social/@IceWolf/103358288466314935)
 
 "BTW, it doesn't matter who your CA is, the tunnel between outsiders & CF's site always terminates at CF.  So, for example, if you were a mastodon.social user, CF would see your username & unhashed pw full stop." by @[resist1984](https://social.privacytools.io/@resist1984/103359038780017782)
 
@@ -2682,8 +2680,6 @@ Kennt sich da jemand aus? In der Datenschutzerklärung des Moodles findet sich d
 "Can you trust CloudFlare with your personal data?" by @[Edent](https://mastodon.social/@Edent/103175943251084170)
 
 "wenn sich der Tagesspiegel nicht hinter #cloudflare verstecken würde, würde ich ihn wahrscheinlich auch lesen" by @[kromonos](https://metalhead.club/@kromonos/103136278965173255)
-
-"Not that I expect Cloudflare to be doing anything malicious, I'm just a little uncomfortable where passwords or anything sensitive are involved." by @[IceWolf](https://meow.social/@IceWolf/103116651269844076)
 
 "To MITM an entire domain with CF you give Cloudflare authority over the entire domain’s DNS resolution. This is the best indicator of a full domain MITMing." by @[Trysdyn Black](https://marf.space/objects/6a07884a-cfe8-4eeb-9486-63ffe791259f)
 
