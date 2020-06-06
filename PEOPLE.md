@@ -2591,6 +2591,27 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 "Wenn wir von heute auf morgen alle über #TOR Routen würden, wäre #Cloudflare auf einmal nicht mehr scheiß egal." by @[kromonos](https://social.snopyta.org/@kromonos/104213914131776937)
 
+"grrr ... hat schon wieder aktiviert ... Jetzt hab ich aber echt kein Bock mehr nochmal den Support an zu schreiben und such mir einen neuen Registrar ..." by [kromonos](https://social.snopyta.org/@kromonos/104258658258417328)
+
+"I read that article w/ in mind (esp. ). It's implied: rebels are most likely someone w/nothing to lose. OTOH, some ppl fail to rebel for that very same reason. E.g. a non- user assumes nothing is lost by patronizing CloudFlare sites."What drives forward fights against an oppressive society is a rival vision – a vision of equality, liberty and justice, and a sense that these should be defended, whatever the consequences."Rival visions are in short supply." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104252347476274862)
+
+"es ese justamente el punto.¿Donde esta el negocio de ?Yo tengo la sospecha que es una agencia gubernamental, financiada por el gob.(No olvidemos que hace unos meses atras se descubrio que la mayor empresa de de comunicaciones suiza, que desde mediados de los 60s trabajaba con mas de 100 paises del cono sur, resulto ser una aencia de los servicios secretos de y )No me sorprenderia que tambien lo fuera." by [0j0](https://mastodon.social/@0j0/104251846298123390)
+
+"Ich hab DIE Idee. Wir lassen künftig nur noch über surfen. Wetten, dass er dann bei genauso ausflippt wie bei ?" by [kromonos](https://social.snopyta.org/@kromonos/104245463412211476)
+
+"they've censored LGBT resources under "sexual content" with their DNS scheme, they harass tor users with captchas to access almost all their websites by default, which pins tracking information to you in an attempt to deanonymize you (Its s Google Captcha, what do you expect). They've consolidated a large part of the web and its traffic under their control and undermine the idea that encrypted web connections should be going directly to a site, untampered with.So if you're a large company with a stranglehold on internet traffic, the ability to track users, and view the unencrypted contents of their connections, what do you think is an obvious way to profit?Don't trust CloudFlare. You don't need another entity that you invest ISP-levels of blind faith in.The following blogposts outline the general technical issues with them and similar services outside their recent homophobic streak. With links to other blog posts which cover particular details in more depth:" by [thufie](https://social.pixie.town/@thufie/104254775245050772)
+
+""Cloudflare, swearing it is not a joke, have launched a censored DNS product that out the gate blocks LGBTQ support and aid sites as well as sex education resources. (They have unblocked some of these now in response to complaints, but many remain inaccessible via their filter)"" by [thufie](https://social.pixie.town/@thufie/103929455267842999)
+
+"Ppl should already be boycotting gitlab. Gitlab.com is quite evil even before enters the picture: & ." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/103851993446687912)
+
+"I was trying to figure out where all my views are coming from and I discovered "/r/selfhosters" , which is one of those subreddits with an ironic name since all the users on it are actually sysadmins for large corporations. The comments were all a bunch of negative squealing about how impolite I was followed by a bunch of excuses. I'm glad some of these corporate web motherfuckers took it personally." by [lunaterra](https://cyberia.social/@lunaterra/101554142044753504)
+
+"Don't Trust CloudFlare! I finally finished writing my first real blog post about why people should avoid CloudFlare (which should be spelled camel-case for accessibility purposes )." by [lunaterra](https://cyberia.social/@lunaterra/101548514349857054)
+
+"I'm interested in having somebody help me with a Graphic depicting a number of Mastodon instances in a CloudFlare "cloud" communicating insecurely in a way that CloudFlare is snooping on. Maybe the cloud has a magnifying glass? idkAnyways, contact me if you want to help, this would be a part of my blog post I'm working on and I'd providr attribution of course." by [lunaterra](https://cyberia.social/@lunaterra/101402981464718532)
+
+
 "I stopped reading Niebezpiecznik, most popular polish security website, exactly because they use CloudFlare. It's pain in the ass. And not due to security concerns but usability concerns. If I have to fill 2-5 captchas every time I visit a website I stop visiting it." by @[pk](https://freeradical.zone/@pk/104256564189826563)
 
 "the irony of linking to #gitlab, while criticizing the usage of #cloudflare: gitlab also uses cloudflare. It's a mess..." by @[syster](https://social.linux.pizza/@syster/104207835323296120)
