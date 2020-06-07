@@ -524,6 +524,25 @@ Activism is a duty & ethics trumps netiquette.
 
 "For anyone having issues accessing the repo from the UK you will need to use a vpn as cloudflare is blocking access from the UK for some reason." by @[F2P_Gamer](https://nitter.net/F2P_Gamer/status/1233417591512805376)
 
+"I've been blocked by and all of their employees. They only believe in censorship when it's against their critics. They will protect websites that spew hate and racism but can't tolerate criticism. Hypocrisy Cloudflare racist" by [phyzonloop](https://twitter.com/phyzonloop/status/1269421928374247424)
+
+"You're gonna hide this tweet because you're fragile when it comes to criticism, but if you actually cared about this issue you would be more careful about what sort of sites and content you allow to be hosted through your service. What you do speaks louder than a scripted comment" by [henroidt](https://twitter.com/HenroidT/status/1269420519129935872)
+
+"I love that Cloudflare is protecting the trash website and is also listed as a traitor to America. I'm starting to think these kids are traitors themselves!" by [mcminer_d2](https://twitter.com/mcminer_d2/status/1269411973546029060)
+
+"Since I have your attention and you've been ignoring my tweets, care you explain how Cloudflare can be so bold as to change its Twitter logo black and pretend to support BLM while serving content for and protecting RACIST websites? Your actions speak louder than your black logo." by [phyzonloop](https://twitter.com/phyzonloop/status/1269399518119936011)
+
+"Ryan, you're being a fine little minion again towing the company line. Cloudflare is delivering the content. Why your semantics make it look like your not liable, you really are. "We're not the host" means nothing to victims of the sites you provide services to." by [phyzonloop](https://twitter.com/phyzonloop/status/1269399104842579970)
+
+"Olhigpug y install via itunes is not easy and everything is it s delivered by cloudflare your mitm cdn when" by [macmelonmac](https://twitter.com/MacMelonMac/status/1260629890921005056)
+
+"Isn't that a beautifully written sentiment... So why does Cloudflare protect websites like chimpmania dot com, a disgustingly racist website? Their words do not align with their lack of action." by [phyzonloop](https://twitter.com/phyzonloop/status/1269092386766012422)
+
+"Why would anyone want to work for a company that enables and promotes websites dedicated to hate speech and racism?" by [phyzonloop](https://twitter.com/phyzonloop/status/1268014884819795969)
+
+"Please be sure to ask and why Cloudflare chooses to be the largest enabler and CDN for hate speech on the internet. Tell Matthew I said hello, since he blocked me despite being against censorship. He let's racists on his infrastructure but blocks critics." by [phyzonloop](https://twitter.com/phyzonloop/status/1268004661564510210)
+
+
 "So is everyone ignoring the multiple times Cloudflare has gone offline and taken down a large chunk of the internet with it? Or the hassle it has caused normal users who it suddenly decides are worthy of a block?" by @[Foxhack](https://twitter.com/Foxhack/status/1232758206209777665)
 
 "i've seen one of my client sites get an ip block from cloudflare, just what I need when people start calling unable to browse because their DNS over HTTPS is blocked" by @[dakotathekat](https://twitter.com/dakotathekat/status/1232738497280331782)
@@ -2590,6 +2609,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 "Du hast eine Domain bei #INWX liegen? Du findest #cloudflare scheiße? Dann schreib bitte eine Mail an den Support, dass die cloudflare für deren Webseite bitte wieder abschalten sollen. Ja, aktuell ist die ganze Seite samt Zertifikat von bzw. hinter Cloudflare versteckt. Je mehr Leute sich beschweren, desto besser stehen die Erfolgschancen. Bitte teilen!" by @[nuron](https://social.tchncs.de/@nuron/104258767881075941)
 
 "Wenn wir von heute auf morgen alle über #TOR Routen würden, wäre #Cloudflare auf einmal nicht mehr scheiß egal." by @[kromonos](https://social.snopyta.org/@kromonos/104213914131776937)
+
+"I do not federate with instances behind cloudflare.Und damit geht es:" by [kromonos](https://social.snopyta.org/@kromonos/104298078058044337)
+
+"My blog is just a FuckCloudFlare blog now, deal with it" by [lunaterra](https://cyberia.social/@lunaterra/101825691714288137)
+
 
 "grrr ... hat schon wieder aktiviert ... Jetzt hab ich aber echt kein Bock mehr nochmal den Support an zu schreiben und such mir einen neuen Registrar ..." by [kromonos](https://social.snopyta.org/@kromonos/104258658258417328)
 
