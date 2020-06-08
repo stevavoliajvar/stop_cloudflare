@@ -524,6 +524,33 @@ Activism is a duty & ethics trumps netiquette.
 
 "For anyone having issues accessing the repo from the UK you will need to use a vpn as cloudflare is blocking access from the UK for some reason." by @[F2P_Gamer](https://nitter.net/F2P_Gamer/status/1233417591512805376)
 
+"Good luck. will not help you. They profit from sites like that. They don't care if there are victims from the sites they protect." by [phyzonloop](https://twitter.com/phyzonloop/status/1269774503657254918)
+
+"As a site dedicated to cybercrime, why would you post anything about They are the single largest CDN and proxy provider for cybercriminals in the world. Page 1 of the "How to be a cybercriminal handbook" is "Setting up your Cloudflare account". Why support them?" by [phyzonloop](https://twitter.com/phyzonloop/status/1269774234508840961)
+
+"Come on... close your eyes and pretend supports BLM. Don't ask questions, you'll get blocked. Cloudflare only censors its critics, not the websites that actually do harm to people." by [phyzonloop](https://twitter.com/phyzonloop/status/1269769083492487169)
+
+"I'm all for a good laugh, even at the expense of someone else. But I think this demonstrates a more deep rooted sentiment that has against rule of law. Not surprising since he loves to help the worst sites on the internet... Cloudflare - making the internet worse!" by [phyzonloop](https://twitter.com/phyzonloop/status/1269768386445271042)
+
+"in that situation, even if the app is verifying the certificate hostname, it will believe it's talking to the origin server when it's actually talking to cloudflare's mitm" by [mountain_ghosts](https://twitter.com/mountain_ghosts/status/1263040584161398784)
+
+"however, certificate checking would not prevent this -- cloudflare could still do things that allow it to mitm the origin service, because of how cloudflare works the core problem here is whether or not you trust cloudflare, not what specific crypto stuff you're doing" by [mountain_ghosts](https://twitter.com/mountain_ghosts/status/1263039980114513920)
+
+"Anyone out there a customer that utilizes CAPTCHA that is willing to help me out? I am having trouble accessing websites that use resources and fear we are on some sort of blacklist." by [badger_fi](https://twitter.com/Badger_Fi/status/1267904771383595014)
+
+"I hate the new Cloudflare CAPTCHA... Maybe I'm a robot, I can't solve the ones that ask me to select the images that contain motorbikes..." by [eliotcougar](https://twitter.com/eliotcougar/status/1266371595670454281)
+
+"What’s the deal with this Cloudflare CAPTCHA every time I visit the site? Is this going to be an ongoing thing or is it something new that needs its kinks worked out?" by [simoncoopey](https://twitter.com/SimonCoopey/status/1266371153766912000)
+
+"City of Minneapolis web sites are inaccessible. Captcha hell. Then offline message from Cloudflare." by [dansteeves68](https://twitter.com/dansteeves68/status/1266364529400741888)
+
+"Can you please take infostrada (second largest isp in italy) ip range off blacklist? Bored of having captcha on 3 different connection from same ISP for all cloudflare services / games. Range starting with 151.51 apparently, thanks...." by [ormad](https://twitter.com/ormad/status/1265031713077571584)
+
+"congrats, you just lost me as a client (not potential one, I've spent like a hundred dollars already), I can't fucken pass new cloudflare captcha. so long." by [kirilltitov_com](https://twitter.com/kirilltitov_com/status/1264306018693021697)
+
+"YOUR NEW CAPTCHA ABOUT TRUCKS IS LITERALLY IMPOSSIBLE TO PASS, ARE YOU SERIOUS? TARGET WEBSITE LOOSES ME AS A CLIENT BECAUSE OF UR FCKEN CAPTCHA, BRING BACK RECAPTCHA" by [kirilltitov_com](https://twitter.com/kirilltitov_com/status/1264304939263766529)
+
+
 "I've been blocked by and all of their employees. They only believe in censorship when it's against their critics. They will protect websites that spew hate and racism but can't tolerate criticism. Hypocrisy Cloudflare racist" by [phyzonloop](https://twitter.com/phyzonloop/status/1269421928374247424)
 
 "You're gonna hide this tweet because you're fragile when it comes to criticism, but if you actually cared about this issue you would be more careful about what sort of sites and content you allow to be hosted through your service. What you do speaks louder than a scripted comment" by [henroidt](https://twitter.com/HenroidT/status/1269420519129935872)
@@ -2609,6 +2636,9 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 "Du hast eine Domain bei #INWX liegen? Du findest #cloudflare scheiße? Dann schreib bitte eine Mail an den Support, dass die cloudflare für deren Webseite bitte wieder abschalten sollen. Ja, aktuell ist die ganze Seite samt Zertifikat von bzw. hinter Cloudflare versteckt. Je mehr Leute sich beschweren, desto besser stehen die Erfolgschancen. Bitte teilen!" by @[nuron](https://social.tchncs.de/@nuron/104258767881075941)
 
 "Wenn wir von heute auf morgen alle über #TOR Routen würden, wäre #Cloudflare auf einmal nicht mehr scheiß egal." by @[kromonos](https://social.snopyta.org/@kromonos/104213914131776937)
+
+"The election system is broken in terms of privacy. Citizens are forced to decide: 1) give up the right to vote, or 2) share their physical address with the state, who will then publish it for anyone to access. On top of that, 8 states now force all voters to share the public info + their SSN or DL with CloudFlare Inc.I think Alaska is the only state sensible enough to give voters a way to keep their physical address private." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104304629350973064)
+
 
 "I do not federate with instances behind cloudflare.Und damit geht es:" by [kromonos](https://social.snopyta.org/@kromonos/104298078058044337)
 
