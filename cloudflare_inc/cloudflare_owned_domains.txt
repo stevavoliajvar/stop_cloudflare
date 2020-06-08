@@ -7,6 +7,7 @@ cloudflare-quic.com
 cloudflare.com
 cloudflare.com.ve
 cloudflare.net
+cloudflare.tv
 cloudflareaccess.com
 cloudflareapi.com
 cloudflareapps.com
