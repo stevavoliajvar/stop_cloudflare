@@ -524,6 +524,9 @@ Activism is a duty & ethics trumps netiquette.
 
 "For anyone having issues accessing the repo from the UK you will need to use a vpn as cloudflare is blocking access from the UK for some reason." by @[F2P_Gamer](https://nitter.net/F2P_Gamer/status/1233417591512805376)
 
+"If you're on a VPN endpoint, ReCaptcha always thinks you're a robot at peak hours, no matter how many challenges you solve. There needs to be a Privacy Pass for ReCaptcha, not just Cloudflare's own Captcha service." by [jack_y_zhang](https://twitter.com/Jack_Y_Zhang/status/1269817792448036865)
+
+
 "Good luck. will not help you. They profit from sites like that. They don't care if there are victims from the sites they protect." by [phyzonloop](https://twitter.com/phyzonloop/status/1269774503657254918)
 
 "As a site dedicated to cybercrime, why would you post anything about They are the single largest CDN and proxy provider for cybercriminals in the world. Page 1 of the "How to be a cybercriminal handbook" is "Setting up your Cloudflare account". Why support them?" by [phyzonloop](https://twitter.com/phyzonloop/status/1269774234508840961)
