@@ -254,6 +254,7 @@ die();
 
 - Discord is using CloudFlare. Alternatives? We recommend [**Briar** (Android)](https://f-droid.org/en/packages/org.briarproject.briar.android/), [Ricochet (PC)](https://ricochet.im/), or [Tox over Tor Socks (Android/PC)](https://tox.chat/download.html).
   - Briar includes Tor daemon so you don't have to install Orbot.
+  - Qwtch developers, Open Privacy (Canada), deleted cloudflare-tor project from their git service without notice.
 
 - If you use Debian GNU/Linux, or any derivative, subscribe to [bug #831835](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835). And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
 
