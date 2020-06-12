@@ -123,12 +123,16 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 - Do not use Cloudflare solution, Period.
   - You can do better than that, *right*? Here's how to [remove Cloudflare subscriptions, plans, domains, or accounts](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts).
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/htmlalertcloudflare.jpg)
+
 - Want more customers? You know what to do. Hint is "_above line_".
-  - Hello, you wrote "​[We take your privacy seriously](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously)" but I got "_Error 403 Forbidden Anonymous Proxy Not Allowed_". Why are you blocking Tor? Or VPN?
+  - Hello, you wrote "[We take your privacy seriously](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously)" but I got "_Error 403 Forbidden Anonymous Proxy Not Allowed_". Why are you blocking Tor? Or VPN?
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/anonexist.jpg)
 
 - Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)
 
 - Using Cloudflare to proxy your "API service", "Client(software) [update server](https://forums.clamwin.com/viewtopic.php?t=4915)" or "RSS feed" will harm your customer. A customer called you and said "_I can't use your API anymore_", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
   - There are many RSS reader client and RSS reader online service. Why are you publishing RSS feed if you're not allowing people to subscribe?
