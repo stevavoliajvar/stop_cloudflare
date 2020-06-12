@@ -261,11 +261,11 @@ die();
 
 | Name | Developer | Support | Comment |
 | -------- | -------- | -------- | -------- |
-| **[Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)** | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/) | PC (Win, Mac, Linux)  _Not Tor_ |
-| **[Bromite](https://www.bromite.org/fdroid)** | Bromite | [Link](https://github.com/bromite/bromite/issues) | Android  _Not Tor_ |
-| [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux) |
-| [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android |
-| [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS |
+| [Ungoogled-Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | Eloston | [Link](https://codeberg.org/Eloston/ungoogled-chromium/) | PC (Win, Mac, Linux)  _Not Tor_ |
+| [Bromite](https://www.bromite.org/fdroid) | Bromite | [Link](https://github.com/bromite/bromite/issues) | Android  _Not Tor_ |
+| [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux)  _Tor_|
+| [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android  _Tor_|
+| [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS  _Tor_|
 
 
 Other software's privacy is imperfect. This doesn't mean Tor browser is "_perfect_".
