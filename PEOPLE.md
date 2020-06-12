@@ -1,7 +1,8 @@
 # "Cloudflare, we have a problem"
 
 
-This is a list of voices. **THIS DOES NOT MEAN WE ENDORSE YOU.** If you want to add your blog feel free to do so.
+This is just a list of voices. This **does not** mean we endorse you.
+If you want to add your blog feel free to do so.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/people.jpg)
@@ -130,7 +131,7 @@ Activism is a duty & ethics trumps netiquette.
 
 "[Is Cloudflare safe yet?](https://iscloudflaresafeyet.com)"
 
-"[Mozilla - Devil Incarnate: DNS over HTTPS](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/ghost/mozilla.html#cloudflare)" by [​DigDeeper](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/)
+"[Mozilla - Devil Incarnate: DNS over HTTPS](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/ghost/mozilla.html#cloudflare)" by [DigDeeper](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/)
 
 "[Cloudflare silently deleted my DNS records](https://web.archive.org/save/https://txti.es/cloudflare-deleted-my-dns)" by Cloudflare user
 
@@ -520,9 +521,34 @@ Activism is a duty & ethics trumps netiquette.
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live). (Too many to read)
 
 
+
+
+
+"For week I kept crying out to your team asking why I can't access certain website . You all played Innocence. Your up address shows what even cloudflare thinks" by [OnoDaniels](https://twitter.com/OnoDaniels/status/1271345731690024962)
+
+"Cloudflare yüksek ayarı nedeniyle RSS beslemesi okuyucu sorunları? Günlerce yayın okunamıyor." by [Organizer21](https://twitter.com/Organizer21/status/1268504927594328069)
+
+"Hi, I cannot visit your website. There is some problem with Cloudflare and my provider?  it works by hideproxy.me though" by [bartekzpl](https://twitter.com/bartekzpl/status/1268123154926448641)
+
+"You can clearly see #websites using #cloudflare are currently unavailable. 4 different hosting server and all using cloudflare are down." by [jerrylouisjeune](https://twitter.com/jerrylouisjeune/status/1266805960410046467)
+
+"Cloudflare me bloquea el acceso a su sitio" by [darkmaurice](https://twitter.com/darkmaurice/status/1271191477675319300)
+
+"jeez, I'm still stuck on this goddamn CloudFlare captcha (I tried so many times, it's worse than reCaptcha) and I still can't get through.. anyone knows how to fix this?" by [SonicHackintosh](https://twitter.com/SonicHackintosh/status/1270663370136449024)
+
+"facing this issue with my client's teachable account & mine too since past couple of days... Tried connecting with Cloudflare but they are having heavy flow of tickets" by [digitalpratik](https://twitter.com/digitalpratik/status/1270039798221172748)
+
+"EXCELLENT TRANSPARENCY! Minneapolis City Council that just voted to "Defund the Police!" blocks people from seeing a list of its members" by [AnnCoulter](https://twitter.com/AnnCoulter/status/1270087726206005248)
+
+"HEY FEDS! WHY IS the #eCFR WEBSITE DOWN? I KNOW Y'ALL HAVE A LOT GOING ON RN BUT WE KIND OF NEED THIS I'm getting a Cloudflare error??" by [laurenelizab](https://twitter.com/laurenelizab/status/1265760019921895424)
+
+"Is the cloudflare dashboard down?" by [kurtseifried](https://twitter.com/kurtseifried/status/1217855054188728321)
+
+"Is Cloudflare down?" by [ArtemR](https://twitter.com/ArtemR/status/1244331660285378560)
+
 "Your captcha is totally unusuable on a mobile browser (Samsung Internet). Yes, it spans out of the screen, and it's not scrollable. The website access is totally blocked to me." by @[sebsauvage_net](https://twitter.com/sebsauvage_net/status/1256195972436295682)
 
-"For anyone having issues accessing the repo from the UK you will need to use a vpn as cloudflare is blocking access from the UK for some reason." by @[F2P_Gamer](https://nitter.net/F2P_Gamer/status/1233417591512805376)
+"For anyone having issues accessing the repo from the UK you will need to use a vpn as cloudflare is blocking access from the UK for some reason." by @[F2P_Gamer](https://twitter.com/F2P_Gamer/status/1233417591512805376)
 
 "About time you guys fold under the pressure of public opinion and stop protecting hate speech sites like chimpmania dot dom, right? racism Cloudflare Hypocrisy BlackLivesMatter HateSpeech" by [phyzonloop](https://twitter.com/phyzonloop/status/1271240423193956352)
 
