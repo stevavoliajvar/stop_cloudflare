@@ -78,6 +78,8 @@ Activism is a duty & ethics trumps netiquette.
 </summary>
 
 
+"[Your Regular Reminder That the Internet Is a Fragile Place](https://slate.com/technology/2019/07/cloudflare-internet-outage-502-gateway-error.html)" by [Chip Brownlee](https://slate.com/author/chip-brownlee)
+
 "[Internet wobble caused by Cloudflare glitch](https://www.bbcnewsv2vjtpsuy.onion/news/technology-48841815)" by [BBC](https://www.bbcnewsv2vjtpsuy.onion/)
 
 "[CloudflareのDNSだと「5ちゃんねる」に接続できない？　ネットで話題に](https://www.itmedia.co.jp/news/articles/1908/09/news108.html)" by [itmedia](https://www.itmedia.co.jp/news/)
@@ -523,6 +525,11 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+
+
+"log_only_china is one of the most interesting internal CloudFlare variables that is spread all across the internet now." by [abdullin](https://twitter.com/abdullin/status/835379927486709760)
+
+"Hey Cloudflare, I keep getting Internal Server Errors when trying to login." by [Mayes](https://twitter.com/Mayes/status/991490815846469633)
 
 "For week I kept crying out to your team asking why I can't access certain website . You all played Innocence. Your up address shows what even cloudflare thinks" by [OnoDaniels](https://twitter.com/OnoDaniels/status/1271345731690024962)
 
