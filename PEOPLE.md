@@ -524,6 +524,35 @@ Activism is a duty & ethics trumps netiquette.
 
 "For anyone having issues accessing the repo from the UK you will need to use a vpn as cloudflare is blocking access from the UK for some reason." by @[F2P_Gamer](https://nitter.net/F2P_Gamer/status/1233417591512805376)
 
+"About time you guys fold under the pressure of public opinion and stop protecting hate speech sites like chimpmania dot dom, right? racism Cloudflare Hypocrisy BlackLivesMatter HateSpeech" by [phyzonloop](https://twitter.com/phyzonloop/status/1271240423193956352)
+
+"Meanwhile, also provides anonymity to clients who use their services to SCAM people who think they're donating to help fight against COVID. For every client doing good behind Cloudflare, there are several bad actors. Guaranteed." by [phyzonloop](https://twitter.com/phyzonloop/status/1271237880124510208)
+
+"Sorry, did you ask if I could sign you up to receive some unsolicited emails from some Cloudflare clients who are spammers? Why, yes, I'd gladly do that. Enjoy the reading!" by [phyzonloop](https://twitter.com/phyzonloop/status/1271237185480556544)
+
+"Cloudflare keeps blocking me with captcha no matter how many time I did the thing. It keeps asking me to click on the pictures countless time. What's going on? How many times do I need to do the captcha before you let me post on my patreon page?" by [boltertokokoro](https://twitter.com/BolterToKokoro/status/1271031248870408198)
+
+"The captcha from cloudflare is not working properly. Many cannot login to the EFT site." by [rpx666](https://twitter.com/rpx666/status/1270722689620078597)
+
+"registration is broken plz fix cloudflare pass captcha cannot jump to the registration page" by [jasonwang8855](https://twitter.com/jasonwang8855/status/1270700858888478721)
+
+"I know the reasons given to change captcha provider. But the new one always shows pictures after clicking the box so why the extra step and not go directly into the pictures? Waste of time, not a friendly UX." by [freitasm](https://twitter.com/freitasm/status/1270092088772669442)
+
+"I don't get on Yobit very often, but I've never had an issue using it. Today, cloudflare is blocking me completely. I tried 3 browsers and with and without VPN. It doesn't even load its Captcha to let me pass. What's going on? Spectrum is my ISP from USA." by [joe46791334](https://twitter.com/Joe46791334/status/1270085823132827654)
+
+"Hey, I want to buy a snipe on your website but I can't access it. Cloudflare blocks me from entering: Error 1020" by [dopy36](https://twitter.com/dopy36/status/1271016000134225923)
+
+"I've been trying for days to get into my drive. and it gives me an error message that while the first two steps are working, something like cloudflare is not?? What to do??? Pls help!!" by [mimi_thesound](https://twitter.com/MImi_TheSound/status/1270844682059149312)
+
+"is not working for anyone else?? I get a cloudflare error when i try to sign in (which I'm not even sure why I was signed out lol)" by [ryanpotterorg](https://twitter.com/ryanpotterorg/status/1270527693155708928)
+
+"I only get a 403 FORBIDDEN error from cloudflare." by [leontigris](https://twitter.com/LeonTigris/status/1270436494952607744)
+
+"I am getting the cloudflare error. I am not pursuing fixing it because I don't care that much. It's easier for me to discontinue donations." by [andreacpowers](https://twitter.com/andreacpowers/status/1269978324681609219)
+
+"Got a Cloudflare error trying to acces VoteMpls just now." by [dbrauer](https://twitter.com/dbrauer/status/1268961190241161216)
+
+
 "If you're on a VPN endpoint, ReCaptcha always thinks you're a robot at peak hours, no matter how many challenges you solve. There needs to be a Privacy Pass for ReCaptcha, not just Cloudflare's own Captcha service." by [jack_y_zhang](https://twitter.com/Jack_Y_Zhang/status/1269817792448036865)
 
 
