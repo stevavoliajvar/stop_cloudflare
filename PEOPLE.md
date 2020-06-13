@@ -527,6 +527,9 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"This is a serious issue that needs committed tech companies to address the problem. So, why is Cloudflare a member? has stated repeatedly that he's committed to prevent censorship at any cost, even if there are victims. CF protects pedophile websites. Explain." by [phyzonloop](https://twitter.com/phyzonloop/status/1271269441280577536)
+
+
 "log_only_china is one of the most interesting internal CloudFlare variables that is spread all across the internet now." by [abdullin](https://twitter.com/abdullin/status/835379927486709760)
 
 "Hey Cloudflare, I keep getting Internal Server Errors when trying to login." by [Mayes](https://twitter.com/Mayes/status/991490815846469633)
