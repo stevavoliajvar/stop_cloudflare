@@ -85,23 +85,32 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 - Convince your friends to use [Tor](https://www.torproject.org/download/tor/) on the daily basis.
   - Anonymity should be the standard of the open internet!
-  - Do note that the Tor project dislikes this cloudflare-tor project.
+  - Do note that the Tor project [dislikes this cloudflare-tor project](HISTORY.md).
+
+</details>
+
+------
+
+<details>
+<summary>_click me_
+
+## Add-ons
+</summary>
 
 - If your browser is Firefox, use one of these add-ons below.
+  - If you want to add _other_ new add-on ask about it ​[here](issues) first.
 
-### Add-ons
 
 | Name | Developer | Support | Can Block | Can Notify |
 | -------- | -------- | -------- | -------- | -------- |
 | [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Searxes | [Link](https://searxes.eu.org/) | **Yes**     | **Yes**     |
 | [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Searxes | [Link](https://searxes.eu.org/) | No     | **Yes**     |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
-| [TPRB](http://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | Sw | [Link](http://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | **Yes**     | **Yes**     |
+| [TPRB](https://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | Sw | [Link](https://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | **Yes**     | **Yes**     |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [Link](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Yes**     |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [Link](https://github.com/lilydjwg/cf-pop) | No     | **Yes**     |
 
-(If you want to add _other_ new add-on, please ask about it ​[here](issues) first)
 
 - "[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)" can stop connection to "CDNJS (Cloudflare)".
   - It prevents a lot of requests from reaching networks, and serves local files to keep sites from breaking.
