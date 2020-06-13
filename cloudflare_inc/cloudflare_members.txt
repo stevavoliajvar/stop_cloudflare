@@ -572,7 +572,7 @@ Jennifer Koo | Employee
 Jennifer Taylor | Head of Product
 Jenny Dee Brecheisen | Brand Designer
 Jensen Hussey | Web Developer
-Jensen Kuras | Programmer
+Jensen Kuras | Programmer | https:/twitter.com/jensechu  jensen@cloudflare.com
 Jeppe Toustrup | Systems Reliability Engineer
 Jeremy Bernick | Intern
 Jeremy L. Pugh | Employee
