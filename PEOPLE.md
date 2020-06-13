@@ -527,6 +527,11 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"Please stop blocking tor traffic. I'm trying to access some sites and it always shows captcha" by [ppanucool](https://twitter.com/ppanucool/status/1271407577683746821)
+
+"It’s quite funny the site hasn’t been functional for some days now. Can’t get past the CDN; Cloudflare error page. If it’s too hard to fix I can help out." by [thecroesus](https://twitter.com/thecroesus/status/1271600033645936651)
+
+
 "This is a serious issue that needs committed tech companies to address the problem. So, why is Cloudflare a member? has stated repeatedly that he's committed to prevent censorship at any cost, even if there are victims. CF protects pedophile websites. Explain." by [phyzonloop](https://twitter.com/phyzonloop/status/1271269441280577536)
 
 
