@@ -527,6 +527,13 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"Have you tried convincing BLM to escape from Cloudflare while they can?" by [dxgl_org](https://twitter.com/dxgl_org/status/1271932449141002240)
+
+"They actually host the website; they may be totally oblivious to the horrors that Cloudflare hosts." by [dxgl_org](https://twitter.com/dxgl_org/status/1271932338600116224)
+
+"Are you aware your hosting provider Cloudflare is helping prop up those calling for hatred towards your kind?" by [dxgl_org](https://twitter.com/dxgl_org/status/1271931817747189766)
+
+
 "Please stop blocking tor traffic. I'm trying to access some sites and it always shows captcha" by [ppanucool](https://twitter.com/ppanucool/status/1271407577683746821)
 
 "It’s quite funny the site hasn’t been functional for some days now. Can’t get past the CDN; Cloudflare error page. If it’s too hard to fix I can help out." by [thecroesus](https://twitter.com/thecroesus/status/1271600033645936651)
