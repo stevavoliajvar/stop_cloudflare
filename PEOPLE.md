@@ -527,6 +527,19 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"The same that has racist websites like chimpmania dot com for clients, who they knowingly and willingly provide content delivery services to? Yup, that Cloudflare. They are racists." by [phyzonloop](https://twitter.com/phyzonloop/status/1272312891329466368)
+
+"I have to wonder... Cloudflare shows its users that it's blocking what seems like billions of attacks per day. I could see Cloudflare padding or inflating these numbers to skew the perception of their value to their customers. Some of the numbers I see look overstated." by [phyzonloop](https://twitter.com/phyzonloop/status/1272279934963245064)
+
+"Cloudflare your active attacker, weil sich kein solches gerät da schonmal was vorbereitet. For https: T ." by [macmelonmac](https://twitter.com/MacMelonMac/status/1272256000410693632)
+
+"You know, sharpfilejeff's recent postings seem to indicate that if he were on the web Cloudflare would help protect him from complaints." by [dxgl_org](https://twitter.com/dxgl_org/status/1272242355463168003)
+
+"I think is deliberately blocking legitimate access to websites. I think most "error" claims are faked to discourage people." by [daemonmarti](https://twitter.com/DaemonMarti/status/1272157928821325824)
+
+"getting DNS error 1016 when trying to use web importer today. 'Cloudflare currently unavailable'. Is this a universal issue or one at my end? Do you know when it is likely to resolve? Thanks! 😊📚" by [jamesnchlsn](https://twitter.com/jamesnchlsn/status/1269927739894661120)
+
+
 "Have you tried convincing BLM to escape from Cloudflare while they can?" by [dxgl_org](https://twitter.com/dxgl_org/status/1271932449141002240)
 
 "They actually host the website; they may be totally oblivious to the horrors that Cloudflare hosts." by [dxgl_org](https://twitter.com/dxgl_org/status/1271932338600116224)
@@ -2716,6 +2729,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 "Du hast eine Domain bei #INWX liegen? Du findest #cloudflare scheiße? Dann schreib bitte eine Mail an den Support, dass die cloudflare für deren Webseite bitte wieder abschalten sollen. Ja, aktuell ist die ganze Seite samt Zertifikat von bzw. hinter Cloudflare versteckt. Je mehr Leute sich beschweren, desto besser stehen die Erfolgschancen. Bitte teilen!" by @[nuron](https://social.tchncs.de/@nuron/104258767881075941)
 
 "Wenn wir von heute auf morgen alle über #TOR Routen würden, wäre #Cloudflare auf einmal nicht mehr scheiß egal." by @[kromonos](https://social.snopyta.org/@kromonos/104213914131776937)
+
+"I didn't know of that book. Thanks for pointing it out, but I don't think I can stomach reading 288 pages about that scumbag. BTW, it's a bit disturbing that Macmillan jails their literature in CloudFlare's walledgarden. I had to use this link to reach the content of that page:" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104344392883026328)
+
+"I noticed your post here on a mirror site: but I can't reply to it directly b/c lor.sh is jailed in CloudFlare (which blocks privacy-seeking Tor users). You should ditch lor.sh. Anyway, your reasoning is sound. see &" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104343529340836605)
+
 
 "The election system is broken in terms of privacy. Citizens are forced to decide: 1) give up the right to vote, or 2) share their physical address with the state, who will then publish it for anyone to access. On top of that, 8 states now force all voters to share the public info + their SSN or DL with CloudFlare Inc.I think Alaska is the only state sensible enough to give voters a way to keep their physical address private." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104304629350973064)
 
