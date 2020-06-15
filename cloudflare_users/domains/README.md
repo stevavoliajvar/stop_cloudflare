@@ -5,4 +5,5 @@
 ![](../image/statg_now_cf2.jpg)
 
 
-See [instructions.md](../../instructions.md) for file purpose and format specifications.
+- See [instructions.md](../../instructions.md) for file purpose and format specifications.
+- (Above image == Our database) != Current Git.
