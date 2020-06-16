@@ -168,7 +168,7 @@ You might already know about the [PRISM](https://en.wikipedia.org/wiki/PRISM_(su
 </summary>
 
 
-This repository is **a list** of websites that are **behind "_The Great Cloudwall_"**, **blocking Tor users** and **other CDNs**.
+This repository is a list of websites that are behind "_The Great Cloudwall_", blocking Tor users and other CDNs.
 
 
 **Data**
@@ -192,7 +192,7 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
   * The ticket was vandalized so many times.
   * Deleted by the [Tor Project](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). See [ticket 34175](https://trac.torproject.org/projects/tor/ticket/34175).
-  * Last [archive ticket 24351](https://web.archive.org/web/*/https://trac.torproject.org/projects/tor/ticket/24351)
+  * Last [archive ticket 24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
   * They had used Cloudflare in the past. [Added](https://github.com/privacytools/privacytools.io/pull/1205) CF-tor but [removed it](https://github.com/privacytools/privacytools.io/pull/1804).
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
@@ -217,7 +217,7 @@ This repository is **a list** of websites that are **behind "_The Great Cloudwal
 
 * Read [other user's voice](PEOPLE.md) and write your thoughts.
 
-* Search something on [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/)<sub><sup> [ᶜˡᵉᵃʳⁿᵉᵗ](https://ansero.eu.org/)</sup></sub> or [Searxes](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/)<sub><sup> [ᶜˡᵉᵃʳⁿᵉᵗ](https://searxes.eu.org/)</sup></sub>.
+* Search something on [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) or [Searxes](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/)).
 
 * Update the domain list: [List instructions](instructions.md).
 
