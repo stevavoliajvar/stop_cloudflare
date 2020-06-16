@@ -527,6 +527,13 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"Cloudflare also exists to act as a global passive adversary and MiTM a ton of communications globally." by [just4n0theran0n](https://twitter.com/Just4n0therAn0n/status/1272648063560138752)
+
+"Ben is for me+others ('mixcloud down' Twitter search): Error 522 Location London Connection timed out The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed" by [colinscuts](https://twitter.com/ColinsCuts/status/1272426928830590976)
+
+"Is there another link for the Documentation, or should we just visit the Github? The link from the home page currently gives a Cloudflare "CNAME Cross-User Banned" error." by [bluejosem](https://twitter.com/bluejosem/status/1272355282081980416)
+
+
 "The same that has racist websites like chimpmania dot com for clients, who they knowingly and willingly provide content delivery services to? Yup, that Cloudflare. They are racists." by [phyzonloop](https://twitter.com/phyzonloop/status/1272312891329466368)
 
 "I have to wonder... Cloudflare shows its users that it's blocking what seems like billions of attacks per day. I could see Cloudflare padding or inflating these numbers to skew the perception of their value to their customers. Some of the numbers I see look overstated." by [phyzonloop](https://twitter.com/phyzonloop/status/1272279934963245064)
