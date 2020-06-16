@@ -5,13 +5,12 @@
 
 
 - Not all Tor users are bad. Do not punish everyone.
+  - How do you feel if someone block you for no reason?
+  - Using Tor is not a crime.
 - Blocking Tor is not a solution. There are VPNs, webproxies, and botnets.
-- Also read: [Tor Project - Don't Block Me](https://trac.torproject.org/projects/tor/wiki/org/projects/DontBlockMe)
 
 
 ![](../../image/anonexist.jpg)
 
 
-
 - See [instructions.md](../../instructions.md) for file purpose and format specifications.
-- (Above image == Our database) != Current Git(Delay Sync)
