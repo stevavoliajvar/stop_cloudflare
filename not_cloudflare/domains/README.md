@@ -7,4 +7,3 @@
 
 
 - See [instructions.md](../../instructions.md) for file purpose and format specifications.
-- (Above image == Our database) != Current Git(Delay Sync)
