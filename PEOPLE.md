@@ -2724,6 +2724,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 > Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare). (#Cloudflare)
 
+
+
+
+
+
 "Ich bin mir sicher, dass du eine Antwort bekommst. Nur bin ich mir sicher, dass die sich nicht wieder wirklich darauf einlassen, das Ding zu deaktivieren. Wenn sie wenigstens TOR Verbindungen ohne Hindernisse durch lassen würden 🙄 Aber naja ... gz #Cloudflare. Ihr habt erfolgreich das Internet zentralisiert. Was der Struktur des Internets zu Urteilen nie Sinn und Zweck war" by @[kromonos](https://social.snopyta.org/@kromonos/104258729962672240)
 
 "Du hast eine Domain bei #INWX liegen? Du findest #cloudflare scheiße? Dann schreib bitte eine Mail an den Support, dass die cloudflare für deren Webseite bitte wieder abschalten sollen. Ja, aktuell ist die ganze Seite samt Zertifikat von bzw. hinter Cloudflare versteckt. Je mehr Leute sich beschweren, desto besser stehen die Erfolgschancen. Bitte teilen!" by @[nuron](https://social.tchncs.de/@nuron/104258767881075941)
