@@ -7,6 +7,7 @@ If you want to add your blog feel free to do so.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/people.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfblockbothuman.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ```
 It's pretty sad when even the hometown paper is behind the greatcloudwall.
