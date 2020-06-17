@@ -1,7 +1,7 @@
 # Anti-Tor users FQDN list
 
 
-![](../image/statg_now_at.jpg)
+![](../../image/statg_now_at.jpg)
 
 
 - Not all Tor users are bad. Do not punish everyone.
