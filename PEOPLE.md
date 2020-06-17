@@ -527,6 +527,19 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"They don't support BLM. Changing your Twitter logo to black and adding hashtag doesn't mean you support a cause. Your action do. and its billionaire CEO repeatedly state they will not terminate clients who run racist or hate speech websites." by [phyzonloop](https://twitter.com/phyzonloop/status/1273009581208281091)
+
+"Your sever status page, and main page, is a Bad Gatway error page from cloudflare, and there's a network error whenever I try to send a message in the Android application. Not sure if you knew." by [thatgirlnetwork](https://twitter.com/thatgirlNetwork/status/1272954538551578624)
+
+"hey guys, your site is down. 502 bad gateway error from cloudflare." by [pwamenear](https://twitter.com/PWAMenear/status/1272953093081219075)
+
+"I'm trying to log in to work on my newsletters and I get a 502 Bad Gateway Cloudflare error. :( I've tried emailing support but no response yet. Help!" by [justlikeoma](https://twitter.com/justlikeoma/status/1272953057551187968)
+
+"the website isnt working and the status page isn't either. is this just me? is this cloudflare? other websites give the same error also for good measure" by [cattideltarune](https://twitter.com/cattideltarune/status/1272951117622710274)
+
+"Hey your website is showing a 502 Bad Gateway error, can't access. Not sure if host or a issue." by [craftbeersblog](https://twitter.com/CraftBeersBlog/status/1272950683176628224)
+
+
 "Cloudflare also exists to act as a global passive adversary and MiTM a ton of communications globally." by [just4n0theran0n](https://twitter.com/Just4n0therAn0n/status/1272648063560138752)
 
 "Ben is for me+others ('mixcloud down' Twitter search): Error 522 Location London Connection timed out The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed" by [colinscuts](https://twitter.com/ColinsCuts/status/1272426928830590976)
@@ -2734,6 +2747,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"that link is on CloudFlare. Use this one instead:" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104355804367105080)
+
+"The so-called "Center for Public Integrity" (publicintegrity.org) is now on CloudFlare. WTF hypocrisy" by [batalanto](https://todon.nl/@batalanto/104355639324302135)
 
 
 "Ich bin mir sicher, dass du eine Antwort bekommst. Nur bin ich mir sicher, dass die sich nicht wieder wirklich darauf einlassen, das Ding zu deaktivieren. Wenn sie wenigstens TOR Verbindungen ohne Hindernisse durch lassen würden 🙄 Aber naja ... gz #Cloudflare. Ihr habt erfolgreich das Internet zentralisiert. Was der Struktur des Internets zu Urteilen nie Sinn und Zweck war" by @[kromonos](https://social.snopyta.org/@kromonos/104258729962672240)
