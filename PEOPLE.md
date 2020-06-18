@@ -530,10 +530,15 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"I've found out the problem lies within the cloudflare. The css file only loads/can only be accessed after going through the cloudflare" by [blackthesecond](https://twitter.com/blackthesecond/status/1273662731296534529)
+
+"i do not do bad things on the internet :)" by [2020iscancelled](https://twitter.com/2020iscancelled/status/1273668285045891072)
+
+"Actually a quick question about the anti-bot systems; Why is it that I have to remove the query string a lot of the time to get to the website of my choice? If I have a query string, I get stuck in a loop." by [gtsatsis](https://twitter.com/gtsatsis/status/1273301038582435842)
+
 "Hi Roderick, I believe this is Cloudflare inserting the CAPTCHA when they see too many HTTP/4xx responses from our servers to a given IP. You make a fair point (this should be a JSON response)... but I'm not sure how we could do it in this case?" by [dchatenay](https://twitter.com/dchatenay/status/1273157750785261568)
 
 "in fact, it was down for about half an hour, looks like you using them for both website and sync, their website was also giving the same error as your's" by [yaplex](https://twitter.com/yaplex/status/1272971822569533442)
-
 
 "They don't support BLM. Changing your Twitter logo to black and adding hashtag doesn't mean you support a cause. Your action do. and its billionaire CEO repeatedly state they will not terminate clients who run racist or hate speech websites." by [phyzonloop](https://twitter.com/phyzonloop/status/1273009581208281091)
 
@@ -546,7 +551,6 @@ Activism is a duty & ethics trumps netiquette.
 "the website isnt working and the status page isn't either. is this just me? is this cloudflare? other websites give the same error also for good measure" by [cattideltarune](https://twitter.com/cattideltarune/status/1272951117622710274)
 
 "Hey your website is showing a 502 Bad Gateway error, can't access. Not sure if host or a issue." by [craftbeersblog](https://twitter.com/CraftBeersBlog/status/1272950683176628224)
-
 
 "Cloudflare also exists to act as a global passive adversary and MiTM a ton of communications globally." by [just4n0theran0n](https://twitter.com/Just4n0therAn0n/status/1272648063560138752)
 
