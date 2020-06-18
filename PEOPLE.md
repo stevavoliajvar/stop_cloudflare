@@ -430,6 +430,10 @@ Activism is a duty & ethics trumps netiquette.
 </summary>
 
 
+"[Does not work with Cloudflare](https://github.com/dorzki/Slack-Notifications/issues/48)"
+
+"[Remove CloudFlare CDN request](https://github.com/rust-lang/mdBook/pull/1256/commits/2c6c97e3a466c9c7194585e3073240a8429feea9)"
+
 "[he's got cf devs constantly monitoring him](https://github.com/VeNoMouS/cloudscraper/issues/241#issuecomment-645067896)"
 
 "[How can this be overcome?](https://github.com/jnsofini/Full-Stack/issues/1)"
