@@ -428,6 +428,8 @@ Activism is a duty & ethics trumps netiquette.
 </summary>
 
 
+"[he's got cf devs constantly monitoring him](https://github.com/VeNoMouS/cloudscraper/issues/241#issuecomment-645067896)"
+
 "[How can this be overcome?](https://github.com/jnsofini/Full-Stack/issues/1)"
 
 "[Is there a way to add a way to deal with the captcha?](https://github.com/Sibusten/derpibooru-downloader/issues/36)"
