@@ -11,6 +11,9 @@
 
 "*We also work with Interpol and other non-US entities*" [t](https://twitter.com/eastdakota/status/1203028504184360960)
 
+"*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.*" [t](https://twitter.com/eastdakota/status/1273277839102656515)
+
+
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whoismp.jpg)
 
 ---
