@@ -227,9 +227,11 @@ Activism is a duty & ethics trumps netiquette.
 </summary>
 
 
-"[Are CAPTCHAs harder to solve on TOR?](https://old.reddit.com/r/TOR/comments/gu7p75/are_captchas_harder_to_solve_on_tor/)"
+"[Firefox VPN (Firefox Private Network)](https://www.reddit.com/r/thehatedone/comments/h9elzc/firefox_vpn_firefox_private_network/)"
 
-"[Can we stop using Cloudflare?](https://old.reddit.com/r/BitChute/comments/cmgmur/can_we_stop_using_cloudflare/)"
+"[Are CAPTCHAs harder to solve on TOR?](https://www.reddit.com/r/TOR/comments/gu7p75/are_captchas_harder_to_solve_on_tor/)"
+
+"[Can we stop using Cloudflare?](https://www.reddit.com/r/BitChute/comments/cmgmur/can_we_stop_using_cloudflare/)"
 
 "[US Bank website is not in Cloudflare DNS](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/)"
 
