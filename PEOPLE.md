@@ -426,9 +426,11 @@ Activism is a duty & ethics trumps netiquette.
 <details>
 <summary>_click me_
 
-## Microsoft GitHub
+## Microsoft GitHub / GitLab
 </summary>
 
+
+"[Cloudflare - the predator striking from the shadows.](https://web.archive.org/web/https://gitlab.com/librewolf-community/browser/linux/-/issues/119)"
 
 "[Does not work with Cloudflare](https://github.com/dorzki/Slack-Notifications/issues/48)"
 
