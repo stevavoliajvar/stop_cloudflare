@@ -201,7 +201,7 @@ Unfortunately, many people cannot view change.org at all due to Cloudflare's agg
 </summary>
 
 
-If you opt-out something, you expect that you receive no email about it. Cloudflare ignore user's preference and share data with third-party corporations [without customer's consent](https://twitter.com/thexpaw/status/1108424723233419264).
+If you opt-out something, you expect that you receive no email about it. Cloudflare ignore user's preference and share data with third-party corporations [without customer's consent](https://twitter.com/thexpaw/status/1108424723233419264). If you're using their free plan, they sometimes send email to you asking to buy monthly subscription.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
