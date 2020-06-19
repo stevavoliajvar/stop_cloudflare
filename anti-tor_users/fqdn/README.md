@@ -3,7 +3,7 @@
 
 [//]: # (do not edit me; start)
 
-## NN,NNN,NNN FQDN
+## *NN,NNN,NNN* FQDN
 
 [//]: # (do not edit me; end)
 
