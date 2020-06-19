@@ -536,6 +536,11 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"If Cloudflare is claiming that, it's complete BS. I've reported obvious scam sites and they took no action. boasts about their amazing machine learning to block bots and attacks. If they were serious, they could use the same tech to solve this. But, profits." by [phyzonloop](https://twitter.com/phyzonloop/status/1273754376927092740)
+
+"anyone else getting error 1105 when trying to open ? says its a cloudflare issue and I have no clue how to fix it, been glitched for hours now" by [xyztrading](https://twitter.com/XYZTrading/status/1273700404707102721)
+
+
 "I've found out the problem lies within the cloudflare. The css file only loads/can only be accessed after going through the cloudflare" by [blackthesecond](https://twitter.com/blackthesecond/status/1273662731296534529)
 
 "i do not do bad things on the internet :)" by [2020iscancelled](https://twitter.com/2020iscancelled/status/1273668285045891072)
