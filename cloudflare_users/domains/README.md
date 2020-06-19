@@ -3,7 +3,7 @@
 
 [//]: # (do not edit me; start)
 
-## NN,NNN,NNN domains
+## *NN,NNN,NNN* domains
 
 [//]: # (do not edit me; end)
 
