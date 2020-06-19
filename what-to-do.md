@@ -100,24 +100,24 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 ## Add-ons
 </summary>
 
-- If your browser is Firefox, use one of these add-ons below.
-  - If you want to add _other_ new add-on ask about it ​[here](issues) first.
+- If your browser is `Firefox`, `Tor Browser`, or `Ungoogled Chromium` use one of these add-ons below.
+  - If you want to add _other_ new add-on ask about it [here](issues) first.
 
 
-| Name | Developer | Support | Can Block | Can Notify |
-| -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Searxes | [Link](https://searxes.eu.org/) | **Yes**     | **Yes**     |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Searxes | [Link](https://searxes.eu.org/) | No     | **Yes**     |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |
-| [TPRB](https://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | Sw | [Link](https://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | **Yes**     | **Yes**     |
-| [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |
-| [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [Link](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Yes**     |
-| [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [Link](https://github.com/lilydjwg/cf-pop) | No     | **Yes**     |
+| Name | Developer | Support | Can Block | Can Notify | support Chrome |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Searxes | [Link](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) | **Yes**     | **Yes**     |  **Yes** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Searxes | [Link](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) | No     | **Yes**     |  **Yes** |  **Yes** |
+| [<s>Block Cloudflare MITM Attack</s>](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |  No |
+| [TPRB](https://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | Sw | [Link](https://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | **Yes**     | **Yes**     |  No |
+| [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |  No |
+| [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [Link](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Yes**     |  No |
+| [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [Link](https://github.com/lilydjwg/cf-pop) | No     | **Yes**     |  No |
 
 
 - "[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)" can stop connection to "CDNJS (Cloudflare)".
   - It prevents a lot of requests from reaching networks, and serves local files to keep sites from breaking.
-  - The developer replied: "​[very concerning indeed](https://github.com/Synzvato/decentraleyes/issues/236#issuecomment-352049501)", "​[widespread usage severely centralizes the web](https://github.com/Synzvato/decentraleyes/issues/251#issuecomment-366752049)"
+  - The developer replied: "[very concerning indeed](https://github.com/Synzvato/decentraleyes/issues/236#issuecomment-352049501)", "[widespread usage severely centralizes the web](https://github.com/Synzvato/decentraleyes/issues/251#issuecomment-366752049)"
 
 </details>
 
