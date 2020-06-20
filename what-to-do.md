@@ -40,7 +40,7 @@ If you don't [ask for it](PEOPLE.md), website owner *never* know this problem. E
 
 ```
 You are just helping corporate censorship and mass surveillance.
-https://trac.torproject.org/projects/tor/ticket/24351
+https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
@@ -51,14 +51,14 @@ See https://codeberg.org/crimeflare/cloudflare-tor/
 - Take some time to read website's privacy policy.
   - ...if the website is behind Cloudflare or website is using services connected to Cloudflare.
 
-It must explain what the "_Cloudflare_" is, and ask for permission to share your(user) data with CF. Failure to do so will result in the breach of trust and the website in question should be avoided.
+It must explain what the "_Cloudflare_" is, and ask for permission to share your(user) data with Cloudflare. Failure to do so will result in the breach of trust and the website in question should be avoided.
 
 An _acceptable_ privacy policy example is [here](https://archive.is/bDlTz) (look at "Subprocessors" > "Entity Name")
 
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
 I refuse to share data with you if you continue to feed my data to Cloudflare.
-See https://git.openprivacy.ca/cypherpunks/stop_cloudflare
+See https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 
 For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
@@ -83,9 +83,9 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
-  - I'm in your TLS, sniffin' your passworz
+  - [I'm in your TLS, sniffin' your passworz](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
 
-- Search for other website. There are many alternatives and opportunites on the internet!
+- Search for other website. There are alternatives and opportunites on the internet!
 
 - Convince your friends to use [Tor](https://www.torproject.org/download/tor/) on the daily basis.
   - Anonymity should be the standard of the open internet!
