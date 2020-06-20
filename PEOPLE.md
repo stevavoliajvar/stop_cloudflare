@@ -538,6 +538,9 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"When I try to access the site, I get a screen that claims CloudFlare requires me to enter a captcha to view the page; I've gotten anything like that before, and it has me suspicious." by [a_darsara](https://twitter.com/a_Darsara/status/1273982798567743488)
+
+
 "If Cloudflare is claiming that, it's complete BS. I've reported obvious scam sites and they took no action. boasts about their amazing machine learning to block bots and attacks. If they were serious, they could use the same tech to solve this. But, profits." by [phyzonloop](https://twitter.com/phyzonloop/status/1273754376927092740)
 
 "anyone else getting error 1105 when trying to open ? says its a cloudflare issue and I have no clue how to fix it, been glitched for hours now" by [xyztrading](https://twitter.com/XYZTrading/status/1273700404707102721)
