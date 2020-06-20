@@ -27,7 +27,7 @@
 
 
 - If the website you like is using Cloudflare, tell them not to use Cloudflare.
-  - Whining on Twitter or Mastodon makes _no_ difference. [Actions are louder than hashtags](https://twitter.com/phyzonloop/status/1274132092490862594).
+  - Whining on social media such as Reddit, Twitter or Mastodon makes _no_ difference. [Actions are louder than hashtags](https://twitter.com/phyzonloop/status/1274132092490862594).
   - Try to contact to the website owner _if_ you want to make yourself useful.
 
 [Cloudflare said](https://github.com/Eloston/ungoogled-chromium/issues/783):
