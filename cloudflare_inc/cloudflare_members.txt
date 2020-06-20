@@ -225,6 +225,7 @@ Carl Garcia | Account Executive
 Caroline Greer | Public Policy
 Carson Andorf | Employee
 Cassy Olson | Account Executive
+Cate Danielson | Employee
 Catherine Flagler | Recruiter
 Cathy Hsu | Employee
 Cavin Kindsvogel | Product Strategy Manager
@@ -333,7 +334,7 @@ David Ngo | Trust & Safety Engineer
 David Roth | Employee
 David Saunders | Legal Counsel
 David Schlesinger | Systems Reliability Engineer
-David Wragg | Engineer
+David Wragg | Engineer | https://twitter.com/dwragg http://david.wragg.org/ david@wragg.org
 David Zakur | Employee
 Davide D'Amico | Systems Reliability Engineer
 Dawn Giusti | Relations Analyst
@@ -787,7 +788,7 @@ Marcelo Moreira | Site Reliability Engineer
 Marcie McBride | Customer Development
 Marcus Schaefer | Strategic Account Executive
 Marek Kroemeke | Employee
-Marek Majkowski | Systems Engineer
+Marek Majkowski | Systems Engineer | marek@cloudflare.com https://twitter.com/majek04 https://idea.popcount.org/
 Marek Vavrusa | Systems Engineer
 Margo Brown | Q1 Marketing Partner
 Maria Karaivanova | Business Development
@@ -818,6 +819,7 @@ Matthew Cottingham | Systems Engineer
 Matthew DiDomenico | Customer Development
 Matthew DuBois | Sales Leader
 Matthew Gall | Trust & Safety Engineer | https://twitter.com/matthewgall  mgall@cloudflare.com
+Matthew Harrell | Employee | Channel Sales
 Matthew King | Employee
 Matthew P. Harrell | Channel Sales and Partners
 Matthew Silverlock | Solutions Engineer
@@ -871,6 +873,7 @@ Mika Akutsu | Program Manager
 Mike Genstil | Strategic Partnerships
 Mike Haddan | Support Tickets
 Mike Michon | Head of Data Engineering
+Mike Pool | Global Alliance Manager
 Millie Chan | Front End Engineer
 Minh Bui | Pricing Strategist
 Mircea-Valeriu Ulinic | Network Engineer
