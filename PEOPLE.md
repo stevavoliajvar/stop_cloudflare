@@ -538,6 +538,21 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"Crazy that CTO shared this! His company protects, provides anonymity & delivers content on the internet for RACIST websites like chimpmania.com & tightroperecords.com. Cloudflare is racist despite their black Twitter logo and hashtag. Actions words." by [phyzonloop](https://twitter.com/phyzonloop/status/1274453652363714566)
+
+"Be careful, Chris. and believe sites like this one should not be censored. They only believe that critics of Cloudflare policies should be censored. take note. Stop using Cloudflare. hypocrisy racism HateSpeech" by [phyzonloop](https://twitter.com/phyzonloop/status/1274447249603538944)
+
+"why does brave browser get captcha all the time?" by [octolusnet](https://twitter.com/OctolusNET/status/1274309313708900352)
+
+"Hey just a heads up, but I tried accessing your site using the Opera browser, here in Germany, and I get a cloudflare 1020 error which they say needs to be fixed from your end. Any chance of a response?" by [tacticalgrace_](https://twitter.com/TacticalGrace_/status/1274404557037199362)
+
+"Is the site down? Getting error 1020 from Cloudflare when I try to browse" by [shwylieofficial](https://twitter.com/SHWYLiEOFFICIAL/status/1274353896673161217)
+
+"Greeting from Tokyo! Is the service down? Can not access the site and I see Cloudflare error." by [teddymatayoshi](https://twitter.com/TeddyMatayoshi/status/1274172996123455489)
+
+"It stumbled for me, a 522 server is off error, then recovered with a refresh." by [nrauhauser](https://twitter.com/nrauhauser/status/1274160819857551361)
+
+
 "When I try to access the site, I get a screen that claims CloudFlare requires me to enter a captcha to view the page; I've gotten anything like that before, and it has me suspicious." by [a_darsara](https://twitter.com/a_Darsara/status/1273982798567743488)
 
 
@@ -2775,6 +2790,13 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"I don't know if it's more perversely foolish that this so-called " saveinternetfreedom" site is on CloudFlare, or that TorProject is pimping a CF site. /cc" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104378030919632302)
+
+"wtf-- this so-called "saveinternetfreedom.tech" site is running on CloudFlare. Run away from those hypocrits!" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104377968681664483)
+
+"What a fucking joke. "Namecheap has a long history of advocating for and protecting our customers’ privacy." Namecheap is a CloudFlare site! And note as well that if you get a domain name from them, whois masking is charged separately. These ppl are hypocrits." by [koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/104376057528882204)
 
 
 "that link is on CloudFlare. Use this one instead:" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104355804367105080)
