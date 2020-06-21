@@ -188,6 +188,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 * [The Great Cloudwall](article.txt) by Mr. Jeff Cliff
   * Download as: PDF [here](pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * The original eBook(ePUB) was deleted by `BookRix GmbH` due to `copyright infringement of CC0 material`
+  * Feeling generous? Donate by bitcoin:`13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Payment option](http://qhtn4w2q36dojls2.onion/payment.html))
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
   * The ticket was vandalized so many times.
