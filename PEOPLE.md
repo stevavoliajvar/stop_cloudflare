@@ -538,6 +538,15 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"you’ve placed your collector behind cloudflare, which apparently blocks developing countries, so customers in Africa can’t connect. There is no api captcha." by [figassis](https://twitter.com/figassis/status/1274841442003955712)
+
+"your community subdomain is down. I get a Cloudflare timeout error." by [syrslywastaken](https://twitter.com/SyrslyWasTaken/status/1274692071140536320)
+
+"Been trying to view that link for the last hour but keep getting Cloudflare Error 522." by [mhfulltimer](https://twitter.com/MHFulltimer/status/1274685490126630916)
+
+"The Marketo Docs is not opening since past 15-16 hours. It is returning 520 Cloud Fare error with the error message that reads-- "There is an unknown connection issue between Cloudflare and the origin web server. " Any alternatives??" by [harshitsaxena86](https://twitter.com/harshitsaxena86/status/1274639831688069121)
+
+
 "Crazy that CTO shared this! His company protects, provides anonymity & delivers content on the internet for RACIST websites like chimpmania.com & tightroperecords.com. Cloudflare is racist despite their black Twitter logo and hashtag. Actions words." by [phyzonloop](https://twitter.com/phyzonloop/status/1274453652363714566)
 
 "Be careful, Chris. and believe sites like this one should not be censored. They only believe that critics of Cloudflare policies should be censored. take note. Stop using Cloudflare. hypocrisy racism HateSpeech" by [phyzonloop](https://twitter.com/phyzonloop/status/1274447249603538944)
