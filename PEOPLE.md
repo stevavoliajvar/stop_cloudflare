@@ -538,6 +538,9 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"One of many racist websites that Cloudflare has as clients. They will not terminate them. Cloudflare only blocks their critics, not the hate groups on their infrastructure." by [phyzonloop](https://twitter.com/phyzonloop/status/1275205368281513986)
+
+
 "you’ve placed your collector behind cloudflare, which apparently blocks developing countries, so customers in Africa can’t connect. There is no api captcha." by [figassis](https://twitter.com/figassis/status/1274841442003955712)
 
 "your community subdomain is down. I get a Cloudflare timeout error." by [syrslywastaken](https://twitter.com/SyrslyWasTaken/status/1274692071140536320)
