@@ -538,6 +538,11 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"are Racists They have clients like chimpmania.com and tightroperecords.com for clients. Actions are louder than hashtags. They profit from racism." by [phyzonloop](https://twitter.com/phyzonloop/status/1275563267696590848)
+
+"How can you be a pawn for Cloudflare when they support and protect hate speech sites that hurt your cause? Cloudflare chooses to PROFIT from websites that spread hate toward LGBTQIA+. Ask them to explain their hypocrisy. is RacistInChief" by [phyzonloop](https://twitter.com/phyzonloop/status/1275562891127775235)
+
+
 "One of many racist websites that Cloudflare has as clients. They will not terminate them. Cloudflare only blocks their critics, not the hate groups on their infrastructure." by [phyzonloop](https://twitter.com/phyzonloop/status/1275205368281513986)
 
 
@@ -2802,6 +2807,9 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"Gitlab.com is indeed google-hosted & proxied via CloudFlare. It goes against the values of the Tor community. I think you'll be relieved to see they aren't using the gitlab.com service, but rather they are self-hosting the Gitlab software. I don't know of any real issues with the software if well-configured." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104396180054520336)
 
 
 "I don't know if it's more perversely foolish that this so-called " saveinternetfreedom" site is on CloudFlare, or that TorProject is pimping a CF site. /cc" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104378030919632302)
