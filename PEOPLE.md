@@ -229,6 +229,8 @@ Activism is a duty & ethics trumps netiquette.
 </summary>
 
 
+"[Highlighting Liberapay and OpenCollective as the preferred donation options](https://forum.f-droid.org/t/highlighting-liberapay-and-opencollective-as-the-preferred-donation-options/10163)"
+
 "[Firefox VPN (Firefox Private Network)](https://www.reddit.com/r/thehatedone/comments/h9elzc/firefox_vpn_firefox_private_network/)"
 
 "[Why is everyone ignoring Cloudfare's MITM that affects 13% of sites worldwide and maybe 30% of English-language sites?](https://web.archive.org/save/https://www.linuxquestions.org/questions/linux-security-4/why-is-everyone-ignoring-cloudfare%27s-mitm-that-affects-13-of-sites-worldwide-and-maybe-30-of-english-language-sites-4175675815/)"
@@ -2783,7 +2785,7 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 "Why does this notification ("ATTENTION REQUIRED/CLOUDFLARE") pop up instead of the site I want to go to? Annoying." by @[jovefrancisco](https://twitter.com/jovefrancisco/status/520550545652609024)
 
-"Why do I get CloudFlare ""Attention Required" CAPTCHA interstitial pages for several websites" by @[pforret](https://twitter.com/pforret/status/450948617768292352)
+"Why do I get CloudFlare "Attention Required" CAPTCHA interstitial pages for several websites" by @[pforret](https://twitter.com/pforret/status/450948617768292352)
 
 "Everytime I go to a website I get attention required and it has me do a captcha, why are you blocking me from sites?" by @[syzransport](https://twitter.com/syzransport/status/413243634905911296)
 
@@ -2813,8 +2815,9 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
-"Gitlab.com is indeed google-hosted & proxied via CloudFlare. It goes against the values of the Tor community. I think you'll be relieved to see they aren't using the gitlab.com service, but rather they are self-hosting the Gitlab software. I don't know of any real issues with the software if well-configured." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104396180054520336)
+"#Tor හරහා #Matrix.org වල ලියාපදිංචි වෙන්න බැහැ වගේ. ඒක #CloudFlare භාවිත කරනවා"  by [ashlk](https://layer8.space/@ashlk/104397521307565188)
 
+"Gitlab.com is indeed google-hosted & proxied via CloudFlare. It goes against the values of the Tor community. I think you'll be relieved to see they aren't using the gitlab.com service, but rather they are self-hosting the Gitlab software. I don't know of any real issues with the software if well-configured." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104396180054520336)
 
 "I don't know if it's more perversely foolish that this so-called " saveinternetfreedom" site is on CloudFlare, or that TorProject is pimping a CF site. /cc" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104378030919632302)
 
@@ -2822,11 +2825,9 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 "What a fucking joke. "Namecheap has a long history of advocating for and protecting our customers’ privacy." Namecheap is a CloudFlare site! And note as well that if you get a domain name from them, whois masking is charged separately. These ppl are hypocrits." by [koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/104376057528882204)
 
-
 "that link is on CloudFlare. Use this one instead:" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104355804367105080)
 
 "The so-called "Center for Public Integrity" (publicintegrity.org) is now on CloudFlare. WTF hypocrisy" by [batalanto](https://todon.nl/@batalanto/104355639324302135)
-
 
 "Ich bin mir sicher, dass du eine Antwort bekommst. Nur bin ich mir sicher, dass die sich nicht wieder wirklich darauf einlassen, das Ding zu deaktivieren. Wenn sie wenigstens TOR Verbindungen ohne Hindernisse durch lassen würden 🙄 Aber naja ... gz #Cloudflare. Ihr habt erfolgreich das Internet zentralisiert. Was der Struktur des Internets zu Urteilen nie Sinn und Zweck war" by @[kromonos](https://social.snopyta.org/@kromonos/104258729962672240)
 
@@ -2838,14 +2839,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 "I noticed your post here on a mirror site: but I can't reply to it directly b/c lor.sh is jailed in CloudFlare (which blocks privacy-seeking Tor users). You should ditch lor.sh. Anyway, your reasoning is sound. see &" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104343529340836605)
 
-
 "The election system is broken in terms of privacy. Citizens are forced to decide: 1) give up the right to vote, or 2) share their physical address with the state, who will then publish it for anyone to access. On top of that, 8 states now force all voters to share the public info + their SSN or DL with CloudFlare Inc.I think Alaska is the only state sensible enough to give voters a way to keep their physical address private." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104304629350973064)
-
 
 "I do not federate with instances behind cloudflare.Und damit geht es:" by [kromonos](https://social.snopyta.org/@kromonos/104298078058044337)
 
 "My blog is just a FuckCloudFlare blog now, deal with it" by [lunaterra](https://cyberia.social/@lunaterra/101825691714288137)
-
 
 "grrr ... hat schon wieder aktiviert ... Jetzt hab ich aber echt kein Bock mehr nochmal den Support an zu schreiben und such mir einen neuen Registrar ..." by [kromonos](https://social.snopyta.org/@kromonos/104258658258417328)
 
@@ -2866,7 +2864,6 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 "Don't Trust CloudFlare! I finally finished writing my first real blog post about why people should avoid CloudFlare (which should be spelled camel-case for accessibility purposes )." by [lunaterra](https://cyberia.social/@lunaterra/101548514349857054)
 
 "I'm interested in having somebody help me with a Graphic depicting a number of Mastodon instances in a CloudFlare "cloud" communicating insecurely in a way that CloudFlare is snooping on. Maybe the cloud has a magnifying glass? idkAnyways, contact me if you want to help, this would be a part of my blog post I'm working on and I'd providr attribution of course." by [lunaterra](https://cyberia.social/@lunaterra/101402981464718532)
-
 
 "I stopped reading Niebezpiecznik, most popular polish security website, exactly because they use CloudFlare. It's pain in the ass. And not due to security concerns but usability concerns. If I have to fill 2-5 captchas every time I visit a website I stop visiting it." by @[pk](https://freeradical.zone/@pk/104256564189826563)
 
@@ -2897,6 +2894,8 @@ Kennt sich da jemand aus? In der Datenschutzerklärung des Moodles findet sich d
 "I'm tired of people going on about Cloudflare. It's not a normal tired either. It's a "please get the fuck out of my face if you're going to say one more word because I am just done." A friend of mine said I was a shit service provider because I would rather stop running everything than put my applications behind a MITM and compromise user privacy." by @[amolith](https://masto.nixnet.xyz/@amolith/103650166871589343)
 
 "Würde ich gerne, aber change.org lässt mich nicht auf die Webseite, weil ich mich momentan im Netz der "Leaseweb Deutschland GmbH" befinde (screenshot:  ASN  28753). change.org sollte dringend ihren Server konfigurieren oder besser noch den Hoster "Clownflare" wechseln." by @[Wolfram](https://norden.social/@Wolfram/103608344157032468)
+
+"when all you are is a cloudflare, everything looks like an "online attack"" by [haskal](https://cybre.space/@haskal/103943527511109829)
 
 "Today first I successfully did a search on opensubtitles.org with Firefox and noticed that this site uses CloudFlare. Then later on I tried to do a search on opensubtitles.org with the #Tor browser. I got the Google ReCaptcha, and after solving that for more than 10 to 15 times, where it seemed to give me access a few times, I was still not able to perform a search at all (meh) :_catsad: When will people realize that the "free of charge" for 1 website DDOS protection by #CloudFlare is not at all a cool and "free" option to choose for. It is more like selling your soul and poisoning the Internet. Also : A few months ago I had to use the CloudFlare web admin interface for a friend. I added a subdomain for an admin login page for the website of my friend. Then I continued working on the site and suddenly noticed in the logs that the brand new subdomain was visited by several different ones, including a tor node. At first I got confused by it, and I found it very unpleasant, but in the end my conclusion is that CloudFlare is just dodgy. I hope that affordable CDN and DDOS protection alternatives will grow and vanish CloudFlare in the end." by @[Ajz](https://mastodon.host/@Ajz)
 
