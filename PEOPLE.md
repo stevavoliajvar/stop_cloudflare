@@ -136,6 +136,8 @@ Activism is a duty & ethics trumps netiquette.
 
 "[Mozilla - Devil Incarnate: DNS over HTTPS](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/ghost/mozilla.html#cloudflare)" by [DigDeeper](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/)
 
+"[「Block Cloudflare MITM Attack」の設定を見直してわかったこと。](https://watasinokaikakutohyouron.hatenablog.com/entry/2020/05/25/044334)"
+
 "[Cloudflare silently deleted my DNS records](https://web.archive.org/save/https://txti.es/cloudflare-deleted-my-dns)" by Cloudflare user
 
 "[Cloudflare is turning off the internet for me](https://blog.dijit.sh/cloudflare-is-turning-off-the-internet-for-me)" by [Jan Harasym](https://blog.dijit.sh/)
@@ -228,6 +230,8 @@ Activism is a duty & ethics trumps netiquette.
 
 
 "[Firefox VPN (Firefox Private Network)](https://www.reddit.com/r/thehatedone/comments/h9elzc/firefox_vpn_firefox_private_network/)"
+
+"[Why is everyone ignoring Cloudfare's MITM that affects 13% of sites worldwide and maybe 30% of English-language sites?](https://web.archive.org/save/https://www.linuxquestions.org/questions/linux-security-4/why-is-everyone-ignoring-cloudfare%27s-mitm-that-affects-13-of-sites-worldwide-and-maybe-30-of-english-language-sites-4175675815/)"
 
 "[Are CAPTCHAs harder to solve on TOR?](https://www.reddit.com/r/TOR/comments/gu7p75/are_captchas_harder_to_solve_on_tor/)"
 
