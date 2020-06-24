@@ -188,7 +188,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 * [The Great Cloudwall](article.txt) by Mr. Jeff Cliff
   * Download as: PDF [here](pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * The original eBook(ePUB) was deleted by `BookRix GmbH` due to `copyright infringement of CC0 material`
-  * Feeling generous? Donate by bitcoin:`13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Payment option](http://qhtn4w2q36dojls2.onion/payment.html))
+  * Feeling generous? You can donate him some bitcoin:`13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Payment option](http://qhtn4w2q36dojls2.onion/payment.html))
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
   * The ticket was vandalized so many times.
@@ -196,8 +196,8 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
   * Last [archive ticket 24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
   * They had used Cloudflare in the past. [Added](https://github.com/privacytools/privacytools.io/pull/1205) CF-tor but [removed it](https://github.com/privacytools/privacytools.io/pull/1804).
-* [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+* [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) by TheGoldenGoose8888
 * [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
