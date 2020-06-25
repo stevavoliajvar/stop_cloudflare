@@ -127,14 +127,14 @@ www.example.com
 
 ?.akamaiedge.net
    ---> subdomain of akamaiedge.net is using CDN.
-   * unique hostname will be masked as "?".
+   * unique hostname will be masked as "?" for privacy reason
 
 senate.gov
    ---> base domain is using CDN.
 
 ```
 
-Some websites use other companies _with_ the CloudFlare business model.
+Some websites combine other companies _with_ the Cloudflare business model.
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
@@ -182,7 +182,7 @@ www.example.com
 
 ?.akamaiedge.net
    ---> subdomain of akamaiedge.net is denied Tor user.
-   * unique hostname will be masked as "?".
+   * unique hostname will be masked as "?" for privacy reason
 
 senate.gov
    ---> base domain denied/harassed/challenged human who're using Tor.
