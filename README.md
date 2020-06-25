@@ -185,9 +185,9 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 **More Information**
 * [Short version of README](README_short.md) by [Robin Wils](https://linuxrocks.online/@RMW)  `DRAFT`
   * You might want to ask why this README.md has so many images. Above short version have less images.
-  * "[90% of the information processed by the brain is visual](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)"
+  * "[Most people only read 20-28% of the words on the page](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)"
 * [Myth Catalog](myth_catalog.md)  `DRAFT`
-* [The Great Cloudwall](article.txt) by Mr. Jeff Cliff
+* [The Great Cloudwall](article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download as: PDF [here](pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * The original eBook(ePUB) was deleted by `BookRix GmbH` due to `copyright infringement of CC0 material`
   * Feeling generous? You can donate him some bitcoin:`13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Payment option](http://qhtn4w2q36dojls2.onion/payment.html))
