@@ -544,6 +544,21 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"Would we tolerate NBC or Netflix airing racist ads? Nope. Would it be censorship if they refused to air such ads? Nope. Then why do we tolerate protecting and delivering content for racist websites? 🤔 Sell your $NET - send a message to RacistInChief!" by [phyzonloop](https://twitter.com/phyzonloop/status/1275956834189393922)
+
+"This is futile, trust me. If you find who's hosting, you contact the host. The host takes them down. They move to another host, which is easy to do. They're still hiding behind Cloudflare, so you can't find out who the new host is. Rinse. Repeat. RacistInChief" by [phyzonloop](https://twitter.com/phyzonloop/status/1275943066042535936)
+
+"Cloudflare doesn't have the power to censor. But can choose who they do business with. CF terminating a client doesn't censor. A website can exist / operate without Cloudflare, so the censorship excuse is a lame fallacy. You can't be against racism but still support racists." by [phyzonloop](https://twitter.com/phyzonloop/status/1275941222360788993)
+
+"Any eta on when your site will be back online? I wanted to check out the macOS VM guide you posted on Reddit but the site just gives a Cloudflare error." by [holothegreatt](https://twitter.com/holothegreatt/status/1275865295001776128)
+
+"Notion の Windows アプリが、OAuth のコールバック返したあと空白になる現象がずっと続いている。アンインストールしてもダメ。勘弁しちくりー。Error Details 見ると Tokyo の Cloudflare が 504 吐いてる?" by [s_t_a_k](https://twitter.com/s_t_a_k/status/1275763898201681922)
+
+"I get WarezBB is experiencing a Critical Error debug page for awhile now except when it was down all the way with 522 cloudflare message. I deleted cookies and stuff. Still no go. What am I doing wrong? Using Win10 all up to date and Chrome up to date. Please Help?!?!?! Thanks!" by [goupdog](https://twitter.com/goupdog/status/1275689997044236288)
+
+"Registration is currently broken—looks like a issue (error 1020). Ray ID: 5a8121be68340d9e" by [joeyfigaro](https://twitter.com/joeyfigaro/status/1275534385136238593)
+
+
 "are Racists They have clients like chimpmania.com and tightroperecords.com for clients. Actions are louder than hashtags. They profit from racism." by [phyzonloop](https://twitter.com/phyzonloop/status/1275563267696590848)
 
 "How can you be a pawn for Cloudflare when they support and protect hate speech sites that hurt your cause? Cloudflare chooses to PROFIT from websites that spread hate toward LGBTQIA+. Ask them to explain their hypocrisy. is RacistInChief" by [phyzonloop](https://twitter.com/phyzonloop/status/1275562891127775235)
@@ -2813,6 +2828,15 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"I have to retract what I said earlier about Liberapay. They also use CloudFlare, which is an abuser of privacy & netneutrality." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104399160445815482)
+
+"the snowdrift.coop page has a lot more options than I was aware of, & it reminded of the CloudFlare site I couldn't think of earlier: openCollective. It would be an embarrassment for any privacy-focused project to use CloudFlare, & for me it would be sufficient to question project motives. I would not donate even if the money could take non-CF paths." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104399092383877560)
+
+"I don't know of any. Patreon is compromised by CloudFlare, bountysource is on Google Cloud and relies on a ton of javascript some of which is from CF, and it's Paypal-only (so private data shared w/600 corps- see I forgot the other competitor but it's also CF'd." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104396648282845895)
+
+"Liberapay is a CloudFlare site. Avoid it. It's a bad idea to use CF at all but foolish to trust them with financial transactions." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104396589407892700)
 
 
 "#Tor හරහා #Matrix.org වල ලියාපදිංචි වෙන්න බැහැ වගේ. ඒක #CloudFlare භාවිත කරනවා"  by [ashlk](https://layer8.space/@ashlk/104397521307565188)
