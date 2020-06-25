@@ -127,14 +127,14 @@ www.example.com
 
 ?.akamaiedge.net
    ---> subdomain of akamaiedge.net is using CDN.
-   * unique hostname will be masked as "?".
+   * unique hostname will be masked as "?" for privacy reason
 
 senate.gov
    ---> base domain is using CDN.
 
 ```
 
-Some websites use other companies _with_ the CloudFlare business model.
+Some websites combine other companies _with_ the Cloudflare business model.
 
 This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
 
@@ -164,6 +164,10 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 - Some news websites are lying to Tor users. You can read their website if you are not using Tor nor VPN. If you visit their website over Tor, they just say "_Sorry, article not found_".
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imunify360.jpg)
+
+- Imunify360 is not so [intelligent](https://whc.ca/blog/introducing-imunify360-your-new-intelligent-firewall/) because it is blocking real human.
+
 - Some famous mail subscription service and some ISP websites are displaying "Maintenance" page if you visit them over Tor.
 
 **How can you trust their sites if they are not treating everyone equally?**
@@ -178,7 +182,7 @@ www.example.com
 
 ?.akamaiedge.net
    ---> subdomain of akamaiedge.net is denied Tor user.
-   * unique hostname will be masked as "?".
+   * unique hostname will be masked as "?" for privacy reason
 
 senate.gov
    ---> base domain denied/harassed/challenged human who're using Tor.
@@ -187,7 +191,7 @@ senate.gov
 
 If your website is on this list, you better talk with your network administrator.
 
-**But the website X no longer blocking Tor users!**
+**But my website X no longer blocking Tor users!**
 
 Are you sure? There are two ways to remove yourself.
 First option is just _*remove* it from the list_ and _create a pull request_.
