@@ -185,7 +185,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 **More Information**
 * [Short version of README](README_short.md) by [Robin Wils](https://linuxrocks.online/@RMW)  `DRAFT`
   * You might want to ask why this README.md has so many images. Above short version have less images.
-  * "[Most people only read 20-28% of the words on the page](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)"
+  * [Most people only read 20-28% of the words on the page](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md)  `DRAFT`
 * [The Great Cloudwall](article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download as: PDF [here](pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -205,6 +205,7 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 * [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/watcloudflare.jpg)
+
 
 </details>
 
