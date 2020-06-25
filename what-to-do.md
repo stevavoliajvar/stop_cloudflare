@@ -144,7 +144,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/anonexist.jpg)
 
-- Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down  *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+- Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)
 
@@ -156,9 +156,9 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
 - Do you need [DNS server](https://twitter.com/IngeniousAppsIA/status/1187730384492077057)? Can't set up your own server? Then how about [1984 FreeDNS](https://www.1984hosting.com/), [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/) or [this (warning: Admin delete your account if you use TOR)](https://freedns.afraid.org/)?
-  - By the way, Searxes is using `1984 DNS`.
+  - By the way Searxes is using `1984 DNS`.
 
-- Looking for hosting service? "Free" only? Well, how about [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
+- Looking for hosting service? "Free" only? Well, how about [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
 
 - Are you using "_cloudflare-ipfs.com_"? Do you know [Cloudflare IPFS is bad](PEOPLE.md)?
 
