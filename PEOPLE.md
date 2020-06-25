@@ -214,6 +214,8 @@ Activism is a duty & ethics trumps netiquette.
 
 "[iSucker: Big Brother Internet Culture](https://exiledonline.com/isucker-big-brother-internet-culture/)" by [The Exiled](https://exiledonline.com/)
 
+"[CloudFlare Watch](http://cryptome.org/2012/07/cloudflare-watch.htm)" by Daniel Brandt
+
 "[The Trouble with CloudFlare](https://blog.torproject.org/trouble-cloudflare)" by [mikeperry](https://blog.torproject.org/users/mikeperry)
 
 "[Growing Cloudflare Menace](http://imhhge4lijqv7jzf.onion/warning.html)"
