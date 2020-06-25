@@ -164,6 +164,10 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 - Some news websites are lying to Tor users. You can read their website if you are not using Tor nor VPN. If you visit their website over Tor, they just say "_Sorry, article not found_".
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imunify360.jpg)
+
+- Imunify360 is not so [intelligent](https://whc.ca/blog/introducing-imunify360-your-new-intelligent-firewall/) because it is blocking real human.
+
 - Some famous mail subscription service and some ISP websites are displaying "Maintenance" page if you visit them over Tor.
 
 **How can you trust their sites if they are not treating everyone equally?**
@@ -187,7 +191,7 @@ senate.gov
 
 If your website is on this list, you better talk with your network administrator.
 
-**But the website X no longer blocking Tor users!**
+**But my website X no longer blocking Tor users!**
 
 Are you sure? There are two ways to remove yourself.
 First option is just _*remove* it from the list_ and _create a pull request_.
