@@ -38,6 +38,8 @@ specific services or sites that you run into issue with and share your experienc
 
 If you don't [ask for it](PEOPLE.md), website owner *never* know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). You have a problem? Raise your voice now.
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/liberapay.jpg)
+
 ```
 You are just helping corporate censorship and mass surveillance.
 https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
