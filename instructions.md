@@ -166,7 +166,7 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imunify360.jpg)
 
-- Imunify360 is not so [intelligent](https://whc.ca/blog/introducing-imunify360-your-new-intelligent-firewall/) because it is blocking real human.
+- [Imunify360](https://web.archive.org/web/20200617160904/https://www.imunify360.com/) is not so [intelligent](https://whc.ca/blog/introducing-imunify360-your-new-intelligent-firewall/) because it is blocking real human.
 
 - Some famous mail subscription service and some ISP websites are displaying "Maintenance" page if you visit them over Tor.
 
