@@ -36,9 +36,12 @@ We recommend that you reach out to the administrators for the
 specific services or sites that you run into issue with and share your experience.
 ```
 
-If you don't [ask for it](PEOPLE.md), website owner *never* know this problem. Example below. [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5). You have a problem? Raise your voice now.
+If you don't [ask for it](PEOPLE.md), website owner *never* know this problem.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/liberapay.jpg)
+
+[Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
+You have a problem? Raise your voice now. Example below.
 
 ```
 You are just helping corporate censorship and mass surveillance.
