@@ -546,6 +546,9 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"Browsing the internet with TOR, I can now confirm I am familiar with all of Cloudflare CAPTCHA images to the point of vomit" by [reuvenim](https://twitter.com/reuvenim/status/1275966019371020290)
+
+
 "Would we tolerate NBC or Netflix airing racist ads? Nope. Would it be censorship if they refused to air such ads? Nope. Then why do we tolerate protecting and delivering content for racist websites? 🤔 Sell your $NET - send a message to RacistInChief!" by [phyzonloop](https://twitter.com/phyzonloop/status/1275956834189393922)
 
 "This is futile, trust me. If you find who's hosting, you contact the host. The host takes them down. They move to another host, which is easy to do. They're still hiding behind Cloudflare, so you can't find out who the new host is. Rinse. Repeat. RacistInChief" by [phyzonloop](https://twitter.com/phyzonloop/status/1275943066042535936)
@@ -2830,6 +2833,15 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"das ist wie mit Cloudflare ... Da gibt es auch einige Alternativen, wie z.B.: alle wollen nur gratis ... Geiz ist geil scheiß eben." by [kromonos](https://social.snopyta.org/@kromonos/104405972563561766)
+
+"XDAdevelopers is a horrible site. Not only is it jailed in CloudFlare's walledgarden, but it's run by extreme right-wing nutters. The first clue is is on Gab. Their mods also censor posts on how to change the IMEI number of a phone (falsely claiming it's illegal to change IMEI despite proof to the contrary). isolateGAB" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104404884384111681)
+
+"Fdroid's service is essential but they do not lead by good example. is narrowly focused on freesoftware w/out regard to important freedoms outside that context. They use Gitlab.com (why it's bad: They link to 2 CloudFlare sites that abuse privacy of donors & accept Paypal (w/600 corps in the loop)." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104404827281632556)
+
+"Statusupdate uhuc bkali serviceEs gab nur einen kleinen Rückschlag bei der Aktualisierung von Plume, welches aber noch am selben Tag gelöst werden konnte.LiberapayZudem habe ich aus mehreren Gründen meine Seite bei gelöscht. Neben dem nutzen für Cloudflare für, meiner Meinung nach, kritische Zahlungsdaten, arbeitet deren Social Media Team zwar im Fediverse ..." by [kromonos](https://social.snopyta.org/@kromonos/104404709607744750)
 
 
 "I have to retract what I said earlier about Liberapay. They also use CloudFlare, which is an abuser of privacy & netneutrality." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104399160445815482)
