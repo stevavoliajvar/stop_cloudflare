@@ -17,6 +17,7 @@ Cloudflare.
 ## Alternatives
 | Alternative       | Drawback                          | Price | Link |
 | ----------------- | --------------------------------- | ------ | ---- |
+| [sucuri](https://sucuri.net) | not gratis | $200+ | https://sucuri.net/|
 | PerimeterX        | not gratis                        | ? | - |
 | Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
 | Surge.sh      | uses custom servers           | Free | https://surge.sh/ |
@@ -32,3 +33,4 @@ CDNJS is sponsored by Cloudflare. It might use it in the background.
 | Siteground | Tor-hostile people. |
 |jsDelivr | Uses Cloudflare, see their [network page](https://www.jsdelivr.com/network) |
 | Gitlab pages      | GitLab is now Cloudflared |
+| Impurva Incapsula | I think they're Tor-hostile; may need some investigation |
