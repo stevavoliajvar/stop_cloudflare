@@ -546,6 +546,9 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"I think the same, but a lot of pages use it, not only Cloudflare. Also, this captcha asks every single time, so every time I access a Cloudflare protected page, I need to complete a captcha, same with other pages that use it. SimplicityFirstPrivacyLast" by [sapphirevideos2](https://twitter.com/SapphireVideos2/status/1276628421334855680)
+
+
 "Browsing the internet with TOR, I can now confirm I am familiar with all of Cloudflare CAPTCHA images to the point of vomit" by [reuvenim](https://twitter.com/reuvenim/status/1275966019371020290)
 
 
