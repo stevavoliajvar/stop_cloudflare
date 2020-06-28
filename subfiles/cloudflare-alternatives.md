@@ -34,4 +34,7 @@ CDNJS is sponsored by Cloudflare. It might use it in the background.
 |jsDelivr | Uses Cloudflare, see their [network page](https://www.jsdelivr.com/network) |
 | Gitlab pages      | GitLab is now Cloudflared |
 | Impurva Incapsula | I think they're Tor-hostile; may need some investigation |
-| equalit.ie | some people recommend equalit.ie as a CF alternative, but equalit.ie uses CF themselves so wtf |
+
+
+[//]: # ('equalit.ie uses CF' - can't reproduce. please add proof for investigation)
+
