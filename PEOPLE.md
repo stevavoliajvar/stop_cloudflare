@@ -546,6 +546,13 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"here in 2017. Then I discovered that I needed a VPN to access it. Now I can't access it even with a VPN. I tried contacting them when I could access it but never heard back. I get Error 1020 from Cloudflare which is a firewall violation. Cloudflare's forum suggests..." by [sanfordeliotkn1](https://twitter.com/sanfordeliotkn1/status/1276879262818148358)
+
+"Thanks! The servers aren’t loaded much. Everything works fine if to disable Cloudflare proxying. The 502 error is coming from Cloudflare not being able to reach a completely operational AWS infrastructure. It’s a really mysterious issue." by [sergiishymko](https://twitter.com/SergiiShymko/status/1276581666304094209)
+
+"Hi, I cant reach to the Website. It gaves Cloudflare error. Can you guys fix it?" by [morrowindmemes](https://twitter.com/morrowindmemes/status/1276166253082804226)
+
+
 "I think the same, but a lot of pages use it, not only Cloudflare. Also, this captcha asks every single time, so every time I access a Cloudflare protected page, I need to complete a captcha, same with other pages that use it. SimplicityFirstPrivacyLast" by [sapphirevideos2](https://twitter.com/SapphireVideos2/status/1276628421334855680)
 
 
@@ -2836,6 +2843,39 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"Banks have a standard level of security. It's not as high as it should be but it's well above CloudFlare. Too much money is on the line with banks to trust CloudFlare.Capital One was foolish enough to trust Amazon AWS, and they got stung for it." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104417763260069587)
+
+"I think I've only ever encountered one bank foolish enough to use CloudFlare. Liberapay, Patreon, & openCollective all expect donors to set aside ethics and make a charitable donation, one that gives their financial data to web's most notorious privacy & netneutrality abuser. Of course it's reckless." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104417691192513186)
+
+"You know that there is this organization ResetTech, funding OpenSource software with the aim to fight against the occupation of the free internet by BigTech.And then you read this: files hosted on Amazon S3 with Cloudflare as our CDN."😭" by [laufi](https://chaos.social/@laufi/104417666671748351)
+
+""CF also allows website admins.." It's CloudFlare's default setting that has put them in a position of abusing privacy & netneutrality. If they had a different default setting they would legitimately be able to point the finger to web admins (most of whome have little clue about how CF works or what Tor is)" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104417450060703385)
+
+"I just now tried to tick the "I am human" box on a CloudFlare site after enabling a bunch of j/s, and couldn't even get the puzzle. It says "rate limited or network error. please retry"" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104417329399891213)
+
+"CloudFlare also pushes Google reCAPTCHA, from which further privacy abuse arises. From CF's mistreatment of Tor users there is access inequality, attacking the single most important principle of netneutrality." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104417293861416194)
+
+"I never made the claim that the US gov. has CloudFlare's view of the data, so I have no need to substantiate the US role. My claim that CF centralizes the web is well-substantiated in those articles. What does CF do differently after 2016 that you believe supports decentralization & netneutrality?" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104416781747315105)
+
+"you could, but FYI matrix.org is a CloudFlare site" by [resist1984](https://social.privacytools.io/@resist1984/104416457948905715)
+
+"mass surveillance should be in your threat model, and Signal promotes all the mass surveillance-pushing tech giants ( Amazon, Google, CloudFlare, Facebook)" by [resist1984](https://social.privacytools.io/@resist1984/104416395074674908)
+
+"CloudFlare & Sucuri would share the MitM problem but not abuses to netneutrality, tor hostility, support for Google snooping, centralization of over 10% of the web, lying in their blog (telling users trust is not needed for CF service), blocking US voters from registering ( votersuppression), dictating web browsers to users (attacking text-based browsers) & yes- being shitbags." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104416035343972148)
+
+"CloudFlare claims substantiated: iscloudflaresafeyet.com It's especially stupid to trust CF for financial transactions." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104415937224236713)
+
+"there are some (unvetted) alternatives here: OpenCollective should also be avoided ( CloudFlare)" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104413662131601814)
+
+"both Liberapay & patreon are privacy-abusing CloudFlare sites. And worse, CF is a centralized netneutrality abuser which undermines the decentralization Lemmy hopes to achieve. I would not donate until they move off & Patreon." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104413637259613505)
+
+"It also would not make sense to evaluate the serverfarm that a website connects to since most of the traffic is between CloudFlare & the visitors, not website-to-CF. The vistors can come from anywhere, so you'd have to work out the percentage of unclean serverfarms under CF's control. For AWS it's 50%." by [resist1984](https://social.privacytools.io/@resist1984/104413583090535396)
+
+"then CloudFlare denies access to the very connections that are most respectful of the environment." by [resist1984](https://social.privacytools.io/@resist1984/104413507204047982)
+
+"CloudFlare is inherently energy wastefull. Bots & humans who use text-based browsers are the most environmentally respectful b/c they do not tend to download images (which consumes far more bandwidth than text). When images are not downloaded, CF's Google CAPTCHA automatically treats the connection like a hostile bot, & actually pushes images to an otherwise very green session," by [resist1984](https://social.privacytools.io/@resist1984/104413504524131828)
 
 
 "das ist wie mit Cloudflare ... Da gibt es auch einige Alternativen, wie z.B.: alle wollen nur gratis ... Geiz ist geil scheiß eben." by [kromonos](https://social.snopyta.org/@kromonos/104405972563561766)
