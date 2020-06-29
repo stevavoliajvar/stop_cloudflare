@@ -1,7 +1,7 @@
 # "Cloudflare, we have a problem"
 
 
-This is just a list of voices. This **does not** mean we endorse you.
+This is a list of voices. This **does not** mean we endorse you.
 If you want to add your blog feel free to do so.
 
 
@@ -23,7 +23,7 @@ Man-in-the-middle attack is a serious offense.
 If you′re using Cloudflare on your website, you won′t get first rank.
 You shouldn′t use it if you value visitor′s privacy.
 ```
- -- [Searxes](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/)
+ -- [Searxes / PSS](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/)
 
 
 ```
