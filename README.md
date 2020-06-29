@@ -64,7 +64,7 @@ Cloudflare similarly prevents many people who have poor internet connectivity fr
 [Tor users](https://www.torproject.org/) and [VPN users](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) are also a [victim](https://blog.torproject.org/trouble-cloudflare) of Cloudflare. If you didn't try Tor until this moment, we encourage you to [download Tor Browser](https://www.torproject.org/) and visit your favorite websites. (advice: _Do not login to your bank website or government webpage or they will flag your account. [Use VPN](https://www.vpngate.net/en/) for those websites._)
 
 You might want to say "_Tor is illegal! Tor is criminal's browser! Tor is bad!_". No.
-Tor _was_ developed by US Army, but current Tor is developed by the [Tor project](https://www.torproject.org/). There are many people and organizations who use Tor including your future friends. So, if you are using Cloudflare on your website you are blocking real humans. You will lose potential friendship and business deal.
+Tor _was_ [developed by US Army](https://www.nrl.navy.mil/itd/chacs/dingledine-tor-second-generation-onion-router), but current Tor is developed by the [Tor project](https://www.torproject.org/). There are many people and organizations [who use Tor](https://blog.torproject.org/tor-misused-criminals) including your future friends. So, if you are using Cloudflare on your website you are blocking _real_ humans. You will lose potential friendship and business deal.
 
 ---
 
