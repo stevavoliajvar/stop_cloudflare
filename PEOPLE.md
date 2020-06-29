@@ -2845,6 +2845,13 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+"Was mitunter daran liegt, dass Cloudflare die Funktion nicht nicht klar genug definiert und natürlich, dass jedes scheiß Medium TOR Kriminalisiert. Klar, man kann da Drogen, Waffen, ... kaufen, aber das kann ich fast an jedem Bahnhof auch ... Kriminalisieren wir deswegen gleich die Deutsche Bahn?" by [kromonos](https://social.snopyta.org/@kromonos/104422729452085600)
+
+"Manche schieben meinen Groll gegen Cloudflare direkt auf die Privatsphäre ... Aber das ist nur ein kleiner Teil. Z.B. finde ich es kritischer, dass das SSL Zertifikat von denen terminiert wird. Was mich aber am meisten an Cloudflare nervt ist deren Politik gegenüber TOR Benutzer. Toll, sie haben eine eigene .onion Adresse ... Aber dass jeder TOR Benutzer direkt mit einem Captcha maltretiert wird, ist bei denen Standardmäßig aktiv ... Und kaum jemand macht sich die Mühe das um zu stellen." by [kromonos](https://social.snopyta.org/@kromonos/104422723256179082)
+
+"saveinternetfreedom.tech is a CloudFlare site. Plz stop pimping those hypocrits." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104421793251355262)
+
+
 "Banks have a standard level of security. It's not as high as it should be but it's well above CloudFlare. Too much money is on the line with banks to trust CloudFlare.Capital One was foolish enough to trust Amazon AWS, and they got stung for it." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104417763260069587)
 
 "I think I've only ever encountered one bank foolish enough to use CloudFlare. Liberapay, Patreon, & openCollective all expect donors to set aside ethics and make a charitable donation, one that gives their financial data to web's most notorious privacy & netneutrality abuser. Of course it's reckless." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104417691192513186)
