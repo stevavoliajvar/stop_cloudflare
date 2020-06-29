@@ -112,10 +112,10 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 | Name | Developer | Support | Can Block | Can Notify | support Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Searxes | [Link](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) | **Yes**     | **Yes**     |  **Yes** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Searxes | [Link](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) | No     | **Yes**     |  **Yes** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | Searxes | [Link](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) | No     | **Yes**     |  **Yes** |
-| [<s>Block Cloudflare MITM Attack</s>](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx) | **Yes**     | **Yes**     |  No |
+| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Searxes | [Link](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/), [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | **Yes**     | **Yes**     |  **Yes** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Searxes | [Link](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/), [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | No     | **Yes**     |  **Yes** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | Searxes | [Link](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/), [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | No     | **Yes**     |  **Yes** |
+| [<s>Block Cloudflare MITM Attack</s>](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx), [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | **Yes**     | **Yes**     |  No |
 | [TPRB](https://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | Sw | [Link](https://sw.ffq3jiqzxucyclt43md7x7zsnuwy6gb33lb46lkkpcpji4lnlaezevyd.onion/) | **Yes**     | **Yes**     |  No |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |  No |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [Link](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Yes**     |  No |
