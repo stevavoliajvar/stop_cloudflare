@@ -18,8 +18,9 @@ Cloudflare.  [IPFS](https://ipfs.io/) may be worth consideration if performance 
 | Alternative       | Drawback                          | Price | Link |
 | ----------------- | --------------------------------- | ------ | ---- |
 | [eQualitie](https://equalit.ie/) | not gratis | gratis during COVID19 | https://equalit.ie/ |
-| [sucuri](https://sucuri.net) | not gratis | $200+ | https://sucuri.net/|
+| [sucuri](https://sucuri.net) | not gratis; tor hostility at ~3.483% | $200+ | https://sucuri.net/|
 | PerimeterX        | not gratis                        | ? | - |
+| [Impurva](https://www.imperva.com) | not gratis; tor hostility at ~3.411% | ? | https://www.imperva.com |
 | Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
 | Surge.sh      | uses custom servers           | Free | https://surge.sh/ |
 
@@ -34,7 +35,6 @@ CDNJS is sponsored by Cloudflare. It might use it in the background.
 | Siteground | Tor-hostile people. |
 |jsDelivr | Uses Cloudflare, see their [network page](https://www.jsdelivr.com/network) |
 | Gitlab pages      | GitLab is now Cloudflared |
-| Impurva Incapsula | Tor-hostility impacts ~3.411% of access attempts according to tests (perhaps this isn't significant enough to condemn them)|
 
 ## History
 Sucuri and eQualitie have a history of CloudFlare patronage, but no longer.
