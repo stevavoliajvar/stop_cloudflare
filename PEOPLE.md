@@ -546,6 +546,9 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"the site is down when I try to view it ... a Cloudflare error 502?" by [incognitafun](https://twitter.com/IncognitaFun/status/1277662055684857859)
+
+
 "here in 2017. Then I discovered that I needed a VPN to access it. Now I can't access it even with a VPN. I tried contacting them when I could access it but never heard back. I get Error 1020 from Cloudflare which is a firewall violation. Cloudflare's forum suggests..." by [sanfordeliotkn1](https://twitter.com/sanfordeliotkn1/status/1276879262818148358)
 
 "Thanks! The servers aren’t loaded much. Everything works fine if to disable Cloudflare proxying. The 502 error is coming from Cloudflare not being able to reach a completely operational AWS infrastructure. It’s a really mysterious issue." by [sergiishymko](https://twitter.com/SergiiShymko/status/1276581666304094209)
