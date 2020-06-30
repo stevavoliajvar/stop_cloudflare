@@ -25,7 +25,7 @@ Abby Carrales McNertney | Security Compliance
 Abby Morrill | Assistant Controller
 Abdulrahim Harara | Business Development
 Abida Ali | Delivery Manager
-Achiel van der Mandele | Product Manager
+Achiel van der Mandele | Product Manager | achiel@cloudflare.com
 Adam Chalmers | Systems Engineer, Austin
 Adam Chalmers‏ | Employee | https://twitter.com/adam_chal
 Adam Martinetti | Support Engineer
@@ -763,7 +763,7 @@ Lorene Pastore | Account Executive
 Lorenz Bauer | Employee
 Louis Grace | Business Development
 Louis Poinsignon | Network Engineer
-Lucas Pardue | HTTP/2 and QUIC
+Lucas Pardue | HTTP/2 and QUIC | https://twitter.com/simmervigor admin@lucaspardue.com lucas@cloudflare.com
 Luis Vasallo | Business Development
 Luisa Gobbo | Marketing and Events
 Luke Overend | Support Engineer
@@ -1137,8 +1137,8 @@ Stephanie Shattuck | Paralegal
 Stephen K. Lo | Customer Success
 Stephen Krings | Security Engineer
 Stephen Pinkerton | Product Manager, Austin
-Steve Klabnik | Storage Product Manager
 Steve Krause | Legal Counsel
+Steve Klabnik | Storage Product Manager | https://twitter.com/steveklabnik steve@steveklabnik.com
 Steve Pascucci | Sales Manager
 Steven Pack | Product Manager
 Steven Pham | Account Executive
