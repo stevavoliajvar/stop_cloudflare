@@ -170,6 +170,8 @@ Activism is a duty & ethics trumps netiquette.
 
 "[Cloudflare IPFS experiment](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/cloudflare-IPFS-experiment.html)" by [Joe](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/index.html)  [[mirror](http://archive.fo/139z1)]
 
+"[Tor Project calls out CloudFlare for dark web surveillance](https://www.itproportal.com/2016/02/29/tor-project-calls-out-cloudflare-for-dark-web-surveillance/)"
+
 "[CloudFlare: Deutscher Bundestag bezieht schon wieder Internet von US-Anbietern, diesmal für die eigenen Webseiten](https://netzpolitik.org/2015/cloudflare-deutscher-bundestag-bezieht-schon-wieder-internet-von-us-anbietern-diesmal-fuer-die-eigenen-webseiten/)" by [Andre Meister](https://netzpolitik.org/author/andre/)
 
 "[Don't Trust CloudFlare](https://write.lain.haus/thufie/dont-trust-cloudflare)" by [@lunaterra@cyberia.social](https://cyberia.social/@lunaterra)
@@ -256,6 +258,10 @@ Activism is a duty & ethics trumps netiquette.
 "[Cloudflare and the US Intelligence Community](https://www.reddit.com/r/privacy/comments/dmc4cj/cloudflare_and_the_us_intelligence_community/)" by [dhaavi](https://www.reddit.com/user/dhaavi)
 
 "[Some websites not loading pictures after upgrade to Tor Browser 9.0](https://trac.torproject.org/projects/tor/ticket/32238)"
+
+"[Downvoters seem to hate the truth.](https://www.reddit.com/r/btc/comments/8yin4y/ironic/e2b5ycn/)"
+
+"[Why does a .gov site use Cloudflare?](https://www.reddit.com/r/sysadmin/comments/4vdn15/why_does_a_gov_site_use_cloudflare/)"
 
 "[Some images from Cloudflare don't load up and a 403 Forbidden is returned](https://trac.torproject.org/projects/tor/ticket/32582)"
 
