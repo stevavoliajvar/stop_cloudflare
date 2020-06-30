@@ -456,6 +456,24 @@ Activism is a duty & ethics trumps netiquette.
 
 "[Cloudflare - the predator striking from the shadows.](https://web.archive.org/web/https://gitlab.com/librewolf-community/browser/linux/-/issues/119)"
 
+"[Can not bypass cloudflare captcha](https://github.com/JimmyLaurent/cloudflare-scraper/issues/9)"
+
+"[Error 522 when Cloudflare is Enable](https://github.com/htpcBeginner/docker-traefik/issues/58)"
+
+"[Alternative to Cloudflare?](https://github.com/audacity/audacity/issues/543)"
+
+"[ReadComicOnline no longer working without VPN.](https://github.com/Anorov/cloudflare-scrape/issues/372)"
+
+"[Website not accessible from Tor](https://github.com/mojolicious/mojolicious.org/issues/12)"
+
+"[Failed to get data from the API server: HTTP Error 403: Forbidden](https://github.com/ansible/galaxy/issues/1980)"
+
+"[Cloudflare breaks the HTML form for Tor users.](https://github.com/securitytxt/securitytxt.org/issues/43)"
+
+"[RSS feed blocked most of the time for Tor users](https://github.com/mnapoli/externals/issues/117)"
+
+"[Add domains owned by Cloudflare](https://github.com/nextdns/metadata/pull/23)"
+
 "[Does not work with Cloudflare](https://github.com/dorzki/Slack-Notifications/issues/48)"
 
 "[Remove CloudFlare CDN request](https://github.com/rust-lang/mdBook/pull/1256/commits/2c6c97e3a466c9c7194585e3073240a8429feea9)"
