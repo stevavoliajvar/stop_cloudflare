@@ -15,7 +15,7 @@ C'mon guys. Stop using Cloudflare.
 It's endangering the world wide web and you're blocking readers who are protecting
 their privacy by using Tor.
 ```
--- [Mr. Jeff Cliff, BSc](https://shitposter.club/users/jeffcliff)
+-- [Mr. Jeff Cliff, BSc](https://web.archive.org/save/https://shitposter.club/users/jeffcliff)
 
 
 ```
@@ -233,6 +233,10 @@ Activism is a duty & ethics trumps netiquette.
 </summary>
 
 
+"[every cloudflare website i go to it has error 1020. is cloudflare down rn?](https://www.reddit.com/r/CloudFlare/comments/hittvf/every_cloudflare_website_i_go_to_it_has_error/)"
+
+"[NO cloudflare website is loading](https://www.reddit.com/r/CloudFlare/comments/hiqm4u/no_cloudflare_website_is_loading/)"
+
 "[Highlighting Liberapay and OpenCollective as the preferred donation options](https://forum.f-droid.org/t/highlighting-liberapay-and-opencollective-as-the-preferred-donation-options/10163)"
 
 "[Firefox VPN (Firefox Private Network)](https://www.reddit.com/r/thehatedone/comments/h9elzc/firefox_vpn_firefox_private_network/)"
@@ -424,6 +428,8 @@ Activism is a duty & ethics trumps netiquette.
 "[Padlock icon indicates a secure SSL connection established w MitM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)" by [Anonymous](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
 
 "[The catch you're missing](https://www.reddit.com/r/Wordpress/comments/2zpq2g/cloudflare_free_plan_too_good_to_be_true/cpldjc6/)" by [cqwww](https://www.reddit.com/user/cqwww)
+
+"[What are the disadvantages of using CloudFlare?](https://www.quora.com/What-are-the-disadvantages-of-using-CloudFlare)" by quora
 
 "[Why did Cloudflare go down on July 2, 2019?](https://www.quora.com/Why-did-Cloudflare-go-down-on-July-2-2019)" by quora
 
