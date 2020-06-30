@@ -20,7 +20,7 @@ Cloudflare.  [IPFS](https://ipfs.io/) may be worth consideration if performance 
 | [eQualitie](https://equalit.ie/) | not gratis | gratis during COVID19 | https://equalit.ie/ |
 | [sucuri](https://sucuri.net) | not gratis; tor hostility at ~3.483% | $200+ | https://sucuri.net/|
 | PerimeterX        | not gratis                        | ? | - |
-| [Impurva](https://www.imperva.com) | not gratis; tor hostility at ~3.411% | ? | https://www.imperva.com |
+| [Imperva](https://www.imperva.com) | not gratis; tor hostility at ~3.411% | ? | https://www.imperva.com |
 | Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
 | Surge.sh      | uses custom servers           | Free | https://surge.sh/ |
 
