@@ -11,12 +11,13 @@ Self-hosting often works great, but it requires some effort to setup. It is
 more aimed at technical people.
 
 We might create a guide for some self-hosting basics which don't require 
-Cloudflare.
+Cloudflare.  [IPFS](https://ipfs.io/) may be worth consideration if performance is the main concern.
 
 
 ## Alternatives
 | Alternative       | Drawback                          | Price | Link |
 | ----------------- | --------------------------------- | ------ | ---- |
+| [eQualitie](https://equalit.ie/) | not gratis | gratis during COVID19 | https://equalit.ie/ |
 | [sucuri](https://sucuri.net) | not gratis | $200+ | https://sucuri.net/|
 | PerimeterX        | not gratis                        | ? | - |
 | Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
@@ -33,8 +34,8 @@ CDNJS is sponsored by Cloudflare. It might use it in the background.
 | Siteground | Tor-hostile people. |
 |jsDelivr | Uses Cloudflare, see their [network page](https://www.jsdelivr.com/network) |
 | Gitlab pages      | GitLab is now Cloudflared |
-| Impurva Incapsula | I think they're Tor-hostile; may need some investigation |
+| Impurva Incapsula | Tor-hostility impacts ~3.411% of access attempts according to tests (perhaps this isn't significant enough to condemn them)|
 
-
-[//]: # ('equalit.ie uses CF' - can't reproduce. please add proof for investigation)
+## History
+Sucuri and eQualitie have a history of CloudFlare patronage, but no longer.
 
