@@ -257,6 +257,12 @@ Activism is a duty & ethics trumps netiquette.
 
 "[Cloudflare and the US Intelligence Community](https://www.reddit.com/r/privacy/comments/dmc4cj/cloudflare_and_the_us_intelligence_community/)" by [dhaavi](https://www.reddit.com/user/dhaavi)
 
+"[Cloudflare IM NOT A ROBOT blocking API?!?](https://www.patreondevelopers.com/t/cloudflare-im-not-a-robot-blocking-api/2607)"
+
+"[API Returning Cloudflare Challenge](https://www.patreondevelopers.com/t/api-returning-cloudflare-challenge/2025)"
+
+"[Cloudflare Challenge On www.patreon.com](https://www.patreondevelopers.com/t/cloudflare-challenge-on-https-www-patreon-com-api-oauth2-token/2213)"
+
 "[Some websites not loading pictures after upgrade to Tor Browser 9.0](https://trac.torproject.org/projects/tor/ticket/32238)"
 
 "[Downvoters seem to hate the truth.](https://www.reddit.com/r/btc/comments/8yin4y/ironic/e2b5ycn/)"
@@ -443,6 +449,10 @@ Activism is a duty & ethics trumps netiquette.
 ## Microsoft GitHub / GitLab
 </summary>
 
+
+"[Patreon Cloudflare CAPTCHA](https://github.com/mikf/gallery-dl/issues/508)"
+
+"[Patreon added Cloudflare, blocks get_file_contents](https://github.com/daemionfox/patreon-feed/issues/7)"
 
 "[Cloudflare - the predator striking from the shadows.](https://web.archive.org/web/https://gitlab.com/librewolf-community/browser/linux/-/issues/119)"
 
