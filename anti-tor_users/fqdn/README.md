@@ -18,3 +18,4 @@
 
 
 - See [instructions.md](../../instructions.md) for file purpose and format specifications.
+- [Tor Hostility Rate](../../not_cloudflare/domains/README.md)
