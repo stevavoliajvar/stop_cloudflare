@@ -29,7 +29,7 @@ function FindProxyForURL(url, host){
 
 9. Select your "`pac-loader`" directory
 
-10. Click "`Details `" of "`Set PAC from file`"
+10. Click "`Details`" of "`Set PAC from file`"
 
 11. Enable "`Allow in incognito`"
 
