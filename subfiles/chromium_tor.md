@@ -2,6 +2,8 @@
 
 
 0. Install Tor.
+ - Linux: `apt install tor`
+ - Windows: [e.g.](https://2019.www.torproject.org/docs/tor-manual.html.en) `tor --service install -options -f C:\tor\torrc`
 
 1. Download "`set-pac-from-file.zip`" from [Issue 839566: Remove support for PAC file to be loaded from files](https://bugs.chromium.org/p/chromium/issues/detail?id=839566#c40)
 
@@ -12,12 +14,13 @@
 4. Open "`my_pac_script.js`" file
 
 5. Change it like this.
+ - [Example PAC File](https://findproxyforurl.com/example-pac-file/)
 
 ```
 function FindProxyForURL(url, host){
     if (shExpMatch(host,"*.onion")){return "SOCKS5 127.0.0.1:9050";}
-    if (shExpMatch(host,"www.cloudflare.com")||shExpMatch(host,"www.nsa.gov")){return "SOCKS5 0.0.0.0:7";}
-	return "SOCKS5 127.0.0.1:9050";
+    if (shExpMatch(host,"*.cloudflare.com")){return "SOCKS5 0.0.0.0:7";}
+	return "SOCKS4 127.0.0.1:9050";
 }
 ```
 
