@@ -293,6 +293,7 @@ There is no 100% secure nor 100% private on the internet and technology.
 
 - Don't want to use "Tor"? You can use _any browser_ with [Tor daemon](https://packages.debian.org/search?searchon=names&keywords=tor).
   - Note that the Tor project [don't like this](https://support.torproject.org/tbb/tbb-9/). Use `Tor Browser` if you are able to do so.
+- [How to use Chromium with Tor](/subfiles/chromium_tor.md)
 
 - It may be possible to use "Tor Browser" without Tor:
 
