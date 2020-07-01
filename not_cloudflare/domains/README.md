@@ -15,19 +15,19 @@
 
 # Tor Hostility Rate
 
-- % of base domains blocked Tor users. A combined result of _Anti-Tor users_ and _CDN users_.
+- A combined result of _Anti-Tor users_ and _CDN users_.
 - We cannot provide Z1, Z3, and Z5 result due to memory limits.
 
-[//]: # (start; table / Please don't edit table name. If necessary please create an issue first)
+[//]: # (start; table / do not edit me; If necessary please create an issue first)
 
-| CDN Code | Name | % |
+| CDN Code | Name | % of base domains blocked |
 | -------- | -------- | -------- |
-Z2 | Akamai | 35.114 % |
-Z4 | Imperva | 3.798 % |
-Z6 | Microsoft | 2.462 % |
-Z7 | INAP | 1.004 % |
-Z8 | Sucuri | 3.793 % |
-Z9 | Fastly | 3.497 % |
+| Z2 | Akamai | 35.114 % |
+| Z4 | Imperva | 3.798 % |
+| Z6 | Microsoft | 2.462 % |
+| Z7 | INAP | 1.004 % |
+| Z8 | Sucuri | 3.793 % |
+| Z9 | Fastly | 3.497 % |
 
 [//]: # (end; table)
 
