@@ -472,6 +472,8 @@ Activism is a duty & ethics trumps netiquette.
 
 "[Website not accessible from Tor](https://github.com/mojolicious/mojolicious.org/issues/12)"
 
+"[A quick guide on allowing Tor users to visit your site that is behind Cloudflare](https://github.com/allow-tor/on-cloudflare)"
+
 "[Failed to get data from the API server: HTTP Error 403: Forbidden](https://github.com/ansible/galaxy/issues/1980)"
 
 "[Cloudflare breaks the HTML form for Tor users.](https://github.com/securitytxt/securitytxt.org/issues/43)"
@@ -595,12 +597,9 @@ Activism is a duty & ethics trumps netiquette.
 
 "Hi, I cant reach to the Website. It gaves Cloudflare error. Can you guys fix it?" by [morrowindmemes](https://twitter.com/morrowindmemes/status/1276166253082804226)
 
-
 "I think the same, but a lot of pages use it, not only Cloudflare. Also, this captcha asks every single time, so every time I access a Cloudflare protected page, I need to complete a captcha, same with other pages that use it. SimplicityFirstPrivacyLast" by [sapphirevideos2](https://twitter.com/SapphireVideos2/status/1276628421334855680)
 
-
 "Browsing the internet with TOR, I can now confirm I am familiar with all of Cloudflare CAPTCHA images to the point of vomit" by [reuvenim](https://twitter.com/reuvenim/status/1275966019371020290)
-
 
 "Would we tolerate NBC or Netflix airing racist ads? Nope. Would it be censorship if they refused to air such ads? Nope. Then why do we tolerate protecting and delivering content for racist websites? 🤔 Sell your $NET - send a message to RacistInChief!" by [phyzonloop](https://twitter.com/phyzonloop/status/1275956834189393922)
 
@@ -616,14 +615,11 @@ Activism is a duty & ethics trumps netiquette.
 
 "Registration is currently broken—looks like a issue (error 1020). Ray ID: 5a8121be68340d9e" by [joeyfigaro](https://twitter.com/joeyfigaro/status/1275534385136238593)
 
-
 "are Racists They have clients like chimpmania.com and tightroperecords.com for clients. Actions are louder than hashtags. They profit from racism." by [phyzonloop](https://twitter.com/phyzonloop/status/1275563267696590848)
 
 "How can you be a pawn for Cloudflare when they support and protect hate speech sites that hurt your cause? Cloudflare chooses to PROFIT from websites that spread hate toward LGBTQIA+. Ask them to explain their hypocrisy. is RacistInChief" by [phyzonloop](https://twitter.com/phyzonloop/status/1275562891127775235)
 
-
 "One of many racist websites that Cloudflare has as clients. They will not terminate them. Cloudflare only blocks their critics, not the hate groups on their infrastructure." by [phyzonloop](https://twitter.com/phyzonloop/status/1275205368281513986)
-
 
 "you’ve placed your collector behind cloudflare, which apparently blocks developing countries, so customers in Africa can’t connect. There is no api captcha." by [figassis](https://twitter.com/figassis/status/1274841442003955712)
 
@@ -632,7 +628,6 @@ Activism is a duty & ethics trumps netiquette.
 "Been trying to view that link for the last hour but keep getting Cloudflare Error 522." by [mhfulltimer](https://twitter.com/MHFulltimer/status/1274685490126630916)
 
 "The Marketo Docs is not opening since past 15-16 hours. It is returning 520 Cloud Fare error with the error message that reads-- "There is an unknown connection issue between Cloudflare and the origin web server. " Any alternatives??" by [harshitsaxena86](https://twitter.com/harshitsaxena86/status/1274639831688069121)
-
 
 "Crazy that CTO shared this! His company protects, provides anonymity & delivers content on the internet for RACIST websites like chimpmania.com & tightroperecords.com. Cloudflare is racist despite their black Twitter logo and hashtag. Actions words." by [phyzonloop](https://twitter.com/phyzonloop/status/1274453652363714566)
 
@@ -648,16 +643,17 @@ Activism is a duty & ethics trumps netiquette.
 
 "It stumbled for me, a 522 server is off error, then recovered with a refresh." by [nrauhauser](https://twitter.com/nrauhauser/status/1274160819857551361)
 
-
 "When I try to access the site, I get a screen that claims CloudFlare requires me to enter a captcha to view the page; I've gotten anything like that before, and it has me suspicious." by [a_darsara](https://twitter.com/a_Darsara/status/1273982798567743488)
-
 
 "If Cloudflare is claiming that, it's complete BS. I've reported obvious scam sites and they took no action. boasts about their amazing machine learning to block bots and attacks. If they were serious, they could use the same tech to solve this. But, profits." by [phyzonloop](https://twitter.com/phyzonloop/status/1273754376927092740)
 
 "anyone else getting error 1105 when trying to open ? says its a cloudflare issue and I have no clue how to fix it, been glitched for hours now" by [xyztrading](https://twitter.com/XYZTrading/status/1273700404707102721)
 
-
 "I've found out the problem lies within the cloudflare. The css file only loads/can only be accessed after going through the cloudflare" by [blackthesecond](https://twitter.com/blackthesecond/status/1273662731296534529)
+
+"I really wish people would stop using Cloudflare, but it is especially annoying when there are external embeds to other Cloudflare-protected domains that require fishing out multiple captchas to fill out. Please don't combine these too pains to make it even worse for Tor users." by [happysmash27](https://nitter.net/happysmash27/status/1275704559650906116)
+
+"No thanks! If I want to use Firefox for anonymous & secure browsing, I just use Tor Browser. No need to route my traffic through Cloudflare." by [johnny_raccoon](https://nitter.net/johnny_raccoon/status/1273910173107728384)
 
 "i do not do bad things on the internet :)" by [2020iscancelled](https://twitter.com/2020iscancelled/status/1273668285045891072)
 
