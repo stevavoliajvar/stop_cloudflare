@@ -22,12 +22,12 @@
 
 | CDN Code | Name | % |
 | -------- | -------- | -------- |
-| Z2 | Akamai | un.define % |
-| Z4 | Imperva | un.define % |
-| Z6 | Microsoft | un.define % |
-| Z7 | INAP | un.define % |
-| Z8 | Sucuri | un.define % |
-| Z9 | Fastly | un.define % |
+Z2 | Akamai | 35.114 % |
+Z4 | Imperva | 3.798 % |
+Z6 | Microsoft | 2.462 % |
+Z7 | INAP | 1.004 % |
+Z8 | Sucuri | 3.793 % |
+Z9 | Fastly | 3.497 % |
 
 [//]: # (end; table)
 
