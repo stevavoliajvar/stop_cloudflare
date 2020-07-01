@@ -588,6 +588,11 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"hello, i woke up this morning and i was talking with my friends on discord, after a few hours, the discord wasnt working, not even on chrome, phone or my pc. It says its cloudflare error..." by [awd55111197](https://twitter.com/awd55111197/status/1278002519529185283)
+
+"Something going on cloudflare? Having DNS errors on all my sites (Error 1016). Also the dashboard is down" by [valtlfelipe](https://twitter.com/valtlfelipe/status/1277996627060502529)
+
+
 "the site is down when I try to view it ... a Cloudflare error 502?" by [incognitafun](https://twitter.com/IncognitaFun/status/1277662055684857859)
 
 
@@ -2884,6 +2889,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"when you sign a petition at change.org or moveon.org, everything you submit (name, email, voting region, etc) are shared with CloudFlare, a harmful tech giant (even if it's an HTTPS connection). Some people are also blocked from signing the petition, thus excluding them from a democratic process. This is a good reason to oppose the injustices of CloudFlared petitions." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104433134520413607)
+
+"okay, but don't tell ppl you're too lazy to fill out forms. Most petitions are on CloudFlare sites (change.org, moveon.org), so you can do activism simply by replying to petition pushers to say you won't share your details with CloudFlare." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104432974789958348)
 
 
 "Was mitunter daran liegt, dass Cloudflare die Funktion nicht nicht klar genug definiert und natürlich, dass jedes scheiß Medium TOR Kriminalisiert. Klar, man kann da Drogen, Waffen, ... kaufen, aber das kann ich fast an jedem Bahnhof auch ... Kriminalisieren wir deswegen gleich die Deutsche Bahn?" by [kromonos](https://social.snopyta.org/@kromonos/104422729452085600)
