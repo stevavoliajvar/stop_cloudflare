@@ -651,6 +651,8 @@ Activism is a duty & ethics trumps netiquette.
 
 "I've found out the problem lies within the cloudflare. The css file only loads/can only be accessed after going through the cloudflare" by [blackthesecond](https://twitter.com/blackthesecond/status/1273662731296534529)
 
+"Trying to use the internet anonymously through Tor is a wake-up call. Many websites across the web seem to be able to detect Tor connections and block them––seems like it might be CloudFlare." by [luqui](https://twitter.com/luqui/status/1276940207401639937)
+
 "I really wish people would stop using Cloudflare, but it is especially annoying when there are external embeds to other Cloudflare-protected domains that require fishing out multiple captchas to fill out. Please don't combine these too pains to make it even worse for Tor users." by [happysmash27](https://twitter.com/happysmash27/status/1275704559650906116)
 
 "No thanks! If I want to use Firefox for anonymous & secure browsing, I just use Tor Browser. No need to route my traffic through Cloudflare." by [johnny_raccoon](https://twitter.com/johnny_raccoon/status/1273910173107728384)
