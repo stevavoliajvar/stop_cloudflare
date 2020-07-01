@@ -22,9 +22,9 @@
 
 | CDN Code | Name | % of base domains blocked |
 | -------- | -------- | -------- |
-| Z2 | Akamai | 35.114 % |
+| Z2 | Akamai | 35.103 % |
 | Z4 | Imperva | 3.798 % |
-| Z6 | Microsoft | 2.462 % |
+| Z6 | Microsoft | 2.463 % |
 | Z7 | INAP | 1.004 % |
 | Z8 | Sucuri | 3.793 % |
 | Z9 | Fastly | 3.497 % |
