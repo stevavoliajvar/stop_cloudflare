@@ -13,12 +13,12 @@
 
 5. Change it like this.
 
-````
+```
 function FindProxyForURL(url, host){
     if (shExpMatch(host,"*.onion")){return "SOCKS5 127.0.0.1:9050";}
     if (shExpMatch(host,"www.cloudflare.com")||shExpMatch(host,"www.nsa.gov")){return "SOCKS5 0.0.0.0:7";}
 	return "SOCKS5 127.0.0.1:9050";
-}
+\}
 ```
 
 6. Open Chromium > 3 dots > `More Tools` > `Extensions`
