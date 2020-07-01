@@ -3385,4 +3385,6 @@ Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https
 
 ---
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wearetrulysorry.jpg)
+
 !["Cloudflare is not an option."](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
