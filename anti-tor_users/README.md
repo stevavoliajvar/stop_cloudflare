@@ -2,7 +2,7 @@
 
 Don't block us!
 
-![](../image/sorry.jpg)
+![](../image/wearetrulysorry.jpg)
 
 See [instructions.md](../instructions.md) for file purpose and format specifications.
 
