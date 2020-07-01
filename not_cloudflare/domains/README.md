@@ -13,16 +13,18 @@
 
 ---
 
-# Tor Hostility Rate
+# Tor Hostility Rate (Tor Browser)
 
 - A combined result of _Anti-Tor users_ and _CDN users_.
-- We cannot provide Z1, Z3, and Z5 result due to memory limits.
+- We cannot provide Z1 and Z5 result due to memory limits.
+- Cloudflare made an exception to Tor Browser signature. You will be blocked by Cloudflare if you use other browser with Tor.
 
 [//]: # (start; table / do not edit me; If necessary please create an issue first)
 
 | CDN Code | Name | % of base domains blocked |
 | -------- | -------- | -------- |
 | Z2 | Akamai | 35.103 % |
+| Z3 | Cloudflare | undefine % |
 | Z4 | Imperva | 3.798 % |
 | Z6 | Microsoft | 2.463 % |
 | Z7 | INAP | 1.004 % |
