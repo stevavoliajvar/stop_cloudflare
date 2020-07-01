@@ -651,9 +651,9 @@ Activism is a duty & ethics trumps netiquette.
 
 "I've found out the problem lies within the cloudflare. The css file only loads/can only be accessed after going through the cloudflare" by [blackthesecond](https://twitter.com/blackthesecond/status/1273662731296534529)
 
-"I really wish people would stop using Cloudflare, but it is especially annoying when there are external embeds to other Cloudflare-protected domains that require fishing out multiple captchas to fill out. Please don't combine these too pains to make it even worse for Tor users." by [happysmash27](https://nitter.net/happysmash27/status/1275704559650906116)
+"I really wish people would stop using Cloudflare, but it is especially annoying when there are external embeds to other Cloudflare-protected domains that require fishing out multiple captchas to fill out. Please don't combine these too pains to make it even worse for Tor users." by [happysmash27](https://twitter.com/happysmash27/status/1275704559650906116)
 
-"No thanks! If I want to use Firefox for anonymous & secure browsing, I just use Tor Browser. No need to route my traffic through Cloudflare." by [johnny_raccoon](https://nitter.net/johnny_raccoon/status/1273910173107728384)
+"No thanks! If I want to use Firefox for anonymous & secure browsing, I just use Tor Browser. No need to route my traffic through Cloudflare." by [johnny_raccoon](https://twitter.com/johnny_raccoon/status/1273910173107728384)
 
 "i do not do bad things on the internet :)" by [2020iscancelled](https://twitter.com/2020iscancelled/status/1273668285045891072)
 
