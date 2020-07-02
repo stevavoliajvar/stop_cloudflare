@@ -588,6 +588,13 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"Hey - are completely blocking access to your website. There's not even an annoying captcha - it just says "access denied"." by [madonnaragu](https://twitter.com/madonnaragu/status/1278366600836657153)
+
+"why did you move to HCaptcha? It's horrible. I'm a real person - I just live in Vietnam. I don't want to enter a multi-step CAPTCHA every time I visit a website using Cloudflare." by [colinnewcomer](https://twitter.com/ColinNewcomer/status/1278294499773411328)
+
+"- heya, often getting the "Upload failed!" error when trying to send any type of file to people regardless of server, does work on mobile app just fine tho. using the cloudflare dns and have flushed/released/renewed + restarted discord so far" by [coldpaw_](https://twitter.com/Coldpaw_/status/1278416545736163329)
+
+
 "hello, i woke up this morning and i was talking with my friends on discord, after a few hours, the discord wasnt working, not even on chrome, phone or my pc. It says its cloudflare error..." by [awd55111197](https://twitter.com/awd55111197/status/1278002519529185283)
 
 "Something going on cloudflare? Having DNS errors on all my sites (Error 1016). Also the dashboard is down" by [valtlfelipe](https://twitter.com/valtlfelipe/status/1277996627060502529)
@@ -2889,6 +2896,9 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"The chatroom is in a place that requires login via gitlab.com, github.com, or Twitter ( all of which are exclusive walled gardens. There is a matrix.org gateway into Gitter, but I believe CloudFlare is in the loop." by [resist1984](https://social.privacytools.io/@resist1984/104436304302976689)
 
 
 "when you sign a petition at change.org or moveon.org, everything you submit (name, email, voting region, etc) are shared with CloudFlare, a harmful tech giant (even if it's an HTTPS connection). Some people are also blocked from signing the petition, thus excluding them from a democratic process. This is a good reason to oppose the injustices of CloudFlared petitions." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104433134520413607)
