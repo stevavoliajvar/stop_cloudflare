@@ -588,6 +588,9 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"I can't login via firefox on MacOS. From Chrome and safari it's working. I've tried clearing cookies, localstorage etc with no avail. It always says there was an request error. It was working free days ago without issues." by [eboyee](https://twitter.com/eboyee/status/1278525934992330752)
+
+
 "30 minutes and we don't know why cloudflare wont let me broadcast? #whatsHappening" by [Tore_says](https://twitter.com/Tore_says/status/1278728653350854657)
 
 "Hey - are completely blocking access to your website. There's not even an annoying captcha - it just says "access denied"." by [madonnaragu](https://twitter.com/madonnaragu/status/1278366600836657153)
@@ -2898,6 +2901,13 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"some universities outsource ebooks and journals to proquest.com (a CloudFlare site), which blocks student access unless they surrender their privacy. scihub is essential for that reason, and note that there is an onion site for scihub." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104445497955601820)
+
+"the scraping sometimes leads to blank results, but there's a searx instance that sources from other searx nodes - only the best quality ones, and it filters out CloudFlare sites to boot. It's Tor only:" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104445038675594759)
+
+"there are lots of ethical search engines. The single best one is searxes b/c it draws from other searx nodes of high quality, and then it filters out the CloudFlare sites:" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104444897065984511)
 
 
 "The chatroom is in a place that requires login via gitlab.com, github.com, or Twitter ( all of which are exclusive walled gardens. There is a matrix.org gateway into Gitter, but I believe CloudFlare is in the loop." by [resist1984](https://social.privacytools.io/@resist1984/104436304302976689)
