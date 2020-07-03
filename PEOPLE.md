@@ -2905,25 +2905,17 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 "some universities outsource ebooks and journals to proquest.com (a CloudFlare site), which blocks student access unless they surrender their privacy. scihub is essential for that reason, and note that there is an onion site for scihub." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104445497955601820)
 
-"the scraping sometimes leads to blank results, but there's a searx instance that sources from other searx nodes - only the best quality ones, and it filters out CloudFlare sites to boot. It's Tor only:" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104445038675594759)
-
-"there are lots of ethical search engines. The single best one is searxes b/c it draws from other searx nodes of high quality, and then it filters out the CloudFlare sites:" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104444897065984511)
-
-
 "The chatroom is in a place that requires login via gitlab.com, github.com, or Twitter ( all of which are exclusive walled gardens. There is a matrix.org gateway into Gitter, but I believe CloudFlare is in the loop." by [resist1984](https://social.privacytools.io/@resist1984/104436304302976689)
-
 
 "when you sign a petition at change.org or moveon.org, everything you submit (name, email, voting region, etc) are shared with CloudFlare, a harmful tech giant (even if it's an HTTPS connection). Some people are also blocked from signing the petition, thus excluding them from a democratic process. This is a good reason to oppose the injustices of CloudFlared petitions." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104433134520413607)
 
 "okay, but don't tell ppl you're too lazy to fill out forms. Most petitions are on CloudFlare sites (change.org, moveon.org), so you can do activism simply by replying to petition pushers to say you won't share your details with CloudFlare." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104432974789958348)
-
 
 "Was mitunter daran liegt, dass Cloudflare die Funktion nicht nicht klar genug definiert und natürlich, dass jedes scheiß Medium TOR Kriminalisiert. Klar, man kann da Drogen, Waffen, ... kaufen, aber das kann ich fast an jedem Bahnhof auch ... Kriminalisieren wir deswegen gleich die Deutsche Bahn?" by [kromonos](https://social.snopyta.org/@kromonos/104422729452085600)
 
 "Manche schieben meinen Groll gegen Cloudflare direkt auf die Privatsphäre ... Aber das ist nur ein kleiner Teil. Z.B. finde ich es kritischer, dass das SSL Zertifikat von denen terminiert wird. Was mich aber am meisten an Cloudflare nervt ist deren Politik gegenüber TOR Benutzer. Toll, sie haben eine eigene .onion Adresse ... Aber dass jeder TOR Benutzer direkt mit einem Captcha maltretiert wird, ist bei denen Standardmäßig aktiv ... Und kaum jemand macht sich die Mühe das um zu stellen." by [kromonos](https://social.snopyta.org/@kromonos/104422723256179082)
 
 "saveinternetfreedom.tech is a CloudFlare site. Plz stop pimping those hypocrits." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104421793251355262)
-
 
 "Banks have a standard level of security. It's not as high as it should be but it's well above CloudFlare. Too much money is on the line with banks to trust CloudFlare.Capital One was foolish enough to trust Amazon AWS, and they got stung for it." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104417763260069587)
 
