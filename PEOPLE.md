@@ -588,6 +588,8 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"30 minutes and we don't know why cloudflare wont let me broadcast? #whatsHappening" by [Tore_says](https://twitter.com/Tore_says/status/1278728653350854657)
+
 "Hey - are completely blocking access to your website. There's not even an annoying captcha - it just says "access denied"." by [madonnaragu](https://twitter.com/madonnaragu/status/1278366600836657153)
 
 "why did you move to HCaptcha? It's horrible. I'm a real person - I just live in Vietnam. I don't want to enter a multi-step CAPTCHA every time I visit a website using Cloudflare." by [colinnewcomer](https://twitter.com/ColinNewcomer/status/1278294499773411328)
