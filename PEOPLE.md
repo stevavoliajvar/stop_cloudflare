@@ -588,6 +588,11 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"Wonder why still tries to use the contact address?" by [dxgl_org](https://twitter.com/dxgl_org/status/1279475518556045312)
+
+"why you use Hcaptcha? Is really bad, today for enter to my site i need insert 14 captcha, every time error, for Hcaptcha truck, bus and trains are the same picture. More time need click 14 picture for solve.Why don't use recaptcha o solvemedia?" by [bittaitaliana](https://twitter.com/bittaitaliana/status/1279277017897283584)
+
+
 "I can't login via firefox on MacOS. From Chrome and safari it's working. I've tried clearing cookies, localstorage etc with no avail. It always says there was an request error. It was working free days ago without issues." by [eboyee](https://twitter.com/eboyee/status/1278525934992330752)
 
 
@@ -2901,6 +2906,13 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"Warning to Patreon patrons-- the app a bit on the snoopy side (grabs a copy of your clipboard when you start their app): Also note that Patreon's website is MitMd by cloudflare" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104458011125211004)
+
+"" hCaptcha also pays you for the work your users are doing." (from This means when you solve a CloudFlare-pushed hCAPTCHA, CloudFlare profits from your labor." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104447937063107862)
+
+"Both OpenCollective & liberapay are terrible options because they're both CloudFlare sites. CF is quite evil and untrustworthy; it's reckless that they trust CF with financial data. OpenCollective even has the nerve to allow CloudFlare (a giant tech corp) to ask for donations." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104447738081887150)
 
 
 "some universities outsource ebooks and journals to proquest.com (a CloudFlare site), which blocks student access unless they surrender their privacy. scihub is essential for that reason, and note that there is an onion site for scihub." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104445497955601820)
