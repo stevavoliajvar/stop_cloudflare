@@ -596,6 +596,15 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"2/2 or "firewall" providers like Cloudflare, who paint the users directly with half-functioning captcha shit. Because everyone who uses TOR is in their eyes directly an internet terrorist 🤢" by [naldela_teleyal](https://twitter.com/naldela_teleyal/status/1279740770686246913)
+
+"Nope, still getting Error 522 after initial connection between Cloudflare's network and the origin web server timed out. Got in once yesterday only :-(" by [standisher](https://twitter.com/standisher/status/1279736218566234112)
+
+"Morning - cloudflare timeout again Error 520 Ray ID: 5ae09bba8c055d37 • 2020-07-05 11:06:57 UTC Web server is returning an unknown error" by [zeb06527786](https://twitter.com/Zeb06527786/status/1279733703443468289)
+
+"This could explain the timeouts I get. Cloudflare reports "Error 524 Ray ID: 5adaa5214962ee13 • 2020-07-04 17:42:49 UTC" I guess because I am logged in. From a private window I can access everything without a problem & super fast." by [senden9](https://twitter.com/senden9/status/1279471395970387968)
+
+
 "And what about the website who block tor users? Can we do something about that? Because of this, I personally can't use tor as a daily driver." by [VishweshMasurk](https://twitter.com/VishweshMasurk/status/1279689660864684032)
 
 "Cloudflare's continued shitholing of Tor users annoys me to no end. Their advanced "security" offering is just IP banning Tor exit nodes." by [agentdero](https://twitter.com/agentdero/status/1278463041168789504)
@@ -2918,6 +2927,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"VoterSuppression of Tor users in Idaho by CloudFlare(CAPTCHA not even an option)" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104463713187647927)
+
+"Patreon, Liberapay, & OpenCollective are all privacy & netneutrality abusing CloudFlare sites. Patreon also takes the liberty of snooping on the clipboards of donors ( OpenCollective has the nerve to allow CloudFlare (a profit-driven corporation) to use their platform to ask for donations. WTF is wrong with ppl." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104462978884526630)
 
 
 "Warning to Patreon patrons-- the app a bit on the snoopy side (grabs a copy of your clipboard when you start their app): Also note that Patreon's website is MitMd by cloudflare" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104458011125211004)
