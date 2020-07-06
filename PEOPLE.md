@@ -597,9 +597,9 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
-"And what about the website who block tor users? Can we do something about that? Because of this, I personally can't use tor as a daily driver." by [VishweshMasurk](https://nitter.net/VishweshMasurk/status/1279689660864684032)
+"And what about the website who block tor users? Can we do something about that? Because of this, I personally can't use tor as a daily driver." by [VishweshMasurk](https://twitter.com/VishweshMasurk/status/1279689660864684032)
 
-"Cloudflare's continued shitholing of Tor users annoys me to no end. Their advanced "security" offering is just IP banning Tor exit nodes." by [agentdero](https://nitter.net/agentdero/status/1278463041168789504)
+"Cloudflare's continued shitholing of Tor users annoys me to no end. Their advanced "security" offering is just IP banning Tor exit nodes." by [agentdero](https://twitter.com/agentdero/status/1278463041168789504)
 
 "Wonder why still tries to use the contact address?" by [dxgl_org](https://twitter.com/dxgl_org/status/1279475518556045312)
 
