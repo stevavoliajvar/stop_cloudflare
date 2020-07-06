@@ -15,7 +15,8 @@ C'mon guys. Stop using Cloudflare.
 It's endangering the world wide web and you're blocking readers who are protecting
 their privacy by using Tor.
 ```
--- [Mr. Jeff Cliff, BSc](https://web.archive.org/save/https://shitposter.club/users/jeffcliff)
+-- [Mr. Jeff Cliff, BSc ***PROFILE USES CLOUDFLARE***](https://shitposter.club/users/jeffcliff)
+- [Issue 28: WTF Why is Jeff Cliff using Cloudflare website?](https://codeberg.org/crimeflare/cloudflare-tor/issues/28)
 
 
 ```
@@ -56,7 +57,7 @@ to solve a annoying timewasting puzzle usually after waiting five
 seconds which also cost you valuable time?
 Awesome! Use Cloudflare!
 ```
--- [Robin Wils](https://linuxrocks.online/@RMW)
+-- [Robin Wils, Ex contributor](https://linuxrocks.online/@RMW)
 
 ```
 I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
@@ -456,6 +457,14 @@ Activism is a duty & ethics trumps netiquette.
 </summary>
 
 
+"[Cloudflare now blocks API access to socialblade.](https://github.com/sl4vkek/python-socialblade/issues/3)"
+
+"[Clients that provide the "X-API-Token" header get blocked by Cloudflare](https://github.com/Sv443/JokeAPI/issues/117)"
+
+"[API endpoints have captcha?](https://github.com/opencollective/opencollective/issues/1040)"
+
+"[CloudFlare blocking requests](https://github.com/opencollective/opencollective/issues/3139)"
+
 "[Patreon Cloudflare CAPTCHA](https://github.com/mikf/gallery-dl/issues/508)"
 
 "[Patreon added Cloudflare, blocks get_file_contents](https://github.com/daemionfox/patreon-feed/issues/7)"
@@ -587,6 +596,10 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+
+"And what about the website who block tor users? Can we do something about that? Because of this, I personally can't use tor as a daily driver." by [VishweshMasurk](https://nitter.net/VishweshMasurk/status/1279689660864684032)
+
+"Cloudflare's continued shitholing of Tor users annoys me to no end. Their advanced "security" offering is just IP banning Tor exit nodes." by [agentdero](https://nitter.net/agentdero/status/1278463041168789504)
 
 "Wonder why still tries to use the contact address?" by [dxgl_org](https://twitter.com/dxgl_org/status/1279475518556045312)
 
