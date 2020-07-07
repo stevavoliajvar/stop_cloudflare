@@ -598,6 +598,10 @@ Activism is a duty & ethics trumps netiquette.
 
 "spending well over 10 minutes trying to access a web page, wondering why cloudflare is censoring tor users with impossible captchas" by [EmeraldOnion](https://twitter.com/EmeraldOnion/status/1280030410320121856)
 
+"Cloudflare is actively blocking my access to websites..  When did they decide to become a censor?" by [FossmanJeff](https://twitter.com/FossmanJeff/status/1272888889775136770)
+
+"Censorship is never a solution. Telling internet companies to censor parts of the internet because some people misbehave will make things much worse in the long run." by [mrusme](https://twitter.com/mrusme/status/1269025642353430533)
+
 "2/2 or "firewall" providers like Cloudflare, who paint the users directly with half-functioning captcha shit. Because everyone who uses TOR is in their eyes directly an internet terrorist 🤢" by [naldela_teleyal](https://twitter.com/naldela_teleyal/status/1279740770686246913)
 
 "Nope, still getting Error 522 after initial connection between Cloudflare's network and the origin web server timed out. Got in once yesterday only :-(" by [standisher](https://twitter.com/standisher/status/1279736218566234112)
