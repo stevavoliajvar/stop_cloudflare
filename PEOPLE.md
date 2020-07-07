@@ -596,6 +596,9 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"It might be cloudflare too, cause now getting Error 524. I'll see lol" by [esc0rtd3w](https://twitter.com/esc0rtd3w/status/1280194010422927365)
+
+
 "spending well over 10 minutes trying to access a web page, wondering why cloudflare is censoring tor users with impossible captchas" by [EmeraldOnion](https://twitter.com/EmeraldOnion/status/1280030410320121856)
 
 "Cloudflare is actively blocking my access to websites..  When did they decide to become a censor?" by [FossmanJeff](https://twitter.com/FossmanJeff/status/1272888889775136770)
@@ -2927,6 +2930,13 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"lol another internetfreedom petition jailed in CloudFlare's walled garden.Thanks though-- I just added it to the list of talking points w.r.t CloudFlare's harm to democracy." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104468498667652484)
+
+"On what basis are you calling CloudFlare "green"? CloudFlare actually attacks green users. If you use a text browser or disable image loading in your GUI browser (b/c images waste copious energy), CF assumes you're a robot & either denies access or it pushes many images in the form of a CAPTCHA. CF is bad for the environment & it's shameful for any pro-environment org to use them." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104466761038402231)
+
+"Idaho voter registration laws don't even mention the possibility of online registration, so Idaho legally escapes responsibility of offering an unbiased publicly open website election2020 CloudFlare voterSuppression" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104466685572681057)
 
 
 "VoterSuppression of Tor users in Idaho by CloudFlare(CAPTCHA not even an option)" by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104463713187647927)
