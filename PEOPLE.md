@@ -596,6 +596,8 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"spending well over 10 minutes trying to access a web page, wondering why cloudflare is censoring tor users with impossible captchas" by [EmeraldOnion](https://twitter.com/EmeraldOnion/status/1280030410320121856)
+
 "2/2 or "firewall" providers like Cloudflare, who paint the users directly with half-functioning captcha shit. Because everyone who uses TOR is in their eyes directly an internet terrorist 🤢" by [naldela_teleyal](https://twitter.com/naldela_teleyal/status/1279740770686246913)
 
 "Nope, still getting Error 522 after initial connection between Cloudflare's network and the origin web server timed out. Got in once yesterday only :-(" by [standisher](https://twitter.com/standisher/status/1279736218566234112)
@@ -603,7 +605,6 @@ Activism is a duty & ethics trumps netiquette.
 "Morning - cloudflare timeout again Error 520 Ray ID: 5ae09bba8c055d37 • 2020-07-05 11:06:57 UTC Web server is returning an unknown error" by [zeb06527786](https://twitter.com/Zeb06527786/status/1279733703443468289)
 
 "This could explain the timeouts I get. Cloudflare reports "Error 524 Ray ID: 5adaa5214962ee13 • 2020-07-04 17:42:49 UTC" I guess because I am logged in. From a private window I can access everything without a problem & super fast." by [senden9](https://twitter.com/senden9/status/1279471395970387968)
-
 
 "And what about the website who block tor users? Can we do something about that? Because of this, I personally can't use tor as a daily driver." by [VishweshMasurk](https://twitter.com/VishweshMasurk/status/1279689660864684032)
 
@@ -613,9 +614,7 @@ Activism is a duty & ethics trumps netiquette.
 
 "why you use Hcaptcha? Is really bad, today for enter to my site i need insert 14 captcha, every time error, for Hcaptcha truck, bus and trains are the same picture. More time need click 14 picture for solve.Why don't use recaptcha o solvemedia?" by [bittaitaliana](https://twitter.com/bittaitaliana/status/1279277017897283584)
 
-
 "I can't login via firefox on MacOS. From Chrome and safari it's working. I've tried clearing cookies, localstorage etc with no avail. It always says there was an request error. It was working free days ago without issues." by [eboyee](https://twitter.com/eboyee/status/1278525934992330752)
-
 
 "30 minutes and we don't know why cloudflare wont let me broadcast? #whatsHappening" by [Tore_says](https://twitter.com/Tore_says/status/1278728653350854657)
 
@@ -625,14 +624,11 @@ Activism is a duty & ethics trumps netiquette.
 
 "- heya, often getting the "Upload failed!" error when trying to send any type of file to people regardless of server, does work on mobile app just fine tho. using the cloudflare dns and have flushed/released/renewed + restarted discord so far" by [coldpaw_](https://twitter.com/Coldpaw_/status/1278416545736163329)
 
-
 "hello, i woke up this morning and i was talking with my friends on discord, after a few hours, the discord wasnt working, not even on chrome, phone or my pc. It says its cloudflare error..." by [awd55111197](https://twitter.com/awd55111197/status/1278002519529185283)
 
 "Something going on cloudflare? Having DNS errors on all my sites (Error 1016). Also the dashboard is down" by [valtlfelipe](https://twitter.com/valtlfelipe/status/1277996627060502529)
 
-
 "the site is down when I try to view it ... a Cloudflare error 502?" by [incognitafun](https://twitter.com/IncognitaFun/status/1277662055684857859)
-
 
 "here in 2017. Then I discovered that I needed a VPN to access it. Now I can't access it even with a VPN. I tried contacting them when I could access it but never heard back. I get Error 1020 from Cloudflare which is a firewall violation. Cloudflare's forum suggests..." by [sanfordeliotkn1](https://twitter.com/sanfordeliotkn1/status/1276879262818148358)
 
