@@ -153,8 +153,9 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 | List name | Description |
 | -------- | -------- |
-| /fqdn/attd.txt     | Split files, Everything (FQDN)     |
-| /fqdn/attd_(com/net/org).txt     | Split files, .com/.net/.org only (FQDN)     |
+| /fqdn/attd.txt     | **Block Tor access** Split files, Everything (FQDN)     |
+| /fqdn/attd_(com/net/org).txt     | **Block Tor access** Split files, .com/.net/.org only (FQDN)     |
+| hostility.md | **Does NOT block Tor access** Domain and Comment |
 
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
@@ -175,7 +176,7 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 ```
 
-About "Anti-Tor FQDN list"
+About "Anti-Tor FQDN list" (attd*.txt)
 
 www.example.com
    ---> www.example.com denied/bullied Tor visitor.
