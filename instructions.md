@@ -234,14 +234,14 @@ A or B will be enough. Thank you for your contribution.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 https://(API)/_/ismitm.php?f=www.emsisoft.com`
   - Or: Use "_Detect CDN_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 https://(API)/_/is_zcdn.php?f=www.cloudflare.com`
-<br>
 - Anti-TOR
   - Use "_Is it blocking Tor?_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 https://(API)/_/is_antitor.php?f=www.cloudflare.com`
   - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
-<br>
-- Public API Details: [Here](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) - Bottom menu - "Public API"
 
+
+Public API Details: [Here](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) - Bottom menu - "Public API"
+<br>
 Your contribution will be pushed to Codeberg automatically within a week.
 
 </details>
