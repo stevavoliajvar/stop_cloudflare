@@ -596,6 +596,17 @@ Activism is a duty & ethics trumps netiquette.
 
 
 
+"Hi. I keep getting pushed to a Cloudflare page on one of 2 laptops. On the other, I'm fine. On my phone, good too. But the Cloudflare push asks me to do through a Captcha and every time I try it, it will not go any further after I have done what I was asked to do." by [caknox1](https://twitter.com/caknox1/status/1281000788420997120)
+
+"just a heads-up your blog is down for me Error 521. (Cloudflare are serving a snapshot)." by [phil_gill](https://twitter.com/Phil_Gill/status/1280809317143363586)
+
+"so hosts with ? cause this crap aint working ... i get a "host error" message ..." by [andrewchibale](https://twitter.com/AndrewChibale/status/1280621656923398144)
+
+"Website down, Cloudflare Error 502 bad gateway error" by [nano_fanstastic](https://twitter.com/Nano_Fanstastic/status/1280572943009865728)
+
+"are your servers down? cloudflare gives error 523 origin is unreachable" by [mir_rich](https://twitter.com/Mir_Rich/status/1280501073640333312)
+
+
 "It might be cloudflare too, cause now getting Error 524. I'll see lol" by [esc0rtd3w](https://twitter.com/esc0rtd3w/status/1280194010422927365)
 
 
