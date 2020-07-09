@@ -229,9 +229,17 @@ A or B will be enough. Thank you for your contribution.
 
 - Cloudflare/CDN
   - Scan FQDN on "[Is MITM?](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
-  - Or just use "_MITM test_" API, "_Detect CDN_" API.
+  - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
+  - Or: Use "_MITM test_" API.
+    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 https://api.wod~.onion/_/ismitm.php?f=www.emsisoft.com`
+  - Or: Use "_Detect CDN_" API.
+    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 https://api.wod~.onion/_/is_zcdn.php?f=www.cloudflare.com`
 - Anti-TOR
-  - Just use "_Is it blocking Tor?_" API.
+  - Use "_Is it blocking Tor?_" API.
+    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 https://api.wod~.onion/_/is_antitor.php?f=www.cloudflare.com`
+  - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
+
+- Public API Details: [Here](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) - Bottom menu - "Public API"
 
 Your contribution will be pushed to Codeberg automatically within a week.
 
