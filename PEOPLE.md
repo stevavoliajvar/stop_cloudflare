@@ -38,7 +38,7 @@ Regardless, that's not my main objection to Cloudflare.
 As a "man in the middle", they get access to all of my traffic.
 With the SSL certificates they provide, your connection is encrypted to Cloudflare then
 decrypted and sent to the server. The lock icon in your browser means absolutely nothing
-when a third party is literally getting *all* of your traffic when you connect to that site.
+when a third party is literally getting all of your traffic when you connect to that site.
 Beyond that, with so many sites using Cloudflare, cross-site tracking becomes a problem.
 
 In addition, with so many websites behind Cloudflare, when it goes down, half the web is down.
@@ -62,7 +62,8 @@ Awesome! Use Cloudflare!
 I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
 Activism is a duty & ethics trumps netiquette.
 
-Posting original information exclusively on onion sites is like affirmative action for the repressed Tor community.
+Posting original information exclusively on onion sites
+is like affirmative action for the repressed Tor community.
 Correcting the wrongs of CloudFlare entails some unfair discrimination against clearnet users.
 ```
 -- [Activist](https://activism.openworlds.info/@aktivismoEstasMiaLuo/103923473080989041)
