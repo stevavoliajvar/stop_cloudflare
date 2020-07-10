@@ -2961,6 +2961,9 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+"Posting original information /exclusively/ on onion sites is like affirmative action for the repressed Tor community. Correcting the wrongs of CloudFlare entails some unfair discrimination against clearnet users." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104484153083655705)
+
+
 "lol another internetfreedom petition jailed in CloudFlare's walled garden.Thanks though-- I just added it to the list of talking points w.r.t CloudFlare's harm to democracy." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104468498667652484)
 
 "On what basis are you calling CloudFlare "green"? CloudFlare actually attacks green users. If you use a text browser or disable image loading in your GUI browser (b/c images waste copious energy), CF assumes you're a robot & either denies access or it pushes many images in the form of a CAPTCHA. CF is bad for the environment & it's shameful for any pro-environment org to use them." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104466761038402231)
