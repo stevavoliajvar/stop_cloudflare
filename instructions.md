@@ -216,9 +216,9 @@ If you're not blocking Tor users, you will be removed automatically.
 
 A or B will be enough. Thank you for your contribution.
 
-> Type A: Push to CodeBerg
+> Type A: Push to Codeberg
 
-1. Log in to *CodeBerg*.
+1. Log in to *Codeberg*.
   - **WARNING**: Do note that Codeberg is blocking temporary email services and some minor email providers(not temporary email).
   - If you're Tor user, we recommend 'type B'.
 2. Click "*Fork*" button. (top-left corner)
@@ -231,16 +231,16 @@ A or B will be enough. Thank you for your contribution.
   - Scan FQDN on "[Is MITM?](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
   - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
   - Or: Use "_MITM test_" API.
-    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 https://(API)/_/ismitm.php?f=www.emsisoft.com`
+    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)ismitm.php?f=www.emsisoft.com`
   - Or: Use "_Detect CDN_" API.
-    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 https://(API)/_/is_zcdn.php?f=www.cloudflare.com`
+    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)is_zcdn.php?f=www.cloudflare.com`
 - Anti-TOR
   - Use "_Is it blocking Tor?_" API.
-    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 https://(API)/_/is_antitor.php?f=www.cloudflare.com`
+    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)is_antitor.php?f=www.cloudflare.com`
   - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
 
 
-Public API Details: [Here](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) - Bottom menu - "Public API"
+Public API Details: [Here](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) > Bottom menu > "Public API"
 <br>
 Your contribution will be pushed to Codeberg automatically within a week.
 
@@ -256,7 +256,7 @@ Your contribution will be pushed to Codeberg automatically within a week.
 
 
 This procedure will give you a stop_cloudflare fork with a privacy-respecting configuration to do pushes with SSH over Tor using codeberg.org("CDB").
-Below procedure is designed for ***linux***.
+Below procedure is designed for _Linux_.
 The first step covers Windows too, but these instructions probably
 need more adaptations for Windows and other platforms.
 
