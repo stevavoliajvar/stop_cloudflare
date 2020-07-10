@@ -3486,9 +3486,7 @@ Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https
 ---
 
 
-## Still defending Cloudflare after all you've read?
-
-# What is wrong with you?
+# Still defending Cloudflare after all you've read?
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wearetrulysorry.jpg)
