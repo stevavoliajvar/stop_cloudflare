@@ -61,6 +61,9 @@ Awesome! Use Cloudflare!
 ```
 I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
 Activism is a duty & ethics trumps netiquette.
+
+Posting original information exclusively on onion sites is like affirmative action for the repressed Tor community.
+Correcting the wrongs of CloudFlare entails some unfair discrimination against clearnet users.
 ```
 -- [Activist](https://activism.openworlds.info/@aktivismoEstasMiaLuo/103923473080989041)
 
@@ -232,6 +235,10 @@ Activism is a duty & ethics trumps netiquette.
 ## Forum / Wiki
 </summary>
 
+
+"[Ok. But if they use Cloudflare, which MITMs traffic, all their users data is in plaintext to Cloudflare.](https://news.ycombinator.com/item?id=17700131)"
+
+"[Can someone please explain to me how Cloudflare isn't MITM?](https://www.reddit.com/r/AskNetsec/comments/hbcvl2/can_someone_please_explain_to_me_how_cloudflare/)"
 
 "[every cloudflare website i go to it has error 1020. is cloudflare down rn?](https://www.reddit.com/r/CloudFlare/comments/hittvf/every_cloudflare_website_i_go_to_it_has_error/)"
 
@@ -455,6 +462,16 @@ Activism is a duty & ethics trumps netiquette.
 ## Microsoft GitHub / GitLab
 </summary>
 
+
+"[Riot connects to cloudflare servers, even if an isolated private homeserver is used](https://github.com/vector-im/riot-web/issues/11648)"
+
+"[Cloudflare CAPTCHA](https://github.com/OnionBrowser/OnionBrowser/issues/256)"
+
+"[Add blocked Cloudflare IPs](https://github.com/zhovner/zaborona_help/issues/178)"
+
+"[No CloudFlare instances are 'green'](https://framagit.org/greenfediverse/green-instances/-/issues/3)"
+
+"[CloudFlare tracks whether a user is downloading images,](https://framagit.org/greenfediverse/green-instances/-/raw/master/rejectlist/cloudflare.md)"
 
 "[Cloudflare now blocks API access to socialblade.](https://github.com/sl4vkek/python-socialblade/issues/3)"
 
@@ -3467,6 +3484,12 @@ Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https
 </details>
 
 ---
+
+
+## Still defending Cloudflare after all you've read?
+
+# What is wrong with you?
+
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wearetrulysorry.jpg)
 
