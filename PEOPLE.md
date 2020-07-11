@@ -627,9 +627,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 "are your servers down? cloudflare gives error 523 origin is unreachable" by [mir_rich](https://twitter.com/Mir_Rich/status/1280501073640333312)
 
-
 "It might be cloudflare too, cause now getting Error 524. I'll see lol" by [esc0rtd3w](https://twitter.com/esc0rtd3w/status/1280194010422927365)
-
 
 "spending well over 10 minutes trying to access a web page, wondering why cloudflare is censoring tor users with impossible captchas" by [EmeraldOnion](https://twitter.com/EmeraldOnion/status/1280030410320121856)
 
