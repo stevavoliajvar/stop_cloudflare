@@ -614,6 +614,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"- Why are we getting the Cloudflare captcha basically every time we visit the site now? Also, their extension is basically useless." by [swipr_](https://twitter.com/swipR_/status/1281580704166543362)
+
+
 "Hi. I keep getting pushed to a Cloudflare page on one of 2 laptops. On the other, I'm fine. On my phone, good too. But the Cloudflare push asks me to do through a Captcha and every time I try it, it will not go any further after I have done what I was asked to do." by [caknox1](https://twitter.com/caknox1/status/1281000788420997120)
 
 "just a heads-up your blog is down for me Error 521. (Cloudflare are serving a snapshot)." by [phil_gill](https://twitter.com/Phil_Gill/status/1280809317143363586)
