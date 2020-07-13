@@ -2962,6 +2962,9 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+"SenSherrodBrown's bill is a noble, but he should focus on getting the government's own house in order. There are hundreds of US government operated websites in the privacy abusing walledgarden of CloudFlare or hosted on Amazon AWS. We can boycott private companies but we can't boycott the government. The gov. needs to get public resources out of the hands of privacy-abusers." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104501490167589216)
+
+
 "Posting original information /exclusively/ on onion sites is like affirmative action for the repressed Tor community. Correcting the wrongs of CloudFlare entails some unfair discrimination against clearnet users." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104484153083655705)
 
 
