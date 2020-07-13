@@ -231,6 +231,13 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 
 * Here's some [PDF](pdf/) to read.
 
+
+### About fake accounts
+
+We know about the existence of fake accounts impersonating our official channels, be it Twitter, Facebook, Patreon, OpenCollective etc.
+**We never ask your email. We never ask your donation. We never ask you to follow on social media.**
+
+
 ---
 
 ![WTF](image/wtfcf.jpg)
