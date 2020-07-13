@@ -614,6 +614,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"Honest question: why? Using Cloudflare or Google seems to be much worse from a privacy standpoint. ISP will get the requested sites anyway through the subsequent requests." by [auronline](https://twitter.com/AURonline/status/1281659151752585217)
+
+
 "hello chap. I am seeing a 1020 error (access denied by Cloudflare). I am not scraping, merely visiting to check the price of a luggage stand. Can you DM me?" by [samlivingstone_](https://twitter.com/SamLivingstone_/status/1282390897104232448)
 
 "Dear , what’s this 5xx level error on website? I need the goods!!" by [msherico](https://twitter.com/msherico/status/1282042535037132800)
