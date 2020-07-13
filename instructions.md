@@ -239,8 +239,7 @@ A or B will be enough. Thank you for your contribution.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)is_antitor.php?f=www.cloudflare.com`
   - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
 
-
-Public API Details: [Here](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) > Bottom menu > "Public API"
+Public API Details [ℹ](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/#!op=info/api)
 <br>
 Your contribution will be pushed to Codeberg automatically within a week.
 
