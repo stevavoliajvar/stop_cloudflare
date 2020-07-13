@@ -184,11 +184,13 @@ Cloudflare website to enter the data.
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
 
-Change.org is a famous website for gathering votes and take action. "[people everywhere are starting campaigns, mobilizing supporters, and working with decision makers to drive solutions.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
+- Change.org is a famous website for gathering votes and take action. "[people everywhere are starting campaigns, mobilizing supporters, and working with decision makers to drive solutions.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Unfortunately, many people cannot view change.org at all due to Cloudflare's aggressive filter. They are being blocked from signing the petition, thus excluding them from a democratic process. Using other non-cloudflared platform such as [OpenPetition](https://www.openpetition.eu/content/about_us) helps remedy the problem.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+
+- Cloudflare's "[Athenian Project](https://www.cloudflare.com/athenian/)" offers free enterprise-level protection to state and local election websites. They said "_their constituents can access election information and voter registration_" but this is a lie because many people just can't browse the site at all.
 
 </details>
 
