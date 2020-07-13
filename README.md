@@ -229,13 +229,15 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 
 * Try & write new [Tool / Script](tool/).
 
-* Here's some [PDF](pdf/) to read.
+* Here's some [PDF/ePUB](pdf/) to read.
 
+
+---
 
 ### About fake accounts
 
 We know about the existence of fake accounts impersonating our official channels, be it Twitter, Facebook, Patreon, OpenCollective etc.
-**We never ask your email. We never ask your donation. We never ask you to follow on social media.**
+**We never ask your email. We never ask your location. We never ask your name. We never ask your donation. We never ask you to follow on social media. We never ask your social media.**
 
 
 ---
