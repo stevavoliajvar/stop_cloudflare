@@ -614,6 +614,15 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"hello chap. I am seeing a 1020 error (access denied by Cloudflare). I am not scraping, merely visiting to check the price of a luggage stand. Can you DM me?" by [samlivingstone_](https://twitter.com/SamLivingstone_/status/1282390897104232448)
+
+"Dear , what’s this 5xx level error on website? I need the goods!!" by [msherico](https://twitter.com/msherico/status/1282042535037132800)
+
+"Bad gateway The web server reported a bad gateway error. Ray ID: 5a7afb931ffec Your IP address: 87.211.34.885 Error reference number: 502 Cloudflare Location: POP: undef" by [ifga5pqk5csc5bv](https://twitter.com/ifGA5pqK5csc5bV/status/1281871249011027968)
+
+"Down in Belgium. Error 521 Ray ID: 5b0ac06b8aebedab • 2020-07-10 13:50:04 UTC Browser: Working Cloudflare: Working Host: Error" by [mr_jean](https://twitter.com/Mr_Jean/status/1281586841985089536)
+
+
 "- Why are we getting the Cloudflare captcha basically every time we visit the site now? Also, their extension is basically useless." by [swipr_](https://twitter.com/swipR_/status/1281580704166543362)
 
 
