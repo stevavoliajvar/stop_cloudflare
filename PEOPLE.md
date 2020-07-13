@@ -237,6 +237,16 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+"[Try browsing the web using Tor or a VPN. You will spend the day doing Google recaptchas for like 90% of the websites you visit, I guarantee it. All thanks to Cloudflare.](https://dev.lemmy.ml/post/35712/comment/8474)"
+
+"[why the fuck does so much stuff run on Cloudflare?!](https://dev.lemmy.ml/post/36758/comment/10074)"
+
+"[The devs of systemd, the main init system on Linux, use Google and cloudflare for fallback/default NTP and DNS, when asked to use privacy respecting alternatives, they call people conspiracy theorists](https://dev.lemmy.ml/post/34476)"
+
+"[The devs of systemd, the main init system on Linux, use Google and cloudflare for fallback/default NTP and DNS, when asked to use privacy respecting alternatives, they call people conspiracy theorists](https://www.reddit.com/r/privacy/duplicates/h108u5/the_devs_of_systemd_the_main_init_system_on_linux/)"
+
+"["Fight for the Future" is supposed to be advocating netneutrality, & yet their own site is on CloudFlare](https://dev.lemmy.ml/post/31655)"
+
 "[Ok. But if they use Cloudflare, which MITMs traffic, all their users data is in plaintext to Cloudflare.](https://news.ycombinator.com/item?id=17700131)"
 
 "[Can someone please explain to me how Cloudflare isn't MITM?](https://www.reddit.com/r/AskNetsec/comments/hbcvl2/can_someone_please_explain_to_me_how_cloudflare/)"
@@ -463,6 +473,10 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ## Microsoft GitHub / GitLab
 </summary>
 
+
+"[cloudflare is down again....](https://github.com/a4k-openproject/script.module.openscrapers/issues/147)"
+
+"[Liberapay has also always been served through Cloudflare](https://github.com/liberapay/liberapay.com/issues/1727)"
 
 "[Riot connects to cloudflare servers, even if an isolated private homeserver is used](https://github.com/vector-im/riot-web/issues/11648)"
 
