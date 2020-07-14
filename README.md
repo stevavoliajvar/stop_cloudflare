@@ -44,7 +44,8 @@
 |  It is impossible to [analyze](https://blog.cloudflare.com/the-csam-scanning-tool/) without [decrypting TLS traffic](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
 |  Cloudflare knows all your data such as raw password. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg) |
 |  [Cloudbeed](https://en.wikipedia.org/wiki/Cloudbleed) can happen anytime. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg) |
-|  Cloudflare's HTTPS is never end-to-end. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |  Do you really want to share your data with Cloudflare, and also 3-letter agency? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
+|  Cloudflare's HTTPS is never end-to-end. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
+|  Do you really want to share your data with Cloudflare, and also 3-letter agency? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
 |  Internet user's online profile is a "product" that the government and big tech companies wants to buy. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
 |  U.S. [Department of Homeland Security](https://www.dhs.gov/) said:<br><br>"Do you have any idea how valuable the data you have is? Is there any way you would sell us that data?"  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
 |  Cloudflare also offer _FREE_ VPN service called "[Cloudflare Warp](https://blog.cloudflare.com/1111-warp-better-vpn/)". | |
