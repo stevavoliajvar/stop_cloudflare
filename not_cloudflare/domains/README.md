@@ -23,13 +23,13 @@
 
 | CDN Code | Name | % of base domains blocked |
 | -------- | -------- | -------- |
-| Z2 | Akamai | 37.655 % |
-| Z3 | Cloudflare | 1.417 % |
-| Z4 | Imperva | 3.907 % |
-| Z6 | Microsoft | 2.645 % |
-| Z7 | INAP | 1.112 % |
-| Z8 | Sucuri | 3.939 % |
-| Z9 | Fastly | 3.644 % |
+| Z2 | Akamai | 37.915 % |
+| Z3 | Cloudflare | 1.436 % |
+| Z4 | Imperva | 3.976 % |
+| Z6 | Microsoft | 2.686 % |
+| Z7 | INAP | 1.125 % |
+| Z8 | Sucuri | 3.965 % |
+| Z9 | Fastly | 3.704 % |
 
 [//]: # (end; table)
 
