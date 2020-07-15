@@ -22,6 +22,7 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
 | [sucuri](https://sucuri.net) | not gratis; tor hostility at ~3.483% | $200+ | https://sucuri.net/|
 | PerimeterX        | not gratis                        | ? | - |
 | Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
+| Codeberg pages    | no custom domain support; tor hostility | Free | https://pages.codeberg.org/ |
 | Surge.sh      | uses custom servers           | Free | https://surge.sh/ |
 
 ## Not researched yet
