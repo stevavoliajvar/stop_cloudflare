@@ -18,10 +18,11 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
 ## Alternatives
 | Alternative       | Drawback                          | Price | Link |
 | ----------------- | --------------------------------- | ------ | ---- |
+| Codeberg pages    | no custom domain support; tor hostility | Free | https://pages.codeberg.org/ |
 | [eQualitie](https://equalit.ie/) | not gratis | gratis during COVID19 | https://equalit.ie/ |
-| [sucuri](https://sucuri.net) | not gratis; tor hostility at ~3.483% | $200+ | https://sucuri.net/|
-| PerimeterX        | not gratis                        | ? | - |
 | Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
+| PerimeterX        | not gratis                        | ? | - |
+| [sucuri](https://sucuri.net) | not gratis; tor hostility at ~3.483% | $200+ | https://sucuri.net/|
 | Surge.sh      | uses custom servers           | Free | https://surge.sh/ |
 
 ## Not researched yet
@@ -31,11 +32,11 @@ CDNJS is sponsored by Cloudflare. It might use it in the background.
 ## Why X is not included
 | X       | Reason |
 | ------- | ------ |
-| Netlify | Uses Amazon AWS which is also a content delivery network. It would be hypocritical to include it. |
-| Siteground | Tor-hostile people. |
+| Gitlab pages      | GitLab is now Cloudflared |
 | Imperva | Uses Cloudflare. |
 | jsDelivr | Uses Cloudflare, see their [network page](https://www.jsdelivr.com/network) |
-| Gitlab pages      | GitLab is now Cloudflared |
+| Netlify | Uses Amazon AWS which is also a content delivery network. It would be hypocritical to include it. |
+| Siteground | Tor-hostile people. |
 
 ## History
 Sucuri and eQualitie have a history of CloudFlare patronage, but no longer.
