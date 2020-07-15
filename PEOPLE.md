@@ -2988,6 +2988,9 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+"I did a search for "mango salsa recipe" on Runaroo.com, and the 1st four hits were all CloudFlare sites. That's really despicable. Each result takes enough screen space that 4 results fill the screen for some ppl." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104512251495121238)
+
+
 "SenSherrodBrown's bill is a noble, but he should focus on getting the government's own house in order. There are hundreds of US government operated websites in the privacy abusing walledgarden of CloudFlare or hosted on Amazon AWS. We can boycott private companies but we can't boycott the government. The gov. needs to get public resources out of the hands of privacy-abusers." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104501490167589216)
 
 
