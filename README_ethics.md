@@ -266,6 +266,6 @@ Can you "trust" this?
 
 ---
 
-## please continue to next page:   [Cloudflare Voices](PEOPLE.md).
+## Please continue to next page:   "[Cloudflare Voices](PEOPLE.md)"
 
 !["Cloudflare is not an option."](image/cfisnotanoption.jpg)
