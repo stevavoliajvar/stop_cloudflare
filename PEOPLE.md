@@ -628,6 +628,11 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"No it’s not working for me (again). Looks like isn’t a great service. Also the portal asks me to do a CAPTCHA every time time which isn’t easy on a smart TV remote ! Otherwise brilliant streaming site well done !" by [dortwag](https://twitter.com/dortwag/status/1283480211175219201)
+
+"I think the same, but a lot of pages use it, not only Cloudflare. Also, this captcha asks every single time, so every time I access a Cloudflare protected page, I need to complete a captcha, same with other pages that use it. SimplicityFirstPrivacyLast" by [emeraldvideos2](https://twitter.com/EmeraldVideos2/status/1276628421334855680)
+
+
 "Honest question: why? Using Cloudflare or Google seems to be much worse from a privacy standpoint. ISP will get the requested sites anyway through the subsequent requests." by [auronline](https://twitter.com/AURonline/status/1281659151752585217)
 
 
