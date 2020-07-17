@@ -3021,6 +3021,18 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+"Please join me in one minute of silence for all the fediverse admins who put their decentralised instance behind the centralised gatekeeper Cloudflare and are thus down now." by [schmittlauch](https://toot.matereal.eu/@schmittlauch/104531566916833405)
+
+"Super, Cloudflare ist down und reißt das halbe Internet mit in den Abgrund. Nur ein weiter Hinweis dafür, dass Zentralisierung echt übel ist." by [Haydar](https://social.tchncs.de/@Haydar/104531378819304913)
+
+"🎉 🎉 cloudflare shit the bed again!! 🎉 🎉" by [aeroplain](https://radical.town/@aeroplain/104531414385718232)
+
+"Quando eu falo em (re)descentralizar a internet, sou chamado de fanático! Graças ao que o #cloudflare representa está todo mundo se ferrando ..." by [vitoranguia](https://mastodon.social/@vitoranguia/104531572903156463)
+
+"I can proudly say I was unaffected by the #CloudFlare outages today -- been boycotting CF and avoiding CF websites for years.  I wish others could say the same." by [aktivismoEstasMiaLuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104531675527756183)
+
+"this is why you shouldn't use #cloudflare and it's important for everyone on the internet, not only hosts" by [ella](https://web.archive.org/web/https://mstdn.io/@ella/104531578669171538)
+
 "You know, a decentralized system that doesn’t depend on a single point of failure like cloudflare would not be succeptible to these issues." by [thegibson](https://hackers.town/@thegibson/104531328517883209)
 
 "Cloudflare has issues and a large portion of the web is inaccessible. There seems to be an extremely simple solution here" by [amolith](https://social.nixnet.services/@amolith/104531314564003709)
@@ -3587,7 +3599,7 @@ Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https
 ---
 
 
-# Still defending Cloudflare after all you've read?
+## Still defending Cloudflare after all you've read?
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wearetrulysorry.jpg)
