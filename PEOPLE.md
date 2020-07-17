@@ -652,6 +652,10 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"You switch one router off and half the internet goes poof 🤣🤣🤣 You hold the world in your hands that's for sure!" by [Flat___________](https://twitter.com/Flat___________/status/1284253578807443456)
+
+"Dude, the number of PoPs impacted by this was enormous. Half the internet went down. How am I supposed to trust that this won't happen again? Does Secondary DNS resolve anything? My customers rely on weather data to literally not die in the face of severe weather" by [ryanhickman](https://twitter.com/ryanhickman/status/1284253789055156225)
+
 "Cloudflare is down right now! This is causing an outage on several websites including" by [GhostfromTexas](https://twitter.com/GhostfromTexas/status/1284238964216475648)
 
 "Yes me, I'm getting error 1014 CNAME Cross-User Banned. I've contacted Cloudflare but they're not helpful at all. 🤷‍♀️🤷‍♀️IDK what to do ☹️" by [kikisimlive1](https://twitter.com/KikiSimLive1/status/1283110348648853504)
@@ -660,9 +664,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 "I think the same, but a lot of pages use it, not only Cloudflare. Also, this captcha asks every single time, so every time I access a Cloudflare protected page, I need to complete a captcha, same with other pages that use it. SimplicityFirstPrivacyLast" by [emeraldvideos2](https://twitter.com/EmeraldVideos2/status/1276628421334855680)
 
-
 "Honest question: why? Using Cloudflare or Google seems to be much worse from a privacy standpoint. ISP will get the requested sites anyway through the subsequent requests." by [auronline](https://twitter.com/AURonline/status/1281659151752585217)
-
 
 "hello chap. I am seeing a 1020 error (access denied by Cloudflare). I am not scraping, merely visiting to check the price of a luggage stand. Can you DM me?" by [samlivingstone_](https://twitter.com/SamLivingstone_/status/1282390897104232448)
 
@@ -672,9 +674,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 "Down in Belgium. Error 521 Ray ID: 5b0ac06b8aebedab • 2020-07-10 13:50:04 UTC Browser: Working Cloudflare: Working Host: Error" by [mr_jean](https://twitter.com/Mr_Jean/status/1281586841985089536)
 
-
 "- Why are we getting the Cloudflare captcha basically every time we visit the site now? Also, their extension is basically useless." by [swipr_](https://twitter.com/swipR_/status/1281580704166543362)
-
 
 "Hi. I keep getting pushed to a Cloudflare page on one of 2 laptops. On the other, I'm fine. On my phone, good too. But the Cloudflare push asks me to do through a Captcha and every time I try it, it will not go any further after I have done what I was asked to do." by [caknox1](https://twitter.com/caknox1/status/1281000788420997120)
 
