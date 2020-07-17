@@ -628,6 +628,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"Yes me, I'm getting error 1014 CNAME Cross-User Banned. I've contacted Cloudflare but they're not helpful at all. 🤷‍♀️🤷‍♀️IDK what to do ☹️" by [kikisimlive1](https://twitter.com/KikiSimLive1/status/1283110348648853504)
+
+
 "No it’s not working for me (again). Looks like isn’t a great service. Also the portal asks me to do a CAPTCHA every time time which isn’t easy on a smart TV remote ! Otherwise brilliant streaming site well done !" by [dortwag](https://twitter.com/dortwag/status/1283480211175219201)
 
 "I think the same, but a lot of pages use it, not only Cloudflare. Also, this captcha asks every single time, so every time I access a Cloudflare protected page, I need to complete a captcha, same with other pages that use it. SimplicityFirstPrivacyLast" by [emeraldvideos2](https://twitter.com/EmeraldVideos2/status/1276628421334855680)
@@ -2991,6 +2994,13 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"The CloudFlare alternatives are less risky due to their smaller size. Thus, they've not centralized over 10% of the web & they aren't employing data scientists to exploit big data for marketing. The CF alternatives also do not DoS attack all Tor users indiscriminantly & drive ppl off Tor." by [batalanto](https://todon.nl/@batalanto/104523816493364091)
+
+"indeed that's a hypocrisy as well, and so far I've ignored Matrix because of it's dependency on CloudFlare." by [batalanto](https://todon.nl/@batalanto/104523497159139070)
+
+"Two search engines that claim to accommodate privacy seekers, but the idiots actually proxy the site through CloudFlare: Peekier.com and Gomu.ca. Hypocrisy." by [batalanto](https://todon.nl/@batalanto/104520965691003034)
 
 
 "I did a search for "mango salsa recipe" on Runaroo.com, and the 1st four hits were all CloudFlare sites. That's really despicable. Each result takes enough screen space that 4 results fill the screen for some ppl." by [aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104512251495121238)
