@@ -488,6 +488,16 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+"[Discord is down, and GitHub Actions are failing](https://github.com/PowerNukkit/PowerNukkit/issues/381)"
+
+"[Chartjs.org is a dead link?](https://github.com/chartjs/Chart.js/issues/7646)"
+
+"[shields.io domain not resolvable](https://github.com/badges/shields/issues/5341)"
+
+"[Failing test: Jest Integration Tests.packages/kbn-plugin-helpers/src/tasks/build/integration_tests - creating the build removes development properties from package.json](https://github.com/elastic/kibana/issues/72351)"
+
+"[Cocoapods website and CDN are down](https://github.com/CocoaPods/CocoaPods/issues/9919)"
+
 "[cloudflare is down again....](https://github.com/a4k-openproject/script.module.openscrapers/issues/147)"
 
 "[Liberapay has also always been served through Cloudflare](https://github.com/liberapay/liberapay.com/issues/1727)"
