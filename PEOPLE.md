@@ -85,6 +85,12 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+"[MASSIVE outage hits Cloudflare, sends Discord & other service-powered sites DOWN - reports](https://www.rt.com/usa/495127-discord-cloudfare-outage-down/)" by RT
+
+"[Discord, Riot Games down with reported Cloudflare outage](https://www.polygon.com/2020/7/17/21329005/cloudflare-outrage-discord-riot-games-july-2020)" by [Nicole Carpenter](https://www.polygon.com/users/NicoleCarpenter)
+
+"[Discord was down for nearly an hour due to Cloudflare issues](https://www.theverge.com/2020/7/17/21328993/discord-down-server-outage-issues)" by [Tom Warren](https://www.theverge.com/authors/tom-warren)
+
 "[Your Regular Reminder That the Internet Is a Fragile Place](https://slate.com/technology/2019/07/cloudflare-internet-outage-502-gateway-error.html)" by [Chip Brownlee](https://slate.com/author/chip-brownlee)
 
 "[Internet wobble caused by Cloudflare glitch](https://www.bbcnewsv2vjtpsuy.onion/news/technology-48841815)" by [BBC](https://www.bbcnewsv2vjtpsuy.onion/)
@@ -238,6 +244,12 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ## Forum / Wiki
 </summary>
 
+
+"[Cloudflare is down](https://www.reddit.com/r/CloudFlare/comments/ht4iz1/cloudflare_is_down/)"
+
+"[hehe cloudflare ded](https://www.reddit.com/r/memes/comments/ht5fnc/hehe_cloudflare_ded/)"
+
+"[Anyone still having problems connecting? Is Cloudflare still screwed?](https://www.reddit.com/r/EscapefromTarkov/comments/ht5d65/anyone_still_having_problems_connecting_is/)"
 
 "[Try browsing the web using Tor or a VPN. You will spend the day doing Google recaptchas for like 90% of the websites you visit, I guarantee it. All thanks to Cloudflare.](https://dev.lemmy.ml/post/35712/comment/8474)"
 
@@ -630,8 +642,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
-"Yes me, I'm getting error 1014 CNAME Cross-User Banned. I've contacted Cloudflare but they're not helpful at all. 🤷‍♀️🤷‍♀️IDK what to do ☹️" by [kikisimlive1](https://twitter.com/KikiSimLive1/status/1283110348648853504)
+"Cloudflare is down right now! This is causing an outage on several websites including" by [GhostfromTexas](https://twitter.com/GhostfromTexas/status/1284238964216475648)
 
+"Yes me, I'm getting error 1014 CNAME Cross-User Banned. I've contacted Cloudflare but they're not helpful at all. 🤷‍♀️🤷‍♀️IDK what to do ☹️" by [kikisimlive1](https://twitter.com/KikiSimLive1/status/1283110348648853504)
 
 "No it’s not working for me (again). Looks like isn’t a great service. Also the portal asks me to do a CAPTCHA every time time which isn’t easy on a smart TV remote ! Otherwise brilliant streaming site well done !" by [dortwag](https://twitter.com/dortwag/status/1283480211175219201)
 
