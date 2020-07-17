@@ -73,6 +73,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/butitsdown.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg)
 
 ---
 
@@ -2995,6 +2996,30 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+"You know, a decentralized system that doesn’t depend on a single point of failure like cloudflare would not be succeptible to these issues." by [thegibson](https://hackers.town/@thegibson/104531328517883209)
+
+"Cloudflare has issues and a large portion of the web is inaccessible. There seems to be an extremely simple solution here" by [amolith](https://social.nixnet.services/@amolith/104531314564003709)
+
+"tfw i can't watch my anime because cf is down" by [amolith](https://social.nixnet.services/@amolith/104531450056938897)
+
+"Seems to be a massive worldwide outage." by [libranet](https://mastodon.social/@libranet/104531467959405140)
+
+"Note to self: check how to use a decentralized DNS... since #Cloudflare DNS got borked along with, y'know, the rest of Cloudflare" by [csolisr](https://social.azkware.net/@csolisr/104531465760456179)
+
+"Weird flex, but: cloudflare downtime killed my nginx because it couldn’t verify OSCP responses." by [aledjones](https://uelfte.club/@aledjones/104531429976417369)
+
+"everyone panicking" by [faye4car](https://slashine.onl/@faye4car/104531378377254552)
+
+"Wtf, is cloudflare having a seizure or something?" by [finlaydag33k](https://social.linux.pizza/@finlaydag33k/104531313267708705)
+
+"Cloudfare DOWN ??? Plein de sites qui ne répondent plus... " by [tyjak](https://mamot.fr/@tyjak/104531352989747390)
+
+"C'est moi où une bonne partie du net est en panne ? 🤔 On dirait que #Cloudflare est encore en caraffe à première vue." by [DarvenDissek](https://mammouth.inframed.net/@DarvenDissek/104531363577418173)
+
+"Could be just cloudflare, but worst case it's something bigger." by [nvsr](https://best-friends.chat/@nvsr/104531298773807416)
+
+"cloudflare tousse 🤧 , internet tombe malade" by [soosyze](https://mamot.fr/@soosyze/104531345010965022)
 
 "The CloudFlare alternatives are less risky due to their smaller size. Thus, they've not centralized over 10% of the web & they aren't employing data scientists to exploit big data for marketing. The CF alternatives also do not DoS attack all Tor users indiscriminantly & drive ppl off Tor." by [batalanto](https://todon.nl/@batalanto/104523816493364091)
 
