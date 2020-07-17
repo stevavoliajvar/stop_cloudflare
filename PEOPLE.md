@@ -8,6 +8,7 @@ If you want to add your blog feel free to do so.
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/people.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfblockbothuman.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg)
 
 ```
 It's pretty sad when even the hometown paper is behind the greatcloudwall.
@@ -73,6 +74,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/butitsdown.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/2020_07_cloudflaredown.jpg)
 
 ---
 
@@ -82,6 +84,12 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ## News
 </summary>
 
+
+"[MASSIVE outage hits Cloudflare, sends Discord & other service-powered sites DOWN - reports](https://www.rt.com/usa/495127-discord-cloudfare-outage-down/)" by RT
+
+"[Discord, Riot Games down with reported Cloudflare outage](https://www.polygon.com/2020/7/17/21329005/cloudflare-outrage-discord-riot-games-july-2020)" by [Nicole Carpenter](https://www.polygon.com/users/NicoleCarpenter)
+
+"[Discord was down for nearly an hour due to Cloudflare issues](https://www.theverge.com/2020/7/17/21328993/discord-down-server-outage-issues)" by [Tom Warren](https://www.theverge.com/authors/tom-warren)
 
 "[Your Regular Reminder That the Internet Is a Fragile Place](https://slate.com/technology/2019/07/cloudflare-internet-outage-502-gateway-error.html)" by [Chip Brownlee](https://slate.com/author/chip-brownlee)
 
@@ -236,6 +244,12 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ## Forum / Wiki
 </summary>
 
+
+"[Cloudflare is down](https://www.reddit.com/r/CloudFlare/comments/ht4iz1/cloudflare_is_down/)"
+
+"[hehe cloudflare ded](https://www.reddit.com/r/memes/comments/ht5fnc/hehe_cloudflare_ded/)"
+
+"[Anyone still having problems connecting? Is Cloudflare still screwed?](https://www.reddit.com/r/EscapefromTarkov/comments/ht5d65/anyone_still_having_problems_connecting_is/)"
 
 "[Try browsing the web using Tor or a VPN. You will spend the day doing Google recaptchas for like 90% of the websites you visit, I guarantee it. All thanks to Cloudflare.](https://dev.lemmy.ml/post/35712/comment/8474)"
 
@@ -628,8 +642,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
-"Yes me, I'm getting error 1014 CNAME Cross-User Banned. I've contacted Cloudflare but they're not helpful at all. 🤷‍♀️🤷‍♀️IDK what to do ☹️" by [kikisimlive1](https://twitter.com/KikiSimLive1/status/1283110348648853504)
+"Cloudflare is down right now! This is causing an outage on several websites including" by [GhostfromTexas](https://twitter.com/GhostfromTexas/status/1284238964216475648)
 
+"Yes me, I'm getting error 1014 CNAME Cross-User Banned. I've contacted Cloudflare but they're not helpful at all. 🤷‍♀️🤷‍♀️IDK what to do ☹️" by [kikisimlive1](https://twitter.com/KikiSimLive1/status/1283110348648853504)
 
 "No it’s not working for me (again). Looks like isn’t a great service. Also the portal asks me to do a CAPTCHA every time time which isn’t easy on a smart TV remote ! Otherwise brilliant streaming site well done !" by [dortwag](https://twitter.com/dortwag/status/1283480211175219201)
 
@@ -2995,6 +3010,30 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+"You know, a decentralized system that doesn’t depend on a single point of failure like cloudflare would not be succeptible to these issues." by [thegibson](https://hackers.town/@thegibson/104531328517883209)
+
+"Cloudflare has issues and a large portion of the web is inaccessible. There seems to be an extremely simple solution here" by [amolith](https://social.nixnet.services/@amolith/104531314564003709)
+
+"tfw i can't watch my anime because cf is down" by [amolith](https://social.nixnet.services/@amolith/104531450056938897)
+
+"Seems to be a massive worldwide outage." by [libranet](https://mastodon.social/@libranet/104531467959405140)
+
+"Note to self: check how to use a decentralized DNS... since #Cloudflare DNS got borked along with, y'know, the rest of Cloudflare" by [csolisr](https://social.azkware.net/@csolisr/104531465760456179)
+
+"Weird flex, but: cloudflare downtime killed my nginx because it couldn’t verify OSCP responses." by [aledjones](https://uelfte.club/@aledjones/104531429976417369)
+
+"everyone panicking" by [faye4car](https://slashine.onl/@faye4car/104531378377254552)
+
+"Wtf, is cloudflare having a seizure or something?" by [finlaydag33k](https://social.linux.pizza/@finlaydag33k/104531313267708705)
+
+"Cloudfare DOWN ??? Plein de sites qui ne répondent plus... " by [tyjak](https://mamot.fr/@tyjak/104531352989747390)
+
+"C'est moi où une bonne partie du net est en panne ? 🤔 On dirait que #Cloudflare est encore en caraffe à première vue." by [DarvenDissek](https://mammouth.inframed.net/@DarvenDissek/104531363577418173)
+
+"Could be just cloudflare, but worst case it's something bigger." by [nvsr](https://best-friends.chat/@nvsr/104531298773807416)
+
+"cloudflare tousse 🤧 , internet tombe malade" by [soosyze](https://mamot.fr/@soosyze/104531345010965022)
 
 "The CloudFlare alternatives are less risky due to their smaller size. Thus, they've not centralized over 10% of the web & they aren't employing data scientists to exploit big data for marketing. The CF alternatives also do not DoS attack all Tor users indiscriminantly & drive ppl off Tor." by [batalanto](https://todon.nl/@batalanto/104523816493364091)
 
