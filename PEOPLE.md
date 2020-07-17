@@ -8,6 +8,7 @@ If you want to add your blog feel free to do so.
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/people.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfblockbothuman.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg)
 
 ```
 It's pretty sad when even the hometown paper is behind the greatcloudwall.
@@ -73,7 +74,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/butitsdown.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/2020_07_cloudflaredown.jpg)
 
 ---
 
