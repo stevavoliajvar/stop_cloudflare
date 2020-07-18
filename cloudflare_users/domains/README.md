@@ -3,7 +3,7 @@
 
 [//]: # (do not edit me; start)
 
-## *6,039,616* domains
+## *6,045,753* domains
 
 [//]: # (do not edit me; end)
 
