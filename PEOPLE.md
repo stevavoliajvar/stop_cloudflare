@@ -85,7 +85,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
-"["Half Of The Internet Is Down" After Cloudflare Suffers Major Outage](https://www.zerohedge.com/markets/major-part-web-offline-cloudflare-suffers-outage)"
+"[Cloudflare’s DNS Issue, Service Shuts Down Half The Web](https://www.prosyscom.tech/tech-industry/cloudflares-dns-issue-service-shuts-down-half-the-web/)"
 
 "[MASSIVE outage hits Cloudflare, sends Discord & other service-powered sites DOWN - reports](https://www.rt.com/usa/495127-discord-cloudfare-outage-down/)" by RT
 
@@ -143,10 +143,6 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
-
-"[Cloudflare and why it's bad](https://ella.wantscuddl.es/b/cloudflare)"
-
-"[Vous vous souvenez de l'époque où DARPA avait conçu internet de manière à ce qu'il continue de fonctionner même quand un noeud du réseau est tombé ?](https://sebsauvage.net/links/?GSB_Fg)"
 
 "[Die zentralisierung des Internets](https://blog.bka.li/~/JustForFun/cloudflare/)"
 
@@ -251,7 +247,13 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
-"[I'm free now.](https://www.reddit.com/r/FinlayDaG33k/comments/hthp0s/im_free_now/)"
+"[Right now, there's something wrong with matchmaking definitely- I see Steam forums also note people can't start matches after ready up](https://www.reddit.com/r/commandandconquer/comments/htsqtp/right_now_theres_something_wrong_with_matchmaking/)"
+
+"[cloudflare down again?](https://www.reddit.com/r/sysadmin/comments/htg9kd/cloudflare_down_again/)"
+
+"[Because you are a normie that uses Tor and/or a VPN. I’m in the same boat. I use one - that is, a VPN - and man alive! Captchas, captchas everywhere. I’m annoyed to the point that I simply don’t go to sites that use captchas. Which, annoyingly, are a great, many sites, because everyone and their grandmother seems to be using Cloudflare nowadays. Sorry, rant over.](https://dev.lemmy.ml/post/37546/comment/11865)"
+
+"[Cloudflare is down again!](https://dev.lemmy.ml/post/37708)"
 
 "[Cloudflare is down](https://www.reddit.com/r/CloudFlare/comments/ht4iz1/cloudflare_is_down/)"
 
@@ -659,12 +661,6 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
-
-"[What you think of the almighty Cloudflare outage? In the words of the CEO "The status page for the status pages was also taken down"](https://twitter.com/Charmantides/status/1284965552126070784)"
-
-"[Breaking: A large outage took down Cloudflare, a website hosting, network and internet security provider. The outage is mainly resolved. More than 80+ websites and apps were down.](https://twitter.com/PorterMedium/status/1284242231558377474)"
-
-"[is cloudflare down again? The app isn’t working](https://twitter.com/sgtfitnessnyc/status/1284948993311756290)"
 
 "You switch one router off and half the internet goes poof 🤣🤣🤣 You hold the world in your hands that's for sure!" by [Flat___________](https://twitter.com/Flat___________/status/1284253578807443456)
 
@@ -3034,38 +3030,6 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
-
-"[using Tor shows how much sites are hidden behind Cloudflare. Yesterdays DNS problem of them showed even more of this privacy problem. With the EU making it clear that data transfer to US is not allowed this opens the question if transparent proxying traffic through Cloudflare is illegal now too. Especially where this opens MITM data collecting. IMHO sites behind Cloudflare should be blocked making them learn that privacy is valued.](https://mastodon.ctseuro.com/@kmj/104533489380410302)"
-
-"[It is sent to Cloudflare on the first request, so no possibility to ask the visitor in advance. Cloudflare will probably not be able to guaranty that data stay within EU.](https://mastodon.ctseuro.com/@kmj/104534874853474553)"
-
-"[Tor shows you who is behind Cloudflare, at least mostly. Because they present the captcha. Without Tor you do not really see who is sending your data to 3rd party because its kinda transparent.](https://mastodon.ctseuro.com/@kmj/104540183132093689)"
-
-"[well, their DNS went down too, there were no results for mstdn.io (unfortunately using cf) during the outage](https://web.archive.org/web/https://mstdn.io/@ella/104534354297967953)"
-
-"[maybe we shouldn't have like half the internet belonging to one company](https://web.archive.org/web/https://yiff.life/@Anarchist_Mallrat/104532481028938028)"
-
-"[LOL , a bitcoin related site hiding behind cloudflare . better hire a new webserver team. ,:-)](https://mastodon.ctseuro.com/@kmj/104542627248661291)"
-
-"[#TorBrowser te ayuda a descubrir quien usa el popular y mayor enemigo de la #privacidad, mejor conocido como #Cloudflare, servicio #GAFAM, que busca monetizar los datos personales de los usuarios y de pasada -puede- ser el mayor aliado de las agencias de vigilancia.](https://ieji.de/@rtfm/104540209141351967)"
-
-"[+1 c'est la démonstration qu'Internet n'est pas compatible avec une quelconque centralisation 😋](https://mastodon.xyz/@Se7h/104537504154151736)"
-
-"[Moved away from #Cloudflare thanks to the help of selea](https://social.linux.pizza/@finlaydag33k/104535396236664524)"
-
-"[Turns out pulling a MITM on half the internet wasn't a smart idea.](https://social.tulsa.ok.us/@BalooUriza/104535471495796451)"
-
-"[Пользуясь случаем хочу напомнить почтенной публике что #Cloudflare и прочие подобные сервисы, централизующие интернет, всё ещё зло. То же касается крупных централизованных социальных сетей. Спасибо за внимание. Приятных выходных](https://lor.sh/@MrClon/104534942793631137)"
-
-"[In der Nacht zum Samstag führte eine fehlerhafte Routerkonfiguration beim Dienstleister Cloudflare zu Ausfällen bei zahlreichen Internetdiensten in aller Welt.](https://squeet.me/objects/962c3e103b21b710e8c96bdf2227ec7c75952dc2)"
-
-"[Пользователи популярных интернет-сервисов заявили о проблемах с доступом. Об этом свидетельствуют данные портала Downdetector.  Так, среди пострадавших сервисов оказались Google, Amazon Web Service, а также Discord, Cloudflare и другие.  На проблемы в регистрации в Google жаловались 44% пользователей, а еще 55% испытывали трудности с поиском.  Больше всего жалоб зафиксировано на территории США, Германии, Британии, Нидерландов и Польши. Жалобы также поступали из Москвы и Санкт-Петербурга.  Кроме того, среди пользователей Discord 91% жалоб касается проблем с подключением к серверу.  По данным портала Techcrunch, неполадки в работе сервисов связаны с проблемами работы службы #Cloudflare.](https://phreedom.tk/@acetone/104534294703468033)"
-
-"[Wegen eines Fehlers reduzierte sich der Netzwerkverkehr bei Cloudflare auf nur noch 50 Prozent. Davon waren viele Webseiten betroffen.](https://squeet.me/objects/962c3e101f7a33c29f2ef98ba182a6cf0b077dd0)"
-
-"[People using #cloudflare get what they deserve. Every sane person has been warning others for years that it's not great to have everyone depend on a single provider.](https://soc.fglt.nl/objects/dd8539f8-3f36-4e7b-9596-2321f583eab0)"
-
-"[I love these little moments that bring the #Fediverse together. Boo #Cloudflare, yay things that aren't Cloudflare.](https://linuxrocks.online/@ChrisWere/104532119921056579)"
 
 "Please join me in one minute of silence for all the fediverse admins who put their decentralised instance behind the centralised gatekeeper Cloudflare and are thus down now." by [schmittlauch](https://toot.matereal.eu/@schmittlauch/104531566916833405)
 
