@@ -660,11 +660,11 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
-"[What you think of the almighty Cloudflare outage? In the words of the CEO "The status page for the status pages was also taken down"](https://nitter.net/Charmantides/status/1284965552126070784)"
+"[What you think of the almighty Cloudflare outage? In the words of the CEO "The status page for the status pages was also taken down"](https://twitter.com/Charmantides/status/1284965552126070784)"
 
-"[Breaking: A large outage took down Cloudflare, a website hosting, network and internet security provider. The outage is mainly resolved. More than 80+ websites and apps were down.](https://nitter.net/PorterMedium/status/1284242231558377474)"
+"[Breaking: A large outage took down Cloudflare, a website hosting, network and internet security provider. The outage is mainly resolved. More than 80+ websites and apps were down.](https://twitter.com/PorterMedium/status/1284242231558377474)"
 
-"[is cloudflare down again? The app isn’t working](https://nitter.net/sgtfitnessnyc/status/1284948993311756290)"
+"[is cloudflare down again? The app isn’t working](https://twitter.com/sgtfitnessnyc/status/1284948993311756290)"
 
 "You switch one router off and half the internet goes poof 🤣🤣🤣 You hold the world in your hands that's for sure!" by [Flat___________](https://twitter.com/Flat___________/status/1284253578807443456)
 
