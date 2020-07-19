@@ -1,8 +1,8 @@
 # "Cloudflare, we have a problem"
 
 
-This is a list of voices. This **does not** mean we endorse you.
-If you want to add your blog feel free to do so.
+- This is a list of voices. If you want to add your blog feel free to do so.
+- Disclaimer: This **does not** mean we endorse you.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/people.jpg)
@@ -669,6 +669,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+
+"[So if your website is "protected" with #Cloudflare it could not be accessible because of their:  1. Downtime (happens a lot) 2. Annoying captcha (every 2nd user get this) 3. IP Blocking (public wifi spots suffer from this)  Think twice about using their shady service.](https://twitter.com/lukestateson/status/1284436425795043328)"
 
 "[What you think of the almighty Cloudflare outage? In the words of the CEO "The status page for the status pages was also taken down"](https://twitter.com/Charmantides/status/1284965552126070784)"
 
