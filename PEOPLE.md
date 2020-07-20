@@ -670,6 +670,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"mine is fixed now. it took them 5 days to figure it out. it worked when I used VPN to Singapore but if I was using my local Malaysia ISP i'd get a cloudflare error." by [604xrp](https://twitter.com/604XRP/status/1284694091335217152)
+
+
 "[So if your website is "protected" with #Cloudflare it could not be accessible because of their:  1. Downtime (happens a lot) 2. Annoying captcha (every 2nd user get this) 3. IP Blocking (public wifi spots suffer from this)  Think twice about using their shady service.](https://twitter.com/lukestateson/status/1284436425795043328)"
 
 "[What you think of the almighty Cloudflare outage? In the words of the CEO "The status page for the status pages was also taken down"](https://twitter.com/Charmantides/status/1284965552126070784)"
@@ -3045,6 +3048,9 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"Sadly, P2PFoundation.net's landing page & wiki are in CloudFlare's exclusive walledgarden, directly contradicting a large portion of P2PFoundation's mission purpose. Not sure when they made that foolish move, but strypey I suggest moving your contributions elsewhere and leaving a link to them. hypocrisy" by [batalanto](https://todon.nl/@batalanto/104542025928367702)
 
 
 "[using Tor shows how much sites are hidden behind Cloudflare. Yesterdays DNS problem of them showed even more of this privacy problem. With the EU making it clear that data transfer to US is not allowed this opens the question if transparent proxying traffic through Cloudflare is illegal now too. Especially where this opens MITM data collecting. IMHO sites behind Cloudflare should be blocked making them learn that privacy is valued.](https://mastodon.ctseuro.com/@kmj/104533489380410302)"
