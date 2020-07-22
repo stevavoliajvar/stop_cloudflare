@@ -663,7 +663,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
-> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live). (Too many to read)
+> TOO MANY to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://twitter.com/search?q=cloudflare&f=live). (Too many to read)
 
 
 
@@ -671,7 +671,6 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 "mine is fixed now. it took them 5 days to figure it out. it worked when I used VPN to Singapore but if I was using my local Malaysia ISP i'd get a cloudflare error." by [604xrp](https://twitter.com/604XRP/status/1284694091335217152)
-
 
 "[So if your website is "protected" with #Cloudflare it could not be accessible because of their:  1. Downtime (happens a lot) 2. Annoying captcha (every 2nd user get this) 3. IP Blocking (public wifi spots suffer from this)  Think twice about using their shady service.](https://twitter.com/lukestateson/status/1284436425795043328)"
 
@@ -3043,15 +3042,18 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 </summary>
 
 
-> Too many to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare). (#Cloudflare)
+> TOO MANY to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon.social/tags/cloudflare). (#Cloudflare)
 
 
 
 
 
 
-"Sadly, P2PFoundation.net's landing page & wiki are in CloudFlare's exclusive walledgarden, directly contradicting a large portion of P2PFoundation's mission purpose. Not sure when they made that foolish move, but strypey I suggest moving your contributions elsewhere and leaving a link to them. hypocrisy" by [batalanto](https://todon.nl/@batalanto/104542025928367702)
+"Well what a joke matrix.org and riot.im (now element.io) came to be. They run behind #cloudflare and that sucks. I don't even know why I joined those suspicious services. I think its time to leave." [NerdRat](https://mastodon.technology/@NerdRat/104549568307044487)
 
+"Lastima que la pagina de laiguana.tv se haya arrodillado ante una empresa imperialista y anti- #privacidad como lo es #Cloudflare. Desde mi #TorBrowser no puedo acceder a la noticia." [rtfm](https://ieji.de/@rtfm/104540550722586003)
+
+""Sadly, P2PFoundation.net's landing page & wiki are in CloudFlare's exclusive walledgarden, directly contradicting a large portion of P2PFoundation's mission purpose. Not sure when they made that foolish move, but strypey I suggest moving your contributions elsewhere and leaving a link to them. hypocrisy" by [batalanto](https://todon.nl/@batalanto/104542025928367702)
 
 "[using Tor shows how much sites are hidden behind Cloudflare. Yesterdays DNS problem of them showed even more of this privacy problem. With the EU making it clear that data transfer to US is not allowed this opens the question if transparent proxying traffic through Cloudflare is illegal now too. Especially where this opens MITM data collecting. IMHO sites behind Cloudflare should be blocked making them learn that privacy is valued.](https://mastodon.ctseuro.com/@kmj/104533489380410302)"
 
