@@ -259,6 +259,12 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+"[Hcaptcha In IRAN](https://community.cloudflare.com/t/hcaptcha-in-iran/166585)"
+
+"[No IPv6 on hcaptcha](https://community.cloudflare.com/t/no-ipv6-on-hcaptcha/169108)"
+
+"[How Cloudflare Killed the Internet](https://www.reddit.com/r/witchlnx/comments/hw0yss/how_cloudflare_killed_the_internet_liked_on/)"
+
 "[Right now, there's something wrong with matchmaking definitely- I see Steam forums also note people can't start matches after ready up](https://www.reddit.com/r/commandandconquer/comments/htsqtp/right_now_theres_something_wrong_with_matchmaking/)"
 
 "[cloudflare down again?](https://www.reddit.com/r/sysadmin/comments/htg9kd/cloudflare_down_again/)"
