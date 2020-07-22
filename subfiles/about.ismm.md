@@ -1,6 +1,6 @@
 ### Are links vulnerable to MITM attack?
 
-`Scan FQDN using Searxes API`
+`Scan FQDN using Ss API (or your local database)`
 
 ![](../image/ismmpreview.jpg)
 
@@ -10,11 +10,27 @@
 You′ve found something on the internet.
 Are these links or images vulnerable to MITM attack or not?
  
-This add-on is using Searxes′ Public API to scan FQDN.
+This add-on is using* Searxes′ Public API to scan FQDN.
 	e.g. https://ekzemplo.com/page.html → "ekzemplo.com"
 
 This add-on never send other information.
 
+
+
+* How to use offline database
+	1. Open add-on's option page and select "Use Offline Local Database".
+	2. Click "Database" link.
+	3. Create a new text file** (or download text file from cloudflare-tor)
+	4. Click "Import Database" and select your text file.
+	5. Wait until the message appear.
+
+** Text file example
+(FQDN/Domain)
+--------------------
+www.cloudflare.com
+domain.com
+example.org
+--------------------
 ```
  
 - Information: [About Cloudflare domain list](../instructions.md#about-cloudflare-base-domain-list)
