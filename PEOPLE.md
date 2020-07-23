@@ -174,7 +174,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 "[Does Cloudflare help my WordPress site?](https://seravo.com/blog/does-cloudflare-help-my-wordpress-site/)" by [Seravo](https://seravo.com/)
 
-"[Say no to Cloudflare](https://robinwils.gitlab.io/articles/say-no-to-cloudflare/)" by [Robin Wils](https://robinwils.gitlab.io/contact/)
+"[Say no to Cloudflare](https://robinwils.surge.sh/categories/articles/say-no-to-cloudflare/)" by [Robin Wils](https://robinwils.surge.sh/contact/)
 
 "[Why You Don’t Use Cloudflare…](https://www.focowphelp.com/2017/03/why-you-dont-use-cloudflare/)"
 
