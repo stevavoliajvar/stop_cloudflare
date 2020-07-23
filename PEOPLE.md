@@ -283,6 +283,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 "[hehe cloudflare ded](https://www.reddit.com/r/memes/comments/ht5fnc/hehe_cloudflare_ded/)"
 
+"[cloudflare captcha problem](https://www.reddit.com/r/techsupport/comments/aw61do/cloudflare_captcha_problem/)"
+
 "[Anyone still having problems connecting? Is Cloudflare still screwed?](https://www.reddit.com/r/EscapefromTarkov/comments/ht5d65/anyone_still_having_problems_connecting_is/)"
 
 "[Try browsing the web using Tor or a VPN. You will spend the day doing Google recaptchas for like 90% of the websites you visit, I guarantee it. All thanks to Cloudflare.](https://dev.lemmy.ml/post/35712/comment/8474)"
