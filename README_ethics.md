@@ -7,7 +7,9 @@
 
 "_Your company isn't trustworthy. You claim to enforce DMCA but have many lawsuits for not doing so._"
 
-"_They only censor those who question their ethics._"  -- [phyzonloop](https://twitter.com/phyzonloop)
+"_They only censor those who question their ethics._"
+
+"_I guess the truth is inconvenient and better hidden from public view._"  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
