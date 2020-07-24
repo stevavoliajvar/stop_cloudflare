@@ -268,4 +268,5 @@ Can you "trust" this?
 
 ## Please continue to next page:   "[Cloudflare Voices](PEOPLE.md)"
 
-!["Cloudflare is not an option."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
+!["Cloudflare is not an option."](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
