@@ -688,6 +688,25 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+""This works by situating the DNS providers’ nameservers behind a transparent DNS proxy" Cloudflare is amazing. Convincing half the internet to voluntarily undergo a MITM attack. I've always assumed NSA + God knows who else has all (unencrypted) traffic going through CF." ([thesteedster](https://twitter.com/thesteedster/status/1286001305102815238))
+
+"That's interesting, Cloudflare's captcha is an image, which screenreaders can't read, and there's no audio. Which potentially means people with eye-sight issues can potentially be cut off from half of the Internet. a11y" ([vebbed](https://twitter.com/vebbed/status/1285707876150005760))
+
+"StreamElements removed the CAPTCHA and is now throwing a 1020 error from Cloudflare when accessing the API. I'll throw up a stream tonight with Streamelements and what HTTP requests are being done to StreamElements when doing a TTS. Hope I can get a workaround from there" ([sitopog](https://twitter.com/SitoPog/status/1285641898636595201))
+
+"fyi Cloudflare is throttling this link with a captcha" ([vivainio](https://twitter.com/vivainio/status/1284572625990295557))
+
+"Hey Cloudflare, While logging into the System we have been getting the following error for a while. When will this problem be solved? ""api requirest failed: get/api/v4/captcha/challenge(undefined)""" ([slaweally](https://twitter.com/Slaweally/status/1284246670990094338))
+
+"is my ISP, and all of a sudden I have to enter a captcha on EVERY Cloudflare site, Internet wide. Can you tell me if there is an issue with any Cogeco IP blocks, as they say I have to contact you regarding this." ([alittlebitofmsg](https://twitter.com/alittlebitofMSG/status/1283742913093083141))
+
+"So when are the brainiacs at etc, going to work out that everyone uses a VPN at home now, and IP addresses are not a useful metric for bot detection anymore? The overall UX of the Web is being murdered by a cartel of CAPTCHA wielding thugs. DO BETTER!" ([shoguncysec](https://twitter.com/ShogunCySec/status/1283652841291132928))
+
+"I can't reach site from Germany since yesterday, I get a error page claiming it can't be reached from Frankfurt. over a VPN the site works just fine. Maybe someone should look into that." ([pbhoeh](https://twitter.com/pbhoeh/status/1287338463386271746))
+
+"trying to log on Error 502 Ray ID: 5b76c177e98905aa • 2020-07-23 16:25:09 UTC Bad gateway You Browser Working Los Angeles Cloudflare Wo Cloudflare Ray ID: 5b76c177e98905aa • Your IP: 2606:6000:6302:7200:49d2:fa5c:78f6:f24d • Performance & security by Cloudflare" ([mobilemark](https://twitter.com/mobilemark/status/1286343817151631361))
+
+
 "mine is fixed now. it took them 5 days to figure it out. it worked when I used VPN to Singapore but if I was using my local Malaysia ISP i'd get a cloudflare error." by [604xrp](https://twitter.com/604XRP/status/1284694091335217152)
 
 "[So if your website is "protected" with Cloudflare it could not be accessible because of their:  1. Downtime (happens a lot) 2. Annoying captcha (every 2nd user get this) 3. IP Blocking (public wifi spots suffer from this)  Think twice about using their shady service.](https://twitter.com/lukestateson/status/1284436425795043328)"
@@ -3065,6 +3084,17 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"villages.io & freedomsponsors.org avoid CloudFlare (and thus avoid the gamble of giving CF your personal & financial info), but they're a bit different. is an unvetted list of crowdfunding services (research needed)" ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104581662343812911))
+
+"Liberapay is a bad recommendation. That site is centralized in the privacy abusing walled garden of CloudFlare, plus they host on Amazon. I would not expect FediFollows to suggest a needlessly centralized service, in general." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104581602412163813))
+
+"CloudFlare is evil. Let's be clear: the evil is not in business success. The evil is in their lies and deceptions, their surveillance capitalist business model, and their abuse of power in dictating the tools that may users use to protect their privacy. It's an injustice to make excuses for CF & for CF's users." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104564791822534415))
+
+"CloudFlare is the single biggest attack on the decentralized web. They could not possibly do enough w/IPFS to undo the collossal harm of centralizing over 10% of the web then abusing that power by dictating how people access the web." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104564090918792327))
+
+"well news.inditoot.com is a CloudFlare site so I have to nix that. dev.lemmy & feddit are censorship nazis, gix.uk is dead, inditoot is CF'd.. what else is there?" ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104551800036372692))
 
 
 "Well what a joke matrix.org and riot.im (now element.io) came to be. They run behind cloudflare and that sucks. I don't even know why I joined those suspicious services. I think its time to leave." [NerdRat](https://mastodon.technology/@NerdRat/104549568307044487)
