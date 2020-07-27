@@ -152,8 +152,17 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 
 ### About fake accounts
 
-Crimeflare know about the existence of fake accounts impersonating our official channels, be it Twitter, Facebook, Patreon, OpenCollective etc.
-**We never ask your email. We never ask your location. We never ask your name. We never ask your donation. We never ask you to follow on social media. We never ask your social media. We never ask your identity. Do not trust fake accounts!**
+Crimeflare know about the existence of fake accounts impersonating our official channels, be it Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+**We never ask your email. 
+We never ask your name. 
+We never ask your identity. 
+We never ask your location. 
+We never ask your donation. 
+We never ask your review. 
+We never ask you to follow on social media. 
+We never ask your social media.**
+
+# DO NOT TRUST FAKE ACCOUNTS.
 
 
 ---
