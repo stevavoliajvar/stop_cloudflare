@@ -688,6 +688,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"Cloudflare is responsible for a huge chunk of the internet and their business model is literally MITM as a service." ([kingslyj](https://twitter.com/kingslyj/status/1285457452306018307))
+
 ""This works by situating the DNS providers’ nameservers behind a transparent DNS proxy" Cloudflare is amazing. Convincing half the internet to voluntarily undergo a MITM attack. I've always assumed NSA + God knows who else has all (unencrypted) traffic going through CF." ([thesteedster](https://twitter.com/thesteedster/status/1286001305102815238))
 
 "That's interesting, Cloudflare's captcha is an image, which screenreaders can't read, and there's no audio. Which potentially means people with eye-sight issues can potentially be cut off from half of the Internet. a11y" ([vebbed](https://twitter.com/vebbed/status/1285707876150005760))
@@ -705,7 +707,6 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 "I can't reach site from Germany since yesterday, I get a error page claiming it can't be reached from Frankfurt. over a VPN the site works just fine. Maybe someone should look into that." ([pbhoeh](https://twitter.com/pbhoeh/status/1287338463386271746))
 
 "trying to log on Error 502 Ray ID: 5b76c177e98905aa • 2020-07-23 16:25:09 UTC Bad gateway You Browser Working Los Angeles Cloudflare Wo Cloudflare Ray ID: 5b76c177e98905aa • Your IP: 2606:6000:6302:7200:49d2:fa5c:78f6:f24d • Performance & security by Cloudflare" ([mobilemark](https://twitter.com/mobilemark/status/1286343817151631361))
-
 
 "mine is fixed now. it took them 5 days to figure it out. it worked when I used VPN to Singapore but if I was using my local Malaysia ISP i'd get a cloudflare error." by [604xrp](https://twitter.com/604XRP/status/1284694091335217152)
 
