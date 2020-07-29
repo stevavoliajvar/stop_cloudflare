@@ -11,6 +11,7 @@
 - [Català](README_ca.md)
 - [中文](README_cn.md)
 - [Deutsch](README_de.md)
+- [Esperanto](README_eo.md) by Crimeflare
 - [Español](README_es.md)
 - [Français](README_fr.md)
 - [हिन्दी](README_hi.md)
@@ -21,6 +22,7 @@
 - [한국어](README_ko.md)
 - [Māori](README_mi.md)
 - [македонски](README_mk.md)
+- [Nederlands](README_nl.md)
 - [Português](README_pt.md)
 - [Română](README_ro.md)
 - [Русский](README_ru.md)
