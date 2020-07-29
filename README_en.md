@@ -1,5 +1,8 @@
 # The Great Cloudwall
 
+### [Click here for Non-English versions](README.md)
+
+
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
