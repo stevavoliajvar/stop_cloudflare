@@ -27,6 +27,8 @@
 - [Svenska](README_sv.md)
 - [Türkçe](README_tr.md)
 - [Tiếng Việt](README_vi.md)
-- [English](README_en.md)
+- [English](README_en.md) by Crimeflare
+
+---
 
 - [Suggest New Language](https://codeberg.org/crimeflare/cloudflare-tor/issues/new)
