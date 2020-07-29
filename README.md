@@ -3,6 +3,7 @@
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
+---
 
 - [Afrikaans](README_af.md)
 - [العربية](README_ar.md)
@@ -27,3 +28,5 @@
 - [Türkçe](README_tr.md)
 - [Tiếng Việt](README_vi.md)
 - [English](README_en.md)
+
+- [Suggest New Language](https://codeberg.org/crimeflare/cloudflare-tor/issues/new)
