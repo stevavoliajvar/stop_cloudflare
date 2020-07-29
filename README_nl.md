@@ -1,6 +1,4 @@
-# The Great Cloudwall
-
-### [Klik hier voor _Non-English_ versies] (README.md)
+# Lenen Geweldige Cloudwall
 
 
 ! [] (https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
