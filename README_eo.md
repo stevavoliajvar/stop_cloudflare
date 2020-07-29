@@ -1,1 +1,1 @@
-# handled by UPS
+(DO NOT EDIT, WILL BE OVERWRITTEN see upstream://UEBX-02SD)
