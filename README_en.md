@@ -1,6 +1,6 @@
 # The Great Cloudwall
 
-### [Click here for Non-English versions](README.md)
+### [Click here for _Non-English_ versions](README.md)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
