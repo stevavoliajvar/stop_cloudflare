@@ -7,3 +7,4 @@
 
 
 - [Suggest New Language](https://codeberg.org/crimeflare/cloudflare-tor/issues/new)
+- [License](LICENSE.md)
