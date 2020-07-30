@@ -1,0 +1,38 @@
+{
+   "manifest_version": 2,
+   "name": "Kiu retejo malakceptis min?",
+   "description": "Via retejo malakceptis min, sed mi scias ke mi fartos bone.",
+   "version": "1.0.2",
+   "homepage_url": "https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/",
+   "author": "Ss",
+   "permissions": [
+      "webRequest",
+      "<all_urls>"
+   ],
+   "icons": {
+      "72": "icons/72.png"
+   },
+   "background": {
+      "scripts": [
+         "bg.js"
+      ]
+   },
+   "options_ui": {
+      "browser_style": false,
+      "open_in_tab": true,
+      "page": "log.html"
+   },
+   "browser_action": {
+      "browser_style": true,
+      "default_icon": {
+         "72": "icons/72.png"
+      }
+   },
+   "applications": {
+      "gecko": {
+         "id": "urejectme@searxes.eu.org",
+         "strict_min_version": "60.0",
+         "update_url": "https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/addon.php?for=ureject"
+      }
+   }
+}
