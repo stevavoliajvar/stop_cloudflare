@@ -1,4 +1,4 @@
-### 👋 [Click here for _Non-English_ versions](README.md)
+### 👋 [_Non-English_ versions](README.md)
 
 ---
 
