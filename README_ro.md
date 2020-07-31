@@ -106,8 +106,6 @@ Acest depozit este o listă de site-uri web care se află în spatele "_ Marelui
 * [Marele Cloudwall] (articol.txt) de [Mr. Jeff Cliff] (https://shitposter.club/users/jeffcliff)
   * Descărcați ca: PDF [aici] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [aici] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook-ul original (ePUB) a fost șters de „BookRix GmbH` din cauza„ încălcării dreptului de autor a materialelor CC0 ”
-  * Te simți generos? Puteți să-i donați ceva bitcoin: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Opțiune de plată] (http://qhtn4w2q36dojls2.onion/payment.html))
-  * Avizare rețea - [Cont Villages.io] (https://villages.io/profiles/themusicgod1/)
 * [Pictograma Padlock indică o conexiune SSL sigură stabilită cu MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) de către Anonymous
 * [Blocare globală globală adversară activă] (https://trac.torproject.org/projects/tor/ticket/24351) de nym-zone
   * Biletul a fost vandalizat de atâtea ori.
