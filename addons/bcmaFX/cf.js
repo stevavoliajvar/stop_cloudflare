@@ -9,6 +9,8 @@ let my_cf_collection = [],
 	my_customurl = def_customurl,
 	my_nfo_alu = false,
 	my_nfo_cfd = false,
+	my_xcs_a1 = false,
+	my_xcs_a2 = false,
 	my_nfo_lang = 'eo';
 const trans = {
 	'eo': {
@@ -16,108 +18,6 @@ const trans = {
 		'cflrmi': 'Cloudflare Detektita',
 		'virus': "Atentivelo: Severa\nAgo: Blokita\nDomajno: ",
 		'redir': "Redirektu al alternativa URL.\n\nDomajno: "
-	},
-	'de': {
-		'detemi': 'Bedrohung erkannt',
-		'cflrmi': 'Cloudflare erkannt',
-		'virus': "Servety: Schwere\nAktion: Blockieren\nDomain:",
-		'redir': "Zur alternativen URL umleiten.\n\nDomain:"
-	},
-	'fr': {
-		'detemi': 'Menace détectée',
-		'cflrmi': 'Cloudflare détecté',
-		'virus': "Servety: Severe\n Action: bloquer\n Domaine:",
-		'redir': "Rediriger vers une URL alternative.\n\nDomaine:"
-	},
-	'pt': {
-		'detemi': 'Ameaça detectada',
-		'cflrmi': 'Cloudflare detectado',
-		'virus': "Servety: Grave\nAção: Bloquear\nDomínio:",
-		'redir': "Redirecione para URL alternativo.\n\nDomínio:"
-	},
-	'ru': {
-		'detemi': 'Обнаружена угроза',
-		'cflrmi': 'Обнаружена облачная вспышка',
-		'virus': "Servety: тяжелый\n Действие: Блок\n Домен:",
-		'redir': "Перенаправить на альтернативный URL.\n\nДомен:"
-	},
-	'zh': {
-		'detemi': '检测到威胁',
-		'cflrmi': '检测到Cloudflare',
-		'virus': "服务:严重\n行动:封锁\n域:",
-		'redir': "重定向到备用URL。\n\n域:"
-	},
-	'nl': {
-		'detemi': 'Threat gedetecteerd',
-		'cflrmi': 'Cloudflare gedetecteerd',
-		'virus': "Servety: Ernstig\nActie: blokkeren\nDomein:",
-		'redir': "Omleiden naar alternatieve URL.\n\nDomein:"
-	},
-	'es': {
-		'detemi': 'Amenaza detectada',
-		'cflrmi': 'Cloudflare detectado',
-		'virus': "Servety: Grave\nAcción: bloqueo\nDominio:",
-		'redir': "Redirigir a URL alternativa.\n\nDominio:"
-	},
-	'hi': {
-		'detemi': 'थ्रेट डिटेक्टेड',
-		'cflrmi': 'Cloudflare का पता चला',
-		'virus': "गंभीरता: गंभीर \nउदासीनता: अवरुद्ध \nDomain:",
-		'redir': "वैकल्पिक URL पर पुनर्निर्देशित। \n\nDomain:"
-	},
-	'it': {
-		"detemi": "Minaccia rilevata",
-		"cflrmi": "Cloudflare rilevato",
-		'virus': "Servety: Grave\nAzione: blocco\nDominio:",
-		'redir': "Reindirizzamento a URL alternativo.\n\nDomain:"
-	},
-	'ja': {
-		'detemi': '脅威を検出しました',
-		'cflrmi': 'Cloudflareを検出しました',
-		'virus': "深刻度: 重大\n行動: 接続拒否\nドメイン:",
-		'redir': "代わりのURLへ転送します。\n\nドメイン:"
-	},
-	'ko': {
-		'detemi': 'Threat 감지',
-		'cflrmi': 'Cloudflare 감지',
-		'virus': "서비스 : 심각한\nAction: 차단\n도메인 :",
-		'redir': "대체 URL로 리디렉션합니다.\n\n도메인 :"
-	},
-	'ta': {
-		'detemi': 'அச்சுறுத்தல் கண்டறியப்பட்டது',
-		'cflrmi': 'கிளவுட்ஃப்ளேர் கண்டறியப்பட்டது',
-		'virus': "சேவை: தீவிரமான\nசெயல்: தடுக்கும் \nடொமைன்:",
-		'redir': "மாற்று URL க்கு திருப்பி விடுங்கள். \n\nடொமைன்:"
-	},
-	'tr': {
-		'detemi': 'Tehdit tespit edildi',
-		'cflrmi': 'Cloudflare algılandı',
-		'virus': "Servety: Ciddi\nAksiyon: engelleme\nDomain:",
-		'redir': "Alternatif URL'ye yönlendir.\n\nAlan:"
-	},
-	'ms': {
-		'detemi': 'Ancaman Dikesan',
-		'cflrmi': 'Cloudflare Dikesan',
-		'virus': "Amaran: Parah\nTindakan: Disekat\nDomain:",
-		'redir': "Ubah hala ke URL ganti.\n\nDomain:"
-	},
-	'bn': {
-		'detemi': 'হুমকি সনাক্ত করা',
-		'cflrmi': 'ক্লাউডফ্লেয়ার সনাক্ত হয়েছে',
-		'virus': "সতর্কতা: গুরুতর\nক্রিয়া: অবরুদ্ধ \nডোমেন:",
-		'redir': "বিকল্প URL এ পুনঃনির্দেশ করুন \n\nডোমেন:"
-	},
-	'ha': {
-		'detemi': 'Barazanar Gano',
-		'cflrmi': 'Gano Cloudflare',
-		'virus': "Gargadi: Mai tsananin\nAction: An katange\nKa kula:",
-		'redir': "Juya zuwa madadin URL.\n\nKa kula:"
-	},
-	'jv': {
-		'detemi': 'Deteksi Deteksi',
-		'cflrmi': 'Cloudflare dideteksi',
-		'virus': "Pènget: Abot\nAction: Disekat\nDomain:",
-		'redir': "Pangalihan URL alternatif.\n\nDomain:"
 	}
 };
 function get_realdomain(w) {
@@ -1278,7 +1178,7 @@ browser.webRequest.onHeadersReceived.addListener(function (wr) {
 		}
 		console.log('BCMA: Block Cloudflare RH', wr_hostname);
 		if (my_action == 0 || my_action == 1) {
-			tell_me(my_nfo_cfd, trans[my_nfo_lang]['detemi'], trans[my_nfo_lang]['virus'] + wr_hostname);
+			tell_me(my_nfo_cfd, trans['eo']['detemi'], trans['eo']['virus'] + wr_hostname);
 			if (wr.type == 'image') {
 				return {
 					redirectUrl: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQBCgAAACwAAAAAAQABAAACAkQBADs='
@@ -1290,13 +1190,13 @@ browser.webRequest.onHeadersReceived.addListener(function (wr) {
 			}
 		}
 		if (my_action == 2) {
-			tell_me(my_nfo_alu, trans[my_nfo_lang]['cflrmi'], trans[my_nfo_lang]['redir'] + wr_hostname);
+			tell_me(my_nfo_alu, trans['eo']['cflrmi'], trans['eo']['redir'] + wr_hostname);
 			return {
 				redirectUrl: 'https://web.archive.org/web/' + wr.url
 			};
 		}
 		if (my_action == 4) {
-			tell_me(my_nfo_alu, trans[my_nfo_lang]['cflrmi'], trans[my_nfo_lang]['redir'] + wr_hostname);
+			tell_me(my_nfo_alu, trans['eo']['cflrmi'], trans['eo']['redir'] + wr_hostname);
 			return {
 				redirectUrl: my_customurl.replace('%%URL%%', wr.url)
 			};
@@ -1339,7 +1239,7 @@ browser.webRequest.onBeforeRequest.addListener(function (wr) {
 	if (cf_is) {
 		console.log('BCMA: Block Cloudflare BR', wr_hostname);
 		if (my_action == 0 || my_action == 1) {
-			tell_me(my_nfo_cfd, trans[my_nfo_lang]['detemi'], trans[my_nfo_lang]['virus'] + wr_hostname);
+			tell_me(my_nfo_cfd, trans['eo']['detemi'], trans['eo']['virus'] + wr_hostname);
 			if (wr.type == 'image') {
 				return {
 					redirectUrl: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQBCgAAACwAAAAAAQABAAACAkQBADs='
@@ -1351,13 +1251,13 @@ browser.webRequest.onBeforeRequest.addListener(function (wr) {
 			}
 		}
 		if (my_action == 2) {
-			tell_me(my_nfo_alu, trans[my_nfo_lang]['cflrmi'], trans[my_nfo_lang]['redir'] + wr_hostname);
+			tell_me(my_nfo_alu, trans['eo']['cflrmi'], trans['eo']['redir'] + wr_hostname);
 			return {
 				redirectUrl: 'https://web.archive.org/web/' + wr.url
 			};
 		}
 		if (my_action == 4) {
-			tell_me(my_nfo_alu, trans[my_nfo_lang]['cflrmi'], trans[my_nfo_lang]['redir'] + wr_hostname);
+			tell_me(my_nfo_alu, trans['eo']['cflrmi'], trans['eo']['redir'] + wr_hostname);
 			return {
 				redirectUrl: my_customurl.replace('%%URL%%', wr.url)
 			};
@@ -1375,11 +1275,16 @@ browser.storage.local.get(null).then((d) => {
 	my_customurl = (d.customurl != undefined) ? d.customurl : def_customurl;
 	my_nfo_alu = (d.nfoau == 'n') ? false : true;
 	my_nfo_cfd = (d.nfocf == 'n') ? false : true;
+	my_xcs_a1 = (d.xcsa1 == 'y') ? true : false;
+	my_xcs_a2 = (d.xcsa2 == 'y') ? true : false;
 	my_nfo_lang = d.ul || 'eo';
 });
 browser.runtime.onMessage.addListener(function (a, b, c) {
+	if (a[0] == 'cs') {
+		browser.tabs.sendMessage(b.tab.id, [a[1], my_cf_collection.includes(a[1]), my_xcs_a1, my_xcs_a2]);
+	}
 	if (a[0] == 'cf') {
-		c([JSON.stringify(my_cf_collection), JSON.stringify(my_cf_ignore), my_action, my_customurl, [!my_nfo_alu, !my_nfo_cfd], my_nfo_lang]);
+		c([JSON.stringify(my_cf_collection), JSON.stringify(my_cf_ignore), my_action, my_customurl, [!my_nfo_alu, !my_nfo_cfd, my_xcs_a1, my_xcs_a2], my_nfo_lang]);
 	}
 	if (a[0] == 'ul') {
 		my_nfo_lang = a[1];
@@ -1412,6 +1317,20 @@ browser.runtime.onMessage.addListener(function (a, b, c) {
 			my_nfo_cfd = !a[2];
 			browser.storage.local.set({
 				'nfocf': (a[2]) ? 'n' : 'y'
+			});
+		}
+	}
+	if (a[0] == 'csa') {
+		if (a[1] == '1') {
+			my_xcs_a1 = a[2];
+			browser.storage.local.set({
+				'xcsa1': (a[2]) ? 'y' : 'n'
+			});
+		}
+		if (a[1] == '2') {
+			my_xcs_a2 = a[2];
+			browser.storage.local.set({
+				'xcsa2': (a[2]) ? 'y' : 'n'
 			});
 		}
 	}
