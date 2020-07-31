@@ -39,7 +39,7 @@ for (var linksIndex = 0; linksIndex < links.length; linksIndex++) {
 	
 	link.href = "mailto:" + decodedEmail; //replace the stupid email protection with just a mailto link
 
-	if (link.getElementsByClassName("__cf_email__").length < 0) {
+	if (link.getElementsByClassName("__cf_email__").length > 0) {
 	    var linkChild = link.getElementsByClassName("__cf_email__")[0];
 	    linkChild.innerText = decodedEmail;
 
