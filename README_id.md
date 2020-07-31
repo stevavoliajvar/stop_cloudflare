@@ -106,8 +106,6 @@ Repositori ini adalah daftar situs web yang berada di belakang "_The Great Cloud
 * [The Great Cloudwall] (article.txt) oleh [Mr. Jeff Cliff] (https://shitposter.club/users/jeffcliff)
   * Unduh sebagai: PDF [di sini] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [di sini] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBuku asli (ePUB) telah dihapus oleh `BookRix GmbH` karena` pelanggaran hak cipta atas bahan CC0`
-  * Merasa murah hati? Anda dapat menyumbangkannya beberapa bitcoin: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Opsi pembayaran] (http://qhtn4w2q36dojls2.onion/payment.html))
-  * Mendukung jaringan - [Akun Villages.io] (https://villages.io/profiles/themusicgod1/)
 * [Ikon gembok menunjukkan koneksi SSL aman dibuat dengan MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) oleh Anonymous
 * [Blokir Global Active Adversary Cloudflare] (https://trac.torproject.org/projects/tor/ticket/24351) oleh nym-zone
   * Tiket dirusak berkali-kali.
