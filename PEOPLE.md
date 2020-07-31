@@ -85,6 +85,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+"[Cloudflare suffered data leak; exposing 3 million IP addresses: Ukraine](https://www.hackread.com/cloudflare-data-leak-expose-ip-addresses-ukraine/)"
+
 "[Cloudflare’s DNS Issue, Service Shuts Down Half The Web](https://www.prosyscom.tech/tech-industry/cloudflares-dns-issue-service-shuts-down-half-the-web/)"
 
 "["Half Of The Internet Is Down" After Cloudflare Suffers Major Outage](https://www.zerohedge.com/markets/major-part-web-offline-cloudflare-suffers-outage)"
