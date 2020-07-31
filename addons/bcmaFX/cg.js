@@ -12,6 +12,8 @@ document.addEventListener('DOMContentLoaded', () => {
 		document.getElementById('vau').value = r[3];
 		document.getElementById('nnf1').checked = r[4][0];
 		document.getElementById('nnf2').checked = r[4][1];
+		document.getElementById('csa1').checked = r[4][2];
+		document.getElementById('csa2').checked = r[4][3];
 		switch (r[2]) {
 			case 0:
 				document.getElementById('ta0').checked = true;
@@ -73,6 +75,12 @@ document.addEventListener('DOMContentLoaded', () => {
 	});
 	document.getElementById('nnf2').addEventListener('click', function () {
 		browser.runtime.sendMessage(['nnf', '2', (this.checked ? true : false)]);
+	});
+	document.getElementById('csa1').addEventListener('click', function () {
+		browser.runtime.sendMessage(['csa', '1', (this.checked ? true : false)]);
+	});
+	document.getElementById('csa2').addEventListener('click', function () {
+		browser.runtime.sendMessage(['csa', '2', (this.checked ? true : false)]);
 	});
 	document.getElementById('ta0').addEventListener('click', function () {
 		if (this.checked) {
