@@ -43,10 +43,10 @@ for (var linksIndex = 0; linksIndex < links.length; linksIndex++) {
 	    var linkChild = link.getElementsByClassName("__cf_email__")[0];
 	    linkChild.innerText = decodedEmail;
 
-	    link.removeAttribute("data-cfemail");
-	    link.classList.remove("__cf_email__");
+	    linkChild.removeAttribute("data-cfemail");
+	    linkChild.classList.remove("__cf_email__");
 	    
-	    if (link.getAttribute("class") == "") link.removeAttribute("class");
+	    if (linkChild.getAttribute("class") == "") linkChild.removeAttribute("class");
 	}
     } else if (emailprotectionURLNoHashRegex.test(link.href) && link.hasAttribute("data-cfemail")) {
 	var hash = link.getAttribute("data-cfemail");
