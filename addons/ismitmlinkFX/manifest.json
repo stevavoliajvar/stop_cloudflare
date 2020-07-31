@@ -2,7 +2,7 @@
    "manifest_version": 2,
    "name": "Ĉu ligoj estas vundeblaj al MITM-atako?",
    "description": "Skanu FQDN uzante la API de Ss",
-   "version": "1.0.20.2",
+   "version": "1.0.20.3",
    "homepage_url": "https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/",
    "author": "Ss",
    "permissions": [
