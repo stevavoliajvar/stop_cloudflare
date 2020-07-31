@@ -107,8 +107,6 @@
 * [ది గ్రేట్ క్లౌడ్‌వాల్] (article.txt) [మిస్టర్. జెఫ్ క్లిఫ్] (https://shitposter.club/users/jeffcliff)
   * ఇలా డౌన్‌లోడ్ చేయండి: PDF [ఇక్కడ] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [ఇక్కడ] (pdf / 2019-జెఫ్_క్లిఫ్_థీ_గ్రేట్_క్లౌడ్‌వాల్.పబ్)
   * CC0 మెటీరియల్ యొక్క కాపీరైట్ ఉల్లంఘన కారణంగా అసలు ఇబుక్ (ePUB) ను `బుక్‌రిక్స్ GmbH` తొలగించింది.
-  * ఉదారంగా అనిపిస్తున్నారా? మీరు అతనికి కొంత బిట్‌కాయిన్‌ను దానం చేయవచ్చు: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([చెల్లింపు ఎంపిక] (http://qhtn4w2q36dojls2.onion/payment.html))
-  * నెట్‌వర్క్‌ను ఆమోదించండి - [Villages.io ఖాతా] (https://villages.io/profiles/themusicgod1/)
 * [ప్యాడ్‌లాక్ చిహ్నం అనామకచే స్థాపించబడిన సురక్షితమైన SSL కనెక్షన్‌ను సూచిస్తుంది MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
 * [గ్లోబల్ యాక్టివ్ విరోధి క్లౌడ్‌ఫ్లేర్‌ను బ్లాక్ చేయండి] (https://trac.torproject.org/projects/tor/ticket/24351) nym-zone ద్వారా
   * టికెట్ చాలాసార్లు ధ్వంసం చేయబడింది.
