@@ -1,3 +1,6 @@
 ### Addons for Firefox / Chromium (Source code only)
 
-- [License](../LICENSE.md)
+
+- Works best with Tor Browser.
+  - Mozilla Firefox ESR, Ungoogled Chromium
+- [MIT License](../LICENSE.md)
