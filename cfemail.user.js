@@ -3,7 +3,7 @@
 // @namespace   https://codeberg.org/smege1001/cf_email_decoder
 // @match       *://*/*
 // @grant       none
-// @version     1.2
+// @version     1.2.2
 // @author      smege1001
 // ==/UserScript==
 
