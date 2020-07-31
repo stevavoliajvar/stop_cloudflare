@@ -106,8 +106,6 @@ Detta arkiv är en lista över webbplatser som ligger bakom "_The Great Cloudwal
 * [The Great Cloudwall] (Article.txt) av [Mr. Jeff Cliff] (https://shitposter.club/users/jeffcliff)
   * Ladda ner som: PDF [här] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [här] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Den ursprungliga e-boken (ePUB) raderades av "BookRix GmbH" på grund av "upphovsrättsintrång på CC0-material"
-  * Känner du dig generös? Du kan ge honom lite bitcoin: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Betalningsalternativ] (http://qhtn4w2q36dojls2.onion/payment.html))
-  * Stödja nätverk - [Villages.io-konto] (https://villages.io/profiles/themusicgod1/)
 * [Hänglåsikon indikerar en säker SSL-anslutning upprättad w MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) av Anonym
 * [Block Global Active Adversary Cloudflare] (https://trac.torproject.org/projects/tor/ticket/24351) av nym-zone
   * Biljetten vandaliserades så många gånger.
