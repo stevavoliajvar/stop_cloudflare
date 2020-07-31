@@ -106,8 +106,6 @@
 * [The Great Cloudwall] (article.txt) by [Mr. Джэф Кліф] (https://shitposter.club/users/jeffcliff)
   * Спампаваць у выглядзе: PDF [тут] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [тут] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Арыгінальную электронную кнігу (ePUB) выдаліла кампанія "BookRix GmbH" з-за "парушэння аўтарскага права на матэрыял CC0"
-  * Адчуваеце сябе шчодрым? Вы можаце ахвяраваць яму біткойн: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([варыянт аплаты] (http://qhtn4w2q36dojls2.onion/payment.html))
-  * Сцвердзіць сетку - [кошт Villages.io] (https://villages.io/profiles/themusicgod1/)
 * [Значок замка паказвае на бяспечнае злучэнне SSL, усталяванае w MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ад Anonymous
 * [Блакаванне глабальнага актыўнага праціўніка Cloudflare] (https://trac.torproject.org/projects/tor/ticket/24351) ад nym-zone
   * Білет столькі разоў прапагандыраваўся.
