@@ -35,14 +35,26 @@ for (var linksIndex = 0; linksIndex < links.length; linksIndex++) {
     var link = links[linksIndex];
     if (emailprotectionURLHashRegex.test(link.href)) {
 	var hash = link.href.match(emailprotectionURLHashRegex)[1];
-	link.href = "mailto:" + decodeEmail(hash); //replace the stupid email protection with just a mailto link
+	var decodedEmail = decodeEmail(hash);
+	
+	link.href = "mailto:" + decodedEmail; //replace the stupid email protection with just a mailto link
+
+	if (link.getElementsByClassName("__cf_email__")) {
+	    var linkChild = link.getElementsByClassName("__cf_email__")[0];
+	    linkChild.innerText = decodedEmail;
+
+	    link.removeAttribute("data-cfemail");
+	    link.classList.remove("__cf_email__");
+	    
+	    if (link.getAttribute("class") == "") link.removeAttribute("class");
+	}
     } else if (emailprotectionURLNoHashRegex.test(link.href) && link.hasAttribute("data-cfemail")) {
 	var hash = link.getAttribute("data-cfemail");
 	var decodedEmail = decodeEmail(hash);
 	
 	link.href = "mailto:" + decodedEmail;
 	link.innerText = decodedEmail; //the inner text is just [email protected]
-
+	
 	//remove the useless attributes
 	link.removeAttribute("data-cfemail");
 	link.classList.remove("__cf_email__");
