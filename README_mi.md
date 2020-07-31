@@ -106,8 +106,6 @@ Ko tenei kohinga te raarangi o nga paetukutuku e tu ana i muri o "_Whakaahua Nui
 * [Te Paapapa Nui] (article.txt) na [Mr. Jeff Cliff] (https://shitposter.club/users/jeffcliff)
   * Tangohia he: PDF [konei] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [i konei] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ko te eBook taketake (ePUB) i mukua e te 'BookRix GmbH` na te whiu o te mana pupuri o CC0 material`
-  * He manawanui? Ka taea e koe te koha ki a ia mo etahi bitcoin: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Ko te utu hei utu (http://qhtn4w2q36dojls2.onion/payment.html))
-  * Te whatunga Whakautu - [Kaute a Villages.io] (https://villages.io/profiles/themusicgod1/)
 * [Ko te tohu Paewhiri e whakaatu ana i te hononga SSL ki whakapumau w MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) e Anonymous
 * [Aukati i Te Pouaka Whakauru Ake a te Ao Ake) (https://trac.torproject.org/projects/tor/ticket/24351) na nym-rohe
   * I mau kino te tikiti i te waa.
