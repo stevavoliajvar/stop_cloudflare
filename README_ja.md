@@ -107,8 +107,6 @@
 * [The Great Cloudwall](article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ダウンロード: PDF [こちら](pdf/2019-The_Great_Cloudwall.pdf), ePUB [こちら](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * 元の本(ePUB)は`BookRix GmbH`によって、`CC0`ライセンスの著作権侵害を理由に削除されました
-  * ビットコインを寄付したいならこちらへ:`13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([他の寄付手段](http://qhtn4w2q36dojls2.onion/payment.html))
-  * ネットワーク - [Villages.io アカウント](https://villages.io/profiles/themusicgod1/)
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
   * 上のチケットは何度も荒らされました。
