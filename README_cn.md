@@ -107,8 +107,6 @@
 * [杰夫·克利夫先生的 大云壁](article.txt) , [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * 下载: PDF [此处为](pdf/2019-The_Great_Cloudwall.pdf), ePUB [此处为](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * 由于侵犯CC0材料的版权，BookRix GmbH删除了原始电子书（ePUB）
-  * 感觉大方？您可以向他捐赠一些比特币：`13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([付款方式](http://qhtn4w2q36dojls2.onion/payment.html))
-  * 认可网络 - [Villages.io 帐户](https://villages.io/profiles/themusicgod1/)
 * [挂锁图标表示由MITM建立的安全SSL连接](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) , Anonymous
 * [阻止全球活动对手Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) , nym-zone
   * 这张票被破坏了很多次。
