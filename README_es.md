@@ -107,8 +107,6 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
 * [The Great Cloudwall](article.txt) por [Sr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Descargar como: PDF [aquí](pdf/2019-The_Great_Cloudwall.pdf), ePUB [aquí](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * El eBook original (ePUB) fue eliminado por `BookRix GmbH` debido a una infracción de copyright del material CC0
-  * ¿Te sientes generoso? Puedes donarle algo de bitcoin: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([opción de pago](http://qhtn4w2q36dojls2.onion/payment.html))
-  * Endorse network - [Villages.io Cuenta](https://villages.io/profiles/themusicgod1/)
 * [El icono del candado indica una conexión SSL segura establecida con MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) por Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) por nym-zone
   * El boleto fue destrozado muchas veces.

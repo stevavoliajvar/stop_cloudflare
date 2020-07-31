@@ -106,8 +106,6 @@ Bu depo Tor kullanıcılarını ve diğer CDN'leri engelleyen "Büyük Bulut Duv
 * [Büyük Bulut Duvarı] (article.txt) [Bay Jeff Cliff] (https://shitposter.club/users/jeffcliff)
   * Farklı indirin: PDF [burada] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [burada] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Orijinal eKitap (ePUB) `` CC0 malzemesinin telif hakkı ihlali '' nedeniyle `BookRix GmbH` tarafından silindi
-  * Cömert mi hissediyorsun? Ona biraz bitcoin bağışta bulunabilirsiniz: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Ödeme seçeneği] (http://qhtn4w2q36dojls2.onion/payment.html))
-  * Onay ağı - [Villages.io Hesabı] (https://villages.io/profiles/themusicgod1/)
 * [Asma kilit simgesi, Anonim tarafından oluşturulan güvenli bir SSL bağlantısını gösterir] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) Anonim olarak
 * Nym-zone tarafından [Global Active Adversary Cloudflare engelleyin] (https://trac.torproject.org/projects/tor/ticket/24351)
   * Bilet defalarca tahrip edildi.

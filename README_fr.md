@@ -107,8 +107,6 @@ Ce référentiel est une liste de sites Web derrière "The Great Cloudwall", blo
 * [Le Grand Cloudwall](article.txt) per [M. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Téléchargez en: PDF [ici](pdf/2019-The_Great_Cloudwall.pdf), ePUB [ici](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * L'eBook original (ePUB) a été supprimé par BookRix GmbH en raison d'une violation du droit d'auteur du matériel CC0
-  * Vous vous sentez généreux? Vous pouvez lui faire don de bitcoin:`13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([option de paiement](http://qhtn4w2q36dojls2.onion/payment.html))
-  * Approuver le réseau - [Villages.io Compte](https://villages.io/profiles/themusicgod1/)
 * [L'icône de cadenas indique une connexion SSL sécurisée établie avec MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) per Anonymous
 * [Bloquer l'adversaire global actif Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) per nym-zone
   * Le billet a été vandalisé tant de fois.

@@ -106,8 +106,6 @@
 * [Великий облачный экран] (article.txt) [Mr. Джефф Клифф] (https://shitposter.club/users/jeffcliff)
   * Скачать как: PDF [здесь] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [здесь] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригинальная электронная книга (ePUB) была удалена `BookRix GmbH` из-за" нарушения авторских прав на материал CC0 "
-  * Чувствуете себя щедрым? Вы можете пожертвовать ему немного биткойнов: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Вариант оплаты] (http://qhtn4w2q36dojls2.onion/payment.html))
-  * Поддержка сети - [Учетная запись Villages.io] (https://villages.io/profiles/themusicgod1/)
 * [Значок замка указывает на безопасное соединение SSL, установленное с MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) от Anonymous
 * [Блокировать глобальный активный злоумышленник в облаке] (https://trac.torproject.org/projects/tor/ticket/24351) по nym-zone
   * Билет был разорен очень много раз.

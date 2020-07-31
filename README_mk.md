@@ -106,8 +106,6 @@
 * [Големиот Облак wallид] (напис.ткст) од [г. Effеф Клиф] (https://shitposter.club/users/jeffcliff)
   * Преземи како: PDF [тука] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [овде] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригиналниот еКнига (еПУБ) е избришан од „BookRix GmbH“ поради „повреда на авторските права на материјалот CC0“.
-  * Се чувствувате дарежливо? Можете да му донирате малку биткоин: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Опција за плаќање] (http://qhtn4w2q36dojls2.onion/payment.html))
-  * Поддржува мрежа - [Сметка на села.io] (https://villages.io/profiles/themusicgod1/)
 * [Иконата Padlock означува безбедна SSL врска воспоставена со MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) од Аноним
 * [Блокирај го Глобалниот активен облак на непријателот] (https://trac.torproject.org/projects/tor/ticket/24351) по ним-зона
   * Билетот беше вандализиран многу пати.

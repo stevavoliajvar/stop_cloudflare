@@ -108,8 +108,6 @@
 * [La Granda Nubo](article.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Elŝutu kiel: PDF [ĉi tie](pdf/2019-The_Great_Cloudwall.pdf), ePUB [ĉi tie](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * `BookRix GmbH` estis forigita de la originala eBook (ePUB) pro malobservo de kopirajto de CC0-materialo
-  * Ĉu vi sentas malavara? Vi povas donaci al li iom da bitcoin: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Paga elekto](http://qhtn4w2q36dojls2.onion/payment.html))
-  * Endura reto - [Konto pri Villages.io](https://villages.io/profiles/themusicgod1/)
 * [Ikono de Padlock indikas sekuran SSL-konekton establita per MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) de Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) de nym-zone
   * La bileto estis vandaligita tiom multajn fojojn.

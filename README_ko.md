@@ -107,8 +107,6 @@
 * [만리장성](article.txt) 의 [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * 다른 이름으로 다운로드: PDF [여기](pdf/2019-The_Great_Cloudwall.pdf), ePUB [여기](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * CC0 자료의 저작권 침해로 인해 BookRix GmbH에서 원본 eBook (ePUB)을 삭제했습니다.
-  * 관대하다고 느끼십니까? 비트 코인을 기증 할 수 있습니다 :`13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([지불 옵션](http://qhtn4w2q36dojls2.onion/payment.html))
-  * 승인 네트워크 - [Villages.io 계정](https://villages.io/profiles/themusicgod1/)
 * [자물쇠 아이콘은 익명에 의해 MITM로 설정된 보안 SSL 연결을 나타냅니다](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) 의 Anonymous
 * [글로벌 활성 대적 Cloudflare 차단](https://trac.torproject.org/projects/tor/ticket/24351) 의 nym-zone
   * 그 티켓은 여러 번 파괴되었습니다.

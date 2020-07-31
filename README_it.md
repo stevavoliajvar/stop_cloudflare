@@ -107,8 +107,6 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 * [The Great Cloudwall](article.txt) di [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Scarica come: PDF [qui](pdf/2019-The_Great_Cloudwall.pdf), ePUB [qui](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * L'eBook originale (ePUB) è stato eliminato da BookRix GmbH a causa della violazione del copyright del materiale di CC0
-  * Ti senti generoso? Puoi donargli un po 'di bitcoin: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([opzione di pagamento](http://qhtn4w2q36dojls2.onion/payment.html))
-  * Approvare la rete - [Villages.io Account](https://villages.io/profiles/themusicgod1/)
 * [L'icona del lucchetto indica una connessione SSL sicura stabilita da MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) di Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) di nym-zone
   * Il biglietto è stato vandalizzato così tante volte.

@@ -106,8 +106,6 @@
 * [The Cloud Cloudwall] (article.txt) من تأليف [السيد. جيف كليف] (https://shitposter.club/users/jeffcliff)
   * تنزيل بتنسيق: PDF [هنا] (pdf / 2019-The_Great_Cloudwall.pdf) ، ePUB [هنا] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * تم حذف الكتاب الإلكتروني الأصلي (ePUB) بواسطة "BookRix GmbH" بسبب "انتهاك حقوق الطبع والنشر لمواد CC0"
-  * الشعور بالكرم؟ يمكنك التبرع به ببعض عملة البيتكوين: `` 13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([خيار الدفع] (http://qhtn4w2q36dojls2.onion/payment.html))
-  * المصادقة على الشبكة - [حساب Villages.io] (https://villages.io/profiles/themusicgod1/)
 * [رمز القفل يشير إلى اتصال SSL آمن مع MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi؟bug=831835) بواسطة Anonymous
 * [Block Global Active Adversary Cloudflare] (https://trac.torproject.org/projects/tor/ticket/24351) حسب منطقة nym
   * تم تخريب التذكرة مرات عديدة.

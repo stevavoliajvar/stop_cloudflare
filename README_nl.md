@@ -107,8 +107,6 @@ Deze repository is een lijst met websites achter "_The Great Cloudwall_", die To
 * [The Great Cloudwall] (article.txt) door [Mr. Jeff Cliff] (https://shitposter.club/users/jeffcliff)
   * Download als: PDF [hier] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [hier] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Het originele e-book (ePUB) is verwijderd door `BookRix GmbH` vanwege` auteursrechtschending van CC0-materiaal`
-  * Gul voelen? Je kunt hem wat bitcoin doneren: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Betalingsoptie] (http://qhtn4w2q36dojls2.onion/payment.html))
-  * Netwerk onderschrijven - [Villages.io-account] (https://villages.io/profiles/themusicgod1/)
 * [Hangslotpictogram geeft aan dat er een veilige SSL-verbinding tot stand is gebracht met MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) door Anoniem
 * [Blokkeer Global Active Adversary Cloudflare] (https://trac.torproject.org/projects/tor/ticket/24351) door nym-zone
   * Het ticket is zo vaak vernield.
