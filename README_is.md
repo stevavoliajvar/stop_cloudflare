@@ -106,8 +106,6 @@
 * [The Great Cloudwall] (Article.txt) eftir [Mr. Jeff Cliff] (https://shitposter.club/users/jeffcliff)
   * Sæktu sem: PDF [hér] (pdf / 2019-The_Great_Cloudwall.pdf), ePUB [hér] (pdf / 2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Upprunalegu rafbókinni (ePUB) var eytt af „BookRix GmbH“ vegna „höfundarréttarbrota á CC0 efni“.
-  * Líður örlátur? Þú getur gefið honum bitcoin: `13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Greiðslumöguleiki] (http://qhtn4w2q36dojls2.onion/payment.html)
-  * Styrkja net - [Villages.io reikningur] (https://villages.io/profiles/themusicgod1/)
 * [Hengilásartáknið gefur til kynna örugga SSL tengingu komið á með MITM-ed] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) af Anonymous
 * [Loka fyrir Global Active Adversary Cloudflare] (https://trac.torproject.org/projects/tor/ticket/24351) eftir nym-zone
   * Miðinn var skemmdur svo oft.
