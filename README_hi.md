@@ -106,8 +106,6 @@
 * [द ग्रेट क्लाउडवॉल] (article.txt) द्वारा [मि। जेफ क्लिफ] (https://shitposter.club/users/jeffcliff)
   * इस रूप में डाउनलोड करें: पीडीएफ [यहां] (पीडीएफ / 2019-The_Great_Cloudwall.pdf), ePUB [यहां] (पीडीएफ / 2019-जेफ़-जेफ़_क्लिफ़_The_Great_Cloudwall.epub)
   * मूल eBook (ePUB) को 'BookRix GmbH' द्वारा CC0 सामग्री के `कॉपीराइट उल्लंघन 'के कारण हटा दिया गया था
-  * उदार लग रहा है? आप उसे कुछ बिटकॉइन दान कर सकते हैं: `13krZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([भुगतान विकल्प] (http://qhtn4w2q36dojj2/onion/payment.html))
-  * एंडोर्स नेटवर्क - [Villages.io खाता] (https://villages.io/profiles/themusicgod1/)
 * बेनामी द्वारा एक पैडलॉक आइकन एक सुरक्षित एसएसएल कनेक्शन डब्ल्यू डब्ल्यूआईटीएम-एड] (https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) स्थापित करता है।
 * एनआईएम-जोन द्वारा (ब्लॉक ग्लोबल एक्टिव एडवाइजरी क्लाउडफेयर] (https://trac.torproject.org/projects/tor/ticket/24351)
   * टिकट इतनी बार बर्बरता की गई।
