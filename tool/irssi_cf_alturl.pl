@@ -24,7 +24,7 @@
 
 use vars qw($VERSION %IRSSI);
 
-$VERSION = "20200501";
+$VERSION = "20200801";
 %IRSSI   = (
 
     #	Special thanks to: "eo, tsaavik"
@@ -230,7 +230,7 @@ sub GotUrl {
                       'https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/ismitm.php?f='
                       . $fqdn;
                     $browser = LWP::UserAgent->new;
-                    $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:78.0) Gecko/20100101 Firefox/78.0");
+                    $browser->agent("Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0");
                     $response = $browser->get($url);
                     $answer   = $response->content;
                     if ( $answer eq '[true,true]' ) {
@@ -248,7 +248,7 @@ sub GotUrl {
                         deb("$target Creating Short Onion for $myurl");
                         $url = 'http://hbfkuwcbzhcht33fetbiajuh7i6gqupgnyupxcmujiky34drzmpajrid.onion/?i=new&url=' . $myurl;
                         $browser = LWP::UserAgent->new;
-                        $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:78.0) Gecko/20100101 Firefox/78.0");
+                        $browser->agent("Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0");
                         $response = $browser->get($url);
                         $answer   = $response->content;
                         if (
@@ -270,7 +270,7 @@ sub GotUrl {
                         $url =
                           'https://ux.nu/api/short?format=plain&url=' . $myurl;
                         $browser = LWP::UserAgent->new;
-                        $browser->agent("Mozilla/5.0 (Windows NT 6.1; rv:78.0) Gecko/20100101 Firefox/78.0");
+                        $browser->agent("Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0");
                         $response = $browser->get($url);
                         $answer   = $response->content;
                         if ( index( $answer, 'https://ux.nu/' ) == 0 ) {
