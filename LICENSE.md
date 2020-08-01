@@ -8,7 +8,7 @@
 
 This repository, cloudflare-tor (aka _stop\_cloudflare)_, is in the `PUBLIC DOMAIN (CC0)`/`WTFPL`.
 
-It was created anonymously, in public, for the use of the world to resist [Cloudflare](https://www.cloudflare.com/).  
+It was created anonymously, in public, for the use of the world to [resist](https://dw.expert/2020/06/13/the-dark-side-of-google-interview-with-ex-employee-of-the-company-zach-vorhies/) [Cloudflare](https://www.cloudflare.com/).  
   
 Contributors who have anonymously contributed (including in [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)) have since come forward to give this project their blessing.  
 
