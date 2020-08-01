@@ -1,3 +1,0 @@
-[submodule "tool/cf_email_decoder"]
-	path = tool/cf_email_decoder
-	url = https://codeberg.org/smege1001/cf_email_decoder.git
