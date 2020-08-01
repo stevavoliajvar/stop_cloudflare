@@ -3,7 +3,7 @@
 * /globalist/* (Globalist) -- [GNU GPLv3](globalist/LICENSE)
 * /addons/* -- [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 * /pdf/* -- Unknown (you can find a copy everywhere. Thanks to authors)
-* everything Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
+* Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
 
 This repository, cloudflare-tor (aka _stop\_cloudflare)_, is in the `PUBLIC DOMAIN (CC0)`/`WTFPL`.
