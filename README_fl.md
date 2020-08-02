@@ -129,7 +129,7 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 <details>
 <summary>_pindutin mo ako_
 
-## What can you do?
+## Anong pwede mong gawin?
 </summary>
 
 * [Basahin ang aming listahan ng mga inirekumendang aksyon at ibahagi ito sa iyong mga kaibigan.](what-to-do.md)
