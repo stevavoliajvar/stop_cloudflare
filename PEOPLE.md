@@ -690,6 +690,41 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"cloudflare c'est inutile, les offres gratuite ne font rien a part rajouter un MITM et centraliser tout, et vu que ca tombe souvent en panne cest bien pire" ([ramleseam](https://twitter.com/RamleSeam/status/1287377715008622592))
+
+"DDG wouldn't use Cloudflare. CF's primary service is MITM." ([kingslyj](https://twitter.com/kingslyj/status/1284410355637075969))
+
+"The TIL was more about the domain name. It's from the worlds largest MITM operation, I don't really trust them." ([kingslyj](https://twitter.com/kingslyj/status/1278664301369110528))
+
+"Michelle as a woman why do you allow revenge porn sites on your network and call it free speech? As a mother, why do you allow child porn sites on your network? Why do you allow Matthew to strong arm you on Cloudflare policies? I can't believe you agree with them." ([phyzonloop](https://twitter.com/phyzonloop/status/1289027752855842816))
+
+"Starting to find edge services such as cloudflare to be super annoying! Every other website keeps asking me to do captcha. The algorithms for detecting bot vs. human traffic are garbage: anyone using VPN for privacy is automatically considered a bot." ([echerng](https://twitter.com/echerng/status/1289924194365579265))
+
+"has anyone ever had issues with their IP address getting flagged by cloudflare and having to do a captcha for almost every site they visit? it's keeping me from accessing other things like valorant as well. super annoying." ([garsh0p](https://twitter.com/garsh0p/status/1289406229647732736))
+
+"O que está acontecendo com a Block + Captcha o tempo todo. Mais alguém passando por esses problemas?" ([robertoachar](https://twitter.com/RobertoAchar/status/1288841176083243008))
+
+"cloudflare is making my reading and learning on the webs very frustrating. every second site I visit I am faced with a double captcha step. any tips?" ([boffin66](https://twitter.com/boffin66/status/1287631625514188800))
+
+"I think Cloudflare is starting too have too much influence on the net. I'm hitting their captchas often when using sites. A friend was recently asked to install a browser extension after failing a Cloudflare captcha check, something which is a BAD idea to train people to do." ([zorinlynx](https://twitter.com/zorinlynx/status/1287460387957473284))
+
+"Cloudflare blocks Tor, and although I can get your page to start loading by filling out the captcha, scripts necessary to load beyond a white page are locked behind other Cloudflare-protected domains, making it necessary to fish them out and fill out the captcha on all of them." ([happysmash27](https://twitter.com/happysmash27/status/1286124765833580544))
+
+"I still can't post anything without it taking me to a cloudflare error" ([xeeceevevo](https://twitter.com/XEECEEVEVO/status/1289730556440088577))
+
+"Hey, Is namesilo down right now? Cloudflare says host error??" ([yuvrajkarle](https://twitter.com/YuvrajKarle/status/1289614425838645250))
+
+"Cloudflare advertising itself in its error pages is hilarious but enraging" ([snoutpunk](https://twitter.com/Snoutpunk/status/1289431509087195136))
+
+"if you scroll down there is a "join the party" button with the spotify logo. You click it, and it's supposed to take you to pre-save, etc. But the page either doesn't load, or I get a cloudflare error. So we broke it." ([soul_mapped](https://twitter.com/soul_mapped/status/1288855490592743424))
+
+"Is anyone else getting a cloudflare error when trying to click join the party? lol Did we break the pre-save website" ([soul_mapped](https://twitter.com/soul_mapped/status/1288853676199731200))
+
+"valorant gave me an error 1105 cloudflare network is temporary unavailable. Also "connection error" with an error code 68 Account shard: PH" ([zotiscoundrel](https://twitter.com/ZotiScoundrel/status/1288835662657945600))
+
+"being rate limited (temp banned apparently?!) by Cloudflare simply for the act of logging in and out on the site 🤣 Error 1015, Ray ID: 5ba70d03df4206d5 • 2020-07-29 13:05:19 UTC Any chance you could investigatge?" ([christopherw](https://twitter.com/christopherw/status/1288460962127925249))
+
+
 "Cloudflare is responsible for a huge chunk of the internet and their business model is literally MITM as a service." ([kingslyj](https://twitter.com/kingslyj/status/1285457452306018307))
 
 ""This works by situating the DNS providers’ nameservers behind a transparent DNS proxy" Cloudflare is amazing. Convincing half the internet to voluntarily undergo a MITM attack. I've always assumed NSA + God knows who else has all (unencrypted) traffic going through CF." ([thesteedster](https://twitter.com/thesteedster/status/1286001305102815238))
@@ -3087,6 +3122,13 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"ACM has been denying open public access to scientific papers anyway. Tor users are blocked because ACM has jailed their host in CloudFlare's walled garden: The ACM site is also set to give a 302 error to the InternetArchive waybackMachine. Bit embarrassing for ACM to fail at such a simple task." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104615397495442862))
+
+"that article about privacy happens to be a privacy abusing CloudFlare site. And if you try to circumvent CF by going to it's a 404 error." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104614750310878050))
+
+"Kodi has several ethical problems. Apart from using Github, Kodi.tv is a CloudFlare site, littered with Twitter, Facebook, Google, etc. And they ask for donations using Paypal, Patreon, & Liberapay." ([resist1984](https://social.privacytools.io/@resist1984/104610670459183815))
 
 
 "villages.io & freedomsponsors.org avoid CloudFlare (and thus avoid the gamble of giving CF your personal & financial info), but they're a bit different. is an unvetted list of crowdfunding services (research needed)" ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104581662343812911))
