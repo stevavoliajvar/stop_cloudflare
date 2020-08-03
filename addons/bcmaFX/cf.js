@@ -1281,7 +1281,7 @@ browser.storage.local.get(null).then((d) => {
 });
 browser.runtime.onMessage.addListener(function (a, b, c) {
 	if (a[0] == 'cs') {
-		browser.tabs.sendMessage(b.tab.id, [a[1], my_cf_collection.includes(a[1]), my_xcs_a1, my_xcs_a2]);
+		browser.tabs.sendMessage(b.tab.id, [a[1], my_cf_collection.includes(get_realdomain(a[1])), my_xcs_a1, my_xcs_a2]);
 	}
 	if (a[0] == 'cf') {
 		c([JSON.stringify(my_cf_collection), JSON.stringify(my_cf_ignore), my_action, my_customurl, [!my_nfo_alu, !my_nfo_cfd, my_xcs_a1, my_xcs_a2], my_nfo_lang]);
