@@ -1,6 +1,6 @@
 ### Are links vulnerable to MITM attack?
 
-`Scan FQDN using Ss API (or your local database)`
+`Scan FQDN using API`
 
 ![](../image/ismmpreview.jpg)
 
