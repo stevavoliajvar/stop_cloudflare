@@ -1,4 +1,4 @@
-if (document.body && !['ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'searxes.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'searxes.eu.org', 'api.searxes.eu.org', 'ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'ansero.eu.org'].includes(location.hostname)) {
+if (document.body && !['crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'crimeflare.eu.org', 'api.crimeflare.eu.org', 'ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'ansero.eu.org'].includes(location.hostname)) {
 	let cs = (function () {
 		let s = document.createElement('style');
 		document.head.appendChild(s);
@@ -1067,7 +1067,7 @@ if (document.body && !['ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhs
 			return wa[1] + '.' + wa[0];
 		}
 		let bdom = get_realdomain(location.hostname),
-			asked = ['', 'ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'searxes.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'searxes.eu.org', 'api.searxes.eu.org', 'ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'ansero.eu.org', 'addons.mozilla.org', 'addons.thunderbird.net', 'web.archive.org', 't.co'];
+			asked = ['', 'crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'crimeflare.eu.org', 'api.crimeflare.eu.org', 'ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'ansero.eu.org', 'addons.mozilla.org', 'addons.thunderbird.net', 'web.archive.org', 't.co'];
 		if (g.ign1 == 'y') {
 			asked.push(location.hostname);
 		}
