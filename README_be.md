@@ -135,7 +135,7 @@
 
 * Прачытайце [голас іншага карыстальніка](PEOPLE.md) і запішыце свае думкі.
 
-* Пошук нешта на [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([Clearnet](https://ansero.eu.org/)) або [Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/)).
+* Пошук нешта на [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([Clearnet](https://ansero.eu.org/)) або [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Абнавіць спіс даменаў: [Спіс інструкцый](інструкцыі.md).
 
