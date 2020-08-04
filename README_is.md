@@ -135,7 +135,7 @@
 
 * Lestu [rödd annars notanda](PEOPLE.md) og skrifaðu hugsanir þínar.
 
-* Leitaðu eitthvað á [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) eða [Searxes/Ss](https://ss.wodferndripvrtnx5x5.onion/) ([clearnet](https://searxes.eu.org/)).
+* Leitaðu eitthvað á [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) eða [Crimeflare \#Search](https://crimeflare.wodferndripvrtnx5x5.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Uppfærðu lénslistann: [Lista leiðbeiningar](leiðbeiningar.md).
 
