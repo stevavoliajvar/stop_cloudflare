@@ -136,7 +136,7 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 
 * Lesen Sie die [Stimme anderer Benutzer](PEOPLE.md) und schreiben Sie Ihre Gedanken.
 
-* Suchen Sie etwas auf [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) oder [Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/)).
+* Suchen Sie etwas auf [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) oder [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Aktualisieren Sie die Domain-Liste: [Listen Sie die Anweisungen auf](instructions.md).
 
