@@ -136,7 +136,7 @@
 
 * [다른 사용자의 목소리를 읽고 생각을 쓰십시오](PEOPLE.md)
 
-* [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) 또는 [Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/))에서 무언가를 검색하십시오.
+* [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) 또는 [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))에서 무언가를 검색하십시오.
 
 * 도메인 목록 업데이트: [지침을 나열하십시오](instructions.md).
 
