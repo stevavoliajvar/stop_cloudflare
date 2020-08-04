@@ -1,4 +1,4 @@
-# Cloudflare users domain list [ℹ](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_cf.php)
+# Cloudflare users domain list [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_cf.php)
 
 
 [//]: # (do not edit me; start)

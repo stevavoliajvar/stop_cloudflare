@@ -25,32 +25,32 @@
 |  검열에 Cloudflare를 사용할 수 있습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/accdenied.jpg) |
 |  Cloudflare가 봇이라고 생각할 수있는 작은 브라우저를 사용하는 경우 Cloudflared 웹 사이트를 볼 수 없습니다 (많은 사람들이 사용하지 않기 때문에). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfublock.jpg) |
 |  Javascript를 활성화하지 않으면이 침입 성 "브라우저 검사"를 통과 할 수 없습니다. 이것은 귀중한 생명을 5 초 이상 낭비하는 것입니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsjsck.jpg) |
-|  Cloudflare는 또한 Google, Yandex, Yacy 및 API 클라이언트와 같은 합법적 인 로봇 / 크롤러도 자동으로 차단합니다. Cloudflare는 합법적 인 리서치 봇을 깰 의도로 "바이 패스 cloudflare"커뮤니티를 적극적으로 모니터링하고 있습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg) |
+|  Cloudflare는 또한 Google, Yandex, Yacy 및 API 클라이언트와 같은 합법적 인 로봇/크롤러도 자동으로 차단합니다. Cloudflare는 합법적 인 리서치 봇을 깰 의도로 "바이 패스 cloudflare"커뮤니티를 적극적으로 모니터링하고 있습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg) |
 |  Cloudflare는 마찬가지로 인터넷 연결이 좋지 않은 많은 사람들이 여러 이미지 보안 문자를 해결하지 않는 한 웹 사이트 뒤에 액세스하는 것을 방지합니다 (예 : 7 개 이상의 NAT 계층 뒤에 있거나 동일한 IP (예 : 공용 Wifi) 공유). 경우에 따라 Google을 만족시키는 데 10 ~ 30 분이 소요될 수 있습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/googlerecaptcha.jpg) |
 |  2020 년에 Cloudflare는 Google의 청구에 따라 Google의 Recaptcha에서 hCaptcha로 전환했습니다. Cloudflare는 귀하의 개인 정보를 관리한다고 말했지만 ( "개인 정보 보호 문제를 해결하는 데 도움이됩니다") 이것은 분명히 거짓말입니다. 그것은 돈에 관한 것입니다. "hCaptcha는 웹 사이트가 봇 및 기타 형태의 남용을 차단하면서 이러한 요구에 부응하여 돈을 벌 수 있도록합니다"<br>사용자의 관점에서 이것은 크게 변하지 않습니다. 당신은 그것을 해결하도록 강요 받고 있습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fedup_fucking_hcaptcha.jpg) |
 |  Cloudflare는 매일 많은 사람과 소프트웨어를 차단하고 있습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsnote.jpg) |
 |  Cloudflare는 전 세계 많은 사람들을 괴롭 힙니다. 목록을보고 사이트에서 Cloudflare를 채택하는 것이 사용자 경험에 적합한 지 생각하십시오. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsstream.jpg) |
 |  원하는 것을 할 수 없다면 인터넷의 목적은 무엇입니까? 웹 사이트를 방문하는 대부분의 사람들은 웹 페이지를로드 할 수없는 경우 다른 페이지 만 찾습니다. 방문자를 차단하지 않을 수도 있지만 Cloudflare의 기본 방화벽은 많은 사람들을 차단할만큼 엄격합니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsdroid.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsappl.jpg) |
 |  Javascript 및 쿠키를 활성화하지 않으면 보안 문자를 해결할 수있는 방법이 없습니다. Cloudflare는이를 사용하여 사용자를 식별하는 브라우저 서명을 만듭니다. 사이트를 계속 탐색 할 수 있는지 여부를 결정하려면 Cloudflare가 사용자의 신원을 알아야합니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1010bsig.jpg) |
-|  Tor 사용자와 VPN 사용자도 Cloudflare의 피해자입니다. 두 솔루션 모두 국가 / 기업 / 네트워크 정책으로 인해 무수정 인터넷을 감당할 수 없거나 개인 정보를 보호하기 위해 추가 계층을 추가하려는 많은 사람들이 사용하고 있습니다. Cloudflare는 뻔뻔스럽게도 사람들을 공격하여 프록시 솔루션을 끄도록 강요하고 있습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn2.jpg) |
+|  Tor 사용자와 VPN 사용자도 Cloudflare의 피해자입니다. 두 솔루션 모두 국가/기업/네트워크 정책으로 인해 무수정 인터넷을 감당할 수 없거나 개인 정보를 보호하기 위해 추가 계층을 추가하려는 많은 사람들이 사용하고 있습니다. Cloudflare는 뻔뻔스럽게도 사람들을 공격하여 프록시 솔루션을 끄도록 강요하고 있습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn2.jpg) |
 |  지금까지 Tor를 사용하지 않았다면 Tor 브라우저를 다운로드하고 즐겨 찾는 웹 사이트를 방문하십시오. (조언 : 은행 웹 사이트 또는 정부 웹 페이지에 로그인하지 마십시오. 그렇지 않으면 계정에 플래그가 지정됩니다. 해당 웹 사이트에 VPN을 사용하십시오.) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn.jpg) |
 |  "토르는 불법입니다! 토르 사용자는 범죄자입니다! 토르는 나쁩니다!"라고 말할 수도 있습니다. 아닙니다. Tor는 텔레비전에서 Tor에 대해 배울 수 있으며 Tor는 다크 넷을 탐색하고 총, 마약 또는 chid 포르노를 거래하는 데 사용될 수 있다고 말합니다. 위의 진술은 그러한 품목을 구입할 수있는 많은 시장 웹 사이트가 있다는 것이 사실이지만 해당 사이트는 종종 clearnet에도 나타납니다.  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whousetor.jpg) |
 |  Tor는 미 육군에 의해 개발되었지만 현재 Tor는 Tor 프로젝트에 의해 개발되었습니다. 미래의 친구들을 포함하여 Tor를 사용하는 많은 사람들과 조직이 있습니다. 따라서 웹 사이트에서 Cloudflare를 사용하는 경우 실제 사람을 차단하는 것입니다. 당신은 잠재적 인 우정과 사업 거래를 잃을 것입니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
 |  또한 DNS 서비스 1.1.1.1은 Cloudflare 소유의 가짜 IP 주소, "127.0.0.x"와 같은 로컬 호스트 IP를 반환하거나 아무것도 반환하지 않음으로써 사용자가 웹 사이트를 방문하지 못하도록 필터링합니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg) |
 |  Cloudflare DNS는 가짜 DNS 응답 때문에 스마트 폰 앱에서 컴퓨터 게임으로 온라인 소프트웨어를 차단합니다. Cloudflare DNS는 일부 은행 웹 사이트를 쿼리 할 수 ​​없습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
-|  그리고 여기서 생각할 수도 있습니다.<br>"Tor 또는 VPN을 사용하지 않는 이유는 무엇입니까?"<br>"Cloudflare 마케팅을 신뢰합니다. 왜 신경 써야합니까?"<br>"내 웹 사이트가 HTTPS 인 이유는 무엇입니까?" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
+|  그리고 여기서 생각할 수도 있습니다.<br>"Tor 또는 VPN을 사용하지 않는 이유는 무엇입니까?"<br>"Cloudflare 마케팅을 신뢰합니다. 왜 신경 써야합니까?"<br>"내 웹 사이트가 https 인 이유는 무엇입니까?" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
 |  Cloudflare를 사용하는 웹 사이트를 방문하면 웹 사이트 소유자뿐만 아니라 Cloudflare와 정보를 공유하게됩니다. 이것이 리버스 프록시의 작동 방식입니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
 |  TLS 트래픽을 해독하지 않고 분석하는 것은 불가능합니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
 |  Cloudflare는 원시 비밀번호와 같은 모든 데이터를 알고 있습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg) |
 |  Cloudbeed는 언제든지 발생할 수 있습니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg) |
-|  Cloudflare의 HTTPS는 엔드 투 엔드가 아닙니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
+|  Cloudflare의 https는 엔드 투 엔드가 아닙니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
 |  Cloudflare 및 3 글자 대행사와 데이터를 공유하고 싶습니까? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
 |  인터넷 사용자의 온라인 프로필은 정부 및 대기업이 구매하고자하는 "제품"입니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
 |  미국 국토 안보부는:<br><br>"귀하의 데이터가 얼마나 귀중한 지 아십니까? 해당 데이터를 판매 할 방법이 있습니까?"  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
 |  Cloudflare는 "Cloudflare Warp"라는 무료 VPN 서비스도 제공합니다. 사용하면 모든 스마트 폰 (또는 컴퓨터) 연결이 Cloudflare 서버로 전송됩니다. Cloudflare는 귀하가 읽은 웹 사이트, 게시 한 댓글, 대화 한 사람 등을 알 수 있습니다. 귀하는 자발적으로 Cloudflare에 모든 정보를 제공합니다. "농담 하시나요? Cloudflare는 안전합니다." 그런 다음 VPN 작동 방식을 배워야합니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare는 VPN 서비스가 인터넷을 빠르게 만든다고 말했다. 그러나 VPN은 인터넷 연결을 기존 연결보다 느리게 만듭니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/notfastervpn.jpg) |
 |  PRISM 스캔들에 대해 이미 알고있을 것입니다. AT & T가 NSA가 감시를 위해 모든 인터넷 데이터를 복사 할 수있게하는 것은 사실입니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
-|  NSA에서 일하고 있고 모든 시민의 인터넷 프로필을 원한다고 가정 해 봅시다. 대부분은 맹목적으로 Cloudflare를 신뢰하고 있으며 하나의 중앙 집중식 게이트웨이로 회사 서버 연결 (SSH / RDP), 개인 웹 사이트, 채팅 웹 사이트, 포럼 웹 사이트, 은행 웹 사이트, 보험 웹 사이트, 검색 엔진, 비밀 구성원을 프록시하는 데 사용합니다. -웹 사이트, 경매 웹 사이트, 쇼핑, 비디오 웹 사이트, NSFW 웹 사이트 및 불법 웹 사이트. 또한 "Secure! Faster! Better!"에 Cloudflare의 DNS 서비스 ( "1.1.1.1") 및 VPN 서비스 ( "Cloudflare Warp")를 사용한다는 것도 알고 있습니다. 인터넷 경험. 이를 사용자의 IP 주소, 브라우저 지문, 쿠키 및 RAY-ID와 결합하면 대상의 온라인 프로필을 작성하는 데 유용합니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
+|  NSA에서 일하고 있고 모든 시민의 인터넷 프로필을 원한다고 가정 해 봅시다. 대부분은 맹목적으로 Cloudflare를 신뢰하고 있으며 하나의 중앙 집중식 게이트웨이로 회사 서버 연결 (SSH/RDP), 개인 웹 사이트, 채팅 웹 사이트, 포럼 웹 사이트, 은행 웹 사이트, 보험 웹 사이트, 검색 엔진, 비밀 구성원을 프록시하는 데 사용합니다. -웹 사이트, 경매 웹 사이트, 쇼핑, 비디오 웹 사이트, NSFW 웹 사이트 및 불법 웹 사이트. 또한 "Secure! Faster! Better!"에 Cloudflare의 DNS 서비스 ( "1.1.1.1") 및 VPN 서비스 ( "Cloudflare Warp")를 사용한다는 것도 알고 있습니다. 인터넷 경험. 이를 사용자의 IP 주소, 브라우저 지문, 쿠키 및 RAY-ID와 결합하면 대상의 온라인 프로필을 작성하는 데 유용합니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  당신은 그들의 데이터를 원합니다. 무엇을 하시겠습니까? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
 
 
@@ -136,15 +136,15 @@
 
 * [다른 사용자의 목소리를 읽고 생각을 쓰십시오](PEOPLE.md)
 
-* [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) 또는 [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))에서 무언가를 검색하십시오.
+* [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) 또는 [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))에서 무언가를 검색하십시오.
 
 * 도메인 목록 업데이트: [지침을 나열하십시오](instructions.md).
 
 * [Cloudflare 또는 프로젝트 관련 이벤트를 히스토리에 추가하십시오](HISTORY.md).
 
-* [새로운 도구 / 스크립트를 사용해보십시오](tool/).
+* [새로운 도구/스크립트를 사용해보십시오](tool/).
 
-* [읽을 PDF / ePUB가 있습니다](pdf/)
+* [읽을 PDF/ePUB가 있습니다](pdf/)
 
 
 ---

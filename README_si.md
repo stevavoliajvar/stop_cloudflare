@@ -136,7 +136,7 @@
 
 * [වෙනත් පරිශීලකයාගේ කටහ]](PEOPLE.md) කියවා ඔබේ අදහස් ලියන්න.
 
-* [ඇන්සෙරෝ](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) හෝ [Searxes: Ssxx.onion/) ([clearnet](https://searxes.eu.org/)).
+* [ඇන්සෙරෝ](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) හෝ [Searxes: Ssxx.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * වසම් ලැයිස්තුව යාවත්කාලීන කරන්න: [ලැයිස්තු උපදෙස්](උපදෙස්. එම්ඩී).
 

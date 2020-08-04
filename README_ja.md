@@ -38,12 +38,12 @@
 |  トーアは米軍によって開発されましたが、今はトーアプロジェクトによって開発されています。多くの人々そして団体がトーアを利用しており、あなたの将来の友人もこれに含まれています。なので、もしあなたがご自身のサイトにクラウドフレアをお使いの場合、あなたは本物の人間をも拒否しているのです。あなたは新しい友達や新規取引といった可能性を失うでしょう。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
 |  クラウドフレアのDNSサービス、1.1.1.1、もまた利用者がサイトに接続することを防いでいます。クラウドフレアが保有するIPアドレス、ローあるホストのIPを応答したり、何も応答を返さないといった事が起きています。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg) |
 |  クラウドフレアのDNSはこのせいで、ソフトウェア、スマートフォンアプリ、PCゲームなどの正常動作に問題を起こします。いくつかの銀行のサイトも接続ができません。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
-|  ここであなたはこう思うでしょう、<br>「トーアやVPNを使ってないから関係ないね」<br>「クラウドフレアを信頼してるから気にしない」<br>「HTTPSのサイトを持っているから関係ない」 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
+|  ここであなたはこう思うでしょう、<br>「トーアやVPNを使ってないから関係ないね」<br>「クラウドフレアを信頼してるから気にしない」<br>「httpsのサイトを持っているから関係ない」 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
 |  もしあなたがクラウドフレアを利用しているサイトを開いたら、あなたは情報をサイト管理者だけでなくクラウドフレアにも共有しています。これが、リバースプロキシの原理です。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
 |  TLS暗号化を復号することなしで解析することは不可能です。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
 |  クラウドフレアはあなたの入力したパスワードなどの全データを知っています。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg) |
 |  クラウドブリードがいつ起きても不思議ではありません。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg) |
-|  クラウドフレアのHTTPSは決してE2Eではありません。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
+|  クラウドフレアのhttpsは決してE2Eではありません。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
 |  あなたは本当にご自身のデータをクラウドフレア、そして3文字の国家機関と共有したいのですか？ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
 |  インターネット利用者のオンラインプロフィールは、政府と巨大IT企業が買いたいと思う「商品」です。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
 |  アメリカDHSはかつてこう言いました:<br><br>「その持っているデータ、どれだけ貴重だと思う？僕達にデータを売ってもらえないかな？」  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
@@ -136,7 +136,7 @@
 
 * [他の方の意見](PEOPLE.md)をご覧になり、ブログなどで意見を書いてください。
 
-* [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) または [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))で検索してみましょう。
+* [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) または [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))で検索してみましょう。
 
 * ドメインリストを更新する: [リストの詳細](instructions.md)
 
