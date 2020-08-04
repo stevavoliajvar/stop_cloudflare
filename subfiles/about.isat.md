@@ -1,6 +1,6 @@
 ### Will these links block Tor user?
 
-`Scan FQDN using Ss API (or your local database)`
+`Scan FQDN using API`
 
 ![](../image/isatpreview.jpg)
 
