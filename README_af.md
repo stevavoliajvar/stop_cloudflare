@@ -136,7 +136,7 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter “The Great Cloudwall” st
 
 * [Lees die stem van 'n ander gebruiker en skryf jou gedagtes.](PEOPLE.md)
 
-* Soek iets op [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) of [Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/)).
+* Soek iets op [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) of [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Dateer die domeinlys op: [lys instruksies](instructions.md).
 

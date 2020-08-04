@@ -136,7 +136,7 @@ Kho lưu trữ này là một danh sách các trang web đứng sau mạng "The 
 
 * [Đọc giọng nói của người dùng khác và viết suy nghĩ của bạn](PEOPLE.md)
 
-* Tìm kiếm thứ gì đó trên [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) hoặc [Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/)).
+* Tìm kiếm thứ gì đó trên [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) hoặc [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Cập nhật danh sách tên miền: [Danh sách hướng dẫn](instructions.md).
 
