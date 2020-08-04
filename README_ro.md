@@ -135,7 +135,7 @@ Acest depozit este o listă de site-uri web care se află în spatele "_ Marelui
 
 * Citiți [vocea altui utilizator](PEOPLE.md) și scrieți-vă gândurile.
 
-* Căutați ceva pe [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) sau [Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/)).
+* Căutați ceva pe [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) sau [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Actualizați lista de domenii: [Instrucțiuni de listă](instrucțiuni.md).
 
