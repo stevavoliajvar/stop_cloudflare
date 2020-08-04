@@ -1,4 +1,4 @@
-# CDN users FQDN list [ℹ](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_zc.php)
+# CDN users FQDN list [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_zc.php)
 
 
 [//]: # (do not edit me; start)
