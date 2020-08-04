@@ -135,7 +135,7 @@
 
 * Прочитајте го [гласот на друг корисник](PEOPLE.md) и напишете ги мислите.
 
-* Пребарувајте нешто на [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) или [Searxes/Ss](https://dngxrxxxxxxx.onion/) ([clearnet](https://searxes.eu.org/)).
+* Пребарувајте нешто на [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) или [Crimeflare \#Search](https://dngxrxxxxxxx.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Ажурирајте го списокот на домени: [Упатства за список](упатства.md).
 
