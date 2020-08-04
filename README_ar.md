@@ -135,7 +135,7 @@
 
 * اقرأ [صوت المستخدم الآخر](PEOPLE.md) واكتب أفكارك.
 
-* ابحث عن شيء ما على [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) أو [Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/)).
+* ابحث عن شيء ما على [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) أو [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * تحديث قائمة المجال: [تعليمات قائمة](تعليمات.md).
 

@@ -1,6 +1,6 @@
 ### Are links vulnerable to MITM attack?
 
-`Scan FQDN using Ss API (or your local database)`
+`Scan FQDN using API`
 
 ![](../image/ismmpreview.jpg)
 
@@ -10,7 +10,7 @@
 You′ve found something on the internet.
 Are these links or images vulnerable to MITM attack or not?
  
-This add-on is using* Searxes′ Public API to scan FQDN.
+This add-on is using* Crimeflare′s Public API to scan FQDN.
 	e.g. https://ekzemplo.com/page.html → "ekzemplo.com"
 
 This add-on never send other information.

@@ -136,7 +136,7 @@
 
 * 阅读其[他用户的声音](PEOPLE.md)并写下您的想法。
 
-* 在[Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/))或[Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/))上搜索内容。
+* 在[Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/))或[Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))上搜索内容。
 
 * 更新域列表: [列表说明](instructions.md).
 

@@ -41,7 +41,7 @@ There are many ways to detect it:
 - Add-on "[Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md)" will help your Cloudflare collection.
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "Attention Required! Cloudflare" webpage.
-- Use "Is MITM?" webpage. [Clearnet](https://searxes.eu.org/ss/tool_ismitm.php) / [Tor](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)
+- Use "Is MITM?" webpage. [Clearnet](https://crimeflare.eu.org/ss/tool_ismitm.php) / [Tor](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
@@ -228,7 +228,7 @@ A or B will be enough. Thank you for your contribution.
 > Type B: Just scan the FQDN
 
 - Cloudflare/CDN
-  - Scan FQDN on "[Is MITM?](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
+  - Scan FQDN on "[Is MITM?](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
   - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
   - Or: Use "_MITM test_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)ismitm.php?f=www.emsisoft.com`
@@ -239,7 +239,7 @@ A or B will be enough. Thank you for your contribution.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)is_antitor.php?f=www.cloudflare.com`
   - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
 
-Public API Details [ℹ](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/#!op=info/api)
+Public API Details [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/#!op=info/api)
 <br>
 Your contribution will be pushed to Codeberg automatically within a week.
 

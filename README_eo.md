@@ -137,7 +137,7 @@
 
 * Legu [la voĉon de alia uzanto](PEOPLE.md) kaj skribu viajn pensojn.
 
-* Serĉi ion sur [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([klara retejo](https://ansero.eu.org/)) aŭ [Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([klara retejo](https://searxes.eu.org/)).
+* Serĉi ion sur [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([klara retejo](https://ansero.eu.org/)) aŭ [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([klara retejo](https://crimeflare.eu.org/)).
 
 * Ĝisdatigu la domajnan liston: [Enlistigi instrukciojn](instructions.md).
 
