@@ -135,7 +135,7 @@ Bu depo Tor kullanıcılarını ve diğer CDN'leri engelleyen "Büyük Bulut Duv
 
 * [Diğer kullanıcının sesi](PEOPLE.md) okuyun ve düşüncelerinizi yazın.
 
-* [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) veya [Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/)).
+* [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) veya [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Alan listesini güncelleyin: [Talimatları listele](instruction.md).
 
