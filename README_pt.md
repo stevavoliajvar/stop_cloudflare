@@ -37,12 +37,12 @@
 | Tor _was_ [desenvolvido pelo Exército dos EUA](https://www.nrl.navy.mil/itd/chacs/dingledine-tor-second-generation-onion-router), mas o Tor atual é desenvolvido pelo [projeto Tor]( https://www.torproject.org/). Existem muitas pessoas e organizações [que usam o Tor](https://blog.torproject.org/tor-misused-criminals), incluindo seus futuros amigos. Portanto, se você estiver usando o Cloudflare em seu site, estará bloqueando humanos reais. Você perderá uma potencial amizade e negócios. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
 | E o serviço DNS deles, [1.1.1.1](https://1.1.1.1/), também está impedindo que os usuários visitem o site retornando [fake](https://trac.torproject.org/projects/tor/ticket/32915) Endereço IP [de propriedade da Cloudflare](https://www.reddit.com/r/CloudFlare/comments/hiqm4u/no_cloudflare_website_is_loading/), IP do host local como "127.0.0.x" ou apenas não retorne nada . | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg) <br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg) |
 | O DNS do Cloudflare também [quebra](https://twitter.com/bowranger/status/1213031783576428550) [online](https://twitter.com/jb510/status/1212521533907668992) [software](https://twitter.com/No_Style/status/1201525422795710466) [from](https://twitter.com/daemuth/status/1187758306535903233) [smartphone](https://twitter.com/gregortorrence/status/1183102089439805441) [app](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/) [para jogos de computador por causa de sua resposta DNS falsa](PEOPLE.md). DNS do Cloudflare [não pode consultar](PEOPLE.md) em alguns sites de bancos. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg) <br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
-| E aqui você pode pensar: <br> "_Não estou usando Tor ou VPN, por que devo me importar? _" <br> "_Confio no marketing Cloudflare, por que devo me importar_" <br> "_Meu site é HTTPS, por que devo cuidado_ "| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
+| E aqui você pode pensar: <br> "_Não estou usando Tor ou VPN, por que devo me importar? _" <br> "_Confio no marketing Cloudflare, por que devo me importar_" <br> "_Meu site é https, por que devo cuidado_ "| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
 | Se você visitar um site que usa o Cloudflare, estará compartilhando suas informações não apenas com o proprietário do site, mas também com o Cloudflare. É assim que o [proxy reverso](https://en.wikipedia.org/wiki/Reverse_proxy) funciona. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
 | É impossível [analisar](https://blog.cloudflare.com/the-csam-scanning-tool/) sem [descriptografar o tráfego TLS](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15 # issuecomment-354773389). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
 | O Cloudflare conhece todos os seus dados, como senha bruta. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg) |
 | [Cloudbeed](https://en.wikipedia.org/wiki/Cloudbleed) pode acontecer a qualquer momento. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg) |
-| O HTTPS do Cloudflare nunca é de ponta a ponta. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
+| O https do Cloudflare nunca é de ponta a ponta. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
 | Deseja realmente compartilhar seus dados com o Cloudflare e também com agências de três letras? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
 | O perfil on-line do usuário da Internet é um "produto" que o governo e as grandes empresas de tecnologia desejam comprar. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
 | O Departamento de Segurança Interna dos EUA (https://www.dhs.gov/) disse: <br> <br> "Você tem alguma idéia de quão valiosos são os dados que possui? Existe alguma maneira de nos vender isso? dados?" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
@@ -115,7 +115,7 @@ Este repositório é uma lista de sites que estão por trás de "_The Great Clou
   * Eles usaram o Cloudflare no passado. [Adicionado](https://github.com/privacytools/privacytools.io/pull/1205) CF-tor, mas [o removeu](https://github.com/privacytools/privacytools.io/pull/1804).
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Críticas e controvérsias](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) pela Wikipedia
-* [Outro dia marcante na guerra para controlar, centralizar e censurar a Internet.](Https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) por TheGoldenGoose8888
+* [Outro dia marcante na guerra para controlar, centralizar e censurar a Internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) por TheGoldenGoose8888
 * [Desvantagem de confiar em apenas um serviço](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com % 0D% 0Ans2.digitalocean.com% 0D% 0Ans3.digitalocean.com% 0D% 0Awww.digitalocean.com & type = A & ns = resolvedor & useresolver = 8.8.4.4 & nameservers =))
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/watcloudflare.jpg)
@@ -135,7 +135,7 @@ Este repositório é uma lista de sites que estão por trás de "_The Great Clou
 
 * Leia [voz de outro usuário](PEOPLE.md) e escreva seus pensamentos.
 
-* Pesquise algo em [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) ou [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
+* Pesquise algo em [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) ou [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Atualize a lista de domínios: [Listar instruções](instructions.md).
 
@@ -189,6 +189,6 @@ Nunca pedimos suas mídias sociais. **
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-![](Https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)

@@ -135,7 +135,7 @@ Ko tenei kohinga te raarangi o nga paetukutuku e tu ana i muri o "_Whakaahua Nui
 
 * Panuihia te reo [o era atu kaiwhakamahi](PEOPLE.md) ka tuhia o whakaaro.
 
-* Rapua tetahi mea ki [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) ranei [Searxes/Ss]].onion/) ([clearnet](https://searxes.eu.org/)).
+* Rapua tetahi mea ki [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) ranei [Crimeflare \#Search]].onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Whakahoutia te raarangi rohe: [Raarangi tohutohu](parent.md).
 

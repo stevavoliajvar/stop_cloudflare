@@ -136,7 +136,7 @@
 
 * [अन्य वापरकर्त्याचा आवाज](PEOPLE.md) वाचा आणि आपले विचार लिहा.
 
-* [अंसेरो] वर काहीतरी शोधा (https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([क्लॅरनेट](https://ansero.eu.org/)) किंवा [Searxes/Ss](rnjtrtsprnsprnsprnjपर.onion/) ([क्लार्नेट](https://searxes.eu.org/)).
+* [अंसेरो] वर काहीतरी शोधा (https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([क्लॅरनेट](https://ansero.eu.org/)) किंवा [Crimeflare \#Search](rnjtrtsprnsprnsprnjपर.onion/) ([क्लार्नेट](https://crimeflare.eu.org/)).
 
 * डोमेन यादी अद्यतनित करा: [सूची सूचना](निर्देश.एमडी).
 

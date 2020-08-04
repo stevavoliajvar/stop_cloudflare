@@ -355,7 +355,7 @@ cf-ray: XXXXXXXXXXX-YYY
 If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)" - after checking `example.com` with online tool below.
 
 
-1. Open "[Is MITM?](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
+1. Open "[Is MITM?](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
 
 2. Input `gitlab.com` and click `Scan`.
 

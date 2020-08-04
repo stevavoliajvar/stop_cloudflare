@@ -38,19 +38,19 @@
 |  Tor由美国陆军开发，但当前的Tor由Tor项目开发。有很多使用Tor的人和组织，包括您未来的朋友。因此，如果您在网站上使用Cloudflare，则会阻止真实的人。您将失去潜在的友谊和商业交易。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
 |  他们的DNS服务1.1.1.1还通过返回Cloudflare拥有的虚假IP地址，本地IP（例如“ 127.0.0.x”）来过滤掉用户访问该网站的行为，或者只是不返回任何内容。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg) |
 |  Cloudflare DNS还因为伪造的DNS答案而将在线软件从智能手机应用程序破坏为计算机游戏。 Cloudflare DNS无法查询某些银行网站。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
-|  在这里您可能会想，<br>“我不使用Tor或VPN，为什么要关心？”<br>“我相信Cloudflare营销，我为什么要关心”<br>“我的网站是HTTPS，为什么我要关心” | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
+|  在这里您可能会想，<br>“我不使用Tor或VPN，为什么要关心？”<br>“我相信Cloudflare营销，我为什么要关心”<br>“我的网站是https，为什么我要关心” | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
 |  如果您访问使用Cloudflare的网站，那么您不仅会与网站所有者共享信息，还会与Cloudflare共享信息。这就是反向代理的工作方式。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
 |  不解密TLS流量就无法进行分析。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
 |  Cloudflare知道您的所有数据，例如原始密码。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg) |
 |  Cloudbeed随时可能发生。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg) |
-|  Cloudflare的HTTPS从来都不是端到端的。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
+|  Cloudflare的https从来都不是端到端的。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
 |  您是否真的要与Cloudflare以及三字母代理商共享您的数据？ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
 |  互联网用户的在线资料是政府和大型科技公司想要购买的“产品”。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
 |  美国国土安全部说：<br><br>“您知道您所拥有的数据有多有价值吗？有什么办法可以向我们出售这些数据？”  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
 |  Cloudflare还提供称为“Cloudflare Warp”的免费VPN服务。如果使用它，则所有智能手机（或计算机）连接都将发送到Cloudflare服务器。 Cloudflare可以知道您阅读过哪个网站，发表了哪些评论，与谁交谈过，等等。您自愿将所有信息提供给Cloudflare。如果您认为“您在开玩笑吗？Cloudflare是安全的。”那么您需要了解VPN的工作原理。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare表示，他们的VPN服务使您的互联网快速。但是VPN使您的Internet连接速度比现有连接慢。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/notfastervpn.jpg) |
 |  您可能已经知道PRISM丑闻。 AT＆T确实允许NSA复制所有互联网数据以进行监视。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
-|  假设您正在国家安全局（NSA）工作，并且想要每个公民的互联网资料。您知道他们中的大多数人都盲目地信任Cloudflare并使用它-仅一个集中网关-代理其公司服务器连接（SSH / RDP），个人网站，聊天网站，论坛网站，银行网站，保险网站，搜索引擎，秘密成员仅限网站，拍卖网站，购物，视频网站，NSFW网站和非法网站。您还知道他们使用Cloudflare的DNS服务（“ 1.1.1.1”）和VPN服务（“ Cloudflare Warp”）来实现“安全！更快！更好！”。互联网体验。将它们与用户的IP地址，浏览器指纹，Cookie和RAY-ID结合起来，对于构建目标的在线配置文件很有用。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
+|  假设您正在国家安全局（NSA）工作，并且想要每个公民的互联网资料。您知道他们中的大多数人都盲目地信任Cloudflare并使用它-仅一个集中网关-代理其公司服务器连接（SSH/RDP），个人网站，聊天网站，论坛网站，银行网站，保险网站，搜索引擎，秘密成员仅限网站，拍卖网站，购物，视频网站，NSFW网站和非法网站。您还知道他们使用Cloudflare的DNS服务（“ 1.1.1.1”）和VPN服务（“ Cloudflare Warp”）来实现“安全！更快！更好！”。互联网体验。将它们与用户的IP地址，浏览器指纹，Cookie和RAY-ID结合起来，对于构建目标的在线配置文件很有用。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  您需要他们的数据。你会怎么做？ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
 
 
@@ -136,7 +136,7 @@
 
 * 阅读其[他用户的声音](PEOPLE.md)并写下您的想法。
 
-* 在[Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/))或[Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))上搜索内容。
+* 在[Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/))或[Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))上搜索内容。
 
 * 更新域列表: [列表说明](instructions.md).
 

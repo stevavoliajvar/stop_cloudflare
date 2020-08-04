@@ -43,12 +43,12 @@
 |  Tor _was_ [developed by US Army](https://www.nrl.navy.mil/itd/chacs/dingledine-tor-second-generation-onion-router), but current Tor is developed by the [Tor project](https://www.torproject.org/). There are many people and organizations [who use Tor](https://blog.torproject.org/tor-misused-criminals) including your future friends. So, if you are using Cloudflare on your website you are blocking _real_ humans. You will lose potential friendship and business deal. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
 |  And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning [fake](https://trac.torproject.org/projects/tor/ticket/32915) IP address [owned by Cloudflare](https://www.reddit.com/r/CloudFlare/comments/hiqm4u/no_cloudflare_website_is_loading/), localhost IP such as "127.0.0.x", or just return nothing. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg) |
 |  Cloudflare DNS also [break](https://twitter.com/bowranger/status/1213031783576428550) [online](https://twitter.com/jb510/status/1212521533907668992) [software](https://twitter.com/No_Style/status/1201525422795710466) [from](https://twitter.com/daemuth/status/1187758306535903233) [smartphone](https://twitter.com/gregortorrence/status/1183102089439805441) [app](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/) [to computer game because of their fake DNS answer](PEOPLE.md). Cloudflare DNS [cannot query](PEOPLE.md) some bank websites. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
-|  And here you might think,<br>"_I am not using Tor or VPN, why should I care?_"<br>"_I trust Cloudflare marketing, why should I care_"<br>"_My website is HTTPS why should I care_" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
+|  And here you might think,<br>"_I am not using Tor or VPN, why should I care?_"<br>"_I trust Cloudflare marketing, why should I care_"<br>"_My website is https why should I care_" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
 |  If you visit website which use Cloudflare, you are sharing your information not only to website owner _but also Cloudflare_. This is how the [reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy) works. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
 |  It is impossible to [analyze](https://blog.cloudflare.com/the-csam-scanning-tool/) without [decrypting TLS traffic](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
 |  Cloudflare knows all your data such as raw password. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg) |
 |  [Cloudbeed](https://en.wikipedia.org/wiki/Cloudbleed) can happen anytime. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg) |
-|  Cloudflare's HTTPS is never end-to-end. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
+|  Cloudflare's https is never end-to-end. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
 |  Do you really want to share your data with Cloudflare, and also 3-letter agency? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
 |  Internet user's online profile is a "product" that the government and big tech companies wants to buy. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
 |  U.S. [Department of Homeland Security](https://www.dhs.gov/) said:<br><br>"Do you have any idea how valuable the data you have is? Is there any way you would sell us that data?"  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
@@ -141,13 +141,13 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 
 * Read [other user's voice](PEOPLE.md) and write your thoughts.
 
-* Search something on [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) or [Crimeflare](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
+* Search something on [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) or [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Update the domain list: [List instructions](instructions.md).
 
 * Add Cloudflare or project related event to [history](HISTORY.md).
 
-* Try & write new [Tool / Script](tool/).
+* Try & write new [Tool/Script](tool/).
 
 * Here's some [PDF/ePUB](pdf/) to read.
 
