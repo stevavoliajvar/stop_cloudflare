@@ -1,5 +1,6 @@
 ﻿## The Great Cloudwall
 
+**WARNING**: Most languages here (except English) are poorly translated.
 
 | 🖼 | 🖹 |
 | --- | --- |
