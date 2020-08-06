@@ -9,5 +9,5 @@
 
 - [Suggest New Language](https://codeberg.org/crimeflare/cloudflare-tor/issues/new)
 - [Help translation](https://codeberg.org/repo/fork/4432)
-  - [Base Template](README_zz.md)
+  - _Edit [Base Template](README_zz.md) and rename it to `README_(ISO2).md`_
 - [License](LICENSE.md)
