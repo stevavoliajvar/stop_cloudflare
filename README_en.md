@@ -18,7 +18,7 @@
 |  🖹  |  🖼 |
 | --- | --- |
 |  "The Great Cloudwall" is [Cloudflare Inc.](https://www.cloudflare.com/), the [U.S. company](https://en.wikipedia.org/wiki/Cloudflare). It is providing [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)(content delivery network) services, [DDoS mitigation](https://en.wikipedia.org/wiki/DDoS_mitigation), [Internet security](https://en.wikipedia.org/wiki/Internet_security), and distributed [DNS](https://en.wikipedia.org/wiki/Domain_Name_System)(domain name server) services.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
-|  Cloudflare is the [world's](https://almanac.httparchive.org/en/2019/cdn) [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)). Cloudflare owns [more than 80% of CDN market](https://w3techs.com/technologies/history_overview/proxy) share and the number of [cloudflare users](cloudflare_users/) are growing each day. Cloudflare serves [more web traffic](https://wp-rocket.me/blog/cloudflare-use-not/) than [Twitter](https://en.wikipedia.org/wiki/Twitter), [Amazon](https://en.wikipedia.org/wiki/Amazon_(company)), [Apple](https://en.wikipedia.org/wiki/Apple_Inc.), [Instagram](https://en.wikipedia.org/wiki/Instagram), [Bing](https://en.wikipedia.org/wiki/Bing_(search_engine)) & [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) combined. Cloudflare is offering [free plan](https://www.cloudflare.com/plans/) and many people are using it instead of configuring their servers properly. They traded [privacy](https://en.wikipedia.org/wiki/Privacy) over convenience.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg)  |
+|  Cloudflare is the [world's](https://almanac.httparchive.org/en/2019/cdn) [largest](https://w3techs.com/technologies/history_overview/proxy) MITM proxy([reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)). Cloudflare owns [more than 80% of CDN market](https://w3techs.com/technologies/history_overview/proxy) share and the number of [cloudflare users](cloudflare_users/) are growing each day. They have expanded their network to more than [100 countries](https://blog.cloudflare.com/cloudflare-network-expands-to-more-than-100-countries/). Cloudflare serves [more web traffic](https://wp-rocket.me/blog/cloudflare-use-not/) than [Twitter](https://en.wikipedia.org/wiki/Twitter), [Amazon](https://en.wikipedia.org/wiki/Amazon_(company)), [Apple](https://en.wikipedia.org/wiki/Apple_Inc.), [Instagram](https://en.wikipedia.org/wiki/Instagram), [Bing](https://en.wikipedia.org/wiki/Bing_(search_engine)) & [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) combined. Cloudflare is offering [free plan](https://www.cloudflare.com/plans/) and many people are using it instead of configuring their servers properly. They traded [privacy](https://en.wikipedia.org/wiki/Privacy) over convenience.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg)  |
 |  Cloudflare sits between you and origin webserver, acting like a [border patrol agent](https://www.cbp.gov/careers/bpa). You are not able to connect to your chosen destination. You are connecting to Cloudflare and all your information is being decrypted and handed over on the fly. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/border_patrol.jpg)  |
 |  The origin webserver administrator allowed the agent - Cloudflare -  to decide [who can access](https://web.archive.org/web/https://gitlab.com/iblech/tor-appeal/issues/1) to their "_web property_" and define "_restricted area_".  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/usershoulddecide.jpg)  |
 |  Take a look at the right image. You will think Cloudflare block _only_ [bad guys](https://en.wikipedia.org/wiki/Black_hat_(computer_security)). You will think _Cloudflare is always online(never go [down](https://twitter.com/bengoldacre/status/1146058200887648258))_. You will think _legit bots and [crawlers](https://en.wikipedia.org/wiki/Web_crawler) can index your website_.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howcfwork.jpg)  |
@@ -43,12 +43,12 @@
 |  Tor _was_ [developed by US Army](https://www.nrl.navy.mil/itd/chacs/dingledine-tor-second-generation-onion-router), but current Tor is developed by the [Tor project](https://www.torproject.org/). There are many people and organizations [who use Tor](https://blog.torproject.org/tor-misused-criminals) including your future friends. So, if you are using Cloudflare on your website you are blocking _real_ humans. You will lose potential friendship and business deal. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
 |  And their DNS service, [1.1.1.1](https://1.1.1.1/), is also filtering out users from visiting the website by returning [fake](https://trac.torproject.org/projects/tor/ticket/32915) IP address [owned by Cloudflare](https://www.reddit.com/r/CloudFlare/comments/hiqm4u/no_cloudflare_website_is_loading/), localhost IP such as "127.0.0.x", or just return nothing. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg) |
 |  Cloudflare DNS also [break](https://twitter.com/bowranger/status/1213031783576428550) [online](https://twitter.com/jb510/status/1212521533907668992) [software](https://twitter.com/No_Style/status/1201525422795710466) [from](https://twitter.com/daemuth/status/1187758306535903233) [smartphone](https://twitter.com/gregortorrence/status/1183102089439805441) [app](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/) [to computer game because of their fake DNS answer](PEOPLE.md). Cloudflare DNS [cannot query](PEOPLE.md) some bank websites. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
-|  And here you might think,<br>"_I am not using Tor or VPN, why should I care?_"<br>"_I trust Cloudflare marketing, why should I care_"<br>"_My website is HTTPS why should I care_" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
+|  And here you might think,<br>"_I am not using Tor or VPN, why should I care?_"<br>"_I trust Cloudflare marketing, why should I care_"<br>"_My website is https why should I care_" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
 |  If you visit website which use Cloudflare, you are sharing your information not only to website owner _but also Cloudflare_. This is how the [reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy) works. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
 |  It is impossible to [analyze](https://blog.cloudflare.com/the-csam-scanning-tool/) without [decrypting TLS traffic](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
 |  Cloudflare knows all your data such as raw password. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg) |
 |  [Cloudbeed](https://en.wikipedia.org/wiki/Cloudbleed) can happen anytime. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg) |
-|  Cloudflare's HTTPS is never end-to-end. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
+|  Cloudflare's https is never end-to-end. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
 |  Do you really want to share your data with Cloudflare, and also 3-letter agency? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
 |  Internet user's online profile is a "product" that the government and big tech companies wants to buy. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
 |  U.S. [Department of Homeland Security](https://www.dhs.gov/) said:<br><br>"Do you have any idea how valuable the data you have is? Is there any way you would sell us that data?"  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
@@ -112,8 +112,6 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 * [The Great Cloudwall](article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download as: PDF [here](pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * The original eBook(ePUB) was deleted by `BookRix GmbH` due to `copyright infringement of CC0 material`
-  * Feeling generous? You can donate him some bitcoin:`13khrZAh59WkaWWFuT9hFVG6j6og6gdf4w` ([Payment option](http://qhtn4w2q36dojls2.onion/payment.html))
-  * Endorse network - [Villages.io Account](https://villages.io/profiles/themusicgod1/)
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
   * The ticket was vandalized so many times.
@@ -143,13 +141,13 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 
 * Read [other user's voice](PEOPLE.md) and write your thoughts.
 
-* Search something on [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) or [Searxes/Ss](https://ss.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://searxes.eu.org/)).
+* Search something on [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) or [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
 * Update the domain list: [List instructions](instructions.md).
 
 * Add Cloudflare or project related event to [history](HISTORY.md).
 
-* Try & write new [Tool / Script](tool/).
+* Try & write new [Tool/Script](tool/).
 
 * Here's some [PDF/ePUB](pdf/) to read.
 
@@ -173,7 +171,7 @@ We never ask your social media.**
 
 ---
 
-![WTF](image/wtfcf.jpg)
+![](image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -197,6 +195,6 @@ We never ask your social media.**
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-![What did YOU do to stop CF?](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)
