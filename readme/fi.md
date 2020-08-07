@@ -89,11 +89,11 @@ Tämä arkisto on luettelo verkkosivustoista, jotka ovat ”suuren pilvenpinnan�
 
 
 **Data**
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Cloudflare-käyttäjät](cloudflare_users/)
-* [Cloudflare-verkkotunnukset](cloudflare_users/domains/)
-* [Ei pilvipallo CDN-käyttäjät](not_cloudflare/)
-* [Anti-Tor-käyttäjät](anti-tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Cloudflare-käyttäjät](../cloudflare_users/)
+* [Cloudflare-verkkotunnukset](../cloudflare_users/domains/)
+* [Ei pilvipallo CDN-käyttäjät](../not_cloudflare/)
+* [Anti-Tor-käyttäjät](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@ Tämä arkisto on luettelo verkkosivustoista, jotka ovat ”suuren pilvenpinnan�
   * [Useimmat ihmiset lukevat vain 20–28% sivun sanoista](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myyttiluettelo](myth_catalog.md)
 * [The Great Cloudwall](article.txt) suuri [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * Lataa muodossa: PDF [täällä](pdf/2019-The_Great_Cloudwall.pdf), ePUB [täällä](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * Lataa muodossa: PDF [täällä](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [täällä](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * BookRix GmbH poisti alkuperäisen e-kirjan (ePUB) CC0-aineiston tekijänoikeusrikkomusten takia
 * [Lukko-kuvake osoittaa, että Anonyymi on luonut turvallisen SSL-yhteyden](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) suuri Anonymous
 * [Estä globaali aktiivinen vastustajan pilvipallo nimettömän](https://trac.torproject.org/projects/tor/ticket/24351) suuri nym-zone
@@ -132,19 +132,19 @@ Tämä arkisto on luettelo verkkosivustoista, jotka ovat ”suuren pilvenpinnan�
 ## Mitä voit tehdä?
 </summary>
 
-* [Lue suositeltujen toimien luettelo ja jaa se ystävillesi.](what-to-do.md)
+* [Lue suositeltujen toimien luettelo ja jaa se ystävillesi.](../what-to-do.md)
 
-* [Lue toisen käyttäjän ääni ja kirjoita ajatuksesi.](PEOPLE.md)
+* [Lue toisen käyttäjän ääni ja kirjoita ajatuksesi.](../PEOPLE.md)
 
 * Etsi jotain [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) tai [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Päivitä verkkotunnusluettelo: [Lista ohjeet](instructions.md).
+* Päivitä verkkotunnusluettelo: [Lista ohjeet](../instructions.md).
 
-* Lisää Cloudflare tai projektiin liittyvä tapahtuma [historiaan](HISTORY.md).
+* Lisää Cloudflare tai projektiin liittyvä tapahtuma [historiaan](../HISTORY.md).
 
-* Kokeile ja kirjoita uusi [työkalu/komentosarja](tool/).
+* Kokeile ja kirjoita uusi [työkalu/komentosarja](../tool/).
 
-* Tässä on luettava [PDF/ePUB](pdf/) to read.
+* Tässä on luettava [PDF/ePUB](../pdf/) to read.
 
 
 ---
