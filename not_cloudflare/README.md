@@ -1,10 +1,10 @@
-# Other CDN
+# Aliaj CDN
 
-Cloudflare is the world’s largest MITM proxy. But what about other _minor_ CDNs?
+Cloudflare estas la plej granda MITM-prokuro de la mondo. Sed kio pri aliaj negravaj CDNoj?
 
 ![](../image/pizza.jpg)
 
 
 
 
-See [instructions.md](../instructions.md) for file purpose and format specifications.
+Bonvolu vidi [instructions.md](../instructions.md) por dosiera celo kaj formato specifoj.
