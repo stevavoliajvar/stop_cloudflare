@@ -74,7 +74,7 @@
 ---
 
 
-## Please continue to next page: "[Etica di Cloudflare](../README_ethics.md)"
+## Please continue to next page: "[Etica di Cloudflare](co.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "_ U Grande Cloudwa
 
 
 ** Più infurmazione **
-* [Versione corta di README](../README_short.md) di [Robin Wils](https://linuxrocks.online/@RMW)
+* [Versione corta di README](co.short.md) di [Robin Wils](https://linuxrocks.online/@RMW)
   * Puderete vulete dumandà perchè stu README.md hà tante stampe. Sopra a versione corta anu menu immagini.
   * [A maiò parte di a ghjente leghje solu un 20-28% di e parolle nantu à a pagina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalogu di Mite](../myth_catalog.md)

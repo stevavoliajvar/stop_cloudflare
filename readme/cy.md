@@ -74,7 +74,7 @@ Mae ### Cloudflare yn bot mêl.
 ---
 
 
-## Parhewch i'r dudalen nesaf: "[Cloudflare Ethics](../README_ethics.md)"
+## Parhewch i'r dudalen nesaf: "[Cloudflare Ethics](cy.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "_The Great Cloudwall_", 
 
 
 **Mwy o wybodaeth**
-* [Fersiwn fer o README](../README_short.md) gan [Robin Wils](https://linuxrocks.online/@RMW)
+* [Fersiwn fer o README](cy.short.md) gan [Robin Wils](https://linuxrocks.online/@RMW)
   * Efallai yr hoffech chi ofyn pam mae gan y README.md hwn gymaint o ddelweddau. Uwchben fersiwn fer, mae llai o ddelweddau.
   * [Dim ond 20-28% o'r geiriau ar y dudalen y mae'r rhan fwyaf o bobl yn eu darllen](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalog Myth](../myth_catalog.md)

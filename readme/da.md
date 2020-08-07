@@ -74,7 +74,7 @@
 ---
 
 
-## Fortsæt venligst til næste side: "[Cloudflare Ethics](../README_ethics.md)"
+## Fortsæt venligst til næste side: "[Cloudflare Ethics](da.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Denne opbevaring er en liste over websteder, der ligger bag "_The Great Cloudwal
 
 
 **Mere information**
-* [Kort version af README](../README_short.md) af [Robin Wils](https://linuxrocks.online/@RMW)
+* [Kort version af README](da.short.md) af [Robin Wils](https://linuxrocks.online/@RMW)
   * Du vil måske spørge, hvorfor denne README.md har så mange billeder. Over kort version har mindre billeder.
   * [De fleste læser kun 20-28% af ordene på siden](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-##    Bitte fahren Sie mit der nächsten Seite fort:  "[Cloudflare Ethics](README_ethics.md)"
+##    Bitte fahren Sie mit der nächsten Seite fort:  "[Cloudflare Ethics](de.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 
 
 **Mehr Informationen**
-* [Kurzversion von README](README_short.md) von [Robin Wils](https://linuxrocks.online/@RMW)
+* [Kurzversion von README](de.short.md) von [Robin Wils](https://linuxrocks.online/@RMW)
   * Vielleicht möchten Sie fragen, warum diese README.md so viele Bilder enthält. Oben kurze Version haben weniger Bilder.
   * [Die meisten Leute lesen nur 20-28% der Wörter auf der Seite](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md)
