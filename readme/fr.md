@@ -74,7 +74,7 @@
 ---
 
 
-##    Veuillez passer à la page suivante:  "[Cloudflare Ethics](README_ethics.md)"
+##    Veuillez passer à la page suivante:  "[Cloudflare Ethics](fr.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Ce référentiel est une liste de sites Web derrière "The Great Cloudwall", blo
 
 
 **Plus d'information**
-* [Version courte de README](README_short.md) per [Robin Wils](https://linuxrocks.online/@RMW)
+* [Version courte de README](fr.short.md) per [Robin Wils](https://linuxrocks.online/@RMW)
   * Vous voudrez peut-être demander pourquoi ce fichier README.md contient autant d'images. La version courte ci-dessus contient moins d'images.
   * [La plupart des gens ne lisent que 20 à 28% des mots de la page](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalogue des mythes](myth_catalog.md)

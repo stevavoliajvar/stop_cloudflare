@@ -74,7 +74,7 @@
 ---
 
 
-## Mesedez, jarraitu hurrengo orrialdera: "[Cloudflare Etika](../README_ethics.md)"
+## Mesedez, jarraitu hurrengo orrialdera: "[Cloudflare Etika](eu.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Biltegi hau "_ ​​Great Cloudwall_" atzean dauden webguneen zerrenda da, Tor 
 
 
 **Informazio gehiago**
-* [Robad Wils] -ek (../README_short.md) (../README_short.md) (https://linuxrocks.online/@RMW)
+* [Robad Wils] -ek (eu.short.md) (eu.short.md) (https://linuxrocks.online/@RMW)
   * Baliteke README.md honek zergatik dituen hainbeste irudi galdetu nahi izatea. Goiko bertsio laburrean irudi gutxiago daude.
   * [Gehienek orrialdeko hitzen% 20-28 bakarrik irakurtzen dituzte](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mito Katalogoa](mit_catalog.md)

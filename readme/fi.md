@@ -74,7 +74,7 @@
 ---
 
 
-##    Jatka seuraavalle sivulle:  "[Cloudflare Ethics](README_ethics.md)"
+##    Jatka seuraavalle sivulle:  "[Cloudflare Ethics](fi.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Tämä arkisto on luettelo verkkosivustoista, jotka ovat ”suuren pilvenpinnan�
 
 
 **Lisää tietoa**
-* [lyhyt versio README](README_short.md) suuri [Robin Wils](https://linuxrocks.online/@RMW)
+* [lyhyt versio README](fi.short.md) suuri [Robin Wils](https://linuxrocks.online/@RMW)
   * Haluat ehkä kysyä, miksi tällä README.md: llä on niin paljon kuvia. Lyhyen version yläpuolella on vähemmän kuvia.
   * [Useimmat ihmiset lukevat vain 20–28% sivun sanoista](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myyttiluettelo](myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-## لطفا به صفحه بعدی ادامه دهید: "[اخلاق Cloudflare](README_ethics.md)"
+## لطفا به صفحه بعدی ادامه دهید: "[اخلاق Cloudflare](fa.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **اطلاعات بیشتر**
-* [نسخه کوتاه README](README_short.md) توسط [رابین ویلز](https://linuxrocks.online/@RMW)
+* [نسخه کوتاه README](fa.short.md) توسط [رابین ویلز](https://linuxrocks.online/@RMW)
   * ممکن است بخواهید بپرسید که چرا این README.md تصاویر زیادی دارد. بالاتر از نسخه کوتاه تصاویر کمتری دارند.
   * [بیشتر افراد فقط 20-28٪ کلمات را در صفحه می خوانند](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [کاتالوگ اسطوره](myth_catalog.md)

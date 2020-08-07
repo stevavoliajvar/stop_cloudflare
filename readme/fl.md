@@ -74,7 +74,7 @@
 ---
 
 
-##    Mangyaring magpatuloy sa susunod na pahina:  "[Mga Pelikulang Cloudflare](README_ethics.md)"
+##    Mangyaring magpatuloy sa susunod na pahina:  "[Mga Pelikulang Cloudflare](fl.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 
 
 **Karagdagang informasiyon**
-* [Maikling bersyon ng README](README_short.md) ni [Robin Wils](https://linuxrocks.online/@RMW)
+* [Maikling bersyon ng README](fl.short.md) ni [Robin Wils](https://linuxrocks.online/@RMW)
   * Maaari mong itanong kung bakit ang maraming README.md na ito ay maraming mga imahe. Sa itaas ng maikling bersyon ay may mas kaunting mga imahe.
   * [Karamihan sa mga tao ay nagbasa lamang ng 20-28% ng mga salita sa pahina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md)
