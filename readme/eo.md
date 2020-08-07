@@ -75,7 +75,7 @@
 ---
 
 
-##    Bonvolu daŭrigi al sekva paĝo:  "[Cloudflare Ethics](eo.ethics.md)"
+##    Bonvolu daŭrigi al sekva paĝo:  "[Etikaj Aferoj](eo.ethics.md)"
 
 ---
 
