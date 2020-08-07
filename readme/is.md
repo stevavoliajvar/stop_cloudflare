@@ -73,7 +73,7 @@
 ---
 
 
-## Vinsamlegast haltu áfram á næstu síðu: "[Cloudflare Ethics](README_ethics.md)"
+## Vinsamlegast haltu áfram á næstu síðu: "[Cloudflare Ethics](is.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@
 
 
 **Meiri upplýsingar**
-* [Stutt útgáfa af README](README_short.md) eftir [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
+* [Stutt útgáfa af README](is.short.md) eftir [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
   * Þú gætir viljað spyrja af hverju þessi README.md er með svo margar myndir. Fyrir ofan stutta útgáfu eru með minna myndir.
   * [Flestir lesa aðeins 20-28% orðanna á síðunni](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md) `DRAFT`

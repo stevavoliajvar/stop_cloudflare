@@ -74,7 +74,7 @@
 ---
 
 
-##    다음 페이지로 계속하십시오:  "[Cloudflare Ethics](README_ethics.md)"
+##    다음 페이지로 계속하십시오:  "[Cloudflare Ethics](ko.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **추가 정보**
-* [README 짧은 버전](README_short.md) 의 [Robin Wils](https://linuxrocks.online/@RMW)
+* [README 짧은 버전](ko.short.md) 의 [Robin Wils](https://linuxrocks.online/@RMW)
   * 이 README.md에 왜 이렇게 많은 이미지가 있는지 물어볼 수 있습니다. 짧은 버전보다 이미지가 적습니다.
   * [대부분의 사람들은 페이지에서 단어의 20-28 % 만 읽습니다](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [신화 카탈로그](myth_catalog.md)

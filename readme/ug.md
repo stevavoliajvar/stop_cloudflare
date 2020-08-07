@@ -74,7 +74,7 @@
 ---
 
 
-## كېيىنكى بەتنى داۋاملاشتۇرۇڭ: "[Cloudflare Ethics](../README_ethics.md)"
+## كېيىنكى بەتنى داۋاملاشتۇرۇڭ: "[Cloudflare Ethics](ug.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 ** تېخىمۇ كۆپ ئۇچۇرلار **
-* [README نىڭ قىسقا نۇسخىسى](../README_short.md) [Robin Wils](https://linuxrocks.online/@RMW)
+* [README نىڭ قىسقا نۇسخىسى](ug.short.md) [Robin Wils](https://linuxrocks.online/@RMW)
   * بۇ README.md نىڭ نېمىشقا شۇنچە كۆپ رەسىم بارلىقىنى سورىشىڭىز مۇمكىن. قىسقا نۇسخىسىنىڭ ئۈستىدىكى رەسىملەر ئاز.
   * [كۆپىنچە كىشىلەر بۇ بەتتىكى سۆزلەرنىڭ پەقەت% 20-% 28 نىلا ئوقۇيدۇ](https://movableink.com/blog/29- ئىشەنگۈسىز دەرىجىدىكى سانلىق مەلۇماتلار ، يەنى دەلىل-ئىسپاتلار).
 * [ئەپسانىلەر كاتالوگى](../myth_catalog.md)

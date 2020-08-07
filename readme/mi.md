@@ -73,7 +73,7 @@
 --- ---
 
 
-# # Tēnā haere tonu ki te whārangi e whai ake nei: "[Cloudflare Ethics](README_ethics.md)"
+# # Tēnā haere tonu ki te whārangi e whai ake nei: "[Cloudflare Ethics](mi.ethics.md)"
 
 --- ---
 
@@ -99,7 +99,7 @@ Ko tenei kohinga te raarangi o nga paetukutuku e tu ana i muri o "_Whakaahua Nui
 
 
 ** He Panui Panui **
-* [Putanga poto o README](README_short.md) na [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
+* [Putanga poto o README](mi.short.md) na [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
   * Ka paatai ​​pea koe ki te aha he maha nga ahua o tenei README.md. I runga ake i te putanga poto he iti ake nga ahua.
   * [Ko te nuinga ka paanui ki te 20-28% o nga kupu kei te whaarangi](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Kupu Āwhina](mituka_catalog.md) `DRAFT`

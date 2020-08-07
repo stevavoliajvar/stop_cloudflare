@@ -74,7 +74,7 @@
 ---
 
 
-## Prašau tęsti kitą puslapį: „[Debesų užsidegimo etika](../README_ethics.md)“
+## Prašau tęsti kitą puslapį: „[Debesų užsidegimo etika](lt.ethics.md)“
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **Daugiau informacijos**
-* [Trumpa README versija](../README_short.md) pateikė [Robinas Wilsas](https://linuxrocks.online/@RMW)
+* [Trumpa README versija](lt.short.md) pateikė [Robinas Wilsas](https://linuxrocks.online/@RMW)
   * Galite paklausti, kodėl šioje „README.md“ yra tiek daug vaizdų. Virš trumpos versijos yra mažiau vaizdų.
   * [Dauguma žmonių skaito tik 20–28 proc. Puslapio žodžių](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mitų katalogas](../myth_catalog.md)

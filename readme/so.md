@@ -100,7 +100,7 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure "_The Great Cloudwall_", i
 
 
 ** Mamwe Ruzivo **
-* [Ipfupiso vhezheni ye ReadME](../README_short.md) na [Robin Wils](https://linuxrocks.online/@RMW)
+* [Ipfupiso vhezheni ye ReadME](so.short.md) na [Robin Wils](https://linuxrocks.online/@RMW)
   * Unogona kuda kubvunza kuti sei iyi MUFUNDIE.md ine mifananidzo yakawanda kwazvo. Pamusoro pfupi kapfupi vane mashoma mifananidzo.
   * [Vanhu vazhinji vanoverenga chete 20-28% yemashoko ari papeji](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)

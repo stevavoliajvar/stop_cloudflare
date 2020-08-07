@@ -74,7 +74,7 @@
 ---
 
 
-## palun jätkake järgmisele lehele: "[Cloudflare Ethics](../README_ethics.md)"
+## palun jätkake järgmisele lehele: "[Cloudflare Ethics](et.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ See hoidla on loetelu veebisaitidest, mis asuvad taga "_The Great Cloudwall_", b
 
 
 **Rohkem informatsiooni**
-* [README lühiversioon](../README_short.md), autor [Robin Wils](https://linuxrocks.online/@RMW)
+* [README lühiversioon](et.short.md), autor [Robin Wils](https://linuxrocks.online/@RMW)
   * Võite küsida, miks sellel README.md-l on nii palju pilte. Lühikese versiooni kohal on vähem pilte.
   * [Enamik inimesi loeb ainult 20–28% lehe sõnadest](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Müütide kataloog](müüt_kataloog.md)

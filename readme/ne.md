@@ -73,7 +73,7 @@
 ---
 
 
-## कृपया अर्को पृष्ठमा जारी राख्नुहोस्: "[क्लाउडफ्लेयर नीतिशास्त्र](../README_ethics.md)"
+## कृपया अर्को पृष्ठमा जारी राख्नुहोस्: "[क्लाउडफ्लेयर नीतिशास्त्र](ne.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@
 
 
 **थप जानकारी**
-* [README को छोटो संस्करण](../README_short.md) द्वारा [रॉबिन विल्स](https://linuxrocks.online/@RMW)
+* [README को छोटो संस्करण](ne.short.md) द्वारा [रॉबिन विल्स](https://linuxrocks.online/@RMW)
   * तपाईं सोध्न सक्नुहुन्छ यो README.md यति धेरै छविहरू किन छन्। माथि छोटो संस्करणमा कम छविहरू छन्।
   * [प्रायः व्यक्तिहरूले पृष्ठमा शव्दहरूको २०-२8% मात्र पढ्छन्](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)।
 * [मिथक क्याटलग](../myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-##    次のページへお進みください:  "[Cloudflare 倫理](README_ethics.md)"
+##    次のページへお進みください:  "[Cloudflare 倫理](ja.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **追加情報**
-* [短いREADME](README_short.md) by [Robin Wils](https://linuxrocks.online/@RMW)
+* [短いREADME](ja.short.md) by [Robin Wils](https://linuxrocks.online/@RMW)
   * このREADME.mdになぜ多くの画像が入っているのか不思議に思ったことでしょう。上の短いREADMEは画像が少なめです。
   * [多くの人々はたったの20-28%しか文章を読まない](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md)

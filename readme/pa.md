@@ -74,7 +74,7 @@
 ---
 
 
-## ਕਿਰਪਾ ਕਰਕੇ ਅਗਲੇ ਪੰਨੇ 'ਤੇ ਜਾਰੀ ਰੱਖੋ: "[ਕਲਾਉਡਫਲੇਅਰ ਨੈਤਿਕਤਾ](README_ethics.md)"
+## ਕਿਰਪਾ ਕਰਕੇ ਅਗਲੇ ਪੰਨੇ 'ਤੇ ਜਾਰੀ ਰੱਖੋ: "[ਕਲਾਉਡਫਲੇਅਰ ਨੈਤਿਕਤਾ](pa.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **ਹੋਰ ਜਾਣਕਾਰੀ**
-* [ਰੌਬਿਨ ਵਿਲਸ] ਦੁਆਰਾ (README ਦਾ ਛੋਟਾ ਸੰਸਕਰਣ](README_short.md) (https://linuxrocks.online/@RMW)
+* [ਰੌਬਿਨ ਵਿਲਸ] ਦੁਆਰਾ (README ਦਾ ਛੋਟਾ ਸੰਸਕਰਣ](pa.short.md) (https://linuxrocks.online/@RMW)
   * ਤੁਸੀਂ ਸ਼ਾਇਦ ਇਹ ਪੁੱਛਣਾ ਚਾਹੋਗੇ ਕਿ ਇਸ README.md ਕੋਲ ਇੰਨੇ ਚਿੱਤਰ ਕਿਉਂ ਹਨ. ਛੋਟੇ ਰੂਪਾਂ ਦੇ ਉੱਪਰ ਚਿੱਤਰ ਘੱਟ ਹਨ.
   * [ਬਹੁਤੇ ਲੋਕ ਪੇਜ 'ਤੇ ਸਿਰਫ 20-28% ਸ਼ਬਦ ਪੜ੍ਹਦੇ ਹਨ) (https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [ਮਿੱਥ ਕੈਟਾਲਾਗ](ਮਿੱਥ_ਕੈਟਾਲੋਗ.ਐਮਡੀ)

@@ -74,7 +74,7 @@
 ---
 
 
-## Prosimo, nadaljujte z naslednjo stranjo: "[Cloudflare Ethics](../README_ethics.md)"
+## Prosimo, nadaljujte z naslednjo stranjo: "[Cloudflare Ethics](sl.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ To skladišče je seznam spletnih mest, ki stojijo za "_ Great Cloudwall_" in bl
 
 
 **Več informacij**
-* [Kratka različica README](../README_short.md) avtorja [Robin Wils](https://linuxrocks.online/@RMW)
+* [Kratka različica README](sl.short.md) avtorja [Robin Wils](https://linuxrocks.online/@RMW)
   * Morda se boste vprašali, zakaj ima ta README.md toliko slik. Zgoraj kratka različica ima manj slik.
   * [Večina ljudi samo prebere 20–28% besed na strani](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog mitov](../myth_catalog.md)

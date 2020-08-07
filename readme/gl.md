@@ -74,7 +74,7 @@
 ---
 
 
-## Continúe á páxina seguinte: "[Ética de Cloudflare](../README_ethics.md)"
+## Continúe á páxina seguinte: "[Ética de Cloudflare](gl.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Este repositorio é unha lista de sitios web que están detrás de "_O Gran Clou
 
 
 **Máis información**
-* [Versión breve de README](../README_short.md) de [Robin Wils](https://linuxrocks.online/@RMW)
+* [Versión breve de README](gl.short.md) de [Robin Wils](https://linuxrocks.online/@RMW)
   * Pode que queiras preguntar por que este README.md ten tantas imaxes. Por enriba da versión curta hai menos imaxes.
   * [A maioría da xente só le o 20-28% das palabras na páxina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catálogo de mito](../myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-## Jekk jogħġbok kompli l-paġna li jmiss: "[Etika Cloudflare](../README_ethics.md)"
+## Jekk jogħġbok kompli l-paġna li jmiss: "[Etika Cloudflare](mt.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "_The Great Cloudwall_"
 
 
 **Iktar informazzjoni**
-* [Verżjoni qasira ta 'README](../README_short.md) minn [Robin Wils](https://linuxrocks.online/@RMW)
+* [Verżjoni qasira ta 'README](mt.short.md) minn [Robin Wils](https://linuxrocks.online/@RMW)
   * Tista 'tkun trid tistaqsi għaliex dan README.md għandu tant immaġini. Fuq verżjoni qasira għandhom immaġini inqas.
   * [Ħafna nies jaqraw biss 20-28% tal-kliem fuq il-paġna](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalgu tal-Leġġenda](../myth_catalog.md)

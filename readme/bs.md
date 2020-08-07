@@ -74,7 +74,7 @@
 ---
 
 
-## Molimo nastavite do sljedeće stranice: "[Cloudflare Ethics](../README_ethics.md)"
+## Molimo nastavite do sljedeće stranice: "[Cloudflare Ethics](bs.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Ovo skladište je lista web lokacija koje stoje iza "_ Great Cloudwall_", a blok
 
 
 **Više informacija**
-* [Kratka verzija README](../README_short.md) autora Robin Wils (https://linuxrocks.online/@RMW)
+* [Kratka verzija README](bs.short.md) autora Robin Wils (https://linuxrocks.online/@RMW)
   * Možete pitati zašto ovaj README.md ima toliko slika. Iznad kratke verzije imaju manje slika.
   * [Većina ljudi pročita samo 20-28% riječi na stranici](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog mitova](../myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-## Lūdzu, turpiniet nākamo lapu: "[Cloudflare Ethics](../README_ethics.md)"
+## Lūdzu, turpiniet nākamo lapu: "[Cloudflare Ethics](lv.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **Vairāk informācijas**
-* [Īsa README versija](../README_short.md), autors [Robins Vils](https://linuxrocks.online/@RMW)
+* [Īsa README versija](lv.short.md), autors [Robins Vils](https://linuxrocks.online/@RMW)
   * Jūs varētu jautāt, kāpēc šajā README.md ir tik daudz attēlu. Virs īsās versijas ir mazāk attēlu.
   * [Lielākā daļa cilvēku lasa tikai 20–28% no vārdiem lapā](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mītu katalogs](../myth_catalog.md)

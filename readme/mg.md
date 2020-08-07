@@ -74,7 +74,7 @@
 ---
 
 
-## Azafady tohizo ny pejy manaraka: "[Cloudflare Ethics](../README_ethics.md)"
+## Azafady tohizo ny pejy manaraka: "[Cloudflare Ethics](mg.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "_Ny Cloudwall_" l
 
 
 **Fanazavana fanampiny**
-* [Dikan-teny fohy momba ny README](../README_short.md) nataon'i [Robin Wils](https://linuxrocks.online/@RMW)
+* [Dikan-teny fohy momba ny README](mg.short.md) nataon'i [Robin Wils](https://linuxrocks.online/@RMW)
   * Azonao atao ny manontany ny antony maha-be dia be ny sary README.md. Etsy ambony dia manana sary kely kokoa.
   * [Ny ankamaroan'ny olona dia namaky ny 20-28% fotsiny amin'ireo teny ao amin'ny pejy](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)

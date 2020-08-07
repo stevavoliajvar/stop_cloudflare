@@ -74,7 +74,7 @@
 ---
 
 
-## Ka kopo tsoela pele ho leqephe le hlahlamang: "[Cloudflare Ethics](../README_ethics.md)"
+## Ka kopo tsoela pele ho leqephe le hlahlamang: "[Cloudflare Ethics](st.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "_The Cloudwall
 
 
 ** Tlhahisoleseling e ngoe **
-* [Mofuta o mokhuts'oane oa README](../README_short.md) ka [Robin Wils](https://linuxrocks.online/@RMW)
+* [Mofuta o mokhuts'oane oa README](st.short.md) ka [Robin Wils](https://linuxrocks.online/@RMW)
   * U kanna oa batla ho botsa hore na hobaneng ASMSM ena .md e na le litšoantšo tse ngata hakana. Ka holim'a mofuta o mokhuts'oane o na le litšoantšo tse fokolang.
   * [Batho ba bangata ba bala feela mantsoe a leng leqephe la mashome a mabeli ho isa ho a mashome a mabeli](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog] [../myth_catalog.md)

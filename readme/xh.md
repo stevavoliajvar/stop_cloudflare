@@ -74,7 +74,7 @@
 ---
 
 
-## Nceda uqhubeke kwiphepha elilandelayo: "[I-Cloudflare Ethics](../README_ethics.md)"
+## Nceda uqhubeke kwiphepha elilandelayo: "[I-Cloudflare Ethics](xh.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Olu lugcino luluhlu lwewebhusayithi ezingasemva "_The Cloudwall_" enkulu, ethint
 
 
 **Iinkcukacha ezithe xaxe**
-* [Inguqulelo emfutshane ye-README](../README_short.md) ngu [Robin Wils](https://linuxrocks.online/@RMW)
+* [Inguqulelo emfutshane ye-README](xh.short.md) ngu [Robin Wils](https://linuxrocks.online/@RMW)
   * Unokufuna ukubuza ukuba kutheni le FUNDME.md inemifanekiso emininzi kangaka. Ngaphezulu ingxelo emfutshane inemifanekiso emincinci.
   * [Uninzi lwabantu lufunda kuphela amagama angama-20- 28% kwiphepha](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Ikhathalogu yentsomi](../myth_catalog.md)

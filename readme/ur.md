@@ -74,7 +74,7 @@
 ---
 
 
-##    ر جاری رکھیں: "کلاؤڈ فلایر اخلاقیات:  "[براہ کرم اگلے صفحے پ](README_ethics.md)"
+##    ر جاری رکھیں: "کلاؤڈ فلایر اخلاقیات:  "[براہ کرم اگلے صفحے پ](ur.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **مزید معلومات**
-* [ریعہ README کا مختصر ورژن](README_short.md) by [Robin Wils](https://linuxrocks.online/@RMW)
+* [ریعہ README کا مختصر ورژن](ur.short.md) by [Robin Wils](https://linuxrocks.online/@RMW)
   * آپ پوچھ سکتے ہیں کہ اس README.md میں اتنی زیادہ تصاویر کیوں ہیں؟ مختصر ورژن کے اوپر تصاویر کم ہیں۔
   * [زیادہ تر لوگ صفحہ پر صرف 20-28٪ الفاظ پڑھتے ہیں۔](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)
 * [متک کیٹلاگ](myth_catalog.md)

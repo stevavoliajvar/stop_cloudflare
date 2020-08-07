@@ -74,7 +74,7 @@
 ---
 
 
-## Lean ar aghaidh go dtí an chéad leathanach eile: "[Cloudflare Ethics](../README_ethics.md)"
+## Lean ar aghaidh go dtí an chéad leathanach eile: "[Cloudflare Ethics](ga.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de “_The
 
 
 **Tuilleadh eolais**
-* [Leagan gairid de README](../README_short.md) le [Robin Wils](https://linuxrocks.online/@RMW)
+* [Leagan gairid de README](ga.short.md) le [Robin Wils](https://linuxrocks.online/@RMW)
   * B’fhéidir gur mhaith leat fiafraí cén fáth a bhfuil an oiread íomhánna ag an README.md seo. Os cionn an leagain ghearr tá níos lú íomhánna.
   * [Ní léann mórchuid na ndaoine ach 20-28% de na focail ar an leathanach](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalóg Miotas](../myth_catalog.md)

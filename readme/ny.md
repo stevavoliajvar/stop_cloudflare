@@ -74,7 +74,7 @@
 -
 
 
-## Chonde pitilizani kutsamba linalo: "[Cloudflare Ethics](../README_ethics.md)"
+## Chonde pitilizani kutsamba linalo: "[Cloudflare Ethics](ny.ethics.md)"
 
 -
 
@@ -100,7 +100,7 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "_The Cloudwall_", iku
 
 
 ** Zambiri Zambiri **
-* [Mtundu waifupi wa ReadME](../README_short.md) wolemba [Robin Wils](https://linuxrocks.online/@RMW)
+* [Mtundu waifupi wa ReadME](ny.short.md) wolemba [Robin Wils](https://linuxrocks.online/@RMW)
   * Mungafune kufunsa kuti chifukwa chomwe MUFUMI WA ANAyu ali ndi zithunzi zambiri. Pamwambapa tatifupi tili ndi zithunzi zochepa.
   * [Anthu ambiri amangowerenga mawu 20-28% omwe ali patsamba lino (https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog] [../myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-## Da fatan za a ci gaba zuwa shafi na gaba: "[Cloudflare Ethics](README_ethics.md)"
+## Da fatan za a ci gaba zuwa shafi na gaba: "[Cloudflare Ethics](ha.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Wannan wurin ajiyar bayanai jerin shafukan yanar gizon da ke bayan "_The Great C
 
 
 ** Informationarin Bayani **
-* [Short version na README](README_short.md) daga [Robin Wils](https://linuxrocks.online/@RMW)
+* [Short version na README](ha.short.md) daga [Robin Wils](https://linuxrocks.online/@RMW)
   * Kuna iya tambayar dalilin da yasa wannan README.md yake da hotuna da yawa. Sama da gajeren fasalin suna da hotuna kadan.
   * [Yawancin mutane suna karanta 20-28% na kalmomin a shafin](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Labarin Tarihi](labari na_catalog.md)

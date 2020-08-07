@@ -74,7 +74,7 @@
 ---
 
 
-## Кийинки баракчага өтүңүз: "[Cloudflare Ethics](../README_ethics.md)"
+## Кийинки баракчага өтүңүз: "[Cloudflare Ethics](ky.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 ** Кошумча маалымат **
-* [README кыска нускасы](../README_short.md) [Робин Уилс](https://linuxrocks.online/@RMW)
+* [README кыска нускасы](ky.short.md) [Робин Уилс](https://linuxrocks.online/@RMW)
   * Бул README.mdде эмне үчүн сүрөттөр ушунчалык көп экендигин сурасаңыз болот. Кыска нускадан жогору эмес сүрөттөр аз.
   * [Көпчүлүк беттеги сөздөрдүн 20-28% гана окуйт](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Миф каталог](../myth_catalog.md)

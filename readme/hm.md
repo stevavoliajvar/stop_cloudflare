@@ -74,7 +74,7 @@
 ---
 
 
-## Thov txuas ntxiv mus rau nplooj ntawv tom ntej: "[Cloudflare Ethics](../README_ethics.md)"
+## Thov txuas ntxiv mus rau nplooj ntawv tom ntej: "[Cloudflare Ethics](hm.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Qhov chaw cia no yog ib daim ntawv teev cov vev xaib uas nyob tom qab "_ The Gre
 
 
 ** Ntau Cov Lus Qhia **
-* [Luv luv ntawm README](../README_short.md) los ntawm [Robin Wils](https://linuxrocks.online/@RMW)
+* [Luv luv ntawm README](hm.short.md) los ntawm [Robin Wils](https://linuxrocks.online/@RMW)
   * Koj tuaj yeem xav nug tias vim li cas qhov README.md muaj ntau yam duab. Saum toj no luv luv version muaj tsawg dua cov duab.
   * [Cov neeg feem coob tsuas nyeem 20-28% ntawm cov lus ntawm nplooj ntawv](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)

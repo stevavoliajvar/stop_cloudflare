@@ -74,7 +74,7 @@ Ang ### Cloudflare usa ka honeypot.
 ---
 
 
-## Palihug magpadayon sa sunod nga panid: "[Mga Pamatasan sa Cloudflare](../README_ethics.md)"
+## Palihug magpadayon sa sunod nga panid: "[Mga Pamatasan sa Cloudflare](cb.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Ang kini nga repositoryo usa ka lista sa mga website nga anaa sa luyo sa "_Ang D
 
 
 ** Dugang nga Impormasyon **
-* [Mubo nga bersyon sa README](../README_short.md) ni [Robin Wils](https://linuxrocks.online/@RMW)
+* [Mubo nga bersyon sa README](cb.short.md) ni [Robin Wils](https://linuxrocks.online/@RMW)
   * Mahimo nimong pangutan-on kung ngano nga kining README.md adunay daghang mga imahe. Labaw sa mubo nga bersyon adunay dili kaayo mga imahe.
   * [Kadaghanan sa mga tawo nagbasa lamang sa 20-28% sa mga pulong sa panid](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)

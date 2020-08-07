@@ -1,7 +1,6 @@
 # CrimeFlarE
 ***Why you should say "NO" to Cloudflare***
 
-# `This is a draft`
 
 ![CrimeFlarE logo](image/crimeflare-logo.png)
 

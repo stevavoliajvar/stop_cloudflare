@@ -74,7 +74,7 @@
 ---
 
 
-## Feuch an lean thu air adhart chun ath dhuilleag: "[Cloudflare Ethics](../README_ethics.md)"
+## Feuch an lean thu air adhart chun ath dhuilleag: "[Cloudflare Ethics](gd.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Is e an ath-reic seo liosta de làraich-lìn a tha air cùl "_The Great Cloudwal
 
 
 ** Barrachd fiosrachaidh **
-* [Tionndadh goirid de README](../README_short.md) le [Robin Wils](https://linuxrocks.online/@RMW)
+* [Tionndadh goirid de README](gd.short.md) le [Robin Wils](https://linuxrocks.online/@RMW)
   * Is dòcha gum bi thu airson faighneachd carson a tha uimhir de dhealbhan aig an README.md seo. Os cionn an dreach ghoirid tha nas lugha de dhealbhan ann.
   * [Cha leugh a ’mhòr-chuid de dhaoine ach 20-28% de na faclan air an duilleag](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalog Myth](../myth_catalog.md)

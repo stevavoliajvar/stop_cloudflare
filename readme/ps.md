@@ -74,7 +74,7 @@
 ---
 
 
-## مهرباني وکړئ بل پا pageې ته دوام ورکړئ: "[د کلاوډ فلایر اخلاقيات](../README_ethics.md)"
+## مهرباني وکړئ بل پا pageې ته دوام ورکړئ: "[د کلاوډ فلایر اخلاقيات](ps.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **نور مالومات**
-* [د README لنډه نسخه](../README_short.md) د [رابن وِلز] لخوا (https://linuxrocks.online/@RMW)
+* [د README لنډه نسخه](ps.short.md) د [رابن وِلز] لخوا (https://linuxrocks.online/@RMW)
   * تاسو ممکن وغواړئ پوښتنه وکړئ چې ولې دې README.md ډیری عکسونه لري. پورته لنډ نسخه لږ عکسونه لري.
   * [ډیری خلک یوازې په پا onه کې 20-28 words ټکي لوستلی شي](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [د خرافاتو کتګورۍ](myth_catolog.md)

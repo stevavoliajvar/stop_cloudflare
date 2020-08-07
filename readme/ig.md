@@ -74,7 +74,7 @@
 ---
 
 
-## Biko gaa n’ihu na peeji na-esote: "[Cloudflare Ethics](../README_ethics.md)"
+## Biko gaa n’ihu na peeji na-esote: "[Cloudflare Ethics](ig.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Ebe a bụ ndepụta nke weebụsaịtị dị n'azụ "_The Great Cloudwall_", 
 
 
 ** Ozi ndị ọzọ **
-* [Otu mkpụmkpụ nke README](../README_short.md) nke [Robin Wils](https://linuxrocks.online/@RMW)
+* [Otu mkpụmkpụ nke README](ig.short.md) nke [Robin Wils](https://linuxrocks.online/@RMW)
   * I nwere ike jụọ ihe kpatara nke a README.md nwere ọtụtụ onyonyo. Oke dị mkpụmkpụ nwere onyonyo dị obere.
   * [Ọtụtụ ndị na-agụ naanị 20-28% nke okwu ndị dị na peeji ahụ) (https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Ndepụta akụkọ ifo](akụkọ ifo_catalog.md)

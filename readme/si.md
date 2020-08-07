@@ -74,7 +74,7 @@
 ---
 
 
-## කරුණාකර ඊළඟ පිටුවට යන්න: "[Cloudflare ආචාර ධර්ම](README_ethics.md)"
+## කරුණාකර ඊළඟ පිටුවට යන්න: "[Cloudflare ආචාර ධර්ම](si.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 ** වැඩි details **
-* [රොබින් විල්ස්](https://linuxrocks.online/@RMW) විසින් [README හි කෙටි අනුවාදය](README_short.md)
+* [රොබින් විල්ස්](https://linuxrocks.online/@RMW) විසින් [README හි කෙටි අනුවාදය](si.short.md)
   * මෙම README.md හි මෙතරම් පින්තූර ඇත්තේ මන්දැයි ඔබට විමසීමට අවශ්‍ය විය හැකිය. ඉහත කෙටි අනුවාදයේ අඩු රූප ඇත.
   * [බොහෝ අය කියවන්නේ පිටුවේ ඇති වචන වලින් 20-28% ක් පමණි](https://movantink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [මිථ්‍යාව නාමාවලිය](math_catalog.md)

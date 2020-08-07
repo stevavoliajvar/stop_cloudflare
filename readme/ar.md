@@ -73,7 +73,7 @@
 ---
 
 
-## يرجى المتابعة إلى الصفحة التالية: "[Cloudflare Ethics](README_ethics.md)"
+## يرجى المتابعة إلى الصفحة التالية: "[Cloudflare Ethics](ar.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@
 
 
 **معلومات اكثر**
-* [نسخة قصيرة من README](README_short.md) بواسطة [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
+* [نسخة قصيرة من README](ar.short.md) بواسطة [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
   * قد ترغب في السؤال عن سبب وجود README.md هذا في العديد من الصور. أعلاه نسخة قصيرة لديها صور أقل.
   * [يقرأ معظم الأشخاص 20-28٪ فقط من الكلمات في الصفحة](https://mhableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md) `DRAFT`

@@ -74,7 +74,7 @@
 ---
 
 
-## xahiş edirəm növbəti səhifəyə davam edin: "[Cloudflare Etika](../README_ethics.md)"
+## xahiş edirəm növbəti səhifəyə davam edin: "[Cloudflare Etika](az.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Cloudwal
 
 
 ** Daha çox məlumat **
-* [Robin Wils] tərəfindən hazırlanmış (README qısa versiyası) (../README_short.md) (https://linuxrocks.online/@RMW)
+* [Robin Wils] tərəfindən hazırlanmış (README qısa versiyası) (az.short.md) (https://linuxrocks.online/@RMW)
   * Bu README.md-in niyə bu qədər görüntü olduğunu soruşa bilərsiniz. Qısa versiyanın yuxarısında daha az görüntü var.
   * [İnsanların çoxu səhifədəki sözlərin yalnız 20-28% -ni oxuyur](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mif Kataloqu](../myth_catalog.md)

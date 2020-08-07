@@ -74,7 +74,7 @@
 ---
 
 
-# # Tafadhali endelea kwa ukurasa unaofuata: "[Maadili ya Cloudflare](README_ethics.md)"
+# # Tafadhali endelea kwa ukurasa unaofuata: "[Maadili ya Cloudflare](sw.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "_The Cloudwall_" kubwa, inazu
 
 
 **Taarifa zaidi**
-* [Toleo fupi la ReadME](README_short.md) na [Robin Wils](https://linuxrocks.online/@RMW)
+* [Toleo fupi la ReadME](sw.short.md) na [Robin Wils](https://linuxrocks.online/@RMW)
   * Unaweza kutaka kuuliza kwa nini hii ASME.md ina picha nyingi. Hapo juu toleo fupi lina picha kidogo.
   * [Watu wengi husoma tu 20-25% ya maneno kwenye ukurasa](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalogi ya hadithi](myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-## Pokračujte na další stránku: „[Etika Cloudflare](../README_ethics.md)“
+## Pokračujte na další stránku: „[Etika Cloudflare](cz.ethics.md)“
 
 ---
 
@@ -100,7 +100,7 @@ Toto úložiště je seznam webů, které stojí za „Velkým cloudem“, bloku
 
 
 **Více informací**
-* [Krátká verze README](../README_short.md) od [Robin Wils](https://linuxrocks.online/@RMW)
+* [Krátká verze README](cz.short.md) od [Robin Wils](https://linuxrocks.online/@RMW)
   * Možná byste se měli zeptat, proč má tento soubor README.md tolik obrázků. Nad krátkou verzí je méně obrázků.
   * [Většina lidí četla pouze 20-28% slov na stránce](https://movableink.com/blog/29-incredible-stats-that-prov-the-power-of-visual-marketing/).
 * [Katalog mýtů](../myth_catalog.md)

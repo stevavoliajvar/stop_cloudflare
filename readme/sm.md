@@ -74,7 +74,7 @@
 ---
 
 
-## Faʻamolemole faʻaauau i le isi itulau: "[Cloudflare Ethics](../README_ethics.md)"
+## Faʻamolemole faʻaauau i le isi itulau: "[Cloudflare Ethics](sm.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ O lenei fale teu faʻamatalaga o se lisi o uepisaite o loʻo i tua atu "_O le Si
 
 
 ** Nisi faʻamatalaga **
-* [Faʻamatalaga puʻupuʻu o README](../README_short.md) saunia e [Robin Wils](https://linuxrocks.online/@RMW)
+* [Faʻamatalaga puʻupuʻu o README](sm.short.md) saunia e [Robin Wils](https://linuxrocks.online/@RMW)
   * Atonu e te fia fesili pe aisea ua tele ai ata o lenei README.md. Luga o faʻamatalaga puʻupuʻu e itiiti ata.
   * [Ole tele o tagata e naʻo le 20-28% o upu o loʻo i luga o le itulau](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Lafoga o Faʻamatalaga](../myth_catalog.md)

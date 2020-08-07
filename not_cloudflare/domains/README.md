@@ -17,7 +17,7 @@
 
 - Kombinita rezulto de _Kontraŭ-Tor uzantoj_ kaj _CDN uzantoj_.
 - Ni ne povas provizi rezulton Z1 kaj Z5 pro memora limo.
-- Cloudflare faris escepton de AAA. Cloudflare blokos vin se vi uzas [alian retumilon](../../README_ethics.md#user-content-browser-vendor-discrimination) kun Tor.
+- Cloudflare faris escepton de Tor Browser. Cloudflare blokos vin se vi uzas [alian retumilon](../../README_ethics.md#user-content-browser-vendor-discrimination) kun Tor.
 
 [//]: # (start; table / do not edit me; If necessary please create an issue first)
 

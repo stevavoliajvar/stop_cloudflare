@@ -73,7 +73,7 @@ Mel gratuito para todos. _Algumas_ cordas anexadas.
 ---
 
 
-## Continue na próxima página: "[Cloudflare Ethics](README_ethics.md)"
+## Continue na próxima página: "[Cloudflare Ethics](pt.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@ Este repositório é uma lista de sites que estão por trás de "_The Great Clou
 
 
 **Mais Informações**
-* [Versão curta do README](README_short.md) por [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
+* [Versão curta do README](pt.short.md) por [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
   * Você pode perguntar por que este arquivo LEIA-ME.md tem tantas imagens. Acima versão curta tem menos imagens.
   * [A maioria das pessoas lê apenas 20-28% das palavras na página](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md) `DRAFT`
