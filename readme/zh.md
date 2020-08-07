@@ -69,7 +69,7 @@
 
 ### 分散互联网。
 
-!["Cloudflare不是一个选择。"](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -89,11 +89,11 @@
 
 
 **数据**
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Cloudflare用户](cloudflare_users/)
-* [Cloudflare域](cloudflare_users/domains/)
-* [非Cloudflare CDN用户](not_cloudflare/)
-* [反Tor用户](anti-tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Cloudflare用户](../cloudflare_users/)
+* [Cloudflare域](../cloudflare_users/domains/)
+* [非Cloudflare CDN用户](../not_cloudflare/)
+* [反Tor用户](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@
   * [大多数人只阅读页面上20-20％的单词](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)
 * [神话目录](myth_catalog.md)
 * [杰夫·克利夫先生的 大云壁](article.txt) , [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * 下载: PDF [此处为](pdf/2019-The_Great_Cloudwall.pdf), ePUB [此处为](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * 下载: PDF [此处为](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [此处为](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * 由于侵犯CC0材料的版权，BookRix GmbH删除了原始电子书（ePUB）
 * [挂锁图标表示由MITM建立的安全SSL连接](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) , Anonymous
 * [阻止全球活动对手Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) , nym-zone
@@ -132,19 +132,19 @@
 ## 你能做什么？
 </summary>
 
-* 阅读我们的[建议措施清单](what-to-do.md)，并与您的朋友分享。
+* 阅读我们的[建议措施清单](../what-to-do.md)，并与您的朋友分享。
 
-* 阅读其[他用户的声音](PEOPLE.md)并写下您的想法。
+* 阅读其[他用户的声音](../PEOPLE.md)并写下您的想法。
 
 * 在[Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/))或[Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))上搜索内容。
 
-* 更新域列表: [列表说明](instructions.md).
+* 更新域列表: [列表说明](../instructions.md).
 
-* 将Cloudflare或与项目相关的事件添加到[历史记录](HISTORY.md)。
+* 将Cloudflare或与项目相关的事件添加到[历史记录](../HISTORY.md)。
 
-* 尝试并编写新的[工具/脚本](tool/)。
+* 尝试并编写新的[工具/脚本](../tool/)。
 
-* 这是一些[PDF/ePUB](pdf/)可供阅读。
+* 这是一些[pdf/ePUB](../pdf/)可供阅读。
 
 
 ---
