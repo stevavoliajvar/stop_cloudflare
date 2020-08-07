@@ -18,27 +18,27 @@
 |  Cloudflare sidas inter vi kaj origina retejo, agante kiel [landlima patrolagento](https://www.cbp.gov/careers/bpa). Vi ne kapablas konekti al via elektita celloko. Vi konektas al Cloudflare kaj ĉiuj viaj informoj estas deĉifritaj kaj transdonitaj dum la vojaĝo. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/border_patrol.jpg)  |
 |  La origina reteja administranto permesis al la agento - Cloudflare - decidi, [kiu povas aliri](https://web.archive.org/web/https://gitlab.com/iblech/tor-appeal/issues/1) al sia "_reteja posedaĵo_" kaj difini "_restriktitan areon_".  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/usershoulddecide.jpg)  |
 |  Rigardu la ĝustan bildon. Vi pensos, ke Cloudflare blokas nur [malbonulojn](https://en.wikipedia.org/wiki/Black_hat_(computer_security)). Vi pensos, ke _Cloudflare ĉiam interrete_ (neniam [malleviĝas](https://twitter.com/bengoldacre/status/1146058200887648258)). Vi pensas, ke _laŭleĝaj robotoj kaj [rampantoj](https://en.wikipedia.org/wiki/Web_crawler) povas indeksi vian retejon_.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howcfwork.jpg)  |
-|  Tamen [tiuj tute ne veras](PEOPLE.md). Cloudflare blokas senkulpajn homojn sen kialo. Cloudflare povas malleviĝi. Cloudflare blokas legitajn robotojn.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdowncfcom.jpg)  |
-|  Same kiel iu ajn [gastiga servo](https://en.wikipedia.org/wiki/Web_hosting_service), Cloudflare ne perfektas. Vi vidos ĉi tiun ekranon eĉ se la [origina servilo funkcias bone](PEOPLE.md).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdown2019.jpg) |
-|  Ĉu vi vere pensas, ke Cloudflare havas 100% [vivdaŭron](https://en.wikipedia.org/wiki/Uptime)? [Vi ne havas ideon](PEOPLE.md) kiom da fojoj Cloudflare [malsupreniras](https://www.zerohedge.com/markets/major-part-web-offline-cloudflare-suffers-outage). Se Cloudflare malsupreniras, via kliento ne povos aliri vian retejon. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg) |
-|  Oni nomas tion en referenco al la [Granda Fajroŝirmilo de Ĉinio](https://www.comparitech.com/privacy-security-tools/blockedinchina/), kiu faras kompareblan laboron [filtri multajn homojn](PEOPLE.md) de vidado de reteja enhavo (t.e. ĉiuj en [kontinenta Ĉinio](https://en.wikipedia.org/wiki/China) kaj homoj ekstere) kaj samtempe tiuj, kiuj ne tuŝas vidi dratike malsaman retejon, retejo libera de [cenzuro](https://en.wikipedia.org/wiki/Internet_censorship) kiel bildo de "[tanko-homo](https://en.wikipedia.org/wiki/Tank_Man)" kaj historio de "[Tiananmen Square-protestoj](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests#Censorship_in_China)". | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflarechina.jpg)  |
+|  Tamen [tiuj tute ne veras](../PEOPLE.md). Cloudflare blokas senkulpajn homojn sen kialo. Cloudflare povas malleviĝi. Cloudflare blokas legitajn robotojn.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdowncfcom.jpg)  |
+|  Same kiel iu ajn [gastiga servo](https://en.wikipedia.org/wiki/Web_hosting_service), Cloudflare ne perfektas. Vi vidos ĉi tiun ekranon eĉ se la [origina servilo funkcias bone](../PEOPLE.md).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdown2019.jpg) |
+|  Ĉu vi vere pensas, ke Cloudflare havas 100% [vivdaŭron](https://en.wikipedia.org/wiki/Uptime)? [Vi ne havas ideon](../PEOPLE.md) kiom da fojoj Cloudflare [malsupreniras](https://www.zerohedge.com/markets/major-part-web-offline-cloudflare-suffers-outage). Se Cloudflare malsupreniras, via kliento ne povos aliri vian retejon. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg) |
+|  Oni nomas tion en referenco al la [Granda Fajroŝirmilo de Ĉinio](https://www.comparitech.com/privacy-security-tools/blockedinchina/), kiu faras kompareblan laboron [filtri multajn homojn](../PEOPLE.md) de vidado de reteja enhavo (t.e. ĉiuj en [kontinenta Ĉinio](https://en.wikipedia.org/wiki/China) kaj homoj ekstere) kaj samtempe tiuj, kiuj ne tuŝas vidi dratike malsaman retejon, retejo libera de [cenzuro](https://en.wikipedia.org/wiki/Internet_censorship) kiel bildo de "[tanko-homo](https://en.wikipedia.org/wiki/Tank_Man)" kaj historio de "[Tiananmen Square-protestoj](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests#Censorship_in_China)". | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflarechina.jpg)  |
 |  Cloudflare posedas [grandan potencon](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion/ghost/mozilla.html). En iu senso, ili kontrolas tion, kion la fina uzanto finfine vidas. Vi malhelpas foliumi la retejon pro Cloudflare. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/onemorestep.jpg) |
 |  Cloudflare povas esti uzata por cenzuro. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/accdenied.jpg) |
 |  Vi ne povas vidi cloudflared-retejon se vi uzas negravan retumilon, kiu Cloudflare eble pensas, ke ĝi estas bot(ĉar ne multaj homoj uzas ĝin). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfublock.jpg) |
 |  Vi ne povas preterpasi ĉi tiun invadan retumilon sen ebligi Ĝavoskripton. Ĉi tio estas malŝparo de kvin(aŭ pli) sekundoj de via valora vivo. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsjsck.jpg) |
-|  Cloudflare ankaŭ [aŭtomate blokas](https://twitter.com/itsybitsydots/status/1212691131508477952) legitajn robotojn/rampistojn kiel Google, Yandex, Yacy, kaj [API-klientoj](PEOPLE.md). Cloudflare [aktive viglas](PEOPLE.md) "preterpasas cloudflare" komunumon kun intenco rompi legitiman esploradon. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg) |
+|  Cloudflare ankaŭ [aŭtomate blokas](https://twitter.com/itsybitsydots/status/1212691131508477952) legitajn robotojn/rampistojn kiel Google, Yandex, Yacy, kaj [API-klientoj](../PEOPLE.md). Cloudflare [aktive viglas](../PEOPLE.md) "preterpasas cloudflare" komunumon kun intenco rompi legitiman esploradon. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg) |
 |  Cloudflare simile malhelpas multajn homojn, kiuj havas malbonan interretan konekteblecon, aliri la retejojn malantaŭ ĝi (ekzemple, ili povus esti malantaŭ 7+ tavoloj de NAT aŭ dividi saman IP, ekzemple publikan Wifi) krom se ili solvas multoblajn bildajn CAPTCHAojn. En iuj kazoj, [ĉi tio daŭros 10 ĝis 30 minutojn por kontentigi Google](https://trac.torproject.org/projects/tor/ticket/23840). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/googlerecaptcha.jpg) |
 |  En la jaro 2020 Cloudflare ŝanĝiĝis de [Recaptcha de Google](https://en.wikipedia.org/wiki/Recaptcha) al [hCaptcha](https://en.wikipedia.org/wiki/HCaptcha), ĉar Google [intencas ŝarĝi](https://professionalhackers.in/cloudflare-dumps-recaptcha-as-google-intends-to-charge-for-its-use/) por ĝia uzo. Cloudflare diris al vi, ke ili zorgas pri via privateco ("[ĝi helpas trakti privatecan konzernon](https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/)"), sed tio evidente estas mensogo. Temas pri mono. "[hCaptcha](https://www.hcaptcha.com/) permesas retejojn gajni monon por servi ĉi tiun postulon dum blokado de bots kaj aliaj formoj de misuzo"<br>El la perspektivo de uzanto, ĉi tio ne multe ŝanĝiĝas. Vi estas devigita solvi ĝin. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fedup_fucking_hcaptcha.jpg) |
-|  Multaj homoj kaj programoj estas blokitaj de Cloudflare [ĉiutage](PEOPLE.md). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsnote.jpg) |
-|  Cloudflare [ĝenas multajn homojn](PEOPLE.md) tra la mondo. Rigardu la liston kaj pensu, ĉu adopti Cloudflare sur via retejo bonas por sperto de uzanto. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsstream.jpg) |
+|  Multaj homoj kaj programoj estas blokitaj de Cloudflare [ĉiutage](../PEOPLE.md). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsnote.jpg) |
+|  Cloudflare [ĝenas multajn homojn](../PEOPLE.md) tra la mondo. Rigardu la liston kaj pensu, ĉu adopti Cloudflare sur via retejo bonas por sperto de uzanto. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsstream.jpg) |
 |  Kio estas la celo de la interreto, se vi ne povas fari tion, kion vi volas? Plej multaj homoj, kiuj vizitas vian retejon, serĉos nur aliajn paĝojn se ili ne povas ŝarĝi retpaĝon. Vi eble ne blokas iujn ajn vizitantojn, sed la defaŭlta firewall de Cloudflare estas sufiĉe strikta por bloki multajn homojn. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsdroid.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsappl.jpg) |
-|  Ekzistas neniu maniero solvi la captcha sen ebligi Ĝavoskripton kaj Kuketojn. Cloudflare [uzas ilin](PEOPLE.md) por fari retumilon subskribon [identigi vin](https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm). Cloudflare bezonas scii vian identecon por decidi, ĉu vi elekteblas plu trarigardi la retejon. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1010bsig.jpg) |
+|  Ekzistas neniu maniero solvi la captcha sen ebligi Ĝavoskripton kaj Kuketojn. Cloudflare [uzas ilin](../PEOPLE.md) por fari retumilon subskribon [identigi vin](https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm). Cloudflare bezonas scii vian identecon por decidi, ĉu vi elekteblas plu trarigardi la retejon. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1010bsig.jpg) |
 |  [Tor-uzantoj](https://www.torproject.org/) kaj [VPN-uzantoj](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) ankaŭ estas [viktimo](https://blog.torproject.org/trouble-cloudflare) de Cloudflare. Ambaŭ solvoj estas uzataj de multaj homoj, kiuj ne povas pagi sen cenzuritan interreton pro sia lando/korporacio/reto-politiko aŭ kiuj volas aldoni kroman tavolon por protekti sian privatecon. Cloudflare senĝene atakas tiujn homojn, devigante ilin malŝalti sian prokrastan solvon. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn2.jpg) |
 |  Se vi ne provis Tor ĝis ĉi tiu momento, ni kuraĝigas vin [elŝuti Tor Browser](https://www.torproject.org/) kaj viziti viajn plej ŝatatajn retejojn. (konsilo: _Ne ensalutu vian bankan retejon aŭ registara retpaĝo aŭ ili markos vian konton. [Uzu VPN](https://www.vpngate.net/en/) por tiuj retejoj._) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn.jpg) |
 |  Vi eble volas diri "_Tor estas kontraŭleĝa! Tor-uzantoj estas krimaj! Tor estas malbona!_". Ne. Eble vi eksciis pri Tor el la televido, dirante, ke Tor povas esti uzata por foliumi [cepretejo](https://en.wikipedia.org/wiki/Darknet) kaj komerci pafilojn, drogojn aŭ [porinfana porn](https://en.wikipedia.org/wiki/Child_sexual_abuse_material). Kvankam supra aserto estas certa, ke ekzistas multaj merkataj retejoj, kie vi povas aĉeti tiajn erojn, tiuj retejoj ofte aperas ankaŭ sur klaŭno.  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whousetor.jpg) |
 |  Tor estis [disvolvita de usona armeo](https://www.nrl.navy.mil/itd/chacs/dingledine-tor-second-generation-onion-router), sed aktuala Tor estas disvolvita de la [projekto Tor](https://www.torproject.org/). Estas multaj homoj kaj organizoj, [kiuj uzas Tor](https://blog.torproject.org/tor-misused-criminals) inkluzive de viaj estontaj amikoj. Do, se vi uzas Cloudflare en via retejo, vi blokas realajn homojn. Vi perdos eblajn amikecojn kaj komercajn aferojn. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
 |  Kaj ilia DNS-servo, [1.1.1.1](https://1.1.1.1/), ankaŭ filtras uzantojn de vizitado de la retejo redonante [falsan](https://trac.torproject.org/projects/tor/ticket/32915) IP-adreson [posedatan de Cloudflare](https://www.reddit.com/r/CloudFlare/comments/hiqm4u/no_cloudflare_website_is_loading/), localhost IP kiel "127.0.0.x", aŭ simple redonas nenion. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg) |
-|  Cloudflare DNS ankaŭ [rompas](https://twitter.com/bowranger/status/1213031783576428550) [interretan](https://twitter.com/jb510/status/1212521533907668992) [programon](https://twitter.com/No_Style/status/1201525422795710466) [de](https://twitter.com/daemuth/status/1187758306535903233) [inteligenta](https://twitter.com/gregortorrence/status/1183102089439805441) [telefono](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/) [al komputila ludo](PEOPLE.md) pro ilia falsa DNS-respondo. Cloudflare DNS [ne povas pridemandi](PEOPLE.md) iujn bankajn retejojn. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
+|  Cloudflare DNS ankaŭ [rompas](https://twitter.com/bowranger/status/1213031783576428550) [interretan](https://twitter.com/jb510/status/1212521533907668992) [programon](https://twitter.com/No_Style/status/1201525422795710466) [de](https://twitter.com/daemuth/status/1187758306535903233) [inteligenta](https://twitter.com/gregortorrence/status/1183102089439805441) [telefono](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/) [al komputila ludo](../PEOPLE.md) pro ilia falsa DNS-respondo. Cloudflare DNS [ne povas pridemandi](../PEOPLE.md) iujn bankajn retejojn. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
 |  Kaj jen vi eble pensas,<br>"_Mi ne uzas Tor aŭ VPN, kial mi zorgu?_"<br>"_Mi fidas Cloudflare-merkatadon, kial mi zorgu_"<br>"_Mia retejo estas https kial mi devas zorgi_" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
 |  Se vi vizitas retejon, kiu uzas Cloudflare, vi dividas viajn informojn ne nur al retejposedanto sed ankaŭ Cloudflare. Jen kiel la [inversa prokuro](https://en.wikipedia.org/wiki/Reverse_proxy) funkcias. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
 |  Estas neeble [analizi](https://blog.cloudflare.com/the-csam-scanning-tool/) sen [deĉifrado de TLS-trafiko](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15#issuecomment-354773389). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
@@ -70,12 +70,12 @@
 
 ### Malcentralizi la interreton.
 
-!["Cloudflare ne estas elekto."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
 
-##    Bonvolu daŭrigi al sekva paĝo:  "[Cloudflare Ethics](README_ethics.md)"
+##    Bonvolu daŭrigi al sekva paĝo:  "[Cloudflare Ethics](../README_ethics.md)"
 
 ---
 
@@ -90,22 +90,22 @@
 
 
 **Datumoj**
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Uzantoj de Cloudflare](cloudflare_users/)
-* [Cloudflare Domajnoj](cloudflare_users/domains/)
-* [Ne-Cloudflare CDN-uzantoj](not_cloudflare/)
-* [Anti-Tor uzantoj](anti-tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Uzantoj de Cloudflare](../cloudflare_users/)
+* [Cloudflare Domajnoj](../cloudflare_users/domains/)
+* [Ne-Cloudflare CDN-uzantoj](../not_cloudflare/)
+* [Anti-Tor uzantoj](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
 
 
 **Pli da informo**
-* [Mallonga versio de README](README_short.md) de [Robin Wils](https://linuxrocks.online/@RMW)
+* [Mallonga versio de README](../README_short.md) de [Robin Wils](https://linuxrocks.online/@RMW)
   * Vi eble volas demandi, kial ĉi README.md havas tiom da bildoj. Super mallonga versio havas malpli da bildoj.
   * [Plej multaj homoj nur legas 20-28% de la vortoj sur la paĝo.](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Mito-Katalogo](myth_catalog.md)
-* [La Granda Nubo](article.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Mito-Katalogo](../myth_catalog.md)
+* [La Granda Nubo](../article.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Elŝutu kiel: PDF [ĉi tie](pdf/2019-The_Great_Cloudwall.pdf), ePUB [ĉi tie](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * `BookRix GmbH` estis forigita de la originala eBook (ePUB) pro malobservo de kopirajto de CC0-materialo
 * [Ikono de Padlock indikas sekuran SSL-konekton establita per MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) de Anonymous
@@ -133,19 +133,19 @@
 ## Kion vi povas fari?
 </summary>
 
-* Legu [nian liston de rekomendindaj agoj](what-to-do.md) kaj dividu ĝin kun viaj amikoj.
+* Legu [nian liston de rekomendindaj agoj](../what-to-do.md) kaj dividu ĝin kun viaj amikoj.
 
-* Legu [la voĉon de alia uzanto](PEOPLE.md) kaj skribu viajn pensojn.
+* Legu [la voĉon de alia uzanto](../PEOPLE.md) kaj skribu viajn pensojn.
 
 * Serĉi ion sur [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([klara retejo](https://ansero.eu.org/)) aŭ [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([klara retejo](https://crimeflare.eu.org/)).
 
-* Ĝisdatigu la domajnan liston: [Enlistigi instrukciojn](instructions.md).
+* Ĝisdatigu la domajnan liston: [Enlistigi instrukciojn](../instructions.md).
 
-* Aldonu Cloudflare aŭ projekton rilatan eventon al [historio](HISTORY.md).
+* Aldonu Cloudflare aŭ projekton rilatan eventon al [historio](../HISTORY.md).
 
-* Provu kaj skribu novan [Ilon/Skripton](tool/).
+* Provu kaj skribu novan [Ilon/Skripton](../tool/).
 
-* Jen iuj [PDF/ePUB](pdf/) por legi.
+* Jen iuj [PDF/ePUB](../pdf/) por legi.
 
 
 ---
