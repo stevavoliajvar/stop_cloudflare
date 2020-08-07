@@ -73,9 +73,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 ---
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/butitsdown.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/2020_07_cloudflaredown.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/butitsdown.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/2020_07_cloudflaredown.jpg) |
 
 ---
 
