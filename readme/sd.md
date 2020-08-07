@@ -74,7 +74,7 @@
 ---
 
 
-## مهرباني ڪري اڳئين صفحي ڏانهن وڃو: "[Cloudflare Ethics](../README_ethics.md)"
+## مهرباني ڪري اڳئين صفحي ڏانهن وڃو: "[Cloudflare Ethics](sd.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 ** وڌيڪ **اڻ **
-* [ريڊ ايم اي جو مختصر نسخو](../README_short.md) طرفان [رابن وِلز](https://linuxrocks.online/@RMW)
+* [ريڊ ايم اي جو مختصر نسخو](sd.short.md) طرفان [رابن وِلز](https://linuxrocks.online/@RMW)
   * توھان شايد پڇڻ چاھيو ٿا ته ھن README.md ۾ ڪيتريون ئي تصويرون آھن. مٿين نسخن ۾ گھٽ تصويرون آھن.
   * [اڪثر ماڻھو صرف صفحي تي 20-28٪ الفاظ پڙھندا آھن) (https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [ماٿري جو ڪتاب](../myth_catalog.md)

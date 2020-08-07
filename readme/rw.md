@@ -74,7 +74,7 @@
 ---
 
 
-## Nyamuneka komeza kurupapuro rukurikira: "[Imyitwarire ya Cloudflare](../README_ethics.md)"
+## Nyamuneka komeza kurupapuro rukurikira: "[Imyitwarire ya Cloudflare](rw.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Ububiko ni urutonde rwurubuga ruri inyuma ya "_Igicu kinini cya Cloudwall_", kib
 
 
 ** Andi Makuru **
-* [Inyandiko ngufi ya README](../README_short.md) na [Robin Wils](https://linuxrocks.online/@RMW)
+* [Inyandiko ngufi ya README](rw.short.md) na [Robin Wils](https://linuxrocks.online/@RMW)
   * Urashobora kubaza impamvu iyi README.md ifite amashusho menshi. Hejuru ya verisiyo ngufi ifite amashusho make.
   * [Abantu benshi basoma gusa 20-28% yamagambo ari kurupapuro](https://movableink.com/blog/29-byemewe-ibisobanuro-byo-byemeza-ububasha-bwerekana-ibimenyetso-).
 * [Cataloge y'ibinyoma](../myth_catalog.md)
