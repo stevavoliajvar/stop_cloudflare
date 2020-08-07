@@ -73,7 +73,7 @@
 ---
 
 
-## Fortsätt till nästa sida: "[Cloudflare Ethics](README_ethics.md)"
+## Fortsätt till nästa sida: "[Cloudflare Ethics](sv.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@ Detta arkiv är en lista över webbplatser som ligger bakom "_The Great Cloudwal
 
 
 **Mer information**
-* [Kort version av README](README_short.md) av [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
+* [Kort version av README](sv.short.md) av [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
   * Du kanske vill fråga varför den här README.md har så många bilder. Ovanför den korta versionen har färre bilder.
   * [De flesta läser bara 20-28% av orden på sidan](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md) `DRAFT`

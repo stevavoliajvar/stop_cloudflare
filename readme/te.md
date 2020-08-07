@@ -74,7 +74,7 @@
 ---
 
 
-## దయచేసి తదుపరి పేజీకి కొనసాగించండి: "[క్లౌడ్‌ఫ్లేర్ ఎథిక్స్](../README_ethics.md)"
+## దయచేసి తదుపరి పేజీకి కొనసాగించండి: "[క్లౌడ్‌ఫ్లేర్ ఎథిక్స్](te.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **మరింత సమాచారం**
-* [రాబిన్ విల్స్](https://linuxrocks.online/@RMW) చే [README యొక్క చిన్న వెర్షన్](../README_short.md)
+* [రాబిన్ విల్స్](https://linuxrocks.online/@RMW) చే [README యొక్క చిన్న వెర్షన్](te.short.md)
   * ఈ README.md కి ఎందుకు చాలా చిత్రాలు ఉన్నాయని మీరు అడగవచ్చు. చిన్న సంస్కరణ పైన తక్కువ చిత్రాలు ఉన్నాయి.
   * [చాలా మంది పేజీలోని 20-28% పదాలను మాత్రమే చదువుతారు](https://movantink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [మిత్ కాటలాగ్](math_catalog.md)

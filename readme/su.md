@@ -74,7 +74,7 @@
 ---
 
 
-## Mangga teraskeun ka halaman salajengna: "[Etika Cloudflare](../README_ethics.md)"
+## Mangga teraskeun ka halaman salajengna: "[Etika Cloudflare](su.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Repositori ieu mangrupikeun daptar situs wéb anu tinggaleun "_The Great Cloudwa
 
 
 ** Inpormasi Langkung **
-* [Vérsi ringkes README](../README_short.md) ku [Robin Wils](https://linuxrocks.online/@RMW)
+* [Vérsi ringkes README](su.short.md) ku [Robin Wils](https://linuxrocks.online/@RMW)
   * Anjeun panginten badé naros naha README.md ieu ngagaduhan seueur gambar. Di luhur versi pondok ngagaduhan gambar anu kirang.
   * [Seueur jalma ngan ukur maca 20-28% tina kecap dina halaman](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog Mitos](mitos_catalog.md)
