@@ -74,7 +74,7 @@
 ---
 
 
-## Խնդրում ենք շարունակել հետևյալ էջը. "[Cloudflare Ethics](../README_ethics.md)"
+## Խնդրում ենք շարունակել հետևյալ էջը. "[Cloudflare Ethics](hy.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 ** Լրացուցիչ տեղեկություններ **
-* [README] կարճ տարբերակը (../README_short.md) հեղինակ [Robin Wils](https://linuxrocks.online/@RMW)
+* [README] կարճ տարբերակը (hy.short.md) հեղինակ [Robin Wils](https://linuxrocks.online/@RMW)
   * Գուցե ցանկանաք հարցնել, թե ինչու է այս README.md- ն այդքան շատ պատկերներ: Վերը նշված կարճ տարբերակում ավելի քիչ պատկերներ կան:
   * [Մարդկանց մեծ մասը միայն էջի բառերի 20-28% -ն է կարդում](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/):
 * [Առասպելների կատալոգ](../myth_catalog.md)

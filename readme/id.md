@@ -73,7 +73,7 @@
 ---
 
 
-## Silakan lanjutkan ke halaman berikutnya: "[Cloudflare Ethics](README_ethics.md)"
+## Silakan lanjutkan ke halaman berikutnya: "[Cloudflare Ethics](id.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@ Repositori ini adalah daftar situs web yang berada di belakang "_The Great Cloud
 
 
 ** Informasi Lebih Lanjut **
-* [Versi singkat README](README_short.md) oleh [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
+* [Versi singkat README](id.short.md) oleh [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
   * Anda mungkin ingin bertanya mengapa README.md ini memiliki begitu banyak gambar. Versi pendek di atas memiliki lebih sedikit gambar.
   * [Kebanyakan orang hanya membaca 20-28% dari kata-kata di halaman](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog Mitos](myth_catalog.md) `DRAFT`

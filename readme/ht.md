@@ -74,7 +74,7 @@
 ---
 
 
-## Tanpri kontinye nan pwochen paj la: "[Cloudflare Etik](../README_ethics.md)"
+## Tanpri kontinye nan pwochen paj la: "[Cloudflare Etik](ht.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "_The Great Cloudwall_", b
 
 
 **Plis enfomasyon**
-* [Kout vèsyon nan README](../README_short.md) pa [Robin Wils](https://linuxrocks.online/@RMW)
+* [Kout vèsyon nan README](ht.short.md) pa [Robin Wils](https://linuxrocks.online/@RMW)
   * Ou ta ka vle mande poukisa README.md sa a gen anpil imaj. Pi wo pase vèsyon kout gen mwens imaj.
   * [Pifò moun sèlman li 20-28% nan mo ki nan paj la](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)

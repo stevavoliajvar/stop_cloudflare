@@ -74,7 +74,7 @@
 ---
 
 
-## kérjük, folytassa a következő oldalon: "[Cloudflare Ethics](../README_ethics.md)"
+## kérjük, folytassa a következő oldalon: "[Cloudflare Ethics](hu.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Ez a lerakat azon webhelyek listáját tartalmazza, amelyek mögött vannak a "_
 
 
 **Több információ**
-* [A README rövid verziója (../README_short.md) [Robin Wils] készítette (https://linuxrocks.online/@RMW)
+* [A README rövid verziója (hu.short.md) [Robin Wils] készítette (https://linuxrocks.online/@RMW)
   * Érdemes megkérdezni, hogy miért tartalmaz ilyen sok képet a README.md. A rövid verzió felett kevesebb kép található.
   * [A legtöbb ember csak az oldalon szereplő szavak 20–28% -át olvassa el](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mítosz katalógus](../myth_catalog.md)
