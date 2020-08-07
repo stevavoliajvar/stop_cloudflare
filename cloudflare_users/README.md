@@ -1,10 +1,10 @@
-# Cloudflare users
+# Uzantoj de Cloudflare
 
-They are helping corporate censorship and mass surveillance.
+Ili helpas kompanian cenzuron kaj amasan gvatadon.
 
 ![](../image/chinaphone.jpg)
 
-See [instructions.md](../instructions.md) for file purpose and format specifications.
+Bonvolu vidi [instructions.md](../instructions.md) por dosiera celo kaj formato specifoj.
 
 ---
 
