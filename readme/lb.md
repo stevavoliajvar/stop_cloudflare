@@ -74,7 +74,7 @@
 ---
 
 
-## W.e.g. weider op déi nächst Säit: "[Cloudflare Ethik](../README_ethics.md)"
+## W.e.g. weider op déi nächst Säit: "[Cloudflare Ethik](lb.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "_The Great Cloudwa
 
 
 ** Méi Informatioun **
-* [Kuerz Versioun vum README](../README_short.md) vum [Robin Wils](https://linuxrocks.online/@RMW)
+* [Kuerz Versioun vum README](lb.short.md) vum [Robin Wils](https://linuxrocks.online/@RMW)
   * Dir wëllt froen firwat dëse README.md sou vill Biller huet. Uewen déi kuerz Versioun hu manner Biller.
   * [Déi meescht Leit liesen nëmmen 20-28% vun de Wierder op der Säit](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mythskatalog](../myth_catalog.md)

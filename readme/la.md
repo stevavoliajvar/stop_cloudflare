@@ -74,7 +74,7 @@
 ---
 
 
-## permanere quaeso altera pagina "[I Ethic Cloudflare](../README_ethics.md)"
+## permanere quaeso altera pagina "[I Ethic Cloudflare](la.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Data ** **
 
 
 **Informationes plurimae**
-* [Short versionem README](../README_short.md) a [Marcus Hedw](https://linuxrocks.online/@RMW)
+* [Short versionem README](la.short.md) a [Marcus Hedw](https://linuxrocks.online/@RMW)
   * Vos volo ut rogare quid est hoc README.md tot imagines. Brevis ut superius version minus imagines.
   * [Plerique legitur tantum 20-28% verborum in pagina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [The Grand Catalog](../myth_catalog.md)
