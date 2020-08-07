@@ -32,11 +32,10 @@ Cloudflare, onların xidmətindən istifadə edərək [bütün spamçı və ya h
 Cloudflare'yı aktivləşdirmədən _Cloudflare spamerlərini necə dayandıra bilərik?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Cloudflare'yı aktivləşdirmədən _Cloudflare spamerlərini necə dayandıra b
 Buludlu senzura [mənfi rəylər](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Twitter-də _anti-Cloudflare_ mətnini göndərsəniz, "Cloudflare işçisi" -dən (cloudflare_inc/cloudflare_members.txt) "cavabı" (https://twitter.com/CloudflareHelp/status/1126051764917145601) almaq üçün bir şansınız var. [Xeyr, belə deyil](XALQ.md) _ "mesajı. Hər hansı bir baxış saytına mənfi rəy yazsanız, [senzura](https://twitter.com/phyzonloop/status/1178836176985366529) [bu](https://twitter.com/dxgl_org/status/1178722159432220672) cəhd edəcəklər ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [olanlar](https://twitter.com/ZJemptv/status/898299709634248704) [şi
 əsl şəxsiyyət sənədiniz. Təzyiq etmək istəmirsinizsə, [təcavüzə məruz qalmış](https://twitter.com/NiteShade925/status/1158469203420205056), [tükənmiş](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) və ya [öldürülmüş](https://twitter.com/RusEmbUSA/status/1187363092793040901), buludlu veb saytlardan uzaq durursunuz.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ potensial seçiciləri qeydiyyata düşməkdən çəkinir. Xüsusilə liberallar
 Qeyd edək ki, kağız qeydiyyatı Cloudflare-ni aşmır, çünki dövlət məlumatları daxil edən işçilərin katibi bundan istifadə edəcəkdir
 Məlumatları daxil etmək üçün Cloudflare veb saytı.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org səs toplamaq və tədbirlər görmək üçün məşhur bir veb saytdır. "[hər yerdə insanlar təşviqat kampaniyalarına başlayır, tərəfdarları səfərbər edir və qərarlar qəbul etmək üçün qərar verənlərlə işləyir.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Təəssüf ki, Cloudflare'nın aqressiv süzgəcindən ötəri bir çox insan dəyişiklik.org-a baxa bilmir. Onların petisiyanı imzalamaları əngəllənir, bununla da onları demokratik prosesdən kənarlaşdırırlar. [OpenPetition](https://www.openpetition.eu/content/about_us) kimi digər buludsuz platformadan istifadə problemin aradan qaldırılmasına kömək edir.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare'nin "[Afinalı Layihə](https://www.cloudflare.com/athenian/)" dövlət və yerli seçki saytlarına pulsuz müəssisə səviyyəsində qorunma təklif edir. Dedilər "bu seçicilər seçki məlumatlarına və seçicilərin qeydiyyatı_ əldə edə bilərlər", lakin bu bir yalandır, çünki bir çox insanlar saytı ümumiyyətlə görə bilmirlər.
 

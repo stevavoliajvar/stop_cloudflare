@@ -32,11 +32,10 @@ Cloudflare አገልግሎታቸውን መጠቀሙ [ሁሉንም አይፈለ�
 Cloudflare ን ሳንቃነቃ _Cloudflare spammers_ ን እንዴት ማቆም እንችላለን?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </ዝርዝሮች>
 
@@ -52,9 +51,9 @@ Cloudflare ን ሳንቃነቃ _Cloudflare spammers_ ን እንዴት ማቆም 
 Cloudflare ሳንሱር [አሉታዊ ግምገማዎች](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853)። _Anti-Cloudflare_ ጽሑፍ በ Twitter ላይ ከለጠፉ ከ ”_ _ [ምላሽ](https://twitter.com/ystoflareHelp/status/1126051764917145601) ከ” Cloud ” [አይሆንም ፣ አይደለም](PEOPLE.md) _ "መልእክት። በማንኛውም የግምገማ ጣቢያ ላይ አሉታዊ ግምገማ ከለጠፉ እነሱ (ሳንሱር) ለማድረግ ይሞክራሉ (https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672) )
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </ዝርዝሮች>
 
@@ -72,13 +71,11 @@ Cloudflare [የግል መረጃን ያጋራል](https://archive.ph/ePdvi) የ�
 የእርስዎ እውነተኛ መታወቂያ። ትንኮሳ እንዲደርስብዎ የማይፈልጉ ከሆነ [ጥቃት ሰንዝሯል](https://twitter.com/NiteShade925/status/1158469203420205056) ፣ [swatted](https://boingboing.net/2015/01/19/invasion-boards) -set-out-to-rui.html) ወይም [የተገደለ](https://twitter.com/RusEmbUSA/status/1187363092793040901) ፣ ከ Cloudflared ድርጣቢያዎች በተሻለ ሁኔታ ይርቃሉ።
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </ዝርዝሮች>
 
@@ -183,14 +180,16 @@ CloudFlare ለበጎ አድራጎት መዋጮዎች (https://web.archive.org/we
 የወረቀት ምዝገባ Cloud Cloud ን የሚያስተጓጉል አለመሆኑን ልብ ይበሉ ምክንያቱም የግዛቱ የውሂብ ማስገቢያ ሰራተኞች ፀሐፊ ምናልባት ይህንን ሊጠቀሙበት ይችላሉ
 ውሂቡን ለማስገባት Cloudflare ድር ጣቢያ።
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org ድምጾችን ለመሰብሰብ እና እርምጃ ለመውሰድ ዝነኛ ድር ጣቢያ ነው ፡፡ “[በየትኛውም ቦታ ያሉ ሰዎች ዘመቻዎችን ይጀምራሉ ፣ ደጋፊዎችን በማሰባሰብ ፣ እና ውሳኔዎችን ለማምጣት ከውሳኔ ሰሪዎች ጋር አብረው በመስራት ላይ ይገኛሉ] ፡፡ (https://web.archive.org/web/20200206120027/https://www.change.org/about)
 እንደ አለመታደል ሆኖ ብዙ ሰዎች በ Cloudflare አጸያፊ ማጣሪያ ምክንያት ሁሉንም የለውጥ መጠይቆችን ማየት አይችሉም። አቤቱታውን ከመፈረም ታግደዋል ፣ ስለሆነም ከዴሞክራሲያዊ ሂደት አያቋርጡም ፡፡ እንደ [OpenPetition](https://www.openpetition.eu/content/about_us) ያሉ ደመና-ያልሆነ የመሣሪያ ስርዓትን መጠቀም ችግሩን ለማስተካከል ይረዳል።
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - ክላውድላየር “[የአቴና ፕሮጀክት](https://www.cloudflare.com/athenian/)” ለክፍለ ግዛት እና ለአከባቢ ምርጫ ድር ጣቢያዎች ነፃ የድርጅት-ደረጃ ጥበቃን ይሰጣል ፡፡ እነሱ ‹የእነዚሁ አካላት የምርጫ መረጃ እና የመራጮች ምዝገባን መድረስ ይችላሉ› ግን ይህ ውሸት ነው ምክንያቱም ብዙ ሰዎች ጣቢያውን በጭራሽ ማሰስ ስለማይችሉ ነው ፡፡
 
