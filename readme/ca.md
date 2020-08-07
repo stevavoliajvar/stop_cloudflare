@@ -73,7 +73,7 @@
 ---
 
 
-## Continua a la pàgina següent:"[Ètica de Cloudflare](README_ethics.md)"
+## Continua a la pàgina següent:"[Ètica de Cloudflare](ca.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@ Aquest dipòsit és una llista de llocs web que es troben al darrere de "_El gra
 
 
 **Més informació**
-* [Versió breu de README](README_short.md) de [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
+* [Versió breu de README](ca.short.md) de [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
   * Potser voldreu preguntar-vos per què aquest README.md té tantes images. Per sobre de la versió curta hi ha menys images.
   * [La majoria de la gent només llegeix el 20-28% de les paraules de la pàgina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catàleg de mites](myth_catalog.md) `DRAFT`
