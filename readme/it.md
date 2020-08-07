@@ -89,11 +89,11 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 
 
 **Dati**
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Utenti di Cloudflare](cloudflare_users/)
-* [Domini Cloudflare](cloudflare_users/domains/)
-* [Utenti CDN non Cloudflare](not_cloudflare/)
-* [Utenti Anti-Tor](anti-tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Utenti di Cloudflare](../cloudflare_users/)
+* [Domini Cloudflare](../cloudflare_users/domains/)
+* [Utenti CDN non Cloudflare](../not_cloudflare/)
+* [Utenti Anti-Tor](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
   * [La maggior parte delle persone legge solo il 20-28% delle parole sulla pagina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mito Catalogo](myth_catalog.md)
 * [The Great Cloudwall](article.txt) di [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * Scarica come: PDF [qui](pdf/2019-The_Great_Cloudwall.pdf), ePUB [qui](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * Scarica come: PDF [qui](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [qui](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * L'eBook originale (ePUB) è stato eliminato da BookRix GmbH a causa della violazione del copyright del materiale di CC0
 * [L'icona del lucchetto indica una connessione SSL sicura stabilita da MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) di Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) di nym-zone
@@ -132,19 +132,19 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 ## Cosa sai fare?
 </summary>
 
-* Leggi il nostro [elenco di azioni consigliate](what-to-do.md) e condividerlo con i tuoi amici.
+* Leggi il nostro [elenco di azioni consigliate](../what-to-do.md) e condividerlo con i tuoi amici.
 
-* Leggi la [voce di altri utenti](PEOPLE.md) e scrivi i tuoi pensieri.
+* Leggi la [voce di altri utenti](../PEOPLE.md) e scrivi i tuoi pensieri.
 
 * Cerca qualcosa su [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) o [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Aggiorna l'elenco dei domini: [istruzioni dell'elenco](instructions.md).
+* Aggiorna l'elenco dei domini: [istruzioni dell'elenco](../instructions.md).
 
-* Aggiungi Cloudflare o l'evento relativo al progetto alla [cronologia](HISTORY.md).
+* Aggiungi Cloudflare o l'evento relativo al progetto alla [cronologia](../HISTORY.md).
 
-* Prova e scrivi nuovo [Strumento/Script](tool/).
+* Prova e scrivi nuovo [Strumento/Script](../tool/).
 
-* Ecco alcuni [PDF/ePUB](pdf/) da leggere.
+* Ecco alcuni [PDF/ePUB](../pdf/) da leggere.
 
 
 ---
@@ -166,7 +166,7 @@ Non chiediamo mai i tuoi social media.**
 
 ---
 
-![WTF](image/wtfcf.jpg)
+![](image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

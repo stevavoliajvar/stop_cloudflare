@@ -89,11 +89,11 @@
 
 
 **データ**
-* [Cloudflareという会社について](cloudflare_inc/)
-* [Cloudflareの利用者](cloudflare_users/)
-* [Cloudflareのドメイン](cloudflare_users/domains/)
-* [非Cloudflare CDN利用者](not_cloudflare/)
-* [アンチTorユーザー](anti-tor_users/)
+* [Cloudflareという会社について](../cloudflare_inc/)
+* [Cloudflareの利用者](../cloudflare_users/)
+* [Cloudflareのドメイン](../cloudflare_users/domains/)
+* [非Cloudflare CDN利用者](../not_cloudflare/)
+* [アンチTorユーザー](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@
   * [多くの人々はたったの20-28%しか文章を読まない](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md)
 * [The Great Cloudwall](article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * ダウンロード: PDF [こちら](pdf/2019-The_Great_Cloudwall.pdf), ePUB [こちら](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * ダウンロード: PDF [こちら](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [こちら](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * 元の本(ePUB)は`BookRix GmbH`によって、`CC0`ライセンスの著作権侵害を理由に削除されました
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
@@ -132,19 +132,19 @@
 ## 何ができる？
 </summary>
 
-* [推奨する行動](what-to-do.md)を読み、ご友人と共有してください。
+* [推奨する行動](../what-to-do.md)を読み、ご友人と共有してください。
 
-* [他の方の意見](PEOPLE.md)をご覧になり、ブログなどで意見を書いてください。
+* [他の方の意見](../PEOPLE.md)をご覧になり、ブログなどで意見を書いてください。
 
 * [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) または [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))で検索してみましょう。
 
-* ドメインリストを更新する: [リストの詳細](instructions.md)
+* ドメインリストを更新する: [リストの詳細](../instructions.md)
 
-* クラウドフレアに関する内容を[歴史](HISTORY.md)に追加してください。
+* クラウドフレアに関する内容を[歴史](../HISTORY.md)に追加してください。
 
-* [ツール・スクリプト](tool/)を使ったり、新しく書いてみましょう。
+* [ツール・スクリプト](../tool/)を使ったり、新しく書いてみましょう。
 
-* [PDF/ePUB](pdf/)を入手できます。
+* [PDF/ePUB](../pdf/)を入手できます。
 
 
 ---
@@ -166,7 +166,7 @@ SNSでフォローするようお願いすることはありません。
 
 ---
 
-![WTF](image/wtfcf.jpg)
+![](image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
