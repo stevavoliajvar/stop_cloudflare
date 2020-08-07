@@ -13,7 +13,7 @@
 | 🖹 | 🖼 |
 | --- | --- |
 | "Babban Cloudwall" shine [Cloudflare Inc.](https://www.cloudflare.com/), the [U.S. kamfanin](https://en.wikipedia.org/wiki/Cloudflare). Yana bayar da sabis [CDN](https://en.wikipedia.org/wiki/Content_delivery_network) (cibiyar sadarwar abun ciki), sabis na [DDoS](https://en.wikipedia.org/wiki/DDoS_mitigation), [Intanet tsaro](https://en.wikipedia.org/wiki/Internet_security), da kuma rarraba [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) (sabar sunan yankin) sabis. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
-| Cloudflare ita ce [duniya](https://almanac.httparchive.org/en/2019/cdn) [mafi girma](https://w3techs.com/technologies/history_overview/proxy) Wakili na MITM ([a dawo da wakili]) (https ://en.wikipedia.org/wiki/Reverse_proxy)). Cloudflare ya mallaki [fiye da 80% na kasuwar CDN](https://w3techs.com/technologies/history_overview/proxy) raba da yawan [masu amfani da girgije](Cloudflare_users/) suna girma kowace rana. Sun fadada cibiyar sadarwar su zuwa fiye da [100 kasashe](https://blog.cloudflare.com/cloudflare-network-expands-to-more-than-100-countries/). Cloudflare yana amfani da [ƙarin zirga-zirgar yanar gizo](https://wp-rocket.me/blog/cloudflare-use-not/) fiye da [Twitter](https://en.wikipedia.org/wiki/Twitter), [Amazon](https://en.wikipedia.org/wiki/Amazon_(company)), [Apple](https://en.wikipedia.org/wiki/Apple_Inc.), [Instagram](https://en.wikipedia .org/wiki/Instagram), [Bing](https://en.wikipedia.org/wiki/Bing_ (bincike_engine)) & [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) hade. Cloudflare yana bayar da [shirin kyauta](https://www.cloudflare.com/plans/) kuma mutane da yawa suna amfani da shi maimakon saita sabbin sajojin su yadda yakamata. Sunyi ciniki [bayanin sirri](https://en.wikipedia.org/wiki/Privacy) kan dacewa. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg) |
+| Cloudflare ita ce [duniya](https://almanac.httparchive.org/en/2019/cdn) [mafi girma](https://w3techs.com/technologies/history_overview/proxy) Wakili na MITM ([a dawo da wakili]) (https://en.wikipedia.org/wiki/Reverse_proxy)). Cloudflare ya mallaki [fiye da 80% na kasuwar CDN](https://w3techs.com/technologies/history_overview/proxy) raba da yawan [masu amfani da girgije](../cloudflare_users/) suna girma kowace rana. Sun fadada cibiyar sadarwar su zuwa fiye da [100 kasashe](https://blog.cloudflare.com/cloudflare-network-expands-to-more-than-100-countries/). Cloudflare yana amfani da [ƙarin zirga-zirgar yanar gizo](https://wp-rocket.me/blog/cloudflare-use-not/) fiye da [Twitter](https://en.wikipedia.org/wiki/Twitter), [Amazon](https://en.wikipedia.org/wiki/Amazon_(company)), [Apple](https://en.wikipedia.org/wiki/Apple_Inc.), [Instagram](https://en.wikipedia .org/wiki/Instagram), [Bing](https://en.wikipedia.org/wiki/Bing_ (bincike_engine)) & [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia) hade. Cloudflare yana bayar da [shirin kyauta](https://www.cloudflare.com/plans/) kuma mutane da yawa suna amfani da shi maimakon saita sabbin sajojin su yadda yakamata. Sunyi ciniki [bayanin sirri](https://en.wikipedia.org/wiki/Privacy) kan dacewa. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg) |
 | Cloudflare yana zaune tsakanin ku da mai amfani da shafin yanar gizon mu, wanda yake aiki kamar [wakilin tsaro a kan iyaka](https://www.cbp.gov/careers/bpa). Ba ku sami damar haɗu zuwa inda aka zaɓa. Kuna haɗa zuwa Cloudflare kuma duk bayananku an yanke kuma an mika ku akan tashi. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/border_patrol.jpg) |
 | Asalin mai amfani da shafin yanar gizon ya ba da damar wakili - Cloudflare - don yanke hukunci [wanda zai iya shiga](https://web.archive.org/web/https://gitlab.com/iblech/tor-appeal/issues/1) zuwa ga "_web estate_" da kuma ayyana "_ yankin da ake takaita_". | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/usershoulddecide.jpg) |
 | Kalli hoton da ya dace. Za ku yi tunanin Cloudflare toshe _only_ [munanan mutane](https://en.wikipedia.org/wiki/Black_hat_ (computer_security)). Zaku yi tunanin _Cloudflare koyaushe yana kan layi (baya taɓa gangara ba) (https://twitter.com/bengoldacre/status/1146058200887648258)). Kuna tsammanin _legit bots da [mahaukaci](https://en.wikipedia.org/wiki/Web_crawler) zasu iya tsara shafin yanar gizon ku. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howcfwork.jpg) |
@@ -25,19 +25,19 @@
 | Ana iya amfani da Cloudflare don sa ido. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/accdenied.jpg) |
 | Ba zaku iya kallon gidan yanar gizon girgije ba idan kuna amfani da ƙananan mashigan yanar gizo wanda Cloudflare zai iya ɗauka cewa bot ne (saboda mutane da yawa basa amfani dashi). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfublock.jpg) |
 | Ba za ku iya wuce wannan “binciken bincike” ba ba tare da kunna Javascript ba. Wannan ɓata ne na daƙiƙu biyar (ko sama da haka) na rayuwar ku mai mahimmanci. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsjsck.jpg) |
-| Cloudflare kuma [ta atomatik](https://twitter.com/itsybitsydots/status/1212691131508477952) [toshe](PEOPLE.md) robots/crawlers na doka kamar su Google, Yandex, Yacy, da [abokan ciniki API](mutane. . Cloudflare yana aiki sosai (sa ido) (Mutane.md) "kewaye Cloudflare" al'umma tare da niyyar karya bots bincike. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg) |
+| Cloudflare kuma [ta atomatik](https://twitter.com/itsybitsydots/status/1212691131508477952) [toshe](../PEOPLE.md) robots/crawlers na doka kamar su Google, Yandex, Yacy, da [abokan ciniki API](mutane. . Cloudflare yana aiki sosai (sa ido) (Mutane.md) "kewaye Cloudflare" al'umma tare da niyyar karya bots bincike. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg) |
 | Cloudflare kamar haka yana hana mutane da yawa waɗanda ke da haɗin intanet mara kyau damar shiga yanar gizo a bayan sa (alal misali, za su iya kasancewa a baya 7+ yadudduka na NAT ko raba IP guda, alal misali Wifi jama'a) sai dai idan sun warware CAPTCHAs hoto da yawa. A wasu halaye, [wannan zai ɗauki minti 10 zuwa 30 don gamsar da Google](https://trac.torproject.org/projects/tor/ticket/23840). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/googlerecaptcha.jpg) |
 | A shekara ta 2020 Cloudflare ya sauya sheka daga [Google's Recaptcha](https://en.wikipedia.org/wiki/Recaptcha) zuwa [hCaptcha](https://en.wikipedia.org/wiki/HCaptcha) kamar yadda Google ke niyya [ caji](https://professionalhackers.in/cloudflare-dumps-recaptcha-as-google-intends-to-charge-for-its-use/) don amfanin sa. Cloudflare ya gaya maka cewa suna kula da sirrinka (["yana taimaka magance damuwa game da sirri"](https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/)) amma wannan a fili karya ce. Dukkanin batun kudi ne. "[hCaptcha](https://www.hcaptcha.com/) yana ba da damar yanar gizo don samun kuɗi don biyan wannan buƙata yayin toshe bots da sauran nau'ikan zagi" <br> Daga ra'ayin mai amfani, wannan ba ya canzawa sosai. Ana tilasta ku don warware shi. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fedup_fucking_hcaptcha.jpg) |
 | Mutane da yawa da software suna amfani da Cloudflare [kowace rana](MUTANE.md). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsnote.jpg) |
 | Cloudflare [ya fusata mutane da yawa](MUTANE.md) a duniya. Yi la'akari da jerin kuma kuyi tunanin ko ɗaukar Cloudflare a cikin rukunin ku na da kyau don ƙwarewar mai amfani. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsstream.jpg) |
 | Menene manufar intanet idan ba za ku iya yin abin da kuke so ba? Yawancin mutanen da suka ziyarci shafin yanar gizonku za su nemi wasu shafukan ne kawai idan ba za su iya saka shafin yanar gizon ba. Wataƙila ba za ku toshe kowane baƙi ba, amma tsohuwar wuta ta Cloudflare ta kasance mai matuƙar isa ta toshe mutane da yawa. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsdroid.jpg) <br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsappl.jpg) |
-| Babu wata hanyar da zaka iya ɗaukar captcha ba tare da kunna Javascript da Kukis ba. Cloudflare shine [yin amfani da su](PEOPLE.md) don sanya alamar mashaya don [gano](https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm) [ku](PEOPLE.md) ). Cloudflare yana buƙatar sanin asalin ku don yanke shawara ko kun cancanci ci gaba da binciken shafin. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1010bsig.jpg) |
+| Babu wata hanyar da zaka iya ɗaukar captcha ba tare da kunna Javascript da Kukis ba. Cloudflare shine [yin amfani da su](../PEOPLE.md) don sanya alamar mashaya don [gano](https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm) [ku](../PEOPLE.md) ). Cloudflare yana buƙatar sanin asalin ku don yanke shawara ko kun cancanci ci gaba da binciken shafin. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1010bsig.jpg) |
 | [Tor masu amfani](https://www.torproject.org/) da kuma [VPN masu amfani](https://airvpn.org/topic/23090-cloudflare-often-bans-my-ip-address/) suma suna [wanda aka azabtar](https://blog.torproject.org/trouble-cloudflare) na Cloudflare. Dukkanin hanyoyin suna amfani da su ta hanyar mutane da yawa waɗanda ba za su iya biyan intanet ɗin ba da izini saboda ƙungiyar su/kamfanin/hanyar sadarwa ko kuma waɗanda ke son ƙara ƙarin abin don kare sirrin su. Cloudflare yana kai harin ne ba da kunya ba tare da bata lokaci ba, yana tilasta su kashe maganin wakili. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn2.jpg) |
 | Idan baku gwada Tor ba sai a wannan karon, muna kara karfafa muku gwiwa [sauke Tor Browser](https://www.torproject.org/) da kuma ziyartattun gidajen yanar gizonku. (ba da shawara: _Kada ka shiga gidan yanar gizon bankin ka ko kuma shafin yanar gizan gwamnati ko kuma zasu tutar maka da shi. ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn.jpg) |
 | Kuna iya son faɗi "_Tor ba bisa doka ba! Masu amfani da Tor ba masu laifi ba ne! Tor mara kyau ne! _". A'a. Kuna iya koya game da Tor daga talabijin, yana cewa ana iya amfani da Tor don bincika [duhunet](https://en.wikipedia.org/wiki/Darknet) da cinikin bindigogi, kwayoyi ko [chid porn](https://en.wikipedia.org/wiki/Child_sexual_abuse_material). Duk da yake sama da sanarwa gaskiyane cewa akwai yanar gizo masu yawa kasuwa inda zaku iya siyan irin waɗannan abubuwan, waɗancan shafukan yanar gizon suna bayyana akan lokaci ma. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whousetor.jpg) |
 | Tor _was_ [Rundunar Sojan Amurka ta haɓaka](https://www.nrl.navy.mil/itd/chacs/dingledine-tor-second-generation-onion-router) (amma aikin Tor ya inganta) ( https://www.torproject.org/). Akwai mutane da yawa da kungiyoyi [waɗanda ke amfani da Tor](https://blog.torproject.org/tor-misused-criminals) gami da abokanka na nan gaba. Don haka, idan kuna amfani da Cloudflare a cikin rukunin yanar gizon ku kuna toshe _real_ mutane. Kuna rasa yiwuwar abokantaka da ma'amala ta kasuwanci. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
 | Kuma aikinsu na DNS, [1.1.1.1](https://1.1.1.1/), yana kuma tace masu amfani daga ziyartar gidan yanar gizo ta hanyar dawo da [karya](https://trac.torproject.org/projects/tor/tikiti/32915) Adireshin IP [mallakar Cloudflare](https://www.reddit.com/r/CloudFlare/comments/hiqm4u/no_cloudflare_website_is_loading/), IP na IP kamar "127.0.0.x", ko kawai dawo da komai . | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg) <br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg) |
-| Cloudflare DNS shima [break](https://twitter.com/bowranger/status/1213031783576428550) [kan layi](https://twitter.com/jb510/status/1212521533907668992) [software](https://twitter.com/No_Style/status/1201525422795710466) [daga](https://twitter.com/daemuth/status/1187758306535903233) [smartphone](https://twitter.com/gregortorrence/status/1183102089439805441) [app](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/) [zuwa wasan wasan kwamfuta saboda amsar DNS ta karya ce) (PEOPLE.md). Cloudflare DNS [ba za a iya bincika ba) (PEOPLE.md) wasu gidajen yanar gizo na banki. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg) <br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
+| Cloudflare DNS shima [break](https://twitter.com/bowranger/status/1213031783576428550) [kan layi](https://twitter.com/jb510/status/1212521533907668992) [software](https://twitter.com/No_Style/status/1201525422795710466) [daga](https://twitter.com/daemuth/status/1187758306535903233) [smartphone](https://twitter.com/gregortorrence/status/1183102089439805441) [app](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/) [zuwa wasan wasan kwamfuta saboda amsar DNS ta karya ce) (../PEOPLE.md). Cloudflare DNS [ba za a iya bincika ba) (../PEOPLE.md) wasu gidajen yanar gizo na banki. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg) <br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
 | Kuma a nan zaku iya tunani, <br> "_ Bana amfani da Tor ko VPN, me yasa zan damu? _" <br> "_Na amince da tallan Cloudflare, me yasa zan damu_" <br> "_Da'anar yanar gizon mu shine https me yasa zan kulawa_ "| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
 | Idan ka ziyarci gidan yanar gizon da ke amfani da Cloudflare, kuna raba bayananku ba kawai ga mai gidan yanar gizon ba _but shima Cloudflare_. Wannan shi ne yadda [rediyon wakili](https://en.wikipedia.org/wiki/Reverse_proxy) ke aiki. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
 | Ba shi yiwuwa a [bincika](https://blog.cloudflare.com/the-csam-scanning-tool/) ba tare da [yanke TLS zirga-zirga](https://github.com/nym-zone/block_cloudflare_mitm_fx/issues/15 # fitowar-354773389). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg)) |
@@ -69,7 +69,7 @@
 
 ### Rage yanar gizo.
 
-! ["Cloudflare ba zaɓi bane."](Hoto/cfisnotanoption.jpg)
+!["Cloudflare ba zaɓi bane."](Hoto/cfisnotanoption.jpg)
 
 ---
 
@@ -89,11 +89,11 @@ Wannan wurin ajiyar bayanai jerin shafukan yanar gizon da ke bayan "_The Great C
 
 
 ** Data **
-* [Cloudflare Inc.](Cloudflare_inc/)
-* [Masu amfani da Cloudflare](Cloudflare_users/)
-* [Cloudflare Domains](Cloudflare_users/domains/)
-* [Masu amfani da CDN marasa Cloudflare](not_cloudflare/)
-* [Masu amfani da maganin Anti-Tor](anti-Tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Masu amfani da Cloudflare](../cloudflare_users/)
+* [Cloudflare Domains](../cloudflare_users/domains/)
+* [Masu amfani da CDN marasa Cloudflare](../not_cloudflare/)
+* [Masu amfani da maganin Anti-Tor](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@ Wannan wurin ajiyar bayanai jerin shafukan yanar gizon da ke bayan "_The Great C
   * [Yawancin mutane suna karanta 20-28% na kalmomin a shafin](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Labarin Tarihi](labari na_catalog.md)
 * [Babban Cloudwall](labarin.txt) ta [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * Saukewa kamar haka: PDF [a nan](pdf/2019-The_Great_Cloudwall.pdf), ePUB [anan](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * Saukewa kamar haka: PDF [a nan](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [anan](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * An goge ainihin eBook (ePUB) ta 'BookRix GmbH` saboda' keta haƙƙin mallakin CC0 kayan`
 * [Alamar Padlock tana nuna tabbatacciyar haɗin haɗin SSL da aka kafa w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ta Anonymous
 * [An toshe Cloud Adlakin Abokan Ruwa na Duniya](https://trac.torproject.org/projects/tor/ticket/24351) ta nym-zone
@@ -132,7 +132,7 @@ Wannan wurin ajiyar bayanai jerin shafukan yanar gizon da ke bayan "_The Great C
 ## Me za ku iya yi?
 Bayanin bayani>
 
-* Karanta [jerin shawarwarinmu na shawarar](what-to-do.md) kuma raba shi tare da abokanka.
+* Karanta [jerin shawarwarinmu na shawarar](../what-to-do.md) kuma raba shi tare da abokanka.
 
 * Karanta [sauran muryar mai amfani](MUTANE.md) kuma rubuta tunanin ka.
 
@@ -140,11 +140,11 @@ Bayanin bayani>
 
 * Sabunta jerin yanki: [umarnin umarnin](umarnin.md).
 
-* Cloudara Cloudflare ko taron da ya shafi aikin zuwa [tarihin](HISTORY.md).
+* Cloudara Cloudflare ko taron da ya shafi aikin zuwa [tarihin](../HISTORY.md).
 
 * Gwada & rubuta sabon [Kayan aiki/Rubutun](kayan aiki/).
 
-* Ga wasu [PDF/ePUB](pdf/) don karantawa.
+* Ga wasu [PDF/ePUB](../pdf/) don karantawa.
 
 
 ---
