@@ -74,7 +74,7 @@
 ---
 
 
-##    Terusake ing kaca sabanjure:  "[Etika Cloudflare](README_ethics.md)"
+##    Terusake ing kaca sabanjure:  "[Etika Cloudflare](jv.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Cloudwall Agun
 
 
 **Kabar Liyane**
-* [Versi ringkes README](README_short.md) dening [Robin Wils](https://linuxrocks.online/@RMW)
+* [Versi ringkes README](jv.short.md) dening [Robin Wils](https://linuxrocks.online/@RMW)
   * Sampeyan bisa uga pengin takon kenapa README.md iki duwe akeh gambar. Ndhuwur versi cekak kurang gambar.
   * [Umume wong mung maca 20-28% saka tembung ing kaca kasebut](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog mitos](myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-##    Continua alla pagina successiva:  "[Cloudflare Ethics](README_ethics.md)"
+##    Continua alla pagina successiva:  "[Cloudflare Ethics](it.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 
 
 **Maggiori informazioni**
-* [Versione breve di README](README_short.md) di [Robin Wils](https://linuxrocks.online/@RMW)
+* [Versione breve di README](it.short.md) di [Robin Wils](https://linuxrocks.online/@RMW)
   * Potresti chiedere perché questo README.md ha così tante immagini. Sopra la versione breve hanno meno immagini.
   * [La maggior parte delle persone legge solo il 20-28% delle parole sulla pagina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mito Catalogo](myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-## გთხოვთ გააგრძელოთ შემდეგი გვერდი: "[Cloudflare Ethics](../README_ethics.md)"
+## გთხოვთ გააგრძელოთ შემდეგი გვერდი: "[Cloudflare Ethics](ka.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **Მეტი ინფორმაცია**
-* [README მოკლე ვერსია](../README_short.md) ავტორი [რობინ ვილს](https://linuxrocks.online/@RMW)
+* [README მოკლე ვერსია](ka.short.md) ავტორი [რობინ ვილს](https://linuxrocks.online/@RMW)
   * შეიძლება გკითხოთ, რატომ აქვს ამ README.md- ს ამდენი სურათი. მოკლე ვერსიაში ნაკლები გამოსახულებებია.
   * [ადამიანების უმეტესობამ მხოლოდ ამ სიტყვების 20-28% წაიკითხა გვერდზე](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [მითების კატალოგი](მითო_ კატალოგი +.
