@@ -138,7 +138,7 @@ Dette depotet er en liste over nettsteder som ligger bak "_The Great Cloudwall_"
 
 * Søk noe på [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) eller [Crimeflare \ #Search](https://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [Oppdater domenelisten: Listeinstruksjoner](instruction.md).
+* [Oppdater domenelisten: Listeinstruksjoner](../instructions.md).
 
 * [Legg til Cloudflare eller prosjektrelatert hendelse i historien](../HISTORY.md).
 
