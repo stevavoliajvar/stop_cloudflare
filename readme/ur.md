@@ -89,11 +89,11 @@
 
 
 **ڈیٹا**
-* [کلاؤڈ فلائر انکارپوریٹڈ](cloudflare_inc/)
-* [کلاؤڈ فلا ر صارفین](cloudflare_users/)
-* [کلاؤڈ فلایر ڈومینز](cloudflare_users/domains/)
-* [نان-کلاؤڈفلیئر سی ڈی این صارفین](not_cloudflare/)
-* [اینٹی ٹور استعمال کرنے والے](anti-tor_users/)
+* [کلاؤڈ فلائر انکارپوریٹڈ](../cloudflare_inc/)
+* [کلاؤڈ فلا ر صارفین](../cloudflare_users/)
+* [کلاؤڈ فلایر ڈومینز](../cloudflare_users/domains/)
+* [نان-کلاؤڈفلیئر سی ڈی این صارفین](../not_cloudflare/)
+* [اینٹی ٹور استعمال کرنے والے](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@
   * [زیادہ تر لوگ صفحہ پر صرف 20-28٪ الفاظ پڑھتے ہیں۔](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)
 * [متک کیٹلاگ](myth_catalog.md)
 * [The Great Cloudwall](article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * یہاں بطور پی : PDF [i](pdf/2019-The_Great_Cloudwall.pdf), ePUB [i](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * یہاں بطور پی : PDF [i](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [i](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * اصل ای بک (ePUB) کو BookRix GmbH کے ذریعہ CC0 مواد کی کاپی رائٹ کی خلاف ورزی کی وجہ سے حذف کردیا گیا تھا
 * [پیڈلاک آئیکون ایک محفوظ ایس ایس ایل کنکشن کی نشاندہی کرتا ہے جو گمنام کے ذریعہ MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [نیم زون کے ذریعہ گلوبل ایکٹو ایڈوسٹری کلاؤڈ فلایر کو مس](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
@@ -132,19 +132,19 @@
 ## تم کیا کر سکتے ہو؟
 </summary>
 
-* [ہماری تجویز کردہ کارروائیوں کی فہرست پڑھیں اور اسے اپنے دوستوں کے ساتھ شیئر کریں۔](what-to-do.md)
+* [ہماری تجویز کردہ کارروائیوں کی فہرست پڑھیں اور اسے اپنے دوستوں کے ساتھ شیئر کریں۔](../what-to-do.md)
 
-* [دوسرے صارف کی آواز پڑھیں اور اپنے خیالات لکھیں۔](PEOPLE.md)
+* [دوسرے صارف کی آواز پڑھیں اور اپنے خیالات لکھیں۔](../PEOPLE.md)
 
 * نیسرو (کلیرنسٹ) [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/))  تلاش [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [ڈومین لسٹ کو اپ ڈیٹ کریں: ہدایات کی فہرست بنائیں۔](instructions.md)
+* [ڈومین لسٹ کو اپ ڈیٹ کریں: ہدایات کی فہرست بنائیں۔](../instructions.md)
 
-* [کلاؤڈ فلایر یا پروجیکٹ سے متعلق ایونٹ کو تاریخ میں شامل کریں۔](HISTORY.md)
+* [کلاؤڈ فلایر یا پروجیکٹ سے متعلق ایونٹ کو تاریخ میں شامل کریں۔](../HISTORY.md)
 
-* [نیا ٹول / اسکرپٹ آزمائیں اور لکھیں۔](tool/).
+* [نیا ٹول / اسکرپٹ آزمائیں اور لکھیں۔](../tool/).
 
-* [پڑھنے کے لئے یہاں کچھ پی ڈی ایف / ای پی یو بی ہے۔](pdf/).
+* [پڑھنے کے لئے یہاں کچھ پی ڈی ایف / ای پی یو بی ہے۔](../pdf/).
 
 
 ---

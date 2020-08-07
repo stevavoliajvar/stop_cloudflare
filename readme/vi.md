@@ -89,11 +89,11 @@ Kho lưu trữ này là một danh sách các trang web đứng sau mạng "The 
 
 
 **Dữ liệu**
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Người dùng Cloudflare](cloudflare_users/)
-* [Tên miền Cloudflare](cloudflare_users/domains/)
-* [Người dùng CDN không phải Cloudflare](not_cloudflare/)
-* [Người dùng chống Tor](anti-tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Người dùng Cloudflare](../cloudflare_users/)
+* [Tên miền Cloudflare](../cloudflare_users/domains/)
+* [Người dùng CDN không phải Cloudflare](../not_cloudflare/)
+* [Người dùng chống Tor](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@ Kho lưu trữ này là một danh sách các trang web đứng sau mạng "The 
   * [Hầu hết mọi người chỉ đọc 20-28% các từ trên trang](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md)
 * [The Great Cloudwall](article.txt) của [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * Tải xuống dưới dạng: PDF [tại đây](pdf/2019-The_Great_Cloudwall.pdf), ePUB [tại đây](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * Tải xuống dưới dạng: PDF [tại đây](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [tại đây](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Sách điện tử ban đầu (ePUB) đã bị BookRix GmbH xóa do vi phạm bản quyền của tài liệu Muff
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) của Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
@@ -132,19 +132,19 @@ Kho lưu trữ này là một danh sách các trang web đứng sau mạng "The 
 ## Bạn có thể làm gì?
 </summary>
 
-* [Đọc danh sách các hành động được đề xuất của chúng tôi và chia sẻ nó với bạn bè của bạn](what-to-do.md)
+* [Đọc danh sách các hành động được đề xuất của chúng tôi và chia sẻ nó với bạn bè của bạn](../what-to-do.md)
 
-* [Đọc giọng nói của người dùng khác và viết suy nghĩ của bạn](PEOPLE.md)
+* [Đọc giọng nói của người dùng khác và viết suy nghĩ của bạn](../PEOPLE.md)
 
 * Tìm kiếm thứ gì đó trên [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) hoặc [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Cập nhật danh sách tên miền: [Danh sách hướng dẫn](instructions.md).
+* Cập nhật danh sách tên miền: [Danh sách hướng dẫn](../instructions.md).
 
-* Thêm Cloudflare hoặc sự kiện liên quan đến dự [án vào lịch sử](HISTORY.md).
+* Thêm Cloudflare hoặc sự kiện liên quan đến dự [án vào lịch sử](../HISTORY.md).
 
-* [Hãy thử và viết Công cụ/Tập lệnh mới](tool/).
+* [Hãy thử và viết Công cụ/Tập lệnh mới](../tool/).
 
-* [Ở đây, một số PDF/ePUB để đọc](pdf/).
+* [Ở đây, một số PDF/ePUB để đọc](../pdf/).
 
 
 ---
@@ -166,7 +166,7 @@ Chúng tôi không bao giờ hỏi phương tiện truyền thông xã hội c�
 
 ---
 
-![WTF](image/wtfcf.jpg)
+![](image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
