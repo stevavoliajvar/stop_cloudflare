@@ -198,8 +198,9 @@ Bedaŭrinde multaj homoj tute ne povas vidi change.org pro la agresema filtrilo 
 Oni blokas ilin subskribi la peticion, ekskludante ilin de demokratia procezo.
 Uzi aliajn ne-Cloudflare platformojn kiel OpenPetition helpas remedii la problemon.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - La "Atena Projekto" de Cloudflare ofertas senpagan entreprenan nivelan protekton al ŝtataj kaj lokaj elektaj retejoj.
 Ili diris "ke iliaj elektantoj povas aliri informojn pri elekto kaj registrado de balotantoj", sed tio estas mensogo ĉar multaj homoj simple ne povas trarigardi la retejon.

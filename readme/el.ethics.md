@@ -32,11 +32,10 @@
 Πώς μπορούμε να σταματήσουμε το _Cloudflare spammers_ χωρίς να ενεργοποιήσουμε το Cloudflare;
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@
 Λογαριασμός Cloudflare [αρνητικές κριτικές](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Εάν δημοσιεύσετε κείμενο _anti-Cloudflare_ στο Twitter, έχετε την ευκαιρία να λάβετε [απάντηση](https://twitter.com/CloudflareHelp/status/1126051764917145601) από το [Cloudflare υπάλληλος](cloudflare_inc/cloudflare_members.txt) με το "_[Όχι, δεν είναι](PEOPLE.md) _ "μήνυμα. Εάν δημοσιεύσετε αρνητική κριτική σε οποιονδήποτε ιστότοπο κριτικής, θα προσπαθήσουν να [λογοκρίνουν](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [μοιράζεται προσωπικά στοιχεία](https://ar
 το πραγματικό σας αναγνωριστικό. Εάν δεν θέλετε να παρενοχληθείτε, [επιτίθεται](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ή [kill](https://twitter.com/RusEmbUSA/status/1187363092793040901), καλύτερα να μείνετε μακριά από τους ιστότοπους Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Cloudflare [μοιράζεται προσωπικά στοιχεία](https://ar
 Λάβετε υπόψη ότι η καταχώριση χαρτιού δεν παρακάμπτει το Cloudflare επειδή οι υπάλληλοι του υπουργού εισαγωγής δεδομένων θα χρησιμοποιούν πιθανώς το
 Ιστότοπος Cloudflare για εισαγωγή δεδομένων.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Το Change.org είναι ένας διάσημος ιστότοπος για τη συγκέντρωση ψήφων και την ανάληψη δράσης. "[άτομα παντού ξεκινούν καμπάνιες, κινητοποιούν υποστηρικτές και συνεργάζονται με υπευθύνους λήψης αποφάσεων για να οδηγήσουν σε λύσεις.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Δυστυχώς, πολλοί άνθρωποι δεν μπορούν να δουν το change.org καθόλου λόγω του επιθετικού φίλτρου του Cloudflare. Τους εμποδίζεται να υπογράψουν την αναφορά, αποκλείοντας έτσι από τη δημοκρατική διαδικασία. Η χρήση άλλης πλατφόρμας χωρίς σύννεφο όπως το [OpenPetition](https://www.openpetition.eu/content/about_us) βοηθά στην επίλυση του προβλήματος.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Το "[Athenian Project] του Cloudflare (https://www.cloudflare.com/athenian/)" προσφέρει δωρεάν προστασία σε επίπεδο επιχείρησης σε κρατικούς και τοπικούς εκλογικούς ιστότοπους. Είπαν ότι «οι εκλογείς τους μπορούν να έχουν πρόσβαση στις εκλογικές πληροφορίες και στην εγγραφή των ψηφοφόρων», αλλά αυτό είναι ψέμα επειδή πολλοί άνθρωποι δεν μπορούν να περιηγηθούν στον ιστότοπο.
 
