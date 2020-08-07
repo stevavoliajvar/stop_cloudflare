@@ -69,7 +69,7 @@
 
 ### 分散互联网。
 
-!["Cloudflare不是一个选择。"](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
