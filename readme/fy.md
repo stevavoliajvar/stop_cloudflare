@@ -138,7 +138,7 @@ Dit repository is in list mei websiden dy't efter "_The Great Cloudwall_" steane
 
 * Sykje wat op [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) of [Crimeflare \ #Search](https://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Update de domeinnlist: [Listynstruksjes](instruction.md).
+* Update de domeinnlist: [Listynstruksjes](../instructions.md).
 
 * Foegje Cloudflare as projekt relatearre barren ta [skiednis](../HISTORY.md).
 
