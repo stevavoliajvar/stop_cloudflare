@@ -89,11 +89,11 @@
 
 
 **데이터**
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Cloudflare 사용자](cloudflare_users/)
-* [Cloudflare 도메인](cloudflare_users/domains/)
-* [Cloudflare가 아닌 CDN 사용자](not_cloudflare/)
-* [안티 토어 사용자](anti-tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Cloudflare 사용자](../cloudflare_users/)
+* [Cloudflare 도메인](../cloudflare_users/domains/)
+* [Cloudflare가 아닌 CDN 사용자](../not_cloudflare/)
+* [안티 토어 사용자](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@
   * [대부분의 사람들은 페이지에서 단어의 20-28 % 만 읽습니다](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [신화 카탈로그](myth_catalog.md)
 * [만리장성](article.txt) 의 [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * 다른 이름으로 다운로드: PDF [여기](pdf/2019-The_Great_Cloudwall.pdf), ePUB [여기](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * 다른 이름으로 다운로드: PDF [여기](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [여기](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * CC0 자료의 저작권 침해로 인해 BookRix GmbH에서 원본 eBook (ePUB)을 삭제했습니다.
 * [자물쇠 아이콘은 익명에 의해 MITM로 설정된 보안 SSL 연결을 나타냅니다](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) 의 Anonymous
 * [글로벌 활성 대적 Cloudflare 차단](https://trac.torproject.org/projects/tor/ticket/24351) 의 nym-zone
@@ -132,19 +132,19 @@
 ## 당신은 무엇을 할 수 있나요?
 </summary>
 
-* [권장 조치 목록을 읽고 친구들과 공유하십시오](what-to-do.md)
+* [권장 조치 목록을 읽고 친구들과 공유하십시오](../what-to-do.md)
 
-* [다른 사용자의 목소리를 읽고 생각을 쓰십시오](PEOPLE.md)
+* [다른 사용자의 목소리를 읽고 생각을 쓰십시오](../PEOPLE.md)
 
 * [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) 또는 [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))에서 무언가를 검색하십시오.
 
-* 도메인 목록 업데이트: [지침을 나열하십시오](instructions.md).
+* 도메인 목록 업데이트: [지침을 나열하십시오](../instructions.md).
 
-* [Cloudflare 또는 프로젝트 관련 이벤트를 히스토리에 추가하십시오](HISTORY.md).
+* [Cloudflare 또는 프로젝트 관련 이벤트를 히스토리에 추가하십시오](../HISTORY.md).
 
-* [새로운 도구/스크립트를 사용해보십시오](tool/).
+* [새로운 도구/스크립트를 사용해보십시오](../tool/).
 
-* [읽을 PDF/ePUB가 있습니다](pdf/)
+* [읽을 PDF/ePUB가 있습니다](../pdf/)
 
 
 ---
@@ -165,7 +165,7 @@ Crimeflare는 Twitter, Facebook, Patreon, OpenCollective, Villages 등 공식 �
 
 ---
 
-![WTF](image/wtfcf.jpg)
+![](image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
