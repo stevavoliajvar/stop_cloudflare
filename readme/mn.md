@@ -74,7 +74,7 @@
 ---
 
 
-## Дараачийн хуудас руу үргэлжлүүлнэ үү: "[Cloudflare Ethics](../README_ethics.md)"
+## Дараачийн хуудас руу үргэлжлүүлнэ үү: "[Cloudflare Ethics](mn.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **Нэмэлт мэдээлэл**
-* [Робин Уилс](https://linuxrocks.online/@RMW) -н [README-ийн богино хувилбар](../README_short.md)
+* [Робин Уилс](https://linuxrocks.online/@RMW) -н [README-ийн богино хувилбар](mn.short.md)
   * Энэхүү README.md яагаад ийм олон зураг гарч ирэхийг асуумаар байгаа юм. Богино хувилбараас бага зурагтай.
   * [Ихэнх хүмүүс энэ хуудсан дээрх үгсийн зөвхөн 20-28% -ийг уншдаг](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Төөрөгдөлийн каталог](../myth_catalog.md)

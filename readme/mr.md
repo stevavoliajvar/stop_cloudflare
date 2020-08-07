@@ -74,7 +74,7 @@
 ---
 
 
-## कृपया पुढील पानावर सुरू ठेवा: "[क्लाउडफ्लेअर नीतिशास्त्र](README_ethics.md)"
+## कृपया पुढील पानावर सुरू ठेवा: "[क्लाउडफ्लेअर नीतिशास्त्र](mr.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **अधिक माहिती**
-* [रॉबिन विल्स]([https://linuxrocks.online/@RMW) द्वारे README ची लहान आवृत्ती](README_short.md)
+* [रॉबिन विल्स]([https://linuxrocks.online/@RMW) द्वारे README ची लहान आवृत्ती](mr.short.md)
   * या README.md कडे इतक्या प्रतिमा का आहेत हे आपण विचारू शकता. लहान आवृत्तीत प्रतिमा कमी आहेत.
   * [बर्‍याच लोक केवळ पृष्ठावरील 20-28% शब्दच वाचतात](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [मिथक कॅटलॉग](मिथक_कॅटलॉग.एमडी)

@@ -74,7 +74,7 @@
 ---
 
 
-## Sila terus ke halaman seterusnya: "[Etika Cloudflare](README_ethics.md)"
+## Sila terus ke halaman seterusnya: "[Etika Cloudflare](ms.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Repositori ini adalah senarai laman web yang berada di belakang "_The Great Clou
 
 
 **Maklumat lanjut**
-* [Versi pendek README](README_short.md) oleh [Robin Wils](https://linuxrocks.online/@RMW)
+* [Versi pendek README](ms.short.md) oleh [Robin Wils](https://linuxrocks.online/@RMW)
   * Anda mungkin ingin bertanya mengapa README.md ini mempunyai begitu banyak gambar. Versi pendek di atas mempunyai lebih sedikit gambar.
   * [Kebanyakan orang hanya membaca 20-28% perkataan di halaman](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog Mitos](myth_catalog.md)
