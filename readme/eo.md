@@ -106,7 +106,7 @@
   * [Plej multaj homoj nur legas 20-28% de la vortoj sur la paĝo.](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mito-Katalogo](../myth_catalog.md)
 * [La Granda Nubo](../article.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * Elŝutu kiel: PDF [ĉi tie](pdf/2019-The_Great_Cloudwall.pdf), ePUB [ĉi tie](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * Elŝutu kiel: PDF [ĉi tie](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ĉi tie](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * `BookRix GmbH` estis forigita de la originala eBook (ePUB) pro malobservo de kopirajto de CC0-materialo
 * [Ikono de Padlock indikas sekuran SSL-konekton establita per MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) de Anonimo
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) de nym-zone

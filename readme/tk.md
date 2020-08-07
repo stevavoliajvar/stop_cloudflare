@@ -78,8 +78,8 @@
 
 ---
 
-<jikme-jiklikler>
-<gysgaça mazmun> _ basyň
+<details>
+<summary> _ basyň
 
 ## Maglumat we has giňişleýin maglumat
 </summary>
@@ -126,8 +126,8 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "_ The Great Cloudwa
 
 ---
 
-<jikme-jiklikler>
-<gysgaça mazmun> _ basyň
+<details>
+<summary> _ basyň
 
 ## Sen näme edip bilýärsiñ?
 </summary>

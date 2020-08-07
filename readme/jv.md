@@ -89,11 +89,11 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Cloudwall Agun
 
 
 **Data**
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Pangguna Cloudflare](cloudflare_users/)
-* [Domain Cloudflare](cloudflare_users/domains/)
-* [Pangguna CDN Non-Cloudflare](not_cloudflare/)
-* [Pangguna anti-Tor](anti-tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Pangguna Cloudflare](../cloudflare_users/)
+* [Domain Cloudflare](../cloudflare_users/domains/)
+* [Pangguna CDN Non-Cloudflare](../not_cloudflare/)
+* [Pangguna anti-Tor](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Cloudwall Agun
   * [Umume wong mung maca 20-28% saka tembung ing kaca kasebut](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog mitos](myth_catalog.md)
 * [The Cloudwall Agung](article.txt) dening [Pak Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * Download minangka: PDF [ing kene](pdf/2019-The_Great_Cloudwall.pdf), ePUB [ing kene](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * Download minangka: PDF [ing kene](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ing kene](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook asli (ePUB) dibusak dening BookRix GmbH amarga pelanggaran hak cipta CC0 materi
 * [Ikon Padlock nuduhake sambungan SSL sing aman ditetepake dening MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) dening Anonymous
 * [Blok Cloudflare Adversal Global](https://trac.torproject.org/projects/tor/ticket/24351) dening nym-zone
@@ -132,19 +132,19 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Cloudwall Agun
 ## Apa sampeyan bisa nggawe?
 </summary>
 
-* [Waca dhaptar tindakan sing disaranake lan wenehana bareng karo kanca-kanca.](what-to-do.md)
+* [Waca dhaptar tindakan sing disaranake lan wenehana bareng karo kanca-kanca.](../what-to-do.md)
 
-* [Waca swara pangguna liyane lan tulisake pikirane.](PEOPLE.md)
+* [Waca swara pangguna liyane lan tulisake pikirane.](../PEOPLE.md)
 
 * Goleki soko ing [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) utawa [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Nganyari dhaptar domain: [Dhaptar dhaptar](instructions.md).
+* Nganyari dhaptar domain: [Dhaptar dhaptar](../instructions.md).
 
-* Tambah Cloudflare utawa acara sing ana gandhengane karo [sejarah](HISTORY.md).
+* Tambah Cloudflare utawa acara sing ana gandhengane karo [sejarah](../HISTORY.md).
 
-*  Coba & nulis [Alat/Skrip](tool/).
+*  Coba & nulis [Alat/Skrip](../tool/).
 
-* Mangkene sawetara [PDF/ePUB](pdf/) sing bakal diwaca.
+* Mangkene sawetara [PDF/ePUB](../pdf/) sing bakal diwaca.
 
 
 ---

@@ -89,11 +89,11 @@
 
 
 **Данные**
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Пользователи Cloudflare](cloudflare_users/)
-* [Cloudflare Домены](cloudflare_users/domains/)
-* [Пользователи CDN без Cloudflare](not_cloudflare/)
-* [Анти-Тор пользователи](anti-tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Пользователи Cloudflare](../cloudflare_users/)
+* [Cloudflare Домены](../cloudflare_users/domains/)
+* [Пользователи CDN без Cloudflare](../not_cloudflare/)
+* [Анти-Тор пользователи](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@
   * [Большинство людей читают только 20-28% слов на странице](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Миф Каталог](myth_catalog.md)
 * [Великая облачная стена](article.txt) по [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * Скачать как: PDF [здесь](pdf/2019-The_Great_Cloudwall.pdf), ePUB [здесь](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * Скачать как: PDF [здесь](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [здесь](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригинальная электронная книга (ePUB) была удалена BookRix GmbH из-за нарушения авторских прав на материал CC0
 * [Значок замка указывает на безопасное соединение SSL, установленное с помощью MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) по Anonymous
 * [Блокирование глобального активного противника Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) по nym-zone
@@ -132,19 +132,19 @@
 ## Что ты можешь сделать?
 </summary>
 
-* [Прочитайте наш список рекомендуемых действий и поделитесь им с друзьями.](what-to-do.md)
+* [Прочитайте наш список рекомендуемых действий и поделитесь им с друзьями.](../what-to-do.md)
 
-* [Прочитайте голос другого пользователя и напишите свои мысли.](PEOPLE.md)
+* [Прочитайте голос другого пользователя и напишите свои мысли.](../PEOPLE.md)
 
 * Найдите что-нибудь на [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) или [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Обновление списка доменов: [список инструкций](instructions.md).
+* Обновление списка доменов: [список инструкций](../instructions.md).
 
-* Добавить Cloudflare или связанное с проектом событие в [историю](HISTORY.md).
+* Добавить Cloudflare или связанное с проектом событие в [историю](../HISTORY.md).
 
-* Попробуйте и напишите новый [инструмент/скрипт](tool/).
+* Попробуйте и напишите новый [инструмент/скрипт](../tool/).
 
-* Вот некоторые [PDF/ePUB](pdf/) для чтения.
+* Вот некоторые [PDF/ePUB](../pdf/) для чтения.
 
 
 ---

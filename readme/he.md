@@ -138,7 +138,7 @@
 
 * חפש משהו ב- [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) או [Crimeflare \ #Search](https://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* עדכן את רשימת הדומיינים: [הוראות רשימה](instruction.md).
+* עדכן את רשימת הדומיינים: [הוראות רשימה](../instructions.md).
 
 * הוסף Cloudflare או אירוע הקשור לפרויקט ל- [history](../HISTORY.md).
 

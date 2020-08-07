@@ -89,11 +89,11 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 
 
 **Data**
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Mga Gumagamit ng Cloudflare](cloudflare_users/)
-* [Mga Cloud](cloudflare_users/domains/)
-* [Mga gumagamit ng Non-Cloudflare CDN](not_cloudflare/)
-* [Mga gumagamit ng Anti-Tor](anti-tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Mga Gumagamit ng Cloudflare](../cloudflare_users/)
+* [Mga Cloud](../cloudflare_users/domains/)
+* [Mga gumagamit ng Non-Cloudflare CDN](../not_cloudflare/)
+* [Mga gumagamit ng Anti-Tor](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
   * [Karamihan sa mga tao ay nagbasa lamang ng 20-28% ng mga salita sa pahina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md)
 * [Ang Dakilang Cloudwall](article.txt) ni [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * I-download bilang: PDF [dito](pdf/2019-The_Great_Cloudwall.pdf), ePUB [dito](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * I-download bilang: PDF [dito](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [dito](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ang orihinal na eBook (ePUB) ay tinanggal ng BookRix GmbH dahil sa paglabag sa copyright ng materyal na CC0
 * [Ang icon ng Padlock ay nagpapahiwatig ng isang ligtas na koneksyon sa SSL na itinatag w MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ni Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) ni nym-zone
@@ -132,19 +132,19 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 ## Anong pwede mong gawin?
 </summary>
 
-* [Basahin ang aming listahan ng mga inirekumendang aksyon at ibahagi ito sa iyong mga kaibigan.](what-to-do.md)
+* [Basahin ang aming listahan ng mga inirekumendang aksyon at ibahagi ito sa iyong mga kaibigan.](../what-to-do.md)
 
-* [Basahin ang tinig ng ibang gumagamit at isulat ang iyong mga saloobin.](PEOPLE.md)
+* [Basahin ang tinig ng ibang gumagamit at isulat ang iyong mga saloobin.](../PEOPLE.md)
 
 * Maghanap ng isang bagay sa [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) o [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* I-update ang listahan ng domain: [Listahan ng mga tagubilin](instructions.md).
+* I-update ang listahan ng domain: [Listahan ng mga tagubilin](../instructions.md).
 
-* Magdagdag ng Cloudflare o kaganapan na nauugnay sa proyekto sa [kasaysayan](HISTORY.md).
+* Magdagdag ng Cloudflare o kaganapan na nauugnay sa proyekto sa [kasaysayan](../HISTORY.md).
 
-* Subukan at isulat ang bagong [Tool/Script](tool/).
+* Subukan at isulat ang bagong [Tool/Script](../tool/).
 
-* Narito ang ilang mga [PDF/ePUB](pdf/) upang mabasa.
+* Narito ang ilang mga [PDF/ePUB](../pdf/) upang mabasa.
 
 
 ---

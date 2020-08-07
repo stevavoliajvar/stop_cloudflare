@@ -138,7 +138,7 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "_The Great Cloudwa
 
 * Sich eppes op [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) oder [Crimeflare \ #Search](https://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [Update d'Domain Lëscht: Lëscht Instruktiounen](instruction.md).
+* [Update d'Domain Lëscht: Lëscht Instruktiounen](../instructions.md).
 
 * [Fügt Cloudflare oder Projetsbezunnend Event zur Geschicht](../HISTORY.md).
 
