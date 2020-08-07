@@ -73,7 +73,7 @@
 ---
 
 
-## Калі ласка, працягвайце наступную старонку: "[Cloudflare Ethics](README_ethics.md)"
+## Калі ласка, працягвайце наступную старонку: "[Cloudflare Ethics](be.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@
 
 
 ** Дадатковая інфармацыя **
-* [Кароткая версія README](README_short.md) by [Робін Уілс](https://linuxrocks.online/@RMW) `DRAFT`
+* [Кароткая версія README](be.short.md) by [Робін Уілс](https://linuxrocks.online/@RMW) `DRAFT`
   * Вы можаце спытаць, чаму гэты README.md мае так шмат малюнкаў. Над кароткай версіяй ёсць менш малюнкаў.
   * [Большасць людзей чытае толькі 20-28% слоў на старонцы](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Каталог міфаў](myth_catalog.md) `DRAFT`

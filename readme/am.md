@@ -74,7 +74,7 @@
 ---
 
 
-## እባክዎ ወደሚቀጥለው ገጽ ይቀጥሉ-“[Cloudflare Ethics](../README_ethics.md)”
+## እባክዎ ወደሚቀጥለው ገጽ ይቀጥሉ-“[Cloudflare Ethics](am.ethics.md)”
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **ተጨማሪ መረጃ**
-* [የ README አጭር ስሪት](../README_short.md) በ [ሮቢን ዊል](https://linuxrocks.online/@RMW)
+* [የ README አጭር ስሪት](am.short.md) በ [ሮቢን ዊል](https://linuxrocks.online/@RMW)
   * ይህ README.md ለምን ብዙ ምስሎች አሉት? ብለው መጠየቅ ይፈልጉ ይሆናል። ከአጭር ስሪት በላይ ምስሎች ያነሰ አላቸው።
   * [ብዙ ሰዎች በገጹ ላይ ያሉትን ቃላት ከ20-28% ብቻ ያነባሉ](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)።
 * [አፈ-ታሪክ ካታሎግ](አፈታሪክ_ካታሎግ.md)
