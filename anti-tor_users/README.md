@@ -1,10 +1,10 @@
-# Which websites are hostile to _Tor users_?
+# Kiuj retejoj estas malamikaj al Tor-uzantoj?
 
-Don't block us!
+Ne bloku nin!
 
 ![](../image/wearetrulysorry.jpg)
 
-See [instructions.md](../instructions.md) for file purpose and format specifications.
+Bonvolu vidi [instructions.md](../instructions.md) por dosiera celo kaj formato specifoj.
 
 
 
