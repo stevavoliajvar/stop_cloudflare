@@ -74,7 +74,7 @@
 ---
 
 
-##    请继续下一页：  "[Cloudflare道德规范](README_ethics.md)"
+##    请继续下一页：  "[Cloudflare道德规范](zh.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **更多信息**
-* [自述文件的简短版本](README_short.md) , [Robin Wils](https://linuxrocks.online/@RMW)
+* [自述文件的简短版本](zh.short.md) , [Robin Wils](https://linuxrocks.online/@RMW)
   * 您可能想问为什么这个README.md有这么多图像。短版以上的图片较少。
   * [大多数人只阅读页面上20-20％的单词](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)
 * [神话目录](myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-## ביטע פאָרזעצן צו ווייַטער בלאַט: "[קלאָודפלאַרע עטיקס](../README_ethics.md)"
+## ביטע פאָרזעצן צו ווייַטער בלאַט: "[קלאָודפלאַרע עטיקס](yi.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **מער אינפֿאָרמאַציע**
-* [קורץ ווערסיע פון ​​README](../README_short.md) דורך [Robin Wils](https://linuxrocks.online/@RMW)
+* [קורץ ווערסיע פון ​​README](yi.short.md) דורך [Robin Wils](https://linuxrocks.online/@RMW)
   * איר וואָלט ווי צו פרעגן וואָס די README.md האט אַזוי פילע בילדער. העכער קורץ ווערסיע האָבן ווייניקער בילדער.
   * [רובֿ מענטשן לייענען בלויז 20-28% פון די ווערטער אויף דעם בלאַט](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [מיטאָס קאַטאַלאָג](../myth_catalog.md)

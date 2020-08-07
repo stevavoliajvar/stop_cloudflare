@@ -74,7 +74,7 @@
 ---
 
 
-## Jọwọ tẹsiwaju si oju-iwe atẹle: "[Aṣa Cloudflare](README_ethics.md)"
+## Jọwọ tẹsiwaju si oju-iwe atẹle: "[Aṣa Cloudflare](yo.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Ibi ipamọ yii jẹ atokọ ti awọn oju opo wẹẹbu ti o wa lẹhin "_The G
 
 
 ** Alaye diẹ sii **
-* [Ẹya Kukuru ti README](README_short.md) nipasẹ [Robin Wils](https://linuxrocks.online/@RMW)
+* [Ẹya Kukuru ti README](yo.short.md) nipasẹ [Robin Wils](https://linuxrocks.online/@RMW)
   * O le fẹ lati beere idi ti README.md yii ni ọpọlọpọ awọn aworan. Ti ikede kukuru kukuru ni awọn aworan ti o kere si.
   * [Pupọ eniyan nikan ka 20-28% ti awọn ọrọ ti o wa ni oju-iwe](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Iwe akọọlẹ Adaparọ](myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-## Sicela uqhubeke ekhasini elilandelayo: "[Cloudflare Ethics](../README_ethics.md)"
+## Sicela uqhubeke ekhasini elilandelayo: "[Cloudflare Ethics](zu.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Lokhu kugcina uhlu lwamawebhusayithi angemuva kwe- "_The Cloudwall_" enkulu, evi
 
 
 ** Imininingwane Ngini **
-* [Uhlobo olufushane lwe-README](../README_short.md) ngu- [Robin Wils](https://linuxrocks.online/@RMW)
+* [Uhlobo olufushane lwe-README](zu.short.md) ngu- [Robin Wils](https://linuxrocks.online/@RMW)
   * Ungahle uthande ukubuza ukuthi kungani le- README.md inezithombe eziningi kangaka. Ngenhla okufushane kunemifanekiso emincane.
   * [Iningi labantu lifunde kuphela ama-20- 28% wamagama asekhasini](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [I-Myth Catalog](../myth_catalog.md)
