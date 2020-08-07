@@ -138,7 +138,7 @@
 
 * זוך עפּעס אויף [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) אָדער [Crimeflare \ #Search](https://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [דערהייַנטיקן די פעלד רשימה: רשימה ינסטראַקשאַנז](instruction.md).
+* [דערהייַנטיקן די פעלד רשימה: רשימה ינסטראַקשאַנז](../instructions.md).
 
 * [לייג קלאָודפלאַרע אָדער פּרויעקט פֿאַרבונדענע געשעעניש צו געשיכטע](../HISTORY.md).
 
