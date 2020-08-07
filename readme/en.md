@@ -74,7 +74,7 @@
 
 ### Decentralize the internet.
 
-!["Cloudflare is not an option."](image/cfisnotanoption.jpg)
+![](image/cfisnotanoption.jpg)
 
 ---
 
@@ -105,9 +105,9 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 
 
 **More Information**
-* [Short version of README](en.short.md) by [Robin Wils](https://linuxrocks.online/@RMW)
+* [Short version of README](en.short.md)
   * You might want to ask why this README.md has so many images. Above short version have less images.
-  * [Most people only read 20-28% of the words on the page](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
+  * [Most people only read 20-28% of the words on the page.](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)
 * [Myth Catalog](myth_catalog.md)
 * [The Great Cloudwall](article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download as: PDF [here](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -115,8 +115,8 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
   * The ticket was vandalized so many times.
-  * Deleted by the [Tor Project](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). See [ticket 34175](https://trac.torproject.org/projects/tor/ticket/34175).
-  * Last [archive ticket 24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
+  * Deleted by the [Tor Project](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). See ticket [34175](https://trac.torproject.org/projects/tor/ticket/34175).
+  * Last archive ticket [24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
   * They had used Cloudflare in the past. [Added](https://github.com/privacytools/privacytools.io/pull/1205) CF-tor but [removed it](https://github.com/privacytools/privacytools.io/pull/1804).
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
@@ -171,7 +171,7 @@ We never ask your social media.**
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
