@@ -1,8 +1,11 @@
 # CrimeFlarE
-***Why you should say "NO" to Cloudflare***
+
+*Why you should say "NO" to Cloudflare*
+
+---
 
 
-![CrimeFlarE logo](image/crimeflare-logo.png)
+![CrimeFlarE logo](../image/crimeflare-logo.png)
 
 Are you already aware of the problems?
 You might want to check:
@@ -55,7 +58,7 @@ Project Honey Pot is a project which collects a lot of personal data
 and much of that data is from innocent people who deserve privacy.
 Cloudflare was created by people who worked on that project.
 
-![Honeypot](image/honeypot.gif)
+![Honeypot](../image/honeypot.gif)
 
 ### Not convenient
 Cloudflare is not convenient for many visitors of your site. You will
@@ -71,22 +74,22 @@ leave your site when they see this.
 ### Other problems
 There are other problems as well, but we want to keep this file simple.
 Those problems are listed in
-[another file](subfiles/more-cloudflare-problems.md).
+[another file](../subfiles/more-cloudflare-problems.md).
 
 ## Alternatives
 Do own a website?  
 We created a
-[file with Cloudflare alternatives](subfiles/cloudflare-alternatives.md)
+[file with Cloudflare alternatives](../subfiles/cloudflare-alternatives.md)
 to make your life easier if you agree with us.
 ## Solutions
 ### Blocking Cloudflare request or IPs
-- [Add-ons](what-to-do.md#website-consumer)
-- [Cloudflare IPs to block](cloudflare_inc/)
-- [Change default DNS provider of firefox](subfiles/change-firefox-dns.md)
+- [Add-ons](../what-to-do.md#website-consumer)
+- [Cloudflare IPs to block](../cloudflare_inc/)
+- [Change default DNS provider of firefox](../subfiles/change-firefox-dns.md)
 
 ### Share information about the problem
 Many supporters of CrimeFlarE have written some
-[articles](subfiles/articles.md) about the problem.
+[articles](../subfiles/articles.md) about the problem.
 You can check them out and share them.
 
 You can ask website owners to stop using Cloudflare, please do so in
@@ -97,7 +100,7 @@ We haven't included them all in the README to keep it fairly readable.
 
 ## Not convinced yet?
 Many supporters of CrimeFlarE have written some
-[articles](subfiles/articles.md) about the problem.
+[articles](../subfiles/articles.md) about the problem.
 You can check them out and share them.
 
 Still not convinced?  
