@@ -74,7 +74,7 @@
 ---
 
 
-## Indiki sahypa dowam etmegiňizi haýyş edýäris: "[Cloudflare Ethics](../README_ethics.md)"
+## Indiki sahypa dowam etmegiňizi haýyş edýäris: "[Cloudflare Ethics](tk.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "_ The Great Cloudwa
 
 
 **Köp maglumat**
-* [README-iň gysga wersiýasy](../README_short.md) [Robin Wils](https://linuxrocks.online/@RMW)
+* [README-iň gysga wersiýasy](tk.short.md) [Robin Wils](https://linuxrocks.online/@RMW)
   * Bu README.md-iň näme üçin köp suratynyň bardygyny sorap bilersiňiz. Shortokardaky gysga wersiýada suratlar az.
   * [Köp adam sahypadaky sözleriň diňe 20-28% -ini okaýar](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mif katalogy](../myth_catalog.md)

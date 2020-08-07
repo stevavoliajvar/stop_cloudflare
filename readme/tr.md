@@ -73,7 +73,7 @@
 ---
 
 
-## Lütfen sonraki sayfaya devam edin: "[Cloudflare Etik](README_ethics.md)"
+## Lütfen sonraki sayfaya devam edin: "[Cloudflare Etik](tr.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@ Bu depo Tor kullanıcılarını ve diğer CDN'leri engelleyen "Büyük Bulut Duv
 
 
 **Daha fazla bilgi**
-* [Robin Wils] tarafından [README] 'nin kısa versiyonu (README_short.md) (https://linuxrocks.online/@RMW) `DRAFT`
+* [Robin Wils] tarafından [README] 'nin kısa versiyonu (tr.short.md) (https://linuxrocks.online/@RMW) `DRAFT`
   * Bu README.md dosyasının neden bu kadar çok resmi olduğunu sormak isteyebilirsiniz. Kısa versiyonun üstünde daha az resim var.
   * [Çoğu kişi sayfadaki kelimelerin yalnızca% 20-28'ini okur](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Efsane Kataloğu](efsane_kataloğu.md) TASLAK

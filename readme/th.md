@@ -74,7 +74,7 @@
 ---
 
 
-## โปรดไปที่หน้าถัดไป: "[จริยธรรมของ Cloudflare](README_ethics.md)"
+## โปรดไปที่หน้าถัดไป: "[จริยธรรมของ Cloudflare](th.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **ข้อมูลมากกว่านี้**
-* [README รุ่นสั้น](README_short.md) โดย [Robin Wils](https://linuxrocks.online/@RMW)
+* [README รุ่นสั้น](th.short.md) โดย [Robin Wils](https://linuxrocks.online/@RMW)
   * คุณอาจต้องการถามว่าเพราะเหตุใด README.md จึงมีภาพมากมาย เวอร์ชั่นสั้นด้านบนมีภาพน้อย
   * [คนส่วนใหญ่เพียงอ่าน 20-28% ของคำในหน้า](https://movableink.com/blog/29-incredible-stats-that-that-prove-the-power-of-visual-marketing/)
 * [แคตตาล็อกตำนาน](myth_catalog.md)

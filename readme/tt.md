@@ -74,7 +74,7 @@
 ---
 
 
-## Зинһар, киләсе биткә дәвам итегез: "[Cloudflare Ethics](../README_ethics.md)"
+## Зинһар, киләсе биткә дәвам итегез: "[Cloudflare Ethics](tt.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 ** Күбрәк мәгълүмат **
-* [README'ның кыска версиясе](../README_short.md) [Робин Вилс](https://linuxrocks.online/@RMW)
+* [README'ның кыска версиясе](tt.short.md) [Робин Вилс](https://linuxrocks.online/@RMW)
   * Ни өчен бу README.md рәсемнәре күп дип сорарга теләрсез. Кыска версия өстендә рәсемнәр азрак.
   * [Күпчелек кеше биттәге сүзләрнең 20-28% гына укый](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Миф каталогы](../myth_catalog.md)
