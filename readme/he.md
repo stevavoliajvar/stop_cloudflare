@@ -74,7 +74,7 @@
 ---
 
 
-## אנא המשך לדף הבא: "[אתיקה של פרח ענן](../README_ethics.md)"
+## אנא המשך לדף הבא: "[אתיקה של פרח ענן](he.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **עוד מידע**
-* [גרסה קצרה של README](../README_short.md) מאת [רובין וילס](https://linuxrocks.online/@RMW)
+* [גרסה קצרה של README](he.short.md) מאת [רובין וילס](https://linuxrocks.online/@RMW)
   * כדאי לשאול מדוע יש ל- README.md תמונות כה רבות. מעל הגרסה הקצרה יש פחות תמונות.
   * [רוב האנשים קוראים רק 20-28% מהמילים בדף](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [קטלוג מיתוסים](../myth_catalog.md)

@@ -73,7 +73,7 @@
 ---
 
 
-## कृपया अगले पृष्ठ पर जारी रखें: "[क्लाउडफ़ेयर एथिक्स](README_ethics.md)"
+## कृपया अगले पृष्ठ पर जारी रखें: "[क्लाउडफ़ेयर एथिक्स](hi.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@
 
 
 **अधिक जानकारी**
-[[रॉबिन विल्स](https://linuxrocks.online/@RMW) `DRAFT` द्वारा [README का संक्षिप्त संस्करण](README_short.md)
+[[रॉबिन विल्स](https://linuxrocks.online/@RMW) `DRAFT` द्वारा [README का संक्षिप्त संस्करण](hi.short.md)
   * आप पूछना चाहते हैं कि इस README.md में इतने सारे चित्र क्यों हैं। ऊपर लघु संस्करण में कम छवियां हैं।
   * [अधिकांश लोग पृष्ठ पर केवल 20-28% शब्द पढ़ते हैं](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)।
 * [मिथक कैटलॉग](पौराणिक कथा)
