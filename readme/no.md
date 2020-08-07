@@ -74,7 +74,7 @@
 ---
 
 
-## Fortsett til neste side: "[Cloudflare Ethics](../README_ethics.md)"
+## Fortsett til neste side: "[Cloudflare Ethics](no.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Dette depotet er en liste over nettsteder som ligger bak "_The Great Cloudwall_"
 
 
 **Mer informasjon**
-* [Kortversjon av README](../README_short.md) av [Robin Wils](https://linuxrocks.online/@RMW)
+* [Kortversjon av README](no.short.md) av [Robin Wils](https://linuxrocks.online/@RMW)
   * Det kan være lurt å spørre hvorfor denne README.md har så mange bilder. Over kortversjon har mindre bilder.
   * [De fleste leser bare 20-28% av ordene på siden](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)

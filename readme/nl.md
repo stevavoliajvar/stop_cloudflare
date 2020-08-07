@@ -74,7 +74,7 @@
 ---
 
 
-## Ga door naar de volgende pagina:"[Cloudflare Ethics](README_ethics.md)"
+## Ga door naar de volgende pagina:"[Cloudflare Ethics](nl.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Deze repository is een lijst met websites achter "_The Great Cloudwall_", die To
 
 
 **Meer informatie**
-* [Korte versie van README](README_short.md) door [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
+* [Korte versie van README](nl.short.md) door [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
   * Je kunt je afvragen waarom deze README.md zoveel afbeeldingen heeft. Boven de korte versie heb je minder afbeeldingen.
   * [De meeste mensen lezen slechts 20-28% van de woorden op de pagina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md) `DRAFT`

@@ -74,7 +74,7 @@
 ---
 
 
-## ଦୟାକରି ପରବର୍ତ୍ତୀ ପୃଷ୍ଠାକୁ ଜାରି ରଖନ୍ତୁ: "[କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ନ ics ତିକତା](../README_ethics.md)"
+## ଦୟାକରି ପରବର୍ତ୍ତୀ ପୃଷ୍ଠାକୁ ଜାରି ରଖନ୍ତୁ: "[କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ନ ics ତିକତା](or.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 ** ଅଧିକ ସୂଚନା **
-* [README ର ସଂକ୍ଷିପ୍ତ ସଂସ୍କରଣ](../README_short.md) [ରବିନ୍ ୱିଲ୍ସ](https://linuxrocks.online/@RMW)
+* [README ର ସଂକ୍ଷିପ୍ତ ସଂସ୍କରଣ](or.short.md) [ରବିନ୍ ୱିଲ୍ସ](https://linuxrocks.online/@RMW)
   * ଆପଣ ହୁଏତ ପଚାରିବାକୁ ଚାହିଁପାରନ୍ତି କାହିଁକି ଏହି README.md ରେ ଏତେଗୁଡ଼ିଏ ଚିତ୍ର ଅଛି | କ୍ଷୁଦ୍ର ସଂସ୍କରଣ ଉପରେ କମ୍ ପ୍ରତିଛବି ଅଛି |
   * [ଅଧିକାଂଶ ଲୋକ କେବଳ ପୃଷ୍ଠାରେ 20-28% ଶବ୍ଦ ପ read ନ୍ତି](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/) |
 * [ପ th ରାଣିକ କାଟାଲଗ୍](ପୁରାଣ_କାଟାଲଗ୍। Md)
