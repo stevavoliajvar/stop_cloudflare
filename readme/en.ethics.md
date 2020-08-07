@@ -63,7 +63,7 @@ Cloudflare censor [negative reviews](https://web.archive.org/web/20191116004046/
 <details>
 <summary>_click me_
 
-## Doxxing users
+## Share user's private information
 </summary>
 
 
