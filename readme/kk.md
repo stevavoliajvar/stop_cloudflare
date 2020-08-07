@@ -74,7 +74,7 @@
 ---
 
 
-## Келесі бетке өтуді сұраймыз: «[Бұлттар этикасы](../README_ethics.md)»
+## Келесі бетке өтуді сұраймыз: «[Бұлттар этикасы](kk.ethics.md)»
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **Көбірек ақпарат**
-* [README қысқа нұсқасы](../README_short.md) [Робин Уилс](https://linuxrocks.online/@RMW)
+* [README қысқа нұсқасы](kk.short.md) [Робин Уилс](https://linuxrocks.online/@RMW)
   * Осы README.md суреттерінің неге көп екендігі туралы сұрағыңыз келуі мүмкін. Қысқа нұсқада суреттер аз.
   * [Көптеген адамдар парақтағы сөздердің 20-28% оқиды](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Миф каталогы](../myth_catalog.md)

@@ -74,7 +74,7 @@
 ---
 
 
-## សូមបន្តទៅទំព័របន្ទាប់៖ "[Cloudflare Ethics](../README_ethics.md)"
+## សូមបន្តទៅទំព័របន្ទាប់៖ "[Cloudflare Ethics](km.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 **ព័ត៌មាន​បន្ថែម**
-* [កំណែខ្លីនៃ README](../README_short.md) ដោយ [Robin Wils](https://linuxrocks.online/@RMW)
+* [កំណែខ្លីនៃ README](km.short.md) ដោយ [Robin Wils](https://linuxrocks.online/@RMW)
   * អ្នកប្រហែលជាចង់សួរថាហេតុអ្វី README.md នេះមានរូបភាពច្រើន។ កំណែខ្លីខាងលើមានរូបភាពតិចជាង។
   * [មនុស្សភាគច្រើនគ្រាន់តែអាន ២០-២៨% នៃពាក្យនៅលើទំព័រ](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/) ។
 * [កាតាឡុកទេវកថា](../myth_catalog.md)

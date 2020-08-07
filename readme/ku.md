@@ -100,7 +100,7 @@ Vê repoya navnîşek malperên ku li pişt "_The Great Cloudwall_" in, rawestan
 
 
 ** Agahiyên zêdetir **
-* [Kurtediya README](../README_short.md) ji hêla [Robin Wils](https://linuxrocks.online/@RMW)
+* [Kurtediya README](ku.short.md) ji hêla [Robin Wils](https://linuxrocks.online/@RMW)
   * Hûn dikarin bixwazin çima ev README.md ewqas gelek wêne hene. Li jor guhertoya kurt kêmtir wêneyên wan hene.
   * [Piraniya kesan tenê 20-28% ji peyvan li ser rûpelê dixwînin](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalîka Mîtan](mit_catalog.md)
