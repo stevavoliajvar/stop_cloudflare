@@ -32,11 +32,10 @@ Cloudflare uvedl, že používá jejich službu [může zastavit všechny spamme
 Jak můžeme zastavit _Cloudflare spammers_ bez aktivace Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Jak můžeme zastavit _Cloudflare spammers_ bez aktivace Cloudflare?
 Cloudflare censor [negativní recenze](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Pokud na Twitteru zveřejníte text _anti-Cloudflare_, máte šanci získat [odpověď](https://twitter.com/CloudflareHelp/status/1126051764917145601) od [Cloudflare zaměstnance](cloudflare_inc/cloudflare_members.txt) s „_ [Ne, není to](PEOPLE.md) _ ". Pokud na některý web s recenzemi vložíte negativní recenzi, pokusí se [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [sdílí osobní informace](https://archive.ph/ePdvi) z těch [kdo](h
 vaše skutečné ID. Pokud se nechcete nechat obtěžovat, [napadli](https://twitter.com/NiteShade925/status/1158469203420205056), [zahodili](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) nebo [zabitý](https://twitter.com/RusEmbUSA/status/1187363092793040901), raději se držte dál od webů Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Většina států zveřejňuje pouze podmnožinu těchto informací, ale Cloudfl
 Všimněte si, že registrace papíru neobchází Cloudflare, protože tajemník pracovníků státní správy zadávání dat bude pravděpodobně používat
 Webové stránky Cloudflare pro zadávání údajů.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org je slavný web pro shromažďování hlasů a přijímání opatření. „[Lidé na celém světě zahajují kampaně, mobilizují příznivce a spolupracují s tvůrci rozhodnutí na řízení řešení.](https://web.archive.org/web/20200206120027/https://www.change.org/about)“
 Bohužel mnoho lidí nemůže zobrazit change.org vůbec kvůli agresivnímu filtru Cloudflare. Je jim blokováno podepsání petice, čímž jsou vyloučeny z demokratického procesu. Používání jiné platformy bez cloudů, jako je [OpenPetition](https://www.openpetition.eu/content/about_us), pomáhá problém vyřešit.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - „[aténský projekt](https://www.cloudflare.com/athenian/) společnosti Cloudflare nabízí bezplatnou ochranu na celostátní a místní volební stránce na podnikové úrovni. Řekli, že „jejich voliči mají přístup k informacím o volbách a registraci voličů“, ale je to lež, protože mnoho lidí prostě nemůže prohlížet web vůbec.
 
