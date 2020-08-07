@@ -3762,8 +3762,8 @@ Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https
 ## Still defending Cloudflare after all you've read?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wearetrulysorry.jpg)
-
-!["Cloudflare is not an option."](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wearetrulysorry.jpg) | !["Cloudflare is not an option."](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/runbeforeitstoolate.jpg)
