@@ -100,7 +100,7 @@ Kjo depo është një listë e faqeve të internetit që fshihen pas "_ The Grea
 
 
 ** Më shumë informacion **
-* [Versioni i shkurtër i README](../README_short.md) nga [Robin Wils](https://linuxrocks.online/@RMW)
+* [Versioni i shkurtër i README](sq.short.md) nga [Robin Wils](https://linuxrocks.online/@RMW)
   * Ju mund të dëshironi të pyesni pse ky README.md ka kaq shumë imazhe. Mbi versionin e shkurtër kanë më pak imazhe.
   * [Shumica e njerëzve lexojnë vetëm 20-28% të fjalëve në faqe](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalogu i Miteve](mit_catalog.md)
