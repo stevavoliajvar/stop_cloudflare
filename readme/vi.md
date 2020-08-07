@@ -74,7 +74,7 @@
 ---
 
 
-##    Vui lòng tiếp tục đến trang tiếp theo:  "[Cloudflare Ethics](README_ethics.md)"
+##    Vui lòng tiếp tục đến trang tiếp theo:  "[Cloudflare Ethics](vi.ethics.md)"
 
 ---
 
@@ -100,7 +100,7 @@ Kho lưu trữ này là một danh sách các trang web đứng sau mạng "The 
 
 
 **Thêm thông tin**
-* [Phiên bản ngắn của README](README_short.md) của [Robin Wils](https://linuxrocks.online/@RMW)
+* [Phiên bản ngắn của README](vi.short.md) của [Robin Wils](https://linuxrocks.online/@RMW)
   * Bạn có thể muốn hỏi tại sao README.md này có nhiều hình ảnh như vậy. Trên phiên bản ngắn có ít hình ảnh.
   * [Hầu hết mọi người chỉ đọc 20-28% các từ trên trang](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](myth_catalog.md)
