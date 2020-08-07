@@ -1,4 +1,4 @@
-# CDN users FQDN list [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_zc.php)
+# FQDN-listo de CDN-uzantoj [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_zc.php)
 
 
 [//]: # (do not edit me; start)
@@ -8,20 +8,20 @@
 [//]: # (do not edit me; end)
 
 
-- Cloudflare data (code "Z3") is [/cloudflare_users/domains](../../cloudflare_users/domains)
-- See [instructions.md](../../instructions.md) for file purpose and format specifications.
+- Dateno pri Cloudflare (kodo "Z3"): [/cloudflare_users/domains](../../cloudflare_users/domains)
+- Bonvolu vidi [instructions.md](../../instructions.md) por dosiera celo kaj formato specifoj.
 
 ---
 
-# Tor Hostility Rate (Tor Browser)
+# Malamikeco kontraŭ Tor (Tor Browser)
 
-- A combined result of _Anti-Tor users_ and _CDN users_.
-- We cannot provide Z1 and Z5 result due to memory limit.
-- Cloudflare made an exception to Tor Browser signature. You will be blocked by Cloudflare if you use [other browser with Tor](../../README_ethics.md#user-content-browser-vendor-discrimination).
+- Kombinita rezulto de _Kontraŭ-Tor uzantoj_ kaj _CDN uzantoj_.
+- Ni ne povas provizi rezulton Z1 kaj Z5 pro memora limo.
+- Cloudflare faris escepton de AAA. Cloudflare blokos vin se vi uzas [alian retumilon](../../README_ethics.md#user-content-browser-vendor-discrimination) kun Tor.
 
 [//]: # (start; table / do not edit me; If necessary please create an issue first)
 
-| CDN Code | Name | % of base domains blocked |
+| CDN-Kodo | Nomo | % de bazaj domajnoj estas blokitaj |
 | -------- | -------- | -------- |
 | Z2 | Akamai | 39.949 % |
 | Z3 | Cloudflare | 1.603 % |

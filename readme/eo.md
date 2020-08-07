@@ -1,4 +1,4 @@
-# La Granda Nubo
+# La Granda Nubmuro
 
 
 
@@ -13,7 +13,7 @@
 
 |  🖹  |  🖼 |
 | --- | --- |
-|  "La Granda Nubo" estas [Cloudflare Inc.](https://www.cloudflare.com/), la usona kompanio. Ĝi ofertas [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)(enhav-liverantan reton) servojn, [DDoS-mildigon](https://en.wikipedia.org/wiki/DDoS_mitigation), [interretan sekurecon](https://en.wikipedia.org/wiki/Internet_security), kaj distribuitajn [DNS](https://eo.wikipedia.org/wiki/Domajna_nomsistemo)(domajnajn servilajn servojn).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
+|  "La Granda Nubmuro" estas [Cloudflare Inc.](https://www.cloudflare.com/), la usona kompanio. Ĝi ofertas [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)(enhav-liverantan reton) servojn, [DDoS-mildigon](https://en.wikipedia.org/wiki/DDoS_mitigation), [interretan sekurecon](https://en.wikipedia.org/wiki/Internet_security), kaj distribuitajn [DNS](https://eo.wikipedia.org/wiki/Domajna_nomsistemo)(domajnajn servilajn servojn).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
 |  Cloudflare estas la plej [granda](https://w3techs.com/technologies/history_overview/proxy) MITM-prokuro de la [mondo](https://almanac.httparchive.org/en/2019/cdn)(reversa prokuro). Cloudflare posedas [pli ol](https://w3techs.com/technologies/history_overview/proxy) [80% de la merkata kotizo de CDN](https://w3techs.com/technologies/history_overview/proxy) kaj la nombro da [uzantoj de Cloudflare](../cloudflare_users/) kreskas ĉiutage. Ili pligrandigis sian reton al pli ol [100 landoj](https://blog.cloudflare.com/cloudflare-network-expands-to-more-than-100-countries/). Cloudflare servas [pli multe](https://wp-rocket.me/blog/cloudflare-use-not/) da retejo-trafiko ol [Twitter](https://eo.wikipedia.org/wiki/Twitter), [Amazon](https://eo.wikipedia.org/wiki/Amazon.com), [Apple](https://eo.wikipedia.org/wiki/Apple), [Instagram](https://eo.wikipedia.org/wiki/Instagram), [Bing](https://eo.wikipedia.org/wiki/Bing_(retejo)) kaj [Vikipedio](https://eo.wikipedia.org/wiki/Wikipedia). Cloudflare ofertas [senpagan planon](https://www.cloudflare.com/plans/) kaj multaj homoj uzas ĝin anstataŭ agordi siajn servilojn ĝuste. Ili interŝanĝis [privatecon](https://eo.wikipedia.org/wiki/Privateco) per oportuno.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg)  |
 |  Cloudflare sidas inter vi kaj origina retejo, agante kiel [landlima patrolagento](https://www.cbp.gov/careers/bpa). Vi ne kapablas konekti al via elektita celloko. Vi konektas al Cloudflare kaj ĉiuj viaj informoj estas deĉifritaj kaj transdonita en reala tempo. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/border_patrol.jpg)  |
 |  La origina reteja administranto permesis al la agento - Cloudflare - decidi, [kiu povas aliri](https://web.archive.org/web/https://gitlab.com/iblech/tor-appeal/issues/1) al sia "_reteja posedaĵo_" kaj difini "_restriktitan areon_".  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/usershoulddecide.jpg)  |
@@ -86,7 +86,7 @@
 </summary>
 
 
-Ĉi tiu deponejo estas listo de retejoj malantaŭ "_La Granda Nubo_", blokante Tor-uzantojn kaj aliajn CDNojn.
+Ĉi tiu deponejo estas listo de retejoj malantaŭ "_La Granda Nubmuro_", blokante Tor-uzantojn kaj aliajn CDNojn.
 
 
 **Datumoj**

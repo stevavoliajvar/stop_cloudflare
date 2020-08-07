@@ -1,14 +1,14 @@
-## CDN CIDR(IPv4) list  (cidr_cdnName.txt)
+## CDN CIDR(IPv4)  (cidr_cdnName.txt)
 
-- Cloudflare CIDR is [cloudflare_inc/cloudflare_CIDR_v4.txt](../../cloudflare_inc/cloudflare_CIDR_v4.txt)
-
-
-
-
-## ASN list  (asn_cdnName.txt)
-
-- Cloudflare ASN is [cloudflare_inc/cloudflare_owned_ASN.txt](../../cloudflare_inc/cloudflare_owned_ASN.txt)
+- Cloudflare CIDR: [cloudflare_inc/cloudflare_CIDR_v4.txt](../../cloudflare_inc/cloudflare_CIDR_v4.txt)
 
 
 
-See [instructions.md](../../instructions.md) for file purpose and format specifications.
+
+## ASN  (asn_cdnName.txt)
+
+- Cloudflare ASN: [cloudflare_inc/cloudflare_owned_ASN.txt](../../cloudflare_inc/cloudflare_owned_ASN.txt)
+
+
+
+Bonvolu vidi [instructions.md](../../instructions.md) por dosiera celo kaj formato specifoj.

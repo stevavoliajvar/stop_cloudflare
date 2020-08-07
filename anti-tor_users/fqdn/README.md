@@ -1,4 +1,4 @@
-# Anti-Tor users FQDN list [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_at.php)
+# Kontraŭ-Tor uzantoj FQDN-listo [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_at.php)
 
 
 [//]: # (do not edit me; start)
@@ -8,14 +8,14 @@
 [//]: # (do not edit me; end)
 
 
-- Not all Tor users are bad. Do not punish everyone.
-  - How do you feel if someone block you for no reason?
-  - Using Tor is not a crime.
-- Blocking Tor is not a solution. There are VPNs, webproxies, and botnets.
+- Ne ĉiuj uzantoj de Tor estas malbonaj. Ne punu ĉiujn.
+  - Kiel vi sentas, se iu blokas vin sen kialo?
+  - Uzi Tor ne estas krimo.
+- Blokado de Tor ne estas solvo. Estas VPNj, retprogramoj kaj prokuroj.
 
 
 ![](../../image/anonexist.jpg)
 
 
-- See [instructions.md](../../instructions.md) for file purpose and format specifications.
-- [Tor Hostility Rate](../../not_cloudflare/domains/README.md)
+- Bonvolu vidi [instructions.md](../../instructions.md) por dosiera celo kaj formato specifoj.
+- [Malamikeco kontraŭ Tor](../../not_cloudflare/domains/README.md)

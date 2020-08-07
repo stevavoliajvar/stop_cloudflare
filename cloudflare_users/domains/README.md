@@ -1,4 +1,4 @@
-# Cloudflare users domain list [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_cf.php)
+# Domajna listo de uzantoj de Cloudflare [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_cf.php)
 
 
 [//]: # (do not edit me; start)
@@ -8,4 +8,4 @@
 [//]: # (do not edit me; end)
 
 
-- See [instructions.md](../../instructions.md) for file purpose and format specifications.
+- Bonvolu vidi [instructions.md](../../instructions.md) por dosiera celo kaj formato specifoj.
