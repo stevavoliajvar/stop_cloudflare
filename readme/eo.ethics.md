@@ -49,9 +49,9 @@ Kiel ni povas deteni Cloudflare-spamistojn sen aktivigi Cloudflare?
 </summary>
 
 
-Cloudflare-cenzuraj negativaj recenzoj.
-Se vi afiŝas kontraŭ-Cloudflare tekston en Tvitero, vi havas la eblecon ricevi respondon de la oficisto de Cloudflare per mesaĝo "Ne, ĝi ne".
-Se vi afiŝas negativan recenzon en iu ajn revizia retejo, ili provos cenzuri ĝin.
+Cloudflare cenzuraj [negativaj recenzoj](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853).
+Se vi afiŝas kontraŭ-Cloudflare tekston en Tvitero, vi havas la eblecon ricevi [respondon](https://twitter.com/CloudflareHelp/status/1126051764917145601) de la oficisto de Cloudflare per mesaĝo "[Ne, ĝi ne](../PEOPLE.md)".
+Se vi afiŝas negativan recenzon en iu ajn revizia retejo, ili provos [cenzuri ĝin](https://twitter.com/phyzonloop/status/1178836176985366529).
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
@@ -69,10 +69,10 @@ Se vi afiŝas negativan recenzon en iu ajn revizia retejo, ili provos cenzuri ĝ
 </summary>
 
 
-Cloudflare havas amasan problemon pri ĉikanado.
-Cloudflare dividas personajn informojn de tiuj, kiuj plendas pri gastigitaj retejoj.
+Cloudflare havas [amasan problemon](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5) pri ĉikanado.
+Cloudflare [dividas personajn informojn](https://archive.ph/ePdvi) de tiuj, kiuj plendas pri gastigitaj retejoj.
 Ili foje petas vin provizi vian veran ID.
-Se vi ne volas esti persekutata, atakita, mortigita aŭ mortigita, vi prefere restu for de la retejo de Nubokovritaj.
+Se vi ne volas esti persekutata, atakita, mortigita aŭ mortigita, vi prefere restu for de la retejo de Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
@@ -96,7 +96,7 @@ Se vi ne volas esti persekutata, atakita, mortigita aŭ mortigita, vi prefere re
 
 CloudFlare petas bonfarajn kontribuojn.
 Sufiĉe terure, ke usona korporacio petus bonfaradon kune kun neprofitociaj organizoj, kiuj havas bonajn kaŭzojn.
-Se vi ŝatas bloki homojn aŭ malŝpari tempon de aliaj homoj, vi eble volas mendi iujn pizzojn por dungitoj de Cloudflare.
+Se vi ŝatas bloki homojn aŭ malŝpari tempon de aliaj homoj, vi eble volas mendi iujn pizzojn🍕 por dungitoj de Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -114,7 +114,7 @@ Se vi ŝatas bloki homojn aŭ malŝpari tempon de aliaj homoj, vi eble volas men
 
 Kion vi faros se via retejo subite falas?
 Estas raportoj, ke Cloudflare forigas la agordon de la uzanto aŭ ĉesigas servon sen ia ajn averto silente.
-Ni sugestas al vi trovi pli bonan provizanton.
+Ni sugestas al vi trovi pli [bonan provizanton](../what-to-do.md).
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -139,8 +139,8 @@ Tor-uzantoj, kiuj rajte rifuzas ekzekuti senpage ĝavaskripton, ankaŭ ricevas m
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Maldekstre: `[Tor Browser] Ĝavoskripto Malaktivigita, Kuketa Enŝaltita`
-- Dekstre: `[Chrome] Ĝavoskripto Enŝaltita, Kuketa Malaktivigita`
+- Maldekstre: `[Tor Browser] Ĝavoskripto Malaktivigita, Kuketo Enŝaltita`
+- Dekstre: `[Chrome] Ĝavoskripto Enŝaltita, Kuketo Malaktivigita`
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
@@ -148,7 +148,7 @@ Tor-uzantoj, kiuj rajte rifuzas ekzekuti senpage ĝavaskripton, ankaŭ ricevas m
 
 | ***Retumilo*** | ***Alira traktado*** |
 | --- | --- |
-| Tor Browser (Ĝavoskripto enŝaltita) | aliro estas permesata |
+| Tor Browser (Ĝavoskripto enŝaltita) | aliro permesatis |
 | Firefox (Ĝavoskripto enŝaltita) | aliro degradis |
 | Chromium (Ĝavoskripto enŝaltita) | aliro degradis (puŝas CAPTCHA) |
 | Chromium or Firefox (Ĝavoskripto malaktivigita) | aliro rifuzita (puŝas CAPTCHA) |
@@ -159,7 +159,7 @@ Tor-uzantoj, kiuj rajte rifuzas ekzekuti senpage ĝavaskripton, ankaŭ ricevas m
 | wget | aliro rifuzita |
 
 
-"_Kial ne uzi Audio-butonon por solvi facilan defion?_"
+"_Kial ne uzi Aŭdio-butonon por solvi facilan defion?_"
 
 Jes, estas sonbutono, sed ĝi ĉiam ne funkcias super Tor.
 Vi ricevos ĉi tiun mesaĝon kiam vi alklakos ĝin:
@@ -198,7 +198,7 @@ Notu, ke papera registrado ne evitas Cloudflare ĉar la sekretario de ŝtataj en
 "[Homoj ĉie komencas kampanjojn, mobilizante subtenantojn kaj laboras kun decidantoj por instigi solvojn.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Bedaŭrinde multaj homoj tute ne povas vidi change.org pro la agresema filtrilo de Cloudflare.
 Oni blokas ilin subskribi la peticion, ekskludante ilin de demokratia procezo.
-Uzi aliajn ne-nubokovritajn platformojn kiel OpenPetition helpas remedii la problemon.
+Uzi aliajn ne-Cloudflare platformojn kiel OpenPetition helpas remedii la problemon.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
@@ -267,7 +267,7 @@ Kiel vi povas fidi Cloudflare se ilia privateca politiko estas mensogo?
 </summary>
 
 
-Forigi Cloudflare-konton estas malfacila nivelo.
+Forigi konton de Cloudflare estas malfacila nivelo.
 
 ```
 Sendu subtenan bileton per la kategorio "Konto", 
@@ -287,7 +287,7 @@ Vi ricevos ĉi tiun konfirman retpoŝton.
 
 ---
 
-## Bonvolu daŭrigi la sekvan paĝon:   "[Cloudflare Voices](../PEOPLE.md)"
+## Bonvolu daŭrigi al sekva paĝo:   "[Cloudflare Voices](../PEOPLE.md)"
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
