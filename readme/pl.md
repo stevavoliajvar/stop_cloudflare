@@ -74,7 +74,7 @@
 ---
 
 
-## Przejdź do następnej strony: „[Cloudflare Ethics](README_ethics.md)”
+## Przejdź do następnej strony: „[Cloudflare Ethics](pl.ethics.md)”
 
 ---
 
@@ -100,7 +100,7 @@ To repozytorium to lista stron internetowych, które stoją za „_The Great Clo
 
 
 **Więcej informacji**
-* [Krótka wersja pliku README](README_short.md) autorstwa [Robin Wils](https://linuxrocks.online/@RMW)
+* [Krótka wersja pliku README](pl.short.md) autorstwa [Robin Wils](https://linuxrocks.online/@RMW)
   * Możesz zapytać, dlaczego ten plik README.md zawiera tak wiele obrazów. Powyższa krótka wersja ma mniej zdjęć.
   * [Większość ludzi czyta tylko 20-28% słów na stronie](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog mitów](myth_catalog.md)

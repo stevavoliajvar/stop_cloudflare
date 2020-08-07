@@ -73,7 +73,7 @@
 ---
 
 
-## Vă rugăm să continuați la pagina următoare: "[Etică în cloudflare](README_ethics.md)"
+## Vă rugăm să continuați la pagina următoare: "[Etică în cloudflare](ro.ethics.md)"
 
 ---
 
@@ -99,7 +99,7 @@ Acest depozit este o listă de site-uri web care se află în spatele "_ Marelui
 
 
 **Mai multe informatii**
-* [Versiunea scurtă a README](README_short.md) de [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
+* [Versiunea scurtă a README](ro.short.md) de [Robin Wils](https://linuxrocks.online/@RMW) `DRAFT`
   * Poate doriți să vă întrebați de ce acest README.md are atât de multe imagini. Deasupra versiunii scurte aveți mai puține imagini.
   * [Majoritatea oamenilor citesc doar 20-28% din cuvintele de pe pagină](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalogul mitului](mit_catalog.md) `DRAFT`
