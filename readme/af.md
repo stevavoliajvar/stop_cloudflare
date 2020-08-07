@@ -89,11 +89,11 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter “The Great Cloudwall” st
 
 
 **Data**
-* [Cloudflare Inc.](cloudflare_inc/)
-* [Cloudflare-gebruikers](cloudflare_users/)
-* [Cloudflare-domeine](cloudflare_users/domains/)
-* [Nie-Cloudflare CDN-gebruikers](not_cloudflare/)
-* [Anti-Tor-gebruikers](anti-tor_users/)
+* [Cloudflare Inc.](../cloudflare_inc/)
+* [Cloudflare-gebruikers](../cloudflare_users/)
+* [Cloudflare-domeine](../cloudflare_users/domains/)
+* [Nie-Cloudflare CDN-gebruikers](../not_cloudflare/)
+* [Anti-Tor-gebruikers](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
@@ -105,7 +105,7 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter “The Great Cloudwall” st
   * [Die meeste mense lees slegs 20-28% van die woorde op die bladsy](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mite katalogus](myth_catalog.md)
 * [The Great Cloudwall](article.txt) deur [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * Laai af as: PDF [hier](pdf/2019-The_Great_Cloudwall.pdf), ePUB [hier](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * Laai af as: PDF [hier](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hier](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Die oorspronklike e-boek (ePUB) is deur BookRix GmbH uitgevee weens die kopieregskending van CC0-materiaal
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) deur Anonymous
 * [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) deur nym-zone
@@ -132,19 +132,19 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter “The Great Cloudwall” st
 ## Wat kan jy doen?
 </summary>
 
-* [Lees ons lys met aanbevole aksies en deel dit met jou vriende.](what-to-do.md)
+* [Lees ons lys met aanbevole aksies en deel dit met jou vriende.](../what-to-do.md)
 
-* [Lees die stem van 'n ander gebruiker en skryf jou gedagtes.](PEOPLE.md)
+* [Lees die stem van 'n ander gebruiker en skryf jou gedagtes.](../PEOPLE.md)
 
 * Soek iets op [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) of [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Dateer die domeinlys op: [lys instruksies](instructions.md).
+* Dateer die domeinlys op: [lys instruksies](../instructions.md).
 
-* Voeg Cloudflare of projekgebeurtenis by die [geskiedenis](HISTORY.md).
+* Voeg Cloudflare of projekgebeurtenis by die [geskiedenis](../HISTORY.md).
 
-* Probeer en skryf 'n nuwe [instrument/teks](tool/).
+* Probeer en skryf 'n nuwe [instrument/teks](../tool/).
 
-* Hier is 'n paar [PDF/ePUB](pdf/) om te lees.
+* Hier is 'n paar [PDF/ePUB](../pdf/) om te lees.
 
 
 ---
@@ -166,7 +166,7 @@ Ons vra nooit u sosiale media nie.**
 
 ---
 
-![WTF](image/wtfcf.jpg)
+![](image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
