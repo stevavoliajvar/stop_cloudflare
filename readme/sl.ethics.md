@@ -32,11 +32,10 @@ Cloudflare je dejal, da bo z njihovo storitvijo [lahko ustavi vse neželene poš
 Kako lahko ustavimo _Cloudflare spammers_, ne da bi aktivirali Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Kako lahko ustavimo _Cloudflare spammers_, ne da bi aktivirali Cloudflare?
 Cloudflare cenzor [negativna mnenja](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Če na spletnem mestu Twitter objavite besedilo _anti-Cloudflare_, lahko dobite [odgovor](https://twitter.com/CloudflareHelp/status/1126051764917145601) od [uslužbenec Cloudflare](cloudflare_inc/cloudflare_members.txt) z "_[Ne, ni](PEOPLE.md) _ "sporočilo. Če na katerem koli spletnem mestu objavite negativno mnenje, bodo poskušali [cenzor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [deli osebne podatke](https://archive.ph/ePdvi) tistih, ki [ki](https
 vaš pravi ID. Če ne želite biti nadlegovani, [napadli](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ali [ubit](https://twitter.com/RusEmbUSA/status/1187363092793040901), bolje se izogibajte spletnim mestom v oblaku.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Večina držav javno objavi le del teh informacij, vendar Cloudflare vidi *** vs
 Upoštevajte, da registracija papirja ne zaobide Cloudflareja, ker bodo uslužbenci državnih uslužbencev za vnos podatkov verjetno uporabljali
 Spletno mesto Cloudflare za vnos podatkov.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org je znano spletno mesto za zbiranje glasov in ukrepanje. "[ljudje povsod začenjajo kampanje, zbirajo podpornike in sodelujejo z nosilci odločanja za iskanje rešitev.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Na žalost si mnogi ne morejo ogledati change.org zaradi agresivnega filtra Cloudflare. Blokirajo jim podpise peticije in jih tako izključujejo iz demokratičnega postopka. Uporaba druge platforme brez oblaka, kot je [OpenPetition](https://www.opentification.eu/content/about_us), pomaga odpraviti težavo.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflarejev "[atenski projekt](https://www.cloudflare.com/athenian/)" ponuja brezplačno zaščito na ravni podjetij na državnih in lokalnih spletnih volitvah. Dejali so, da "njihovi volivci lahko dostopajo do informacij o volitvah in registracije volivcev_", vendar je to laž, ker veliko ljudi preprosto ne more brskati po spletnem mestu.
 

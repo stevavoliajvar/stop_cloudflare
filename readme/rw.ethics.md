@@ -32,11 +32,10 @@ Cloudflare yavuze ko gukoresha serivise zabo [zishobora guhagarika abandika ubut
 Nigute dushobora guhagarika _Ibikoresho byohereza ibicuruzwa_ tutiriwe dukora Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -183,8 +182,9 @@ Intara nyinshi zituma gusa igice cyayo makuru kiboneka kumugaragaro, ariko Cloud
 Menya ko kwandikisha impapuro bitazenguruka Cloudflare kuko umunyamabanga wa leta abakozi ba enterineti abakozi bazakoresha
 Urubuga Cloudflare kugirango winjize amakuru.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Guhindura.org ni urubuga ruzwi rwo gukusanya amajwi no gufata ingamba. "[abantu aho bari hose batangira ubukangurambaga, gukangurira abayoboke, no gukorana n'abafata ibyemezo kugira ngo batange ibisubizo.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Kubwamahirwe, abantu benshi ntibashobora kureba impinduka.org na gato kubera gushungura kwa Cloudflare. Barabujijwe gushyira umukono ku cyifuzo, bityo ntibakure mu nzira ya demokarasi. Gukoresha ubundi buryo butari ibicu nka [GufunguraPetition](https://www.openpetition.eu/content/about_us) bifasha gukemura ikibazo.
