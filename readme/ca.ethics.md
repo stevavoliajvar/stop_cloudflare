@@ -32,11 +32,10 @@ Cloudflare va dir que utilitzant el seu servei [pot detenir tots els spammers o 
 Com podem aturar _Cloudflare spammers_ sense activar Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Com podem aturar _Cloudflare spammers_ sense activar Cloudflare?
 Censor de núvols [crítiques negatives](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Si publiqueu un text _anti-Cloudflare_ a Twitter, podeu tenir una resposta (https://twitter.com/CloudflareHelp/status/1126051764917145601) a [empleat Cloudflare](cloudflare_inc/cloudflare_members.txt) amb "_[No, no ho és](PEOPLE.md) _ "Missatge. Si publiqueu una revisió negativa en qualsevol lloc de revisió, provaran de [censurar](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [comparteix informació personal](https://archive.ph/ePdvi) dels [que
 el vostre veritable DNI. Si no voleu ser assetjat, [assaltat](https://twitter.com/NiteShade925/status/1158469203420205056), [suplicat](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) o [assassinat](https://twitter.com/RusEmbUSA/status/1187363092793040901), millor mantenir-se lluny dels llocs web Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ La majoria dels estats només fan públics un subconjunt d'aquesta informació, 
 Tingueu en compte que el registre en paper no defuig Cloudflare perquè el secretari dels treballadors del personal d'entrada de dades estatals probablement l'utilitzarà
 Lloc web de Cloudflare per introduir les dades.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org és un famós lloc web per reunir vots i prendre mesures. "[La gent de tot arreu inicia campanyes, mobilitza els partidaris i treballa amb els responsables de decisió per impulsar solucions.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Malauradament, moltes persones no poden veure en absolut change.org a causa de l’agressiu filtre de Cloudflare. Se’ls està bloquejant de signar la petició, excloent-los així d’un procés democràtic. Si utilitzeu altres plataformes no ennuvolades, com ara [OpenPetition](https://www.openpetition.eu/content/about_us), es pot solucionar el problema.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - El "[Projecte atenenc] de Cloudflare (https://www.cloudflare.com/athenian/)" ofereix una protecció gratuïta a nivell empresarial als llocs web de les eleccions locals i estatals. Van dir que "els electors poden accedir a la informació electoral i el registre de votants", però això és una mentida, ja que moltes persones no poden navegar pel lloc.
 

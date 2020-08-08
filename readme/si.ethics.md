@@ -32,11 +32,10 @@ Cloudflare විසින් Cloudflare නොවන පරිශීලකය�
 Cloudflare සක්‍රිය නොකර _Cloudflare spammers_ නැවැත්විය හැක්කේ කෙසේද?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Cloudflare සක්‍රිය නොකර _Cloudflare spammers_ නැවැ
 Cloudflare වාරණය [negative ණාත්මක සමාලෝචන](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). ඔබ ට්විටර් හි _anti-Cloudflare_ පෙළ පළ කරන්නේ නම්, ඔබට [Cloudflare සේවකයා](cloudflare_inc/cloudflare_members.txt) වෙතින් [පිළිතුර](https://twitter.com/CloudflareHelp/status/1126051764917145601) ලබා ගැනීමට අවස්ථාවක් තිබේ. [නැත, එය එසේ නොවේ](PEOPLE.md) _ "පණිවිඩය. ඔබ කිසියම් සමාලෝචන අඩවියක negative ණාත්මක සමාලෝචනයක් පළ කරන්නේ නම්, ඔවුන් [වාරණය කිරීමට] උත්සාහ කරයි (https://twitter.com/phyzonloop/status/1178836176985366529) [එය](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [පුද්ගලික තොරතුරු බෙදා ගන�
 ඔබේ සත්‍ය හැඳුනුම්පත. ඔබට හිරිහැර කිරීමට අවශ්‍ය නැතිනම්, [පහරදීම](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) හෝ [killed ාතනය](https://twitter.com/RusEmbUSA/status/1187363092793040901), ඔබ Cloudflared වෙබ් අඩවි වලින් stay ත්ව සිටීම හොඳය.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ CloudFlare පුණ්‍යාධාර සඳහා [ඉල්ලයි](http
 කඩදාසි ලියාපදිංචි කිරීම ක්ලවුඩ්ෆ්ලෙයාර් මගහරින්නේ නැති නිසා රාජ්‍ය දත්ත ඇතුළත් කිරීමේ කාර්ය මණ්ඩල සේවකයින්ගේ ලේකම් විසින් මෙය භාවිතා කරනු ඇති බව සලකන්න
 දත්ත ඇතුළත් කිරීමට Cloudflare වෙබ් අඩවිය.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org යනු ඡන්ද රැස් කිරීම සහ පියවර ගැනීම සඳහා ප්‍රසිද්ධ වෙබ් අඩවියකි. "[සෑම තැනකම සිටින පුද්ගලයින් උද් s ෝෂන ආරම්භ කිරීම, ආධාරකරුවන් බලමුලු ගැන්වීම සහ විසඳුම් ලබා ගැනීම සඳහා තීරණ ගන්නන් සමඟ වැඩ කිරීම.](https://web.archive.org/web/20200206120027/https://www.change.org/about)
 අවාසනාවකට මෙන්, Cloudflare හි ආක්‍රමණශීලී පෙරණය හේතුවෙන් බොහෝ දෙනෙකුට change.org නැරඹිය නොහැක. පෙත්සමට අත්සන් කිරීමෙන් ඔවුන්ව අවහිර කරනු ලැබේ, එබැවින් ඔවුන් ප්‍රජාතන්ත්‍රවාදී ක්‍රියාවලියකින් බැහැර කරනු ලැබේ. [OpenPetition](https://www.openpetition.eu/content/about_us) වැනි වලාකුළු රහිත වේදිකාවක් භාවිතා කිරීම ගැටළුව විසඳීමට උපකාරී වේ.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare හි “[ඇතීනියානු ව්‍යාපෘතිය](https://www.cloudflare.com/athenian/)” රාජ්‍ය හා පළාත් පාලන මැතිවරණ වෙබ් අඩවි සඳහා නොමිලේ ව්‍යවසාය මට්ටමේ ආරක්ෂාවක් සපයයි. ඔවුන් කියා සිටියේ "ඔවුන්ගේ සං ents ටකයන්ට මැතිවරණ තොරතුරු සහ ඡන්ද දායකයින් ලියාපදිංචි කිරීම_" යනුවෙනි. නමුත් මෙය බොරුවකි. මන්ද බොහෝ දෙනෙකුට වෙබ් අඩවිය පිරික්සීමට නොහැකි බැවිනි.
 

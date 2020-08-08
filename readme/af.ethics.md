@@ -32,11 +32,10 @@ Cloudflare het gesê die gebruik van hul diens [kan alle spammers of aanvallers 
 Hoe kan ons _Cloudflare-spammers_ stop sonder om Cloudflare te aktiveer?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Hoe kan ons _Cloudflare-spammers_ stop sonder om Cloudflare te aktiveer?
 Cloudflare-sensuur [negatiewe resensies](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). As u _anti-Cloudflare_-teks op Twitter plaas, het u die kans om 'n [antwoord] te kry (https://twitter.com/CloudflareHelp/status/1126051764917145601) van [Cloudflare-werknemer](cloudflare_inc/cloudflare_members.txt) met "_[Nee, dit is nie](PEOPLE.md) _ "-boodskap nie. As u 'n negatiewe resensie op enige beoordelingswebwerf plaas, sal hulle probeer om [sensuur](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [deel persoonlike inligting](https://archive.ph/ePdvi) van diegene wa
 u ware ID. As u nie geteister wil word nie, [aangerand](https://twitter.com/NiteShade925/status/1158469203420205056), [geswot](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) of [vermoor](https://twitter.com/RusEmbUSA/status/1187363092793040901), jy moet beter wegbly van Cloudflared-webwerwe.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Die meeste state maak slegs 'n deelversameling van die inligting in die openbaar
 Let daarop dat papierregistrasie nie Cloudflare omseil nie omdat die sekretaris van werknemers van die staat se inligtingstoerusting waarskynlik die
 Cloudflare-webwerf om die data in te voer.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org is 'n bekende webwerf vir die insameling van stemme en aksies. "[mense oral begin veldtogte, mobiliseer ondersteuners en werk saam met besluitnemers om oplossings te kry.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Ongelukkig kan baie mense glad nie verander.org nie agv Cloudflare se aggressiewe filter. Hulle word geblokkeer om die petisie te onderteken en word hulle dus van 'n demokratiese proses uitgesluit. Die gebruik van 'n ander platform wat nie met 'n wolk verweer is nie, soos [OpenPetition](https://www.openpetition.eu/content/about_us), help om die probleem op te los.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare se "[Atheense projek](https://www.cloudflare.com/athenian/)" bied gratis beskerming op ondernemingsvlak aan webwerwe vir plaaslike en plaaslike verkiesings. Hulle het gesê "hul kiesers kan toegang tot verkiesingsinligting en registrasie van kiesers kry", maar dit is 'n leuen omdat baie mense eenvoudig nie die webwerf kan besoek nie.
 

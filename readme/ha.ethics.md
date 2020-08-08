@@ -32,11 +32,10 @@ Cloudflare ya ce amfani da sabis na su [zai iya dakatar da duk masu yin zagon ka
 Ta yaya za mu dakatar da _Cloudflare spammers_ ba tare da kunna Cloudflare ba?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Bayanin bayani>
 Censor Cloudflare [sake dubawa mara kyau](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Idan kayi posting na _anti-Cloudflare_ rubutu akan Twitter, kana da damar samun [amsa](https://twitter.com/CloudflareHelp/status/1126051764917145601) daga [Cloudflare_inc/Cloudflare_members.txt) tare da "_[A'a, ba haka ba ne) (MUTANE.md) _ "saƙo. Idan kayi posting mara kyau akan kowane shafi na bita, zasuyi kokarin [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672) ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [yana raba bayanan mutum](https://archive.ph/ePdvi) na wadanda [wa](h
 ID na gaskiya. Idan ba kwa son fitina, [kai hari](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ko [an kashe](https://twitter.com/RusEmbUSA/status/1187363092793040901), zai fi kyau nesa da gidajen yanar gizon Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Yawancin jihohi suna ba da tsarin wannan bayanan ne a bainar jama'a, amma Cloudf
 Ka lura cewa rajistar takarda ba ta murƙushe Cloudflare saboda sakataren ma’aikatan shigarwa na bayanan ƙungiyar za su yi amfani da
 Gidan yanar gizon Cloudflare don shigar da bayanai.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org shahararren gidan yanar gizo ne na tara kuri'un da daukar mataki. "[mutane a ko'ina suna fara kamfen, suna tattara magoya bayansu, kuma suna aiki tare da masu yanke hukunci don fitar da mafita.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Abin baƙin ciki, mutane da yawa ba za su iya kallon canjin.org kwata-kwata saboda matattara mai ƙarfi na Cloudflare. An toshe su daga rattaba hannu kan takarda kai, don haka keɓe su daga tsarin dimokiraɗiyya. Yin amfani da wasu dandamali mara amfani kamar girgije kamar (OpenPetition](https://www.openpetition.eu/content/about_us) yana taimakawa wajen magance matsalar.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare's "[Athenian Project](https://www.cloudflare.com/athenian/)" suna ba da kariya ta matakin masana'antu kyauta ga yanar gizo da zaben kananan hukumomi. Sun ce "mutanen mazabar su na iya samun damar yin amfani da bayanan zaben da kuma rajistar masu kada kuri'a" amma wannan karya ce saboda mutane da yawa ba sa iya yin amfani da shafin kwata-kwata.
 

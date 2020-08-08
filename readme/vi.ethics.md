@@ -32,11 +32,10 @@ Cloudflare cho biết việc sử dụng dịch vụ của họ [có thể ngăn
 Làm cách nào chúng tôi có thể dừng _Cloudflare spammftime mà không kích hoạt Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Làm cách nào chúng tôi có thể dừng _Cloudflare spammftime mà không k
 Kiểm duyệt Cloudflare [đánh giá tiêu cực](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Nếu bạn đăng văn bản _anti-Cloudflare_ trên Twitter, bạn có cơ hội nhận được [trả lời](https://twitter.com/CloudflareHelp/status/1126051764917145601) từ [nhân viên Cloudflare](cloudflare_inc/cloudflare_members.txt) với " [Không, không phải](NGƯỜI.md) _ "tin nhắn. Nếu bạn đăng đánh giá tiêu cực trên bất kỳ trang web đánh giá nào, họ sẽ cố gắng [kiểm duyệt](https://twitter.com/phyzonloop/status/1178836176985366529) [nó](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [chia sẻ thông tin cá nhân](https://archive.ph/ePdvi) của [ai]
 ID thật của bạn. Nếu bạn không muốn bị quấy rối, [bị tấn công](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) hoặc [bị giết](https://twitter.com/RusEmbUSA/status/1187363092793040901), tốt hơn hết bạn nên tránh xa các trang web của Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Hầu hết các tiểu bang chỉ cung cấp một tập hợp con thông tin �
 Lưu ý rằng đăng ký giấy không phá vỡ Cloudflare vì thư ký nhân viên nhập dữ liệu nhà nước có thể sẽ sử dụng
 Trang web Cloudflare để nhập dữ liệu.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org là một trang web nổi tiếng để thu thập phiếu bầu và hành động. "[mọi người ở khắp mọi nơi đang bắt đầu các chiến dịch, huy động những người ủng hộ và làm việc với những người ra quyết định để đưa ra giải pháp.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Thật không may, nhiều người không thể xem change.org do bộ lọc tích cực của Cloudflare. Họ đang bị chặn ký tên thỉnh nguyện, do đó loại trừ họ khỏi một quy trình dân chủ. Sử dụng nền tảng không có đám mây khác như [OpenPetition](https://www.openpetition.eu/content/about_us) giúp khắc phục vấn đề.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - "[Dự án Athen](https://www.cloudflare.com/athenian/)" của Cloudflare cung cấp tính năng bảo vệ cấp doanh nghiệp miễn phí cho các trang web bầu cử của tiểu bang và địa phương. Họ nói "_các cử tri của họ có thể truy cập thông tin bầu cử và đăng ký cử tri_" nhưng đây là một lời nói dối vì nhiều người hoàn toàn không thể duyệt qua trang web.
 

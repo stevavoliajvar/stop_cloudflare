@@ -32,11 +32,10 @@
 கிளவுட்ஃப்ளேரை செயல்படுத்தாமல் _ கிளவுட்ஃப்ளேர் ஸ்பேமர்களை_ எவ்வாறு நிறுத்தலாம்?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@
 கிளவுட்ஃப்ளேர் தணிக்கை [எதிர்மறை மதிப்புரைகள்](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). நீங்கள் ட்விட்டரில் _anti-Cloudflare_ உரையை இடுகையிட்டால், [Cloudflare பணியாளர்](cloudflare_inc/cloudflare_members.txt) உடன் [பதில்](https://twitter.com/CloudflareHelp/status/1126051764917145601) பெற உங்களுக்கு வாய்ப்பு உள்ளது. [இல்லை, அது இல்லை](PEOPLE.md) _ "செய்தி. எந்தவொரு மறுஆய்வு தளத்திலும் நீங்கள் எதிர்மறையான மதிப்பாய்வை இடுகையிட்டால், அவர்கள் [தணிக்கை] செய்ய முயற்சிப்பார்கள் (https://twitter.com/phyzonloop/status/1178836176985366529) [அது](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@
 உங்கள் உண்மையான ஐடி. நீங்கள் துன்புறுத்தப்பட விரும்பவில்லை என்றால், [தாக்கப்பட்டது](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) அல்லது [கொல்லப்பட்டார்](https://twitter.com/RusEmbUSA/status/1187363092793040901), நீங்கள் கிளவுட்ஃப்ளேர்டு வலைத்தளங்களிலிருந்து விலகி இருப்பது நல்லது.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@
 காகித பதிவு கிளவுட்ஃப்ளேரைத் தவிர்ப்பதில்லை என்பதை நினைவில் கொள்க, ஏனெனில் மாநில தரவு நுழைவு ஊழியர்களின் செயலாளர் இதைப் பயன்படுத்துவார்
 தரவை உள்ளிட கிளவுட்ஃப்ளேர் வலைத்தளம்.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org என்பது வாக்குகளை சேகரிப்பதற்கும் நடவடிக்கை எடுப்பதற்கும் ஒரு பிரபலமான வலைத்தளம். "[எல்லா இடங்களிலும் உள்ள மக்கள் பிரச்சாரங்களைத் தொடங்குகிறார்கள், ஆதரவாளர்களை அணிதிரட்டுகிறார்கள், தீர்வுகளை இயக்குவதற்கு முடிவெடுப்பவர்களுடன் இணைந்து செயல்படுகிறார்கள்.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 துரதிர்ஷ்டவசமாக, கிளவுட்ஃப்ளேரின் ஆக்கிரமிப்பு வடிப்பான் காரணமாக பலர் change.org ஐப் பார்க்க முடியாது. அவர்கள் மனுவில் கையெழுத்திடுவதிலிருந்து தடுக்கப்படுகிறார்கள், இதனால் அவர்களை ஒரு ஜனநாயக செயல்முறையிலிருந்து விலக்குகிறார்கள். [OpenPetition](https://www.openpetition.eu/content/about_us) போன்ற மேகக்கணி அல்லாத பிற தளங்களைப் பயன்படுத்துவது சிக்கலைத் தீர்க்க உதவுகிறது.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - கிளவுட்ஃப்ளேரின் "[ஏதெனியன் திட்டம்](https://www.cloudflare.com/athenian/)" மாநில மற்றும் உள்ளூர் தேர்தல் வலைத்தளங்களுக்கு இலவச நிறுவன அளவிலான பாதுகாப்பை வழங்குகிறது. "_அவர்கள் தங்கள் தொகுதிகள் தேர்தல் தகவல்களையும் வாக்காளர் பதிவையும் அணுகலாம்" என்று அவர்கள் கூறினர், ஆனால் இது ஒரு பொய், ஏனென்றால் பலர் தளத்தை உலாவ முடியாது.
 

@@ -32,11 +32,10 @@ Cloudflare sot mat hirem Service ze benotzen [kann all Spammer oder Ugräifer op
 Wéi kënne mir _Cloudflare Spammers_ stoppen ouni Cloudflare z'aktivéieren?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Wéi kënne mir _Cloudflare Spammers_ stoppen ouni Cloudflare z'aktivéieren?
 Cloudflare Zensur [negativ Rezensiounen](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Wann Dir _anti-Cloudflare_ Text op Twitter postt, hutt Dir eng Chance fir en [Äntwert] ze kréien (https://twitter.com/CloudflareHelp/status/1126051764917145601) vun [Cloudflare Employéen](cloudflare_inc/cloudflare_members.txt) mat "_[Nee, et ass net](PEOPLE.md) _ "Message. Wann Dir en negativen Iwwerpréifung op all Iwwerpréifungsplaz postt, probéieren se [Zensur](https://twitter.com/phyzonloop/status/1178836176985366529) [et](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [deelt perséinlech Informatiounen](https://archive.ph/ePdvi) vun dee
 deng richteg ID. Wann Dir net belästegt wëllt, [ugegraff](https://twitter.com/NiteShade925/status/1158469203420205056), [geschloen](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) oder [ëmbruecht](https://twitter.com/RusEmbUSA/status/1187363092793040901), Dir sollt besser bleiwen vu Cloudflared Websäiten.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Déi meescht Staaten maachen nëmmen en Ënnerdeel vun där Informatioun ëffent
 Notiz datt d'Pabeierregistrierung net Cloudflare ëmkreest well de Sekretär vum Staat Datenentrée Mataarbechter wäert de benotzen
 Cloudflare Websäit fir d'Donnéeën unzeginn.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org ass eng berühmt Websäit fir Stëmmen ze sammelen an Handlung ze huelen. "[Leit iwwerall fänken u Kampagnen, mobiliséieren Unhänger, a schaffe mat Entscheedungshändler fir Léisungen ze féieren.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Leider kënne vill Leit net änneren.org iwwerhaapt wéinst dem Cloudflare sengem aggressiven Filter. Si gi blockéiert fir d'Petitioun z'ënnerschreiwen, sou datt se vun engem demokratesche Prozess ausgeschloss ginn. Aner net-Cloudflared Plattform benotze wéi [OpenPetition](https://www.openpetition.eu/content/about_us) hëlleft de Problem ze botzen.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare "[Athenesche Project](https://www.cloudflare.com/athenian/)" bitt gratis Enterprise-Niveau Schutz fir Staat a lokal Wahl Websäite. Si soten "_hir Stëmme kënnen Zougang zu Wahlinformatioun a Wielerregistrierung kréien" ", awer dëst ass eng Lige well vill Leit just net um Site kënne surfen.
 

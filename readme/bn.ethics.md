@@ -32,11 +32,10 @@
 ক্লাউডফ্লেয়ার সক্রিয় না করে আমরা কীভাবে ক্লাউডফ্লেয়ার স্প্যামার_ বন্ধ করতে পারি?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </বিবরণ>
 
@@ -52,9 +51,9 @@
 ক্লাউডফ্লেয়ার সেন্সর [নেতিবাচক পর্যালোচনা](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853)। আপনি যদি _আন্টি-ক্লাউডফ্লেয়ার_পাঠন টুইটারে পোস্ট করেন তবে আপনার কাছে [ক্লাউডফ্লেয়ার কর্মচারী](ক্লাউডফ্লেয়ার_ইনক/ক্লাউডফ্লেয়ার_মেমারস.টিএসটি) এর একটি [উত্তর](https://twitter.com/CloudflareHelp/status/1126051764917145601) পাওয়ার সুযোগ রয়েছে "_[না, এটি নয়](PEOPLE.md) _ "বার্তা। আপনি যদি কোনও পর্যালোচনা সাইটে নেতিবাচক পর্যালোচনা পোস্ট করেন তবে তারা [সেন্সর](https://twitter.com/phyzonloop/status/1178836176985366529) [এটি](https://twitter.com/dxgl_org/status/1178722159432220672 চেষ্টা করবে) )।
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </বিবরণ>
 
@@ -72,13 +71,11 @@
 আপনার সত্য আইডি আপনি যদি হয়রানির শিকার না হতে চান, [আক্রমণ] -সেট-আউট-টু-রুই.ইচটিএমএল) বা [নিহত](https://twitter.com/RusEmbUSA/status/1187363092793040901), আপনি আরও ভাল ক্লাউডফ্লারড ওয়েবসাইট থেকে দূরে থাকবেন।
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </বিবরণ>
 
@@ -183,14 +180,16 @@
 নোট করুন যে কাগজ নিবন্ধন ক্লাউডফ্লেয়ারকে অস্বীকার করে না কারণ রাজ্য ডেটা এন্ট্রি কর্মী কর্মীদের সচিব সম্ভবত এটি ব্যবহার করবেন
 ক্লাউডফ্লেয়ার ডেটা প্রবেশের জন্য ওয়েবসাইট।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - চেঞ্জ.অর্গ একটি ভোট সংগ্রহ এবং পদক্ষেপ গ্রহণের জন্য একটি বিখ্যাত ওয়েবসাইট। "[সর্বত্র লোকেরা প্রচারণা শুরু করছে, সমর্থকদের একত্রিত করছে, এবং সমাধানের জন্য সিদ্ধান্ত গ্রহণকারীদের সাথে কাজ করছে।](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 দুর্ভাগ্যক্রমে, ক্লাউডফ্লেয়ারের আক্রমণাত্মক ফিল্টারের কারণে অনেকগুলিই পরিবর্তন.org দেখতে পারেন না। তারা এইভাবে গণতান্ত্রিক প্রক্রিয়া থেকে বাদ দিয়ে আবেদনে স্বাক্ষর করতে বাধা দেওয়া হচ্ছে। অন্যান্য অন-ক্লাউডফ্লারড প্ল্যাটফর্ম যেমন [ওপেনপিটিশন](https://www.openpistance.eu/content/about_us) ব্যবহার করা সমস্যার প্রতিকার করতে সহায়তা করে।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - ক্লাউডফ্লেয়ারের "[অ্যাথেনিয়ান প্রকল্প](https://www.cloudflare.com/athenian/)" রাষ্ট্র এবং স্থানীয় নির্বাচনী ওয়েবসাইটগুলিতে বিনামূল্যে এন্টারপ্রাইজ-স্তর সুরক্ষা সরবরাহ করে। তারা বলেছে "_একটি উপাদান নির্বাচনী তথ্য এবং ভোটার নিবন্ধকরণ অ্যাক্সেস করতে পারে_" তবে এটি একটি মিথ্যা কারণ কারণ অনেক লোক কেবল সাইটটি ব্রাউজ করতে পারবেন না।
 

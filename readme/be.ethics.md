@@ -72,13 +72,11 @@ Cloudflare [дзеліцца асабістай інфармацыяй](https://
 ваш сапраўдны пасведчанне. Калі вы не хочаце падвяргацца пераследу, [напад](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) альбо [забіты](https://twitter.com/RusEmbUSA/status/1187363092793040901), лепш трымацца далей ад сайтаў, якія аблавяцца воблакам.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -189,8 +187,9 @@ CloudFlare дае пераважнае стаўленне да тых, хто к
 - Change.org - вядомы сайт для збору галасоў і прыняцця мер. "[людзі паўсюдна пачынаюць кампаніі, мабілізуюць прыхільнікаў і працуюць з асобамі, якія прымаюць рашэнні, каб знайсці рашэнні.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 На жаль, з-за агрэсіўнага фільтра Cloudflare многія не могуць праглядзець змену.org. Ім забараняецца падпісваць петыцыю, тым самым выключаючы іх з дэмакратычнага працэсу. Выкарыстанне іншай платформы, якая не з'яўляецца воблакам, напрыклад [OpenPetition](https://www.opentification.eu/content/about_us) дапамагае выправіць праблему.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - "Афінскі праект] Cloudflare (https://www.cloudflare.com/athenian/)" прапануе бясплатную абарону на ўзроўні прадпрыемстваў на дзяржаўных і мясцовых сайтах выбараў. Яны сказалі, што "іх выбаршчыкі могуць атрымаць доступ да інфармацыі аб выбарах і рэгістрацыі выбаршчыкаў", але гэта хлусня, таму што многія людзі наогул не могуць праглядаць сайт.
 

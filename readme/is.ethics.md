@@ -32,11 +32,10 @@ Cloudflare sagði að nota þjónustu sína [geti stöðvað alla ruslpóst eða
 Hvernig getum við stöðvað _Cloudflare spammers_ án þess að virkja Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Hvernig getum við stöðvað _Cloudflare spammers_ án þess að virkja Cloudfl
 Ritskoðun á skýjablöndu [neikvæðar umsagnir](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Ef þú birtir _anti-Cloudflare_ texta á Twitter, hefur þú tækifæri til að fá [svar](https://twitter.com/CloudflareHelp/status/1126051764917145601) frá [starfsmanni Cloudflare](cloudflare_inc/cloudflare_members.txt) með "_[Nei, það eru ekki](PEOPLE.md) _ "skilaboðin. Ef þú leggur fram neikvæða skoðun á einhverri skoðunarvefsíðu munu þeir reyna að [ritskoða](https://twitter.com/phyzonloop/status/1178836176985366529) [það](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [deilir persónulegum upplýsingum](https://archive.ph/ePdvi) þeirra
 þitt sanna skilríki. Ef þú vilt ekki verða fyrir áreitni, [árásum](https://twitter.com/NiteShade925/status/1158469203420205056), [skipt um](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) eða [drepinn](https://twitter.com/RusEmbUSA/status/1187363092793040901), þú ættir að vera í burtu frá Cloudflared vefsíðum.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Flest ríki búa aðeins til hlutmengi þeirra upplýsinga sem eru aðgengilegar
 Athugið að pappírsskráning sniðgangar ekki Cloudflare vegna þess að ritari starfsmanna gagnafærslu starfsmanna mun líklega nota
 Cloudflare vefsíða til að slá inn gögnin.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org er fræg vefsíða til að safna atkvæðum og grípa til aðgerða. „[fólk alls staðar er að hefja herferðir, virkja stuðningsmenn og vinna með ákvörðunaraðilum til að keyra lausnir.](https://web.archive.org/web/20200206120027/https://www.change.org/about)“
 Því miður geta margir alls ekki skoðað breyting.org vegna árásargjarns síu Cloudflare. Þeim er lokað á að undirrita erindið og útiloka þá frá lýðræðislegu ferli. Að nota annan vettvang sem ekki er skýjaður eins og [OpenPetition](https://www.openpetition.eu/content/about_us) hjálpar til við að bæta úr vandanum.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloud [[Athenian Project](https://www.cloudflare.com/athenian/) "Cloudflare" býður upp á ókeypis vernd á fyrirtækjum og kosningavefnum. Þeir sögðu „þeirra kjördæma geti nálgast upplýsingar um kosningar og skráningu kjósenda_“ en þetta er lygi vegna þess að margir geta einfaldlega ekki vafrað um síðuna.
 

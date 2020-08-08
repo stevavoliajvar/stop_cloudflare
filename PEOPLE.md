@@ -4,11 +4,12 @@
 - This is a list of voices. If you want to add your blog feel free to do so.
 - Disclaimer: This **does not** mean we endorse you.
 
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/people.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfblockbothuman.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsnote.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsstream.jpg) |
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/people.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfblockbothuman.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg)
 
 ```
 It's pretty sad when even the hometown paper is behind the greatcloudwall.
@@ -46,7 +47,7 @@ In addition, with so many websites behind Cloudflare, when it goes down, half th
 The internet was designed to be decentralised and Cloudflare is centralising it.
 Half of the internet relying on a single entity is dangerous.
 ```
--- [Amolith, Ex contributor](https://social.nixnet.services/@Amolith)
+-- [Amolith](https://social.nixnet.services/@Amolith)
 
 
 ```
@@ -57,7 +58,7 @@ to solve a annoying timewasting puzzle usually after waiting five
 seconds which also cost you valuable time?
 Awesome! Use Cloudflare!
 ```
--- [Robin Wils, Ex contributor](https://linuxrocks.online/@RMW)
+-- [Robin Wils](https://linuxrocks.online/@RMW)
 
 ```
 I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
@@ -72,9 +73,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 ---
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/butitsdown.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/2020_07_cloudflaredown.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/butitsdown.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/2020_07_cloudflaredown.jpg) |
 
 ---
 
@@ -3761,8 +3762,8 @@ Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https
 ## Still defending Cloudflare after all you've read?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wearetrulysorry.jpg)
-
-!["Cloudflare is not an option."](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wearetrulysorry.jpg) | !["Cloudflare is not an option."](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/runbeforeitstoolate.jpg)

@@ -32,11 +32,10 @@ Cloudflare гуфт, ки бо истифода аз хидмати онҳо [м
 Мо чӣ гуна метавонем _Cloudflare спаммерҳоро_ бе фаъолсозии Cloudflare боздошта метавонем?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Cloudflare гуфт, ки бо истифода аз хидмати онҳо [м
 Сензураи Cloudflare [тафсирҳои манфӣ](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Агар шумо матни _anti-Cloudflare_ -ро дар Твиттер ҷойгир кунед, шумо имкони гирифтани "ҷавоб" (https://twitter.com/CloudflareHelp/status/1126051764917145601) -ро аз "Корманди Cloudflare" (cloudflare_inc/cloudflare_members.txt) бо "_[Не, ин нест](PEOPLE.md) _ "паём. Агар шумо ягон баррасии манфиро дар ягон сайти баррасӣ ҷойгир кунед, онҳо кӯшиш мекунанд, ки [сензура](https://twitter.com/phyzonloop/status/1178836176985366529) [онро](https://twitter.com/dxgl_org/status/1178722159432220672) ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [мубодилаи маълумоти шахсӣ](https://archive.ph
 шахсияти ҳақиқии шумо. Агар шумо нахоҳед, ки ба таъқибот дучор оед, [ҳамла ба саратон](https://twitter.com/NiteShade925/status/1158469203420205056), [таассуф](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ё [кушта](https://twitter.com/RusEmbUSA/status/1187363092793040901), шумо бояд аз вебсайтҳои Cloudflared дур шавед.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ CloudFlare ба онҳое, ки Firefox-ро истифода мебаранд,
 Аҳамият диҳед, ки бақайдгирии коғаз Cloudflare-ро бартараф намекунад, зеро кормандони кормандони воридкунии маълумотҳо эҳтимолан аз ин истифода мекунанд
 Вебсайти Cloudflare барои ворид кардани маълумот.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org вебсайти машҳурест барои ҷамъоварии овозҳо ва андешидани чораҳо. "[мардум дар ҳама ҷо маъракаҳоро оғоз мекунанд, ҷонибдоронро сафарбар мекунанд ва бо тасмимгирандагон барои пешбурди ҳалли онҳо кор мекунанд.]
 Мутаассифона, бо сабаби филтри хашмгинонаи Cloudflare, бисёр одамон тағирёбии.org-ро умуман дида наметавонанд. Онҳоро имзои дархостнома бозмедорад ва ба ин васила онҳоро аз раванди демократӣ хориҷ мекунад. Истифодаи платформаи бидуни абрҳо, ба монанди [OpenPetition](https://www.openpetition.eu/content/about_us) барои рафъи мушкилот кӯмак мекунад.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - "Cloudflare" -и "Лоиҳаи Афина" (https://www.cloudflare.com/athenian/) "ҳимояи ройгони сатҳи корхонаҳоро ба вебсафҳаҳои давлатӣ ва маҳаллии интихобот пешкаш мекунад. Онҳо гуфтанд, "ин интихобкунандагон метавонанд ба маълумот дар бораи интихобот ва сабти номи интихобкунандагон дастрасӣ дошта бошанд", аммо ин дурӯғ аст, зеро бисёр одамон сайтро тамоман дида наметавонанд.
 

@@ -32,11 +32,10 @@ Cloudflare ütles, et nende teenust kasutades [saab peatada kõik rämpspostitaj
 Kuidas saaksime peatada _Cloudflare rämpsposti saatjad_ ilma Cloudflare aktiveerimata?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Kuidas saaksime peatada _Cloudflare rämpsposti saatjad_ ilma Cloudflare aktivee
 Cloudflare tsensor [negatiivsed arvustused](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Kui postitate _anti-Cloudflare_ teksti Twitterisse, on teil võimalus saada [Cloudflare töötaja](cloudflare_inc/cloudflare_members.txt) vastus [vastus](https://twitter.com/CloudflareHelp/status/1126051764917145601) saidilt "_[Ei, see pole](PEOPLE.md) _ "sõnum. Kui postitate negatiivse arvustuse mis tahes arvustussaidile, proovivad nad [tsenseerida](https://twitter.com/phyzonloop/status/1178836176985366529) [seda](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [jagab isiklikku teavet](https://archive.ph/ePdvi) neist [kes](https:
 sinu tõeline isikutunnistus. Kui te ei soovi ahistada, [rünnati](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) või [tapetud](https://twitter.com/RusEmbUSA/status/1187363092793040901), hoidke parem Cloudflaredi veebisaitidest.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Enamik osariike teeb selle teabe ainult osa alarühma avalikult kättesaadavaks,
 Pange tähele, et paberkandjal registreerimine ei lase Cloudflare'ist mööda, kuna tõenäoliselt kasutab seda riigisisese andmesisestuse töötajate sekretär
 Cloudflare'i veebisait andmete sisestamiseks.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org on kuulus veebisait häälte kogumiseks ja tegutsemiseks. "[Kõik inimesed alustavad kampaaniaid, mobiliseerivad toetajaid ja töötavad koos otsustajatega lahenduste leidmiseks.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Kahjuks ei saa paljud inimesed muutustorg.org Cloudflare'i agressiivse filtri tõttu üldse vaadata. Nad ei saa petitsioonile alla kirjutada, välistades seega nad demokraatlikust protsessist. Muude pilvkattega platvormide, näiteks [OpenPetition](https://www.openpetition.eu/content/about_us) kasutamine aitab probleemi lahendada.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare'i "[Ateena projekt](https://www.cloudflare.com/athenian/)" pakub riigi ja kohalike valimiste veebisaitidele tasuta ettevõtte tasemel kaitset. Nad ütlesid, et "_valijatel on juurdepääs valimisteabele ja valijate registreerimisele_", kuid see on vale, sest paljud inimesed lihtsalt ei saa seda saiti üldse sirvida.
 

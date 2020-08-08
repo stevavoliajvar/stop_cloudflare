@@ -18,7 +18,7 @@
 <details>
 <summary> _click me_
 
-# # CloudFlare spams vanhu
+## CloudFlare spams vanhu
 </summary>
 
 
@@ -45,16 +45,16 @@ Tingaite sei kuti timise _Cloudflare spammers_ tisingashandisi Cloudflare?
 <details>
 <summary> _click me_
 
-# # Bvisa kuongororwa kwemushandisi
+## Bvisa kuongororwa kwemushandisi
 </summary>
 
 
 Cloudflare censor [yakaipa ongororo](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Kana iwe ukanyora _anti-Cloudflare_ rugwaro paTwitter, une mukana wekuwana [mhinduro](https://twitter.com/CloudflareHelp/status/1126051764917145601) kubva [Cloudflare mushandi](Cloudflare_inc/Cloudflare_member.txt) na "_[Kwete, hazvisi](VANHU.md) _ "meseji. Kana iwe ukatumira wongororo isiriyo pane chero saiti yekuongorora, vanoedza ku [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 .
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -63,7 +63,7 @@ Cloudflare censor [yakaipa ongororo](https://web.archive.org/web/20191116004046/
 <details>
 <summary> _click me_
 
-# # Doxxing vashandisi
+## Doxxing vashandisi
 </summary>
 
 
@@ -87,7 +87,7 @@ chako chechokwadi ID. Kana iwe usiri kuda kunetswa, [akarwiswa](https://twitter.
 <details>
 <summary> _click me_
 
-# # Corporate kukumbira kune rubatsiro rwezvipo
+## Corporate kukumbira kune rubatsiro rwezvipo
 </summary>
 
 
@@ -103,7 +103,7 @@ CloudFlare iri [ichibvunza](https://web.archive.org/web/20191112033605/https://o
 <details>
 <summary> _click me_
 
-# # Kugumisa masosi
+## Kugumisa masosi
 </summary>
 
 
@@ -118,7 +118,7 @@ Chii chaungaita kana yako saiti inodzikira _singlyly_? Pane mishumo yekuti Cloud
 <details>
 <summary> _click me_
 
-# # Browser mutengesi kusarura
+## Browser mutengesi kusarura
 </summary>
 
 
@@ -170,7 +170,7 @@ Kuti uwane zvimwe zvakawanda shanyira peji redu rekubatsira
 <details>
 <summary> _click me_
 
-# # Voter kudzvinyirira
+## Voter kudzvinyirira
 </summary>
 
 
@@ -183,8 +183,9 @@ Nyika zhinji dzinongoita subset yeruzivo iripo paruzhinji, asi Cloudflare inoona
 Ziva kuti kunyoreswa kwepepa hakutenderedze Cloudflare nekuti secretary we state data kupinda vashandi vanogona kunge vachishandisa iyo
 Cloudflare webhusaiti kuisa data.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org iyi inozivikanwa webhusaiti yekuunganidza mavhoti uye kutora matanho. "[vanhu kwese kwese vari kutanga mishandirapamwe, kuunganidza vatsigiri, uye kushanda nevanoita sarudzo kuti vagadzirise mhinduro.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Nehurombo, vanhu vazhinji havakwanisi kuona shanduko.org zvachose nekuda kweiyo Cloudflare yehasha filter. Ivo vari kuvharwa kusaina chikumbiro, nokudaro vachivasiyira kure mukuzvitonga. Kushandisa zvimwe zvisina-Cloudflared chikuva se [OpenPback](https://www.openpetition.eu/content/about_us) kunobatsira kugadzirisa dambudziko.
@@ -216,7 +217,7 @@ Kana iwe ukasarudza kubuda mune chimwe chinhu, iwe unotarisira kuti haugamuchire
 <details>
 <summary> _click me_
 
-# # Kureva nhema pamusoro pekudzima data remushandisi
+## Kureva nhema pamusoro pekudzima data remushandisi
 </summary>
 
 
@@ -244,7 +245,7 @@ Unogona sei kuvimba neCloudflare kana [mutemo yavo yekuvanzika iri LIE](https://
 <details>
 <summary> _click me_
 
-# # Chengetedza yako ruzivo
+## Chengetedza yako ruzivo
 </summary>
 
 
@@ -268,7 +269,7 @@ Iwe unogona "kuvimba" izvi here?
 
 ---
 
-# # Ndokumbira uenderere mberi kune inozotevera peji: "[Cloudflare Voices](../VANHU.md)"
+## Ndokumbira uenderere mberi kune inozotevera peji: "[Cloudflare Voices](../VANHU.md)"
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

@@ -18,7 +18,7 @@
 <detail>
 <summary> _click me_
 
-# # CloudFlare spams wong
+## CloudFlare spams wong
 </summary>
 
 
@@ -45,16 +45,16 @@ Kepiye carane bisa mandhegake _Cloudflare spammers_ tanpa ngaktifake Cloudflare?
 <detail>
 <summary> _click me_
 
-# # Mbusak review pangguna
+## Mbusak review pangguna
 </summary>
 
 
 Sensor Cloudflare [ulasan negatif](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Yen sampeyan ngirim teks _anti-Cloudflare_ ing Twitter, sampeyan bisa entuk [reply](https://twitter.com/CloudflareHelp/status/1126051764917145601) saka [karyawan Cloudflare](cloudflare_inc/cloudflare_members.txt) nganggo "_[Ora, dudu](pesen PEOPLE.md) _ ". Yen sampeyan ngirim review negatif ing situs review, dheweke bakal nyoba [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -63,7 +63,7 @@ Sensor Cloudflare [ulasan negatif](https://web.archive.org/web/20191116004046/ht
 <detail>
 <summary> _click me_
 
-# # Pangguna Doxxing
+## Pangguna Doxxing
 </summary>
 
 
@@ -103,7 +103,7 @@ CloudFlare njaluk [takon](https://web.archive.org/web/20191112033605/https://ope
 <detail>
 <summary> _click me_
 
-# # Situs sing mungkasi
+## Situs sing mungkasi
 </summary>
 
 
@@ -170,7 +170,7 @@ Kanggo rincian liyane, bukak kaca pitulung
 <detail>
 <summary> _click me_
 
-# # Penindasan pemilih
+## Penindasan pemilih
 </summary>
 
 
@@ -183,14 +183,16 @@ Umume negara mung nggawe subset saka informasi kasebut ing umum, nanging Cloudfl
 Elinga yen registrasi kertas ora ngalangi Cloudflare amarga sekretaris karyawan karyawan entri data kamungkinan bakal nggunakake
 Situs web Cloudflare kanggo mlebu data kasebut.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org minangka situs web sing misuwur kanggo ngumpulake swara lan tumindak. "[wong-wong ing endi wae miwiti kampanye, ngrangsang panyengkuyung, lan nggarap keputusan kanggo nggawe solusi.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Sayange, akeh wong ora bisa ndeleng perubahan.org amarga panyaring agresif Cloudflare. Dheweke disekat kanggo menehi tandha petisyen kasebut, saéngga ora kalebu proses demokratis. Nggunakake platform non-cloudflared liyane kayata [OpenPetition](https://www.openpetition.eu/content/about_us) mbantu ngatasi masalah kasebut.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - "[Athenian Project]" Cloudflare "(https://www.cloudflare.com/athenian/)" nawakake perlindungan level perusahaan gratis kanggo situs web pemilihan negara lan lokal. Dheweke kandha, "para pengacara bisa ngakses informasi pemilihan lan registrasi pamilih" nanging iki ngapusi amarga akeh wong ora bisa nggoleki situs kasebut.
 
@@ -201,7 +203,7 @@ Sayange, akeh wong ora bisa ndeleng perubahan.org amarga panyaring agresif Cloud
 <detail>
 <summary> _click me_
 
-# # Nglimbangake pilihan pangguna
+## Nglimbangake pilihan pangguna
 </summary>
 
 
@@ -216,7 +218,7 @@ Yen sampeyan milih metu, sampeyan ngarepake ora nampa email babagan iki. Cloudfl
 <detail>
 <summary> _click me_
 
-# # Ngapusi babagan mbusak data pangguna
+## Ngapusi babagan mbusak data pangguna
 </summary>
 
 
@@ -244,7 +246,7 @@ Kepiye sampeyan bisa dipercaya Cloudflare yen [kebijakan privasi dheweke minangk
 <detail>
 <summary> _click me_
 
-# # Tansah informasi pribadi
+## Tansah informasi pribadi
 </summary>
 
 

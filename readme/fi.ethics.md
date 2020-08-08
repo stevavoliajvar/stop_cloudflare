@@ -32,11 +32,10 @@ Cloudflare sanoi käyttävän palveluaan [voi estää kaikki roskapostittajat ta
 Kuinka voimme lopettaa _Cloudflare-roskapostittajat_ aktivoimatta Cloudflare-ohjelmaa?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </Tiedot>
 
@@ -52,9 +51,9 @@ Kuinka voimme lopettaa _Cloudflare-roskapostittajat_ aktivoimatta Cloudflare-ohj
 Cloudflare-sensori [negatiiviset arvostelut](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Jos lähetät _anti-Cloudflare_ -tekstin Twitterissä, sinulla on mahdollisuus saada [vastaus](https://twitter.com/CloudflareHelp/status/1126051764917145601) [Cloudflare työntekijältä](cloudflare_inc/cloudflare_members.txt) kohdalla "_[Ei, se ei ole](PEOPLE.md) _ "-viesti. Jos lähetät kielteisen arvion mille tahansa arvostelusivustolle, he yrittävät [sensuroida](https://twitter.com/phyzonloop/status/1178836176985366529) [sitä](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </Tiedot>
 
@@ -72,13 +71,11 @@ Cloudflare [jakaa henkilökohtaisia ​​tietoja](https://archive.ph/ePdvi) nii
 oikea henkilöllisyytesi. Jos et halua häiritä, [pahoinpitely](https://twitter.com/NiteShade925/status/1158469203420205056), [hikoiltu](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) tai [tapettu](https://twitter.com/RusEmbUSA/status/1187363092793040901), sinun on parasta olla poissa Cloudflared-verkkosivustoista.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </Tiedot>
 
@@ -183,14 +180,16 @@ Suurin osa valtioista asettaa vain osan näistä tiedoista julkisesti saataville
 Huomaa, että paperirekisteröinti ei kiertä Cloudflare-järjestelmää, koska valtiosihteerien tietojen syöttöhenkilökunnan työntekijät todennäköisesti käyttävät
 Cloudflare-verkkosivusto tietojen syöttämistä varten.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org on kuuluisa verkkosivusto keräämään ääniä ja ryhtymään toimiin. "[Ihmiset kaikkialla aloittavat kampanjoita, saavat tukijoita ja työskentelevät päätöksentekijöiden kanssa ratkaisujen löytämiseksi.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Valitettavasti monet ihmiset eivät voi nähdä muutosta.org ollenkaan Cloudflaren aggressiivisen suodattimen takia. Heitä estetään allekirjoittamasta vetoomusta, jolloin heidät poistetaan demokraattisesta prosessista. Muiden ei pilvitetyn alustan, kuten [OpenPetition](https://www.openpetition.eu/content/about_us) käyttö auttaa korjaamaan ongelman.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflaren "[Ateenan projekti](https://www.cloudflare.com/athenian/)" tarjoaa ilmaisen yritystason suojauksen valtion ja paikallisten vaalien verkkosivustoille. He sanoivat, että "heidän äänestäjillään on pääsy vaalitietoihin ja äänestäjien rekisteröintiin", mutta tämä on valhe, koska monet ihmiset vain eivät voi selata sivustoa ollenkaan.
 

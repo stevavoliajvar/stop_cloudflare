@@ -32,11 +32,10 @@
 ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸದೆ ನಾವು _ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಸ್ಪ್ಯಾಮರ್‌ಗಳನ್ನು_ ಹೇಗೆ ನಿಲ್ಲಿಸಬಹುದು?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@
 ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಸೆನ್ಸಾರ್ [negative ಣಾತ್ಮಕ ವಿಮರ್ಶೆಗಳು](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). ನೀವು ಟ್ವಿಟರ್‌ನಲ್ಲಿ _anti-Cloudflare_ ಪಠ್ಯವನ್ನು ಪೋಸ್ಟ್ ಮಾಡಿದರೆ, [Cloudflare ಉದ್ಯೋಗಿ](cloudflare_inc/cloudflare_members_txt) ನಿಂದ [ಪ್ರತ್ಯುತ್ತರ](https://twitter.com/CloudflareHelp/status/1126051764917145601) ಪಡೆಯಲು ನಿಮಗೆ ಅವಕಾಶವಿದೆ. [ಇಲ್ಲ, ಅದು ಅಲ್ಲ](PEOPLE.md) _ "ಸಂದೇಶ. ನೀವು ಯಾವುದೇ ವಿಮರ್ಶೆ ಸೈಟ್‌ನಲ್ಲಿ ನಕಾರಾತ್ಮಕ ವಿಮರ್ಶೆಯನ್ನು ಪೋಸ್ಟ್ ಮಾಡಿದರೆ, ಅವರು [ಸೆನ್ಸಾರ್](https://twitter.com/phyzonloop/status/1178836176985366529) [ಇದು](https://twitter.com/dxgl_org/status/1178722159432220672) ಗೆ ಪ್ರಯತ್ನಿಸುತ್ತಾರೆ. ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@
 ನಿಮ್ಮ ನಿಜವಾದ ID. ನೀವು ಕಿರುಕುಳ ಪಡೆಯಲು ಬಯಸದಿದ್ದರೆ, [ಹಲ್ಲೆ](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ಅಥವಾ [ಕೊಲ್ಲಲ್ಪಟ್ಟರು) (https://twitter.com/RusEmbUSA/status/1187363092793040901), ನೀವು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ಡ್ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಂದ ದೂರವಿರುವುದು ಉತ್ತಮ.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@
 ಕಾಗದದ ನೋಂದಣಿ ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಅನ್ನು ತಪ್ಪಿಸುವುದಿಲ್ಲ ಎಂಬುದನ್ನು ಗಮನಿಸಿ ಏಕೆಂದರೆ ರಾಜ್ಯ ದತ್ತಾಂಶ ಪ್ರವೇಶ ಸಿಬ್ಬಂದಿ ಕಾರ್ಯದರ್ಶಿಗಳು ಇದನ್ನು ಬಳಸುತ್ತಾರೆ
 ಡೇಟಾವನ್ನು ನಮೂದಿಸಲು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ವೆಬ್‌ಸೈಟ್.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - ಚೇಂಜ್.ಆರ್ಗ್ ಮತಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು ಮತ್ತು ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳಲು ಪ್ರಸಿದ್ಧ ವೆಬ್‌ಸೈಟ್. "[ಎಲ್ಲೆಡೆ ಜನರು ಅಭಿಯಾನಗಳನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದಾರೆ, ಬೆಂಬಲಿಗರನ್ನು ಸಜ್ಜುಗೊಳಿಸುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಪರಿಹಾರಗಳನ್ನು ನೀಡಲು ನಿರ್ಧಾರ ತೆಗೆದುಕೊಳ್ಳುವವರೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 ದುರದೃಷ್ಟವಶಾತ್, ಕ್ಲೌಡ್‌ಫ್ಲೇರ್‌ನ ಆಕ್ರಮಣಕಾರಿ ಫಿಲ್ಟರ್‌ನಿಂದಾಗಿ ಅನೇಕ ಜನರು ಚೇಂಜ್.ಆರ್ಗ್ ಅನ್ನು ವೀಕ್ಷಿಸಲಾಗುವುದಿಲ್ಲ. ಅರ್ಜಿಗೆ ಸಹಿ ಹಾಕದಂತೆ ಅವರನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತಿದೆ, ಹೀಗಾಗಿ ಅವರನ್ನು ಪ್ರಜಾಪ್ರಭುತ್ವ ಪ್ರಕ್ರಿಯೆಯಿಂದ ಹೊರಗಿಡಲಾಗಿದೆ. [ಓಪನ್‌ಪೆಟಿಷನ್](https://www.openpetition.eu/content/about_us) ನಂತಹ ಇತರ ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ಡ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಅನ್ನು ಬಳಸುವುದು ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - ಕ್ಲೌಡ್‌ಫ್ಲೇರ್‌ನ "[ಅಥೇನಿಯನ್ ಪ್ರಾಜೆಕ್ಟ್](https://www.cloudflare.com/athenian/)" ರಾಜ್ಯ ಮತ್ತು ಸ್ಥಳೀಯ ಚುನಾವಣಾ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ ಉಚಿತ ಉದ್ಯಮ ಮಟ್ಟದ ರಕ್ಷಣೆಯನ್ನು ನೀಡುತ್ತದೆ. ಅವರು "_ಅವರು ತಮ್ಮ ಚುನಾವಣಾ ಮಾಹಿತಿ ಮತ್ತು ಮತದಾರರ ನೋಂದಣಿ_ಗೆ ಪ್ರವೇಶಿಸಬಹುದು" ಎಂದು ಹೇಳಿದರು ಆದರೆ ಇದು ಸುಳ್ಳು ಏಕೆಂದರೆ ಅನೇಕ ಜನರು ಸೈಟ್ ಅನ್ನು ಬ್ರೌಸ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.
 

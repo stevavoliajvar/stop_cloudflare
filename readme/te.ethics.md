@@ -32,11 +32,10 @@ a# నైతిక సమస్యలు
 క్లౌడ్‌ఫ్లేర్‌ను సక్రియం చేయకుండా _క్లౌడ్‌ఫ్లేర్ స్పామర్‌లను_ ఎలా ఆపవచ్చు?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </వివరాలు>
 
@@ -52,9 +51,9 @@ a# నైతిక సమస్యలు
 క్లౌడ్‌ఫ్లేర్ సెన్సార్ [ప్రతికూల సమీక్షలు](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). మీరు ట్విట్టర్‌లో _anti-Cloudflare_ వచనాన్ని పోస్ట్ చేస్తే, [Cloudflare ఉద్యోగి](cloudflare_inc/cloudflare_members_txt) నుండి [ప్రత్యుత్తరం](https://twitter.com/CloudflareHelp/status/1126051764917145601) ను పొందే అవకాశం మీకు ఉంది. [లేదు, ఇది కాదు](PEOPLE.md) _ "సందేశం. మీరు ఏదైనా సమీక్ష సైట్‌లో ప్రతికూల సమీక్షను పోస్ట్ చేస్తే, వారు [సెన్సార్](https://twitter.com/phyzonloop/status/1178836176985366529) [ఇది](https://twitter.com/dxgl_org/status/1178722159432220672) కోసం ప్రయత్నిస్తారు. ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </వివరాలు>
 
@@ -72,13 +71,11 @@ a# నైతిక సమస్యలు
 మీ నిజమైన ID. మీరు వేధింపులకు గురికాకూడదనుకుంటే, [దాడి](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) లేదా [చంపబడ్డారు](https://twitter.com/RusEmbUSA/status/1187363092793040901), మీరు క్లౌడ్‌ఫ్లేర్డ్ వెబ్‌సైట్‌లకు దూరంగా ఉండటం మంచిది.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </వివరాలు>
 
@@ -183,14 +180,16 @@ a# నైతిక సమస్యలు
 కాగితపు రిజిస్ట్రేషన్ క్లౌడ్‌ఫ్లేర్‌ను తప్పించుకోదని గమనించండి ఎందుకంటే రాష్ట్ర డేటా ఎంట్రీ స్టాఫ్ వర్కర్ల కార్యదర్శి దీనిని ఉపయోగించుకుంటారు
 డేటాను నమోదు చేయడానికి క్లౌడ్‌ఫ్లేర్ వెబ్‌సైట్.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - చేంజ్.ఆర్గ్ ఓట్లు సేకరించడానికి మరియు చర్య తీసుకోవడానికి ఒక ప్రసిద్ధ వెబ్‌సైట్. "[ప్రతిచోటా ప్రజలు ప్రచారాలను ప్రారంభిస్తున్నారు, మద్దతుదారులను సమీకరిస్తున్నారు మరియు పరిష్కారాలను నడిపించడానికి నిర్ణయాధికారులతో కలిసి పని చేస్తున్నారు.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 దురదృష్టవశాత్తు, క్లౌడ్‌ఫ్లేర్ యొక్క దూకుడు వడపోత కారణంగా చాలా మంది change.org ని చూడలేరు. పిటిషన్పై సంతకం చేయకుండా వారిని అడ్డుకుంటున్నారు, తద్వారా వారిని ప్రజాస్వామ్య ప్రక్రియ నుండి మినహాయించారు. [OpenPetition](https://www.openpetition.eu/content/about_us) వంటి ఇతర క్లౌడ్‌ఫ్లేర్డ్ ప్లాట్‌ఫారమ్‌ను ఉపయోగించడం సమస్యను పరిష్కరించడంలో సహాయపడుతుంది.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - క్లౌడ్‌ఫ్లేర్ యొక్క "[ఎథీనియన్ ప్రాజెక్ట్](https://www.cloudflare.com/athenian/)" రాష్ట్ర మరియు స్థానిక ఎన్నికల వెబ్‌సైట్‌లకు ఉచిత సంస్థ స్థాయి రక్షణను అందిస్తుంది. వారు "_వారి నియోజకవర్గాలు ఎన్నికల సమాచారం మరియు ఓటరు నమోదు_ని యాక్సెస్ చేయగలవు" అని అన్నారు, కాని ఇది చాలా అబద్ధం ఎందుకంటే చాలా మంది ప్రజలు సైట్ను బ్రౌజ్ చేయలేరు.
 

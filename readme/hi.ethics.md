@@ -32,11 +32,10 @@ Cloudflare ने अपनी सेवा का उपयोग करते 
 Cloudflare को सक्रिय किए बिना हम _Cloudflare spammers_ को कैसे रोक सकते हैं?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </विवरण>
 
@@ -52,9 +51,9 @@ Cloudflare को सक्रिय किए बिना हम _Cloudflare s
 Cloudflare सेंसर [नकारात्मक समीक्षा](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7cccf853)। यदि आप ट्विटर पर _anti-Cloudflare_ पाठ पोस्ट करते हैं, तो आपके पास [Cloudfare कर्मचारी](cloudflare_inc/cloudflare_members.txt) के साथ "जवाब" (https://twitter.com/CloudflareHelp/status/1126051764917145601) पाने का मौका है। [नहीं, यह नहीं है](PEOPLE.md) _ "संदेश। यदि आप किसी भी समीक्षा साइट पर नकारात्मक समीक्षा पोस्ट करते हैं, तो वे [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxn_org/status/1178722159432220672) पर प्रयास करेंगे। )।
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </विवरण>
 
@@ -72,13 +71,11 @@ Cloudflare [व्यक्तिगत जानकारी साझा क�
 आपकी सही आई.डी. यदि आप परेशान नहीं होना चाहते हैं, तो [हमला](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-to-rui.html) या [मार डाला](https://twitter.com/RusEmbUSA/status/1187363092793040901), आप बेहतर तरीके से Cloudflared वेबसाइटों से दूर रहते हैं।
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </विवरण>
 
@@ -183,14 +180,16 @@ CloudFlare Tor पर नॉन-टोर-ब्राउज़र के उप
 ध्यान दें कि पेपर पंजीकरण, क्लाउडफ्लेयर को दरकिनार नहीं करता है क्योंकि राज्य डेटा प्रविष्टि कर्मचारी कर्मचारियों के सचिव संभवतः उपयोग करेंगे
 डेटा दर्ज करने के लिए Cloudflare वेबसाइट।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org वोट इकट्ठा करने और कार्रवाई करने के लिए एक प्रसिद्ध वेबसाइट है। "" सभी लोग अभियान शुरू कर रहे हैं, समर्थकों को जुटा रहे हैं, और निर्णय निर्माताओं के साथ समाधान के लिए काम कर रहे हैं।](https://web.archive.org/web/20200206120027/https://www.change.org/about) "
 दुर्भाग्य से, बहुत से लोग Cloudflare के आक्रामक फ़िल्टर के कारण change.org को नहीं देख सकते हैं। उन्हें याचिका पर हस्ताक्षर करने से रोका जा रहा है, इस प्रकार उन्हें लोकतांत्रिक प्रक्रिया से बाहर रखा गया है। अन्य गैर-क्लाउडफ़ेयर प्लेटफ़ॉर्म जैसे कि [OpenPetition](https://www.openpetition.eu/content/about_us) का उपयोग करके समस्या को दूर करने में मदद मिलती है।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare की "[Athenian Project](https://www.cloudflare.com/athenian/)" राज्य और स्थानीय चुनाव वेबसाइटों को निःशुल्क उद्यम-स्तर की सुरक्षा प्रदान करती है। उन्होंने कहा "_यात्र घटक चुनाव की जानकारी और मतदाता पंजीकरण_ तक पहुंच सकते हैं" लेकिन यह एक झूठ है क्योंकि बहुत से लोग बस साइट को ब्राउज़ नहीं कर सकते हैं।
 

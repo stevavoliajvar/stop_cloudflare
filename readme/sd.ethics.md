@@ -32,11 +32,10 @@ Cloudflare چيو پنھنجي سروس استعمال ڪندي [سڀني اسپ
 Cloudflare کي چالو ڪرڻ کان بغير اسين CloudCloud کي اسپامرز کي ڪيئن روڪي سگھون ٿا؟
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </تفصيل>
 
@@ -52,9 +51,9 @@ Cloudflare کي چالو ڪرڻ کان بغير اسين CloudCloud کي اسپ�
 Cloudflare سنسر [منفي جائزو](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). جيڪڏهن توهان Twitter تي _anti-Cloudflare_ متن پوسٽ ڪندا آهيو ، توهان کي [جواب] حاصل ڪرڻ جو موقعو آهي (https://twitter.com/CloudflareHelp/status/1126051764917145601) [Cloudflare ملازم] کان (cloudflare_inc/cloudflare_members.txt) "_" [نه ، اهو ناهي](PEOPLE.md) _ "پيغام. جيڪڏهن توهان ڪنهن به جائزي واري سائيٽ تي منفي جائزو پوسٽ ڪندا ته هُو [سنسر] ڪرڻ جي ڪوشش ڪندا (https://twitter.com/phyzonloop/status/1178836176985366529) [اهو](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </تفصيل>
 
@@ -72,13 +71,11 @@ Cloudflare [ذاتي معلومات حصيداري ڪري ٿو](https://archive.
 توهان جي صحيح سڃاڻپ. جيڪڏهن توهان هارائڻ نه چاهيو ، [حملو ڪيو ويو](https://twitter.com/NiteShade925/status/1158469203420205056) ، [سوٽ ٿيل](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) يا [مارجي ويو](https://twitter.com/RusEmbUSA/status/1187363092793040901) ، توهان ڀلي ڪلوڊ فلڊ ڪيل ويب سائيٽن کان پري رهو.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </تفصيل>
 
@@ -183,14 +180,16 @@ Cloudflare کي تور استعمال ڪندڙن جي ميزباني علاج ،
 نوٽ ڪيو ته ڪاغذ جي رجسٽريشن Cloudflare جي ڀڃڪڙي نه ڪندو آهي ڇاڪاڻ ته رياست جي سيڪريٽري داخلا جي عملي جا عملدار ممڪن طور تي استعمال ڪندا
 Cloudflare ويب سائيٽ ڊيٽا داخل ڪرڻ لاءِ.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org ووٽن کي گڏ ڪرڻ ۽ ڪم وٺڻ لاءِ هڪ مشهور ويبسائيٽ آهي. "[هر جڳهه تي ماڻهو ماڻهو جي مهم شروع ڪري رهيا آهن ، سپورٽرن کي متحرڪ ڪري رهيا آهن ، ۽ فيصلن تي عمل ڪرڻ لاءِ فيصلن تي ڪم ڪري رهيا آهن.) (https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 بدقسمتي سان ، گهڻا ماڻهو Cloud.org جي جارحتي فلٽر جي ڪري Change.org کي بلڪل نه ڏسي سگهندا آهن. انهن کي درخواستن تي دستخط ڪرڻ کان روڪيو پيو وڃي ، انهي ڪري انهن کي جمهوري عمل کان پري ڪيو ويو. ٻيون غير ڪلائوڊ فليڊرڊ پليٽ فارم استعمال ڪريو جهڙوڪ [اوپن پيٽيشن](https://www.openpetition.eu/content/about_us) مسئلي کي حل ڪرڻ ۾ مدد ڪري ٿي.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare's "[ايٿينين پروجيڪٽ](https://www.cloudflare.com/athenian/)" رياست ۽ مقامي چونڊ ويب سائيٽن کي انٽرنيشنل-سطح تحفظ مفت پيش ڪري ٿو. انهن چيو ته "_انهن جا حلقا چونڊ جي معلومات ۽ ووٽر جي داخلا تائين رسائي ڪري سگهن ٿا" پر اهو ڪوڙ آهي ڇاڪاڻ ته ڪيترائي ماڻهو صرف سائيٽ کي برائوز نٿا ڪري سگهن.
 

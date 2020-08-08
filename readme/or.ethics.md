@@ -32,11 +32,10 @@
 କ୍ଲାଉଡ୍ ଫ୍ଲାର୍କୁ ସକ୍ରିୟ ନକରି ଆମେ କିପରି _ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ସ୍ପାମର୍ସ_ ବନ୍ଦ କରିପାରିବା?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@
 କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ସେନ୍ସର [ନକାରାତ୍ମକ ସମୀକ୍ଷା](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853) ଯଦି ଆପଣ ଟ୍ୱିଟରରେ _anti-Cloudflare_ ପାଠ୍ୟ ପୋଷ୍ଟ କରନ୍ତି, ତେବେ ଆପଣଙ୍କୁ [ଉତ୍ତର](https://twitter.com/CloudflareHelp/status/1126051764917145601) [Cloudflare କର୍ମଚାରୀ](cloudflare_inc/cloudflare_members.txt) ସହିତ ପାଇବାର ସୁଯୋଗ ଅଛି | [ନା, ଏହା ନୁହେଁ](PEOPLE.md) _ "ବାର୍ତ୍ତା | ଯଦି ଆପଣ କ review ଣସି ସମୀକ୍ଷା ସାଇଟରେ ଏକ ନକାରାତ୍ମକ ସମୀକ୍ଷା ପୋଷ୍ଟ କରନ୍ତି, ସେମାନେ [ସେନ୍ସର](https://twitter.com/phyzonloop/status/1178836176985366529) ଚେଷ୍ଟା କରିବେ (ଏହା) (https://twitter.com/dxgl_org/status/1178722159432220672 )
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@
 ତୁମର ପ୍ରକୃତ ID ଯଦି ତୁମେ ହଇରାଣ ହେବାକୁ ଚାହୁଁନାହଁ, [ଆକ୍ରମଣ](https://twitter.com/NiteShade925/status/1158469203420205056), [ସ୍ ated ାଟେଡ୍]( -set-out-to-rui.html) କିମ୍ବା [ହତ୍ୟା](https://twitter.com/RusEmbUSA/status/1187363092793040901), ଆପଣ କ୍ଲାଉଡ୍ ଫ୍ଲେରେଡ୍ ୱେବସାଇଟ୍ ଠାରୁ ଦୂରରେ ରୁହନ୍ତୁ |
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@
 ଧ୍ୟାନ ଦିଅନ୍ତୁ ଯେ କାଗଜ ପଞ୍ଜୀକରଣ କ୍ଲାଉଡଫ୍ଲେର୍ କୁ ଅତିକ୍ରମ କରେ ନାହିଁ କାରଣ ରାଜ୍ୟ ଡାଟା ଏଣ୍ଟ୍ରି କର୍ମଚାରୀଙ୍କ ସଚିବ ସମ୍ଭବତ। ଏହାକୁ ବ୍ୟବହାର କରିବେ |
 ଡାଟା ପ୍ରବେଶ କରିବାକୁ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ୱେବସାଇଟ୍ |
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org ଭୋଟ୍ ସଂଗ୍ରହ ଏବଂ କାର୍ଯ୍ୟାନୁଷ୍ଠାନ ପାଇଁ ଏକ ପ୍ରସିଦ୍ଧ ୱେବସାଇଟ୍ | "[ସବୁ ଜାଗାରେ ଲୋକମାନେ ଅଭିଯାନ ଆରମ୍ଭ କରୁଛନ୍ତି, ସମର୍ଥକମାନଙ୍କୁ ଏକତ୍ରିତ କରୁଛନ୍ତି ଏବଂ ସମାଧାନ ପାଇଁ ନିଷ୍ପତ୍ତି ନେଉଥିବା ଲୋକଙ୍କ ସହିତ କାମ କରୁଛନ୍ତି।](https://web.archive.org/web/20200206120027/https://www.change.org/about)
 ଦୁର୍ଭାଗ୍ୟବଶତ।, କ୍ଲାଉଡ୍ ଫ୍ଲାରର ଆକ୍ରମଣାତ୍ମକ ଫିଲ୍ଟର୍ ଯୋଗୁଁ ଅନେକ ଲୋକ change.org ଆଦ view ଦେଖିପାରିବେ ନାହିଁ | ସେମାନଙ୍କୁ ଏକ ଗଣତାନ୍ତ୍ରିକ ପ୍ରକ୍ରିୟାରୁ ବାଦ ଦେଇ ଏହି ଆବେଦନପତ୍ରରେ ଦସ୍ତଖତ କରିବାକୁ ସେମାନଙ୍କୁ ଅବରୋଧ କରାଯାଇଛି। ଅନ୍ୟାନ୍ୟ କ୍ଲାଉଡ୍ ଫ୍ଲେରେଡ୍ ପ୍ଲାଟଫର୍ମ ବ୍ୟବହାର କରିବା ଯେପରିକି [OpenPetition](https://www.openpetition.eu/content/about_us) ସମସ୍ୟାର ସମାଧାନ କରିବାରେ ସାହାଯ୍ୟ କରେ |
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - କ୍ଲାଉଡ୍ ଫ୍ଲେୟାରର "[ଆଥେନିଆନ୍ ପ୍ରୋଜେକ୍ଟ](https://www.cloudflare.com/athenian/)" ରାଜ୍ୟ ତଥା ସ୍ଥାନୀୟ ନିର୍ବାଚନ ୱେବସାଇଟକୁ ମାଗଣା ଉଦ୍ୟୋଗ ସ୍ତରୀୟ ସୁରକ୍ଷା ପ୍ରଦାନ କରିଥାଏ | ସେମାନେ କହିଛନ୍ତି ଯେ "ସେମାନଙ୍କର ନିର୍ବାଚନମଣ୍ଡଳୀ ନିର୍ବାଚନ ସୂଚନା ଏବଂ ଭୋଟର ପଞ୍ଜିକରଣ କରିପାରିବେ" କିନ୍ତୁ ଏହା ଏକ ମିଥ୍ୟା କାରଣ ଅନେକ ଲୋକ ଏହି ସାଇଟ୍ ବ୍ରାଉଜ୍ କରିପାରିବେ ନାହିଁ।
 

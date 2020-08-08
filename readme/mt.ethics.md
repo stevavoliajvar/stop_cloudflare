@@ -32,11 +32,10 @@ Cloudflare qal li uża s-servizz tagħhom [jista ’jwaqqaf lill-ispammers jew l
 Kif nistgħu nwaqqfu _Cloudflare lill-ispammers_ mingħajr ma nattivaw Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Kif nistgħu nwaqqfu _Cloudflare lill-ispammers_ mingħajr ma nattivaw Cloudflar
 Cloudflare censure [reviżjonijiet negattivi](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Jekk tibgħat it-test _anti-Cloudflare_ fuq Twitter, għandek iċ-ċans li tikseb [tweġiba](https://twitter.com/CloudflareHelp/status/1126051764917145601) minn [impjegat Cloudflare](cloudflare_inc/cloudflare_members.txt) b '"_[Le, mhuwiex](PEOPLE.md) _ "messaġġ. Jekk tippubblika reviżjoni negattiva fuq kwalunkwe sit ta 'reviżjoni, huma jippruvaw [jiċċensuraw](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [taqsam informazzjoni personali](https://archive.ph/ePdvi) ta 'dawk [
 l-identità vera tiegħek. Jekk ma tridx tkun iffastidjat, [attakkat](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) jew [maqtula](https://twitter.com/RusEmbUSA/status/1187363092793040901), aħjar tibqa 'l bogħod mill-websajts Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ jagħmel lill-votanti prospettivi joqogħdu lura milli jirreġistraw. Il-liberal
 Innota li r-reġistrazzjoni tal-karta ma tevitax Cloudflare minħabba li s-segretarju tal-istat tad-dħul tal-ħaddiema tal-persunal tad-dħul x'aktarx se juża
 Websajt Cloudflare tidħol fid-dejta.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org hija websajt famuża biex tiġbor il-voti u tieħu azzjoni. "[in-nies kullimkien qed jibdew kampanji, jimmobilizzaw il-partitarji u jaħdmu ma 'dawk li jieħdu d-deċiżjonijiet biex imexxu s-soluzzjonijiet.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Sfortunatament, ħafna nies ma jistgħux jaraw change.org kollha minħabba l-filtru aggressiv ta 'Cloudflare. Huma qed jiġu mblukkati milli jiffirmaw il-petizzjoni, u b'hekk jeskluduhom minn proċess demokratiku. L-użu ta 'pjattaforma oħra mhux cloudfra bħal [OpenPetition](https://www.openpetition.eu/content/about_us) jgħin biex jirrimedja l-problema.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Il-proġett [[Proġett Athenian] ta 'Cloudflare (https://www.cloudflare.com/athenian/) "joffri protezzjoni bla livell ta' intrapriża għall-websajts tal-elezzjoni lokali u statali. Huma qalu li "l-kostitwenti tat-terz jistgħu jkollhom aċċess għall-informazzjoni dwar l-elezzjoni u r-reġistrazzjoni tal-votanti" iżda din hija gidba għax ħafna nies sempliċement ma jistgħux jibbrawżjaw is-sit.
 

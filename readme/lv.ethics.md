@@ -32,11 +32,10 @@ Cloudflare teica, ka, izmantojot savu pakalpojumu, [var apturēt visus surogātp
 Kā mēs varam apturēt _Cloudflare surogātpasta izplatītājus_, neaktivizējot Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Kā mēs varam apturēt _Cloudflare surogātpasta izplatītājus_, neaktivizējo
 Mākoņa uzliesmojuma cenzors [negatīvas atsauksmes](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Ja jūs ievietojat _anti-Cloudflare_ tekstu Twitter, jums ir iespēja saņemt [atbildi](https://twitter.com/CloudflareHelp/status/1126051764917145601) no [Cloudflare darbinieks](cloudflare_inc/cloudflare_members.txt) ar “_ [Nē, tā nav](PEOPLE.md) _ "ziņojums. Ja jūs ievietojat negatīvu atsauksmi jebkurā pārskatīšanas vietnē, viņi mēģinās [cenzēt](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [dalās ar personisko informāciju](https://archive.ph/ePdvi) no tiem
 tavs īstais ID. Ja nevēlaties uzmācīties, [uzbrūk](https://twitter.com/NiteShade925/status/1158469203420205056), [iesita](https://boingboing.net/2015/01/19/invasion-boards) -set-out-to-rui.html) vai [nogalināts](https://twitter.com/RusEmbUSA/status/1187363092793040901), labāk palieciet prom no Cloudflared vietnēm.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Lielākā daļa valstu publisko tikai šīs informācijas apakškopu, bet Cloudf
 Ņemiet vērā, ka reģistrācija uz papīra neliek apiet Cloudflare, jo valsts datu ievades darbinieku sekretārs, iespējams, izmantos
 Vietne Cloudflare datu ievadīšanai.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org ir slavena vietne balsojumu apkopošanai un rīcībai. "[Cilvēki visur sāk kampaņas, mobilizē atbalstītājus un sadarbojas ar lēmumu pieņēmējiem, lai virzītu risinājumus.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Diemžēl Cloudflare agresīvā filtra dēļ daudzi cilvēki vispār nevar apskatīt change.org. Viņiem tiek liegts parakstīt petīciju, tādējādi izslēdzot viņus no demokrātiskā procesa. Izmantojot citu platformu, kas nav aizklāta, piemēram, [OpenPetition](https://www.openpetition.eu/content/about_us), problēmu var novērst.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare vietne “[Athenian Project](https://www.cloudflare.com/athenian/)” piedāvā bezmaksas uzņēmuma līmeņa aizsardzību valsts un pašvaldību vēlēšanu vietnēm. Viņi teica, ka "viņu vēlētāji var piekļūt informācijai par vēlēšanām un vēlētāju reģistrēšanai", bet tas ir meli, jo daudzi cilvēki vietni vienkārši nevar pārlūkot.
 

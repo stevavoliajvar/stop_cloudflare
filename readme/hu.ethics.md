@@ -32,11 +32,10 @@ A Cloudflare azt mondta, hogy a szolgáltatásuk felhasználásával [megállít
 Hogyan lehet megállítani a _Cloudflare spammers_ szolgáltatást a Cloudflare aktiválása nélkül?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </Részletek>
 
@@ -52,9 +51,9 @@ Hogyan lehet megállítani a _Cloudflare spammers_ szolgáltatást a Cloudflare 
 Cloudflare cenzor [negatív vélemények](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Ha _anti-Cloudflare_ szöveget tesz közzé a Twitteren, akkor lehetősége van [válasz](https://twitter.com/CloudflareHelp/status/1126051764917145601) megszerzésére a [Cloudflare alkalmazott](cloudflare_inc/cloudflare_members.txt) a "_[Nem, ez nem](PEOPLE.md) _ "üzenet. Ha bármelyik felülvizsgálati webhelyen negatív véleményt tesz közzé, akkor megpróbálják cenzúrálni (https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </Részletek>
 
@@ -72,13 +71,11 @@ Cloudflare [megosztja a személyes információkat](https://archive.ph/ePdvi) az
 az igazi igazolód. Ha nem akarja zaklatni, [támadják meg](https://twitter.com/NiteShade925/status/1158469203420205056), [verdelt](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) vagy [megölt](https://twitter.com/RusEmbUSA/status/1187363092793040901), jobb, ha távol tartózkodik a Cloudflared webhelyektől.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </Részletek>
 
@@ -183,14 +180,16 @@ A legtöbb állam ezeknek az információknak csak egy részét teszi nyilvános
 Vegye figyelembe, hogy a papíralapú regisztráció nem akadályozza meg a Cloudflare alkalmazását, mivel az állami adatbeviteli alkalmazottak titkára valószínűleg használja a
 Cloudflare webhely az adatok beviteléhez.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - A Change.org egy híres weboldal a szavazatok összegyűjtésére és a cselekvésre. "[Az emberek mindenhol kampányokat indítanak, támogatóikat mozgósítanak, és a döntéshozókkal együttműködnek a megoldások előmozdítása érdekében.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Sajnos sok ember egyáltalán nem tudja megtekinteni a change.org oldalt a Cloudflare agresszív szűrője miatt. Tiltják őket a petíció aláírásával, így kizárva őket a demokratikus folyamatról. Más nem felhőalapú platform, például az [OpenPetition](https://www.openpetition.eu/content/about_us) használata segít megoldani a problémát.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - A Cloudflare „[atheniai projekt](https://www.cloudflare.com/athenian/)” ingyenes vállalati szintű védelmet kínál az állami és helyi választási webhelyek számára. Azt mondták, hogy "_választóik hozzáférhetnek a választási információkhoz és a választói regisztrációhoz", de ez hazugság, mert sokan egyszerűen nem tudják böngészni az oldalt.
 

@@ -32,11 +32,10 @@ Dywedodd Cloudflare y gall defnyddio eu gwasanaeth [atal pob sbamiwr neu ymosodw
 Sut allwn ni atal sbamwyr_Cloudflare_ heb actifadu Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Sut allwn ni atal sbamwyr_Cloudflare_ heb actifadu Cloudflare?
 Sensor Cloudflare [adolygiadau negyddol](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Os ydych chi'n postio testun _anti-Cloudflare_ ar Twitter, mae gennych gyfle i gael [ateb](https://twitter.com/CloudflareHelp/status/1126051764917145601) gan [Cloudflare gweithiwr](cloudflare_inc/cloudflare_members.txt) gyda "_[Na, nid yw](PEOPLE.md) _ "neges. Os byddwch yn postio adolygiad negyddol ar unrhyw safle adolygu, byddant yn ceisio [sensro](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [yn rhannu gwybodaeth bersonol](https://archive.ph/ePdvi) o'r rhai [p
 eich gwir ID. Os nad ydych chi am gael eich aflonyddu, [ymosodwyd](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) neu [lladd](https://twitter.com/RusEmbUSA/status/1187363092793040901), mae'n well ichi aros i ffwrdd o wefannau Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Mae'r rhan fwyaf o daleithiau ond yn sicrhau bod is-set o'r wybodaeth honno ar g
 Sylwch nad yw cofrestriad papur yn osgoi Cloudflare oherwydd bydd ysgrifenyddes staff staff mewnbynnu data yn debygol o ddefnyddio'r
 Gwefan Cloudflare i fewnbynnu'r data.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Mae Change.org yn wefan enwog ar gyfer casglu pleidleisiau a gweithredu. "[mae pobl ym mhobman yn cychwyn ymgyrchoedd, yn annog cefnogwyr, ac yn gweithio gyda'r rhai sy'n gwneud penderfyniadau i yrru atebion.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Yn anffodus, ni all llawer o bobl weld change.org o gwbl oherwydd hidlydd ymosodol Cloudflare. Maent yn cael eu rhwystro rhag llofnodi'r ddeiseb, gan eu heithrio rhag proses ddemocrataidd. Mae defnyddio platfform arall heb gymylau fel [OpenPetition](https://www.openpetition.eu/content/about_us) yn helpu i ddatrys y broblem.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Mae "[Athenian Project] Cloudflare (https://www.cloudflare.com/athenian/)" yn cynnig amddiffyniad ar lefel menter am ddim i wefannau etholiadau gwladol a lleol. Dywedon nhw "_gall eu hetholwyr gael gafael ar wybodaeth etholiad a chofrestru pleidleiswyr_" ond celwydd yw hwn oherwydd bod llawer o bobl yn methu â phori'r wefan o gwbl.
 

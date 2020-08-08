@@ -52,9 +52,9 @@ Nchịkọta>
 Onye nyocha Cloudflare [nyocha na-adịghị mma](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Ọ bụrụ n’etinye ederede _anti-Cloudflare_ na Twitter, ị ga-enwe ohere ịnweta [nzaghachi](https://twitter.com/CloudflareHelp/status/1126051764917145601) sitere na [Cloudflare_inc/Cloudflare_members.txt) na "_[Ee e, ọ bụghị](ND.m M.m.) _ "ozi. Ọ bụrụ n’itinye saịtị na-adịghị mma na saịtị nyocha ọ bụla, ha ga-anwale [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672) ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -118,7 +118,7 @@ Kedu ihe ị ga - eme ma ọ bụrụ na saịtị gị ga - agbada _suddenly_? 
 <details>
 Nchịkọta> _click me_
 
-#Kpa oke ire # # Browser
+#Kpa oke ire ## Browser
 Nchịkọta>
 
 
@@ -183,14 +183,16 @@ Imirikiti steeti na-ewepụta ozi ahụ naanị n'ihu ọha, mana Cloudflare na-
 Mara na ndebanye aha akwụkwọ anaghị egbochi Cloudflare n'ihi na odeakwụkwọ nke ndị ọrụ ntinye data steeti ga-eji ya
 Weebụ Cloudflare webanye data.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org bụ weebụsaịtị nke ama ama maka ịnakọta ntuli aka ma mee ihe. "[ndị mmadụ nọ ebe niile na-amalite mkpọsa, na-akpọkọta ndị na-akwado ya, ma soro ndị na-eme mkpebi na-arụ ọrụ iji nye nsogbu.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 O di nwute, otutu ndi mmadu apughi ilele Change.org ma obucha ya na nzacha ike nke Cloudflare. A na-egbochi ha ịbịanye akwụkwọ mkpesa ahụ, si otú ahụ na-ewepụ ha n'usoro ọchịchị onye kwuo uche ya. Iji usoro ọzọ na-enweghị ojii ojii dị ka [OpenPetition](https://www.openpetition.eu/content/about_us) na-enyere aka idozi nsogbu ahụ.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare si "[Athenian Project](https://www.cloudflare.com/athenian/)" na-enye nchebe ụlọ ọrụ larịị steeti na ntanetị mpaghara. Ha kwuru na "ndị otu ha nwere ike ịnweta ozi ntuli aka na ndebanye aha ndị na-eme ntuli aka" mana nke a bụ ụgha n'ihi na ọtụtụ ndị enweghị ike ịchọgharị saịtị ahụ ma ọlị.
 

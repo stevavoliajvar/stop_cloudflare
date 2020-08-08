@@ -32,11 +32,10 @@
 ווי קענען מיר האַלטן _קלאָודפלאַרע ספּאַממערס_ אָן אַקטאַווייטינג קלאָודפלאַרע?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@
 קלאָוספלאַרע צענזור [נעגאַטיוו באריכטן](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). אויב איר פּאָסטן _anti-Cloudflare_ טעקסט אויף טוויטטער, איר האָבן אַ געלעגנהייַט צו באַקומען אַ [ענטפער](https://twitter.com/CloudflareHelp/status/1126051764917145601) פֿון [Cloudflare אָנגעשטעלטער](cloudflare_inc/cloudflare_members.txt) מיט "_[ניין, דאָס איז נישט](PEOPLE.md) _ "אָנזאָג. אויב איר פּאָסטן אַ נעגאַטיוו אָפּשאַצונג אויף קיין אָפּשאַצונג פּלאַץ, זיי וועלן פּרובירן צו [צענזור](https://twitter.com/phyzonloop/status/1178836176985366529) [עס](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@
 דיין אמת שייַן. אויב איר ווילט נישט באַקומען כעראַסיד, [אַטאַקע](https://twitter.com/NiteShade925/status/1158469203420205056), [סוואַטטעד](https://boingboing.net/2015/01/19/invasion-boards (שטעלן-אויס-צו-rui.html) אָדער [געהרגעט](https://twitter.com/RusEmbUSA/status/1187363092793040901), איר בעסער האַלטן אַוועק פון קלאָודפלאַרעד וועבסיטעס.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@
 באַמערקונג אַז פּאַפּיר רעגיסטראַציע קען נישט אַרומקוקן קלאָודפלאַרע ווייַל די סעקרעטאַר פון שטאַט דאַטן פּאָזיציע שטעקן טוערס וועט מסתּמא נוצן די
 קלאָודפלאַרע וועבזייטל צו אַרייַן די דאַטן.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org איז אַ באַרימט וועבזייטל פֿאַר קאַלעקטינג וואָוץ און נעמען קאַמף. "[מענטשן אומעטום אָנהייבן קאַמפּיינז, מאָובאַליזירן סופּפּאָרטערס און אַרבעטן מיט באַשלוס מייקערז צו פאָרן סאַלושאַנז.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 צום באַדויערן, פילע מענטשן קענען נישט זען Change.org רעכט צו קלאָודפלאַרע ס אַגרעסיוו פילטער. זיי ווערן בלאקירט פון אונטערשרייבן די פּעטיציע, און אזוי אויסשליסן זיי פון א דעמאָקראטישן פראצעס. ניצן אנדערע פּלאַטפאָרמע ניט-קלאָודפלאַרעד, אַזאַ ווי [OpenPetition](https://www.openpetition.eu/content/about_us), העלפּס צו רעמאָוואַל די פּראָבלעם.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - קלאָודפלאַרע ס "[אַטהעניאַן פּראָיעקט](https://www.cloudflare.com/athenian/)" אָפפערס פריי שוץ פאַרנעמונג צו שטאַט און היגע וואַלן וועבסיטעס. זיי האבן געזאגט אז "זייערע קאנסטיטוצענטן קענען אריינגיין אין וואל-אינפארמאציע און וויילער-רעגיסטראציע."
 
