@@ -32,11 +32,10 @@ Cloudflare a déclaré que l'utilisation de son service [peut arrêter tous les 
 Comment pouvons-nous arrêter les spammeurs _Cloudflare_ sans activer Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Comment pouvons-nous arrêter les spammeurs _Cloudflare_ sans activer Cloudflare
 Cloudflare censor [avis négatifs](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Si vous publiez du texte _anti-Cloudflare_ sur Twitter, vous avez la possibilité d'obtenir une [réponse](https://twitter.com/CloudflareHelp/status/1126051764917145601) de [employé Cloudflare](cloudflare_inc/cloudflare_members.txt) avec "_[Non, ce n'est pas le message](PEOPLE.md) _ ". Si vous publiez un avis négatif sur un site d'avis, ils essaieront de [censurer](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [partage des informations personnelles](https://archive.ph/ePdvi) de 
 votre véritable identité. Si vous ne voulez pas être harcelé, [agressé](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ou [tué](https://twitter.com/RusEmbUSA/status/1187363092793040901), vous feriez mieux de rester à l'écart des sites Web Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ La plupart des États ne mettent à la disposition du public qu'un sous-ensemble
 Notez que l'enregistrement papier ne contourne pas Cloudflare car les employés du secrétaire d'État à la saisie des données utiliseront probablement le
 Site Web Cloudflare pour saisir les données.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org est un site célèbre pour recueillir des votes et passer à l'action. «[les gens partout dans le monde lancent des campagnes, mobilisent des partisans et travaillent avec les décideurs pour trouver des solutions.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Malheureusement, de nombreuses personnes ne peuvent pas du tout afficher change.org en raison du filtre agressif de Cloudflare. Ils sont empêchés de signer la pétition, les excluant ainsi d'un processus démocratique. L'utilisation d'une autre plate-forme non cloudflared telle que [OpenPetition](https://www.openpetition.eu/content/about_us) permet de remédier au problème.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Le "[Projet Athénien](https://www.cloudflare.com/athenian/)" de Cloudflare offre une protection gratuite au niveau de l'entreprise aux sites Web électoraux nationaux et locaux. Ils ont dit que "leurs électeurs peuvent accéder aux informations électorales et à l'inscription des électeurs" mais c'est un mensonge parce que beaucoup de gens ne peuvent tout simplement pas naviguer sur le site.
 

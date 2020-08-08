@@ -18,7 +18,7 @@
 <details>
 <summary> _click me_
 
-Ang # # CloudFlare ay nagbibigay ng mga tao
+Ang ## CloudFlare ay nagbibigay ng mga tao
 </summary>
 
 
@@ -32,11 +32,10 @@ Sinabi ni Cloudflare gamit ang kanilang serbisyo [maaaring ihinto ang lahat ng m
 Paano natin mapipigilan ang _Cloudflare spammers_ nang hindi nag-activate ng Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -45,16 +44,16 @@ Paano natin mapipigilan ang _Cloudflare spammers_ nang hindi nag-activate ng Clo
 <details>
 <summary> _click me_
 
-# # Alisin ang pagsusuri ng gumagamit
+## Alisin ang pagsusuri ng gumagamit
 </summary>
 
 
 Ang sensor ng Cloudflare [negatibong mga pagsusuri](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Kung nag-post ka ng _anti-Cloudflare_ text sa Twitter, mayroon kang isang pagkakataon na makakuha ng isang [tugon](https://twitter.com/CloudflareHelp/status/1126051764917145601) mula sa [empleyado ng Cloudflare](cloudflare_inc/cloudflare_members.txt) kasama ang "_[Hindi, hindi](PEOPLE.md) _ "mensahe. Kung nag-post ka ng negatibong pagsusuri sa anumang site ng pagsusuri, susubukan nilang [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [ito](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -63,7 +62,7 @@ Ang sensor ng Cloudflare [negatibong mga pagsusuri](https://web.archive.org/web/
 <details>
 <summary> _click me_
 
-# # Mga gumagamit ng Doxxing
+## Mga gumagamit ng Doxxing
 </summary>
 
 
@@ -72,13 +71,11 @@ Cloudflare [nagbabahagi ng personal na impormasyon](https://archive.ph/ePdvi) ng
 ang iyong totoong ID. Kung hindi mo nais na mai-harassed, [assaulted](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/0/19/invasion-boards -set-out-to-rui.html) o [pinatay](https://twitter.com/RusEmbUSA/status/1187363092793040901), mas mahusay mong lumayo sa mga website ng Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -87,7 +84,7 @@ ang iyong totoong ID. Kung hindi mo nais na mai-harassed, [assaulted](https://tw
 <details>
 <summary> _click me_
 
-# # Pangangasiwa ng Corporate ng mga kontribusyon sa kawanggawa
+## Pangangasiwa ng Corporate ng mga kontribusyon sa kawanggawa
 </summary>
 
 
@@ -103,7 +100,7 @@ Ang CloudFlare ay [nagtatanong](https://web.archive.org/web/20191112033605/https
 <details>
 <summary> _click me_
 
-# # Mga pagtatapos ng mga site
+## Mga pagtatapos ng mga site
 </summary>
 
 
@@ -189,8 +186,9 @@ Cloudflare website upang maipasok ang data.
 - Ang Change.org ay isang tanyag na website para sa pangangalap ng mga boto at kumilos. "Ang mga tao sa lahat ng dako ay nagsisimula mga kampanya, pagpapakilos ng mga tagasuporta, at nagtatrabaho sa mga gumagawa ng desisyon upang magmaneho ng mga solusyon.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Sa kasamaang palad, maraming mga tao ay hindi maaaring tingnan ang change.org nang dahil sa agresibong filter ng Cloudflare. Pinigilan sila mula sa paglagda sa petisyon, kaya hindi kasama ang mga ito mula sa isang demokratikong proseso. Ang paggamit ng iba pang platform na hindi cloudflared tulad ng [OpenPetition](https://www.openpetition.eu/content/about_us) ay tumutulong sa paglutas ng problema.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Ang Cloudflare's "[Athenian Project](https://www.cloudflare.com/athenian/)" ay nag-aalok ng libreng proteksyon sa antas ng negosyo sa mga website at lokal na halalan. Sinabi nila na "ang mga nasasakupan ay maaaring ma-access ang impormasyon sa halalan at pagpaparehistro ng botante" ngunit ito ay kasinungalingan sapagkat maraming tao ang hindi maaaring mag-browse sa site.
 
@@ -216,7 +214,7 @@ Kung nag-opt-out ka ng isang bagay, inaasahan mong wala kang natatanggap na emai
 <details>
 <summary> _click me_
 
-# # Pagsinungaling tungkol sa pagtanggal ng data ng gumagamit
+## Pagsinungaling tungkol sa pagtanggal ng data ng gumagamit
 </summary>
 
 
@@ -244,7 +242,7 @@ Paano ka mapagkakatiwalaan sa Cloudflare kung [ang kanilang patakaran sa privacy
 <details>
 <summary> _click me_
 
-# # Panatilihin ang iyong personal na impormasyon
+## Panatilihin ang iyong personal na impormasyon
 </summary>
 
 
@@ -268,7 +266,7 @@ Maaari mo bang "tiwala" ito?
 
 ---
 
-# # Mangyaring magpatuloy sa susunod na pahina: "[Mga Voice Voice ng Voiceflect](../PEOPLE.md)"
+## Mangyaring magpatuloy sa susunod na pahina: "[Mga Voice Voice ng Voiceflect](../PEOPLE.md)"
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
