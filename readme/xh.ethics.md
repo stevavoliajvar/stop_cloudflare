@@ -18,7 +18,7 @@ Imicimbi yokuziphatha
 <details>
 <summary> _ndicofe_
 
-# # CloudFlare spams abantu
+## CloudFlare spams abantu
 </summary>
 
 
@@ -32,11 +32,10 @@ I-Cloudflare ithe isebenzisa inkonzo yabo [inokuyekisa zonke i-spammers okanye a
 Singayimisa njani _Cloudflare spammers_ ngaphandle kokuvula iCloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -45,16 +44,16 @@ Singayimisa njani _Cloudflare spammers_ ngaphandle kokuvula iCloudflare?
 <details>
 <summary> _ndicofe_
 
-# # Susa uhlaziyo lomsebenzisi
+## Susa uhlaziyo lomsebenzisi
 </summary>
 
 
 I-Cloudflare censor [uphononongo olubi](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Ukuba uthumela u-_anti-Cloudflare_ isicatshulwa kwi-Twitter, unethuba lokufumana [impendulo](https://twitter.com/CloudflareHelp/status/1126051764917145601) from [Cloudflare staff](Cloudflare_inc/Cloudflare_member.txt) with "_[Hayi, ayilunganga](BANTU.md) _ "umyalezo. Ukuba uthumela uphononongo olungelulo nakweyiphi na indawo yokujonga, baya kuzama [ukubala](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -63,7 +62,7 @@ I-Cloudflare censor [uphononongo olubi](https://web.archive.org/web/201911160040
 <details>
 <summary> _ndicofe_
 
-# # Abasebenzisi be-Doxxing
+## Abasebenzisi be-Doxxing
 </summary>
 
 
@@ -87,7 +86,7 @@ incwadi yakho yesazisi Ukuba awufuni ukuba ungcungcuthekiswe, [wahlaselwa](https
 <details>
 <summary> _ndicofe_
 
-# # Ukucela ngokunyanzelisa iminikelo yokupha
+## Ukucela ngokunyanzelisa iminikelo yokupha
 </summary>
 
 
@@ -118,7 +117,7 @@ Uya kwenza ntoni ukuba indawo yakho iyehla _selyly_? Kukho iingxelo zokuba iClou
 <details>
 <summary> _ndicofe_
 
-# # # # Umkhethekisi womthengisi
+## ## Umkhethekisi womthengisi
 </summary>
 
 
@@ -189,8 +188,9 @@ I-Cloudflare iwebhusayithi ukufaka idatha.
 -Inguqulo yeWebhusayithi yenye iwebhusayithi eyaziwayo yokuqokelela iivoti kwaye ithathe inyathelo. "[abantu kuyo yonke indawo baqala amaphulo, ukuhlanganisa abaxhasi, kunye nokusebenza kunye nabathathi izigqibo ukuhambisa izisombululo.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Ngelishwa, abantu abaninzi abakwazi ukujonga utshintsho kwi -.org ngenxa yokucoca iiflat. Banqunyanyisiwe ukuba basayine uxwebhu lwezikhalazo, ngaloo ndlela bababandakanye kwinkqubo yedemokhrasi. Sebenzisa elinye iqonga elingenziwanga lifu njenge- [OpenPlication](https://www.openpetition.eu/content/about_us) liyanceda ukulungisa ingxaki.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - "I-Cloudflare's" [Iprojekthi ye-Athenean](https://www.cloudflare.com/athenian/) "inika ukhuseleko kwinqanaba lamashishini mahala kurhulumente nakwiiwebhusayithi zonyulo lwasekhaya. Babesithi "_abantu bakhona banokufikelela kulwazi lonyulo kunye nokubhaliswa kwabavoti_" kodwa obu bubuxoki kuba abantu abaninzi abanakukwazi ukukhangela indawo konke konke.
 
@@ -268,7 +268,7 @@ Ngaba "ungayithemba" le?
 
 ---
 
-# # Nceda uqhubeke kwiphepha elilandelayo: "[I-Cloudflare Voices](../Bantu.md)"
+## Nceda uqhubeke kwiphepha elilandelayo: "[I-Cloudflare Voices](../Bantu.md)"
 
 ![] [
 ![] [

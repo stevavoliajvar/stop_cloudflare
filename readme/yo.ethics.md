@@ -189,8 +189,9 @@ Oju opo wẹẹbu Cloudflare lati tẹ data naa.
 - Change.org jẹ oju opo wẹẹbu olokiki fun apejọ ibo ati mu igbese. "[awọn eniyan nibi gbogbo n bẹrẹ awọn ipolowo, n mu awọn olupolowo jọ, ati ṣiṣẹ pẹlu awọn oluṣe ipinnu lati wakọ awọn ojutu.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Laisi ani, ọpọlọpọ eniyan ko le wo ayipada.org ni gbogbo nitori iṣafihan ibinu ibinu Cloudflare. Wọn ṣe idilọwọ lati fowo si iwe ẹbẹ, nitorinaa ya wọn kuro ninu ilana tiwantiwa. Lilo Syeed miiran ti ko ṣe awọsanma bii [OpenPetition](https://www.openpetition.eu/content/about_us) ṣe iranlọwọ atunṣe iṣoro naa.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare's "[Project Athenian](https://www.cloudflare.com/athenian/)" nfunni ni idaabobo ipele-iṣẹ ọfẹ ọfẹ si awọn oju opo wẹẹbu idibo agbegbe. Wọn sọ pe "Awọn oludije wọn le wọle si alaye idibo ati iforukọsilẹ oludibo_" ṣugbọn eyi jẹ irọ nitori ọpọlọpọ eniyan ko le ṣawakiri aaye naa rara.
 
