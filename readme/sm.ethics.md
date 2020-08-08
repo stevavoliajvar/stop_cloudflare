@@ -32,11 +32,10 @@ Fai mai Cloudflare le faaaogaina o la latou auaunaga [e mafai ona taofia uma spa
 Faʻafefea mafai ona tatou taofia _Cloudflare spammers_ aunoa ma le faʻatinoina Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Faʻafefea mafai ona tatou taofia _Cloudflare spammers_ aunoa ma le faʻatinoina
 Cloudflare censor [iloiloga le lelei](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Afai e te lafoina _anti-Cloudflare_ tusitusiga i luga o le Twitter, e iai lou avanoa e maua ai se [tali](https://twitter.com/CloudflareHelp/status/1126051764917145601) mai le [Cloudflare tagata faigaluega](cloudflare_inc/cloudflare_members.txt) ma "_[Leai, e leʻo](PEOPLE.md) _ "feau. Afai e te lafoina se iloiloga le lelei i soʻo se nofoaga o iloiloga, o le a latou taumafai e [faʻamatalaina](https://twitter.com/phyzonloop/status/1178836176985366529) [ia](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [faʻasoa faʻamatalaga a le tagata lava ia](https://archive.ph/ePdvi
 lau ID moni. Afai e te le manaʻo e faʻalavelave, [osofaʻia](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) pe [fasioti](https://twitter.com/RusEmbUSA/status/1187363092793040901), e sili ai lou nofo ese mai le Cloudflared 'upega tafaʻilagi.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Ole tele o setete na o le faia o se vaega o na faʻamatalaga faʻalauaʻitele, a
 Manatua o pepa faʻamauina e le taofiofia Cloudflare ona o le failautusi o le setete faʻamaumauga faʻamaumauga ulufale tagata faigaluega ono ono faʻaaogaina le
 Cloudflare 'upega tafaʻilagi e ulufale i faʻamaumauga.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org o se lauiloa 'upega tafaʻilagi mo le aoina o palota ma faia gaioiga. "[tagata i soo se mea e amata ai ni faʻasalalauga, e unaʻiina tagata lagolago, ma galulue faʻatasi ma tagata e faia faʻaiuga e avatua ni fofo.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Ae paga lea, e toʻatele tagata e le mafai ona vaʻavaʻai i le change.org ona o le malosi o le Cloudflare. O loʻo poloka latou i le sainia o le talosaga, e le aofia ai i latou mai le faʻatemokarasi. O le faʻaaogaina o isi tulaga e le o ni cloudflared pei o le [OpenPetition](https://www.openpetition.eu/content/about_us) e foia ai le faʻafitauli.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare's "[Atenian Poloketi](https://www.cloudflare.com/athenian/)" ofoina fua-pisinisi tulaga-puipuia puipuiga i tulaga o le setete ma le palota i le lotoifale uepisaite. Na latou fai mai "_e mafai e tagata o latou itumalo ona maua faʻamatalaga a le palota ma le lesitala o tagata palota".
 

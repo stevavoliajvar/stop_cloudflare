@@ -32,11 +32,10 @@ Cloudflare wuxuu sheegay in adeeggooda [ay joojin karaan dhammaan kuwa khafiifka
 Sidee ayaan u joojin karnaa _Cloudflare spammers_ annaga oo aan dhaqaajin Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Soo-koobitaan>
 Faafida Cloudflare [dib u eegista taban](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Hadaad dhejiso _anti-Cloudflare_ qoraalka Twitterka, waxaad fursad uheleysaa inaad hesho [reply](https://twitter.com/CloudflareHelp/status/1126051764917145601) kana yimaada [Cloudflare_inc/Cloudflare_members.txt) oo leh "_[Maya, maahan](PEOPLE.md) _ "farriin. Haddii aad dhejisid dulucda bog kasta oo aad fiiriso, waxay isku dayi doonaan [faafreeb](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672) ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [waxay wadaagaan macluumaadka shaqsiga ah](https://archive.ph/ePdvi) 
 aqoonsigaaga dhabta ah. Haddii aadan rabin in lagu kadeedo, [la weeraray](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ama [ladilay](https://twitter.com/RusEmbUSA/status/1187363092793040901), inaad si fiican uga fogow boggaga internetka ee Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Gobollada badankood waxay sameyaan qayb keliya macluumaadkaas si caam ah oo la h
 Xusuusnow diiwaangelinta waraaqaha ma xaddidayso Cloudflare sababta oo ah xoghayaha shaqaalaha soo gelitaanka xogta gobolka ayaa u badan tahay inuu isticmaali doono
 Websaydhka Cloudflare si aad u gashid xogta.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org waa degel caan ah oo aruurinta codadka isla markaana tallaabo laga qaado. "[dadka meelkasta waxay bilaabayaan ololeyaal, abaabulayaan taageerayaal, iyo kala shaqaynta kuwa go'aan gaara si xalka loo wado.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Nasiib darrose, dad badani ma arki karaan Change.org marwalba oo ay ugu wacan tahay filterka gardarada leh ee Cloudflare. Waxaa laga hor joogsaday inay saxeexaan codsiga, sidaas darteedna ay uga saaraan hanaan dimuqraadiyadeed. Adeegsiga madal kale oo aan daruur lahayn sida [OpenPetition](https://www.openpetition.eu/content/about_us) waxay ka caawineysaa hagaajinta dhibaatada.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare's "[Mashruuca Athenian](https://www.cloudflare.com/athenian/)" waxay siisaa ilaalin heer-caalami ah shabakadaha doorashada ee dowladda hoose. Waxay yiraahdeen "_Codbixiyayaasheeda ayaa marin u heli kara macluumaadka doorashada iyo diiwaangelinta cod bixiyaha_" laakiin tani waa been sababtoo ah dad badan ayaan kaliya ka eegi karin goobta.
 
