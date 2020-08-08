@@ -32,11 +32,10 @@
 ക്ലൗഡ്ഫ്ലെയർ സജീവമാക്കാതെ നമുക്ക് എങ്ങനെ _ക്ല oud ഡ്ഫ്ലെയർ സ്പാമറുകൾ_ നിർത്താൻ കഴിയും?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@
 ക്ലൗഡ്ഫ്ലെയർ സെൻസർ [നെഗറ്റീവ് അവലോകനങ്ങൾ](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). നിങ്ങൾ ട്വിറ്ററിൽ _anti-Cloudflare_ വാചകം പോസ്റ്റുചെയ്യുകയാണെങ്കിൽ, [ക്ലൗഡ്ഫ്ലെയർ ജീവനക്കാരൻ](ക്ലൗഡ്ഫ്ലെയർ_ഇൻക്/ക്ലൗഡ്ഫ്ലെയർ_മെംബർസ്_ടെക്സ്റ്റ്) [ഇല്ല, ഇത് അല്ല](PEOPLE.md) _ "സന്ദേശം. ഏതെങ്കിലും അവലോകന സൈറ്റിൽ നിങ്ങൾ ഒരു നെഗറ്റീവ് അവലോകനം പോസ്റ്റുചെയ്യുകയാണെങ്കിൽ, അവർ [സെൻസർ] ചെയ്യാൻ ശ്രമിക്കും (https://twitter.com/phyzonloop/status/1178836176985366529) [ഇത്](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@
 നിങ്ങളുടെ യഥാർത്ഥ ഐഡി. നിങ്ങൾക്ക് ഉപദ്രവിക്കാൻ താൽപ്പര്യമില്ലെങ്കിൽ, [ആക്രമണം](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) അല്ലെങ്കിൽ [കൊല്ലപ്പെട്ടു](https://twitter.com/RusEmbUSA/status/1187363092793040901), നിങ്ങൾ ക്ലൗഡ്ഫ്ലേഡ് വെബ്‌സൈറ്റുകളിൽ നിന്ന് വിട്ടുനിൽക്കുന്നതാണ് നല്ലത്.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@
 പേപ്പർ രജിസ്ട്രേഷൻ ക്ലൗഡ്ഫ്ലെയറിനെ മറികടക്കുന്നില്ല എന്നത് ശ്രദ്ധിക്കുക, കാരണം സ്റ്റേറ്റ് ഡാറ്റാ എൻട്രി സ്റ്റാഫ് തൊഴിലാളികളുടെ സെക്രട്ടറി ഇത് ഉപയോഗിക്കും
 ഡാറ്റ നൽകുന്നതിന് ക്ലൗഡ്ഫ്ലെയർ വെബ്സൈറ്റ്.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - വോട്ട് ശേഖരിക്കുന്നതിനും നടപടിയെടുക്കുന്നതിനുമുള്ള ഒരു പ്രശസ്ത വെബ്‌സൈറ്റാണ് Change.org. "[എല്ലായിടത്തുമുള്ള ആളുകൾ കാമ്പെയ്‌നുകൾ ആരംഭിക്കുന്നു, പിന്തുണക്കാരെ അണിനിരത്തുന്നു, പരിഹാരങ്ങൾ എടുക്കുന്നതിന് തീരുമാനമെടുക്കുന്നവരുമായി പ്രവർത്തിക്കുന്നു.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 നിർഭാഗ്യവശാൽ, ക്ലൗഡ്ഫ്ലേറിന്റെ ആക്രമണാത്മക ഫിൽട്ടർ കാരണം നിരവധി ആളുകൾക്ക് change.org കാണാൻ കഴിയില്ല. നിവേദനത്തിൽ ഒപ്പിടുന്നതിൽ നിന്ന് അവരെ തടയുന്നു, അങ്ങനെ അവരെ ജനാധിപത്യ പ്രക്രിയയിൽ നിന്ന് ഒഴിവാക്കുന്നു. [ഓപ്പൺപെറ്റിഷൻ](https://www.openpetition.eu/content/about_us) പോലുള്ള ക്ലൗഡ്ഫ്ലെയർ അല്ലാത്ത പ്ലാറ്റ്ഫോം ഉപയോഗിക്കുന്നത് പ്രശ്‌ന പരിഹാരത്തിന് സഹായിക്കുന്നു.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - ക്ലൗഡ്ഫ്ലേറിന്റെ "[അഥീനിയൻ പ്രോജക്റ്റ്](https://www.cloudflare.com/athenian/)" സംസ്ഥാന, പ്രാദേശിക തിരഞ്ഞെടുപ്പ് വെബ്‌സൈറ്റുകൾക്ക് സ enter ജന്യ എന്റർപ്രൈസ് ലെവൽ പരിരക്ഷ നൽകുന്നു. അവർ പറഞ്ഞു, “അവരുടെ ഘടകങ്ങൾക്ക് തിരഞ്ഞെടുപ്പ് വിവരങ്ങളും വോട്ടർ രജിസ്ട്രേഷനും ആക്സസ് ചെയ്യാൻ കഴിയും” എന്നാൽ ഇത് ഒരു നുണയാണ്, കാരണം ധാരാളം ആളുകൾക്ക് സൈറ്റ് ബ്ര rowse സ് ചെയ്യാൻ കഴിയില്ല.
 

@@ -32,11 +32,10 @@ Cloudflare dia nilaza tamin'ny fampiasana ny serivany [afaka manakana ny mpitsik
 Ahoana no ahafahantsika manakana ny _Cloudflare spammers_ tsy mampandeha ny Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </Tsipiriany>
 
@@ -52,9 +51,9 @@ Ahoana no ahafahantsika manakana ny _Cloudflare spammers_ tsy mampandeha ny Clou
 Ny sivana Cloudflare [hevitra ratsy](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Raha mandefa lahatsoratra _anti-Cloudflare_ ao amin'ny Twitter ianao, dia manana vintana hahazoana valiny (https://twitter.com/CloudflareHelp/status/1126051764917145601) avy amin'ny [mpiasa Cloudflare](cloudflare_inc/cloudflare_members.txt) miaraka amin'ny "_[Tsia, tsy izy](PEOPLE.md) _ "hafatra. Raha mandefa valin-kevitra momba ny tranokala misy ianao dia hanandrana [censor](https://twitter.com/phyzonloop/status/1178836176985366529) (it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </Tsipiriany>
 
@@ -72,13 +71,11 @@ Cloudflare [mizara fampahalalana momba ny tena manokana](https://archive.ph/ePdv
 ny tena ID-nao. Raha tsy te-hikorontana ianao, [nanafika](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) na [namono](https://twitter.com/RusEmbUSA/status/1187363092793040901), aleo lavitra kokoa ny tranokala Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </Tsipiriany>
 
@@ -183,14 +180,16 @@ Ny ankamaroan'ny fanjakana dia manao ampahany kely amin'ny fampahalalana azon'ny
 Marihina fa tsy miharatsy ny Cloudflare ny fanoratana taratasy satria mety hiasan'ny mpiasan'ny mpiasam-panjakana miditra ao anaty data ny
 Tranonkala Cloudflare hidirana ny angon-drakitra.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org dia tranonkala malaza amin'ny fanangonana vato ary handraisana andraikitra. "[ny olona rehetra na aiza na aiza dia manomboka fanentanana, fanentanana ny mpanohana ary miara-miasa amin'ireo mpanapa-kevitra hitondra vahaolana.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Mampalahelo fa betsaka ny olona tsy afaka mijery ny fiovana.org noho ny sivana mahery vaika Cloudflare. Voatazona tsy hiditra sonia ny fangatahana izy ireo, ka manilika azy ireo amin'ny fomba demaokratika. Ny fampiasana platform tsy misy rahona hafa toy ny [OpenPetition](https://www.openpetition.eu/content/about_us) dia manampy amin'ny famahana ny olana.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Ny Cloudflare's "[Tetikasa Atena](https://www.cloudflare.com/athenian/)" dia manome fiarovana amin'ny sehatry ny sehatra maimaimpoana amin'ny tranokala an'ny fanjakana sy eo an-toerana. Nilaza izy ireo fa "ireo mpizara dia afaka miditra amin'ny fampahalalana momba ny fifidianana sy ny fisoratana anarana amin'ny mpifidy" saingy mandainga izany satria maro ny olona tsy afaka mijery ny tranokala mihitsy.
 
