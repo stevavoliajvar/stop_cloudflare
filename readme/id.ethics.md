@@ -32,11 +32,10 @@ Cloudflare mengatakan menggunakan layanan mereka [dapat menghentikan semua pengi
 Bagaimana cara menghentikan _Cloudflare spammers_ tanpa mengaktifkan Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Bagaimana cara menghentikan _Cloudflare spammers_ tanpa mengaktifkan Cloudflare?
 Sensor Cloudflare [ulasan negatif](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Jika Anda memposting teks _anti-Cloudflare_ di Twitter, Anda memiliki kesempatan untuk mendapatkan [balasan](https://twitter.com/CloudflareHelp/status/1126051764917145601) dari [Karyawan Cloudflare](cloudflare_inc/cloudflare_members.txt) dengan "_[Tidak, ini bukan](PEOPLE.md) _ ". Jika Anda memposting ulasan negatif di situs ulasan mana pun, mereka akan mencoba [menyensor](https://twitter.com/phyzonloop/status/1178836176985366529) [itu](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [membagikan informasi pribadi](https://archive.ph/ePdvi) dari mereka 
 ID Anda yang sebenarnya. Jika Anda tidak ingin dilecehkan, [diserang](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) atau [terbunuh](https://twitter.com/RusEmbUSA/status/1187363092793040901), lebih baik Anda menjauh dari situs Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Sebagian besar negara bagian hanya membuat sebagian dari informasi itu tersedia 
 Perhatikan bahwa pendaftaran kertas tidak menghindari Cloudflare karena pekerja staf entri data sekretaris negara kemungkinan akan menggunakan file
 Situs Cloudflare untuk memasukkan data.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org adalah situs web terkenal untuk mengumpulkan suara dan mengambil tindakan. "[orang di mana pun memulai kampanye, memobilisasi pendukung, dan bekerja dengan pengambil keputusan untuk mendorong solusi.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Sayangnya, banyak orang tidak dapat melihat change.org sama sekali karena filter agresif Cloudflare. Mereka diblokir dari menandatangani petisi, sehingga mengeluarkan mereka dari proses demokrasi. Menggunakan platform non-cloudflared lainnya seperti [OpenPetition](https://www.openpetition.eu/content/about_us) membantu memperbaiki masalah.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - "Proyek Athenian" Cloudflare (https://www.cloudflare.com/athenian/) "menawarkan perlindungan tingkat perusahaan gratis untuk situs web pemilihan negara bagian dan lokal. Mereka mengatakan "_konstituen mereka dapat mengakses informasi pemilu dan pendaftaran pemilih_" tetapi ini bohong karena banyak orang tidak bisa menjelajahi situs sama sekali.
 

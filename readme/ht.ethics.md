@@ -32,11 +32,10 @@ Cloudflare di lè l sèvi avèk sèvis yo [ka sispann tout spame oswa atakan](ht
 Kòman nou ka sispann spammers _Cloudflare_ san yo pa aktive Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Kòman nou ka sispann spammers _Cloudflare_ san yo pa aktive Cloudflare?
 Cloudflare censor [revize negatif](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Si ou afiche tèks _anti-Cloudflare_ sou Twitter, ou gen yon chans pou jwenn yon [repons](https://twitter.com/CloudflareHelp/status/1126051764917145601) nan [anplwaye Cloudflare](cloudflare_inc/cloudflare_members.txt) ak "_[Pa gen, li pa](PEOPLE.md) _ "mesaj. Si ou poste yon revizyon negatif sou nenpòt sit revizyon an, yo pral eseye [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [li](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [pataje enfòmasyon pèsonèl](https://archive.ph/ePdvi) nan moun [ki
 vrè ID ou. Si ou pa vle anmède, [agresyon](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) oswa [touye](https://twitter.com/RusEmbUSA/status/1187363092793040901), ou pi bon rete lwen sit wèb Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -118,7 +115,7 @@ Ki sa w ap fè si sit ou desann _suddenly_? Gen rapò ke Cloudflare se [efase](h
 <detay>
 <summary> _click me_
 
-# # Navigatè diskriminasyon machann
+## Navigatè diskriminasyon machann
 </summary>
 
 
@@ -183,14 +180,16 @@ Pifò eta yo sèlman fè yon sou nan enfòmasyon ki disponib piblikman, men Clou
 Remake byen ke anrejistreman papye pa kontourne Cloudflare paske sekretè a nan travayè done antrepriz leta done ap gen chans pou itilize nan
 Cloudflare sit entènèt antre nan done yo.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org se yon sit entènèt pi popilè pou rasanble vòt yo epi pran aksyon. "[moun ki toupatou ap kòmanse kanpay, mobilize sipòtè yo, epi travay ak k ap pran desizyon pou kondwi solisyon yo.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Malerezman, anpil moun pa ka wè change.org nan tout akòz filtè agresif Cloudflare. Yo bloke yo siyen petisyon an, eksklizyon yo nan yon pwosesis demokratik. Lè l sèvi avèk lòt platfòm ki pa cloudflared tankou [OpenPetition](https://www.openpetition.eu/content/about_us) ede remèd pwoblèm nan.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare a "[Atenyen Pwojè](https://www.cloudflare.com/athenian/)" ofri pwoteksyon gratis antrepriz-nivo sou sit entènèt ak lokal eleksyon lokal yo. Yo te di ke "elektè yo ka gen aksè a enfòmasyon sou eleksyon yo ak enskripsyon votè yo" men se yon manti paske anpil moun jis pa ka navige sit la nan tout.
 
