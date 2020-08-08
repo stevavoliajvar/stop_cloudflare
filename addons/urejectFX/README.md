@@ -10,5 +10,5 @@ Versio: _1.0.3_
 
 -----
 
-- [More Information / Download](../../subfiles/about.urjm.md)
+- [More information / Download](../../subfiles/about.urjm.md)
 - Disclaimer: This is NOT a mirror of upstream repository. Synchronization may be delayed.
