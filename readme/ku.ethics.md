@@ -32,11 +32,10 @@ Cloudflare got karanîna karûbarê wan [dikare hemî spammers an êrîşkar raw
 Em çawa dikarin bêyî rawestandina Cloudflare çalak bikin _Cloudflare spammers_?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Em çawa dikarin bêyî rawestandina Cloudflare çalak bikin _Cloudflare spammer
 Censor Cloudflare [nirxandinên neyînî](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Ger hûn nivîsa _anti-Cloudflare_ li ser Twitter bişînin, we şans heye ku hûn [bersiv] bidin (https://twitter.com/CloudflareHelp/status/1126051764917145601) ji [karmendê Cloudflare](cloudflare_inc/cloudflare_members.txt) bi "_[Na, ne ew e](PEOPLE.md) _ "peyam. Heke hûn li ser malpera rexnedayînek negatîf binivîsin, ew ê hewl bidin ku [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [ew](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [agahdariya kesane parve dike](https://archive.ph/ePdvi) ji yên [kî
 nasnameya xweya rastîn. Ger hûn nexwazin ku hûn aciz bibin, [êriş kirin](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) an [kuştin](https://twitter.com/RusEmbUSA/status/1187363092793040901), hûn çêtir in ku ji malperên Cloudflared dûr bimînin.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Piraniya dewletan tenê parçeyek ji wê agahdariyê bi gelemperî pêk tîne, l
 Têbînî ku qeydkirina kaxezê li Cloudflare nagire ji ber ku sekreterê karûbarên karmendên daneya daneya dewletbûnê dê dê guman bikar bîne
 Malpera Cloudflare da ku daneya têkevinê.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org ji bo berhevkirina dengan û çalakiyek kir malperek navdar e. "[Mirov li her deverê dest bi kampanyayê dikin, alîgirên xwe seh dikin, û bi biryargeran re dixebitin ku çareseriyan derxînin.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Mixabin, gelek kes ji ber filtera agirbestî ya Cloudflare nekarin biguhezînin.org. Ew ji îmzekirina daxwaznameyê de têne asteng kirin, bi vî rengî wan ji pêvajoyek demokratîk dûr dike. Bikaranîna platformek din a bê-cloudflandî ya wekî [OpenPetition](https://www.openpetition.eu/content/about_us) alîkariya çareserkirina pirsgirêkê dike.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare "[Projeya Athenian](https://www.cloudflare.com/athenian/)" "parastina serhêl-asta pargîdanî ji bo malper û hilbijartinên herêmî yên herêmî pêşkêşî dike. Wan digot "_hilbijartinên wan dikarin bigihîjin agahdariya hilbijartinê û qeydkirina dengder_" lê ev derewek e ji ber ku gelek kes bi tenê nikaribin li ser malperê bigerin.
 

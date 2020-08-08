@@ -32,11 +32,10 @@ Cloudflare는 서비스를 사용하여 [모든 스패머 또는 공격자를 �
 Cloudflare를 활성화하지 않고 _Cloudflare 스패머 _를 어떻게 막을 수 있습니까?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Cloudflare를 활성화하지 않고 _Cloudflare 스패머 _를 어떻게 막을
 Cloudflare censor [음성 리뷰](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Twitter에 _anti-Cloudflare_ 텍스트를 게시하면 [Cloudflare 직원](cloudflare_inc/cloudflare_members.txt)에서 "_"로 [답장](https://twitter.com/CloudflareHelp/status/1126051764917145601)을받을 수 있습니다. [아니요](PEOPLE.md) _ "메시지입니다. 리뷰 사이트에 부정적인 리뷰를 게시하면 [검열](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [개인 정보 공유](https ://arch..ph/ePdvi) [누가](https://twit
 당신의 진짜 ID. 괴롭힘을 당하고 싶지 않다면 [폭행](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) 또는 [killed](https://twitter.com/RusEmbUSA/status/1187363092793040901), Cloudflared 웹 사이트를 멀리하는 것이 좋습니다.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Cloud 사용자의 Torflare 적대적인 치료, 중앙 집중식 글로벌 감�
 문서 등록은 주 데이터 입력 직원의 비서관이 Cloudflare를 우회하지 않을 가능성이 높으므로
 Cloudflare 웹 사이트에서 데이터를 입력하십시오.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 -Change.org는 투표를 모으고 조치를 취하는 유명한 웹 사이트입니다. "[모든 곳의 사람들이 캠페인을 시작하고, 지지자를 동원하고, 의사 결정자와 협력하여 솔루션을 추진하고 있습니다.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 불행히도 많은 사람들은 Cloudflare의 공격적인 필터로 인해 change.org를 전혀 볼 수 없습니다. 그들은 청원서에 서명하는 것이 차단되어 민주적 절차에서 배제되고 있습니다. [OpenPetition](https://www.openpetition.eu/content/about_us)과 같이 Cloudflared가 아닌 다른 플랫폼을 사용하면 문제를 해결하는 데 도움이됩니다.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 -Cloudflare의 "[Athenian Project](https://www.cloudflare.com/athenian/)"는 주 및 지방 선거 웹 사이트에 대한 엔터프라이즈 수준의 무료 보호를 제공합니다. 그들은 "_그들의 유권자들이 선거 정보와 유권자 등록에 접근 할 수있다 _"라고 말했지만 많은 사람들이 사이트를 전혀 찾아 볼 수 없기 때문에 이것은 거짓말입니다.
 

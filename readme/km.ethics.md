@@ -32,11 +32,10 @@ Cloudflare បាននិយាយថាការប្រើប្រាស់
 តើយើងអាចបញ្ឈប់ _Cloudflare spammers_ ដោយមិនធ្វើឱ្យ Cloudflare សកម្មយ៉ាងដូចម្តេច?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Cloudflare បាននិយាយថាការប្រើប្រាស់
 អ្នកត្រួតពិនិត្យ Cloudflare [ការពិនិត្យអវិជ្ជមាន](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853) ។ ប្រសិនបើអ្នកសរសេរអត្ថបទ _anti-Cloudflare_ នៅលើ Twitter អ្នកនឹងមានឱកាសទទួលបាន [ការឆ្លើយតប](https://twitter.com/CloudflareHelp/status/1126051764917145601) ពីបុគ្គលិក [Cloudflare](cloudflare_inc/cloudflare_members.txt) ជាមួយ "_(ទេវាមិនមែនទេ) (PEOPLE.md) _ "សារ។ ប្រសិនបើអ្នកបង្ហោះការពិនិត្យអវិជ្ជមាននៅលើគេហទំព័រពិនិត្យណាមួយពួកគេនឹងព្យាយាម [ពិនិត្យពិចារណា](https://twitter.com/phyzonloop/status/1178836176985366529) [វា](https://twitter.com/dxgl_org/status/1178722159432220672 ) ។
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [ចែករំលែកព័ត៌មានផ្ទាល់ខ�
 អត្តសញ្ញាណប័ណ្ណពិតរបស់អ្នក។ ប្រសិនបើអ្នកមិនចង់ទទួលការយាយី [វាយដំ](https://twitter.com/NiteShade925/status/11584692034202020556), [បានប្តូរ](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ឬ [សម្លាប់](https://twitter.com/RusEmbUSA/status/1187363092793040901) អ្នកនៅឆ្ងាយពីគេហទំព័ររបស់ Cloudflared ។
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ CloudFlare ផ្តល់នូវការអនុគ្រោះដល់អ
 ចំណាំថាការចុះឈ្មោះក្រដាសមិនជៀសវាង Cloudflare ទេពីព្រោះលេខាធិការនៃបុគ្គលិកទិន្នន័យបញ្ចូលទិន្នន័យរបស់រដ្ឋទំនងជានឹងប្រើឯកសារនេះ
 គេហទំព័រ Cloudflare ដើម្បីបញ្ចូលទិន្នន័យ។
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org គឺជាគេហទំព័រដ៏ល្បីល្បាញមួយសម្រាប់ការប្រមូលសន្លឹកឆ្នោតនិងចាត់វិធានការ។ "ប្រជាជននៅគ្រប់ទីកន្លែងកំពុងចាប់ផ្តើមយុទ្ធនាការប្រមូលផ្តុំអ្នកគាំទ្រនិងធ្វើការជាមួយអ្នកធ្វើការសម្រេចចិត្តដើម្បីជំរុញដំណោះស្រាយ។ " (https://web.archive.org/web/20200206120027/https://www.change.org/about) "
 ជាអកុសលមនុស្សជាច្រើនមិនអាចមើលវេបសាយផ្លាស់ប្តូរវេបសាយទាំងអស់បានទេដោយសារត្រងរបស់ Cloudflare ។ ពួកគេកំពុងត្រូវបានរារាំងមិនឱ្យចុះហត្ថលេខាលើញត្តិដូច្នេះមិនរាប់បញ្ចូលពួកគេពីដំណើរការប្រជាធិបតេយ្យ។ ការប្រើប្រាស់វេទិកាដែលមិនមែនជាពពកផ្សេងទៀតដូចជា [OpenPetition](https://www.openpetition.eu/content/about_us) ជួយដោះស្រាយបញ្ហា។
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 -“ [Athenian Project] របស់ Cloudflare” (https://www.cloudflare.com/athenian/) ផ្តល់នូវការការពារកម្រិតសហគ្រាសឥតគិតថ្លៃដល់គេហទំព័របោះឆ្នោតក្នុងរដ្ឋនិងមូលដ្ឋាន។ ពួកគេបាននិយាយថា“ អ្នកចូលរួមអាចទទួលបានព័ត៌មានអំពីការបោះឆ្នោតនិងការចុះឈ្មោះអ្នកបោះឆ្នោត” ប៉ុន្តែនេះគឺជាការភូតកុហកពីព្រោះមនុស្សជាច្រើនមិនអាចរកមើលគេហទំព័របានទាល់តែសោះ។
 
