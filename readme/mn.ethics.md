@@ -32,11 +32,10 @@ Cloudflare тэдний үйлчилгээг ашиглан [бүх спам б�
 Бид Cloudflare-г идэвхжүүлэхгүйгээр _Cloudflare спамеруудыг хэрхэн зогсоох вэ?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details> үзнэ үү
 
@@ -52,9 +51,9 @@ Cloudflare тэдний үйлчилгээг ашиглан [бүх спам б�
 Cloudflare цензур [сөрөг тойм](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Хэрэв та _anti-Cloudflare_ текстийг Твиттер дээр байрлуулсан бол "Cloudflare ажилтан" -аас (cloudflare_inc/cloudflare_members.txt) "хариу" (https://twitter.com/CloudflareHelp/status/1126051764917145601) авах боломжтой. [Үгүй ээ, энэ биш](PEOPLE.md) _ "гэсэн мессеж. Хэрэв та аливаа тойм сайт дээр сөрөг тойм байрлуулсан бол тэд [цензур](https://twitter.com/phyzonloop/status/1178836176985366529) [үүнийг](https://twitter.com/dxgl_org/status/1178722159432220672) оролдох болно. ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details> үзнэ үү
 
@@ -72,13 +71,11 @@ Cloudflare [хувийн мэдээллийг] [https://tiveitter.com/ZJemptv/st
 таны жинхэнэ үнэмлэх. Хэрэв та дарамтлахыг хүсэхгүй бол [довтолсон](https://twitter.com/NiteShade925/status/115846920342020505656), [шуугиантай](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) эсвэл [алагдсан](https://twitter.com/RusEmbUSA/status/1187363092793040901) бол Cloudflared вэбсайтуудаас хол байх нь дээр.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details> үзнэ үү
 
@@ -183,14 +180,16 @@ Cloudflare-ийн Tor хэрэглэгчдэд дайсагнасан хандл
 Цахим бүртгэл нь Cloudflare-ийг давж гарахгүй гэдгийг анхаарна уу, учир нь төрийн мэдээлэл оруулах ажилтнуудын нарийн бичгийн дарга нар ашиглах болно
 Cloudflare вэбсайтад мэдээлэл оруулах боломжтой.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org бол санал хураалт явуулж, арга хэмжээ авах алдартай вэбсайт юм. "[хаа сайгүй хүмүүс кампанит ажил эхлүүлж, дэмжигчдийг дайчлан, шийдвэр гаргагчидтай хамтран ажиллаж, шийдэл жолоодож байна.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Харамсалтай нь, Cloudflare-ийн түрэмгий шүүлтүүрээс болж ихэнх хүмүүс change.org-г огт харах боломжгүй байна. Тэд өргөдөлд гарын үсэг зурах эрхийг нь хааж байгаа тул ардчилсан үйл ажиллагаанд оруулахгүй байгаа юм. [OpenPetition](https://www.openpetition.eu/content/about_us) гэх мэт бусад гэрээгүй платформ ашиглах нь асуудлыг шийдвэрлэхэд тусална.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare-ийн "[Афинийн төсөл](https://www.cloudflare.com/athenian/)" нь улсын болон орон нутгийн сонгуулийн вэбсайтуудад аж ахуйн нэгжийн түвшний үнэгүй хамгаалалтыг санал болгодог. Тэд "_тоглогчид сонгуулийн мэдээлэл, сонгогчдын бүртгэлд нэвтрэх боломжтой" гэсэн боловч олон хүмүүс сайтыг ердөө л хайдаггүй тул энэ нь худлаа юм.
 
