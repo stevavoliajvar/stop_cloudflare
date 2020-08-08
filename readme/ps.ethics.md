@@ -32,11 +32,10 @@
 موږ څنګه کولی شو د کلاوډ فلیر فعالولو پرته د _ کلاډ فلیر سپیمرانو مخه ونیسو؟
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@
 د کلاوډ فلیر سانسور [منفي بیاکتنې](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). که تاسو په ټویټر کې _anti-Cloudflare_ متن پوسټ کړئ ، نو تاسو د [بادغیس/کارمند] کارمند](کلاوډ فلیر_یناک/کلاوډ فلیر_ میمبر.ټکس) سره [ځواب](https://twitter.com/CloudflareHelp/status/1126051764917145601) ترلاسه کولو فرصت لرئ [نه ، دا ندی](PEOPLE.md) _ "پیغام. که تاسو په کومې بیاکتنې سایټ کې منفي بیاکتنه پوسټ کړئ ، دوی به [سانسور] هڅه وکړي (https://twitter.com/phyzonloop/status/1178836176985366529) [دا](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -183,14 +182,16 @@
 په یاد ولرئ چې د کاغذ ثبت کول د کلاوډ فلیر مخنیوی نه کوي ځکه چې د بهرنیو چارو وزارت د معلوماتو داخلې کارمندانو کارمندان به احتمال له دې څخه کار واخلي
 د معلوماتو داخلولو لپاره کلاوډ فلایر ویب پاlaه.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - بدلون.org د رایو راغونډولو او عمل کولو لپاره مشهوره ویب پا .ه ده. "[هرچیرې خلک کمپاینونه پیل کوي ، ملاتړ کونکي متحرک کوي ، او د حل لارې چلولو لپاره پریکړه کونکو سره کار کوي.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 بدبختانه ، ډیری خلک د کلاوډ فلیر د تیښتي فلټر له امله نشي کولی په بدلون کې.org.org وګوري. دوی د غوښتنلیک لاسلیک کولو څخه منع کیږي ، پدې توګه دوی د دیموکراتیک پروسې څخه لرې کوي. د نورو غیر بادل پلور شوي پلیټ فارم کارول لکه [OpenPistance](https://www.openpetition.eu/content/about_us) د ستونزې په حل کې مرسته کوي.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - د کلاوډ فلایر "[د ایتینین پروژه](https://www.cloudflare.com/athenian/)" د ریاست او ځایی ټاکنو ویب پا toو ته د وړیا تشبث کچې محافظت وړاندیز کوي. دوی وویل "د دې حوزې حوزې کولی شي د ټاکنو معلوماتو او د رایې ورکوونکو نوم لیکنې ته لاسرسی ولري" مګر دا دروغ دی ځکه چې ډیری خلک یوازې دا سایټ نشي لیدلی.
 

@@ -32,11 +32,10 @@ Cloudflare a spus că folosind serviciul lor [poate opri toți spammerii sau ata
 Cum putem opri _Cloudflare spammers_ fără a activa Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </Detalii>
 
@@ -52,9 +51,9 @@ Cum putem opri _Cloudflare spammers_ fără a activa Cloudflare?
 Cenzor Cloudflare [recenzii negative](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Dacă postați _anti-Cloudflare_ text pe Twitter, aveți șansa de a obține un [răspuns](https://twitter.com/CloudflareHelp/status/1126051764917145601) de la [angajat Cloudflare](cloudflare_inc/cloudflare_members.txt) cu "_[Nu, nu este](PEOPLE.md) _ "mesaj. Dacă postați o recenzie negativă pe orice site de recenzie, ei vor încerca să [cenzureze](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </Detalii>
 
@@ -72,13 +71,11 @@ Cloudflare [împărtășește informații personale](https://archive.ph/ePdvi) c
 adevăratul tău ID. Dacă nu doriți să vă hărțuiți, [asaltați](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) sau [ucis](https://twitter.com/RusEmbUSA/status/1187363092793040901), mai bine stai departe de site-urile Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </Detalii>
 
@@ -183,14 +180,16 @@ Majoritatea statelor fac doar un subset al informațiilor disponibile publicului
 Rețineți că înregistrarea pe hârtie nu ocolește Cloudflare, deoarece secretarul de stat lucrătorii personalului de introducere a datelor vor utiliza probabil
 Site-ul Cloudflare pentru a introduce datele.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org este un site celebru pentru adunarea voturilor și luarea de măsuri. "[oamenii de pretutindeni încep campanii, mobilizează suporterii și lucrează cu factorii de decizie pentru a crea soluții.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Din păcate, mulți oameni nu pot vedea deloc schimbarea.org din cauza filtrului agresiv al Cloudflare. Acestea sunt blocate de la semnarea petiției, excludându-le astfel dintr-un proces democratic. Folosirea altei platforme non-cloudflared, cum ar fi [OpenPetition](https://www.openpetition.eu/content/about_us) ajută la remedierea problemei.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - „[Proiectul atenian] al Cloudflare (https://www.cloudflare.com/athenian/)” oferă protecție gratuită la nivel de întreprindere către site-urile electorale locale și de stat. Ei au spus că „elementele electorale pot accesa informațiile electorale și înregistrarea alegătorilor_”, dar aceasta este o minciună, deoarece mulți oameni pur și simplu nu pot răsfoi site-ul deloc.
 

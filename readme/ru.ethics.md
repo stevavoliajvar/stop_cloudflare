@@ -32,11 +32,10 @@ Cloudflare заявила, что с помощью их сервиса [мож�
 Как мы можем остановить _Cloudflare spammers_ без активации Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </Детали>
 
@@ -52,9 +51,9 @@ Cloudflare заявила, что с помощью их сервиса [мож�
 Цензор Cloudflare [отрицательные отзывы](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Если вы разместите текст _anti-Cloudflare_ в Twitter, у вас есть шанс получить [ответ](https://twitter.com/CloudflareHelp/status/1126051764917145601) от [сотрудник Cloudflare](cloudflare_inc/cloudflare_members.txt) с "_[Нет, это не так](PEOPLE.md) _ "сообщение. Если вы разместите отрицательный отзыв на любом сайте с обзорами, они попытаются [подвергнуть цензуре](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </Детали>
 
@@ -72,13 +71,11 @@ Cloudflare [делится личной информацией](https://archive.
 ваш настоящий идентификатор. Если вы не хотите, чтобы вас беспокоили, [напали](https://twitter.com/NiteShade925/status/1158469203420205056), [ударили](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) или [убит](https://twitter.com/RusEmbUSA/status/1187363092793040901), вам лучше держаться подальше от веб-сайтов Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </Детали>
 
@@ -183,14 +180,16 @@ CloudFlare отдает предпочтение тем, кто использу
 Обратите внимание, что бумажная регистрация не обходит Cloudflare, потому что штатные сотрудники государственного секретаря по вводу данных, вероятно, будут использовать
 Веб-сайт Cloudflare для ввода данных.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org - известный сайт для сбора голосов и принятия мер. «[люди повсюду начинают кампании, мобилизуют сторонников и работают с лицами, принимающими решения, чтобы найти решения.](https://web.archive.org/web/20200206120027/https://www.change.org/about)»
 К сожалению, многие люди вообще не могут просматривать change.org из-за агрессивного фильтра Cloudflare. Им запрещено подписывать петицию, что исключает их из демократического процесса. Использование другой платформы без облачных технологий, такой как [OpenPetition](https://www.openpetition.eu/content/about_us), помогает решить проблему.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare «[Афинский проект](https://www.cloudflare.com/athenian/)» предлагает бесплатную защиту на уровне предприятия для государственных и местных избирательных сайтов. Они сказали, что "их избиратели могут получить доступ к информации о выборах и регистрации избирателей", но это ложь, потому что многие люди просто не могут просматривать сайт вообще.
 
