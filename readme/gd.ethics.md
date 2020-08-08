@@ -32,11 +32,10 @@ Thuirt Cloudflare le bhith a ’cleachdadh an t-seirbheis aca [faodaidh iad stad
 Ciamar as urrainn dhuinn stad a chuir air _Cloudflare spammers_ gun Cloudflare a ghnìomhachadh?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -52,9 +51,9 @@ Ciamar as urrainn dhuinn stad a chuir air _Cloudflare spammers_ gun Cloudflare a
 Censor Cloudflare [lèirmheasan àicheil](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Ma phostas tu teacsa _anti-Cloudflare_ air Twitter, tha cothrom agad [freagairt](https://twitter.com/CloudflareHelp/status/1126051764917145601) fhaighinn bho [neach-obrach Cloudflare](cloudflare_inc/cloudflare_members.txt) le "_[Chan e, chan eil] [PEOPLE.md) _ "teachdaireachd. Ma phostas tu lèirmheas àicheil air làrach ath-bhreithneachaidh sam bith, feuchaidh iad ri [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -72,13 +71,11 @@ Cloudflare [a ’roinn fiosrachadh pearsanta](https://archive.ph/ePdvi) den fhea
 d ’fhìor ID. Mura h-eil thu airson do shàrachadh, [ionnsaigh](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) no [air a mharbhadh](https://twitter.com/RusEmbUSA/status/1187363092793040901), is fheàrr dhut fuireach air falbh bho làraich-lìn Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -183,14 +180,16 @@ Chan eil a ’mhòr-chuid de stàitean a’ dèanamh ach fo-sheata den fhiosrach
 Thoir fa-near nach eil clàradh pàipeir a ’dol timcheall air Cloudflare oir is dòcha gum bi rùnaire luchd-obrach inntrigidh dàta stàite a’ cleachdadh an
 Làrach-lìn Cloudflare airson a dhol a-steach don dàta.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Tha Change.org na làrach-lìn ainmeil airson a bhith a ’tional bhòtaichean agus a’ dol an gnìomh. "[tha daoine anns a h-uile àite a’ tòiseachadh iomairtean, a ’gluasad luchd-taic, agus ag obair còmhla ri luchd-co-dhùnaidh gus fuasglaidhean a stiùireadh.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Gu mì-fhortanach, chan urrainn dha mòran dhaoine atharrachadh.org fhaicinn idir mar thoradh air sìoltachan ionnsaigheach Cloudflare. Thathas gam bacadh bho bhith a ’soidhnigeadh na h-athchuinge, mar sin gan dùnadh a-mach à pròiseas deamocratach. Bidh a bhith a ’cleachdadh àrd-ùrlar neo-sgòthach eile leithid [OpenPetition](https://www.openpetition.eu/content/about_us) a’ cuideachadh le fuasgladh fhaighinn air an duilgheadas.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Tha "[Athenian Project] aig Cloudflare (https://www.cloudflare.com/athenian/)" a ’tabhann dìon aig ìre iomairt an-asgaidh gu làraich-lìn taghaidh stàite agus ionadail. Thuirt iad “gum faigh na buill-phàrlamaid aca cothrom air fiosrachadh taghaidh agus clàradh neach-bhòtaidh_” ach is e breug a tha seo leis nach urrainn dha mòran dhaoine sùil a thoirt air an làrach idir.
 
