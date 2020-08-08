@@ -32,11 +32,10 @@ Cloudflare алардын кызматын колдонуу [баардык сп
 Cloudflare'ди жандырбай туруп, кантип спам-спамдарды_ токтото алабыз?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </Маалымат>
 
@@ -52,9 +51,9 @@ Cloudflare'ди жандырбай туруп, кантип спам-спамд�
 Cloudflare цензурасы [терс сын-пикирлер](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Twitter'де _anti-Cloudflare_ текстин жайгаштырсаңыз, "Cloudflare кызматкеринен" (cloudflare_inc/cloudflare_members.txt) "жооп берүү" мүмкүнчүлүгүн аласыз (https://twitter.com/CloudflareHelp/status/1126051764917145601) [Жок, андай эмес](PEOPLE.md) _ "билдирүүсү. Эгер сиз кандайдыр бир сынак сайтына терс пикир жарыяласаңыз, алар [цензураны] колдонууга аракет кылышат (https://twitter.com/phyzonloop/status/1178836176985366529) [аны](https://twitter.com/dxgl_org/status/1178722159432220672) ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </Маалымат>
 
@@ -72,13 +71,11 @@ Cloudflare [жеке маалыматты бөлүшөт](https://archive.ph/ePd
 сиздин чыныгы ID. Эгер сизди мазактагыңыз келбесе, [кол салуу](https://twitter.com/NiteShade925/status/1158469203420205056), [тызылдады](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) же [өлтүрүлгөн](https://twitter.com/RusEmbUSA/status/1187363092793040901), булутсуз веб-сайттардан алыс болгонуңуз оң.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </Маалымат>
 
@@ -183,14 +180,16 @@ Cloudflare компаниясынын Tor колдонуучуларына ка�
 Эскерте кетүүчү нерсе, кагаздарды каттоо Cloudflare программасын кыйратпайт, анткени мамлекеттик катчы кызматкерлеринин маалымат каттарын колдонушу мүмкүн
 Маалыматтарды киргизүү үчүн Cloudflare вебсайты.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org - добуш чогултуу жана иш-аракеттерди жүргүзүү боюнча белгилүү сайт. "[бардык жерде адамдар үгүт иштерин жүргүзүп, колдоочуларды мобилизациялап, чечимдерди кабыл алуу үчүн чечим кабыл алуучулар менен иштешүүдө.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Тилекке каршы, Cloudflare агрессивдүү чыпкасы себебинен көпчүлүк адамдар Change.org сайтын көрө алышпайт. Алар демократиялык процесстен четтетилген петицияга кол коюуга тоскоолдук кылып жатышат. Булутсуз күйгөн платформаны колдонуу, мисалы, [OpenPetition](https://www.openpetition.eu/content/about_us) көйгөйдү жоюуга жардам берет.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare'нин "[Athenian Project](https://www.cloudflare.com/athenian/)" мамлекеттик жана жергиликтүү шайлоо веб-сайттарында ишканалар деңгээлинде акысыз коргоону сунуштайт. Алар "алардын шайлоочулары шайлоо жөнүндө маалыматты жана шайлоочуларды каттоо_ мүмкүнчүлүгүн ала алышат" дешти, бирок бул жалган, анткени көпчүлүк адамдар сайтты такыр эле көрө алышпайт.
 
