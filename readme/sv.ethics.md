@@ -32,11 +32,10 @@ Cloudflare sa att man använder sin tjänst [kan stoppa alla spammare eller angr
 Hur kan vi stoppa _Cloudflare-spammare_ utan att aktivera Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </Detaljer>
 
@@ -52,9 +51,9 @@ Hur kan vi stoppa _Cloudflare-spammare_ utan att aktivera Cloudflare?
 Cloudflare-censur [negativa recensioner](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Om du lägger _anti-Cloudflare_-text på Twitter har du en chans att få ett [svar](https://twitter.com/CloudflareHelp/status/1126051764917145601) från [Cloudflare-anställd](cloudflare_inc/cloudflare_members.txt) med "_[Nej, det är inte](PEOPLE.md) _ "-meddelandet. Om du publicerar en negativ recension på någon granskningswebbplats kommer de att försöka [censurera](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </Detaljer>
 
@@ -72,13 +71,11 @@ Cloudflare [delar personlig information](https://archive.ph/ePdvi) av de [som](h
 ditt sanna ID. Om du inte vill bli trakasserad, [angripna](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) eller [dödad](https://twitter.com/RusEmbUSA/status/1187363092793040901), du kan hålla dig borta från Cloudflared webbplatser.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </Detaljer>
 
@@ -183,14 +180,16 @@ De flesta stater gör bara en delmängd av den informationen allmänt tillgängl
 Observera att pappersregistrering inte kringgår Cloudflare eftersom sekreteraren för anställda för anmälningsuppgifter för personuppgifter sannolikt kommer att använda
 Cloudflare-webbplats för att ange data.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org är en berömd webbplats för att samla röster och vidta åtgärder. "[människor överallt startar kampanjer, mobiliserar supportrar och arbetar med beslutsfattare för att driva lösningar.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Tyvärr kan många inte se Change.org alls på grund av Cloudflares aggressiva filter. De blockeras från att underteckna framställningen, vilket utesluter dem från en demokratisk process. Att använda annan plattform som inte är molnklar, som [OpenPetition](https://www.openpetition.eu/content/about_us) hjälper till att avhjälpa problemet.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflares "[Athenian Project](https://www.cloudflare.com/athenian/)" erbjuder gratis företagsnivåskydd för statliga och lokala valwebbplatser. De sa att "deras valkretsar kan få tillgång till valinformation och väljarregistrering", men det är en lögn eftersom många bara inte kan surfa på webbplatsen alls.
 

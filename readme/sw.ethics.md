@@ -18,7 +18,7 @@ Maswala # ya Maadili
 <details>
 <summary> _bonyeza mimi_
 
-# # CloudFlare watu
+## CloudFlare watu
 </summary>
 
 
@@ -45,16 +45,16 @@ Jinsi gani tunaweza kuacha _Cloudflare spammers_ bila kuamsha Cloudflare?
 <details>
 <summary> _bonyeza mimi_
 
-# # Ondoa hakiki ya mtumiaji
+## Ondoa hakiki ya mtumiaji
 </summary>
 
 
 Cloudflare censor [kitaalam hasi](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Ikiwa utatuma maandishi ya _anti-Cloudflare_ kwenye Twitter, una nafasi ya kupata [jibu](https://twitter.com/CloudflareHelp/status/1126051764917145601) kutoka kwa [mfanyakazi wa Cloudflare](Cloudflare_inc/Cloudflare_member.txt) na "_[Hapana, sio] Ujumbe wa (WATU.md) _ ". Ukichapisha ukaguzi hasi kwenye tovuti yoyote ya ukaguzi, watajaribu [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -63,7 +63,7 @@ Cloudflare censor [kitaalam hasi](https://web.archive.org/web/20191116004046/htt
 <details>
 <summary> _bonyeza mimi_
 
-Watumiaji # # Doxxing
+Watumiaji ## Doxxing
 </summary>
 
 
@@ -72,13 +72,11 @@ Cloudflare [inashiriki habari za kibinafsi](https://archive.ph/ePdvi) ya wale [a
 kitambulisho chako cha kweli. Ikiwa hutaki kunyanyaswa, [alishambuliwa](https://twitter.com/NiteShade925/status/1158469203420205056), [amepitisha](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) au [kuuawa](https://twitter.com/RusEmbUSA/status/1187363092793040901), wewe bora kukaa mbali na tovuti za Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -87,7 +85,7 @@ kitambulisho chako cha kweli. Ikiwa hutaki kunyanyaswa, [alishambuliwa](https://
 <details>
 <summary> _bonyeza mimi_
 
-# # Ushauri wa ushirika wa michango ya hisani
+## Ushauri wa ushirika wa michango ya hisani
 </summary>
 
 
@@ -103,7 +101,7 @@ CloudFlare ni [ya kuuliza](https://web.archive.org/web/20191112033605/https://op
 <details>
 <summary> _bonyeza mimi_
 
-# #Wakataa tovuti
+##Wakataa tovuti
 </summary>
 
 
@@ -118,7 +116,7 @@ Je! Utafanya nini ikiwa tovuti yako itaanguka chini? Kuna taarifa kwamba Cloudfl
 <details>
 <summary> _bonyeza mimi_
 
-# # Ubaguzi wa muuzaji wa Kivinjari
+## Ubaguzi wa muuzaji wa Kivinjari
 </summary>
 
 
@@ -170,7 +168,7 @@ Kwa maelezo zaidi tembelea ukurasa wetu wa msaada
 <details>
 <summary> _bonyeza mimi_
 
-# # Kukandamiza wapiga kura
+## Kukandamiza wapiga kura
 </summary>
 
 
@@ -183,14 +181,16 @@ Mataifa mengi hufanya subset ya habari hiyo kupatikana hadharani, lakini Cloudfl
 Kumbuka kuwa usajili wa karatasi hauzuilii Cloudflare kwa sababu katibu wa wafanyikazi wa wataalam wa kuingia data atatumia
 Wavuti ya Cloudflare kuingia data.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org ni tovuti maarufu ya kukusanya kura na kuchukua hatua. "[watu kila mahali wanaanza kampeni, kuhamasisha wafuasi, na kufanya kazi na watoa maamuzi kutatua suluhisho.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 Kwa bahati mbaya, watu wengi hawawezi kuona mabadiliko.org kabisa kutokana na kichujio cha fujo cha Cloudflare. Wanazuiwa kusaini ombi, na hivyo kuwatenga kutoka kwa mchakato wa kidemokrasia. Kutumia jukwaa lingine lisilo na wingu kama vile [OpenPback](https://www.openpetition.eu/content/about_us) husaidia kumaliza shida.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare's "[Mradi wa Athenean](https://www.cloudflare.com/athenian/)" inatoa kiwango cha biashara cha bure kwa tovuti za uchaguzi za serikali za mitaa na za mitaa. Walisema "watu wao wa wilaya wanaweza kupata habari za uchaguzi na usajili wa wapigakura_" lakini huu ni uwongo kwa sababu watu wengi hawawezi kuvinjari tovuti kabisa.
 
@@ -216,7 +216,7 @@ Ikiwa utachagua kitu, unatarajia kwamba hautapokea barua pepe kuhusu hilo. Cloud
 <details>
 <summary> _bonyeza mimi_
 
-# # Uongo juu ya kufuta data ya mtumiaji
+## Uongo juu ya kufuta data ya mtumiaji
 </summary>
 
 
@@ -244,7 +244,7 @@ Unawezaje kuamini Cloudflare ikiwa [sera zao za faragha ni LIE](https://twitter.
 <details>
 <summary> _bonyeza mimi_
 
-# # Weka habari yako ya kibinafsi
+## Weka habari yako ya kibinafsi
 </summary>
 
 
@@ -268,7 +268,7 @@ Je! Unaweza "kuamini" hii?
 
 ---
 
-# # Tafadhali endelea kwa ukurasa unaofuata: "[Sauti ya Cloudflare](../People.md)"
+## Tafadhali endelea kwa ukurasa unaofuata: "[Sauti ya Cloudflare](../People.md)"
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
