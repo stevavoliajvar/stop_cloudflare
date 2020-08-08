@@ -10,5 +10,5 @@ Versio: _1.0.2.4_
 
 -----
 
-- [More Information / Download](../../subfiles/about.isat.md)
+- [More information / Download](../../subfiles/about.isat.md)
 - Disclaimer: This is NOT a mirror of upstream repository. Synchronization may be delayed.
