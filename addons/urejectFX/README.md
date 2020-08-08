@@ -1,8 +1,14 @@
 [//]: # (do not edit me; start)
 
-Version: _1.0.3_
+Versio: _1.0.3_
 
 [//]: # (do not edit me; end)
 
+
+- [Pli informo / Elŝuto](../../subfiles/about.urjm.md)
+- Malgarantio: Ĉi tio NE estas spegulo de suprenflua deponejo. Sinkronigado eble prokrastas.
+
+-----
+
 - [More Information / Download](../../subfiles/about.urjm.md)
-- Disclaimer: This is NOT a mirror of upstream git. Synchronization may be delayed.
+- Disclaimer: This is NOT a mirror of upstream repository. Synchronization may be delayed.
