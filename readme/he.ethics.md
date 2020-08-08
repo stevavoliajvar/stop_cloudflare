@@ -32,11 +32,10 @@ Cloudflare מסרה כי השימוש בשירותם [יכול לעצור את �
 איך נוכל לעצור _Cloudflare spammers_ מבלי להפעיל Cloudflare?
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
 </פרטים>
 
@@ -52,9 +51,9 @@ Cloudflare מסרה כי השימוש בשירותם [יכול לעצור את �
 צנזורה של Cloudflare [ביקורות שליליות](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). אם אתה מפרסם טקסט של _anti-Cloudflare_ בטוויטר, יש לך סיכוי לקבל [תגובה](https://twitter.com/CloudflareHelp/status/1126051764917145601) מ- [עובד Cloudflare](cloudflare_inc/cloudflare_members.txt) עם "_[לא, זה לא](PEOPLE.md) _ "הודעה. אם תפרסם ביקורת שלילית באתר ביקורת כלשהו, ​​הם ינסו [לצנזר](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
 </פרטים>
 
@@ -72,13 +71,11 @@ Cloudflare [משתף מידע אישי](https://archive.ph/ePdvi) של מי [מ�
 תעודת הזהות האמיתית שלך. אם אינך מעוניין להתנכל, [תקף](https://twitter.com/NiteShade925/status/1158469203420205056), [מחולק](https://boingboing.net/2015/01/19/invasion-boards -סט-אאוט-rui.html) או [נהרג](https://twitter.com/RusEmbUSA/status/1187363092793040901), עדיף שתתרחק מאתרי Cloudflared.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
 </פרטים>
 
@@ -183,14 +180,16 @@ CloudFlare מעניקה יחס מועדף לאלה המשתמשים בפיירפ
 שים לב כי רישום הנייר אינו עוקף את Cloudflare מכיוון שמזכיר עובדי הזנת נתוני המדינה ככל הנראה ישתמש ב-
 אתר Cloudflare להזנת הנתונים.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org הוא אתר מפורסם לאיסוף קולות ולנקיטת פעולות. "[אנשים בכל מקום פותחים בקמפיינים, מגייסים תומכים ופועלים עם מקבלי החלטות כדי להניע פתרונות.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
 לרוע המזל, אנשים רבים אינם יכולים לצפות ב-.org בכלל בגלל המסנן האגרסיבי של Cloudflare. הם נחסמים מלחתום על העצומה, ובכך להוציא אותם מהליך דמוקרטי. שימוש בפלטפורמה אחרת שאינה מעוננת בענן, כגון [OpenPetition](https://www.openpetition.eu/content/about_us) עוזר לתקן את הבעיה.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - "[הפרויקט האתונאי] של Cloudflare (https://www.cloudflare.com/athenian/)" מציע הגנה חופשית ברמת הארגון לאתרי בחירות ממלכתיים ומקומיים. הם אמרו כי "בוחריהם יכולים לגשת למידע על בחירות ורישום בוחרים", אך זהו שקר מכיוון שרבים פשוט לא יכולים לדפדף באתר בכלל.
 
