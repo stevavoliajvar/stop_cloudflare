@@ -109,7 +109,7 @@
   * Elŝutu kiel: PDF [ĉi tie](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ĉi tie](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * `BookRix GmbH` estis forigita de la originala eBook (ePUB) pro malobservo de kopirajto de CC0-materialo
 * [Ikono de Padlock indikas sekuran SSL-konekton establita per MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) de Anonimo
-* [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) de nym-zone
+* [Bloku Tutmonda Aktiva Adversa Nubmuro](https://trac.torproject.org/projects/tor/ticket/24351) de nym-zone
   * La bileto estis vandaligita tiom multajn fojojn.
   * Forigita de la [Projekto Tor](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). Vidu bileton [34175](https://trac.torproject.org/projects/tor/ticket/34175).
   * Lasta arkiva bileto [24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
@@ -117,7 +117,7 @@
   * Ili antaŭe uzis Cloudflare. [Aldonita](https://github.com/privacytools/privacytools.io/pull/1205) CF-tor sed [forigis ĝin](https://github.com/privacytools/privacytools.io/pull/1804).
 * [Observejo Cloudflare](http://www.crimeflare.org:82/)
 * [Kritiko kaj polemikoj](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) de Vikipedio
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) de TheGoldenGoose8888
+* [Alia limŝtona tago en la milito por kontroli, centraligi kaj cenzuri la interreton.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) de TheGoldenGoose8888
 * [Malavantaĝo fidi nur unu servon](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO estas CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/watcloudflare.jpg)
