@@ -68,7 +68,7 @@
 
 ### Descentralizați internetul.
 
-!["Cloudflare nu este o opțiune."](Image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,9 +99,6 @@ Acest depozit este o listă de site-uri web care se află în spatele "_ Marelui
 
 
 **Mai multe informatii**
-* [Versiunea scurtă a README](ro.short.md) de [Robin Wils](https://linuxrocks.online/@RMW) 
-  * Poate doriți să vă întrebați de ce acest README.md are atât de multe imagini. Deasupra versiunii scurte aveți mai puține imagini.
-  * [Majoritatea oamenilor citesc doar 20-28% din cuvintele de pe pagină](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalogul mitului](mit_catalog.md) 
 * [Marele Cloudwall](articol.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Descărcați ca: PDF [aici](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [aici](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -165,7 +162,7 @@ Nu vă cerem niciodată media socială. **
 
 ---
 
-![](Imagine/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

@@ -69,7 +69,7 @@
 
 ### Децентрализация интернета.
 
-!["Cloudflare - это не вариант."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **Больше информации**
-* [Короткая версия README](ru.short.md) по [Robin Wils](https://linuxrocks.online/@RMW)
-  * Вы можете спросить, почему этот README.md имеет так много изображений. Выше короткой версии есть меньше изображений.
-  * [Большинство людей читают только 20-28% слов на странице](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Миф Каталог](myth_catalog.md)
-* [Великая облачная стена](article.txt) по [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Миф Каталог](../myth_catalog.md)
+* [Великая облачная стена](../article.txt) по [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Скачать как: PDF [здесь](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [здесь](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригинальная электронная книга (ePUB) была удалена BookRix GmbH из-за нарушения авторских прав на материал CC0
 * [Значок замка указывает на безопасное соединение SSL, установленное с помощью MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) по Anonymous
@@ -166,7 +163,7 @@ Crimeflare знают о существовании фальшивых акка�
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
