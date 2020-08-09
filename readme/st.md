@@ -69,7 +69,7 @@
 
 ### Ho etsa hore marang-rang a arolelane marang-rang.
 
-![](setšoantšo/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "_The Cloudwall
 
 
 ** Tlhahisoleseling e ngoe **
-* [Mofuta o mokhuts'oane oa README](st.short.md) ka [Robin Wils](https://linuxrocks.online/@RMW)
-  * U kanna oa batla ho botsa hore na hobaneng ASMSM ena .md e na le litšoantšo tse ngata hakana. Ka holim'a mofuta o mokhuts'oane o na le litšoantšo tse fokolang.
-  * [Batho ba bangata ba bala feela mantsoe a leng leqephe la mashome a mabeli ho isa ho a mashome a mabeli](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog] [../myth_catalog.md)
 * [Great Cloudwall](sengoloa.txt) ka [Mong. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Khoasolla joaloka: PDF [here](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [mona](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Ha ho mohla re botsa mecha ea litaba ea sechaba. **
 
 ---
 
-![](setšoantšo/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

@@ -100,9 +100,6 @@ Kjo depo është një listë e faqeve të internetit që fshihen pas "_ The Grea
 
 
 ** Më shumë informacion **
-* [Versioni i shkurtër i README](sq.short.md) nga [Robin Wils](https://linuxrocks.online/@RMW)
-  * Ju mund të dëshironi të pyesni pse ky README.md ka kaq shumë imazhe. Mbi versionin e shkurtër kanë më pak imazhe.
-  * [Shumica e njerëzve lexojnë vetëm 20-28% të fjalëve në faqe](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalogu i Miteve](mit_catalog.md)
 * [Cloudwall i Madh](artikull.txt) nga [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Shkarkoni si: PDF [këtu](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [këtu](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Ne kurrë nuk pyesim median tuaj sociale. **
 
 ---
 
-![](Image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -190,6 +187,6 @@ Ne kurrë nuk pyesim median tuaj sociale. **
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-[](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)
