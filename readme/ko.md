@@ -69,7 +69,7 @@
 
 ### 인터넷을 분산시킵니다.
 
-!["Cloudflare는 옵션이 아닙니다."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **추가 정보**
-* [README 짧은 버전](ko.short.md) 의 [Robin Wils](https://linuxrocks.online/@RMW)
-  * 이 README.md에 왜 이렇게 많은 이미지가 있는지 물어볼 수 있습니다. 짧은 버전보다 이미지가 적습니다.
-  * [대부분의 사람들은 페이지에서 단어의 20-28 % 만 읽습니다](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [신화 카탈로그](myth_catalog.md)
-* [만리장성](article.txt) 의 [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [신화 카탈로그](../myth_catalog.md)
+* [만리장성](../article.txt) 의 [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * 다른 이름으로 다운로드: PDF [여기](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [여기](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * CC0 자료의 저작권 침해로 인해 BookRix GmbH에서 원본 eBook (ePUB)을 삭제했습니다.
 * [자물쇠 아이콘은 익명에 의해 MITM로 설정된 보안 SSL 연결을 나타냅니다](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) 의 Anonymous
@@ -165,7 +162,7 @@ Crimeflare는 Twitter, Facebook, Patreon, OpenCollective, Villages 등 공식 �
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
