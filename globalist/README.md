@@ -1,5 +1,5 @@
 # Globalist
-Globalist provides distributed sharing of repositories without the need of central instances (like GitHub).
+Globalist provides distributed sharing of repositories without the need of central instances (like Microsoft GitHub).
 
 This is an attempt to ease the distribution of git repos, to overcome the risk of a central points of failure.
 
@@ -13,7 +13,7 @@ The official repository can be found at https://codeberg.org/crimeflare/cloudfla
 
 ## Usage
 
-To use Globalist.py python3 is needed. Either run it from globalist directory with `python3 Globalist.py` or or install it as described below.
+To use Globalist.py `python3` is needed. Either run it from globalist directory with `python3 Globalist.py` or or install it as described below.
 
 Per default an open tor ControlPort at 9151 without authentication is expected. You can choose another port with `-C`.
 For a list of option see `--help`.
@@ -27,7 +27,7 @@ Make a new directory and put this in the file ./repo.cfg (when creating a new re
 peers = <comma-separated list of onion domain names, with or without the suffix .onion>
 ```
 
-For a public repository, no authentication is needed (option -X). In case authentication is used, prepend the secret as follows: somebody:secret@peeroniondomainname.onion
+For a public repository, no authentication is needed (option -_X_). In case authentication is used, prepend the secret as follows: somebody:secret@peeroniondomainname.onion
 
 For each shared repo, Globalist will create one .onion service. Note that it is possible to use either bare repos or not-bare repos.
 
