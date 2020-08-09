@@ -69,7 +69,7 @@
 
 ### අන්තර්ජාලය විමධ්‍යගත කරන්න.
 
-!["Cloudflare විකල්පයක් නොවේ."](Image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,10 +100,7 @@
 
 
 ** වැඩි details **
-* [රොබින් විල්ස්](https://linuxrocks.online/@RMW) විසින් [README හි කෙටි අනුවාදය](si.short.md)
-  * මෙම README.md හි මෙතරම් පින්තූර ඇත්තේ මන්දැයි ඔබට විමසීමට අවශ්‍ය විය හැකිය. ඉහත කෙටි අනුවාදයේ අඩු රූප ඇත.
-  * [බොහෝ අය කියවන්නේ පිටුවේ ඇති වචන වලින් 20-28% ක් පමණි](https://movantink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [මිථ්‍යාව නාමාවලිය](math_catalog.md)
+* [මිථ්‍යාව නාමාවලිය](../myth_catalog.md)
 * [මහා වලාකුළු] [article.txt) විසින් [Mr. ජෙෆ් ක්ලිෆ්](https://shitposter.club/users/jeffcliff)
   * ලෙස බාගත කරන්න: PDF [මෙහි](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](../pdf/2019-ජෙෆ්_ක්ලිෆ්_ත_ග්‍රීට්_ක්ලෝඩ්වෝල්.පබ්)
   * CC0 ද්‍රව්‍යයේ ප්‍රකාශන හිමිකම් උල්ලං ment නය කිරීම හේතුවෙන් මුල් පොත් (ePUB) `BookRix GmbH` විසින් මකා දමන ලදි.
@@ -166,7 +163,7 @@
 
 ---
 
-![](රූපය/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

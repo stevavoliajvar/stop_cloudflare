@@ -100,11 +100,8 @@ To skladišče je seznam spletnih mest, ki stojijo za "_ Great Cloudwall_" in bl
 
 
 **Več informacij**
-* [Kratka različica README](sl.short.md) avtorja [Robin Wils](https://linuxrocks.online/@RMW)
-  * Morda se boste vprašali, zakaj ima ta README.md toliko slik. Zgoraj kratka različica ima manj slik.
-  * [Večina ljudi samo prebere 20–28% besed na strani](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog mitov](../myth_catalog.md)
-* [Veliki oblačni zid](article.txt) avtor [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Veliki oblačni zid](../article.txt) avtor [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Prenesite kot: PDF [tukaj](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [tukaj](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Originalno e-knjigo (ePUB) je BookRix GmbH izbrisal zaradi kršitve avtorskih pravic CC0 materiala
 * [Ikona ključavnice označuje varno povezavo SSL, vzpostavljeno z MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) avtorja Anonymous
@@ -166,7 +163,7 @@ Nikoli ne vprašamo vaših socialnih medijev. **
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

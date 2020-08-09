@@ -69,7 +69,7 @@
 
 ### انٽرنيٽ کي غير مستحڪم ڪرڻ.
 
-![] [تصوير/cfisnotanoption.jpg]
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 ** وڌيڪ **اڻ **
-* [ريڊ ايم اي جو مختصر نسخو](sd.short.md) طرفان [رابن وِلز](https://linuxrocks.online/@RMW)
-  * توھان شايد پڇڻ چاھيو ٿا ته ھن README.md ۾ ڪيتريون ئي تصويرون آھن. مٿين نسخن ۾ گھٽ تصويرون آھن.
-  * [اڪثر ماڻھو صرف صفحي تي 20-28٪ الفاظ پڙھندا آھن) (https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [ماٿري جو ڪتاب](../myth_catalog.md)
 * [دي عظيم ڪلائوڊ وال] [article.txt] پاران [مسٽر. جيف ڪلف](https://shitposter.club/users/jeffcliff)
   * ڊائون لوڊ ڪريو: PDF [هتي](پي ڊي ايف/2019-دي_ گريٽ_ ڪلائوڊ پي ڊي ايف) ، اي پي يو بي [هتي](پي ڊي ايف/2019-جيف_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Crimeflare جعلي اڪائونٽس جي وجود بابت knowاڻيندي آ�
 
 ---
 
-![] [تصوير/wtfcf.jpg]
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
