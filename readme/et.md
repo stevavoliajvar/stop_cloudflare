@@ -69,7 +69,7 @@
 
 ### Detsentraliseerige Internet.
 
-![](pilt/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ See hoidla on loetelu veebisaitidest, mis asuvad taga "_The Great Cloudwall_", b
 
 
 **Rohkem informatsiooni**
-* [README lühiversioon](et.short.md), autor [Robin Wils](https://linuxrocks.online/@RMW)
-  * Võite küsida, miks sellel README.md-l on nii palju pilte. Lühikese versiooni kohal on vähem pilte.
-  * [Enamik inimesi loeb ainult 20–28% lehe sõnadest](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Müütide kataloog](müüt_kataloog.md)
 * [Suur pilvesein](artikkel.txt), autor [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Laadige alla järgmiselt: PDF [siin](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [siin](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Me ei küsi kunagi teie sotsiaalmeedialt. **
 
 ---
 
-![](pilt/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

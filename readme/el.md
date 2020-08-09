@@ -69,7 +69,7 @@
 
 ### Αποκέντρωση του Διαδικτύου.
 
-![](εικόνα/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **Περισσότερες πληροφορίες**
-* [Σύντομη έκδοση του README](el.short.md) από τον [Robin Wils](https://linuxrocks.online/@RMW)
-  * Ίσως θέλετε να ρωτήσετε γιατί αυτό το README.md έχει τόσες πολλές εικόνες. Η παραπάνω σύντομη έκδοση έχει λιγότερες εικόνες.
-  * [Τα περισσότερα άτομα διαβάζουν μόνο το 20-28% των λέξεων στη σελίδα](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Κατάλογος μύθων](../myth_catalog.md)
-* [The Great Cloudwall](article.txt) από τον [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [The Great Cloudwall](../article.txt) από τον [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Λήψη ως: PDF [εδώ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [εδώ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Το αρχικό eBook (ePUB) διαγράφηκε από το BookRix GmbH λόγω παραβίασης πνευματικών δικαιωμάτων υλικού CC0
 * [Το εικονίδιο λουκέτου υποδεικνύει μια ασφαλή σύνδεση SSL που δημιουργήθηκε με το MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) από το Anonymous
@@ -166,7 +163,7 @@
 
 ---
 
-![](εικόνα/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
