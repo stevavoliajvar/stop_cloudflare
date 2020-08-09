@@ -68,7 +68,7 @@
 
 ### İnterneti merkezsizleştirin.
 
-!["Cloudflare bir seçenek değil."](İmage/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,11 +99,8 @@ Bu depo Tor kullanıcılarını ve diğer CDN'leri engelleyen "Büyük Bulut Duv
 
 
 **Daha fazla bilgi**
-* [Robin Wils] tarafından [README] 'nin kısa versiyonu (tr.short.md) (https://linuxrocks.online/@RMW) 
-  * Bu README.md dosyasının neden bu kadar çok resmi olduğunu sormak isteyebilirsiniz. Kısa versiyonun üstünde daha az resim var.
-  * [Çoğu kişi sayfadaki kelimelerin yalnızca% 20-28'ini okur](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Efsane Kataloğu](efsane_kataloğu.md) TASLAK
-* [Büyük Bulut Duvarı](article.txt) [Bay Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Büyük Bulut Duvarı](../article.txt) [Bay Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Farklı indirin: PDF [burada](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [burada](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Orijinal eKitap (ePUB) `` CC0 malzemesinin telif hakkı ihlali '' nedeniyle `BookRix GmbH` tarafından silindi
 * [Asma kilit simgesi, Anonim tarafından oluşturulan güvenli bir SSL bağlantısını gösterir](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) Anonim olarak
@@ -165,7 +162,7 @@ Sosyal medyanıza asla sormayız. **
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

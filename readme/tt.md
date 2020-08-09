@@ -100,11 +100,8 @@
 
 
 ** Күбрәк мәгълүмат **
-* [README'ның кыска версиясе](tt.short.md) [Робин Вилс](https://linuxrocks.online/@RMW)
-  * Ни өчен бу README.md рәсемнәре күп дип сорарга теләрсез. Кыска версия өстендә рәсемнәр азрак.
-  * [Күпчелек кеше биттәге сүзләрнең 20-28% гына укый](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Миф каталогы](../myth_catalog.md)
-* [Зур Cloudwall](article.txt) [әфәнде. Джефф Клифф](https://shitposter.club/users/jeffcliff)
+* [Зур Cloudwall](../article.txt) [әфәнде. Джефф Клифф](https://shitposter.club/users/jeffcliff)
   * Күчереп алу: PDF [монда](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [монда](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригиналь электрон китап (ePUB) BookRix GmbH тарафыннан CC0 материалының авторлык хокукларын бозуы аркасында бетерелде.
 * [Падлок иконасы w MITM-ed урнаштырылган куркынычсыз SSL тоташуын күрсәтә](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) Аноним
@@ -166,7 +163,7 @@ Crimeflare безнең рәсми каналларны күрсәтүче ял�
 
 ---
 
-![](рәсем/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
