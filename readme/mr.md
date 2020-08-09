@@ -100,9 +100,6 @@
 
 
 **अधिक माहिती**
-* [रॉबिन विल्स]([https://linuxrocks.online/@RMW) द्वारे README ची लहान आवृत्ती](mr.short.md)
-  * या README.md कडे इतक्या प्रतिमा का आहेत हे आपण विचारू शकता. लहान आवृत्तीत प्रतिमा कमी आहेत.
-  * [बर्‍याच लोक केवळ पृष्ठावरील 20-28% शब्दच वाचतात](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [मिथक कॅटलॉग](मिथक_कॅटलॉग.एमडी)
 * [ग्रेट क्लाउडवॉल](आर्टिकल. टेक्स्ट) [श्री. जेफ क्लिफ](https://shitposter.club/users/jeffcliff)
   * म्हणून डाउनलोड करा: पीडीएफ [येथे](पीडीएफ/2019-द_ग्रेट_क्लॉडवॉल.पीडीएफ), ईपीबीबी [येथे](पीडीएफ/2019-जेफ_क्लिफ_हे_ग्रेट_क्लॉडवॉल.इपब)
@@ -166,7 +163,7 @@
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 !]
 !]

@@ -69,7 +69,7 @@
 
 ### Desentralisasi internet.
 
-!["Cloudflare bukan pilihan."](Gambar/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Repositori ini adalah senarai laman web yang berada di belakang "_The Great Clou
 
 
 **Maklumat lanjut**
-* [Versi pendek README](ms.short.md) oleh [Robin Wils](https://linuxrocks.online/@RMW)
-  * Anda mungkin ingin bertanya mengapa README.md ini mempunyai begitu banyak gambar. Versi pendek di atas mempunyai lebih sedikit gambar.
-  * [Kebanyakan orang hanya membaca 20-28% perkataan di halaman](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Katalog Mitos](myth_catalog.md)
-* [The Great Cloudwall](article.txt) oleh [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Katalog Mitos](../myth_catalog.md)
+* [The Great Cloudwall](../article.txt) oleh [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Muat turun sebagai: PDF [di sini](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [di sini](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook asli (ePUB) telah dihapus oleh `BookRix GmbH` kerana` pelanggaran hak cipta terhadap materi CC0`
 * [Ikon gembok menunjukkan sambungan SSL yang selamat dibuat dengan MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) oleh Anonymous
@@ -166,7 +163,7 @@ Kami tidak pernah meminta media sosial anda. **
 
 ---
 
-![](gambar/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

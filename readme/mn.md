@@ -69,7 +69,7 @@
 
 ### Интернет төвлөрлийг сааруулах.
 
-![](зураг/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 **Нэмэлт мэдээлэл**
-* [Робин Уилс](https://linuxrocks.online/@RMW) -н [README-ийн богино хувилбар](mn.short.md)
-  * Энэхүү README.md яагаад ийм олон зураг гарч ирэхийг асуумаар байгаа юм. Богино хувилбараас бага зурагтай.
-  * [Ихэнх хүмүүс энэ хуудсан дээрх үгсийн зөвхөн 20-28% -ийг уншдаг](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Төөрөгдөлийн каталог](../myth_catalog.md)
 * [Агуу Cloudwall](нийтлэл.txt) [ноён Жефф Клифф](https://shitposter.club/users/jeffcliff)
   * Татаж авах: PDF [энд](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [энд](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@
 
 ---
 
-![](зураг/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

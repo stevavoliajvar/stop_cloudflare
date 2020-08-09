@@ -69,7 +69,7 @@
 
 ### Iddeċentralizza l-internet.
 
-![](immaġni/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "_The Great Cloudwall_"
 
 
 **Iktar informazzjoni**
-* [Verżjoni qasira ta 'README](mt.short.md) minn [Robin Wils](https://linuxrocks.online/@RMW)
-  * Tista 'tkun trid tistaqsi għaliex dan README.md għandu tant immaġini. Fuq verżjoni qasira għandhom immaġini inqas.
-  * [Ħafna nies jaqraw biss 20-28% tal-kliem fuq il-paġna](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalgu tal-Leġġenda](../myth_catalog.md)
-* [The Great Cloudwall](article.txt) minn [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [The Great Cloudwall](../article.txt) minn [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Niżżel bħala: PDF [hawn](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hawn](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * L-eBook oriġinali (ePUB) ġie mħassar minn BookRix GmbH minħabba ksur tad-drittijiet tal-awtur ta 'materjal CC0
 * [L-ikona tal-illokkjar tindika konnessjoni sigura SSL stabbilita w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) minn Anonymous
@@ -166,7 +163,7 @@ Aħna qatt ma nitolbu l-midja soċjali tiegħek. **
 
 ---
 
-![](immaġni/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
