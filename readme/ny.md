@@ -69,7 +69,7 @@
 
 ## # Gawani intaneti.
 
-![](chithunzi/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 -
 
@@ -100,9 +100,6 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "_The Cloudwall_", iku
 
 
 ** Zambiri Zambiri **
-* [Mtundu waifupi wa ReadME](ny.short.md) wolemba [Robin Wils](https://linuxrocks.online/@RMW)
-  * Mungafune kufunsa kuti chifukwa chomwe MUFUMI WA ANAyu ali ndi zithunzi zambiri. Pamwambapa tatifupi tili ndi zithunzi zochepa.
-  * [Anthu ambiri amangowerenga mawu 20-28% omwe ali patsamba lino (https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog] [../myth_catalog.md)
 * [Great Cloudwall](cholembedwa.txt) lolemba [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Tsitsani monga: PDF [apa](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [apa](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Sitikufunsani muma TV anu.
 
 -
 
-![](chithunzi/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

@@ -69,7 +69,7 @@
 
 ### ଇଣ୍ଟରନେଟକୁ ବିକେନ୍ଦ୍ରୀକରଣ କରନ୍ତୁ |
 
-![](ପ୍ରତିଛବି/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 ** ଅଧିକ ସୂଚନା **
-* [README ର ସଂକ୍ଷିପ୍ତ ସଂସ୍କରଣ](or.short.md) [ରବିନ୍ ୱିଲ୍ସ](https://linuxrocks.online/@RMW)
-  * ଆପଣ ହୁଏତ ପଚାରିବାକୁ ଚାହିଁପାରନ୍ତି କାହିଁକି ଏହି README.md ରେ ଏତେଗୁଡ଼ିଏ ଚିତ୍ର ଅଛି | କ୍ଷୁଦ୍ର ସଂସ୍କରଣ ଉପରେ କମ୍ ପ୍ରତିଛବି ଅଛି |
-  * [ଅଧିକାଂଶ ଲୋକ କେବଳ ପୃଷ୍ଠାରେ 20-28% ଶବ୍ଦ ପ read ନ୍ତି](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/) |
 * [ପ th ରାଣିକ କାଟାଲଗ୍](ପୁରାଣ_କାଟାଲଗ୍। Md)
 * [ଦି ଗ୍ରେଟ୍ କ୍ଲାଉଡ୍ ୱାଲ୍](ଆର୍ଟିକିଲ୍। ଜେଫ୍ କ୍ଲିଫ୍](https://shitposter.club/users/jeffcliff)
   * ଡାଉନଲୋଡ୍ କରନ୍ତୁ: PDF [ଏଠାରେ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ଏଠାରେ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@
 
 ---
 
-![](ପ୍ରତିଛବି/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
