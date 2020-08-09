@@ -26,7 +26,7 @@ Cloudflare is a content delivery network, which means that it has different
 servers in different locations, so that websites are supposed to be better 
 reachable. This has a bad side.
 
-*ADD IMAGE*
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/matthew_prince.jpg)
 
 ## Why you shouldn't use it
 ### Privacy problems
@@ -35,8 +35,9 @@ Cloudflare goes down from time to time. All the content which uses Cloudflare
 goes down as well when that happens.
 
 Read more about the 
-[single point of failure](subfiles/single-point-of-failure-problem.md).
-*ADD IMAGE*
+[single point of failure](../subfiles/single-point-of-failure-problem.md).
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg)
 
 #### It removes anonymity
 Cloudflare usually blocks Tor or makes it hard for Tor users to access the 
@@ -44,14 +45,14 @@ website or content. Tor is not only for criminals. It is important for many
 people and everyone has the right on privacy.
 
 Tor is important, read more about 
-[why Tor matters](subfiles/why-tor-matters.md).
+[why Tor matters](../subfiles/why-tor-matters.md).
 
 Cloudflare often uses Google reCATPCHAs to check if you are human. These
 CAPTCHAs which check if you are human, track you and many claim that they
 even try to find out which human you are.
 
 Read more about the
-[reCAPTCHA problem](subfiles/recaptcha-problem.md).
+[reCAPTCHA problem](../subfiles/recaptcha-problem.md).
 
 #### Project Honey Pot
 Project Honey Pot is a project which collects a lot of personal data
