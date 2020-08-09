@@ -69,7 +69,7 @@
 
 ### Decentrare Internet.
 
-!["Cloudflare non è un'opzione."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 
 
 **Maggiori informazioni**
-* [Versione breve di README](it.short.md) di [Robin Wils](https://linuxrocks.online/@RMW)
-  * Potresti chiedere perché questo README.md ha così tante immagini. Sopra la versione breve hanno meno immagini.
-  * [La maggior parte delle persone legge solo il 20-28% delle parole sulla pagina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Mito Catalogo](myth_catalog.md)
-* [The Great Cloudwall](article.txt) di [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Mito Catalogo](../myth_catalog.md)
+* [The Great Cloudwall](../article.txt) di [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Scarica come: PDF [qui](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [qui](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * L'eBook originale (ePUB) è stato eliminato da BookRix GmbH a causa della violazione del copyright del materiale di CC0
 * [L'icona del lucchetto indica una connessione SSL sicura stabilita da MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) di Anonymous
@@ -166,7 +163,7 @@ Non chiediamo mai i tuoi social media.**
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
