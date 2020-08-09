@@ -100,11 +100,8 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "_ U Grande Cloudwa
 
 
 ** Più infurmazione **
-* [Versione corta di README](co.short.md) di [Robin Wils](https://linuxrocks.online/@RMW)
-  * Puderete vulete dumandà perchè stu README.md hà tante stampe. Sopra a versione corta anu menu immagini.
-  * [A maiò parte di a ghjente leghje solu un 20-28% di e parolle nantu à a pagina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalogu di Mite](../myth_catalog.md)
-* [U Great Cloudwall](article.txt) da [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [U Great Cloudwall](../article.txt) da [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Scaricate cum'è: PDF [quì](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [quì](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * L'eBook originale (ePUB) hè statu eliminatu da BookRix GmbH per via di violazione di copyright di materiale CC0
 * [L'icona di Padlock indica una cunnessione SSL sicura stabilita w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) da Anonymous
@@ -166,7 +163,7 @@ Crimeflare cunnosce l'esistenza di conti falsi chì impegnanu i nostri canali uf
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
