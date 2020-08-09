@@ -69,7 +69,7 @@
 
 ### በይነመረብን ያጠናክሩ።
 
-![](ምስል/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 **ተጨማሪ መረጃ**
-* [የ README አጭር ስሪት](am.short.md) በ [ሮቢን ዊል](https://linuxrocks.online/@RMW)
-  * ይህ README.md ለምን ብዙ ምስሎች አሉት? ብለው መጠየቅ ይፈልጉ ይሆናል። ከአጭር ስሪት በላይ ምስሎች ያነሰ አላቸው።
-  * [ብዙ ሰዎች በገጹ ላይ ያሉትን ቃላት ከ20-28% ብቻ ያነባሉ](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)።
 * [አፈ-ታሪክ ካታሎግ](አፈታሪክ_ካታሎግ.md)
 * [ታላቁ የደመናው ፋየርዎል](ጽሑፍ.txt) በ [Mr. ጄፍ ክሊፍ](https://shitposter.club/users/jeffcliff)
   * ያውርዱ እንደ: ፒዲኤፍ [እዚህ](../pdf/2019-The_Great_Cloudwall.pdf) ፣ ePUB [እዚህ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@
 
 ---
 
-![](ምስል/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
