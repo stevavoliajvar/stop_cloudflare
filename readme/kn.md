@@ -69,7 +69,7 @@
 
 ### ಇಂಟರ್ನೆಟ್ ಅನ್ನು ವಿಕೇಂದ್ರೀಕರಿಸಿ.
 
-![](ಚಿತ್ರ/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **ಹೆಚ್ಚಿನ ಮಾಹಿತಿ**
-* [ರಾಬಿನ್ ವಿಲ್ಸ್](https://linuxrocks.online/@RMW) ಅವರಿಂದ [README ನ ಸಣ್ಣ ಆವೃತ್ತಿ](kn.short.md)
-  * ಈ README.md ಏಕೆ ಹಲವು ಚಿತ್ರಗಳನ್ನು ಹೊಂದಿದೆ ಎಂದು ನೀವು ಕೇಳಲು ಬಯಸಬಹುದು. ಮೇಲಿನ ಸಣ್ಣ ಆವೃತ್ತಿಯು ಕಡಿಮೆ ಚಿತ್ರಗಳನ್ನು ಹೊಂದಿದೆ.
-  * [ಹೆಚ್ಚಿನ ಜನರು ಪುಟದಲ್ಲಿನ 20-28% ಪದಗಳನ್ನು ಮಾತ್ರ ಓದುತ್ತಾರೆ](https://movantink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [ಮಿಥ್ ಕ್ಯಾಟಲಾಗ್](ಪುರಾಣ_ಕ್ಯಾಟಲಾಗ್.ಎಮ್ಡಿ)
-* [ದಿ ಗ್ರೇಟ್ ಕ್ಲೌಡ್‌ವಾಲ್](article.txt) [ಶ್ರೀ. ಜೆಫ್ ಕ್ಲಿಫ್](https://shitposter.club/users/jeffcliff)
+* [ದಿ ಗ್ರೇಟ್ ಕ್ಲೌಡ್‌ವಾಲ್](../article.txt) [ಶ್ರೀ. ಜೆಫ್ ಕ್ಲಿಫ್](https://shitposter.club/users/jeffcliff)
   * ಹೀಗೆ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ: ಪಿಡಿಎಫ್ [ಇಲ್ಲಿ](ಪಿಡಿಎಫ್/2019-ದಿ_ಗ್ರೇಟ್_ಕ್ಲೌಡ್‌ವಾಲ್.ಪಿಡಿಎಫ್), ಇಪಬ್ [ಇಲ್ಲಿ](ಪಿಡಿಎಫ್/2019-ಜೆಫ್_ಕ್ಲಿಫ್_ಥೆ_ಗ್ರೀಟ್_ಕ್ಲೌಡ್‌ವಾಲ್.ಇಪಬ್)
   * ಸಿಸಿ 0 ವಸ್ತುಗಳ ಹಕ್ಕುಸ್ವಾಮ್ಯ ಉಲ್ಲಂಘನೆಯಿಂದಾಗಿ ಮೂಲ ಇಬುಕ್ (ಇಪಬ್) ಅನ್ನು ಬುಕ್‌ರಿಕ್ಸ್ ಜಿಎಂಬಿಹೆಚ್ ಅಳಿಸಿದೆ.
 * [ಪ್ಯಾಡ್‌ಲಾಕ್ ಐಕಾನ್ ಅನಾಮಧೇಯರಿಂದ ಸ್ಥಾಪಿಸಲಾದ ಸುರಕ್ಷಿತ ಎಸ್‌ಎಸ್‌ಎಲ್ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
@@ -166,7 +163,7 @@
 
 ---
 
-![](ಚಿತ್ರ/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

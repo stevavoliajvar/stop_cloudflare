@@ -1,5 +1,4 @@
-## La Granda Nubmuro
-## The Great Cloudwall
+## La Granda Nubmuro / The Great Cloudwall
 
 
 | &#128444; | &#128441; Longa versio<br>&#128441; Long version | &#128441; Mallonga versio<br>&#128441; Short version |
@@ -8,5 +7,4 @@
 
 ---
 
-- [Proponi novan lingvon / Suggest new language](https://codeberg.org/crimeflare/cloudflare-tor/issues/new)
 - [Permesilo / License](LICENSE.md)

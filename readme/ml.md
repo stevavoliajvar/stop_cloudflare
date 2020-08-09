@@ -69,7 +69,7 @@
 
 ### ഇന്റർനെറ്റ് വികേന്ദ്രീകരിക്കുക.
 
-![](ചിത്രം/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 ** കൂടുതൽ വിവരങ്ങൾ **
-* [റോബിൻ വിൽസ്](https://linuxrocks.online/@RMW) എഴുതിയ [README](ml.short.md)
-  * ഈ README.md- ന് ഇത്രയധികം ഇമേജുകൾ ഉള്ളത് എന്തുകൊണ്ടാണെന്ന് നിങ്ങൾ ചോദിച്ചേക്കാം. ഹ്രസ്വ പതിപ്പിന് മുകളിലുള്ള ചിത്രങ്ങൾ കുറവാണ്.
-  * [മിക്ക ആളുകളും പേജിലെ 20-28% വാക്കുകൾ മാത്രം വായിക്കുന്നു](https://movantink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [മിത്ത് കാറ്റലോഗ്](പുരാണം_കാറ്റലോഗ്. എംഡി)
-* [ഗ്രേറ്റ് ക്ല oud ഡ്‌വാൾ](article.txt) [മിസ്റ്റർ. ജെഫ് ക്ലിഫ്](https://shitposter.club/users/jeffcliff)
+* [ഗ്രേറ്റ് ക്ല oud ഡ്‌വാൾ](../article.txt) [മിസ്റ്റർ. ജെഫ് ക്ലിഫ്](https://shitposter.club/users/jeffcliff)
   * ഇതായി ഡ Download ൺ‌ലോഡുചെയ്യുക: PDF [ഇവിടെ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ഇവിടെ](../pdf/2019-Jef_Cliff_The_Great_Cloudwall.epub)
   CC0 മെറ്റീരിയലിന്റെ പകർപ്പവകാശ ലംഘനം കാരണം യഥാർത്ഥ ഇബുക്ക് (ഇപബ്) ബുക്ക് റിക്സ് ജിഎം‌എച്ച് ഇല്ലാതാക്കി.
 * [പാഡ്‌ലോക്ക് ഐക്കൺ അജ്ഞാതനായ ഒരു സുരക്ഷിത SSL കണക്ഷൻ w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) സൂചിപ്പിക്കുന്നു.
@@ -166,7 +163,7 @@
 
 ---
 
-![](ചിത്രം/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

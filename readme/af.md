@@ -69,7 +69,7 @@
 
 ### Desentraliseer die internet.
 
-!["Cloudflare is nie 'n opsie nie."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter “The Great Cloudwall” st
 
 
 **Meer inligting**
-* [Kort weergawe van README](af.short.md) deur [Robin Wils](https://linuxrocks.online/@RMW)
-  * Miskien wil u vra waarom hierdie README.md soveel beelde het. Boven die kort weergawe het minder beelde.
-  * [Die meeste mense lees slegs 20-28% van die woorde op die bladsy](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Mite katalogus](myth_catalog.md)
-* [The Great Cloudwall](article.txt) deur [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Mite katalogus](../myth_catalog.md)
+* [The Great Cloudwall](../article.txt) deur [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Laai af as: PDF [hier](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hier](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Die oorspronklike e-boek (ePUB) is deur BookRix GmbH uitgevee weens die kopieregskending van CC0-materiaal
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) deur Anonymous
@@ -166,7 +163,7 @@ Ons vra nooit u sosiale media nie.**
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -190,6 +187,6 @@ Ons vra nooit u sosiale media nie.**
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-![What did YOU do to stop CF?](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)

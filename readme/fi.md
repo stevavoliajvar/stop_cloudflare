@@ -69,7 +69,7 @@
 
 ### Hajauttaa Internet.
 
-!["Pilvipallo ei ole vaihtoehto."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Tämä arkisto on luettelo verkkosivustoista, jotka ovat ”suuren pilvenpinnan�
 
 
 **Lisää tietoa**
-* [lyhyt versio README](fi.short.md) suuri [Robin Wils](https://linuxrocks.online/@RMW)
-  * Haluat ehkä kysyä, miksi tällä README.md: llä on niin paljon kuvia. Lyhyen version yläpuolella on vähemmän kuvia.
-  * [Useimmat ihmiset lukevat vain 20–28% sivun sanoista](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Myyttiluettelo](myth_catalog.md)
-* [The Great Cloudwall](article.txt) suuri [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myyttiluettelo](../myth_catalog.md)
+* [The Great Cloudwall](../article.txt) suuri [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Lataa muodossa: PDF [täällä](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [täällä](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * BookRix GmbH poisti alkuperäisen e-kirjan (ePUB) CC0-aineiston tekijänoikeusrikkomusten takia
 * [Lukko-kuvake osoittaa, että Anonyymi on luonut turvallisen SSL-yhteyden](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) suuri Anonymous
@@ -166,7 +163,7 @@ Emme koskaan kysy sosiaalista mediaasi.**
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

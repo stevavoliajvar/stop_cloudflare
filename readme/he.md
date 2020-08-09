@@ -100,11 +100,8 @@
 
 
 **עוד מידע**
-* [גרסה קצרה של README](he.short.md) מאת [רובין וילס](https://linuxrocks.online/@RMW)
-  * כדאי לשאול מדוע יש ל- README.md תמונות כה רבות. מעל הגרסה הקצרה יש פחות תמונות.
-  * [רוב האנשים קוראים רק 20-28% מהמילים בדף](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [קטלוג מיתוסים](../myth_catalog.md)
-* [The Cloudwall הגדול](Article.txt) מאת [Mr. ג'ף קליף](https://shitposter.club/users/jeffcliff)
+* [The Cloudwall הגדול](../article.txt) מאת [Mr. ג'ף קליף](https://shitposter.club/users/jeffcliff)
   * הורד כ: PDF [כאן](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [כאן](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * הספר האלקטרוני המקורי (ePUB) נמחק על ידי BookRix GmbH עקב הפרת זכויות יוצרים של חומר CC0
 * [סמל מנעול מציין חיבור SSL מאובטח שהוקם באמצעות MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) מאת Anonymous
@@ -166,7 +163,7 @@ Crimeflare יודע על קיומם של חשבונות מזויפים המתח�
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

@@ -69,7 +69,7 @@
 
 ### ઇન્ટરનેટનું વિકેન્દ્રિય બનાવો.
 
-!["ક્લાઉડફ્લેર એ વિકલ્પ નથી."](Image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 **વધુ મહિતી**
-* [રોબિન વિલ્સ](https://linuxrocks.online/@RMW) દ્વારા [README ના ટૂંકા સંસ્કરણ](gu.short.md)
-  * તમે પૂછી શકો છો કે આ README.md પાસે ઘણી બધી છબીઓ શા માટે છે? ઉપરના ટૂંકા સંસ્કરણમાં ઓછી છબીઓ છે.
-  * [મોટાભાગના લોકો ફક્ત પૃષ્ઠ પરના 20-28% શબ્દો જ વાંચે છે) (https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [દંતકથા કેટલોગ](દંતકથા_કેટેલોગ.એમડી)
 * [ગ્રેટ ક્લાઉડવallલ](લેખ. ટેક્સ્ટ) દ્વારા [શ્રી. જેફ ક્લિફ](https://shitposter.club/users/jeffcliff)
   * આ રીતે ડાઉનલોડ કરો: પીડીએફ [અહીં](પીડીએફ/2019-ધ_ગ્રેટ_ક્લાઉડવallલ.પીડીએફ), ઇપબ [અહીં]
@@ -166,7 +163,7 @@
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 !
@@ -190,6 +187,6 @@
 
 !
 
-![તમે સીએફને રોકવા માટે શું કર્યું?](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 !

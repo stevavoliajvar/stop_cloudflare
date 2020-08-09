@@ -69,7 +69,7 @@
 
 ### ਇੰਟਰਨੈਟ ਦਾ ਵਿਕੇਂਦਰੀਕਰਣ ਕਰੋ.
 
-!["ਕਲਾਉਡਫਲੇਅਰ ਇੱਕ ਵਿਕਲਪ ਨਹੀਂ ਹੈ."](ਚਿੱਤਰ/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 **ਹੋਰ ਜਾਣਕਾਰੀ**
-* [ਰੌਬਿਨ ਵਿਲਸ] ਦੁਆਰਾ (README ਦਾ ਛੋਟਾ ਸੰਸਕਰਣ](pa.short.md) (https://linuxrocks.online/@RMW)
-  * ਤੁਸੀਂ ਸ਼ਾਇਦ ਇਹ ਪੁੱਛਣਾ ਚਾਹੋਗੇ ਕਿ ਇਸ README.md ਕੋਲ ਇੰਨੇ ਚਿੱਤਰ ਕਿਉਂ ਹਨ. ਛੋਟੇ ਰੂਪਾਂ ਦੇ ਉੱਪਰ ਚਿੱਤਰ ਘੱਟ ਹਨ.
-  * [ਬਹੁਤੇ ਲੋਕ ਪੇਜ 'ਤੇ ਸਿਰਫ 20-28% ਸ਼ਬਦ ਪੜ੍ਹਦੇ ਹਨ) (https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [ਮਿੱਥ ਕੈਟਾਲਾਗ](ਮਿੱਥ_ਕੈਟਾਲੋਗ.ਐਮਡੀ)
 * [ਦਿ ਗ੍ਰੇਟ ਕਲਾਉਡਵਾਲ](ਆਰਟੀਕਲ. ਟੈਕਸਟ) ਦੁਆਰਾ [ਸ੍ਰੀ. ਜੈੱਫ ਕਲਿਫ](https://shitposter.club/users/jeffcliff)
   * ਇਸ ਤਰਾਂ ਡਾਉਨਲੋਡ ਕਰੋ: ਪੀਡੀਐਫ [ਇੱਥੇ](ਪੀਡੀਐਫ/2019- ਦਿ_ਗਰੇਟ_ ਕਲਾਉਡਵਾਲ. ਪੀਡੀਐਫ), ਈਪੀਯੂਬੀ [ਇੱਥੇ](ਪੀਡੀਐਫ/2019- ਜੇਫ_ਕਲੀਫ_ਕ_ਗਰੇਟ_ ਕਲਾਉਡਵਾਲ.ਈਪਬ)
@@ -166,7 +163,7 @@
 
 ---
 
-![ਡਬਲਯੂਟੀਐਫ](ਚਿੱਤਰ/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 !]
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -190,6 +187,6 @@
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-![ਤੁਸੀਂ ਸੀ.ਐਫ ਨੂੰ ਰੋਕਣ ਲਈ ਕੀ ਕੀਤਾ?](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 !]

@@ -69,7 +69,7 @@ Mae ### Cloudflare yn bot mêl.
 
 ### Datganoli'r rhyngrwyd.
 
-![](delwedd/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "_The Great Cloudwall_", 
 
 
 **Mwy o wybodaeth**
-* [Fersiwn fer o README](cy.short.md) gan [Robin Wils](https://linuxrocks.online/@RMW)
-  * Efallai yr hoffech chi ofyn pam mae gan y README.md hwn gymaint o ddelweddau. Uwchben fersiwn fer, mae llai o ddelweddau.
-  * [Dim ond 20-28% o'r geiriau ar y dudalen y mae'r rhan fwyaf o bobl yn eu darllen](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalog Myth](../myth_catalog.md)
 * [The Great Cloudwall](erthygl.txt) gan [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Dadlwythwch fel: PDF [yma](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [yma](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Nid ydym byth yn gofyn i'ch cyfryngau cymdeithasol. **
 
 ---
 
-![](delwedd/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

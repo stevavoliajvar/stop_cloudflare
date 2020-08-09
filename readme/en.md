@@ -74,7 +74,7 @@
 
 ### Decentralize the internet.
 
-![](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -105,11 +105,8 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 
 
 **More Information**
-* [Short version of README](en.short.md)
-  * You might want to ask why this README.md has so many images. Above short version have less images.
-  * [Most people only read 20-28% of the words on the page.](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)
-* [Myth Catalog](myth_catalog.md)
-* [The Great Cloudwall](article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../myth_catalog.md)
+* [The Great Cloudwall](../article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download as: PDF [here](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * The original eBook(ePUB) was deleted by `BookRix GmbH` due to `copyright infringement of CC0 material`
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous

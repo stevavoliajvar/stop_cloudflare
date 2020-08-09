@@ -69,7 +69,7 @@
 
 ### Rage yanar gizo.
 
-!["Cloudflare ba zaɓi bane."](Hoto/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Wannan wurin ajiyar bayanai jerin shafukan yanar gizon da ke bayan "_The Great C
 
 
 ** Informationarin Bayani **
-* [Short version na README](ha.short.md) daga [Robin Wils](https://linuxrocks.online/@RMW)
-  * Kuna iya tambayar dalilin da yasa wannan README.md yake da hotuna da yawa. Sama da gajeren fasalin suna da hotuna kadan.
-  * [Yawancin mutane suna karanta 20-28% na kalmomin a shafin](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Labarin Tarihi](labari na_catalog.md)
 * [Babban Cloudwall](labarin.txt) ta [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Saukewa kamar haka: PDF [a nan](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [anan](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Ba mu taɓa tambayar kafofin watsa labarun ku ba. **
 
 ---
 
-![](hoto/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

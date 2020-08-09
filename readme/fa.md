@@ -69,7 +69,7 @@
 
 ### عدم تمرکز اینترنت.
 
-[[Cloudflare گزینه ای نیست.]](تصویر/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **اطلاعات بیشتر**
-* [نسخه کوتاه README](fa.short.md) توسط [رابین ویلز](https://linuxrocks.online/@RMW)
-  * ممکن است بخواهید بپرسید که چرا این README.md تصاویر زیادی دارد. بالاتر از نسخه کوتاه تصاویر کمتری دارند.
-  * [بیشتر افراد فقط 20-28٪ کلمات را در صفحه می خوانند](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [کاتالوگ اسطوره](myth_catalog.md)
-* [ابر بزرگ](Article.txt) توسط [آقای جف کلیف](https://shitposter.club/users/jeffcliff)
+* [کاتالوگ اسطوره](../myth_catalog.md)
+* [ابر بزرگ](../article.txt) توسط [آقای جف کلیف](https://shitposter.club/users/jeffcliff)
   * به صورت زیر بارگیری کنید: PDF [اینجا](../pdf/2019-The_Great_Cloudwall.pdf) ، ePUB [اینجا](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * کتاب الکترونیکی اصلی (ePUB) به دلیل «نقض کپی رایت از مواد CC0» توسط «BookRix GmbH» حذف شد.
 * [نماد Padlock نشانگر اتصال SSL امن است که با MITM-ed تأسیس شده است](https://bugs.debian.org/cgi-bin/bugreport.cgi؟bug=831835) توسط ناشناس
@@ -166,7 +163,7 @@ Crimeflare درباره وجود حساب های جعلی که جعل هویت �
 
 ---
 
-[](تصویر/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -190,6 +187,6 @@ Crimeflare درباره وجود حساب های جعلی که جعل هویت �
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-[](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)

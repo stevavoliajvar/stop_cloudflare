@@ -69,7 +69,7 @@
 
 ### インターネットを分散させましょう。
 
-!["Cloudflareは選択肢ではない"](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **追加情報**
-* [短いREADME](ja.short.md) by [Robin Wils](https://linuxrocks.online/@RMW)
-  * このREADME.mdになぜ多くの画像が入っているのか不思議に思ったことでしょう。上の短いREADMEは画像が少なめです。
-  * [多くの人々はたったの20-28%しか文章を読まない](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Myth Catalog](myth_catalog.md)
-* [The Great Cloudwall](article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../myth_catalog.md)
+* [The Great Cloudwall](../article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ダウンロード: PDF [こちら](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [こちら](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * 元の本(ePUB)は`BookRix GmbH`によって、`CC0`ライセンスの著作権侵害を理由に削除されました
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
@@ -166,7 +163,7 @@ SNSでフォローするようお願いすることはありません。
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -190,6 +187,6 @@ SNSでフォローするようお願いすることはありません。
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-![What did YOU do to stop CF?](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)

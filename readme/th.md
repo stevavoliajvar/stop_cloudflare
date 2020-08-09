@@ -69,7 +69,7 @@
 
 ### กระจายอำนาจอินเทอร์เน็ต
 
-!["Cloudflare ไม่ใช่ตัวเลือก"](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **ข้อมูลมากกว่านี้**
-* [README รุ่นสั้น](th.short.md) โดย [Robin Wils](https://linuxrocks.online/@RMW)
-  * คุณอาจต้องการถามว่าเพราะเหตุใด README.md จึงมีภาพมากมาย เวอร์ชั่นสั้นด้านบนมีภาพน้อย
-  * [คนส่วนใหญ่เพียงอ่าน 20-28% ของคำในหน้า](https://movableink.com/blog/29-incredible-stats-that-that-prove-the-power-of-visual-marketing/)
-* [แคตตาล็อกตำนาน](myth_catalog.md)
-* [The Great Cloudwall](article.txt) โดย [นาย Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [แคตตาล็อกตำนาน](../myth_catalog.md)
+* [The Great Cloudwall](../article.txt) โดย [นาย Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ดาวน์โหลดเป็น: PDF [ที่นี่](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ที่นี่](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * eBook ดั้งเดิม (ePUB) ถูกลบโดย `BookRix GmbH` เนื่องจาก` การละเมิดลิขสิทธิ์ของ CC0 วัสดุ `
 * [ไอคอนรูปกุญแจแสดงการเชื่อมต่อ SSL ที่ปลอดภัยซึ่งสร้างโดย MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) โดย Anonymous
@@ -166,7 +163,7 @@ Crimeflare รู้เกี่ยวกับการมีอยู่ขอ
 
 ---
 
-![](ภาพ/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

@@ -69,7 +69,7 @@
 
 ### thenternetê dexap bikin.
 
-![](wêne/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Vê repoya navnîşek malperên ku li pişt "_The Great Cloudwall_" in, rawestan
 
 
 ** Agahiyên zêdetir **
-* [Kurtediya README](ku.short.md) ji hêla [Robin Wils](https://linuxrocks.online/@RMW)
-  * Hûn dikarin bixwazin çima ev README.md ewqas gelek wêne hene. Li jor guhertoya kurt kêmtir wêneyên wan hene.
-  * [Piraniya kesan tenê 20-28% ji peyvan li ser rûpelê dixwînin](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalîka Mîtan](mit_catalog.md)
 * [Cloudwall ya Mezin](got.txt) ji hêla [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Wekî dakêşin: PDF [here](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Em tu carî ji medyaya weya civakî napirsin. **
 
 ---
 
-![](wêne/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

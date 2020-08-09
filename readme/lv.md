@@ -69,7 +69,7 @@
 
 ### Decentralizēt internetu.
 
-![](attēls/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 **Vairāk informācijas**
-* [Īsa README versija](lv.short.md), autors [Robins Vils](https://linuxrocks.online/@RMW)
-  * Jūs varētu jautāt, kāpēc šajā README.md ir tik daudz attēlu. Virs īsās versijas ir mazāk attēlu.
-  * [Lielākā daļa cilvēku lasa tikai 20–28% no vārdiem lapā](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mītu katalogs](../myth_catalog.md)
 * [Lielais mākoņstūris](raksts.txt), autoru [Mr. Džefs Klifs](https://shitposter.club/users/jeffcliff)
   * Lejupielādēt kā: PDF [šeit](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [šeit](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Mēs nekad nelūdzam jūsu sociālo mediju. **
 
 ---
 
-![](attēls/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

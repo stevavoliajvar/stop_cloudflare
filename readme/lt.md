@@ -69,7 +69,7 @@
 
 ### Decentralizuokite internetą.
 
-![](vaizdas/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 **Daugiau informacijos**
-* [Trumpa README versija](lt.short.md) pateikė [Robinas Wilsas](https://linuxrocks.online/@RMW)
-  * Galite paklausti, kodėl šioje „README.md“ yra tiek daug vaizdų. Virš trumpos versijos yra mažiau vaizdų.
-  * [Dauguma žmonių skaito tik 20–28 proc. Puslapio žodžių](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mitų katalogas](../myth_catalog.md)
 * [Didysis debesų siena](straipsnis.txt) pateikė [p. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Atsisiųsti kaip: PDF [čia](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [čia](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Mes niekada neklausiame jūsų socialinės žiniasklaidos. **
 
 ---
 
-![](vaizdas/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

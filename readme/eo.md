@@ -101,9 +101,6 @@
 
 
 **Pli da informo**
-* [Mallonga versio de README](eo.short.md)
-  * Vi eble volas demandi, kial ĉi README.md havas tiom da bildoj. Super mallonga versio havas malpli da bildoj.
-  * [Plej multaj homoj nur legas 20-28% de la vortoj sur la paĝo.](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mito-Katalogo](../myth_catalog.md)
 * [La Granda Nubo](../article.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Elŝutu kiel: PDF [ĉi tie](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ĉi tie](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)

@@ -69,7 +69,7 @@
 
 ### انټرنیټ غیرمتمرکز کول.
 
-![](عکس/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 **نور مالومات**
-* [د README لنډه نسخه](ps.short.md) د [رابن وِلز] لخوا (https://linuxrocks.online/@RMW)
-  * تاسو ممکن وغواړئ پوښتنه وکړئ چې ولې دې README.md ډیری عکسونه لري. پورته لنډ نسخه لږ عکسونه لري.
-  * [ډیری خلک یوازې په پا onه کې 20-28 words ټکي لوستلی شي](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [د خرافاتو کتګورۍ](myth_catolog.md)
 * [عالي کلاوډوال](مقالې. ټیکټ) د [ښاغلي لخوا جیف کلف](https://shitposter.club/users/jeffcliff)
   * د دې په څیر ډاونلوډ کړئ: PDF [دلته](../pdf/2019-The_Great_Cloudwall.pdf) ، ePUB [دلته](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@
 
 ---
 
-![](عکس/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 !

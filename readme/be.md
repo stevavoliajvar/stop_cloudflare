@@ -68,7 +68,7 @@
 
 ### Дэцэнтралізаваць Інтэрнэт.
 
-!["Cloudflare - не варыянт."](Image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,11 +99,8 @@
 
 
 ** Дадатковая інфармацыя **
-* [Кароткая версія README](be.short.md) by [Робін Уілс](https://linuxrocks.online/@RMW) 
-  * Вы можаце спытаць, чаму гэты README.md мае так шмат малюнкаў. Над кароткай версіяй ёсць менш малюнкаў.
-  * [Большасць людзей чытае толькі 20-28% слоў на старонцы](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Каталог міфаў](myth_catalog.md) 
-* [The Great Cloudwall](article.txt) by [Mr. Джэф Кліф](https://shitposter.club/users/jeffcliff)
+* [Каталог міфаў](../myth_catalog.md) 
+* [The Great Cloudwall](../article.txt) by [Mr. Джэф Кліф](https://shitposter.club/users/jeffcliff)
   * Спампаваць у выглядзе: PDF [тут](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [тут](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Арыгінальную электронную кнігу (ePUB) выдаліла кампанія "BookRix GmbH" з-за "парушэння аўтарскага права на матэрыял CC0"
 * [Значок замка паказвае на бяспечнае злучэнне SSL, усталяванае w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ад Anonymous
@@ -165,7 +162,7 @@
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

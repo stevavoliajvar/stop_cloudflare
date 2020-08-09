@@ -100,11 +100,8 @@ Toto úložisko je zoznam webových stránok, ktoré stoja za „Veľkým cloudo
 
 
 **Viac informácií**
-* [Krátka verzia README](sk.short.md) od [Robin Wils](https://linuxrocks.online/@RMW)
-  * Možno by ste sa mali opýtať, prečo má tento súbor README.md toľko obrázkov. Vyššia verzia má menej obrázkov.
-  * [Väčšina ľudí čítala iba 20 - 28% slov na stránke](https://movableink.com/blog/29-incredible-stats-that-prov-the-power-of-visual-marketing/).
 * [Katalóg mýtov](../myth_catalog.md)
-* [Veľký cloudwall](article.txt) autor: [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Veľký cloudwall](../article.txt) autor: [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Stiahnuť ako: PDF [tu](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [tu](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Spoločnosť BookRix GmbH odstránila pôvodnú elektronickú knihu (ePUB) z dôvodu porušenia autorských práv na materiál CC0
 * [Ikona zámku je označená ako zabezpečené pripojenie SSL w-MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) od Anonymous
@@ -166,7 +163,7 @@ Nikdy sa vás nepýtame na vaše sociálne médiá. **
 
 ---
 
-![](Image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

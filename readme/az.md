@@ -69,7 +69,7 @@
 
 ### İnterneti mərkəzsizləşdirin.
 
-![](şəkil/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Cloudwal
 
 
 ** Daha çox məlumat **
-* [Robin Wils] tərəfindən hazırlanmış (README qısa versiyası) (az.short.md) (https://linuxrocks.online/@RMW)
-  * Bu README.md-in niyə bu qədər görüntü olduğunu soruşa bilərsiniz. Qısa versiyanın yuxarısında daha az görüntü var.
-  * [İnsanların çoxu səhifədəki sözlərin yalnız 20-28% -ni oxuyur](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mif Kataloqu](../myth_catalog.md)
 * [Möhtəşəm Buludlu](məqalə.txt) Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Yükləyin: PDF [burada](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [burada](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Sosial mediadan heç vaxt soruşmuruq. **
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

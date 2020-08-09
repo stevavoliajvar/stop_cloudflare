@@ -69,7 +69,7 @@ Ang ### Cloudflare usa ka honeypot.
 
 ### Desipikado ang internet.
 
-![](imahe/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Ang kini nga repositoryo usa ka lista sa mga website nga anaa sa luyo sa "_Ang D
 
 
 ** Dugang nga Impormasyon **
-* [Mubo nga bersyon sa README](cb.short.md) ni [Robin Wils](https://linuxrocks.online/@RMW)
-  * Mahimo nimong pangutan-on kung ngano nga kining README.md adunay daghang mga imahe. Labaw sa mubo nga bersyon adunay dili kaayo mga imahe.
-  * [Kadaghanan sa mga tawo nagbasa lamang sa 20-28% sa mga pulong sa panid](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)
 * [Ang Dakong Cloudwall](artikulo.txt) ni [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Pag-download ingon: PDF [dinhi](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [dinhi](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Wala gyud kami mangutana sa imong social media. **
 
 ---
 
-![](imahe/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

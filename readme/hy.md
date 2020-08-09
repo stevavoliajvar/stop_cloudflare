@@ -69,7 +69,7 @@
 
 ### Ապակենտրոնացնել ինտերնետը:
 
-[](պատկերը/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 ** Լրացուցիչ տեղեկություններ **
-* [README] կարճ տարբերակը (hy.short.md) հեղինակ [Robin Wils](https://linuxrocks.online/@RMW)
-  * Գուցե ցանկանաք հարցնել, թե ինչու է այս README.md- ն այդքան շատ պատկերներ: Վերը նշված կարճ տարբերակում ավելի քիչ պատկերներ կան:
-  * [Մարդկանց մեծ մասը միայն էջի բառերի 20-28% -ն է կարդում](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/):
 * [Առասպելների կատալոգ](../myth_catalog.md)
-* [Մեծ Cloudwall](Article.txt) հեղինակ [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Մեծ Cloudwall](../article.txt) հեղինակ [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Ներբեռնեք ՝ PDF [այստեղ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Բուն eBook- ը (ePUB) ջնջվել է BookRix GmbH- ի կողմից CC0- ի նյութերի հեղինակային իրավունքի խախտման պատճառով:
 * [Padlock պատկերակը ցույց է տալիս անվտանգ SSL կապ, որը ստեղծվել է MITM- ի միջոցով](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
@@ -166,7 +163,7 @@ Crimeflare- ն իմացեք մեր պաշտոնական ալիքները կեղ�
 
 ---
 
-[](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -190,6 +187,6 @@ Crimeflare- ն իմացեք մեր պաշտոնական ալիքները կեղ�
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-[](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)

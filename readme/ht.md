@@ -100,11 +100,8 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "_The Great Cloudwall_", b
 
 
 **Plis enfomasyon**
-* [Kout vèsyon nan README](ht.short.md) pa [Robin Wils](https://linuxrocks.online/@RMW)
-  * Ou ta ka vle mande poukisa README.md sa a gen anpil imaj. Pi wo pase vèsyon kout gen mwens imaj.
-  * [Pifò moun sèlman li 20-28% nan mo ki nan paj la](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)
-* [Great Cloudwall a](article.txt) pa [Mesye ... Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Great Cloudwall a](../article.txt) pa [Mesye ... Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download kòm: PDF [isit la](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [isit la](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Te eBook orijinal la (ePUB) efase nan BookRix GmbH akòz kontravansyon copyright nan materyèl CC0
 * [Kadna icon endike yon koneksyon SSL an sekirite etabli w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) pa Anonymous
@@ -166,7 +163,7 @@ Nou pa janm mande medya sosyal ou. **
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

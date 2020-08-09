@@ -69,7 +69,7 @@
 
 ### Kwado ịntanetị.
 
-![](foto/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Ebe a bụ ndepụta nke weebụsaịtị dị n'azụ "_The Great Cloudwall_", 
 
 
 ** Ozi ndị ọzọ **
-* [Otu mkpụmkpụ nke README](ig.short.md) nke [Robin Wils](https://linuxrocks.online/@RMW)
-  * I nwere ike jụọ ihe kpatara nke a README.md nwere ọtụtụ onyonyo. Oke dị mkpụmkpụ nwere onyonyo dị obere.
-  * [Ọtụtụ ndị na-agụ naanị 20-28% nke okwu ndị dị na peeji ahụ) (https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Ndepụta akụkọ ifo](akụkọ ifo_catalog.md)
 * [Nnukwu Cloudwall](isiokwu.txt) nke [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Budata dị ka: PDF [ebe a](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ebe a](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Anyị anaghị ajụ ndị na-elekọta mmadụ. **
 
 ---
 
-![](foto/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

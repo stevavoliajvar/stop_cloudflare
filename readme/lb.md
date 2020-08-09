@@ -69,7 +69,7 @@
 
 ### Dezentraliséiert mam Internet.
 
-![](Bild/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "_The Great Cloudwa
 
 
 ** Méi Informatioun **
-* [Kuerz Versioun vum README](lb.short.md) vum [Robin Wils](https://linuxrocks.online/@RMW)
-  * Dir wëllt froen firwat dëse README.md sou vill Biller huet. Uewen déi kuerz Versioun hu manner Biller.
-  * [Déi meescht Leit liesen nëmmen 20-28% vun de Wierder op der Säit](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mythskatalog](../myth_catalog.md)
 * [The Great Cloudwall](artikel.txt) vum [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Eroflueden als: PDF [hei](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hei](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Mir froen ni Är Social Media. **
 
 ---
 
-![](Bild/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

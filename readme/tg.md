@@ -69,7 +69,7 @@
 
 ### Ғайримутамарказ кардани интернет.
 
-![](сурат/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 ** Маълумоти бештар **
-* [Нусхаи кӯтоҳи README](tg.short.md) аз ҷониби [Робин Уилс](https://linuxrocks.online/@RMW)
-  * Шумо метавонед бипурсед, ки чаро ин README.md ин қадар тасвирҳо дорад. Дар боло версияи кӯтоҳ аксҳои камтар доранд.
-  * [Аксарияти мардум танҳо 20-28% калимаҳои дар саҳифа хондашударо мехонанд](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Каталоги афсонавӣ](../myth_catalog.md)
 * [Клоудволи Бузург](мақола.txt) аз ҷониби [Ҷаноб. Ҷефф Клифф](https://shitposter.club/users/jeffcliff)
   * Ҳамчун зеркашӣ кунед: PDF [инҷо](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [инҷо](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Crimeflare дар бораи мавҷудияти ҳисобҳои қалбак�
 
 ---
 
-![](сурат/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

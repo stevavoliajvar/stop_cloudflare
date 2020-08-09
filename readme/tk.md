@@ -69,7 +69,7 @@
 
 ### Interneti merkezden daşlaşdyrmak.
 
-![](surat/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "_ The Great Cloudwa
 
 
 **Köp maglumat**
-* [README-iň gysga wersiýasy](tk.short.md) [Robin Wils](https://linuxrocks.online/@RMW)
-  * Bu README.md-iň näme üçin köp suratynyň bardygyny sorap bilersiňiz. Shortokardaky gysga wersiýada suratlar az.
-  * [Köp adam sahypadaky sözleriň diňe 20-28% -ini okaýar](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mif katalogy](../myth_catalog.md)
 * [The Great Cloudwall](makala.txt) [jenap Jeff Kliff](https://shitposter.club/users/jeffcliff)
   * Göçürip alyň: PDF [şu ýerde](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [şu ýerde](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Sosial mediýaňyzdan hiç haçan soramaýarys. **
 
 ---
 
-![](surat/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

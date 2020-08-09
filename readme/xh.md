@@ -69,7 +69,7 @@
 
 ### Yabela i-intanethi.
 
-![](umfanekiso/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Olu lugcino luluhlu lwewebhusayithi ezingasemva "_The Cloudwall_" enkulu, ethint
 
 
 **Iinkcukacha ezithe xaxe**
-* [Inguqulelo emfutshane ye-README](xh.short.md) ngu [Robin Wils](https://linuxrocks.online/@RMW)
-  * Unokufuna ukubuza ukuba kutheni le FUNDME.md inemifanekiso emininzi kangaka. Ngaphezulu ingxelo emfutshane inemifanekiso emincinci.
-  * [Uninzi lwabantu lufunda kuphela amagama angama-20- 28% kwiphepha](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Ikhathalogu yentsomi](../myth_catalog.md)
 * [I-Cloudwall enkulu](inqaku.txt) ngu [Mnu. UJeff Cliff](https://shitposter.club/users/jeffcliff)
   * Khuphela njenge: PDF [apha](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [apha](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -138,7 +135,7 @@ Iidilesi <
 
 * Khangela into kwi [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/) okanye [Ulwaphulo-mthetho] # #] odferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [Hlaziya uluhlu lwedome: Imiyalelo yoluhlu](imiyalelo.md).
+* [Hlaziya uluhlu lwedome: Imiyalelo yoluhlu](../instructions.md).
 
 * [Yongeza i-Cloudflare okanye isiganeko esinxulumene neprojekthi kwimbali](../HISTORY.md).
 
@@ -166,7 +163,7 @@ Soze sibuze kwimidiya yakho yezentlalo. **
 
 ---
 
-![](umfanekiso/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![] [
 ![] [

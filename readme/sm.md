@@ -69,7 +69,7 @@
 
 ### Maʻeaʻi le initaneti.
 
-![](ata/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ O lenei fale teu faʻamatalaga o se lisi o uepisaite o loʻo i tua atu "_O le Si
 
 
 ** Nisi faʻamatalaga **
-* [Faʻamatalaga puʻupuʻu o README](sm.short.md) saunia e [Robin Wils](https://linuxrocks.online/@RMW)
-  * Atonu e te fia fesili pe aisea ua tele ai ata o lenei README.md. Luga o faʻamatalaga puʻupuʻu e itiiti ata.
-  * [Ole tele o tagata e naʻo le 20-28% o upu o loʻo i luga o le itulau](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Lafoga o Faʻamatalaga](../myth_catalog.md)
-* [O le Great Cloudwall](article.txt) saunia e [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [O le Great Cloudwall](../article.txt) saunia e [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Sii mai e: PDF [iinei](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [iinei](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * O le uluai eBook (ePUB) na soloia e BookRix GmbH ona o le puletaofia le solia o CC0 mea
 * [Padlock icon faʻaalia se malupuipuia SSL sootaga faʻatuina w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) e Anonymous
@@ -166,7 +163,7 @@ Matou te le fesiligia le aufaasālalau. **
 
 ---
 
-![](ata/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

@@ -69,7 +69,7 @@
 
 ### ინტერნეტის დეცენტრალიზაცია.
 
-[](სურათი/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **Მეტი ინფორმაცია**
-* [README მოკლე ვერსია](ka.short.md) ავტორი [რობინ ვილს](https://linuxrocks.online/@RMW)
-  * შეიძლება გკითხოთ, რატომ აქვს ამ README.md- ს ამდენი სურათი. მოკლე ვერსიაში ნაკლები გამოსახულებებია.
-  * [ადამიანების უმეტესობამ მხოლოდ ამ სიტყვების 20-28% წაიკითხა გვერდზე](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [მითების კატალოგი](მითო_ კატალოგი +.
-* [დიდი ღრუბელი](Article.txt) ავტორი [Mr. ჯეფ კლიფი](https://shitposter.club/users/jeffcliff)
+* [დიდი ღრუბელი](../article.txt) ავტორი [Mr. ჯეფ კლიფი](https://shitposter.club/users/jeffcliff)
   * გადმოწერეთ: PDF [აქ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [აქ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook– ის ორიგინალი (ePUB) წაიშალა BookRix GmbH– ის მიერ CC0 მასალის საავტორო უფლებების დარღვევის გამო.
 * [ბოქლომის ხატი მიუთითებს უსაფრთხო SSL კავშირზე დამყარებულ MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ანონიმასის მიერ
@@ -166,7 +163,7 @@ Crimeflare იცოდეთ ყალბი ანგარიშების 
 
 ---
 
-[](სურათი/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -190,6 +187,6 @@ Crimeflare იცოდეთ ყალბი ანგარიშების 
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-[](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 [](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)

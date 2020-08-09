@@ -69,7 +69,7 @@
 
 ### Интернетті орталықсыздандырыңыз.
 
-![](сурет/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 **Көбірек ақпарат**
-* [README қысқа нұсқасы](kk.short.md) [Робин Уилс](https://linuxrocks.online/@RMW)
-  * Осы README.md суреттерінің неге көп екендігі туралы сұрағыңыз келуі мүмкін. Қысқа нұсқада суреттер аз.
-  * [Көптеген адамдар парақтағы сөздердің 20-28% оқиды](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Миф каталогы](../myth_catalog.md)
 * [Great Cloudwall](мақала.txt) [Mr. Джефф Клифф](https://shitposter.club/users/jeffcliff)
   * Жүктеңіз: PDF [мұнда](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [мұнда](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Twitter, Facebook, Patreon, OpenCollective, Village және т.б. сияқты
 
 ---
 
-![](сурет/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

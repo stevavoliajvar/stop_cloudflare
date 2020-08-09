@@ -69,7 +69,7 @@
 
 ### Decentralize intanẹẹti.
 
-!["Cloudflare kii ṣe aṣayan."](Aworan/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Ibi ipamọ yii jẹ atokọ ti awọn oju opo wẹẹbu ti o wa lẹhin "_The G
 
 
 ** Alaye diẹ sii **
-* [Ẹya Kukuru ti README](yo.short.md) nipasẹ [Robin Wils](https://linuxrocks.online/@RMW)
-  * O le fẹ lati beere idi ti README.md yii ni ọpọlọpọ awọn aworan. Ti ikede kukuru kukuru ni awọn aworan ti o kere si.
-  * [Pupọ eniyan nikan ka 20-28% ti awọn ọrọ ti o wa ni oju-iwe](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Iwe akọọlẹ Adaparọ](myth_catalog.md)
-* [Cloud Cloud Great](article.txt) nipasẹ [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Iwe akọọlẹ Adaparọ](../myth_catalog.md)
+* [Cloud Cloud Great](../article.txt) nipasẹ [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Ṣe igbasilẹ bi: PDF [nibi](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [nibi](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook atilẹba (ePUB) ti paarẹ nipasẹ ‘BookRix GmbH` nitori“ o ṣẹ si aṣẹ lori ara ti ohun elo CC0
 * [Ami aami Padlock tọkasi asopọ SSL to ni aabo ti o mulẹ w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) nipasẹ Anonymous
@@ -166,7 +163,7 @@ A ko beere fun media rẹ. **
 
 ---
 
-![](aworan/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

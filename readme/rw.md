@@ -69,7 +69,7 @@
 
 ### Kwegereza abaturage interineti.
 
-![](ishusho/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Ububiko ni urutonde rwurubuga ruri inyuma ya "_Igicu kinini cya Cloudwall_", kib
 
 
 ** Andi Makuru **
-* [Inyandiko ngufi ya README](rw.short.md) na [Robin Wils](https://linuxrocks.online/@RMW)
-  * Urashobora kubaza impamvu iyi README.md ifite amashusho menshi. Hejuru ya verisiyo ngufi ifite amashusho make.
-  * [Abantu benshi basoma gusa 20-28% yamagambo ari kurupapuro](https://movableink.com/blog/29-byemewe-ibisobanuro-byo-byemeza-ububasha-bwerekana-ibimenyetso-).
 * [Cataloge y'ibinyoma](../myth_catalog.md)
 * [Igicu kinini] [ingingo.txt) na [Bwana Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Kuramo nka: PDF [hano](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hano](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Ntabwo twigera dusaba imbuga nkoranyambaga. **
 
 ---
 
-![](ishusho/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/ishami/umuyobozi/image

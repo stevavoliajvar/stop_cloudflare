@@ -69,7 +69,7 @@
 
 ### Tukuyin ang internet.
 
-!["Ang Cloudflare ay hindi isang pagpipilian."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 
 
 **Karagdagang informasiyon**
-* [Maikling bersyon ng README](fl.short.md) ni [Robin Wils](https://linuxrocks.online/@RMW)
-  * Maaari mong itanong kung bakit ang maraming README.md na ito ay maraming mga imahe. Sa itaas ng maikling bersyon ay may mas kaunting mga imahe.
-  * [Karamihan sa mga tao ay nagbasa lamang ng 20-28% ng mga salita sa pahina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Myth Catalog](myth_catalog.md)
-* [Ang Dakilang Cloudwall](article.txt) ni [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../myth_catalog.md)
+* [Ang Dakilang Cloudwall](../article.txt) ni [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * I-download bilang: PDF [dito](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [dito](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ang orihinal na eBook (ePUB) ay tinanggal ng BookRix GmbH dahil sa paglabag sa copyright ng materyal na CC0
 * [Ang icon ng Padlock ay nagpapahiwatig ng isang ligtas na koneksyon sa SSL na itinatag w MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ni Anonymous
@@ -166,7 +163,7 @@ Hindi namin hilingin sa iyong social media.**
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

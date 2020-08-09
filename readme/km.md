@@ -69,7 +69,7 @@
 
 ### ធ្វើវិមជ្ឈការអ៊ីនធឺណិត។
 
-![](រូបភាព/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 **ព័ត៌មាន​បន្ថែម**
-* [កំណែខ្លីនៃ README](km.short.md) ដោយ [Robin Wils](https://linuxrocks.online/@RMW)
-  * អ្នកប្រហែលជាចង់សួរថាហេតុអ្វី README.md នេះមានរូបភាពច្រើន។ កំណែខ្លីខាងលើមានរូបភាពតិចជាង។
-  * [មនុស្សភាគច្រើនគ្រាន់តែអាន ២០-២៨% នៃពាក្យនៅលើទំព័រ](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/) ។
 * [កាតាឡុកទេវកថា](../myth_catalog.md)
 * [The Great Cloudwall](អត្ថបទ.txt) ដោយ [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ទាញយកជា: PDF [នៅទីនេះ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [នៅទីនេះ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Crimeflare ដឹងអំពីអត្ថិភាពនៃគណនីក្
 
 ---
 
-![](រូបភាព/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

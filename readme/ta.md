@@ -69,7 +69,7 @@
 
 ### இணையத்தை பரவலாக்குங்கள்.
 
-!["கிளவுட்ஃப்ளேர் ஒரு விருப்பமல்ல."](படம்/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 ** மேலும் தகவல் **
-* [ராபின் வில்ஸ்](https://linuxrocks.online/@RMW) எழுதிய [README இன் குறுகிய பதிப்பு](ta.short.md)
-  * இந்த README.md இல் ஏன் பல படங்கள் உள்ளன என்று நீங்கள் கேட்க விரும்பலாம். குறுகிய பதிப்பிற்கு மேலே குறைவான படங்கள் உள்ளன.
-  * [பெரும்பாலான மக்கள் பக்கத்தில் உள்ள 20-28% சொற்களை மட்டுமே படிக்கிறார்கள்](https://movantink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [கட்டுக்கதை பட்டியல்](math_catalog.md)
-* [தி கிரேட் கிளவுட்வால்](article.txt) [திரு. ஜெஃப் கிளிஃப்](https://shitposter.club/users/jeffcliff)
+* [கட்டுக்கதை பட்டியல்](../myth_catalog.md)
+* [தி கிரேட் கிளவுட்வால்](../article.txt) [திரு. ஜெஃப் கிளிஃப்](https://shitposter.club/users/jeffcliff)
   * இவ்வாறு பதிவிறக்குங்கள்: PDF [இங்கே](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [இங்கே](../pdf/2019-Jef_Cliff_The_Great_Cloudwall.epub)
   * CC0 பொருளின் பதிப்புரிமை மீறல் காரணமாக அசல் மின்புத்தகம் (ePUB) `BookRix GmbH` ஆல் நீக்கப்பட்டது.
 * [பேட்லாக் ஐகான் W MITM-ed நிறுவப்பட்ட பாதுகாப்பான SSL இணைப்பை குறிக்கிறது](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) அநாமதேயரால்
@@ -166,7 +163,7 @@
 
 ---
 
-![](படம்/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

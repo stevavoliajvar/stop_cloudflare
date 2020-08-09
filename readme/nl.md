@@ -69,7 +69,7 @@
 
 ### Decentraliseer het internet.
 
-!["Cloudflare is geen optie."](Image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Deze repository is een lijst met websites achter "_The Great Cloudwall_", die To
 
 
 **Meer informatie**
-* [Korte versie van README](nl.short.md) door [Robin Wils](https://linuxrocks.online/@RMW) 
-  * Je kunt je afvragen waarom deze README.md zoveel afbeeldingen heeft. Boven de korte versie heb je minder afbeeldingen.
-  * [De meeste mensen lezen slechts 20-28% van de woorden op de pagina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Myth Catalog](myth_catalog.md) 
-* [The Great Cloudwall](article.txt) door [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../myth_catalog.md) 
+* [The Great Cloudwall](../article.txt) door [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download als:PDF [hier](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hier](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Het originele e-book (ePUB) is verwijderd door `BookRix GmbH` vanwege` auteursrechtschending van CC0-materiaal`
 * [Hangslotpictogram geeft aan dat er een veilige SSL-verbinding tot stand is gebracht met MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) door Anoniem
@@ -166,7 +163,7 @@ We vragen uw sociale media nooit. **
 
 ---
 
-![](afbeelding/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

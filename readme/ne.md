@@ -68,7 +68,7 @@
 
 ### इन्टरनेट विकेन्द्रीकरण गर्नुहोस्।
 
-![](छवि/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,9 +99,6 @@
 
 
 **थप जानकारी**
-* [README को छोटो संस्करण](ne.short.md) द्वारा [रॉबिन विल्स](https://linuxrocks.online/@RMW)
-  * तपाईं सोध्न सक्नुहुन्छ यो README.md यति धेरै छविहरू किन छन्। माथि छोटो संस्करणमा कम छविहरू छन्।
-  * [प्रायः व्यक्तिहरूले पृष्ठमा शव्दहरूको २०-२8% मात्र पढ्छन्](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)।
 * [मिथक क्याटलग](../myth_catalog.md)
 * [दि ग्रेट क्लाउडवाल](आर्टिकल। टेक्स्ट) [श्री। द्वारा जेफ क्लिफ](https://shitposter.club/users/jeffcliff)
   * को रूपमा डाउनलोड गर्नुहोस्: पीडीएफ [यहाँ](पीडीएफ/२०१ 2019-The_Great_Cloudwall.pdf), ePUB [यहाँ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -165,7 +162,7 @@
 
 ---
 
-![](छवि/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 </details>
 

@@ -68,7 +68,7 @@
 
 ### Descentralitzar Internet.
 
-!["Cloudflare no és una opció."](Image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,11 +99,8 @@ Aquest dipòsit és una llista de llocs web que es troben al darrere de "_El gra
 
 
 **Més informació**
-* [Versió breu de README](ca.short.md) de [Robin Wils](https://linuxrocks.online/@RMW) 
-  * Potser voldreu preguntar-vos per què aquest README.md té tantes images. Per sobre de la versió curta hi ha menys images.
-  * [La majoria de la gent només llegeix el 20-28% de les paraules de la pàgina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Catàleg de mites](myth_catalog.md) 
-* [El gran núvol](article.txt) de [Sr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Catàleg de mites](../myth_catalog.md) 
+* [El gran núvol](../article.txt) de [Sr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Descarregueu com:PDF [aquí](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [aquí](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * El llibre electrònic ePUB (ePUB) ha estat suprimit per "BookRix GmbH" a causa de la "infracció dels drets d'autor del material CC0"
 * [La icona del cadenat indica una connexió SSL segura establerta amb MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) per Anonymous
@@ -165,7 +162,7 @@ Mai preguntem als vostres mitjans de comunicació social. **
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

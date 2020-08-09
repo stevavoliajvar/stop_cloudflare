@@ -68,7 +68,7 @@
 
 ### Dreifðu internetinu.
 
-!["Cloudflare er ekki valkostur."](Image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,11 +99,8 @@
 
 
 **Meiri upplýsingar**
-* [Stutt útgáfa af README](is.short.md) eftir [Robin Wils](https://linuxrocks.online/@RMW) 
-  * Þú gætir viljað spyrja af hverju þessi README.md er með svo margar myndir. Fyrir ofan stutta útgáfu eru með minna myndir.
-  * [Flestir lesa aðeins 20-28% orðanna á síðunni](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Myth Catalog](myth_catalog.md) 
-* [The Great Cloudwall](Article.txt) eftir [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../myth_catalog.md) 
+* [The Great Cloudwall](../article.txt) eftir [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Sæktu sem: PDF [hér](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hér](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Upprunalegu rafbókinni (ePUB) var eytt af „BookRix GmbH“ vegna „höfundarréttarbrota á CC0 efni“.
 * [Hengilásartáknið gefur til kynna örugga SSL tengingu komið á með MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) af Anonymous
@@ -165,7 +162,7 @@ Við spyrjum aldrei samfélagsmiðla þína. **
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

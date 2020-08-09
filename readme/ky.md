@@ -69,7 +69,7 @@
 
 ### Интернетти борбордон ажыратуу.
 
-![](Сүрөтү/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@
 
 
 ** Кошумча маалымат **
-* [README кыска нускасы](ky.short.md) [Робин Уилс](https://linuxrocks.online/@RMW)
-  * Бул README.mdде эмне үчүн сүрөттөр ушунчалык көп экендигин сурасаңыз болот. Кыска нускадан жогору эмес сүрөттөр аз.
-  * [Көпчүлүк беттеги сөздөрдүн 20-28% гана окуйт](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Миф каталог](../myth_catalog.md)
 * [Great Cloudwall](макал.txt) [Mr. Джефф Клифф (https://shitposter.club/users/jeffcliff)
   * Жүктөп алуу: PDF [бул жерде](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [бул жерде](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Twitter, Facebook, Patreon, OpenCollective, Айылдар ж.б.у.с. бизд
 
 ---
 
-![](Сүрөтү/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

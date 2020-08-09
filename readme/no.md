@@ -100,11 +100,8 @@ Dette depotet er en liste over nettsteder som ligger bak "_The Great Cloudwall_"
 
 
 **Mer informasjon**
-* [Kortversjon av README](no.short.md) av [Robin Wils](https://linuxrocks.online/@RMW)
-  * Det kan være lurt å spørre hvorfor denne README.md har så mange bilder. Over kortversjon har mindre bilder.
-  * [De fleste leser bare 20-28% av ordene på siden](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)
-* [The Great Cloudwall](Article.txt) av [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [The Great Cloudwall](../article.txt) av [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Last ned som: PDF [her](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [her](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Den opprinnelige eBok (ePUB) ble slettet av BookRix GmbH på grunn av brudd på copyright av CC0-materiale
 * [Hengelåsikon indikerer en sikker SSL-forbindelse opprettet w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) av Anonym
@@ -166,7 +163,7 @@ Vi spør aldri sosiale medier. **
 
 ---
 
-![](Image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

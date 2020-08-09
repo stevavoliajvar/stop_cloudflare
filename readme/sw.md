@@ -69,7 +69,7 @@
 
 # ## Tangaza mtandao.
 
-!["Cloudflare sio chaguo."](Picha/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,10 +100,7 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "_The Cloudwall_" kubwa, inazu
 
 
 **Taarifa zaidi**
-* [Toleo fupi la ReadME](sw.short.md) na [Robin Wils](https://linuxrocks.online/@RMW)
-  * Unaweza kutaka kuuliza kwa nini hii ASME.md ina picha nyingi. Hapo juu toleo fupi lina picha kidogo.
-  * [Watu wengi husoma tu 20-25% ya maneno kwenye ukurasa](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Katalogi ya hadithi](myth_catalog.md)
+* [Katalogi ya hadithi](../myth_catalog.md)
 * [Cloudwall Mkuu](makala.txt) na [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Pakua kama: PDF [here](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hapa](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook halisi (ePUB) ilifutwa na `BookRix GmbH` kwa sababu ya ukiukwaji wa hakimiliki wa vifaa vya CC0`
@@ -166,7 +163,7 @@ Hatuwahi kuuliza media yako ya kijamii. **
 
 ---
 
-![] [picha/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![]

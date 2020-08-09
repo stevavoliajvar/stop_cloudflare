@@ -100,11 +100,8 @@
 
 
 **更多信息**
-* [自述文件的简短版本](zh.short.md) , [Robin Wils](https://linuxrocks.online/@RMW)
-  * 您可能想问为什么这个README.md有这么多图像。短版以上的图片较少。
-  * [大多数人只阅读页面上20-20％的单词](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)
-* [神话目录](myth_catalog.md)
-* [杰夫·克利夫先生的 大云壁](article.txt) , [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [神话目录](../myth_catalog.md)
+* [杰夫·克利夫先生的 大云壁](../article.txt) , [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * 下载: PDF [此处为](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [此处为](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * 由于侵犯CC0材料的版权，BookRix GmbH删除了原始电子书（ePUB）
 * [挂锁图标表示由MITM建立的安全SSL连接](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) , Anonymous
@@ -166,7 +163,7 @@ Crimeflare了解假冒帐户的存在，这些假冒帐户可以假冒我们的�
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

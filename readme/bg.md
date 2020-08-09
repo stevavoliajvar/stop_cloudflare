@@ -69,7 +69,7 @@
 
 ### Децентрализирайте интернет.
 
-![](Изображение/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **Повече информация**
-* [Кратка версия на README](bg.short.md) от [Robin Wils](https://linuxrocks.online/@RMW)
-  * Може да искате да попитате защо този README.md има толкова много изображения. Над кратката версия има по-малко изображения.
-  * [Повечето хора четат само 20-28% от думите на страницата](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Каталог на митите](../myth_catalog.md)
-* [Голямата облачна стена](article.txt) от [Mr. Джеф Клиф](https://shitposter.club/users/jeffcliff)
+* [Голямата облачна стена](../article.txt) от [Mr. Джеф Клиф](https://shitposter.club/users/jeffcliff)
   * Изтеглете като: PDF [тук](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [тук](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригиналната електронна книга (ePUB) беше изтрита от BookRix GmbH поради нарушаване на авторски права на материали CC0
 * [Иконата на катинара показва сигурна SSL връзка, установена с MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) от Anonymous
@@ -166,7 +163,7 @@ Crimeflare знаят за съществуването на фалшиви ак
 
 ---
 
-![](Изображение/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

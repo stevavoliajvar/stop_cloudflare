@@ -68,7 +68,7 @@
 
 ### لا مركزية الإنترنت.
 
-!["Cloudflare ليس خيارًا."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,11 +99,8 @@
 
 
 **معلومات اكثر**
-* [نسخة قصيرة من README](ar.short.md) بواسطة [Robin Wils](https://linuxrocks.online/@RMW) 
-  * قد ترغب في السؤال عن سبب وجود README.md هذا في العديد من الصور. أعلاه نسخة قصيرة لديها صور أقل.
-  * [يقرأ معظم الأشخاص 20-28٪ فقط من الكلمات في الصفحة](https://mhableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Myth Catalog](myth_catalog.md) 
-* [The Cloud Cloudwall](article.txt) من تأليف [السيد. جيف كليف](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../myth_catalog.md) 
+* [The Cloud Cloudwall](../article.txt) من تأليف [السيد. جيف كليف](https://shitposter.club/users/jeffcliff)
   * تنزيل بتنسيق: PDF [هنا](../pdf/2019-The_Great_Cloudwall.pdf) ، ePUB [هنا](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * تم حذف الكتاب الإلكتروني الأصلي (ePUB) بواسطة "BookRix GmbH" بسبب "انتهاك حقوق الطبع والنشر لمواد CC0"
 * [رمز القفل يشير إلى اتصال SSL آمن مع MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi؟bug=831835) بواسطة Anonymous
@@ -165,7 +162,7 @@
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

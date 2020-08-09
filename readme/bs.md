@@ -69,7 +69,7 @@
 
 ### Decentralizirajte Internet.
 
-![](slika/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Ovo skladište je lista web lokacija koje stoje iza "_ Great Cloudwall_", a blok
 
 
 **Više informacija**
-* [Kratka verzija README](bs.short.md) autora Robin Wils (https://linuxrocks.online/@RMW)
-  * Možete pitati zašto ovaj README.md ima toliko slika. Iznad kratke verzije imaju manje slika.
-  * [Većina ljudi pročita samo 20-28% riječi na stranici](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog mitova](../myth_catalog.md)
 * [Veliki oblačni zid](članak.txt) autor [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Preuzmi kao: PDF [ovdje](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ovdje](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Nikada ne pitamo vaše društvene medije. **
 
 ---
 
-![](slika/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
