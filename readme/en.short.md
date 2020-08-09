@@ -1,3 +1,8 @@
+### 👋 [_Non-English_ versions](../README.md)
+
+---
+
+
 # CrimeFlarE
 
 *Why you should say "NO" to Cloudflare*
