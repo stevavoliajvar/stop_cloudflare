@@ -69,7 +69,7 @@
 
 ### Déan an t-idirlíon a dhílárú.
 
-![](íomhá/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de “_The
 
 
 **Tuilleadh eolais**
-* [Leagan gairid de README](ga.short.md) le [Robin Wils](https://linuxrocks.online/@RMW)
-  * B’fhéidir gur mhaith leat fiafraí cén fáth a bhfuil an oiread íomhánna ag an README.md seo. Os cionn an leagain ghearr tá níos lú íomhánna.
-  * [Ní léann mórchuid na ndaoine ach 20-28% de na focail ar an leathanach](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalóg Miotas](../myth_catalog.md)
-* [The Great Cloudwall](article.txt) le [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [The Great Cloudwall](../article.txt) le [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Íoslódáil mar: PDF [anseo](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [anseo](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Scrios BookRix GmbH an bunleabhar (ePUB) mar gheall ar shárú cóipchirt ar ábhar CC0
 * [Léiríonn deilbhín Padlock nasc slán SSL arna bhunú w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) le Gan ainm
@@ -166,7 +163,7 @@ Ní iarraimid riamh ar do mheáin shóisialta. **
 
 ---
 
-![](íomhá/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

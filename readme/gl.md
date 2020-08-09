@@ -69,7 +69,7 @@
 
 ### Descentralizar internet.
 
-![](imaxe/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,9 +100,6 @@ Este repositorio é unha lista de sitios web que están detrás de "_O Gran Clou
 
 
 **Máis información**
-* [Versión breve de README](gl.short.md) de [Robin Wils](https://linuxrocks.online/@RMW)
-  * Pode que queiras preguntar por que este README.md ten tantas imaxes. Por enriba da versión curta hai menos imaxes.
-  * [A maioría da xente só le o 20-28% das palabras na páxina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catálogo de mito](../myth_catalog.md)
 * [The Great Cloudwall](artigo.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Descarga como: PDF [aquí](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [aquí](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -166,7 +163,7 @@ Nunca pedimos aos teus medios sociais. **
 
 ---
 
-![](imaxe/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

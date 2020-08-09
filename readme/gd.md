@@ -69,7 +69,7 @@
 
 ### Dèan dì-mheadhanachadh air an eadar-lìn.
 
-![](ìomhaigh/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Is e an ath-reic seo liosta de làraich-lìn a tha air cùl "_The Great Cloudwal
 
 
 ** Barrachd fiosrachaidh **
-* [Tionndadh goirid de README](gd.short.md) le [Robin Wils](https://linuxrocks.online/@RMW)
-  * Is dòcha gum bi thu airson faighneachd carson a tha uimhir de dhealbhan aig an README.md seo. Os cionn an dreach ghoirid tha nas lugha de dhealbhan ann.
-  * [Cha leugh a ’mhòr-chuid de dhaoine ach 20-28% de na faclan air an duilleag](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Catalog Myth](../myth_catalog.md)
-* [The Great Cloudwall](article.txt) le [Mgr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [The Great Cloudwall](../article.txt) le [Mgr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Luchdaich sìos mar: PDF [an seo](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [an seo](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Chaidh an eBook tùsail (ePUB) a dhubhadh às le BookRix GmbH mar thoradh air briseadh dlighe-sgrìobhaidh air stuth CC0
 * [Tha ìomhaigh Padlock a ’nochdadh ceangal SSL tèarainte a chaidh a stèidheachadh w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) le Anonymous
@@ -166,7 +163,7 @@ Cha bhith sinn a-riamh ag iarraidh air na meadhanan sòisealta agad. **
 
 ---
 
-![](dealbh/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
