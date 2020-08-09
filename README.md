@@ -7,5 +7,4 @@
 
 ---
 
-- [Proponi novan lingvon / Suggest new language](https://codeberg.org/crimeflare/cloudflare-tor/issues/new)
 - [Permesilo / License](LICENSE.md)
