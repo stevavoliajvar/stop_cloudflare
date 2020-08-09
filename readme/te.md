@@ -69,7 +69,7 @@
 
 ### ఇంటర్నెట్‌ను వికేంద్రీకరించండి.
 
-!["క్లౌడ్‌ఫ్లేర్ ఒక ఎంపిక కాదు."](చిత్రం/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **మరింత సమాచారం**
-* [రాబిన్ విల్స్](https://linuxrocks.online/@RMW) చే [README యొక్క చిన్న వెర్షన్](te.short.md)
-  * ఈ README.md కి ఎందుకు చాలా చిత్రాలు ఉన్నాయని మీరు అడగవచ్చు. చిన్న సంస్కరణ పైన తక్కువ చిత్రాలు ఉన్నాయి.
-  * [చాలా మంది పేజీలోని 20-28% పదాలను మాత్రమే చదువుతారు](https://movantink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [మిత్ కాటలాగ్](math_catalog.md)
-* [ది గ్రేట్ క్లౌడ్‌వాల్](article.txt) [మిస్టర్. జెఫ్ క్లిఫ్](https://shitposter.club/users/jeffcliff)
+* [మిత్ కాటలాగ్](../myth_catalog.md)
+* [ది గ్రేట్ క్లౌడ్‌వాల్](../article.txt) [మిస్టర్. జెఫ్ క్లిఫ్](https://shitposter.club/users/jeffcliff)
   * ఇలా డౌన్‌లోడ్ చేయండి: PDF [ఇక్కడ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ఇక్కడ](../pdf/2019-జెఫ్_క్లిఫ్_థీ_గ్రేట్_క్లౌడ్‌వాల్.పబ్)
   * CC0 మెటీరియల్ యొక్క కాపీరైట్ ఉల్లంఘన కారణంగా అసలు ఇబుక్ (ePUB) ను `బుక్‌రిక్స్ GmbH` తొలగించింది.
 * [ప్యాడ్‌లాక్ చిహ్నం అనామకచే స్థాపించబడిన సురక్షితమైన SSL కనెక్షన్‌ను సూచిస్తుంది MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
@@ -166,7 +163,7 @@
 
 ---
 
-![](చిత్రం/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

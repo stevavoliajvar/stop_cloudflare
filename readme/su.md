@@ -69,7 +69,7 @@
 
 ### Mutuskeun internet.
 
-![](gambar/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Repositori ieu mangrupikeun daptar situs wéb anu tinggaleun "_The Great Cloudwa
 
 
 ** Inpormasi Langkung **
-* [Vérsi ringkes README](su.short.md) ku [Robin Wils](https://linuxrocks.online/@RMW)
-  * Anjeun panginten badé naros naha README.md ieu ngagaduhan seueur gambar. Di luhur versi pondok ngagaduhan gambar anu kirang.
-  * [Seueur jalma ngan ukur maca 20-28% tina kecap dina halaman](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Katalog Mitos](mitos_catalog.md)
-* [The Great Cloudwall](article.txt) ku [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [The Great Cloudwall](../article.txt) ku [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Unduh salaku: PDF [di dieu](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [di dieu](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook asli (ePUB) dihapus ku BookRix GmbH kusabab ngalanggar hak cipta bahan CC0
 * [Ikon Padlock nunjukkeun sambungan SSL anu aman anu didirikeun w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ku Anonim
@@ -166,7 +163,7 @@ Kami henteu pernah naroskeun ka média sosial anjeun. **
 
 ---
 
-![](gambar/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

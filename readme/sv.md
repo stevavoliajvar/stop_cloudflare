@@ -68,7 +68,7 @@
 
 ### Decentralisera internet.
 
-!["Cloudflare är inte ett alternativ."](Image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,11 +99,8 @@ Detta arkiv är en lista över webbplatser som ligger bakom "_The Great Cloudwal
 
 
 **Mer information**
-* [Kort version av README](sv.short.md) av [Robin Wils](https://linuxrocks.online/@RMW) 
-  * Du kanske vill fråga varför den här README.md har så många bilder. Ovanför den korta versionen har färre bilder.
-  * [De flesta läser bara 20-28% av orden på sidan](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Myth Catalog](myth_catalog.md) 
-* [The Great Cloudwall](Article.txt) av [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../myth_catalog.md) 
+* [The Great Cloudwall](../article.txt) av [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Ladda ner som: PDF [här](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [här](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Den ursprungliga e-boken (ePUB) raderades av "BookRix GmbH" på grund av "upphovsrättsintrång på CC0-material"
 * [Hänglåsikon indikerar en säker SSL-anslutning upprättad w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) av Anonym
@@ -165,7 +162,7 @@ Vi frågar aldrig dina sociala medier. **
 
 ---
 
-![](bild/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -189,6 +186,6 @@ Vi frågar aldrig dina sociala medier. **
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-![Vad gjorde DU för att stoppa CF?](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)
