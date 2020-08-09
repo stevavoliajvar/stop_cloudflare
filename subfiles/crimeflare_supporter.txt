@@ -1,7 +1,7 @@
 #   This is a list of services whose mentioned and linked to cloudflare-tor and
 #   showed their support to this project.
 #   It is the opposite of the cloudflare_supporter project.
-#   Anti-cloudflare users may wish to endorse, purchase from, support, and promote these peoples.
+#   Anti-cloudflare users may wish to endorse, purchase from, support, and promote these services.
 #   URL (Comment if any)
 
 https://ieji.de/
