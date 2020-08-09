@@ -69,7 +69,7 @@
 
 ### انٹرنیٹ کو وکندریقرت بنائیں۔
 
-!["کلاؤڈ فلایر ایک آپشن نہیں ہے۔"](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **مزید معلومات**
-* [ریعہ README کا مختصر ورژن](ur.short.md) by [Robin Wils](https://linuxrocks.online/@RMW)
-  * آپ پوچھ سکتے ہیں کہ اس README.md میں اتنی زیادہ تصاویر کیوں ہیں؟ مختصر ورژن کے اوپر تصاویر کم ہیں۔
-  * [زیادہ تر لوگ صفحہ پر صرف 20-28٪ الفاظ پڑھتے ہیں۔](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)
-* [متک کیٹلاگ](myth_catalog.md)
-* [The Great Cloudwall](article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [متک کیٹلاگ](../myth_catalog.md)
+* [The Great Cloudwall](../article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * یہاں بطور پی : PDF [i](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [i](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * اصل ای بک (ePUB) کو BookRix GmbH کے ذریعہ CC0 مواد کی کاپی رائٹ کی خلاف ورزی کی وجہ سے حذف کردیا گیا تھا
 * [پیڈلاک آئیکون ایک محفوظ ایس ایس ایل کنکشن کی نشاندہی کرتا ہے جو گمنام کے ذریعہ MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
@@ -158,7 +155,7 @@
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

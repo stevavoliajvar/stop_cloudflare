@@ -100,11 +100,8 @@
 
 
 ** تېخىمۇ كۆپ ئۇچۇرلار **
-* [README نىڭ قىسقا نۇسخىسى](ug.short.md) [Robin Wils](https://linuxrocks.online/@RMW)
-  * بۇ README.md نىڭ نېمىشقا شۇنچە كۆپ رەسىم بارلىقىنى سورىشىڭىز مۇمكىن. قىسقا نۇسخىسىنىڭ ئۈستىدىكى رەسىملەر ئاز.
-  * [كۆپىنچە كىشىلەر بۇ بەتتىكى سۆزلەرنىڭ پەقەت% 20-% 28 نىلا ئوقۇيدۇ](https://movableink.com/blog/29- ئىشەنگۈسىز دەرىجىدىكى سانلىق مەلۇماتلار ، يەنى دەلىل-ئىسپاتلار).
 * [ئەپسانىلەر كاتالوگى](../myth_catalog.md)
-* [The Great Cloudwall](article.txt) [ئەپەندى. جېف كلېف](https://shitposter.club/users/jeffcliff)
+* [The Great Cloudwall](../article.txt) [ئەپەندى. جېف كلېف](https://shitposter.club/users/jeffcliff)
   * چۈشۈرۈش: PDF [بۇ يەردە](../pdf/2019-The_Great_Cloudwall.pdf) ، ePUB [بۇ يەردە](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * ئەسلىدىكى ئېلېكترونلۇق كىتاب (ePUB) CC0 ماتېرىيالىنىڭ نەشر ھوقۇقىغا دەخلى-تەرۇز قىلغانلىقى ئۈچۈن BookRix GmbH تەرىپىدىن ئۆچۈرۈلگەن.
 * [Padlock سىنبەلگىسى w MITM-ed قۇرغان بىخەتەر SSL ئۇلىنىشىنى كۆرسىتىدۇ](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
@@ -166,7 +163,7 @@ Crimeflare مەيلى Twitter ، Facebook ، Patreon ، OpenCollective ، كەن
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

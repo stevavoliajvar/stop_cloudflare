@@ -69,7 +69,7 @@
 
 ### Децентралізуйте Інтернет.
 
-!["Cloudflare - це не варіант."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 **Більше інформації**
-* [Коротка версія README](uk.short.md) від [Робін Вілс](https://linuxrocks.online/@RMW)
-  * Ви можете запитати, чому цей README.md має стільки зображень. Вище коротка версія має менше зображень.
-  * [Більшість людей читають лише 20-28% слів на сторінці](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Каталог міфів](myth_catalog.md)
-* [Велика хмарна стіна](article.txt) від [Mr. Джефф Кліфф](https://shitposter.club/users/jeffcliff)
+* [Каталог міфів](../myth_catalog.md)
+* [Велика хмарна стіна](../article.txt) від [Mr. Джефф Кліфф](https://shitposter.club/users/jeffcliff)
   * Завантажити як: PDF [тут](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [тут](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригінальну електронну книгу (ePUB) видалено компанією "BookRix GmbH" через "порушення авторських прав матеріалів CC0"
 * [Піктограма замка вказує на захищене SSL-з'єднання, встановлене з MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) від Anonymous
@@ -166,7 +163,7 @@ Crimeflare знає про існування фальшивих акаунті�
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

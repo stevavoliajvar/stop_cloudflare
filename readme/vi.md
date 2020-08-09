@@ -69,7 +69,7 @@
 
 ### Phân cấp internet.
 
-!["Cloudare không phải là một lựa chọn."](image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Kho lưu trữ này là một danh sách các trang web đứng sau mạng "The 
 
 
 **Thêm thông tin**
-* [Phiên bản ngắn của README](vi.short.md) của [Robin Wils](https://linuxrocks.online/@RMW)
-  * Bạn có thể muốn hỏi tại sao README.md này có nhiều hình ảnh như vậy. Trên phiên bản ngắn có ít hình ảnh.
-  * [Hầu hết mọi người chỉ đọc 20-28% các từ trên trang](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Myth Catalog](myth_catalog.md)
-* [The Great Cloudwall](article.txt) của [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../myth_catalog.md)
+* [The Great Cloudwall](../article.txt) của [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Tải xuống dưới dạng: PDF [tại đây](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [tại đây](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Sách điện tử ban đầu (ePUB) đã bị BookRix GmbH xóa do vi phạm bản quyền của tài liệu Muff
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) của Anonymous
@@ -166,7 +163,7 @@ Chúng tôi không bao giờ hỏi phương tiện truyền thông xã hội c�
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
