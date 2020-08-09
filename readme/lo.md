@@ -69,7 +69,7 @@
 
 ### ແບ່ງປັນອິນເຕີເນັດ.
 
-![](ຮູບພາບ/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@
 
 
 ** ຂໍ້ມູນເພີ່ມເຕີມ **
-* [ຮຸ່ນສັ້ນຂອງ README](lo.short.md) ໂດຍ [Robin Wils](https://linuxrocks.online/@RMW)
-  * ທ່ານອາດຈະຕ້ອງການຖາມວ່າເປັນຫຍັງ README.md ນີ້ມີຮູບຫຼາຍ. ຂ້າງເທິງລຸ້ນສັ້ນມີຮູບ ໜ້ອຍ ລົງ.
-  * [ຄົນສ່ວນໃຫຍ່ອ່ານພຽງແຕ່ 20-28% ຂອງ ຄຳ ສັບໃນ ໜ້າ](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [ລາຍການ Myth](../myth_catalog.md)
-* [The Great Cloudwall](article.txt) ໂດຍ [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [The Great Cloudwall](../article.txt) ໂດຍ [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ດາວໂຫລດເປັນ: PDF [ທີ່ນີ້](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ທີ່ນີ້](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * ປື້ມອີເລັກໂທຣນິກຕົ້ນສະບັບ (ePUB) ຖືກລຶບໂດຍ BookRix GmbH ເນື່ອງຈາກການລະເມີດລິຂະສິດຂອງເອກະສານ CC0
 * [ຮູບສັນຍາລັກ Padlock ຊີ້ໃຫ້ເຫັນການເຊື່ອມຕໍ່ SSL ທີ່ປອດໄພຖືກສ້າງຕັ້ງຂຶ້ນ w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ໂດຍ Anonymous
@@ -166,7 +163,7 @@ Crimeflare ຮູ້ກ່ຽວກັບຄວາມເປັນຢູ່ຂອ
 
 ---
 
-![](ຮູບພາບ/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

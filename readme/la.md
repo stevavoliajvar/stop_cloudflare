@@ -69,7 +69,7 @@
 
 ### Decentralize interrete.
 
-![](Imago/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Data ** **
 
 
 **Informationes plurimae**
-* [Short versionem README](la.short.md) a [Marcus Hedw](https://linuxrocks.online/@RMW)
-  * Vos volo ut rogare quid est hoc README.md tot imagines. Brevis ut superius version minus imagines.
-  * [Plerique legitur tantum 20-28% verborum in pagina](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [The Grand Catalog](../myth_catalog.md)
-* [De magna Cloudwall](article.txt) a [D. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [De magna Cloudwall](../article.txt) a [D. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   Download as *, PDF [hic](../pdf/MMXIX, The_Great_Cloudwall.pdf), ePUB [hic](../pdf/MMXIX, Jeff_Cliff_The_Great_Cloudwall.epub)
   * The original Paperback (ePUB) was deleted by BookRix GmbH ex materia CC0 iacturam pati
 * [Padlock icon indicat statutum; secura SSL Latin iunctio MITM, ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Cornelius Tacitus
@@ -166,7 +163,7 @@ Nos numquam quaeritur te socialis instrumentis. **
 
 ---
 
-![](Imago/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
