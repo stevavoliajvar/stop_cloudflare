@@ -69,7 +69,7 @@
 
 ### Txiav kev ncaj ncees hauv internet.
 
-![](duab/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -100,11 +100,8 @@ Qhov chaw cia no yog ib daim ntawv teev cov vev xaib uas nyob tom qab "_ The Gre
 
 
 ** Ntau Cov Lus Qhia **
-* [Luv luv ntawm README](hm.short.md) los ntawm [Robin Wils](https://linuxrocks.online/@RMW)
-  * Koj tuaj yeem xav nug tias vim li cas qhov README.md muaj ntau yam duab. Saum toj no luv luv version muaj tsawg dua cov duab.
-  * [Cov neeg feem coob tsuas nyeem 20-28% ntawm cov lus ntawm nplooj ntawv](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)
-* [Huab Tais Tswv Ntuj Huab Cua](article.txt) los ntawm [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Huab Tais Tswv Ntuj Huab Cua](../article.txt) los ntawm [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Tuaj download tau: PDF [ntawm no](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ntawm no](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Tus thawj eBook (ePUB) tau raug tshem tawm los ntawm BookRix GmbH vim yog kev ua txhaum txoj cai ntawm CC0 cov khoom
 * [Padlock icon qhia txog kev ruaj ntseg SSL txuas tsim w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) los ntawm Anonymous
@@ -166,7 +163,7 @@ Peb yeej tsis nug koj tus social media li. **
 
 ---
 
-![](duab/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

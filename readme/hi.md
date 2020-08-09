@@ -68,7 +68,7 @@
 
 ### इंटरनेट को विकेंद्रीकृत करें।
 
-!["क्लाउडफ्लेयर एक विकल्प नहीं है।"](छवि/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,11 +99,8 @@
 
 
 **अधिक जानकारी**
-[[रॉबिन विल्स](https://linuxrocks.online/@RMW)  द्वारा [README का संक्षिप्त संस्करण](hi.short.md)
-  * आप पूछना चाहते हैं कि इस README.md में इतने सारे चित्र क्यों हैं। ऊपर लघु संस्करण में कम छवियां हैं।
-  * [अधिकांश लोग पृष्ठ पर केवल 20-28% शब्द पढ़ते हैं](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/)।
 * [मिथक कैटलॉग](पौराणिक कथा)
-* [द ग्रेट क्लाउडवॉल](article.txt) द्वारा [मि। जेफ क्लिफ](https://shitposter.club/users/jeffcliff)
+* [द ग्रेट क्लाउडवॉल](../article.txt) द्वारा [मि। जेफ क्लिफ](https://shitposter.club/users/jeffcliff)
   * इस रूप में डाउनलोड करें: पीडीएफ [यहां](पीडीएफ/2019-The_Great_Cloudwall.pdf), ePUB [यहां](पीडीएफ/2019-जेफ़-जेफ़_क्लिफ़_The_Great_Cloudwall.epub)
   * मूल eBook (ePUB) को 'BookRix GmbH' द्वारा CC0 सामग्री के `कॉपीराइट उल्लंघन 'के कारण हटा दिया गया था
 * बेनामी द्वारा एक पैडलॉक आइकन एक सुरक्षित एसएसएल कनेक्शन डब्ल्यू डब्ल्यूआईटीएम-एड](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) स्थापित करता है।
@@ -165,7 +162,7 @@
 
 ---
 
-[](छवि/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -189,6 +186,6 @@
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-[[सीएफ को रोकने के लिए आपने क्या किया?](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)
