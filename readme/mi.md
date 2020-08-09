@@ -68,7 +68,7 @@
 
 ### Whakatika i te ipurangi.
 
-!["Ko te Cloudflare ehara i te whiringa."](Image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 --- ---
 
@@ -99,11 +99,8 @@ Ko tenei kohinga te raarangi o nga paetukutuku e tu ana i muri o "_Whakaahua Nui
 
 
 ** He Panui Panui **
-* [Putanga poto o README](mi.short.md) na [Robin Wils](https://linuxrocks.online/@RMW) 
-  * Ka paatai ​​pea koe ki te aha he maha nga ahua o tenei README.md. I runga ake i te putanga poto he iti ake nga ahua.
-  * [Ko te nuinga ka paanui ki te 20-28% o nga kupu kei te whaarangi](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Kupu Āwhina](mituka_catalog.md) 
-* [Te Paapapa Nui](article.txt) na [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Te Paapapa Nui](../article.txt) na [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Tangohia he: PDF [konei](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [i konei](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ko te eBook taketake (ePUB) i mukua e te 'BookRix GmbH` na te whiu o te mana pupuri o CC0 material`
 * [Ko te tohu Paewhiri e whakaatu ana i te hononga SSL ki whakapumau w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) e Anonymous
@@ -165,7 +162,7 @@ Kaore rawa matou e tono ki o rorohiko pāpori. **
 
 --- ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

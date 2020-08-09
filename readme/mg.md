@@ -100,11 +100,8 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "_Ny Cloudwall_" l
 
 
 **Fanazavana fanampiny**
-* [Dikan-teny fohy momba ny README](mg.short.md) nataon'i [Robin Wils](https://linuxrocks.online/@RMW)
-  * Azonao atao ny manontany ny antony maha-be dia be ny sary README.md. Etsy ambony dia manana sary kely kokoa.
-  * [Ny ankamaroan'ny olona dia namaky ny 20-28% fotsiny amin'ireo teny ao amin'ny pejy](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Myth Catalog](../myth_catalog.md)
-* [Ilay Cloudwall Lehibe](article.txt) nataon'i [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Ilay Cloudwall Lehibe](../article.txt) nataon'i [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download as: PDF [eto](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [eto](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ilay eBook (ePUB) tany am-boalohany dia nesorin'i BookRix GmbH noho ny fanitsakitsahana ny famoahana ny zon'ny CC0
 * [Kisary Padlock dia mampiseho ny fifandraisana SSL azo antoka W MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) nataon'i Anonymous
@@ -166,7 +163,7 @@ Tsy manontany ny media sosialy mihitsy izahay. *
 
 ---
 
-![](Image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

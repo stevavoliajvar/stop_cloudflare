@@ -68,7 +68,7 @@
 
 ### Децентрализирајте го интернетот.
 
-[[Облакот не е опција.]](Слика/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,9 +99,6 @@
 
 
 **Повеќе информации**
-* [Кратка верзија на README](mk.short.md) од [Робин Вилс](https://linuxrocks.online/@RMW) 
-  * Можеби сакате да прашате зошто овој README.md има толку многу слики. Над кратката верзија имаат помалку слики.
-  * [Повеќето луѓе читаат само 20-28% од зборовите на страницата](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Каталог со митови](mit_catalog.md) 
 * [Големиот Облак wallид](напис.ткст) од [г. Effеф Клиф](https://shitposter.club/users/jeffcliff)
   * Преземи како: PDF [тука](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [овде](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
@@ -165,7 +162,7 @@ Crimeflare знаат за постоење лажни сметки кои ги 
 
 ---
 
-![](слика/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
