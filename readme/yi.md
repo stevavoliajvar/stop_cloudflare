@@ -100,11 +100,8 @@
 
 
 **מער אינפֿאָרמאַציע**
-* [קורץ ווערסיע פון ​​README](yi.short.md) דורך [Robin Wils](https://linuxrocks.online/@RMW)
-  * איר וואָלט ווי צו פרעגן וואָס די README.md האט אַזוי פילע בילדער. העכער קורץ ווערסיע האָבן ווייניקער בילדער.
-  * [רובֿ מענטשן לייענען בלויז 20-28% פון די ווערטער אויף דעם בלאַט](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [מיטאָס קאַטאַלאָג](../myth_catalog.md)
-* [The Great Cloudwall](Article.txt) פֿון [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [The Great Cloudwall](../article.txt) פֿון [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * אראפקאפיע ווי: PDF [דאָ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [דאָ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * די אָריגינעל ספר (ePUB) איז געווען אויסגעמעקט דורך BookRix GmbH רעכט צו ינפרינדזשמאַנט פון CC0 מאַטעריאַל
 * [פּאַדלאָקק ייקאַן ינדיקייץ אַ זיכער ססל פֿאַרבינדונג געגרינדעט אין MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) דורך אַנאָנימע באַנוצערס
@@ -166,7 +163,7 @@ Crimeflare וויסן וועגן די עקזיסטענץ פון שווינדל �
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)

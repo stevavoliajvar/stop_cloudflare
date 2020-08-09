@@ -100,11 +100,8 @@ Lokhu kugcina uhlu lwamawebhusayithi angemuva kwe- "_The Cloudwall_" enkulu, evi
 
 
 ** Imininingwane Ngini **
-* [Uhlobo olufushane lwe-README](zu.short.md) ngu- [Robin Wils](https://linuxrocks.online/@RMW)
-  * Ungahle uthande ukubuza ukuthi kungani le- README.md inezithombe eziningi kangaka. Ngenhla okufushane kunemifanekiso emincane.
-  * [Iningi labantu lifunde kuphela ama-20- 28% wamagama asekhasini](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [I-Myth Catalog](../myth_catalog.md)
-* [I-Great Cloudwall](i-athikili.txt) ka [Mnu. UJeff Cliff](https://shitposter.club/users/jeffcliff)
+* [I-Great Cloudwall](../article.txt) ka [Mnu. UJeff Cliff](https://shitposter.club/users/jeffcliff)
   * Landa njengo: PDF [lapha](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [lapha](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * I-eBook yasekuqaleni (ePUB) isuswe yiBhukuRix GmbH ngenxa yokwephulwa kwamalungelo obunikazi bezinto ze-CC0
 * [Isithonjana sePadlock sibonisa ukuxhumana okuphephile kwe-SSL okusungulwe w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ngu-Anonymous
@@ -138,11 +135,11 @@ Lokhu kugcina uhlu lwamawebhusayithi angemuva kwe- "_The Cloudwall_" enkulu, evi
 
 * Sesha okuthile ku- [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/) noma ku- [Crimeflare \ #Search](https://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [Vuselela uhlu lwesizinda: Imiyalo yohlu](imiyalelo.md).
+* [Vuselela uhlu lwesizinda: Imiyalo yohlu](../instructions.md).
 
 * [Faka i-Cloudflare noma umcimbi ohlobene nephrojekthi kumlando](../HISTORY.md).
 
-* Zama bese ubhala okusha [Ithuluzi/Isikripthi](ithuluzi/).
+* Zama bese ubhala okusha [Ithuluzi/Isikripthi](../tool/).
 
 * Nazi ezinye ze- [PDF/ePUB](../pdf/) ongazifunda.
 
@@ -166,7 +163,7 @@ Asikaze sibuze imidiya yakho yezenhlalo. **
 
 ---
 
-![](isithombe/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
