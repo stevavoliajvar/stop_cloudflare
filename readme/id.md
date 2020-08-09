@@ -68,7 +68,7 @@
 
 ### Mendesentralisasi internet.
 
-!["Cloudflare bukan opsi."](Image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -99,11 +99,8 @@ Repositori ini adalah daftar situs web yang berada di belakang "_The Great Cloud
 
 
 ** Informasi Lebih Lanjut **
-* [Versi singkat README](id.short.md) oleh [Robin Wils](https://linuxrocks.online/@RMW) 
-  * Anda mungkin ingin bertanya mengapa README.md ini memiliki begitu banyak gambar. Versi pendek di atas memiliki lebih sedikit gambar.
-  * [Kebanyakan orang hanya membaca 20-28% dari kata-kata di halaman](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
-* [Katalog Mitos](myth_catalog.md) 
-* [The Great Cloudwall](article.txt) oleh [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Katalog Mitos](../myth_catalog.md) 
+* [The Great Cloudwall](../article.txt) oleh [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Unduh sebagai: PDF [di sini](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [di sini](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBuku asli (ePUB) telah dihapus oleh `BookRix GmbH` karena` pelanggaran hak cipta atas bahan CC0`
 * [Ikon gembok menunjukkan koneksi SSL aman dibuat dengan MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) oleh Anonymous
@@ -165,7 +162,7 @@ Kami tidak pernah menanyakan media sosial Anda. **
 
 ---
 
-![](image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
@@ -189,6 +186,6 @@ Kami tidak pernah menanyakan media sosial Anda. **
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-![Apa yang ANDA lakukan untuk menghentikan CF?](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)

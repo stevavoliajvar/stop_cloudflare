@@ -100,11 +100,8 @@ Ez a lerakat azon webhelyek listáját tartalmazza, amelyek mögött vannak a "_
 
 
 **Több információ**
-* [A README rövid verziója (hu.short.md) [Robin Wils] készítette (https://linuxrocks.online/@RMW)
-  * Érdemes megkérdezni, hogy miért tartalmaz ilyen sok képet a README.md. A rövid verzió felett kevesebb kép található.
-  * [A legtöbb ember csak az oldalon szereplő szavak 20–28% -át olvassa el](https://movableink.com/blog/29-incredible-stats-that-prove-the-power-of-visual-marketing/).
 * [Mítosz katalógus](../myth_catalog.md)
-* [A nagy felhőfal](Article.txt) írta: [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [A nagy felhőfal](../article.txt) írta: [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Töltse le: PDF [itt](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [itt](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Az eredeti e-könyvet (ePUB) a BookRix GmbH törölte a CC0 anyag szerzői jogi megsértése miatt
 * [Lakat ikon egy biztonságos SSL kapcsolatot jelez a MITM-ed használatával](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835), névtelen
@@ -166,7 +163,7 @@ Soha nem kérdezzük a közösségi médiától. **
 
 ---
 
-![](Image/wtfcf.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
