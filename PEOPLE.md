@@ -691,6 +691,19 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"captchas makes it so I can't visit some sites now. Verify I am human but it doesn't refresh / forward to the site I'm visiting as expected. Manual refresh brings captcha again, often with none of what they are asking you to click on. Refresh on some sites work" ([matrixglitch1](https://twitter.com/MatrixGlitch1/status/1290753303765286913))
+
+"Question why do I always have to click umbrellas on cloudflare but Shopify hasn’t made captcha a standard in there api -- ?" ([la3life](https://twitter.com/La3Life/status/1290264301458976770))
+
+"i'm experiencing the same. Patreon is unbearably slow, and then Cloudflare error messages. Please fix! Thanks!" ([retrosfxsports](https://twitter.com/retroSFXsports/status/1291756666686504961))
+
+"the error its showing me is some kind of connection issue between cloudflare and aqstream, idk, i tried it many times for the first episode, couldnt watch the two after and now i'm once again sitting here looking at an error page 😐" ([grumblyein](https://twitter.com/grumblyein/status/1291722602621345793))
+
+"What is going on with the store today? Isn't the whole point of the queue system that the servers don't get stressed to the point of not working? I've been trying to check out for almost 40 minutes now, and I keep getting Cloudflare error 524, which is sever-side. 😑" ([aquartistjames](https://twitter.com/AquartistJames/status/1290674717687533570))
+
+"FYI, for some obscure reason, from different italian ISPs I get the cloudflare timeout error. With foreign proxy or vpn is all working fine." ([georgethemarmot](https://twitter.com/georgethemarmot/status/1290576481073102853))
+
+
 "cloudflare c'est inutile, les offres gratuite ne font rien a part rajouter un MITM et centraliser tout, et vu que ca tombe souvent en panne cest bien pire" ([ramleseam](https://twitter.com/RamleSeam/status/1287377715008622592))
 
 "DDG wouldn't use Cloudflare. CF's primary service is MITM." ([kingslyj](https://twitter.com/kingslyj/status/1284410355637075969))
@@ -3123,6 +3136,17 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"i think it's key to know your audience. If the audience cares about corporations controlling ppl's lives, then stress the control-freakish aspects of CloudFlare like loss of netneutrality. If the audience is fine with corporate control, then stress CloudFlare's incompetence & stress the security detriment of having a single global centralized point of failure." ([batalanto](https://todon.nl/@batalanto/104660140613165269))
+
+"Your premise that corporate-run svcs are equal is quite far from what I find. "Open access" is central to P2Pf's advocacy. CloudFlare is the single most destructive force to open access. Consider Amazon, for example. As evil as it is, AWS does not attack open access. CF does. So to paint all corporations the same through the lense of P2Pf's values is to cloud the problem." ([batalanto](https://todon.nl/@batalanto/104659761329232101))
+
+"I believe getting our own house in order is a crtical first step. It's paramount for projects that exist for social justice pursuant to a free and open Internet to avoid CloudFlare themselves. It's not just a moral principle-- there's a practical problem when the operations of a social mission exclude their own advocates from access." ([batalanto](https://todon.nl/@batalanto/104653955377950930))
+
+"spot on bob. CloudFlare has the most power, it's far too much, and unlike other tech giants ( Amazon), CF abuses their power to a perverse extent. Strypey, although I'd like to see CloudFlare wiped off the planet entirely, I'm particularly disturbed when those on a social mission that contradicts CF use CF for their mission. The hypocrisy is inexcusable & needs a spotlight of shame" ([batalanto](https://todon.nl/@batalanto/104653928066889916))
+
+"gitlab.com used to be a nice place. But it feels really hostile these days. If you attempt to preserve a tiny bit of privacy by using Tor, they won't even let you take a look at public projects. Instead they'll harass you with CloudFlare captcha which is requiring JavaScript and trying to force users to build ML training data. (btw. it still works to fight hcaptcha by giving partially wrong answers)" ([uniq](https://chaos.social/@uniq/104652792387203024))
 
 
 "ACM has been denying open public access to scientific papers anyway. Tor users are blocked because ACM has jailed their host in CloudFlare's walled garden: The ACM site is also set to give a 302 error to the InternetArchive waybackMachine. Bit embarrassing for ACM to fail at such a simple task." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104615397495442862))
