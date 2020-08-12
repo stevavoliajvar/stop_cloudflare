@@ -100,7 +100,7 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "_The Cloudwall_" kubwa, inazu
 
 
 **Taarifa zaidi**
-* [Katalogi ya hadithi](../myth_catalog.md)
+* [Katalogi ya hadithi](../subfiles/myth_catalog.md)
 * [Cloudwall Mkuu](makala.txt) na [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Pakua kama: PDF [here](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hapa](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook halisi (ePUB) ilifutwa na `BookRix GmbH` kwa sababu ya ukiukwaji wa hakimiliki wa vifaa vya CC0`
@@ -129,7 +129,7 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "_The Cloudwall_" kubwa, inazu
 ## Unaweza kufanya nini?
 </summary>
 
-* Soma [orodha yetu ya hatua zilizopendekezwa](../what-to-do.md) na ushiriki kwa rafiki yako.
+* Soma [orodha yetu ya hatua zilizopendekezwa](../ACTION.md) na ushiriki kwa rafiki yako.
 
 * Soma [sauti ya mtumiaji mwingine](../PEOPLE.md) na uandike mawazo yako.
 

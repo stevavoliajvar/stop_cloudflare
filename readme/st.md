@@ -129,7 +129,7 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "_The Cloudwall
 ## O ka etsang?
 </summary>
 
-* [Bala lethathamo la rona la liketso tse khothalelitsoeng ebe o li arolelana le metsoalle ea hau](../what-to-do.md)
+* [Bala lethathamo la rona la liketso tse khothalelitsoeng ebe o li arolelana le metsoalle ea hau](../ACTION.md)
 
 * [Bala lentsoe la mosebelisi e mong 'me u ngole menahano ea hao](BATHO.md)
 
