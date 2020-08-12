@@ -1,3 +1,8 @@
+### 👋 [_Non-English_ versions](../README.md)
+
+---
+
+
 # Ethical Issues
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
