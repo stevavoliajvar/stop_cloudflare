@@ -100,8 +100,8 @@
 
 
 **ข้อมูลมากกว่านี้**
-* [แคตตาล็อกตำนาน](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) โดย [นาย Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [แคตตาล็อกตำนาน](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) โดย [นาย Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ดาวน์โหลดเป็น: PDF [ที่นี่](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ที่นี่](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * eBook ดั้งเดิม (ePUB) ถูกลบโดย `BookRix GmbH` เนื่องจาก` การละเมิดลิขสิทธิ์ของ CC0 วัสดุ `
 * [ไอคอนรูปกุญแจแสดงการเชื่อมต่อ SSL ที่ปลอดภัยซึ่งสร้างโดย MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) โดย Anonymous
@@ -129,7 +129,7 @@
 ## คุณทำอะไรได้บ้าง?
 </สรุป>
 
-* อ่าน [รายการการกระทำที่แนะนำของเรา](../what-to-do.md) และแบ่งปันกับเพื่อนของคุณ
+* อ่าน [รายการการกระทำที่แนะนำของเรา](../ACTION.md) และแบ่งปันกับเพื่อนของคุณ
 
 * อ่าน [เสียงของผู้ใช้คนอื่น](../PEOPLE.md) และเขียนความคิดของคุณ
 

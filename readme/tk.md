@@ -100,7 +100,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "_ The Great Cloudwa
 
 
 **Köp maglumat**
-* [Mif katalogy](../myth_catalog.md)
+* [Mif katalogy](../subfiles/myth_catalog.md)
 * [The Great Cloudwall](makala.txt) [jenap Jeff Kliff](https://shitposter.club/users/jeffcliff)
   * Göçürip alyň: PDF [şu ýerde](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [şu ýerde](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Asyl e-kitap (ePUB), CC0 materialynyň awtorlyk hukuklarynyň bozulmagy sebäpli BookRix GmbH tarapyndan pozuldy.
@@ -129,7 +129,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "_ The Great Cloudwa
 ## Sen näme edip bilýärsiñ?
 </summary>
 
-* [Maslahat berilýän hereketleriň sanawyny okaň we dostlaryňyz bilen paýlaşyň](../what-to-do.md)
+* [Maslahat berilýän hereketleriň sanawyny okaň we dostlaryňyz bilen paýlaşyň](../ACTION.md)
 
 * [Beýleki ulanyjynyň sesini okaň we pikirleriňizi ýazyň](../PEOPLE.md)
 
