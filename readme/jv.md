@@ -100,8 +100,8 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Cloudwall Agun
 
 
 **Kabar Liyane**
-* [Katalog mitos](../myth_catalog.md)
-* [The Cloudwall Agung](../article.txt) dening [Pak Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Katalog mitos](../subfiles/myth_catalog.md)
+* [The Cloudwall Agung](../pdf/2019-Jeff_Cliff_Book1.txt) dening [Pak Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download minangka: PDF [ing kene](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ing kene](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook asli (ePUB) dibusak dening BookRix GmbH amarga pelanggaran hak cipta CC0 materi
 * [Ikon Padlock nuduhake sambungan SSL sing aman ditetepake dening MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) dening Anonymous
@@ -129,13 +129,13 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Cloudwall Agun
 ## Apa sampeyan bisa nggawe?
 </summary>
 
-* [Waca dhaptar tindakan sing disaranake lan wenehana bareng karo kanca-kanca.](../what-to-do.md)
+* [Waca dhaptar tindakan sing disaranake lan wenehana bareng karo kanca-kanca.](../ACTION.md)
 
 * [Waca swara pangguna liyane lan tulisake pikirane.](../PEOPLE.md)
 
 * Goleki soko ing [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) utawa [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Nganyari dhaptar domain: [Dhaptar dhaptar](../instructions.md).
+* Nganyari dhaptar domain: [Dhaptar dhaptar](../INSTRUCTION.md).
 
 * Tambah Cloudflare utawa acara sing ana gandhengane karo [sejarah](../HISTORY.md).
 

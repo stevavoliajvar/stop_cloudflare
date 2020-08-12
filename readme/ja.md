@@ -100,8 +100,8 @@
 
 
 **追加情報**
-* [Myth Catalog](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ダウンロード: PDF [こちら](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [こちら](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * 元の本(ePUB)は`BookRix GmbH`によって、`CC0`ライセンスの著作権侵害を理由に削除されました
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
@@ -129,13 +129,13 @@
 ## 何ができる？
 </summary>
 
-* [推奨する行動](../what-to-do.md)を読み、ご友人と共有してください。
+* [推奨する行動](../ACTION.md)を読み、ご友人と共有してください。
 
 * [他の方の意見](../PEOPLE.md)をご覧になり、ブログなどで意見を書いてください。
 
 * [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) または [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))で検索してみましょう。
 
-* ドメインリストを更新する: [リストの詳細](../instructions.md)
+* ドメインリストを更新する: [リストの詳細](../INSTRUCTION.md)
 
 * クラウドフレアに関する内容を[歴史](../HISTORY.md)に追加してください。
 

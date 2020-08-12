@@ -101,7 +101,7 @@
 
 **Მეტი ინფორმაცია**
 * [მითების კატალოგი](მითო_ კატალოგი +.
-* [დიდი ღრუბელი](../article.txt) ავტორი [Mr. ჯეფ კლიფი](https://shitposter.club/users/jeffcliff)
+* [დიდი ღრუბელი](../pdf/2019-Jeff_Cliff_Book1.txt) ავტორი [Mr. ჯეფ კლიფი](https://shitposter.club/users/jeffcliff)
   * გადმოწერეთ: PDF [აქ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [აქ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook– ის ორიგინალი (ePUB) წაიშალა BookRix GmbH– ის მიერ CC0 მასალის საავტორო უფლებების დარღვევის გამო.
 * [ბოქლომის ხატი მიუთითებს უსაფრთხო SSL კავშირზე დამყარებულ MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ანონიმასის მიერ
