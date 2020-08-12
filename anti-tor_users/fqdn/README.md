@@ -20,3 +20,17 @@
 
 - Bonvolu vidi [INSTRUCTION.md](../../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
 - [Malamikeco kontraŭ Tor](../../not_cloudflare/domains/README.md)
+
+
+-----
+
+# Anti-Tor users FQDN list
+
+- Not all Tor users are bad. Do not punish everyone.
+  - How do you feel if someone block you for no reason?
+  - Using Tor is not a crime.
+  - Experts say that group punishment is ineffective, counterproductive, lazy and unethical.
+- Blocking Tor is not a solution. There are VPNs, network program and proxies.
+
+- See [INSTRUCTION.md](../../INSTRUCTION.md) for file purpose and format specifications.
+- [Hostility against Tor](../../not_cloudflare/domains/README.md)
