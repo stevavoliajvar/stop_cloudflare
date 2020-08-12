@@ -101,8 +101,8 @@
 
 
 **Pli da informo**
-* [Mito-Katalogo](../myth_catalog.md)
-* [La Granda Nubo](../article.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Mito-Katalogo](../subfiles/myth_catalog.md)
+* [La Granda Nubo](../pdf/2019-Jeff_Cliff_Book1.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Elŝutu kiel: PDF [ĉi tie](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ĉi tie](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * `BookRix GmbH` estis forigita de la originala eBook (ePUB) pro malobservo de kopirajto de CC0-materialo
 * [Ikono de Padlock indikas sekuran SSL-konekton establita per MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) de Anonimo
@@ -130,13 +130,13 @@
 ## Kion vi povas fari?
 </summary>
 
-* Bonvolu legi [nian liston de rekomendindaj agoj](../what-to-do.md) kaj dividu ĝin kun viaj amikoj.
+* Bonvolu legi [nian liston de rekomendindaj agoj](../ACTION.md) kaj dividu ĝin kun viaj amikoj.
 
 * Bonvolu legi [la voĉon de alia uzanto](../PEOPLE.md) kaj skribu viajn pensojn.
 
 * Serĉi ion sur [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([klara retejo](https://ansero.eu.org/)) aŭ [Crimeflare \#Serĉi](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([klara retejo](https://crimeflare.eu.org/)).
 
-* Bonvolu ĝisdatigi la domajnan liston: [Enlistigi instrukciojn](../instructions.md).
+* Bonvolu ĝisdatigi la domajnan liston: [Enlistigi instrukciojn](../INSTRUCTION.md).
 
 * Bonvolu aldoni Cloudflare aŭ projekton rilatan eventon al [historio](../HISTORY.md).
 
