@@ -128,7 +128,7 @@ Acest depozit este o listă de site-uri web care se află în spatele "_ Marelui
 ## Ce poti face?
 </summary>
 
-* Citiți [lista noastră de acțiuni recomandate](../what-to-do.md) și împărtășiți-o prietenilor.
+* Citiți [lista noastră de acțiuni recomandate](../ACTION.md) și împărtășiți-o prietenilor.
 
 * Citiți [vocea altui utilizator](../PEOPLE.md) și scrieți-vă gândurile.
 
