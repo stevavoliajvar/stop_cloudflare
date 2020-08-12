@@ -31,6 +31,5 @@
   - Using Tor is not a crime.
   - Experts say that group punishment is ineffective, counterproductive, lazy and unethical.
 - Blocking Tor is not a solution. There are VPNs, network program and proxies.
-
 - See [INSTRUCTION.md](../../INSTRUCTION.md) for file purpose and format specifications.
 - [Hostility against Tor](../../not_cloudflare/domains/README.md)
