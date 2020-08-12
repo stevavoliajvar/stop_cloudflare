@@ -18,3 +18,6 @@ See [INSTRUCTION.md](../INSTRUCTION.md) for file purpose and format specificatio
 
 - "_I don't want to get into the Cloudflare debate right now. Cloudflare is a large player because web sites trust them. That trust isn't something Tor Browser or the Tor network can/should protest._"<br>
 [Matt Finkel](https://twitter.com/mfinkel/status/1285568468331495424), [Tor Project](https://torproject.org), "Supporting the fight for Human Rights and Social Justice."
+
+- "_Cloudflare is essentially a cdn. Characterizing it as a MITM is disingenuous._"<br>
+[Dana Keeler](https://bugzilla.mozilla.org/user_profile?user_id=349244), [Mozilla](https://github.com/mozkeeler)
