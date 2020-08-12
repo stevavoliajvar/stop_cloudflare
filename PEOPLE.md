@@ -262,6 +262,18 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+[Cloudlfare issues?](https://reddit.com/r/CloudFlare/comments/i852xd/cloudlfare_issues/)
+
+[Anyone else's game just dis connect?](https://reddit.com/r/VALORANT/comments/i850x5/anyone_elses_game_just_dis_connect/g16aqap/)
+
+[Help! Cloudflare blocking access to every website, probably malware](https://reddit.com/r/techsupport/comments/i80my6/help_cloudflare_blocking_access_to_every_website/)
+
+[Access denied by Cloudflare when using TOR, why?](https://reddit.com/r/TOR/comments/i2ubsj/access_denied_by_cloudflare_when_using_tor_why/)
+
+[Private Windows with Tor showing excessive CAPTCHAs](https://reddit.com/r/brave_browser/comments/hnrv91/private_windows_with_tor_showing_excessive/)
+
+[i always get redirected to Cloudflare Captcha](https://reddit.com/r/TOR/comments/hhd9kk/some_problems_with_tor/)
+
 "[The problem with CloudFlare (part 1 of 2: detriment to privacy, netneutrality, s/w freedom, & human rights)](https://neoreddit.horobets.me/post/43)"
 
 "[The problem with CloudFlare (part 2 of 2: detriment to security, environment, democracy, and free expression)](https://neoreddit.horobets.me/post/44)"
