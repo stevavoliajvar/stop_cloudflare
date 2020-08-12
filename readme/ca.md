@@ -99,8 +99,8 @@ Aquest dipòsit és una llista de llocs web que es troben al darrere de "_El gra
 
 
 **Més informació**
-* [Catàleg de mites](../myth_catalog.md) 
-* [El gran núvol](../article.txt) de [Sr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Catàleg de mites](../subfiles/myth_catalog.md) 
+* [El gran núvol](../pdf/2019-Jeff_Cliff_Book1.txt) de [Sr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Descarregueu com:PDF [aquí](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [aquí](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * El llibre electrònic ePUB (ePUB) ha estat suprimit per "BookRix GmbH" a causa de la "infracció dels drets d'autor del material CC0"
 * [La icona del cadenat indica una connexió SSL segura establerta amb MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) per Anonymous
@@ -128,7 +128,7 @@ Aquest dipòsit és una llista de llocs web que es troben al darrere de "_El gra
 ## Què pots fer?
 </summary>
 
-* Llegiu [la nostra llista d’accions recomanades](../what-to-do.md) i compartiu-la amb els vostres amics.
+* Llegiu [la nostra llista d’accions recomanades](../ACTION.md) i compartiu-la amb els vostres amics.
 
 * Llegiu [la veu d’un altre usuari](../PEOPLE.md) i escriviu els vostres pensaments.
 

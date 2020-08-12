@@ -100,8 +100,8 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "_ U Grande Cloudwa
 
 
 ** Più infurmazione **
-* [Catalogu di Mite](../myth_catalog.md)
-* [U Great Cloudwall](../article.txt) da [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Catalogu di Mite](../subfiles/myth_catalog.md)
+* [U Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) da [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Scaricate cum'è: PDF [quì](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [quì](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * L'eBook originale (ePUB) hè statu eliminatu da BookRix GmbH per via di violazione di copyright di materiale CC0
 * [L'icona di Padlock indica una cunnessione SSL sicura stabilita w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) da Anonymous
