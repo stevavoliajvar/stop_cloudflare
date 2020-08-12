@@ -40,7 +40,7 @@ There are many ways to detect it:
 
 - Add-on "[Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md)" will help your Cloudflare collection.
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
-- Visit a website via Tor or VPN, and you will be greeted by "Attention Required! Cloudflare" webpage.
+- Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
 - Use "Is MITM?" webpage. [Clearnet](https://crimeflare.eu.org/ss/tool_ismitm.php) / [Tor](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
@@ -94,7 +94,7 @@ Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.t
 | List name | Description |
 | -------- | -------- |
 | /domain/zcdn_(CDN_Code).txt     | Split files (FQDN)     |
-| /cidr_data/?.txt     |  CIDR, ASN    |
+| /cidr_data/?.txt     |  CIDR, ASN, NS    |
 
 ```
 CDN_Code

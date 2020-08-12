@@ -11,7 +11,6 @@
 - Dateno pri Cloudflare (kodo "Z3"): [/cloudflare_users/domains](../../cloudflare_users/domains)
 - Bonvolu vidi [INSTRUCTION.md](../../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
 
----
 
 # Malamikeco kontraŭ Tor (Tor Browser)
 
@@ -35,6 +34,12 @@
 
 
 -----
+
+
+# CDN users FQDN list
+
+- Cloudflare data (code "Z3"): /cloudflare_users/domains
+- See [INSTRUCTION.md](../../INSTRUCTION.md) for file purpose and format specifications.
 
 # Hostility against Tor (Tor Browser)
 

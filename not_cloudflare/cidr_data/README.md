@@ -2,12 +2,13 @@
 
 - Cloudflare CIDR: [cloudflare_inc/cloudflare_CIDR_v4.txt](../../cloudflare_inc/cloudflare_CIDR_v4.txt)
 
-
-
-
 ## ASN  (asn_cdnName.txt)
 
 - Cloudflare ASN: [cloudflare_inc/cloudflare_owned_ASN.txt](../../cloudflare_inc/cloudflare_owned_ASN.txt)
+
+## NS (ns_cdnName.txt)
+
+- Cloudflare NS: [cloudflare_inc/cloudflare_owned_NS.txt](../../cloudflare_inc/cloudflare_owned_NS.txt)
 
 ---
 
