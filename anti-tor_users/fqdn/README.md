@@ -11,6 +11,7 @@
 - Ne ĉiuj uzantoj de Tor estas malbonaj. Ne punu ĉiujn.
   - Kiel vi sentas, se iu blokas vin sen kialo?
   - Uzi Tor ne estas krimo.
+  - [Fakuloj diras, ke gruppuno estas senutila, kontraŭproduktiva, mallaborema kaj neetika](https://mypointexactly.wordpress.com/2009/07/21/group-punishment-ineffective-unethical/).
 - Blokado de Tor ne estas solvo. Estas VPNj, retprogramoj kaj prokuroj.
 
 
