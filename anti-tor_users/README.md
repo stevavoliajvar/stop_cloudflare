@@ -4,7 +4,7 @@ Ne bloku nin!
 
 ![](../image/wearetrulysorry.jpg)
 
-Bonvolu vidi [instructions.md](../instructions.md) por dosiera celo kaj formato specifoj.
+Bonvolu vidi [INSTRUCTION.md](../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
 
 -----
 
@@ -12,7 +12,7 @@ Bonvolu vidi [instructions.md](../instructions.md) por dosiera celo kaj formato 
 
 Don't block us!
 
-See [instructions.md](../instructions.md) for file purpose and format specifications.
+See [INSTRUCTION.md](../INSTRUCTION.md) for file purpose and format specifications.
 
 -----
 
