@@ -100,8 +100,8 @@ Toto úložisko je zoznam webových stránok, ktoré stoja za „Veľkým cloudo
 
 
 **Viac informácií**
-* [Katalóg mýtov](../myth_catalog.md)
-* [Veľký cloudwall](../article.txt) autor: [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Katalóg mýtov](../subfiles/myth_catalog.md)
+* [Veľký cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) autor: [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Stiahnuť ako: PDF [tu](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [tu](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Spoločnosť BookRix GmbH odstránila pôvodnú elektronickú knihu (ePUB) z dôvodu porušenia autorských práv na materiál CC0
 * [Ikona zámku je označená ako zabezpečené pripojenie SSL w-MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) od Anonymous
@@ -129,7 +129,7 @@ Toto úložisko je zoznam webových stránok, ktoré stoja za „Veľkým cloudo
 ## Čo môžeš urobiť?
 </Summary>
 
-* [Prečítajte si náš zoznam odporúčaných akcií a zdieľajte ho so svojimi priateľmi](../what-to-do.md)
+* [Prečítajte si náš zoznam odporúčaných akcií a zdieľajte ho so svojimi priateľmi](../ACTION.md)
 
 * [Prečítajte si hlas iného používateľa a napíšte svoje myšlienky](../PEOPLE.md)
 
