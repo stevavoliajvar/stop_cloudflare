@@ -36,6 +36,11 @@
 
 -----
 
+# CDN users FQDN list
+
+- Cloudflare data (code "Z3"): /cloudflare_users/domains
+- See [INSTRUCTION.md](../../INSTRUCTION.md) for file purpose and format specifications.
+
 # Hostility against Tor (Tor Browser)
 
 - Combined result of _Anti-Tor users_ and _CDN users_.
