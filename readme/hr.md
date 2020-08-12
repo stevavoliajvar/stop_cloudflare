@@ -100,7 +100,7 @@ Ovo spremište je popis web stranica koje stoje iza "_Veliki Cloudwall_", a blok
 
 
 **Više informacija**
-* [Katalog mitova](../myth_catalog.md)
+* [Katalog mitova](../subfiles/myth_catalog.md)
 * [Veliki oblačni zid](članak.txt) autor [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Preuzmi kao: PDF [ovdje](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ovdje](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Originalnu e-knjigu (ePUB) izbrisala je BookRix GmbH zbog kršenja autorskih prava CC0 materijala

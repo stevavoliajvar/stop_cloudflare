@@ -100,8 +100,8 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "_The Great Cloudwall_", b
 
 
 **Plis enfomasyon**
-* [Myth Catalog](../myth_catalog.md)
-* [Great Cloudwall a](../article.txt) pa [Mesye ... Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md)
+* [Great Cloudwall a](../pdf/2019-Jeff_Cliff_Book1.txt) pa [Mesye ... Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download kòm: PDF [isit la](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [isit la](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Te eBook orijinal la (ePUB) efase nan BookRix GmbH akòz kontravansyon copyright nan materyèl CC0
 * [Kadna icon endike yon koneksyon SSL an sekirite etabli w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) pa Anonymous
@@ -129,13 +129,13 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "_The Great Cloudwall_", b
 ## Kisa ou ka fè?
 </summary>
 
-* Li [lis nou an nan aksyon rekòmande](../what-to-do.md) ak pataje li avèk zanmi ou yo.
+* Li [lis nou an nan aksyon rekòmande](../ACTION.md) ak pataje li avèk zanmi ou yo.
 
 * Li [vwa lòt itilizatè a](../PEOPLE.md) epi ekri panse ou.
 
 * Chèche yon bagay sou [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) oswa [Crimeflare Search](https://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Mete ajou lis la domèn: [Enstriksyon Lis](../instructions.md).
+* Mete ajou lis la domèn: [Enstriksyon Lis](../INSTRUCTION.md).
 
 * Ajoute Cloudflare oswa pwojè ki gen rapò evènman nan [istwa](../HISTORY.md).
 
