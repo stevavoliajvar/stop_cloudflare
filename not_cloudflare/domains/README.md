@@ -16,11 +16,11 @@
 
 - Kombinita rezulto de _Kontraŭ-Tor uzantoj_ kaj _CDN uzantoj_.
 - Ni ne povas provizi rezulton Z1 kaj Z5 pro memora limo.
-- Cloudflare faris escepton de Tor Browser. Cloudflare blokos vin se vi uzas [alian retumilon](../../README_ethics.md#user-content-browser-vendor-discrimination) kun Tor.
+- Cloudflare faris escepton de _Tor Retumilo_. Cloudflare blokos vin se vi uzas [alian retumilon](../../readme/eo.ethics.md#user-content-diskriminacio-pri-vendisto-de-retumiloj) kun Tor.
 
 [//]: # (start; table / do not edit me; If necessary please create an issue first)
 
-| CDN-Kodo | Nomo | % de bazaj domajnoj estas blokitaj |
+| CDN-Kodo<br>CDN Code | Nomo<br>Name | % de bazaj domajnoj estas blokitaj<br>% of base domains blocked |
 | -------- | -------- | -------- |
 | Z2 | Akamai | 41.502 % |
 | Z3 | Cloudflare | 1.843 % |
@@ -38,11 +38,11 @@
 
 # CDN users FQDN list
 
-- Cloudflare data (code "Z3"): /cloudflare_users/domains
+- Cloudflare data (code "Z3"): [/cloudflare_users/domains](../../cloudflare_users/domains)
 - See [INSTRUCTION.md](../../INSTRUCTION.md) for file purpose and format specifications.
 
 # Hostility against Tor (Tor Browser)
 
 - Combined result of _Anti-Tor users_ and _CDN users_.
 - We cannot provide Z1/Z5 result due to memory limit.
-- Cloudflare made an exception to Tor Browser. You will be blocked by Cloudflare if you use other browser with Tor.
+- Cloudflare made an exception to _Tor Browser_. You will be blocked by Cloudflare if you use [other browser](../../README.md) with Tor.
