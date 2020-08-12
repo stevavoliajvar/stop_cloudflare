@@ -100,7 +100,7 @@ Ububiko ni urutonde rwurubuga ruri inyuma ya "_Igicu kinini cya Cloudwall_", kib
 
 
 ** Andi Makuru **
-* [Cataloge y'ibinyoma](../myth_catalog.md)
+* [Cataloge y'ibinyoma](../subfiles/myth_catalog.md)
 * [Igicu kinini] [ingingo.txt) na [Bwana Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Kuramo nka: PDF [hano](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hano](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Igitabo cyumwimerere (ePUB) cyasibwe na BookRix GmbH kubera kuvutswa uburenganzira bwibikoresho bya CC0

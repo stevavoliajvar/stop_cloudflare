@@ -100,8 +100,8 @@
 
 
 **Більше інформації**
-* [Каталог міфів](../myth_catalog.md)
-* [Велика хмарна стіна](../article.txt) від [Mr. Джефф Кліфф](https://shitposter.club/users/jeffcliff)
+* [Каталог міфів](../subfiles/myth_catalog.md)
+* [Велика хмарна стіна](../pdf/2019-Jeff_Cliff_Book1.txt) від [Mr. Джефф Кліфф](https://shitposter.club/users/jeffcliff)
   * Завантажити як: PDF [тут](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [тут](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригінальну електронну книгу (ePUB) видалено компанією "BookRix GmbH" через "порушення авторських прав матеріалів CC0"
 * [Піктограма замка вказує на захищене SSL-з'єднання, встановлене з MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) від Anonymous

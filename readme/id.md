@@ -99,8 +99,8 @@ Repositori ini adalah daftar situs web yang berada di belakang "_The Great Cloud
 
 
 ** Informasi Lebih Lanjut **
-* [Katalog Mitos](../myth_catalog.md) 
-* [The Great Cloudwall](../article.txt) oleh [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Katalog Mitos](../subfiles/myth_catalog.md) 
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) oleh [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Unduh sebagai: PDF [di sini](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [di sini](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBuku asli (ePUB) telah dihapus oleh `BookRix GmbH` karena` pelanggaran hak cipta atas bahan CC0`
 * [Ikon gembok menunjukkan koneksi SSL aman dibuat dengan MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) oleh Anonymous
@@ -128,13 +128,13 @@ Repositori ini adalah daftar situs web yang berada di belakang "_The Great Cloud
 ## Apa yang bisa kau lakukan?
 </summary>
 
-* Baca [daftar tindakan yang kami rekomendasikan](../what-to-do.md) dan bagikan dengan teman-teman Anda.
+* Baca [daftar tindakan yang kami rekomendasikan](../ACTION.md) dan bagikan dengan teman-teman Anda.
 
 * Baca [suara pengguna lain](../PEOPLE.md) dan tulis pemikiran Anda.
 
 * Cari sesuatu di [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) atau [Crimeflare \#Searchdgjssgpnjpnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnjcnnjcnnnnnnnjjjkjkjkjkjkjkjjjjjjjkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj jj jj jj jj Jj JjJ .onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Perbarui daftar domain: [Daftar instruksi](../instructions.md).
+* Perbarui daftar domain: [Daftar instruksi](../INSTRUCTION.md).
 
 * Tambahkan Cloudflare atau acara terkait proyek ke [histori](../HISTORY.md).
 

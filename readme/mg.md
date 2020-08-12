@@ -100,8 +100,8 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "_Ny Cloudwall_" l
 
 
 **Fanazavana fanampiny**
-* [Myth Catalog](../myth_catalog.md)
-* [Ilay Cloudwall Lehibe](../article.txt) nataon'i [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md)
+* [Ilay Cloudwall Lehibe](../pdf/2019-Jeff_Cliff_Book1.txt) nataon'i [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download as: PDF [eto](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [eto](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ilay eBook (ePUB) tany am-boalohany dia nesorin'i BookRix GmbH noho ny fanitsakitsahana ny famoahana ny zon'ny CC0
 * [Kisary Padlock dia mampiseho ny fifandraisana SSL azo antoka W MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) nataon'i Anonymous
@@ -129,7 +129,7 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "_Ny Cloudwall_" l
 ## Inona no azonao atao?
 </Famintinana>
 
-* [Vakio ny lisitry ny hetsika naroso ary zarao amin'ny namanao](../what-to-do.md)
+* [Vakio ny lisitry ny hetsika naroso ary zarao amin'ny namanao](../ACTION.md)
 
 * [Vakio ny feon'ny mpampiasa hafa ary soraty ny hevitrao](../PEOPLE.md)
 

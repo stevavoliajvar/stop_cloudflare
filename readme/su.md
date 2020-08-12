@@ -101,7 +101,7 @@ Repositori ieu mangrupikeun daptar situs wéb anu tinggaleun "_The Great Cloudwa
 
 ** Inpormasi Langkung **
 * [Katalog Mitos](mitos_catalog.md)
-* [The Great Cloudwall](../article.txt) ku [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) ku [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Unduh salaku: PDF [di dieu](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [di dieu](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook asli (ePUB) dihapus ku BookRix GmbH kusabab ngalanggar hak cipta bahan CC0
 * [Ikon Padlock nunjukkeun sambungan SSL anu aman anu didirikeun w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ku Anonim
@@ -129,7 +129,7 @@ Repositori ieu mangrupikeun daptar situs wéb anu tinggaleun "_The Great Cloudwa
 ## Naon nu bisa kumaneh di pigawe?
 </summary>
 
-* [Maca daptar daptar lampah anu disarankeun sareng bagikeun babaturan anjeun](../what-to-do.md)
+* [Maca daptar daptar lampah anu disarankeun sareng bagikeun babaturan anjeun](../ACTION.md)
 
 * [Maca sora pangguna anu sanés sareng tuliskeun pikiran anjeun](../PEOPLE.md)
 

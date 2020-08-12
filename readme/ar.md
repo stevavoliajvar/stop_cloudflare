@@ -99,8 +99,8 @@
 
 
 **معلومات اكثر**
-* [Myth Catalog](../myth_catalog.md) 
-* [The Cloud Cloudwall](../article.txt) من تأليف [السيد. جيف كليف](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md) 
+* [The Cloud Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) من تأليف [السيد. جيف كليف](https://shitposter.club/users/jeffcliff)
   * تنزيل بتنسيق: PDF [هنا](../pdf/2019-The_Great_Cloudwall.pdf) ، ePUB [هنا](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * تم حذف الكتاب الإلكتروني الأصلي (ePUB) بواسطة "BookRix GmbH" بسبب "انتهاك حقوق الطبع والنشر لمواد CC0"
 * [رمز القفل يشير إلى اتصال SSL آمن مع MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi؟bug=831835) بواسطة Anonymous
@@ -128,7 +128,7 @@
 ## ما الذي تستطيع القيام به؟
 </summary>
 
-* اقرأ [قائمة الإجراءات الموصى بها لدينا](../what-to-do.md) وشاركها مع أصدقائك.
+* اقرأ [قائمة الإجراءات الموصى بها لدينا](../ACTION.md) وشاركها مع أصدقائك.
 
 * اقرأ [صوت المستخدم الآخر](../PEOPLE.md) واكتب أفكارك.
 

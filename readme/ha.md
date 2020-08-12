@@ -129,7 +129,7 @@ Wannan wurin ajiyar bayanai jerin shafukan yanar gizon da ke bayan "_The Great C
 ## Me za ku iya yi?
 Bayanin bayani>
 
-* Karanta [jerin shawarwarinmu na shawarar](../what-to-do.md) kuma raba shi tare da abokanka.
+* Karanta [jerin shawarwarinmu na shawarar](../ACTION.md) kuma raba shi tare da abokanka.
 
 * Karanta [sauran muryar mai amfani](MUTANE.md) kuma rubuta tunanin ka.
 

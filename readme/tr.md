@@ -100,7 +100,7 @@ Bu depo Tor kullanıcılarını ve diğer CDN'leri engelleyen "Büyük Bulut Duv
 
 **Daha fazla bilgi**
 * [Efsane Kataloğu](efsane_kataloğu.md) TASLAK
-* [Büyük Bulut Duvarı](../article.txt) [Bay Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Büyük Bulut Duvarı](../pdf/2019-Jeff_Cliff_Book1.txt) [Bay Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Farklı indirin: PDF [burada](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [burada](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Orijinal eKitap (ePUB) `` CC0 malzemesinin telif hakkı ihlali '' nedeniyle `BookRix GmbH` tarafından silindi
 * [Asma kilit simgesi, Anonim tarafından oluşturulan güvenli bir SSL bağlantısını gösterir](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) Anonim olarak
@@ -128,13 +128,13 @@ Bu depo Tor kullanıcılarını ve diğer CDN'leri engelleyen "Büyük Bulut Duv
 ## Ne yapabilirsin?
 </summary>
 
-* [Önerilen eylemler listemizi](../what-to-do.md) ve arkadaşlarınızla paylaşın.
+* [Önerilen eylemler listemizi](../ACTION.md) ve arkadaşlarınızla paylaşın.
 
 * [Diğer kullanıcının sesi](../PEOPLE.md) okuyun ve düşüncelerinizi yazın.
 
 * [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) veya [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Alan listesini güncelleyin: [Talimatları listele](../instructions.md).
+* Alan listesini güncelleyin: [Talimatları listele](../INSTRUCTION.md).
 
 * [Tarih](../HISTORY.md) Cloudflare veya proje ile ilgili olay ekleyin.
 

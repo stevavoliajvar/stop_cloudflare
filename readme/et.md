@@ -129,7 +129,7 @@ See hoidla on loetelu veebisaitidest, mis asuvad taga "_The Great Cloudwall_", b
 ## Mida sa teha saad?
 </summary>
 
-* Lugege [meie soovitatud toimingute loendit](../what-to-do.md) ja jagage seda oma sõpradega.
+* Lugege [meie soovitatud toimingute loendit](../ACTION.md) ja jagage seda oma sõpradega.
 
 * Lugege [teise kasutaja häält](../PEOPLE.md) ja kirjutage oma mõtted.
 

@@ -100,8 +100,8 @@ Deze repository is een lijst met websites achter "_The Great Cloudwall_", die To
 
 
 **Meer informatie**
-* [Myth Catalog](../myth_catalog.md) 
-* [The Great Cloudwall](../article.txt) door [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md) 
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) door [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download als:PDF [hier](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hier](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Het originele e-book (ePUB) is verwijderd door `BookRix GmbH` vanwege` auteursrechtschending van CC0-materiaal`
 * [Hangslotpictogram geeft aan dat er een veilige SSL-verbinding tot stand is gebracht met MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) door Anoniem
@@ -129,7 +129,7 @@ Deze repository is een lijst met websites achter "_The Great Cloudwall_", die To
 ## Wat kan je doen?
 </summary>
 
-* Lees [onze lijst met aanbevolen acties](../what-to-do.md) en deel het met je vrienden.
+* Lees [onze lijst met aanbevolen acties](../ACTION.md) en deel het met je vrienden.
 
 * Lees [stem van andere gebruiker](../PEOPLE.md) en schrijf je gedachten.
 

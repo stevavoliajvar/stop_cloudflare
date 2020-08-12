@@ -100,8 +100,8 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter “The Great Cloudwall” st
 
 
 **Meer inligting**
-* [Mite katalogus](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) deur [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Mite katalogus](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) deur [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Laai af as: PDF [hier](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hier](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Die oorspronklike e-boek (ePUB) is deur BookRix GmbH uitgevee weens die kopieregskending van CC0-materiaal
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) deur Anonymous
@@ -129,13 +129,13 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter “The Great Cloudwall” st
 ## Wat kan jy doen?
 </summary>
 
-* [Lees ons lys met aanbevole aksies en deel dit met jou vriende.](../what-to-do.md)
+* [Lees ons lys met aanbevole aksies en deel dit met jou vriende.](../ACTION.md)
 
 * [Lees die stem van 'n ander gebruiker en skryf jou gedagtes.](../PEOPLE.md)
 
 * Soek iets op [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) of [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Dateer die domeinlys op: [lys instruksies](../instructions.md).
+* Dateer die domeinlys op: [lys instruksies](../INSTRUCTION.md).
 
 * Voeg Cloudflare of projekgebeurtenis by die [geskiedenis](../HISTORY.md).
 

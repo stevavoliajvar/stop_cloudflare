@@ -17,5 +17,5 @@
 ![](../../image/anonexist.jpg)
 
 
-- Bonvolu vidi [instructions.md](../../instructions.md) por dosiera celo kaj formato specifoj.
+- Bonvolu vidi [INSTRUCTION.md](../../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
 - [Malamikeco kontraŭ Tor](../../not_cloudflare/domains/README.md)

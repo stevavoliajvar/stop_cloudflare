@@ -100,8 +100,8 @@
 
 
 ** تېخىمۇ كۆپ ئۇچۇرلار **
-* [ئەپسانىلەر كاتالوگى](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) [ئەپەندى. جېف كلېف](https://shitposter.club/users/jeffcliff)
+* [ئەپسانىلەر كاتالوگى](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) [ئەپەندى. جېف كلېف](https://shitposter.club/users/jeffcliff)
   * چۈشۈرۈش: PDF [بۇ يەردە](../pdf/2019-The_Great_Cloudwall.pdf) ، ePUB [بۇ يەردە](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * ئەسلىدىكى ئېلېكترونلۇق كىتاب (ePUB) CC0 ماتېرىيالىنىڭ نەشر ھوقۇقىغا دەخلى-تەرۇز قىلغانلىقى ئۈچۈن BookRix GmbH تەرىپىدىن ئۆچۈرۈلگەن.
 * [Padlock سىنبەلگىسى w MITM-ed قۇرغان بىخەتەر SSL ئۇلىنىشىنى كۆرسىتىدۇ](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)
@@ -129,7 +129,7 @@
 ## نېمە قىلالايسىز؟
 </summary>
 
-* [تەۋسىيە قىلىنغان ھەرىكەت تىزىملىكىمىزنى ئوقۇڭ ۋە دوستلىرىڭىز بىلەن ئورتاقلىشىڭ](../what-to-do.md)
+* [تەۋسىيە قىلىنغان ھەرىكەت تىزىملىكىمىزنى ئوقۇڭ ۋە دوستلىرىڭىز بىلەن ئورتاقلىشىڭ](../ACTION.md)
 
 * [باشقا ئىشلەتكۈچىنىڭ ئاۋازىنى ئوقۇڭ ۋە ئويلىغانلىرىڭىزنى يېزىڭ](../PEOPLE.md)
 

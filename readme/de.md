@@ -100,8 +100,8 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 
 
 **Mehr Informationen**
-* [Myth Catalog](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) von [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) von [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download als: PDF [here](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Das ursprüngliche eBook (ePUB) wurde von der BookRix GmbH aufgrund einer Urheberrechtsverletzung von CC0-Material gelöscht
 * [Das Vorhängeschlosssymbol zeigt eine sichere SSL-Verbindung an, die mit MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) von Anonymous
@@ -129,13 +129,13 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 ## Was kannst du tun?
 </summary>
 
-* Lesen Sie unsere [Liste der empfohlenen Aktionen](../what-to-do.md) und teilen Sie sie mit Ihren Freunden.
+* Lesen Sie unsere [Liste der empfohlenen Aktionen](../ACTION.md) und teilen Sie sie mit Ihren Freunden.
 
 * Lesen Sie die [Stimme anderer Benutzer](../PEOPLE.md) und schreiben Sie Ihre Gedanken.
 
 * Suchen Sie etwas auf [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) oder [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Aktualisieren Sie die Domain-Liste: [Listen Sie die Anweisungen auf](../instructions.md).
+* Aktualisieren Sie die Domain-Liste: [Listen Sie die Anweisungen auf](../INSTRUCTION.md).
 
 * Fügen Sie dem Verlauf Cloudflare oder ein projektbezogenes Ereignis [hinzu](../HISTORY.md).
 

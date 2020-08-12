@@ -100,8 +100,8 @@ O lenei fale teu faʻamatalaga o se lisi o uepisaite o loʻo i tua atu "_O le Si
 
 
 ** Nisi faʻamatalaga **
-* [Lafoga o Faʻamatalaga](../myth_catalog.md)
-* [O le Great Cloudwall](../article.txt) saunia e [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Lafoga o Faʻamatalaga](../subfiles/myth_catalog.md)
+* [O le Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) saunia e [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Sii mai e: PDF [iinei](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [iinei](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * O le uluai eBook (ePUB) na soloia e BookRix GmbH ona o le puletaofia le solia o CC0 mea
 * [Padlock icon faʻaalia se malupuipuia SSL sootaga faʻatuina w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) e Anonymous
@@ -129,7 +129,7 @@ O lenei fale teu faʻamatalaga o se lisi o uepisaite o loʻo i tua atu "_O le Si
 ## O le a se mea e mafai ona e faia?
 </summary>
 
-* [Faitau la matou lisi o gaioiga fautuaina ma faasoa atu i au uo](../what-to-do.md)
+* [Faitau la matou lisi o gaioiga fautuaina ma faasoa atu i au uo](../ACTION.md)
 
 * [Faitau leisi leo a isi tagata tusi ma tusi ou manatu](../PEOPLE.md)
 

@@ -100,8 +100,8 @@ Denne opbevaring er en liste over websteder, der ligger bag "_The Great Cloudwal
 
 
 **Mere information**
-* [Myth Catalog](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) af [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) af [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Download som: PDF [her](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [her](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Den originale e-bog (ePUB) blev slettet af BookRix GmbH på grund af krænkelse af copyright af CC0-materiale
 * [Hængelåsikon angiver en sikker SSL-forbindelse oprettet w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) af Anonym
@@ -129,7 +129,7 @@ Denne opbevaring er en liste over websteder, der ligger bag "_The Great Cloudwal
 ## Hvad kan du gøre?
 </Sammendrag>
 
-* Læs [vores liste over anbefalede handlinger](../what-to-do.md), og del den med dine venner.
+* Læs [vores liste over anbefalede handlinger](../ACTION.md), og del den med dine venner.
 
 * Læs [anden brugers stemme](../PEOPLE.md), og skriv dine tanker.
 

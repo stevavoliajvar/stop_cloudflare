@@ -100,7 +100,7 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "_The Great Cloudwall_", 
 
 
 **Mwy o wybodaeth**
-* [Catalog Myth](../myth_catalog.md)
+* [Catalog Myth](../subfiles/myth_catalog.md)
 * [The Great Cloudwall](erthygl.txt) gan [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Dadlwythwch fel: PDF [yma](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [yma](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Cafodd yr eLyfr gwreiddiol (ePUB) ei ddileu gan BookRix GmbH oherwydd torri hawlfraint deunydd CC0
@@ -129,7 +129,7 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "_The Great Cloudwall_", 
 ## Beth ydych chi'n gallu gwneud?
 </summary>
 
-* Darllenwch [ein rhestr o gamau gweithredu a argymhellir](../what-to-do.md) a'i rannu gyda'ch ffrindiau.
+* Darllenwch [ein rhestr o gamau gweithredu a argymhellir](../ACTION.md) a'i rannu gyda'ch ffrindiau.
 
 * Darllenwch [llais defnyddiwr arall](../PEOPLE.md) ac ysgrifennwch eich meddyliau.
 

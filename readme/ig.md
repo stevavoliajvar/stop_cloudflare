@@ -129,7 +129,7 @@ Nchịkọta> _click me_
 ## Gini ga - eme?
 Nchịkọta>
 
-* Guo [ndepụta usoro ịtụ aro anyị](../what-to-do.md) ma kesa ndị enyi gị.
+* Guo [ndepụta usoro ịtụ aro anyị](../ACTION.md) ma kesa ndị enyi gị.
 
 * Gụ olu olu onye ọrụ ndị ọzọ (ND.m M.m.) wee dee echiche gị.
 

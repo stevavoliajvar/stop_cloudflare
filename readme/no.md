@@ -100,8 +100,8 @@ Dette depotet er en liste over nettsteder som ligger bak "_The Great Cloudwall_"
 
 
 **Mer informasjon**
-* [Myth Catalog](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) av [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) av [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Last ned som: PDF [her](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [her](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Den opprinnelige eBok (ePUB) ble slettet av BookRix GmbH på grunn av brudd på copyright av CC0-materiale
 * [Hengelåsikon indikerer en sikker SSL-forbindelse opprettet w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) av Anonym
@@ -129,13 +129,13 @@ Dette depotet er en liste over nettsteder som ligger bak "_The Great Cloudwall_"
 ## Hva kan du gjøre?
 </Oppsummering>
 
-* [Les listen over anbefalte handlinger og del den med vennene dine](../what-to-do.md)
+* [Les listen over anbefalte handlinger og del den med vennene dine](../ACTION.md)
 
 * [Les andres stemme og skriv tankene dine](../PEOPLE.md)
 
 * Søk noe på [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) eller [Crimeflare \ #Search](https://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [Oppdater domenelisten: Listeinstruksjoner](../instructions.md).
+* [Oppdater domenelisten: Listeinstruksjoner](../INSTRUCTION.md).
 
 * [Legg til Cloudflare eller prosjektrelatert hendelse i historien](../HISTORY.md).
 

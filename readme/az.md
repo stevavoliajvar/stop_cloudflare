@@ -100,7 +100,7 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Cloudwal
 
 
 ** Daha çox məlumat **
-* [Mif Kataloqu](../myth_catalog.md)
+* [Mif Kataloqu](../subfiles/myth_catalog.md)
 * [Möhtəşəm Buludlu](məqalə.txt) Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Yükləyin: PDF [burada](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [burada](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Orijinal eBook (ePUB) CCR materialının müəllif hüquqları pozuntusuna görə BookRix GmbH tərəfindən silindi.
@@ -129,7 +129,7 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Cloudwal
 ## Sən nə edə bilərsən?
 </summary>
 
-* [Tövsiyə olunan hərəkətlər siyahımızı](../what-to-do.md) oxuyun və dostlarınızla bölüşün.
+* [Tövsiyə olunan hərəkətlər siyahımızı](../ACTION.md) oxuyun və dostlarınızla bölüşün.
 
 * [Digər istifadəçinin səsini](../PEOPLE.md) oxuyun və fikirlərinizi yazın.
 

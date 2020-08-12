@@ -100,8 +100,8 @@ Repositori ini adalah senarai laman web yang berada di belakang "_The Great Clou
 
 
 **Maklumat lanjut**
-* [Katalog Mitos](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) oleh [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Katalog Mitos](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) oleh [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Muat turun sebagai: PDF [di sini](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [di sini](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook asli (ePUB) telah dihapus oleh `BookRix GmbH` kerana` pelanggaran hak cipta terhadap materi CC0`
 * [Ikon gembok menunjukkan sambungan SSL yang selamat dibuat dengan MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) oleh Anonymous
@@ -129,7 +129,7 @@ Repositori ini adalah senarai laman web yang berada di belakang "_The Great Clou
 ## Apa yang kau boleh buat?
 </summary>
 
-* Baca [senarai tindakan kami yang disyorkan](../what-to-do.md) dan bagikan dengan rakan anda.
+* Baca [senarai tindakan kami yang disyorkan](../ACTION.md) dan bagikan dengan rakan anda.
 
 * Baca [suara pengguna lain](../PEOPLE.md) dan tuliskan pendapat anda.
 

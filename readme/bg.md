@@ -100,8 +100,8 @@
 
 
 **Повече информация**
-* [Каталог на митите](../myth_catalog.md)
-* [Голямата облачна стена](../article.txt) от [Mr. Джеф Клиф](https://shitposter.club/users/jeffcliff)
+* [Каталог на митите](../subfiles/myth_catalog.md)
+* [Голямата облачна стена](../pdf/2019-Jeff_Cliff_Book1.txt) от [Mr. Джеф Клиф](https://shitposter.club/users/jeffcliff)
   * Изтеглете като: PDF [тук](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [тук](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригиналната електронна книга (ePUB) беше изтрита от BookRix GmbH поради нарушаване на авторски права на материали CC0
 * [Иконата на катинара показва сигурна SSL връзка, установена с MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) от Anonymous

@@ -100,8 +100,8 @@
 
 
 **מער אינפֿאָרמאַציע**
-* [מיטאָס קאַטאַלאָג](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) פֿון [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [מיטאָס קאַטאַלאָג](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) פֿון [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * אראפקאפיע ווי: PDF [דאָ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [דאָ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * די אָריגינעל ספר (ePUB) איז געווען אויסגעמעקט דורך BookRix GmbH רעכט צו ינפרינדזשמאַנט פון CC0 מאַטעריאַל
 * [פּאַדלאָקק ייקאַן ינדיקייץ אַ זיכער ססל פֿאַרבינדונג געגרינדעט אין MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) דורך אַנאָנימע באַנוצערס
@@ -129,13 +129,13 @@
 ## וואס קענסטו טון?
 </summary>
 
-* [לייענען אונדזער רשימה פון רעקאַמענדיד אַקשאַנז און טיילן עס מיט דיין פרענדז](../what-to-do.md)
+* [לייענען אונדזער רשימה פון רעקאַמענדיד אַקשאַנז און טיילן עס מיט דיין פרענדז](../ACTION.md)
 
 * [לייענען די קול פון אנדערע באַניצער און שרייב דיין געדאנקען](../PEOPLE.md)
 
 * זוך עפּעס אויף [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) אָדער [Crimeflare \ #Search](https://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [דערהייַנטיקן די פעלד רשימה: רשימה ינסטראַקשאַנז](../instructions.md).
+* [דערהייַנטיקן די פעלד רשימה: רשימה ינסטראַקשאַנז](../INSTRUCTION.md).
 
 * [לייג קלאָודפלאַרע אָדער פּרויעקט פֿאַרבונדענע געשעעניש צו געשיכטע](../HISTORY.md).
 

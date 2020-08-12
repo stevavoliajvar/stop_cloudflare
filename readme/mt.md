@@ -100,8 +100,8 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "_The Great Cloudwall_"
 
 
 **Iktar informazzjoni**
-* [Katalgu tal-Leġġenda](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) minn [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Katalgu tal-Leġġenda](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) minn [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Niżżel bħala: PDF [hawn](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hawn](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * L-eBook oriġinali (ePUB) ġie mħassar minn BookRix GmbH minħabba ksur tad-drittijiet tal-awtur ta 'materjal CC0
 * [L-ikona tal-illokkjar tindika konnessjoni sigura SSL stabbilita w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) minn Anonymous
@@ -129,7 +129,7 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "_The Great Cloudwall_"
 ## X'tista tagħmel?
 </summary>
 
-* [Aqra l-lista tal-azzjonijiet rakkomandati tagħna u aqsamha mal-ħbiebek](../what-to-do.md)
+* [Aqra l-lista tal-azzjonijiet rakkomandati tagħna u aqsamha mal-ħbiebek](../ACTION.md)
 
 * [Aqra leħen ta ’utent ieħor u ikteb il-ħsibijiet tiegħek](../PEOPLE.md)
 

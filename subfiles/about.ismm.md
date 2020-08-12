@@ -33,8 +33,6 @@ example.org
 --------------------
 ```
  
-- Information: [About Cloudflare domain list](../instructions.md#about-cloudflare-base-domain-list)
-
 
 Download add-on
 - [Firefox ESR / Chromium](https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/addon.php?give&for=ismitmlink)

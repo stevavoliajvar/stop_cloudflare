@@ -99,8 +99,8 @@
 
 
 **Meiri upplýsingar**
-* [Myth Catalog](../myth_catalog.md) 
-* [The Great Cloudwall](../article.txt) eftir [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md) 
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) eftir [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Sæktu sem: PDF [hér](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hér](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Upprunalegu rafbókinni (ePUB) var eytt af „BookRix GmbH“ vegna „höfundarréttarbrota á CC0 efni“.
 * [Hengilásartáknið gefur til kynna örugga SSL tengingu komið á með MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) af Anonymous
@@ -128,7 +128,7 @@
 ## Hvað er hægt að gera?
 </summary>
 
-* Lestu [lista okkar með ráðlögðum aðgerðum](../what-to-do.md) og deildu þeim með vinum þínum.
+* Lestu [lista okkar með ráðlögðum aðgerðum](../ACTION.md) og deildu þeim með vinum þínum.
 
 * Lestu [rödd annars notanda](../PEOPLE.md) og skrifaðu hugsanir þínar.
 

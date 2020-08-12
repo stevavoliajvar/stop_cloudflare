@@ -100,8 +100,8 @@
 
 
 **Περισσότερες πληροφορίες**
-* [Κατάλογος μύθων](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) από τον [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Κατάλογος μύθων](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) από τον [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Λήψη ως: PDF [εδώ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [εδώ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Το αρχικό eBook (ePUB) διαγράφηκε από το BookRix GmbH λόγω παραβίασης πνευματικών δικαιωμάτων υλικού CC0
 * [Το εικονίδιο λουκέτου υποδεικνύει μια ασφαλή σύνδεση SSL που δημιουργήθηκε με το MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) από το Anonymous
@@ -129,7 +129,7 @@
 ## Τι μπορείς να κάνεις?
 </summary>
 
-* Διαβάστε [τη λίστα των προτεινόμενων ενεργειών](../what-to-do.md) και μοιραστείτε το με τους φίλους σας.
+* Διαβάστε [τη λίστα των προτεινόμενων ενεργειών](../ACTION.md) και μοιραστείτε το με τους φίλους σας.
 
 * Διαβάστε [φωνή άλλου χρήστη](../PEOPLE.md) και γράψτε τις σκέψεις σας.
 

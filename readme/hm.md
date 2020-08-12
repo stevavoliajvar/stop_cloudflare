@@ -100,8 +100,8 @@ Qhov chaw cia no yog ib daim ntawv teev cov vev xaib uas nyob tom qab "_ The Gre
 
 
 ** Ntau Cov Lus Qhia **
-* [Myth Catalog](../myth_catalog.md)
-* [Huab Tais Tswv Ntuj Huab Cua](../article.txt) los ntawm [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md)
+* [Huab Tais Tswv Ntuj Huab Cua](../pdf/2019-Jeff_Cliff_Book1.txt) los ntawm [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Tuaj download tau: PDF [ntawm no](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ntawm no](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Tus thawj eBook (ePUB) tau raug tshem tawm los ntawm BookRix GmbH vim yog kev ua txhaum txoj cai ntawm CC0 cov khoom
 * [Padlock icon qhia txog kev ruaj ntseg SSL txuas tsim w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) los ntawm Anonymous
@@ -135,7 +135,7 @@ Qhov chaw cia no yog ib daim ntawv teev cov vev xaib uas nyob tom qab "_ The Gre
 
 * Tshawb nrhiav qee yam ntawm [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) lossis [Crimeflare \ #Search](https://Crimeflare). wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Hloov chaw sau npe: [Sau cov lus qhia](../instructions.md).
+* Hloov chaw sau npe: [Sau cov lus qhia](../INSTRUCTION.md).
 
 * Ntxiv Cloudflare lossis qhov project cuam tshuam txog rau [keeb kwm](../HISTORY.md).
 

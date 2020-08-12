@@ -129,7 +129,7 @@ Vê repoya navnîşek malperên ku li pişt "_The Great Cloudwall_" in, rawestan
 ## Tu dikarî çi bikî?
 </summary>
 
-* [Navnîşa me ya kiryarên pêşniyaz bixwînin û wê bi hevalên xwe re parve bikin](../what-to-do.md)
+* [Navnîşa me ya kiryarên pêşniyaz bixwînin û wê bi hevalên xwe re parve bikin](../ACTION.md)
 
 * [Dengê bikarhênerê din bixwînin û ramanên xwe binivîsin](../PEOPLE.md)
 

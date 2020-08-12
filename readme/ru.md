@@ -100,8 +100,8 @@
 
 
 **Больше информации**
-* [Миф Каталог](../myth_catalog.md)
-* [Великая облачная стена](../article.txt) по [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Миф Каталог](../subfiles/myth_catalog.md)
+* [Великая облачная стена](../pdf/2019-Jeff_Cliff_Book1.txt) по [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Скачать как: PDF [здесь](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [здесь](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригинальная электронная книга (ePUB) была удалена BookRix GmbH из-за нарушения авторских прав на материал CC0
 * [Значок замка указывает на безопасное соединение SSL, установленное с помощью MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) по Anonymous
@@ -129,13 +129,13 @@
 ## Что ты можешь сделать?
 </summary>
 
-* [Прочитайте наш список рекомендуемых действий и поделитесь им с друзьями.](../what-to-do.md)
+* [Прочитайте наш список рекомендуемых действий и поделитесь им с друзьями.](../ACTION.md)
 
 * [Прочитайте голос другого пользователя и напишите свои мысли.](../PEOPLE.md)
 
 * Найдите что-нибудь на [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) или [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Обновление списка доменов: [список инструкций](../instructions.md).
+* Обновление списка доменов: [список инструкций](../INSTRUCTION.md).
 
 * Добавить Cloudflare или связанное с проектом событие в [историю](../HISTORY.md).
 

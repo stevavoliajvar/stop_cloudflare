@@ -111,7 +111,7 @@ Se vi ŝatas bloki homojn aŭ malŝpari tempon de aliaj homoj, vi eble volas men
 
 Kion vi faros se via retejo subite falas?
 Estas raportoj, ke Cloudflare forigas la agordon de la uzanto aŭ ĉesigas servon sen ia ajn averto silente.
-Ni sugestas al vi trovi pli [bonan provizanton](../what-to-do.md).
+Ni sugestas al vi trovi pli [bonan provizanton](../ACTION.md).
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 

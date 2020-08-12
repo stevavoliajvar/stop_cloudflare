@@ -9,7 +9,7 @@
 
 
 - Dateno pri Cloudflare (kodo "Z3"): [/cloudflare_users/domains](../../cloudflare_users/domains)
-- Bonvolu vidi [instructions.md](../../instructions.md) por dosiera celo kaj formato specifoj.
+- Bonvolu vidi [INSTRUCTION.md](../../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
 
 ---
 

@@ -100,8 +100,8 @@
 
 
 **మరింత సమాచారం**
-* [మిత్ కాటలాగ్](../myth_catalog.md)
-* [ది గ్రేట్ క్లౌడ్‌వాల్](../article.txt) [మిస్టర్. జెఫ్ క్లిఫ్](https://shitposter.club/users/jeffcliff)
+* [మిత్ కాటలాగ్](../subfiles/myth_catalog.md)
+* [ది గ్రేట్ క్లౌడ్‌వాల్](../pdf/2019-Jeff_Cliff_Book1.txt) [మిస్టర్. జెఫ్ క్లిఫ్](https://shitposter.club/users/jeffcliff)
   * ఇలా డౌన్‌లోడ్ చేయండి: PDF [ఇక్కడ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ఇక్కడ](../pdf/2019-జెఫ్_క్లిఫ్_థీ_గ్రేట్_క్లౌడ్‌వాల్.పబ్)
   * CC0 మెటీరియల్ యొక్క కాపీరైట్ ఉల్లంఘన కారణంగా అసలు ఇబుక్ (ePUB) ను `బుక్‌రిక్స్ GmbH` తొలగించింది.
 * [ప్యాడ్‌లాక్ చిహ్నం అనామకచే స్థాపించబడిన సురక్షితమైన SSL కనెక్షన్‌ను సూచిస్తుంది MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835)

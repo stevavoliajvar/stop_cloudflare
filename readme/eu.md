@@ -101,7 +101,7 @@ Biltegi hau "_ ​​Great Cloudwall_" atzean dauden webguneen zerrenda da, Tor 
 
 **Informazio gehiago**
 * [Mito Katalogoa](mit_catalog.md)
-* [Hodei Handia](../article.txt) egilearen [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Hodei Handia](../pdf/2019-Jeff_Cliff_Book1.txt) egilearen [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Deskargatu honela: PDF [hemen](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hemen](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Jatorrizko eBook (ePUB) BookRix GmbH-k ezabatu zuen CC0 materialaren egile eskubideen urraketa dela eta
 * [Padlock ikonoak SSL konexio segurua adierazten du MITM-edekin ezarritako](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) Anonimoak
@@ -129,7 +129,7 @@ Biltegi hau "_ ​​Great Cloudwall_" atzean dauden webguneen zerrenda da, Tor 
 ## Zer egin dezakezu?
 </Laburpen>
 
-* Irakurri [gomendatutako ekintzen zerrenda](../what-to-do.md) eta partekatu zure lagunekin.
+* Irakurri [gomendatutako ekintzen zerrenda](../ACTION.md) eta partekatu zure lagunekin.
 
 * Irakurri [beste erabiltzaile baten ahotsa](../PEOPLE.md) eta idatzi zure pentsamenduak.
 

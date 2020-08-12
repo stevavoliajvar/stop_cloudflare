@@ -9,6 +9,6 @@
 
 - Cloudflare ASN: [cloudflare_inc/cloudflare_owned_ASN.txt](../../cloudflare_inc/cloudflare_owned_ASN.txt)
 
+---
 
-
-Bonvolu vidi [instructions.md](../../instructions.md) por dosiera celo kaj formato specifoj.
+Bonvolu vidi [INSTRUCTION.md](../../INSTRUCTION.md) por dosiera celo kaj formato specifoj.

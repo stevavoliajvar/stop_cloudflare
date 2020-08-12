@@ -100,8 +100,8 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
 
 
 **Más información**
-* [Catálogo de mitos](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) por [Sr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Catálogo de mitos](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) por [Sr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Descargar como: PDF [aquí](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [aquí](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * El eBook original (ePUB) fue eliminado por `BookRix GmbH` debido a una infracción de copyright del material CC0
 * [El icono del candado indica una conexión SSL segura establecida con MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) por Anonymous
@@ -129,13 +129,13 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
 ## ¿Qué puedes hacer?
 </summary>
 
-* Lea nuestra lista de [acciones recomendadas](../what-to-do.md) y compártala con sus amigos.
+* Lea nuestra lista de [acciones recomendadas](../ACTION.md) y compártala con sus amigos.
 
 * Lea la voz de [otros usuarios](../PEOPLE.md) y escriba sus pensamientos.
 
 * Busque algo en [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) o [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Actualice la lista de dominios: [instrucciones de la lista](../instructions.md).
+* Actualice la lista de dominios: [instrucciones de la lista](../INSTRUCTION.md).
 
 * Agregue Cloudflare o evento relacionado con el proyecto al [historial](../HISTORY.md).
 

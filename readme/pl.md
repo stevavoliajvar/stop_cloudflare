@@ -100,8 +100,8 @@ To repozytorium to lista stron internetowych, które stoją za „_The Great Clo
 
 
 **Więcej informacji**
-* [Katalog mitów](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) autorstwa [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Katalog mitów](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) autorstwa [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Pobierz jako: PDF [tutaj](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [tutaj](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Oryginalny eBook (ePUB) został usunięty przez „BookRix GmbH” z powodu „naruszenia praw autorskich do materiału CC0”
 * [Ikona kłódki wskazuje na bezpieczne połączenie SSL ustanowione w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) przez Anonymous
@@ -129,7 +129,7 @@ To repozytorium to lista stron internetowych, które stoją za „_The Great Clo
 ## Co możesz zrobić?
 </summary>
 
-* Przeczytaj [naszą listę zalecanych działań](../what-to-do.md) i podziel się nim ze znajomymi.
+* Przeczytaj [naszą listę zalecanych działań](../ACTION.md) i podziel się nim ze znajomymi.
 
 * Przeczytaj [głos innego użytkownika](../PEOPLE.md) i napisz swoje myśli.
 

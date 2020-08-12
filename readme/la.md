@@ -100,8 +100,8 @@ Data ** **
 
 
 **Informationes plurimae**
-* [The Grand Catalog](../myth_catalog.md)
-* [De magna Cloudwall](../article.txt) a [D. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [The Grand Catalog](../subfiles/myth_catalog.md)
+* [De magna Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) a [D. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   Download as *, PDF [hic](../pdf/MMXIX, The_Great_Cloudwall.pdf), ePUB [hic](../pdf/MMXIX, Jeff_Cliff_The_Great_Cloudwall.epub)
   * The original Paperback (ePUB) was deleted by BookRix GmbH ex materia CC0 iacturam pati
 * [Padlock icon indicat statutum; secura SSL Latin iunctio MITM, ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Cornelius Tacitus
@@ -129,13 +129,13 @@ Data ** **
 ## Quid facitis?
 </Summary>
 
-* [Read nostrum album de actus commendatae atque amicos invitavit ut secum comederem](../what-to-do.md)
+* [Read nostrum album de actus commendatae atque amicos invitavit ut secum comederem](../ACTION.md)
 
 * [Read usor alius vox cogitationes vestras et scribere](../PEOPLE.md)
 
 Quaerere in aliquid * [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) seu [Crimeflare \ #search](http://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [Update album in domain: instructiones List](../instructions.md).
+* [Update album in domain: instructiones List](../INSTRUCTION.md).
 
 * [Addere Cloudflare alios proiectus aut ad res related history](../HISTORY.md).
 

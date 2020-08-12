@@ -100,7 +100,7 @@
 
 
 **Көбірек ақпарат**
-* [Миф каталогы](../myth_catalog.md)
+* [Миф каталогы](../subfiles/myth_catalog.md)
 * [Great Cloudwall](мақала.txt) [Mr. Джефф Клифф](https://shitposter.club/users/jeffcliff)
   * Жүктеңіз: PDF [мұнда](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [мұнда](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Түпнұсқа электронды кітап (ePUB) CCR материалына авторлық құқықты бұзғаны үшін BookRix GmbH жойылды.
@@ -129,7 +129,7 @@
 ## Сіз не істей аласыз?
 </summary>
 
-* [Ұсынылған әрекеттер тізімін оқып, достарыңызбен бөлісіңіз](../what-to-do.md)
+* [Ұсынылған әрекеттер тізімін оқып, достарыңызбен бөлісіңіз](../ACTION.md)
 
 * [Басқа пайдаланушының дауысын оқып, өз ойларыңызды жазыңыз](../PEOPLE.md)
 

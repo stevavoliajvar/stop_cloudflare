@@ -100,7 +100,7 @@ Ang kini nga repositoryo usa ka lista sa mga website nga anaa sa luyo sa "_Ang D
 
 
 ** Dugang nga Impormasyon **
-* [Myth Catalog](../myth_catalog.md)
+* [Myth Catalog](../subfiles/myth_catalog.md)
 * [Ang Dakong Cloudwall](artikulo.txt) ni [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Pag-download ingon: PDF [dinhi](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [dinhi](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ang orihinal nga eBook (ePUB) giwagtang sa BookRix GmbH tungod sa paglapas sa copyright sa materyal nga CC0

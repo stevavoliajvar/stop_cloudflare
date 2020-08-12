@@ -100,8 +100,8 @@
 
 
 ** ຂໍ້ມູນເພີ່ມເຕີມ **
-* [ລາຍການ Myth](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) ໂດຍ [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [ລາຍການ Myth](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) ໂດຍ [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ດາວໂຫລດເປັນ: PDF [ທີ່ນີ້](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ທີ່ນີ້](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * ປື້ມອີເລັກໂທຣນິກຕົ້ນສະບັບ (ePUB) ຖືກລຶບໂດຍ BookRix GmbH ເນື່ອງຈາກການລະເມີດລິຂະສິດຂອງເອກະສານ CC0
 * [ຮູບສັນຍາລັກ Padlock ຊີ້ໃຫ້ເຫັນການເຊື່ອມຕໍ່ SSL ທີ່ປອດໄພຖືກສ້າງຕັ້ງຂຶ້ນ w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ໂດຍ Anonymous
@@ -129,13 +129,13 @@
 ## ເຈົ້າສາມາດເຮັດຫຍັງໄດ້ແດ່?
 </summar>
 
-* [ອ່ານລາຍຊື່ການກະ ທຳ ທີ່ແນະ ນຳ ຂອງພວກເຮົາແລະແບ່ງປັນກັບ ໝູ່ ຂອງທ່ານ](../what-to-do.md)
+* [ອ່ານລາຍຊື່ການກະ ທຳ ທີ່ແນະ ນຳ ຂອງພວກເຮົາແລະແບ່ງປັນກັບ ໝູ່ ຂອງທ່ານ](../ACTION.md)
 
 * [ອ່ານສຽງຂອງຜູ້ໃຊ້ອື່ນແລະຂຽນຄວາມຄິດຂອງທ່ານ](../PEOPLE.md)
 
 * ຄົ້ນຫາບາງສິ່ງບາງຢ່າງໃນ [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) ຫຼື [Crimeflare \ # ການຄົ້ນຫາ](https://Crimeflare). wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [ປັບປຸງລາຍຊື່ໂດເມນ: ລາຍຊື່ ຄຳ ແນະ ນຳ](../instructions.md).
+* [ປັບປຸງລາຍຊື່ໂດເມນ: ລາຍຊື່ ຄຳ ແນະ ນຳ](../INSTRUCTION.md).
 
 * [ເພີ່ມ Cloudflare ຫຼືເຫດການທີ່ກ່ຽວຂ້ອງກັບໂຄງການເຂົ້າໃນປະຫວັດສາດ](../HISTORY.md).
 
