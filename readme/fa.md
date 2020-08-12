@@ -100,8 +100,8 @@
 
 
 **اطلاعات بیشتر**
-* [کاتالوگ اسطوره](../myth_catalog.md)
-* [ابر بزرگ](../article.txt) توسط [آقای جف کلیف](https://shitposter.club/users/jeffcliff)
+* [کاتالوگ اسطوره](../subfiles/myth_catalog.md)
+* [ابر بزرگ](../pdf/2019-Jeff_Cliff_Book1.txt) توسط [آقای جف کلیف](https://shitposter.club/users/jeffcliff)
   * به صورت زیر بارگیری کنید: PDF [اینجا](../pdf/2019-The_Great_Cloudwall.pdf) ، ePUB [اینجا](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * کتاب الکترونیکی اصلی (ePUB) به دلیل «نقض کپی رایت از مواد CC0» توسط «BookRix GmbH» حذف شد.
 * [نماد Padlock نشانگر اتصال SSL امن است که با MITM-ed تأسیس شده است](https://bugs.debian.org/cgi-bin/bugreport.cgi؟bug=831835) توسط ناشناس

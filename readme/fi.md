@@ -100,8 +100,8 @@ Tämä arkisto on luettelo verkkosivustoista, jotka ovat ”suuren pilvenpinnan�
 
 
 **Lisää tietoa**
-* [Myyttiluettelo](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) suuri [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myyttiluettelo](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) suuri [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Lataa muodossa: PDF [täällä](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [täällä](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * BookRix GmbH poisti alkuperäisen e-kirjan (ePUB) CC0-aineiston tekijänoikeusrikkomusten takia
 * [Lukko-kuvake osoittaa, että Anonyymi on luonut turvallisen SSL-yhteyden](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) suuri Anonymous
@@ -129,13 +129,13 @@ Tämä arkisto on luettelo verkkosivustoista, jotka ovat ”suuren pilvenpinnan�
 ## Mitä voit tehdä?
 </summary>
 
-* [Lue suositeltujen toimien luettelo ja jaa se ystävillesi.](../what-to-do.md)
+* [Lue suositeltujen toimien luettelo ja jaa se ystävillesi.](../ACTION.md)
 
 * [Lue toisen käyttäjän ääni ja kirjoita ajatuksesi.](../PEOPLE.md)
 
 * Etsi jotain [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) tai [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Päivitä verkkotunnusluettelo: [Lista ohjeet](../instructions.md).
+* Päivitä verkkotunnusluettelo: [Lista ohjeet](../INSTRUCTION.md).
 
 * Lisää Cloudflare tai projektiin liittyvä tapahtuma [historiaan](../HISTORY.md).
 

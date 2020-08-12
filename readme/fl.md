@@ -100,8 +100,8 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 
 
 **Karagdagang informasiyon**
-* [Myth Catalog](../myth_catalog.md)
-* [Ang Dakilang Cloudwall](../article.txt) ni [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md)
+* [Ang Dakilang Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) ni [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * I-download bilang: PDF [dito](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [dito](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ang orihinal na eBook (ePUB) ay tinanggal ng BookRix GmbH dahil sa paglabag sa copyright ng materyal na CC0
 * [Ang icon ng Padlock ay nagpapahiwatig ng isang ligtas na koneksyon sa SSL na itinatag w MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ni Anonymous
@@ -129,13 +129,13 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 ## Anong pwede mong gawin?
 </summary>
 
-* [Basahin ang aming listahan ng mga inirekumendang aksyon at ibahagi ito sa iyong mga kaibigan.](../what-to-do.md)
+* [Basahin ang aming listahan ng mga inirekumendang aksyon at ibahagi ito sa iyong mga kaibigan.](../ACTION.md)
 
 * [Basahin ang tinig ng ibang gumagamit at isulat ang iyong mga saloobin.](../PEOPLE.md)
 
 * Maghanap ng isang bagay sa [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) o [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* I-update ang listahan ng domain: [Listahan ng mga tagubilin](../instructions.md).
+* I-update ang listahan ng domain: [Listahan ng mga tagubilin](../INSTRUCTION.md).
 
 * Magdagdag ng Cloudflare o kaganapan na nauugnay sa proyekto sa [kasaysayan](../HISTORY.md).
 
