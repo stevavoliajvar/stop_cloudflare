@@ -100,8 +100,8 @@
 
 
 **مزید معلومات**
-* [متک کیٹلاگ](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [متک کیٹلاگ](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * یہاں بطور پی : PDF [i](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [i](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * اصل ای بک (ePUB) کو BookRix GmbH کے ذریعہ CC0 مواد کی کاپی رائٹ کی خلاف ورزی کی وجہ سے حذف کردیا گیا تھا
 * [پیڈلاک آئیکون ایک محفوظ ایس ایس ایل کنکشن کی نشاندہی کرتا ہے جو گمنام کے ذریعہ MITM](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
@@ -129,13 +129,13 @@
 ## تم کیا کر سکتے ہو؟
 </summary>
 
-* [ہماری تجویز کردہ کارروائیوں کی فہرست پڑھیں اور اسے اپنے دوستوں کے ساتھ شیئر کریں۔](../what-to-do.md)
+* [ہماری تجویز کردہ کارروائیوں کی فہرست پڑھیں اور اسے اپنے دوستوں کے ساتھ شیئر کریں۔](../ACTION.md)
 
 * [دوسرے صارف کی آواز پڑھیں اور اپنے خیالات لکھیں۔](../PEOPLE.md)
 
 * نیسرو (کلیرنسٹ) [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/))  تلاش [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [ڈومین لسٹ کو اپ ڈیٹ کریں: ہدایات کی فہرست بنائیں۔](../instructions.md)
+* [ڈومین لسٹ کو اپ ڈیٹ کریں: ہدایات کی فہرست بنائیں۔](../INSTRUCTION.md)
 
 * [کلاؤڈ فلایر یا پروجیکٹ سے متعلق ایونٹ کو تاریخ میں شامل کریں۔](../HISTORY.md)
 

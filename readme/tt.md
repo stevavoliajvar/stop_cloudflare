@@ -100,8 +100,8 @@
 
 
 ** Күбрәк мәгълүмат **
-* [Миф каталогы](../myth_catalog.md)
-* [Зур Cloudwall](../article.txt) [әфәнде. Джефф Клифф](https://shitposter.club/users/jeffcliff)
+* [Миф каталогы](../subfiles/myth_catalog.md)
+* [Зур Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) [әфәнде. Джефф Клифф](https://shitposter.club/users/jeffcliff)
   * Күчереп алу: PDF [монда](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [монда](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Оригиналь электрон китап (ePUB) BookRix GmbH тарафыннан CC0 материалының авторлык хокукларын бозуы аркасында бетерелде.
 * [Падлок иконасы w MITM-ed урнаштырылган куркынычсыз SSL тоташуын күрсәтә](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) Аноним
@@ -129,7 +129,7 @@
 ## Сез нәрсә эшли аласыз?
 </summary>
 
-* [Тәкъдим ителгән чаралар исемлеген укыгыз һәм дусларыгыз белән бүлешегез](../what-to-do.md)
+* [Тәкъдим ителгән чаралар исемлеген укыгыз һәм дусларыгыз белән бүлешегез](../ACTION.md)
 
 * [Башка кулланучының тавышын укыгыз һәм фикерләрегезне языгыз](../PEOPLE.md)
 
