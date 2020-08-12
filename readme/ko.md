@@ -100,8 +100,8 @@
 
 
 **추가 정보**
-* [신화 카탈로그](../myth_catalog.md)
-* [만리장성](../article.txt) 의 [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [신화 카탈로그](../subfiles/myth_catalog.md)
+* [만리장성](../pdf/2019-Jeff_Cliff_Book1.txt) 의 [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * 다른 이름으로 다운로드: PDF [여기](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [여기](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * CC0 자료의 저작권 침해로 인해 BookRix GmbH에서 원본 eBook (ePUB)을 삭제했습니다.
 * [자물쇠 아이콘은 익명에 의해 MITM로 설정된 보안 SSL 연결을 나타냅니다](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) 의 Anonymous
@@ -129,13 +129,13 @@
 ## 당신은 무엇을 할 수 있나요?
 </summary>
 
-* [권장 조치 목록을 읽고 친구들과 공유하십시오](../what-to-do.md)
+* [권장 조치 목록을 읽고 친구들과 공유하십시오](../ACTION.md)
 
 * [다른 사용자의 목소리를 읽고 생각을 쓰십시오](../PEOPLE.md)
 
 * [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) 또는 [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))에서 무언가를 검색하십시오.
 
-* 도메인 목록 업데이트: [지침을 나열하십시오](../instructions.md).
+* 도메인 목록 업데이트: [지침을 나열하십시오](../INSTRUCTION.md).
 
 * [Cloudflare 또는 프로젝트 관련 이벤트를 히스토리에 추가하십시오](../HISTORY.md).
 

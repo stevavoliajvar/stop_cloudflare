@@ -100,7 +100,7 @@
 
 
 **ព័ត៌មាន​បន្ថែម**
-* [កាតាឡុកទេវកថា](../myth_catalog.md)
+* [កាតាឡុកទេវកថា](../subfiles/myth_catalog.md)
 * [The Great Cloudwall](អត្ថបទ.txt) ដោយ [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ទាញយកជា: PDF [នៅទីនេះ](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [នៅទីនេះ](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * សៀវភៅអេឡិចត្រូនិចដើម (ePUB) ត្រូវបានលុបចោលដោយ BookRix GmbH ដោយសារការបំពានច្បាប់រក្សាសិទ្ធិលើសម្ភារៈស៊ី .០ ។
@@ -129,13 +129,13 @@
 ## តើ​អ្នក​អាច​ធ្វើអ្វី​បាន?
 </summar>
 
-* [អានបញ្ជីសកម្មភាពដែលបានណែនាំរបស់យើងហើយចែករំលែកវាជាមួយមិត្តភក្តិរបស់អ្នក](../what-to-do.md)
+* [អានបញ្ជីសកម្មភាពដែលបានណែនាំរបស់យើងហើយចែករំលែកវាជាមួយមិត្តភក្តិរបស់អ្នក](../ACTION.md)
 
 * [អានសំលេងអ្នកដទៃនិងសរសេរគំនិតរបស់អ្នក](../PEOPLE.md)
 
 * ស្វែងរកអ្វីមួយនៅលើ [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) ឬ [Crimeflare \ #Search](https://Crimeflare) ។ wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)) ។
 
-* [ធ្វើបច្ចុប្បន្នភាពបញ្ជីឈ្មោះដែន៖ បញ្ជីសេចក្តីណែនាំ](../instructions.md) ។
+* [ធ្វើបច្ចុប្បន្នភាពបញ្ជីឈ្មោះដែន៖ បញ្ជីសេចក្តីណែនាំ](../INSTRUCTION.md) ។
 
 * [បន្ថែម Cloudflare ឬព្រឹត្តិការណ៍ដែលទាក់ទងនឹងគម្រោងទៅប្រវត្តិសាស្រ្ត](../HISTORY.md) ។
 
