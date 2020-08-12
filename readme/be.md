@@ -99,8 +99,8 @@
 
 
 ** Дадатковая інфармацыя **
-* [Каталог міфаў](../myth_catalog.md) 
-* [The Great Cloudwall](../article.txt) by [Mr. Джэф Кліф](https://shitposter.club/users/jeffcliff)
+* [Каталог міфаў](../subfiles/myth_catalog.md) 
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) by [Mr. Джэф Кліф](https://shitposter.club/users/jeffcliff)
   * Спампаваць у выглядзе: PDF [тут](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [тут](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Арыгінальную электронную кнігу (ePUB) выдаліла кампанія "BookRix GmbH" з-за "парушэння аўтарскага права на матэрыял CC0"
 * [Значок замка паказвае на бяспечнае злучэнне SSL, усталяванае w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) ад Anonymous
@@ -128,13 +128,13 @@
 ## Што вы зробіце?
 </summary>
 
-* Прачытайце [наш спіс рэкамендаваных дзеянняў](../what-to-do.md) і падзяліцеся ім з сябрамі.
+* Прачытайце [наш спіс рэкамендаваных дзеянняў](../ACTION.md) і падзяліцеся ім з сябрамі.
 
 * Прачытайце [голас іншага карыстальніка](../PEOPLE.md) і запішыце свае думкі.
 
 * Пошук нешта на [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([Clearnet](https://ansero.eu.org/)) або [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Абнавіць спіс даменаў: [Спіс інструкцый](../instructions.md).
+* Абнавіць спіс даменаў: [Спіс інструкцый](../INSTRUCTION.md).
 
 * Дадайце Cloudflare альбо падзею, звязаную з праектам, у [Гісторыя](../HISTORY.md).
 
