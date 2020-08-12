@@ -100,7 +100,7 @@
 
 
 **Vairāk informācijas**
-* [Mītu katalogs](../myth_catalog.md)
+* [Mītu katalogs](../subfiles/myth_catalog.md)
 * [Lielais mākoņstūris](raksts.txt), autoru [Mr. Džefs Klifs](https://shitposter.club/users/jeffcliff)
   * Lejupielādēt kā: PDF [šeit](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [šeit](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Oriģinālo e-grāmatu (ePUB) izdzēsa BookRix GmbH, jo tika pārkāptas autortiesības uz CC0 materiāliem
@@ -129,7 +129,7 @@
 ## Ko tu vari izdarīt?
 </summary>
 
-* [Izlasiet mūsu ieteikto darbību sarakstu un dalieties tajā ar draugiem](../what-to-do.md)
+* [Izlasiet mūsu ieteikto darbību sarakstu un dalieties tajā ar draugiem](../ACTION.md)
 
 * [Lasiet cita lietotāja balsi un uzrakstiet savas domas](../PEOPLE.md)
 
