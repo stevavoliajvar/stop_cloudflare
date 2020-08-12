@@ -100,8 +100,8 @@
 
 
 **更多信息**
-* [神话目录](../myth_catalog.md)
-* [杰夫·克利夫先生的 大云壁](../article.txt) , [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [神话目录](../subfiles/myth_catalog.md)
+* [杰夫·克利夫先生的 大云壁](../pdf/2019-Jeff_Cliff_Book1.txt) , [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * 下载: PDF [此处为](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [此处为](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * 由于侵犯CC0材料的版权，BookRix GmbH删除了原始电子书（ePUB）
 * [挂锁图标表示由MITM建立的安全SSL连接](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) , Anonymous
@@ -129,13 +129,13 @@
 ## 你能做什么？
 </summary>
 
-* 阅读我们的[建议措施清单](../what-to-do.md)，并与您的朋友分享。
+* 阅读我们的[建议措施清单](../ACTION.md)，并与您的朋友分享。
 
 * 阅读其[他用户的声音](../PEOPLE.md)并写下您的想法。
 
 * 在[Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/))或[Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))上搜索内容。
 
-* 更新域列表: [列表说明](../instructions.md).
+* 更新域列表: [列表说明](../INSTRUCTION.md).
 
 * 将Cloudflare或与项目相关的事件添加到[历史记录](../HISTORY.md)。
 

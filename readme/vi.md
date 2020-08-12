@@ -100,8 +100,8 @@ Kho lưu trữ này là một danh sách các trang web đứng sau mạng "The 
 
 
 **Thêm thông tin**
-* [Myth Catalog](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) của [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Myth Catalog](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) của [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Tải xuống dưới dạng: PDF [tại đây](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [tại đây](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Sách điện tử ban đầu (ePUB) đã bị BookRix GmbH xóa do vi phạm bản quyền của tài liệu Muff
 * [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) của Anonymous
@@ -129,13 +129,13 @@ Kho lưu trữ này là một danh sách các trang web đứng sau mạng "The 
 ## Bạn có thể làm gì?
 </summary>
 
-* [Đọc danh sách các hành động được đề xuất của chúng tôi và chia sẻ nó với bạn bè của bạn](../what-to-do.md)
+* [Đọc danh sách các hành động được đề xuất của chúng tôi và chia sẻ nó với bạn bè của bạn](../ACTION.md)
 
 * [Đọc giọng nói của người dùng khác và viết suy nghĩ của bạn](../PEOPLE.md)
 
 * Tìm kiếm thứ gì đó trên [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) hoặc [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* Cập nhật danh sách tên miền: [Danh sách hướng dẫn](../instructions.md).
+* Cập nhật danh sách tên miền: [Danh sách hướng dẫn](../INSTRUCTION.md).
 
 * Thêm Cloudflare hoặc sự kiện liên quan đến dự [án vào lịch sử](../HISTORY.md).
 
