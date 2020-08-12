@@ -100,7 +100,7 @@
 
 
 **Daugiau informacijos**
-* [Mitų katalogas](../myth_catalog.md)
+* [Mitų katalogas](../subfiles/myth_catalog.md)
 * [Didysis debesų siena](straipsnis.txt) pateikė [p. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Atsisiųsti kaip: PDF [čia](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [čia](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Originalią „eBook“ (ePUB) ištrynė „BookRix GmbH“ dėl autorių teisių pažeidimų CC0 medžiagoje
@@ -129,7 +129,7 @@
 ## Ką tu gali padaryti?
 </summary>
 
-* [Perskaitykite mūsų rekomenduojamų veiksmų sąrašą ir pasidalykite juo su draugais](../what-to-do.md)
+* [Perskaitykite mūsų rekomenduojamų veiksmų sąrašą ir pasidalykite juo su draugais](../ACTION.md)
 
 * [Perskaitykite kito vartotojo balsą ir užrašykite savo mintis](../PEOPLE.md)
 

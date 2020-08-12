@@ -100,7 +100,7 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "_The Great Cloudwa
 
 
 ** Méi Informatioun **
-* [Mythskatalog](../myth_catalog.md)
+* [Mythskatalog](../subfiles/myth_catalog.md)
 * [The Great Cloudwall](artikel.txt) vum [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Eroflueden als: PDF [hei](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [hei](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * D'Original eBook (ePUB) gouf vu BookRix GmbH geläscht wéinst Copyrightverletzung vu CC0 Material
@@ -129,13 +129,13 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "_The Great Cloudwa
 ## Wat kënnt Dir maachen?
 </summary>
 
-* [Liest eis Lëscht vun empfohlenen Aktiounen an deelt se mat Äre Frënn](../what-to-do.md)
+* [Liest eis Lëscht vun empfohlenen Aktiounen an deelt se mat Äre Frënn](../ACTION.md)
 
 * [Liest en anere Benotzer seng Stëmm a schreift Är Gedanken](../PEOPLE.md)
 
 * Sich eppes op [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) oder [Crimeflare \ #Search](https://crimeflare. wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
 
-* [Update d'Domain Lëscht: Lëscht Instruktiounen](../instructions.md).
+* [Update d'Domain Lëscht: Lëscht Instruktiounen](../INSTRUCTION.md).
 
 * [Fügt Cloudflare oder Projetsbezunnend Event zur Geschicht](../HISTORY.md).
 
