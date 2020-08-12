@@ -100,8 +100,8 @@ Is e an ath-reic seo liosta de làraich-lìn a tha air cùl "_The Great Cloudwal
 
 
 ** Barrachd fiosrachaidh **
-* [Catalog Myth](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) le [Mgr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Catalog Myth](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) le [Mgr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Luchdaich sìos mar: PDF [an seo](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [an seo](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Chaidh an eBook tùsail (ePUB) a dhubhadh às le BookRix GmbH mar thoradh air briseadh dlighe-sgrìobhaidh air stuth CC0
 * [Tha ìomhaigh Padlock a ’nochdadh ceangal SSL tèarainte a chaidh a stèidheachadh w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) le Anonymous
@@ -129,7 +129,7 @@ Is e an ath-reic seo liosta de làraich-lìn a tha air cùl "_The Great Cloudwal
 ## Dè as urrainn dhut a dhèanamh?
 </summary>
 
-* Leugh [an liosta againn de na gnìomhan a thathar a ’moladh](../what-to-do.md) agus roinn e le do charaidean.
+* Leugh [an liosta againn de na gnìomhan a thathar a ’moladh](../ACTION.md) agus roinn e le do charaidean.
 
 * Leugh [guth cleachdaiche eile](../PEOPLE.md) agus sgrìobh do bheachdan.
 

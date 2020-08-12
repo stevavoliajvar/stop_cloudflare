@@ -100,7 +100,7 @@ Este repositorio é unha lista de sitios web que están detrás de "_O Gran Clou
 
 
 **Máis información**
-* [Catálogo de mito](../myth_catalog.md)
+* [Catálogo de mito](../subfiles/myth_catalog.md)
 * [The Great Cloudwall](artigo.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Descarga como: PDF [aquí](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [aquí](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * BookRix GmbH eliminou o eBook orixinal (ePUB) debido a unha violación de copyright de material CC0
@@ -129,7 +129,7 @@ Este repositorio é unha lista de sitios web que están detrás de "_O Gran Clou
 ## Que podes facer?
 </summary>
 
-* Lea [a nosa lista de accións recomendadas](../what-to-do.md) e compárteo cos teus amigos.
+* Lea [a nosa lista de accións recomendadas](../ACTION.md) e compárteo cos teus amigos.
 
 * Lea [a voz do outro usuario](../PEOPLE.md) e escribe os teus pensamentos.
 

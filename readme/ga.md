@@ -100,8 +100,8 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de “_The
 
 
 **Tuilleadh eolais**
-* [Catalóg Miotas](../myth_catalog.md)
-* [The Great Cloudwall](../article.txt) le [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+* [Catalóg Miotas](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) le [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Íoslódáil mar: PDF [anseo](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [anseo](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Scrios BookRix GmbH an bunleabhar (ePUB) mar gheall ar shárú cóipchirt ar ábhar CC0
 * [Léiríonn deilbhín Padlock nasc slán SSL arna bhunú w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) le Gan ainm
@@ -129,7 +129,7 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de “_The
 ## Cad is féidir leat a dhéanamh?
 </summary>
 
-* Léigh [ár liosta de ghníomhartha molta](../what-to-do.md) agus déan é a roinnt le do chairde.
+* Léigh [ár liosta de ghníomhartha molta](../ACTION.md) agus déan é a roinnt le do chairde.
 
 * Léigh [guth úsáideora eile](../PEOPLE.md) agus scríobh do chuid smaointe.
 
