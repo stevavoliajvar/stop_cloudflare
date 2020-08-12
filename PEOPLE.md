@@ -1,8 +1,8 @@
 # "Cloudflare, we have a problem"
 
 
-- This is a list of voices. If you want to add your blog feel free to do so.
-- Disclaimer: This **does not** mean we endorse you.
+- This is a list of voices. Thank you for sharing your opinion.
+  - Disclaimer: This _does not_ mean we endorse you.
 
 | 🖼 | 🖼 |
 | --- | --- |
@@ -261,6 +261,10 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ## Forum / Wiki
 </summary>
 
+
+"[The problem with CloudFlare (part 1 of 2: detriment to privacy, netneutrality, s/w freedom, & human rights)](https://neoreddit.horobets.me/post/43)"
+
+"[The problem with CloudFlare (part 2 of 2: detriment to security, environment, democracy, and free expression)](https://neoreddit.horobets.me/post/44)"
 
 "[Hcaptcha In IRAN](https://community.cloudflare.com/t/hcaptcha-in-iran/166585)"
 
