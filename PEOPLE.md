@@ -707,6 +707,25 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"I keep answering 's CAPTCHA and it just asks me all over again. This is a scam. Do let bully you into using the CAPTCHA tool. This is soooo frustrating." ([muni_encinitas](https://twitter.com/muni_encinitas/status/1294452859522576386))
+
+"love the early days of cloudflare getting popular when random static content would be captcha-walled" ([puffyvolvo](https://twitter.com/puffyvolvo/status/1293340470635114504))
+
+"cloudflare really annoying lately with a lot of servers requesting captcha checks constantly" ([jokalido](https://twitter.com/jokalido/status/1292976406532698114))
+
+"just stopped working. Tried to check the server status and it came with "Error 1016 Cloudflare is currently unable to resolve your requested domain"" ([xemerald_gamerx](https://twitter.com/xEmerald_Gamerx/status/1295478422966280193))
+
+"Oh yeah forget it, cloudflare is being attacked I guess... I got a bad gateway error. Funny thing is I was receiving ghost messages and calls xDDDDD" ([mean_soldier](https://twitter.com/Mean_Soldier/status/1295415829748621312))
+
+"Yoo can't access the site. What's going on? Error: Gateway time-out Cloudflare Location: Gothenburg Error ref: 504" ([fredrikjamesk](https://twitter.com/FredrikJamesK/status/1295116141132750849))
+
+"I am able to access your website with VPN. But otherwise, I am getting host error from cloudflare. I am in India." ([agnelvishal](https://twitter.com/agnelvishal/status/1293982889256738816))
+
+"When attempting to read messages from the API, I am receiving error code 1020? Google yields no results, outside of Cloudflare saying 1020 is Access Denied?" ([thepackle](https://twitter.com/ThePackle/status/1293727554088710149))
+
+"Bitdefender Central also does not work. It either shows a cloudflare error message or gets stuck and then returns you to the beginning of the login process AFTER you already logged in. I hope you guys did not get hacked." ([erjlem](https://twitter.com/erjlem/status/1293501465026334721))
+
+
 "My Patreon page is being weird because it throws up this questionable looking cloudflare captcha every time I click on something." ([elle_astrid](https://twitter.com/elle_astrid/status/1295423965909807106))
 
 
