@@ -707,6 +707,13 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"If Cloudflare truly believes in free speech, why am I blocked by all of their corporate accounts? Why do they censor comments on their blog by their critics? Why do they attempt to censor reviews on third party sites? Free speech when it serves them or is convenient. Anyway..." ([phyzonloop](https://twitter.com/phyzonloop/status/1294431505268248576))
+
+"This cloudflare captcha crap on Patreon when I’m posting an update is ticking me off. It says to prevent it make sure your computer is virus free. Mine is & it still gives me the captcha every time. I think it’s a ploy to DL a browser extension." ([karlkleese](https://twitter.com/KarlKleese/status/1294460722341191680))
+
+"Great! Pls, get rid of cloudflare. Every hour captcha hell, no vpn or any proxy." ([aleonidovitch](https://twitter.com/ALeonidovitch/status/1294319107303768064))
+
+
 "captchas makes it so I can't visit some sites now. Verify I am human but it doesn't refresh / forward to the site I'm visiting as expected. Manual refresh brings captcha again, often with none of what they are asking you to click on. Refresh on some sites work" ([matrixglitch1](https://twitter.com/MatrixGlitch1/status/1290753303765286913))
 
 "Question why do I always have to click umbrellas on cloudflare but Shopify hasn’t made captcha a standard in there api -- ?" ([la3life](https://twitter.com/La3Life/status/1290264301458976770))
@@ -3152,6 +3159,9 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"the lulu.com link is a bad one to plug because it's a CloudFlare site. Visiting the InternetArchive of it is also useless in this case because it's just a blank page:" ([resist1984](https://social.privacytools.io/@resist1984/104689562910400950))
 
 
 "i think it's key to know your audience. If the audience cares about corporations controlling ppl's lives, then stress the control-freakish aspects of CloudFlare like loss of netneutrality. If the audience is fine with corporate control, then stress CloudFlare's incompetence & stress the security detriment of having a single global centralized point of failure." ([batalanto](https://todon.nl/@batalanto/104660140613165269))
