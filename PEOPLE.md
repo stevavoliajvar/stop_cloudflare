@@ -707,6 +707,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"My Patreon page is being weird because it throws up this questionable looking cloudflare captcha every time I click on something." ([elle_astrid](https://twitter.com/elle_astrid/status/1295423965909807106))
+
+
 "If Cloudflare truly believes in free speech, why am I blocked by all of their corporate accounts? Why do they censor comments on their blog by their critics? Why do they attempt to censor reviews on third party sites? Free speech when it serves them or is convenient. Anyway..." ([phyzonloop](https://twitter.com/phyzonloop/status/1294431505268248576))
 
 "This cloudflare captcha crap on Patreon when I’m posting an update is ticking me off. It says to prevent it make sure your computer is virus free. Mine is & it still gives me the captcha every time. I think it’s a ploy to DL a browser extension." ([karlkleese](https://twitter.com/KarlKleese/status/1294460722341191680))
