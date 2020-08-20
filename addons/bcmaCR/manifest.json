@@ -1,1 +1,48 @@
-.
+{
+   "manifest_version": 2,
+   "name": "Bloku Cloudflaron MITM-Atakon",
+   "version": "1.0.4.3",
+   "minimum_chrome_version": "68",
+   "homepage_url": "https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/",
+   "author": "Crimeflare",
+   "incognito": "split",
+   "permissions": [
+      "<all_urls>",
+      "activeTab",
+      "tabs",
+      "webRequest",
+      "webRequestBlocking",
+      "webNavigation",
+      "notifications",
+      "storage",
+      "unlimitedStorage"
+   ],
+   "icons": {
+      "72": "icons/72.png"
+   },
+   "background": {
+      "scripts": [
+         "cf.js"
+      ]
+   },
+   "options_ui": {
+      "page": "cg.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "32": "icons/cf_0.png"
+      }
+   },
+   "content_scripts": [
+      {
+         "matches": [
+            "http://*/*",
+            "https://*/*"
+         ],
+         "js": [
+            "cs.js"
+         ],
+         "run_at": "document_end"
+      }
+   ]
+}
