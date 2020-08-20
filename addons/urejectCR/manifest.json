@@ -1,1 +1,31 @@
-.
+{
+   "manifest_version": 2,
+   "name": "Kiu retejo malakceptis min?",
+   "version": "1.0.3",
+   "minimum_chrome_version": "60",
+   "homepage_url": "https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/",
+   "author": "Crimeflare",
+   "incognito": "split",
+   "permissions": [
+      "webRequest",
+      "<all_urls>"
+   ],
+   "icons": {
+      "72": "icons/72.png"
+   },
+   "background": {
+      "scripts": [
+         "bg.js"
+      ]
+   },
+   "options_ui": {
+      "open_in_tab": true,
+      "chrome_style": false,
+      "page": "log.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "72": "icons/72.png"
+      }
+   }
+}
