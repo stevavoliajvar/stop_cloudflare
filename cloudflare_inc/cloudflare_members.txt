@@ -441,7 +441,7 @@ Geoffrey Plouviez | Systems Engineer
 George Henry | Infrastructure Engineer
 George Robinson | Employee
 George Sun | Employee
-George Tankersley | Employee | https://twitter.com/gtank__ https://blog.gtank.cc/  george.tankersley@cloudflare.com
+George Tankersley | Employee | https://twitter.com/gtank__ https://blog.gtank.cc/  george.tankersley@cloudflare.com (gtank@cloudflare.com)
 Georgie Yoxall | Employee
 Gergely Bod | Systems Engineer
 Gerhard Esterhuizen | Engineering Manager
