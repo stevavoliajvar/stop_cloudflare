@@ -278,6 +278,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 "[The problem with CloudFlare (part 2 of 2: detriment to security, environment, democracy, and free expression)](https://neoreddit.horobets.me/post/44)"
 
+"[Cloudflare Captcha Shit!](https://forum.tuts4you.com/topic/42026-cloudflare-captcha-shit/)"
+
 "[Hcaptcha In IRAN](https://community.cloudflare.com/t/hcaptcha-in-iran/166585)"
 
 "[No IPv6 on hcaptcha](https://community.cloudflare.com/t/no-ipv6-on-hcaptcha/169108)"
@@ -334,6 +336,10 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 "[Can we stop using Cloudflare?](https://www.reddit.com/r/BitChute/comments/cmgmur/can_we_stop_using_cloudflare/)"
 
+"[Crowd Sourced Protest Of Cloudflare](https://lists.torproject.org/pipermail/tor-talk/2016-March/040705.html)"
+
+"[Crowd Sourced Protest Of Cloudflare](https://www.reddit.com/r/TOR/comments/4cdx30/crowd_sourced_protest_of_cloudflare/)"
+
 "[US Bank website is not in Cloudflare DNS](https://www.reddit.com/r/CloudFlare/comments/gmfm4i/us_bank_website_is_not_in_cloudflare_dns/)"
 
 "[Aliexpress not working with 1.1.1.1](https://community.cloudflare.com/t/aliexpress-not-working-with-1-1-1-1/167491)"
@@ -379,6 +385,12 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 "[Cloudeflare Captcha](https://forum.palemoon.org/viewtopic.php?f=37&t=22321&p=169114)" by [zdmv09rzbtklezd8d](https://forum.palemoon.org/memberlist.php?mode=viewprofile&u=19075)
 
 "[Secure Connection Failed](https://forum.palemoon.org/viewtopic.php?f=44&t=20845&p=155973)" by [Tomaso](https://forum.palemoon.org/memberlist.php?mode=viewprofile&u=9778)
+
+"[12.7 percent of the domains I visit are intercepted by CloudFlare](https://www.mail-archive.com/tor-talk@lists.torproject.org/msg21066.html)"
+
+"[cloudflare blocks connection](https://www.mail-archive.com/tor-talk@lists.torproject.org/msg20740.html)"
+
+"[Cloudflare reCAPTCHA De-anonymizes Tor Users](https://www.mail-archive.com/tor-talk@lists.torproject.org/msg22062.html)"
 
 "[That's not how the web works, sorry. Cheers](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=941394)"
 
