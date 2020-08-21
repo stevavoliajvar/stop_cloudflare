@@ -719,6 +719,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"I'm not sure what is going on but it seems like every site that i visit that uses your services keeps forcing a 'are you human' check.  That makes me close the tab and not even bother.  Is it a browser setting causing this ? or are all cloudflare this paranoid?" ([csgeek](https://twitter.com/csgeek/status/1295141878942167040))
+
 "I keep answering 's CAPTCHA and it just asks me all over again. This is a scam. Do let bully you into using the CAPTCHA tool. This is soooo frustrating." ([muni_encinitas](https://twitter.com/muni_encinitas/status/1294452859522576386))
 
 "love the early days of cloudflare getting popular when random static content would be captcha-walled" ([puffyvolvo](https://twitter.com/puffyvolvo/status/1293340470635114504))
@@ -737,16 +739,13 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 "Bitdefender Central also does not work. It either shows a cloudflare error message or gets stuck and then returns you to the beginning of the login process AFTER you already logged in. I hope you guys did not get hacked." ([erjlem](https://twitter.com/erjlem/status/1293501465026334721))
 
-
 "My Patreon page is being weird because it throws up this questionable looking cloudflare captcha every time I click on something." ([elle_astrid](https://twitter.com/elle_astrid/status/1295423965909807106))
-
 
 "If Cloudflare truly believes in free speech, why am I blocked by all of their corporate accounts? Why do they censor comments on their blog by their critics? Why do they attempt to censor reviews on third party sites? Free speech when it serves them or is convenient. Anyway..." ([phyzonloop](https://twitter.com/phyzonloop/status/1294431505268248576))
 
 "This cloudflare captcha crap on Patreon when I’m posting an update is ticking me off. It says to prevent it make sure your computer is virus free. Mine is & it still gives me the captcha every time. I think it’s a ploy to DL a browser extension." ([karlkleese](https://twitter.com/KarlKleese/status/1294460722341191680))
 
 "Great! Pls, get rid of cloudflare. Every hour captcha hell, no vpn or any proxy." ([aleonidovitch](https://twitter.com/ALeonidovitch/status/1294319107303768064))
-
 
 "captchas makes it so I can't visit some sites now. Verify I am human but it doesn't refresh / forward to the site I'm visiting as expected. Manual refresh brings captcha again, often with none of what they are asking you to click on. Refresh on some sites work" ([matrixglitch1](https://twitter.com/MatrixGlitch1/status/1290753303765286913))
 
@@ -759,7 +758,6 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 "What is going on with the store today? Isn't the whole point of the queue system that the servers don't get stressed to the point of not working? I've been trying to check out for almost 40 minutes now, and I keep getting Cloudflare error 524, which is sever-side. 😑" ([aquartistjames](https://twitter.com/AquartistJames/status/1290674717687533570))
 
 "FYI, for some obscure reason, from different italian ISPs I get the cloudflare timeout error. With foreign proxy or vpn is all working fine." ([georgethemarmot](https://twitter.com/georgethemarmot/status/1290576481073102853))
-
 
 "cloudflare c'est inutile, les offres gratuite ne font rien a part rajouter un MITM et centraliser tout, et vu que ca tombe souvent en panne cest bien pire" ([ramleseam](https://twitter.com/RamleSeam/status/1287377715008622592))
 
@@ -3197,7 +3195,6 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 "the lulu.com link is a bad one to plug because it's a CloudFlare site. Visiting the InternetArchive of it is also useless in this case because it's just a blank page:" ([resist1984](https://social.privacytools.io/@resist1984/104689562910400950))
 
-
 "i think it's key to know your audience. If the audience cares about corporations controlling ppl's lives, then stress the control-freakish aspects of CloudFlare like loss of netneutrality. If the audience is fine with corporate control, then stress CloudFlare's incompetence & stress the security detriment of having a single global centralized point of failure." ([batalanto](https://todon.nl/@batalanto/104660140613165269))
 
 "Your premise that corporate-run svcs are equal is quite far from what I find. "Open access" is central to P2Pf's advocacy. CloudFlare is the single most destructive force to open access. Consider Amazon, for example. As evil as it is, AWS does not attack open access. CF does. So to paint all corporations the same through the lense of P2Pf's values is to cloud the problem." ([batalanto](https://todon.nl/@batalanto/104659761329232101))
@@ -3208,13 +3205,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 "gitlab.com used to be a nice place. But it feels really hostile these days. If you attempt to preserve a tiny bit of privacy by using Tor, they won't even let you take a look at public projects. Instead they'll harass you with CloudFlare captcha which is requiring JavaScript and trying to force users to build ML training data. (btw. it still works to fight hcaptcha by giving partially wrong answers)" ([uniq](https://chaos.social/@uniq/104652792387203024))
 
-
 "ACM has been denying open public access to scientific papers anyway. Tor users are blocked because ACM has jailed their host in CloudFlare's walled garden: The ACM site is also set to give a 302 error to the InternetArchive waybackMachine. Bit embarrassing for ACM to fail at such a simple task." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104615397495442862))
 
 "that article about privacy happens to be a privacy abusing CloudFlare site. And if you try to circumvent CF by going to it's a 404 error." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104614750310878050))
 
 "Kodi has several ethical problems. Apart from using Github, Kodi.tv is a CloudFlare site, littered with Twitter, Facebook, Google, etc. And they ask for donations using Paypal, Patreon, & Liberapay." ([resist1984](https://social.privacytools.io/@resist1984/104610670459183815))
-
 
 "villages.io & freedomsponsors.org avoid CloudFlare (and thus avoid the gamble of giving CF your personal & financial info), but they're a bit different. is an unvetted list of crowdfunding services (research needed)" ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104581662343812911))
 
@@ -3225,7 +3220,6 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 "CloudFlare is the single biggest attack on the decentralized web. They could not possibly do enough w/IPFS to undo the collossal harm of centralizing over 10% of the web then abusing that power by dictating how people access the web." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104564090918792327))
 
 "well news.inditoot.com is a CloudFlare site so I have to nix that. dev.lemmy & feddit are censorship nazis, gix.uk is dead, inditoot is CF'd.. what else is there?" ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104551800036372692))
-
 
 "Well what a joke matrix.org and riot.im (now element.io) came to be. They run behind cloudflare and that sucks. I don't even know why I joined those suspicious services. I think its time to leave." [NerdRat](https://mastodon.technology/@NerdRat/104549568307044487)
 
