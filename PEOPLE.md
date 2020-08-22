@@ -149,6 +149,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+"[Turns out half the internet has a Single-Point-of-Failure called “Cloudflare”](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)"
+
 "[Cloudflare and why it's bad](https://ella.wantscuddl.es/b/cloudflare)"
 
 "[Vous vous souvenez de l'époque où DARPA avait conçu internet de manière à ce qu'il continue de fonctionner même quand un noeud du réseau est tombé ?](https://sebsauvage.net/links/?GSB_Fg)"
@@ -262,17 +264,19 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
-[Cloudlfare issues?](https://reddit.com/r/CloudFlare/comments/i852xd/cloudlfare_issues/)
+"[How do I restore company's faith in Cloudflare?](https://www.reddit.com/r/sysadmin/comments/htg5p5/how_do_i_restore_companys_faith_in_cloudflare/)"
 
-[Anyone else's game just dis connect?](https://reddit.com/r/VALORANT/comments/i850x5/anyone_elses_game_just_dis_connect/g16aqap/)
+"[Cloudlfare issues?](https://reddit.com/r/CloudFlare/comments/i852xd/cloudlfare_issues/)"
 
-[Help! Cloudflare blocking access to every website, probably malware](https://reddit.com/r/techsupport/comments/i80my6/help_cloudflare_blocking_access_to_every_website/)
+"[Anyone else's game just dis connect?](https://reddit.com/r/VALORANT/comments/i850x5/anyone_elses_game_just_dis_connect/g16aqap/)"
 
-[Access denied by Cloudflare when using TOR, why?](https://reddit.com/r/TOR/comments/i2ubsj/access_denied_by_cloudflare_when_using_tor_why/)
+"[Help! Cloudflare blocking access to every website, probably malware](https://reddit.com/r/techsupport/comments/i80my6/help_cloudflare_blocking_access_to_every_website/)"
 
-[Private Windows with Tor showing excessive CAPTCHAs](https://reddit.com/r/brave_browser/comments/hnrv91/private_windows_with_tor_showing_excessive/)
+"[Access denied by Cloudflare when using TOR, why?](https://reddit.com/r/TOR/comments/i2ubsj/access_denied_by_cloudflare_when_using_tor_why/)"
 
-[i always get redirected to Cloudflare Captcha](https://reddit.com/r/TOR/comments/hhd9kk/some_problems_with_tor/)
+"[Private Windows with Tor showing excessive CAPTCHAs](https://reddit.com/r/brave_browser/comments/hnrv91/private_windows_with_tor_showing_excessive/)"
+
+"[i always get redirected to Cloudflare Captcha](https://reddit.com/r/TOR/comments/hhd9kk/some_problems_with_tor/)"
 
 "[The problem with CloudFlare (part 1 of 2: detriment to privacy, netneutrality, s/w freedom, & human rights)](https://neoreddit.horobets.me/post/43)"
 
@@ -399,6 +403,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 "[...Cloudflare DOES TLS termination, directly having access to all the data in clear.](https://www.reddit.com/r/privacy/comments/ckwlem/cloudflare_does_tls_termination_directly_having/)" by [JustCondition4](https://www.reddit.com/user/JustCondition4/)
 
 "[What makes CloudFlare bad?](https://www.reddit.com/r/privacy/comments/cki0s5/what_makes_cloudflare_bad/)" by [Spadey0](https://www.reddit.com/user/Spadey0/)
+
+"[Why am I being asked to fill out a captcha to view a webpage?](https://www.privateinternetaccess.com/forum/discussion/8554/why-am-i-being-asked-to-fill-out-a-captcha-to-view-a-webpage)"
 
 "[Cloudflare](https://mlpol.net/mlpol/res/241062.html)" by Anonymous
 
