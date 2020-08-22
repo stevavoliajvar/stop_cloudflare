@@ -1,7 +1,8 @@
 # What you can do to resist Cloudflare?
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/matthew_prince.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/blockedbymatthewprince.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/matthew_prince.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -142,7 +143,9 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 - Do not use Cloudflare solution, Period.
   - You can do better than that, *right*? Here's how to [remove Cloudflare subscriptions, plans, domains, or accounts](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts).
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/htmlalertcloudflare.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/htmlalertcloudflare.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/htmlalertcloudflare2.jpg) |
 
 - Want more customers? You know what to do. Hint is "_above line_".
   - Hello, you wrote "[We take your privacy seriously](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously)" but I got "_Error 403 Forbidden Anonymous Proxy Not Allowed_". Why are you blocking Tor? Or VPN?
@@ -429,6 +432,7 @@ Therefore we recommend above table only. _Nothing else_.
 
 ------
 
+### Comments
 
 ```
 There is always hope in resistance.
@@ -444,6 +448,10 @@ Resist!
 
 ```
 Someday, you'll know why we wrote this.
+```
+
+```
+There isn't anything futuristic about this. We have already lost.
 ```
 
 ### Now, what did you do today?
