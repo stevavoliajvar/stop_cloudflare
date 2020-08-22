@@ -432,6 +432,7 @@ Therefore we recommend above table only. _Nothing else_.
 
 ------
 
+### Comments
 
 ```
 There is always hope in resistance.
@@ -447,6 +448,10 @@ Resist!
 
 ```
 Someday, you'll know why we wrote this.
+```
+
+```
+There isn't anything futuristic about this. We have already lost.
 ```
 
 ### Now, what did you do today?
