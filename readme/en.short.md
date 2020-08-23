@@ -1,4 +1,4 @@
-### 👋 [_Non-English_ versions](../README.md)
+# 👋 [_Non-English_ versions](../README.md)
 
 ---
 
@@ -102,8 +102,7 @@ Those problems are listed in
 ## Alternatives
 
 Do own a website?  
-We created a
-[file with Cloudflare alternatives](../subfiles/cloudflare-alternatives.md)
+We created a [file with Cloudflare alternatives](../subfiles/cloudflare-alternatives.md)
 to make your life easier if you agree with us.
 
 
