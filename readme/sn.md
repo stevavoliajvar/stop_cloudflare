@@ -75,7 +75,7 @@
 ---
 
 
-##    Ndokumbira uenderere mberi kune rinotevera peji:  "[Cloudflare Ethics](en.ethics.md)"
+##    Ndokumbira uenderere mberi kune rinotevera peji:  "[Nyaya dzetsika](sn.ethics.md)"
 
 ---
 
