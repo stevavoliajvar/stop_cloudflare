@@ -26,10 +26,9 @@
 |  Cloudflare povas esti uzata por cenzuro. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/accdenied.jpg) |
 |  Vi ne povas vidi cloudflare-retejon se vi uzas negravan retumilon, kiu Cloudflare eble pensas, ke ĝi estas bot(ĉar ne multaj homoj uzas ĝin). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfublock.jpg) |
 |  Vi ne povas preterpasi ĉi tiun invadan retumilon sen ebligi Ĝavoskripton. Ĉi tio estas malŝparo de kvin(aŭ pli) sekundoj de via valora vivo. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsjsck.jpg) |
-|  Cloudflare ankaŭ [aŭtomate blokas](https://twitter.com/itsybitsydots/status/1212691131508477952) legitajn robotojn/rampistojn kiel Google, Yandex, Yacy, kaj [API-klientoj](../PEOPLE.md). Cloudflare [aktive rigardantas](../PEOPLE.md) "preterpasas cloudflare" komunumon kun intenco rompi legitiman esploradon. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/htmlalertcloudflare2.jpg) |
+|  Cloudflare ankaŭ [aŭtomate blokas](https://twitter.com/itsybitsydots/status/1212691131508477952) legitajn robotojn/rampistojn kiel Google, Yandex, Yacy, kaj [API-klientoj](../PEOPLE.md). Cloudflare [aktive rigardantas](../PEOPLE.md) "preterpasas cloudflare" komunumon kun intenco rompi legitiman esploradon. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg) |
 |  Cloudflare simile malhelpas multajn homojn, kiuj havas malbonan interretan konekteblecon, aliri la retejojn malantaŭ ĝi (ekzemple, ili povus esti malantaŭ 7+ tavoloj de NAT aŭ dividi saman IP, ekzemple publikan Wifi) krom se ili solvas multoblajn bildajn CAPTCHAojn. En iuj kazoj, [ĉi tio daŭros 10 ĝis 30 minutojn por kontentigi Google](https://trac.torproject.org/projects/tor/ticket/23840). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/googlerecaptcha.jpg) |
-|  En la jaro 2020 Cloudflare ŝanĝiĝis de [Recaptcha de Google](https://en.wikipedia.org/wiki/Recaptcha) al [hCaptcha](https://en.wikipedia.org/wiki/HCaptcha), ĉar [Google volas](https://professionalhackers.in/cloudflare-dumps-recaptcha-as-google-intends-to-charge-for-its-use/), ke Cloudflare pagu monon por ĝia uzo. Cloudflare diris al vi, ke ili zorgas pri via privateco ("[ĝi helpas solvi konzernon pri privateco](https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/)"), sed tio evidente estas mensogo. Temas pri mono. "[hCaptcha](https://www.hcaptcha.com/) permesas retejojn gajni monon por servi ĉi tiun postulon dum blokado de robotoj kaj aliaj formoj de misuzo" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fedup_fucking_hcaptcha.jpg) |
-|  El la perspektivo de uzanto, ĉi tio ne multe ŝanĝiĝas. Vi estas devigita solvi ĝin. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/hcaptcha_abrv.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/hcaptcha_chrome.jpg) |
+|  En la jaro 2020 Cloudflare ŝanĝiĝis de [Recaptcha de Google](https://en.wikipedia.org/wiki/Recaptcha) al [hCaptcha](https://en.wikipedia.org/wiki/HCaptcha), ĉar [Google volas](https://professionalhackers.in/cloudflare-dumps-recaptcha-as-google-intends-to-charge-for-its-use/), ke Cloudflare pagu monon por ĝia uzo. Cloudflare diris al vi, ke ili zorgas pri via privateco ("[ĝi helpas solvi konzernon pri privateco](https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/)"), sed tio evidente estas mensogo. Temas pri mono. "[hCaptcha](https://www.hcaptcha.com/) permesas retejojn gajni monon por servi ĉi tiun postulon dum blokado de robotoj kaj aliaj formoj de misuzo"<br>El la perspektivo de uzanto, ĉi tio ne multe ŝanĝiĝas. Vi estas devigita solvi ĝin. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fedup_fucking_hcaptcha.jpg) |
 |  Multaj homoj kaj programoj estas blokitaj de Cloudflare [ĉiutage](../PEOPLE.md). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsnote.jpg) |
 |  Cloudflare [ĝenas multajn homojn](../PEOPLE.md) tra la mondo. Bonvolu rigardi la liston kaj pensu, ĉu adopti Cloudflare sur via retejo bonas por sperto de uzanto. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsstream.jpg) |
 |  Kio estas la celo de la interreto, se vi ne povas fari tion, kion vi volas? Plej multaj homoj, kiuj vizitas vian retejon, serĉos nur aliajn paĝojn se ili ne povas ŝarĝi retpaĝon. Vi eble ne blokas iujn ajn vizitantojn, sed la defaŭlta fajroŝirmilo de Cloudflare estas sufiĉe strikta por bloki multajn homojn. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsdroid.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsappl.jpg) |
@@ -165,12 +164,11 @@ Ni neniam demandas vian interkonan retejon.**
 
 ---
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fixthedamn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imnotarobot.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl2.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fixthedamn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imnotarobot.jpg) |
 
 </details>
 

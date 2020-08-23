@@ -78,11 +78,11 @@
 
 ---
 
-<বিবরণ>
-<সংক্ষিপ্ত> আমাকে ক্লিক করুন_
+<details>
+<summary> আমাকে ক্লিক করুন_
 
 ## ডেটা এবং আরও তথ্য
-</সারসংক্ষেপ>
+</summary>
 
 
 এই সংগ্রহস্থলটি টর ব্যবহারকারী এবং অন্যান্য সিডিএনগুলিকে অবরুদ্ধ করে "_The গ্রেট ক্লাউডওয়াল_" এর পিছনে থাকা ওয়েবসাইটগুলির একটি তালিকা।
@@ -122,15 +122,15 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/watcloudflare.jpg)
 
 
-</বিবরণ>
+</details>
 
 ---
 
-<বিবরণ>
-<সংক্ষিপ্ত> আমাকে ক্লিক করুন_
+<details>
+<summary> আমাকে ক্লিক করুন_
 
 ## আপনি কি করতে পারেন?
-</সারসংক্ষেপ>
+</summary>
 
 * [আমাদের প্রস্তাবিত ক্রিয়াকলাপগুলির তালিকা](কী- to-do.md) পড়ুন এবং এটি আপনার বন্ধুদের সাথে ভাগ করুন।
 
@@ -166,14 +166,13 @@
 
 ---
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl2.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fixthedamn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imnotarobot.jpg) |
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fixthedamn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imnotarobot.jpg)
-
-</বিবরণ>
+</details>
 
 ---
 

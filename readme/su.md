@@ -163,12 +163,11 @@ Kami henteu pernah naroskeun ka média sosial anjeun. **
 
 ---
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fixthedamn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imnotarobot.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl2.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fixthedamn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imnotarobot.jpg) |
 
 </details>
 
