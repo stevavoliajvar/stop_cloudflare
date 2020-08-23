@@ -99,9 +99,9 @@ Those problems are listed in
 [another file](../subfiles/more-cloudflare-problems.md).
 
 
-## Alternatives
+## Cloudflare Alternatives
 
-Do own a website?  
+Do you own a website?
 We created a [file with Cloudflare alternatives](../subfiles/cloudflare-alternatives.md)
 to make your life easier if you agree with us.
 
@@ -120,8 +120,8 @@ Many supporters of CrimeFlarE have written some
 [articles](../subfiles/articles.md) about the problem.
 You can check them out and share them.
 
-You can ask website owners to stop using Cloudflare, please do so in
-a polite way. It might be good to mention some [alternatives](#alternatives).
+You can ask website owners to stop using Cloudflare, please do so in a polite way.
+It might be good to mention some [alternatives](#alternatives).
 
 There are more files on this repository to educate yourself.
 We haven't included them all in the README to keep it fairly readable.
@@ -129,12 +129,12 @@ We haven't included them all in the README to keep it fairly readable.
 
 ## Not convinced yet?
 
-Many supporters of CrimeFlarE have written some
-[articles](../subfiles/articles.md) about the problem.
+Many supporters of CrimeFlarE have written some [articles](../subfiles/articles.md) about the problem.
 You can check them out and share them.
+
 
 ---
 
-Still not convinced?  
-That's fine. Just know that many people won't be able to use your content or
-website. It works against you.
+Still not convinced? That's fine.
+Just know that many people won't be able to use your content or website.
+Cloudflare works against you.
