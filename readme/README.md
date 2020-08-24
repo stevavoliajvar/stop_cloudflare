@@ -1,6 +1,7 @@
-- _zz_.md
-  - _zz_.ethics.md
-  - _zz_.short.md
+- TEMPLATE.md
+  - _zz_.md
+    - _zz_.ethics.md
+    - _zz_.short.md
 
 
 ---
