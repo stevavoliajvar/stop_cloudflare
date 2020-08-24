@@ -91,7 +91,7 @@
 </summary>
 
 
-This repository is a list of websites that are behind "_The Great Cloudwall_", blocking Tor users and other CDNs.
+This repository is a list of websites that are behind "The Great Cloudwall", blocking Tor users and other CDNs.
 
 
 **Data**
@@ -107,19 +107,19 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 
 **More Information**
 * [Myth Catalog](../subfiles/myth_catalog.md)
-* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt) by [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * Download as: PDF [here](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [here](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
-  * The original eBook(ePUB) was deleted by `BookRix GmbH` due to `copyright infringement of CC0 material`
-* [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835) by Anonymous
-* [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351) by nym-zone
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+  * Download: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * The original eBook(ePUB) was deleted by BookRix GmbH due to copyright infringement of CC0 material
+* [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835), Anonymous
+* [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351), nym-zone
   * The ticket was vandalized so many times.
-  * Deleted by the [Tor Project](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). See ticket [34175](https://trac.torproject.org/projects/tor/ticket/34175).
-  * Last archive ticket [24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) by libBletchley
-  * They had used Cloudflare in the past. [Added](https://github.com/privacytools/privacytools.io/pull/1205) CF-tor but [removed it](https://github.com/privacytools/privacytools.io/pull/1804).
+  * [Deleted by the Tor Project.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [See ticket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
+  * [Last archive ticket 24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
+* [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544), libBletchley
+  * They had used Cloudflare in the past. [CF-tor was removed.](https://github.com/privacytools/privacytools.io/pull/1804)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
-* [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) by Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) by TheGoldenGoose8888
+* [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
+* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
 * [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/watcloudflare.jpg)
@@ -135,19 +135,19 @@ This repository is a list of websites that are behind "_The Great Cloudwall_", b
 ## What can you do?
 </summary>
 
-* Read [our list of recommended actions](../ACTION.md) and share it with your friends.
+* [Read our list of recommended actions and share it with your friends.](../ACTION.md)
 
-* Read [other user's voice](../PEOPLE.md) and write your thoughts.
+* [Read other user's voice and write your thoughts.](../PEOPLE.md)
 
-* Search something on [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) or [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
+* Search something: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
 
 * Update the domain list: [List instructions](../INSTRUCTION.md).
 
-* Add Cloudflare or project related event to [history](../HISTORY.md).
+* [Add Cloudflare or project related event to history.](../HISTORY.md)
 
-* Try & write new [Tool/Script](../tool/).
+* [Try & write new Tool/Script.](../tool/)
 
-* Here's some [PDF/ePUB](../pdf/) to read.
+* [Here's some PDF/ePUB to read.](../pdf/)
 
 
 ---
