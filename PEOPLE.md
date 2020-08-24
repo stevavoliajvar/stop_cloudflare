@@ -725,6 +725,21 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"Cloudflare is a centralized MITM-type service which does not only have privacy issues, but by nature is also detrimental to a free & open internet. Therefor it doesn't fit Linux IMO." ([stp_kitt](https://twitter.com/STP_KITT/status/1293299843037892610))
+
+"Well, that is nearly exactly what happened to me and why I began this crusade against the BS policies of Cloudflare and lack of stewardship. They did not help me at all. Dozens of rogue sites stayed online scamming consumers after multiple abuse reports." ([phyzonloop](https://twitter.com/phyzonloop/status/1296281227687854084))
+
+"Wouldn't be surprised if they gave you an exemption to having to fill out those CAPTCHA forms. This goes back way before Cloudflare even went public." ([dxgl_org](https://twitter.com/dxgl_org/status/1297323884014981137))
+
+"i can't even access that site it gives me a cloudflare error orz. there was actually an entire twitter post with a proper translation for yurushii's interview going around at one point, i'll see if i can find the actual thread again" ([yowainee](https://twitter.com/yowainee/status/1297600254326513665))
+
+"Very odd, sorry I can't be of more help - it must be an error on Cloudflare's side." ([snappyhost](https://twitter.com/SnappyHost/status/1297258101184364546))
+
+"Yipe...getting Cloudflare error 1016 when attempting to access Hopin." ([ccritt93](https://twitter.com/CCritt93/status/1296808860481654785))
+
+"FYI. Cloudflare is throwing an "Error 1016, Origin DNS Error" for your site." ([thevakman](https://twitter.com/TheVakman/status/1296769235298013185))
+
+
 "I'm not sure what is going on but it seems like every site that i visit that uses your services keeps forcing a 'are you human' check.  That makes me close the tab and not even bother.  Is it a browser setting causing this ? or are all cloudflare this paranoid?" ([csgeek](https://twitter.com/csgeek/status/1295141878942167040))
 
 "I keep answering 's CAPTCHA and it just asks me all over again. This is a scam. Do let bully you into using the CAPTCHA tool. This is soooo frustrating." ([muni_encinitas](https://twitter.com/muni_encinitas/status/1294452859522576386))
@@ -3197,6 +3212,11 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"you have no choice but to agree with the facts - unless you have counter facts. OWS Signal subjects users to a variety of surveillance capitalist mechanisms by forcing phone number registration & pushing Google Playstore (while hiding & discouraging apk downloads).. pushing CloudFlare.. financing Amazon.. working for Facebook." ([resist1984](https://social.privacytools.io/@resist1984/104740432451902572))
+
+"we need a "public money = public access" movement similar to the publicMoneyPublicCode movement. Governments should not be jailing public resources in the private WalledGarden of CloudFlare. Let's get this movement in motion as the orange man gets sacked. PublicMoneyPublicAccess" ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104721770588352695))
 
 
 "the lulu.com link is a bad one to plug because it's a CloudFlare site. Visiting the InternetArchive of it is also useless in this case because it's just a blank page:" ([resist1984](https://social.privacytools.io/@resist1984/104689562910400950))
