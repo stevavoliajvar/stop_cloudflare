@@ -1,8 +1,3 @@
-# 👋 [_Non-English_ versions](../README.md)
-
----
-
-
 # The Great Cloudwall
 
 
