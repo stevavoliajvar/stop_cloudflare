@@ -1,1 +1,1 @@
-TEMPLATE(MD) + TEMPLATE(TXT) + ASIS --- generate() ---> xy.md, xy.ethics.md
+TEMPLATE(MD) + TEMPLATE(JSON) + ASIS --- generate() ---> xy.md, xy.ethics.md
