@@ -1,35 +1,35 @@
-# Assumptes ètics
+# Mga Isyu sa Etika
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_No admetis aquesta empresa sense límit d'ètica_"
+"Ayaw pagsuporta sa kini nga kompanya nga wala’y pamatasan"
 
-"_La vostra empresa no és de confiança. Afirmeu fer complir DMCA, però teniu molts plets per no fer-ho."
+"Dili kasaligan ang imong kompanya. Giangkon mo nga gipatuman ang DMCA apan daghang mga kaso nga wala buhata."
 
-"_Només censuren els que qüestionen la seva ètica._"
+"Gibanabana ra nila ang mga gikuwestiyon sa ilang pamatasan."
 
-"_Suposo que la veritat és inconvenient i s'amaga millor a la vista pública._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Sa akong hunahuna ang tinuod dili makapabag-o ug labi ka tinago gikan sa pagtan-aw sa publiko."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
-<detalls>
-<summary> _ feu clic a mi_
+<details>
+<summary>pag-klik kanako
 
-## CloudFlare fa brossa a la gent
+## CloudFlare nga nangita sa mga tawo
 </summary>
 
 
-Cloudflare envia correus electrònics de correu brossa a usuaris que no siguin Cloudflare.
+Ang Cloudflare nagpadalag mga email sa spam sa mga dili tiggamit nga Cloudflare.
 
-- Envia només correus electrònics als subscriptors que hagin participat
-- Quan l'usuari digui "aturar", deixi d'enviar correu electrònic
+- Magpadala lang mga email sa mga suskritor nga mipili
+- Kung ang giingon sa gumagamit nga "mohunong", hunong nga ipadala ang email
 
-És tan senzill. Però a Cloudflare no li importa.
-Cloudflare va dir que utilitzant el seu servei [pot detenir tots els spammers o atacants](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers- ).
-Com podem aturar _Cloudflare spammers_ sense activar Cloudflare?
+Yano nga yano. Apan wala’y pagtagad si Cloudflare.
+Giingon ni Cloudflare nga ang paggamit sa ilang serbisyo makapahunong sa tanan nga mga spammers o mga nag-atake.
+Giunsa naton mapahunong ang Cloudflare nga wala ma-aktibo ang Cloudflare?
 
 
 | 🖼 | 🖼 |
@@ -41,14 +41,16 @@ Com podem aturar _Cloudflare spammers_ sense activar Cloudflare?
 
 ---
 
-<detalls>
-<summary> _ feu clic a mi_
+<details>
+<summary>pag-klik kanako
 
-## Elimina la ressenya de l’usuari
+## Kuhaa ang pagsusi sa gumagamit
 </summary>
 
 
-Censor de núvols [crítiques negatives](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Si publiqueu un text _anti-Cloudflare_ a Twitter, podeu tenir una resposta (https://twitter.com/CloudflareHelp/status/1126051764917145601) a [empleat Cloudflare](cloudflare_inc/cloudflare_members.txt) amb "_[No, no ho és](PEOPLE.md) _ "Missatge. Si publiqueu una revisió negativa en qualsevol lloc de revisió, provaran de [censurar](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+Ang negatibo nga mga pagsusi sa sensor sa Cloudflare.
+Kung nag-post ka mga anti-Cloudflare nga teksto sa Twitter, adunay higayon nga makakuha ka tubag gikan sa empleyado sa Cloudflare nga adunay "Dili, dili kini" mensahe.
+Kung nag-post ka usa ka negatibo nga pagsusi sa bisan unsang site sa pagsusi, ila kini sulayan.
 
 
 | 🖼 | 🖼 |
@@ -59,16 +61,17 @@ Censor de núvols [crítiques negatives](https://web.archive.org/web/20191116004
 
 ---
 
-<detalls>
-<summary> _ feu clic a mi_
+<details>
+<summary>pag-klik kanako
 
-## Usuaris atrotinants
+## Ipakigbahin ang pribadong kasayuran sa tiggamit
 </summary>
 
 
-Cloudflare té un problema massiu [d'assetjament](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -fake-names-2017-5).
-Cloudflare [comparteix informació personal](https://archive.ph/ePdvi) dels [que](https://twitter.com/ZJemptv/status/898299709634248704) [queixa](https://twitter.com/TinyPirate/status/554718958176067584) [sobre](https://twitter.com/remembrancermx/status/1010329041235148802) [hosted](https://twitter.com/Bridaguy/status/915003769280172037) [llocs](https://twitter .com/HelloAndrew/status/897260208845500416). De vegades us demanen que proporcioneu
-el vostre veritable DNI. Si no voleu ser assetjat, [assaltat](https://twitter.com/NiteShade925/status/1158469203420205056), [suplicat](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) o [assassinat](https://twitter.com/RusEmbUSA/status/1187363092793040901), millor mantenir-se lluny dels llocs web Cloudflared.
+Adunay daghang problema sa harasment ang Cloudflare.
+Ang Cloudflare nagpaambit sa personal nga kasayuran sa mga nagreklamo bahin sa mga host site.
+Usahay gihangyo ka nila nga ihatag ang imong tinuod nga ID.
+Kung dili nimo gusto nga maharas, giatake, gipatay o gipatay, mas maayo nga magpalayo ka sa mga website sa Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -81,14 +84,16 @@ el vostre veritable DNI. Si no voleu ser assetjat, [assaltat](https://twitter.co
 
 ---
 
-<detalls>
-<summary> _ feu clic a mi_
+<details>
+<summary>pag-klik kanako
 
-## Sol·licitud corporativa de contribucions benèfiques
+## Pag-ayad sa korporasyon sa mga natampo sa gugma
 </summary>
 
 
-CloudFlare [pregunta](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) per a aportacions benèfiques. És bastant horrorós que una corporació nord-americana sol·liciti caritat al costat d’organitzacions sense ànim de lucre que tinguin bons motius. Si us agrada [bloquejar persones o perdre el temps d’altres persones](PEOPLE.md), potser voldreu demanar algunes pizzes🍕 per als empleats de Cloudflare.
+Ang CloudFlare nangayo alang sa mga natampo sa manggugatagon.
+Natingala kaayo nga ang usa ka korporasyon sa Amerika mangayo alang sa gugma nga putli kauban ang mga non-profit nga organisasyon nga adunay maayong mga hinungdan.
+Kung gusto nimo ang pag-block sa mga tawo o pag-usik sa oras sa uban, mahimo nimong ipangayo ang pipila ka mga pizza para sa mga empleyado sa Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -97,14 +102,16 @@ CloudFlare [pregunta](https://web.archive.org/web/20191112033605/https://opencol
 
 ---
 
-<detalls>
-<summary> _ feu clic a mi_
+<details>
+<summary>pag-klik kanako
 
-## Terminar llocs
+## Pagtapos sa mga site
 </summary>
 
 
-Què fareu si el vostre lloc disminueix _suddenly_? Hi ha informes que Cloudflare està [suprimint](https://twitter.com/stefan_eady/status/1126033791267426304) [usuari](https://twitter.com/derivativeburke/status/903755267053117440) [configuració](https://twitter.com/lordscarlet/status/1046785164792205314) o [detenir el servei sense cap avís](https://twitter.com/svolentin/status/1227324408475344896), [en silenci](https://twitter.com/BlnaryMlke/status/1194339461984854018). Us suggerim que trobeu [millor proveïdor](what-to-do.md).
+Unsa ang imong buhaton kung mahulog sa kalit ang imong site?
+Adunay mga taho nga ang Cloudflare nagtangtang sa pagsulud sa configure o paghunong sa serbisyo nga wala’y pahimangno, hilom.
+Gisugyot namon nga makit-an nimo ang labi ka maayong provider.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -112,99 +119,106 @@ Què fareu si el vostre lloc disminueix _suddenly_? Hi ha informes que Cloudflar
 
 ---
 
-<detalls>
-<summary> _ feu clic a mi_
+<details>
+<summary>pag-klik kanako
 
-## Discriminació del venedor del navegador
+## Ang diskriminasyon sa tigpamaligya sa Browser
 </summary>
 
 
-CloudFlare proporciona un tractament preferent als que utilitzen Firefox mentre que proporciona un tractament hostil als usuaris que no siguin Tor-Browser sobre Tor.
-Els usuaris de Tor dels quals es neguen amb raó a executar javascript no gratuït, també reben un tractament hostil.
-Aquesta desigualtat d’accés és un abús de neutralitat de la xarxa i un abús de poder.
+Naghatag ang CloudFlare nga labing maayo nga pagtratar sa mga naggamit sa Firefox samtang gihatagan ang pag-atubang nga pagtratar sa mga tiggamit nga dili Tor-Browser sa Tor.
+Ang mga tiggamit sa mga Tor kung kinsa sa tama nga pagdumili sa pagpatuman sa dili libre nga javascript nakadawat usab nga pag-indigay.
+Kini nga pag-access dili patas mao ang pag-abuso sa neutrality sa network ug pag-abuso sa gahum.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Esquerra: `Tor Browser`, dreta:` Chrome`. La mateixa adreça IP.
+- Wala: Mga Tor Browser, Tuo: Chrome. Parehas nga adres sa IP.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Esquerra: `[navegador Tor] desactivat Javascript, activat galeta '
-- A la dreta: `[Chrome] Habilitat Javascript, Cookie desactivat`
+- Wala: Ang Tor Browser Javascript Disabled, Cookie Enabled
+- Sa tuo: Gipagana ang Javascript sa Chrome, Disable sa Cookie
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
-- QuteBrowser (navegador menor) sense Tor (IP de Clearnet)
+- QuteBrowser (menor de edad nga browser) nga wala Tor (Clearnet IP)
 
-| *** Navegador *** | *** Tractament d'accés *** |
+| ***Browser*** | ***Pag-access sa pagtambal*** |
 | --- | --- |
-| Navegador de Tor (Javascript activat) | accés permès |
-| Firefox (Javascript activat) | accés degradat |
-| Chromium (Javascript activat) | accés degradat (empenta Google reCAPTCHA) |
-| Chromium o Firefox (Javascript desactivat) | accés denegat (empentes * trencat * Google reCAPTCHA) |
-| Chromium o Firefox (Cookie desactivada) | accés denegat |
-| QuteBrowser | accés denegat |
-| linx | accés denegat |
-| w3m | accés denegat |
-| wget | accés denegat |
+| Tor Browser (Gipadagan ang Javascript) | gitugotan ang pag-access |
+| Firefox (Gipadagan ang Javascript) | pag-access gipakaulawan |
+| Chromium (Gipadagan ang Javascript) | pag-access gipakaulawan |
+| Chromium or Firefox (Gi-disable ang Javascript) | gidumili ang pag-access |
+| Chromium or Firefox (Wala’y kapugong ang Cookie) | gidumili ang pag-access |
+| QuteBrowser | gidumili ang pag-access |
+| lynx | gidumili ang pag-access |
+| w3m | gidumili ang pag-access |
+| wget | gidumili ang pag-access |
 
 
-"_Per què no utilitzeu el botó Àudio per resoldre un repte fàcil? _"
+Ngano nga dili nimo gamiton ang button sa Audio aron masulbad ang dali nga hagit?
 
-Sí, hi ha un botó d'àudio, però _always_ [no funciona sobre Tor](https://trac.torproject.org/projects/tor/ticket/23840). Rebreu aquest missatge quan feu clic a ell:
+Oo, adunay usa ka audio button, apan kini kanunay nga dili molihok sa Tor.
+Makuha nimo kini nga mensahe kung gi-klik nimo kini:
 
 ```
-Torna-ho a provar més tard
-És possible que l’ordinador o la xarxa envieu consultes automatitzades.
-Per protegir els nostres usuaris, no podem processar la vostra sol·licitud ara mateix.
-Per a més detalls, visiteu la nostra pàgina d’ajuda
+Sulayi pag-usab sa ulahi
+Ang imong computer o network mahimong magpadala mga awtomatikong pangutana.
+Aron mapanalipdan ang among mga tiggamit, dili kami makaproseso sa imong hangyo karon.
+Alang sa dugang nga mga detalye pagbisita sa among panid nga panid
 ```
 
 </details>
 
 ---
 
-<detalls>
-<summary> _ feu clic a mi_
+<details>
+<summary>pag-klik kanako
 
-## Supressió dels votants
+## Pagpugong sa botante
 </summary>
 
 
-Els electors dels estats nord-americans es registren per votar en última instància a través del lloc web del secretari d'estat a l'estat de residència.
-Les oficines de secretaria d'estat controlades pels republicans participen en la supressió dels votants mitjançant la representació del lloc web del secretari d'estat a través de Cloudflare.
-El tracte hostil de Cloudflare als usuaris de Tor, la seva posició MITM com a punt global de vigilància global i el seu paper perjudicial en general
-fa que els possibles votants siguin reticents a registrar-se. Els liberals, en particular, solen adoptar la privadesa. Els formularis d’inscripció dels votants recopilen informació sensible sobre la inclinació política d’un elector, l’adreça física personal, el número de seguretat social i la data de naixement.
-La majoria dels estats només fan públics un subconjunt d'aquesta informació, però Cloudflare veu tota aquesta informació quan algú es registra per votar.
+Ang mga botante sa estado sa US nagparehistro sa pagboto sa katapusan pinaagi sa website sa sekretaryo sa estado sa estado nga ilang gipuy-an.
+Ang mga opisina sa sekretaryo nga kontrolado sa Republikano nakiglambigit sa pagpugong sa mga botante pinaagi sa pag-prox sa website sa sekretaryo sa estado pinaagi sa Cloudflare.
+Ang mapintas nga pagtratar sa Cloudflare sa mga tiggamit sa Tor, ang posisyon sa MITM ingon usa ka sentralisado nga punto sa pag-monitor sa kalibutan, ug ang makadaot nga papel sa kinatibuk-an naghimo sa mga botante nga magpapili nga magparehistro.
+Ang mga Liberal labi na nga nagbaton sa pagkapribado.
+Ang mga porma sa pagparehistro sa botante nakolekta ang sensitibo nga kasayuran bahin sa pampulitika nga pagpahiluna sa botante, personal nga pisikal nga adres, numero sa seguridad sa sosyal, ug petsa sa pagkatawo.
+Kadaghanan sa mga estado naghimo lamang usa ka subset sa kana nga kasayuran nga magamit sa publiko, apan nakita sa Cloudflare ang tanan nga kasayuran sa dihang adunay usa nga nagparehistro sa pagboto.
 
-Tingueu en compte que el registre en paper no defuig Cloudflare perquè el secretari dels treballadors del personal d'entrada de dades estatals probablement l'utilitzarà
-Lloc web de Cloudflare per introduir les dades.
+Hinumdumi nga ang pagparehistro sa papel dili makalikay sa Cloudflare tungod kay ang sekretaryo sa mga kawani sa pagpasok sa datos sa estado lagmit nga mogamit sa Cloudflare website aron makasulod sa datos.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org és un famós lloc web per reunir vots i prendre mesures. "[La gent de tot arreu inicia campanyes, mobilitza els partidaris i treballa amb els responsables de decisió per impulsar solucions.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Malauradament, moltes persones no poden veure en absolut change.org a causa de l’agressiu filtre de Cloudflare. Se’ls està bloquejant de signar la petició, excloent-los així d’un procés democràtic. Si utilitzeu altres plataformes no ennuvolades, com ara [OpenPetition](https://www.openpetition.eu/content/about_us), es pot solucionar el problema.
+- Ang Change.org usa ka bantog nga website alang sa pagkolekta og mga boto ug paglihok.
+“ang mga tawo bisan diin nagasugod mga kampanya, nagpalihok sa mga tigsuporta, ug nagtrabaho kauban ang mga naghimog desisyon aron magmaneho mga solusyon.”
+Ikasubo, daghang mga tawo ang dili makatan-aw sa change.org tungod sa agresibo nga pagsala sa Cloudflare.
+Gipugngan sila gikan sa pagpirma sa petisyon, sa ingon wala iapil gikan sa usa ka demokratikong proseso.
+Ang paggamit sa ubang mga platform nga wala cloudflared sama sa OpenPetition makatabang sa pag-ayo sa problema.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- El "[Projecte atenenc] de Cloudflare (https://www.cloudflare.com/athenian/)" ofereix una protecció gratuïta a nivell empresarial als llocs web de les eleccions locals i estatals. Van dir que "els electors poden accedir a la informació electoral i el registre de votants", però això és una mentida, ja que moltes persones no poden navegar pel lloc.
+- Ang "Athenian Project" sa Cloudflare nagtanyag libre nga panalipod sa lebel sa negosyo sa estado ug lokal nga website sa eleksyon.
+Giingon nila nga "ang ilang mga konstituwente maka-access sa kasayuran sa eleksyon ug pagrehistro sa botante" apan kini bakak tungod kay daghang mga tawo ang dili gyud maka-browse sa site.
 
 </details>
 
 ---
 
-<detalls>
-<summary> _ feu clic a mi_
+<details>
+<summary>pag-klik kanako
 
-## Ignorant la preferència de l’usuari
+## Pagbaliwala sa gusto sa gumagamit
 </summary>
 
 
-Si desactiveu alguna cosa, espereu que no rebeu cap missatge de correu electrònic al respecte. Cloudflare ignora les preferències de l’usuari i comparteix les dades amb empreses de tercers [sense el consentiment del client](https://twitter.com/thexpaw/status/1108424723233419264). Si utilitzeu el seu pla gratuït, de vegades us envien un missatge de correu electrònic per demanar-vos que compreu subscripció mensual.
+Kung mopili ka usa ka butang, gilauman nga wala ka makadawat email bahin niini.
+Wala manumbaling sa Cloudflare ang kagustohan sa tiggamit ug ipakigbahin ang mga datos sa mga korporasyon sa third-party nga wala’y pagtugot sa kustomer.
+Kung gigamit nimo ang ilang libre nga plano, usahay magpadala sila email sa kanimo nga naghangyo sa pagpalit sa binulan nga suskrisyon.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -212,62 +226,67 @@ Si desactiveu alguna cosa, espereu que no rebeu cap missatge de correu electròn
 
 ---
 
-<detalls>
-<summary> _ feu clic a mi_
+<details>
+<summary>pag-klik kanako
 
-## Es tracta d’esborrar les dades de l’usuari
+## Pagbakak bahin sa pagtangtang sa mga datos sa tiggamit
 </summary>
 
 
-Segons aquest [bloc del client d’ex-cloudflare](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare mentia sobre la supressió dels comptes. Actualment, moltes [empreses mantenen les vostres dades](https://justdeleteme.xyz/) després de tancar o treure el vostre compte. La majoria de bones empreses en mencionen la seva política de privadesa. Flama de núvols? No.
+Sumala sa kini nga blog sa kostumer nga ex-cloudflare, namakak ang Cloudflare bahin sa pagtangtang sa mga account.
+Karon, daghang mga kompanya ang nagpadayon sa imong data pagkahuman nimo gisirhan o gitangtang ang imong account.
+Kadaghanan sa mga maayong kompanya naghisgot bahin niini sa ilang palisiya sa pagkapribado.
+Cloudflare? Dili.
 
 ```
-08-05-2019 CloudFlare em va enviar la confirmació d'haver tret el meu compte.
-2019-10-02 He rebut un correu electrònic de CloudFlare "perquè sóc client"
+2019-08-05 Gipadala kanako sa CloudFlare ang pagkumpirma nga gikuha nila ang akong account.
+2019-10-02 Nakadawat ako email gikan sa CloudFlare "tungod kay ako usa ka kostumer"
 ```
 
-Cloudflare no coneixia la paraula "eliminar". Si realment és _removed_, per què aquest ex-client ha rebut un correu electrònic? També va mencionar que la política de privadesa de Cloudflare no en menciona.
+Ang Cloudflare wala mahibal-an bahin sa pulong "tangtanga".
+Kung kini gikuha gyud, ngano nga kini nga ex-customer adunay usa ka email?
+Giingon usab niya nga ang palisiya sa privacy ni Cloudflare wala maghisgot bahin niini.
 
 ```
-La nova política de privadesa no fa esment de la conservació de dades durant un any.
+Ang ilang bag-ong palisiya sa pagkapribado wala maghisgot sa pagpadayon sa datos sa usa ka tuig.
 ```
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Com pot confiar en Cloudflare si [la seva política de privadesa és una LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+Giunsa nimo masaligan ang Cloudflare kung ang ilang palisiya sa pagkapribado usa ka LIE?
 
 </details>
 
 ---
 
-<detalls>
-<summary> _ feu clic a mi_
+<details>
+<summary>pag-klik kanako
 
-## Conserveu la vostra informació personal
+## Ipadayon ang imong personal nga kasayuran
 </summary>
 
 
-La supressió del compte Cloudflare és [nivell dur](https://justdeleteme.xyz/).
+Lisud ang lebel sa pag-undang sa account sa Cloudflare.
 
 ```
-Envieu un bitllet d’assistència mitjançant la categoria "Compte",
-i sol·liciteu la supressió del compte al cos del missatge.
-No heu de tenir dominis ni targetes de crèdit adjunts al vostre compte abans de sol·licitar la supressió.
+Pagsumite usa ka tiket sa suporta gamit ang kategorya nga "Account",
+ug hangyo ang pagtangtang sa account sa lawas sa mensahe.
+Kinahanglan nga wala ka mga domain o credit card nga gilakip sa imong account sa wala pa mangayo pagtangtang.
 ```
 
-Rebrà [aquest correu electrònic de confirmació](https://twitter.com/originalesushi/status/1199041528414527495).
+Madawat nimo kini nga email sa kumpirmasyon.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
-"Hem començat a processar la sol·licitud de supressió", però "Continuarem emmagatzemant la informació personal".
+"Gisugdan namon ang pagproseso sa imong hangyo sa pagtangtang" apan "Kami magpadayon sa pagtipig sa imong personal nga kasayuran".
 
-Pot "confiar" en això?
+Mahimo ba nimo "pagsalig" kini?
 
 </details>
 
 ---
 
-## Continua a la pàgina següent: "[Cloudflare Voices](../PEOPLE.md)"
+## Palihug magpadayon sa sunod nga panid:   [Mga Tingog sa Cloudflare](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
