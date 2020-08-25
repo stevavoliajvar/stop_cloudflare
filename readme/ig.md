@@ -53,24 +53,11 @@
 |  O nwere ike ịbụ na ị marala gbasara asịrị PRISM.Ọ bụ eziokwu na AT&T na-ahapụ NSA i copyomi data ntanetị niile maka onyunyo. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Ka anyị kwuo na ị na-arụ ọrụ na NSA, ịchọrọ profaịlụ ịntanetị nke nwa amaala ọ bụla.Knowmara na ọtụtụ n’ime ha na-atụkwasị obi Cloudflare na-eji ìsì na-eji ya eme ihe - naanị otu ọnụ ụzọ etiti - iji zighachi njikọ sava ụlọ ọrụ ha (SSH / RDP), webụsaịtị nke onwe ha, websaiti nkata, websaiti web, webụsaịtị web insurance, injin inyocha, onye otu nzuzo. webụsaịtị, websaịtị azụmaahịa, ịzụ ahịa, ebe nrụọrụ weebụ vidiyo, webụsaịtị NSFW, na weebụsaịtị na ezighi ezi.Also makwa na ha na-eji ọrụ DNS Cloudflare ("1.1.1.1") yana ọrụ VPN ("Cloudflare Warp") maka "urenọ na Nche! Ọsọ ọsọ! Nke ka mma! ” ahụmịhe intaneti.Jikọta ha na adreesị IP nke onye ọrụ, akara mkpịsị aka nyocha, kuki na RAY-ID ga-aba uru iji wuo profaịlụ nke ntanetị nke iche. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Chọrọ data ha. Kedu ihe ị ga-eme? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare bụ mmanụ a honeyụ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Mmanụ a honeyụ na-akwụghị ụgwọ maka mmadụ niile. Stfọdụ eriri.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ejila Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Chọpụta intaneti.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare bụ mmanụ a honeyụ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Mmanụ a honeyụ na-akwụghị ụgwọ maka mmadụ niile. Stfọdụ eriri.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ejila Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Chọpụta intaneti.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Ebe a bụ ndepụta nke weebụsaịtị dị n'azụ "The Great Cloudwall", na
 * [Gbalịa & dee Ngwá Ọrụ / Ederede ọhụụ.](../tool/)
 
 * [Nke a bụ ụfọdụ PDF / ePUB iji gụọ.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
