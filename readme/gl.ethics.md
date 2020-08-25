@@ -3,20 +3,20 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Non apoiar esta empresa nula de ética_"
+"Non apoies esta empresa que está sen vontade de ética"
 
-"A súa empresa non é de confianza. Afirma que cumpra DMCA pero ten moitos procesos por non facelo."
+"A súa empresa non é de confianza. Vostede afirma facer cumprir o DMCA pero ten moitos procesos por non facelo."
 
-"_Só censuran os que cuestionan a súa ética._"
+"Só censuran os que cuestionan a súa ética."
 
-"_Supoño que a verdade é inconveniente e está máis oculta á vista pública._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Supoño que a verdade é inconveniente e mellor agochada á opinión pública."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
-<detalles>
-<summary> _ fai clic en min_
+<details>
+<summary>fai clic en min
 
 ## CloudFlare spams as persoas
 </summary>
@@ -24,12 +24,12 @@
 
 Cloudflare envía correos electrónicos de spam a usuarios que non sexan Cloudflare.
 
-- Envíe correos electrónicos só aos subscritores nos que optou
+- Envíe correos electrónicos só aos subscritores que optaron
 - Cando o usuario diga "parar", deixa de enviar correo electrónico
 
 É tan sinxelo. Pero Cloudflare non lle importa.
-Cloudflare dixo que o seu servizo [pode deter a todos os spammers ou atacantes](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers- ).
-Como podemos parar a _Cloudflare spammers_ sen activar Cloudflare?
+Cloudflare dixo que o seu servizo pode deter a todos os spammers ou atacantes.
+Como podemos deixar Cloudflare sen activar Cloudflare?
 
 
 | 🖼 | 🖼 |
@@ -41,14 +41,16 @@ Como podemos parar a _Cloudflare spammers_ sen activar Cloudflare?
 
 ---
 
-<detalles>
-<summary> _ fai clic en min_
+<details>
+<summary>fai clic en min
 
-## Eliminar a crítica do usuario
+## Elimina a opinión do usuario
 </summary>
 
 
-Censor de Cloudflare [críticas negativas](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Se publicas texto _anti-Cloudflare_ en Twitter, tes a oportunidade de obter un [responder](https://twitter.com/CloudflareHelp/status/1126051764917145601) de [empregado Cloudflare](cloudflare_inc/cloudflare_members.txt) con "_[Non, non é](PEOPLE.md) _ "mensaxe. Se publicas unha crítica negativa en calquera sitio de revisión, intentarán [censurar](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+Críticas negativas sobre o censo de Cloudflare.
+Se publicas texto anti-Cloudflare en Twitter, tes a oportunidade de recibir unha resposta do empregado de Cloudflare coa mensaxe "Non, non é".
+Se publicas unha crítica negativa en calquera sitio de revisión, intentarán censurala.
 
 
 | 🖼 | 🖼 |
@@ -59,16 +61,17 @@ Censor de Cloudflare [críticas negativas](https://web.archive.org/web/201911160
 
 ---
 
-<detalles>
-<summary> _ fai clic en min_
+<details>
+<summary>fai clic en min
 
-## Usuarios atrevidos
+## Compartir información privada do usuario
 </summary>
 
 
-Cloudflare ten un enorme [problema de acoso](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -fake-names-2017-5).
-Cloudflare [comparte información persoal](https://archive.ph/ePdvi) daqueles [que](https://twitter.com/ZJemptv/status/898299709634248704) [queixa](https://twitter.com/TinyPirate/status/554718958176067584) [sobre](https://twitter.com/remembrancermx/status/1010329041235148802) [aloxado](https://twitter.com/Bridaguy/status/915003769280172037) [sitios](https://twitter .com/HelloAndrew/status/897260208845500416). Ás veces, pídenche proporcionar
-o seu verdadeiro ID. Se non queres acosar, [agredido](https://twitter.com/NiteShade925/status/1158469203420205056), [swatch](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ou [asasinado](https://twitter.com/RusEmbUSA/status/1187363092793040901), mellor estar lonxe dos sitios web Cloudflared.
+Cloudflare ten un problema de acoso masivo.
+Cloudflare comparte información persoal dos que se queixan dos sitios aloxados.
+Ás veces, pídenlle que achegues a túa identificación.
+Se non queres ser acosado, agredido, asaltado ou asasinado, mellor estar lonxe dos sitios web Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -81,14 +84,16 @@ o seu verdadeiro ID. Se non queres acosar, [agredido](https://twitter.com/NiteSh
 
 ---
 
-<detalles>
-<summary> _ fai clic en min_
+<details>
+<summary>fai clic en min
 
 ## Solicitude corporativa de contribucións benéficas
 </summary>
 
 
-CloudFlare está [pedindo](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) para contribucións benéficas. É bastante arrepiante que unha corporación estadounidense pedise caridade xunto con organizacións sen ánimo de lucro que teñan bos motivos. Se che gusta [bloquear a xente ou perder o tempo doutras persoas](PEOPLE.md), pode que queiras pedir unhas pizzas🍕 para empregados de Cloudflare.
+CloudFlare solicita contribucións benéficas.
+É bastante arrepiante que unha corporación estadounidense pedise caridade xunto con organizacións sen ánimo de lucro que teñan boas causas.
+Se che gusta bloquear a xente ou perder o tempo doutras persoas, pode que queiras pedir unhas pizzas para empregados de Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -97,14 +102,16 @@ CloudFlare está [pedindo](https://web.archive.org/web/20191112033605/https://op
 
 ---
 
-<detalles>
-<summary> _ fai clic en min_
+<details>
+<summary>fai clic en min
 
 ## Terminar sitios
 </summary>
 
 
-Que farás se o teu sitio cae _suddenly_? Hai informes de que Cloudflare está [suprimindo](https://twitter.com/stefan_eady/status/1126033791267426304) [usuario](https://twitter.com/derivativeburke/status/903755267053117440) [configuración](https://twitter.com/lordscarlet/status/1046785164792205314) ou [parar o servizo sen ningún aviso](https://twitter.com/svolentin/status/1227324408475344896), [en silencio](https://twitter.com/BlnaryMlke/status/1194339461984854018). Suxerímosche que atopes [mellor provedor](what-to-do.md).
+Que farás se o teu sitio baixa de súpeto?
+Hai informes de que Cloudflare está eliminando a configuración do usuario ou detendo o servizo sen deixar ningún aviso, en silencio.
+Suxerímosche atopar mellor provedor.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -112,46 +119,47 @@ Que farás se o teu sitio cae _suddenly_? Hai informes de que Cloudflare está [
 
 ---
 
-<detalles>
-<summary> _ fai clic en min_
+<details>
+<summary>fai clic en min
 
-## Discriminación do vendedor do explorador
+## Discriminación do vendedor do navegador
 </summary>
 
 
-CloudFlare ofrece un trato preferente aos que usan Firefox ao tempo que proporciona tratamento hostil aos usuarios de Tor-Browser que non son Tor.
-Os usuarios de Tor dos que rexeitan con dereito a executar Javascript non gratuíto tamén reciben tratamento hostil.
+CloudFlare ofrece un trato preferente aos que usan Firefox ao tempo que proporciona tratamento hostil aos usuarios que non son Tor-Browser sobre Tor.
+Os usuarios de Tor que rexeitan con dereito a executar Javascript non gratuíto tamén reciben tratamento hostil.
 Esta desigualdade de acceso é un abuso de neutralidade da rede e un abuso de poder.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-Á esquerda: `Tor Browser`, á dereita:` Chrome`. Mesmo enderezo IP.
+- Esquerda: Tor Browser, á dereita: Chrome. Mesmo enderezo IP.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Esquerda: `[navegador Tor] desactivado Javascript, activada cookie '
-Á dereita: `[Chrome] Activado con Javascript, desactivado cookie '
+- Á esquerda: Desactivado o navegador Javascript de Tor, activado a cookie
+- Á dereita: Chrome activado con Javascript, desactivada cookie
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (navegador menor) sen Tor (IP de Clearnet)
 
-| *** Navegador *** | *** Tratamento de acceso *** |
+| ***Navegador*** | ***Tratamento de acceso*** |
 | --- | --- |
-| Navegador de Tor (Javascript activado) | acceso permitido |
+| Tor Browser (Javascript activado) | acceso permitido |
 | Firefox (Javascript activado) | acceso degradado |
-| Chromium (Javascript activado) | acceso degradado (empuxa a Google reCAPTCHA) |
-| Chromium ou Firefox (Javascript desactivado) | acceso denegado (empuxe * roto * Google reCAPTCHA) |
-| Chromium ou Firefox (Cookie desactivada) | acceso denegado |
+| Chromium (Javascript activado) | acceso degradado |
+| Chromium or Firefox (Javascript desactivado) | acceso denegado |
+| Chromium or Firefox (Cookie desactivada) | acceso denegado |
 | QuteBrowser | acceso denegado |
-| lince | acceso denegado |
+| lynx | acceso denegado |
 | w3m | acceso denegado |
 | wget | acceso denegado |
 
 
-"_Por que non usa o botón Audio para resolver desafíos fáciles? _"
+Por que non usar o botón de audio para resolver desafíos fáciles?
 
-Si, hai un botón de audio, pero _always_ [non funciona sobre Tor](https://trac.torproject.org/projects/tor/ticket/23840). Recibirá esta mensaxe cando faga clic nela:
+Si, hai un botón de audio, pero sempre non funciona con Tor.
+Recibirá esta mensaxe cando faga clic nela:
 
 ```
 Volve intentalo máis tarde
@@ -164,8 +172,8 @@ Para máis detalles, visite a nosa páxina de axuda
 
 ---
 
-<detalles>
-<summary> _ fai clic en min_
+<details>
+<summary>fai clic en min
 
 ## Supresión de votantes
 </summary>
@@ -173,38 +181,44 @@ Para máis detalles, visite a nosa páxina de axuda
 
 Os electores dos estados estadounidenses rexístranse para votar en última instancia a través do sitio web do secretario de estado no estado da súa residencia.
 As oficinas de secretaría de estado controladas polos republicanos participan na supresión dos votantes mediante a representación do sitio web do secretario de estado a través de Cloudflare.
-O trato hostil de Cloudflare aos usuarios de Tor, a súa posición MITM como punto global de vixilancia centralizado e o seu papel prexudicial en xeral
-fai que os futuros electores remiten a rexistrarse. Os liberais en particular adoitan adoptar a privacidade. Os formularios de rexistro de electores recollen información confidencial sobre o inclinación política dun elector, o seu enderezo físico persoal, o número de seguridade social e a data de nacemento.
-A maioría dos estados só fan público un subconxunto desa información, pero Cloudflare ve todo *** esa información cando alguén se rexistra para votar.
+O trato hostil de Cloudflare aos usuarios de Tor, a súa posición MITM como punto global de vixilancia centralizado, e o seu papel prexudicial en xeral fai que os electores potenciais remiten rexistrarse.
+Os liberais en particular adoitan adoptar a privacidade.
+Os formularios de rexistro de electores recollen información confidencial sobre o inclinación política dun elector, enderezo físico persoal, número de seguridade social e data de nacemento.
+A maioría dos estados só fan público un subconxunto desa información, pero Cloudflare ve toda esa información cando alguén se rexistra para votar.
 
-Teña en conta que o rexistro en papel non elude Cloudflare porque probablemente o secretario de traballo de persoal de entrada de datos empregará o empregado
-Sitio web de Cloudflare para introducir os datos.
+Teña en conta que o rexistro en papel non elude Cloudflare porque o secretario dos traballadores do persoal de ingreso de datos probablemente empregará o sitio web Cloudflare para introducir os datos.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org é un famoso sitio web para reunir votos e tomar medidas. "[A xente en todas partes está a iniciar campañas, mobilizando seguidores e traballan cos responsables de decisións para impulsar solucións.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Por desgraza, moitas persoas non poden ver change.org en absoluto debido ao agresivo filtro de Cloudflare. Están bloqueados de asinar a petición, excluíndoos dun proceso democrático. O uso doutra plataforma non en nube como [OpenPetition](https://www.openpetition.eu/content/about_us) axuda a solucionar o problema.
+- Change.org é un famoso sitio web para reunir votos e tomar medidas.
+“a xente en todas partes está a iniciar campañas, a mobilizar seguidores e a traballar cos responsábeis para impulsar solucións.”
+Por desgraza, moitas persoas non poden ver change.org en absoluto debido ao agresivo filtro de Cloudflare.
+Están bloqueados de asinar a petición, excluíndoos dun proceso democrático.
+Usar outras plataformas non en nube como OpenPetition axuda a solucionar o problema.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- O proxecto [[Proxecto ateniense] de Cloudflare (https://www.cloudflare.com/athenian/) ofrece protección gratuíta a nivel empresarial aos sitios web das eleccións estatais e locais. Dixeron que "os electores poden acceder á información das eleccións e ao rexistro de votantes", pero isto é unha mentira porque moitas persoas simplemente non poden navegar polo sitio.
+- O "Proxecto ateniense" de Cloudflare ofrece protección gratuíta a nivel empresarial aos sitios web das eleccións estatais e locais.
+Dixeron que "os seus electores poden acceder á información das eleccións e o rexistro dos votantes", pero isto é unha mentira porque moitas persoas simplemente non poden navegar polo sitio.
 
 </details>
 
 ---
 
-<detalles>
-<summary> _ fai clic en min_
+<details>
+<summary>fai clic en min
 
 ## Ignorando a preferencia do usuario
 </summary>
 
 
-Se desactivas algo, esperas que non reciba correo electrónico ao respecto. Cloudflare ignora a preferencia do usuario e comparte datos con corporacións de terceiros [sen o consentimento do cliente](https://twitter.com/thexpaw/status/1108424723233419264). Se estás a usar o seu plan gratuíto, ás veces envíanche un correo electrónico para pedirlle a compra dunha subscrición mensual.
+Se desactivas algo, esperas que non reciba correo electrónico ao respecto.
+Cloudflare ignora a preferencia do usuario e comparte datos con corporacións de terceiros sen o consentimento do cliente.
+Se estás a usar o seu plan gratuíto, ás veces envíanche un correo electrónico para pedirlle unha subscrición mensual.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -212,21 +226,26 @@ Se desactivas algo, esperas que non reciba correo electrónico ao respecto. Clou
 
 ---
 
-<detalles>
-<summary> _ fai clic en min_
+<details>
+<summary>fai clic en min
 
 ## Mentir sobre a eliminación de datos do usuario
 </summary>
 
 
-Segundo este [blogue do cliente ex-cloudflare](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare está mentindo sobre a eliminación das contas. Hoxe en día, moitas [empresas gardan os seus datos](https://justdeleteme.xyz/) despois de pechar ou eliminar a súa conta. A maioría das boas empresas mencionan isto na súa política de privacidade. Lume de lume? Non
+Segundo o blogue deste ex-cloudflare, Cloudflare está a mentir sobre a eliminación de contas.
+Hoxe en día, moitas empresas gardan os seus datos despois de pechar ou eliminar a súa conta.
+A maioría das boas empresas mencionan isto na súa política de privacidade.
+Lume de nubes? Non
 
 ```
-08-05-2019 CloudFlare envioume a confirmación de que eliminarían a miña conta.
+2019-08-05 CloudFlare envioume a confirmación de que eliminarían a miña conta.
 2019-10-02 Recibín un correo electrónico de CloudFlare "porque son cliente"
 ```
 
-Cloudflare non sabía da palabra "eliminar". Se realmente é _mellido_, por que este ex-cliente recibiu un correo electrónico? Tamén mencionou que a política de privacidade de Cloudflare non o menciona.
+Cloudflare non sabía da palabra "eliminar".
+Se realmente é eliminado, por que este ex-cliente recibiu un correo electrónico?
+Tamén mencionou que a política de privacidade de Cloudflare non o menciona.
 
 ```
 A súa nova política de privacidade non fai mención á conservación de datos durante un ano.
@@ -234,28 +253,28 @@ A súa nova política de privacidade non fai mención á conservación de datos 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Como pode confiar en Cloudflare se [a súa política de privacidade é LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+Como pode confiar en Cloudflare se a súa política de privacidade é unha mentira?
 
 </details>
 
 ---
 
-<detalles>
-<summary> _ fai clic en min_
+<details>
+<summary>fai clic en min
 
 ## Conserve a súa información persoal
 </summary>
 
 
-Eliminar a conta de Cloudflare é [nivel duro](https://justdeleteme.xyz/).
+Eliminar a conta de Cloudflare é difícil.
 
 ```
 Envía un ticket de asistencia coa categoría "Conta",
 e solicitar a eliminación da conta no corpo da mensaxe.
-Non debe ter dominios nin tarxetas de crédito na súa conta antes de solicitar a eliminación.
+Debe ter ningún dominio ou tarxeta de crédito adherida á súa conta antes de solicitar a eliminación.
 ```
 
-Recibirás este correo electrónico de confirmación (https://twitter.com/originalesushi/status/1199041528414527495).
+Recibirá este correo electrónico de confirmación.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
@@ -267,7 +286,7 @@ Podes "confiar" nisto?
 
 ---
 
-## Continúe á páxina seguinte: "[Cloudflare Voices](../PEOPLE.md)"
+## Continúa á páxina seguinte:   [Cloudflare Voices](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
