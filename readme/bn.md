@@ -53,24 +53,11 @@
 |  PRISM কেলেঙ্কারী সম্পর্কে আপনি ইতিমধ্যে জেনে থাকতে পারেন।এটি সত্য যে এটিএন্ডটি এনএসএকে নজরদারি করার জন্য সমস্ত ইন্টারনেট ডেটা অনুলিপি করতে দেয়। | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ধরা যাক আপনি এনএসএ-এ কাজ করছেন এবং আপনি প্রতিটি নাগরিকের ইন্টারনেট প্রোফাইল চান।আপনি জানেন যে তাদের মধ্যে বেশিরভাগ অন্ধভাবে ক্লাউডফ্লেয়ারকে বিশ্বাস করছেন এবং তাদের সংস্থার সার্ভার সংযোগ (এসএসএইচ / আরডিপি), ব্যক্তিগত ওয়েবসাইট, চ্যাট ওয়েবসাইট, ফোরাম ওয়েবসাইট, ব্যাঙ্ক ওয়েবসাইট, বীমা ওয়েবসাইট, অনুসন্ধান ইঞ্জিন, গোপন সদস্য হিসাবে প্রক্সি দেওয়ার জন্য এটি ব্যবহার করছেন - কেবলমাত্র একটি কেন্দ্রিয় গেটওয়ে using কেবলমাত্র ওয়েবসাইট, নিলাম ওয়েবসাইট, শপিং, ভিডিও ওয়েবসাইট, এনএসএফডাব্লু ওয়েবসাইট এবং অবৈধ ওয়েবসাইট।আপনি এও জানেন যে তারা "সুরক্ষার জন্য ক্লাউডফ্লেয়ারের ডিএনএস পরিষেবা (" 1.1.1.1 ") এবং ভিপিএন পরিষেবা (" ক্লাউডফ্লেয়ার ওয়ার্প ") ব্যবহার করে! দ্রুত! উত্তম!" ইন্টারনেট অভিজ্ঞতা।ব্যবহারকারীর আইপি ঠিকানা, ব্রাউজারের ফিঙ্গারপ্রিন্ট, কুকিজ এবং RAY-ID এর সাথে তাদের সংমিশ্রণ লক্ষ্যমাত্রার অনলাইন প্রোফাইল তৈরি করতে কার্যকর হবে। | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  আপনি তাদের ডেটা চান। তুমি কি করবে? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **ক্লাউডফ্লেয়ার হনিপোট।** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **প্রত্যেকের জন্য বিনামূল্যে মধু। কিছু স্ট্রিং সংযুক্ত।** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **ক্লাউডফ্লেয়ার ব্যবহার করবেন না।** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ইন্টারনেট বিকেন্দ্রীকরণ।** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### ক্লাউডফ্লেয়ার হনিপোট।
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### প্রত্যেকের জন্য বিনামূল্যে মধু। কিছু স্ট্রিং সংযুক্ত।
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### ক্লাউডফ্লেয়ার ব্যবহার করবেন না।
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ইন্টারনেট বিকেন্দ্রীকরণ।
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [চেষ্টা করুন এবং নতুন সরঞ্জাম / স্ক্রিপ্ট লিখুন।](../tool/)
 
 * [পড়ার জন্য এখানে কিছু পিডিএফ / ইপাব রয়েছে।](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
