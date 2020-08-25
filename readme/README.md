@@ -1,7 +1,4 @@
-- TEMPLATE.md
-  - _zz_.md
-    - _zz_.ethics.md
-    - _zz_.short.md
+# [How to help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
