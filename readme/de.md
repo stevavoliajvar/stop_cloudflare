@@ -53,24 +53,11 @@
 |  Vielleicht kennen Sie den PRISM-Skandal bereits.Es ist richtig, dass AT & T es der NSA ermöglicht, alle Internetdaten zur Überwachung zu kopieren. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Nehmen wir an, Sie arbeiten bei der NSA und möchten das Internetprofil jedes Bürgers.Sie wissen, dass die meisten von ihnen Cloudflare blind vertrauen und es - nur ein zentrales Gateway - verwenden, um ihre Unternehmensserververbindung (SSH / RDP), persönliche Website, Chat-Website, Forum-Website, Bank-Website, Versicherungs-Website, Suchmaschine, geheimes Mitglied zu vertreten -nur Website, Auktionswebsite, Shopping, Video-Website, NSFW-Website und illegale Website.Sie wissen auch, dass sie den DNS-Dienst von Cloudflare ("1.1.1.1") und den VPN-Dienst ("Cloudflare Warp") für "Sicher! Schneller! Besser!" Interneterfahrung.Die Kombination mit der IP-Adresse des Benutzers, dem Browser-Fingerabdruck, Cookies und der RAY-ID ist hilfreich, um das Online-Profil des Ziels zu erstellen. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Sie wollen ihre Daten. Was wirst du machen? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare ist ein Honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Kostenloser Honig für alle. Einige Zeichenfolgen angebracht.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Verwenden Sie Cloudflare nicht.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Dezentralisieren Sie das Internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare ist ein Honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Kostenloser Honig für alle. Einige Zeichenfolgen angebracht.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Verwenden Sie Cloudflare nicht.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Dezentralisieren Sie das Internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 * [Probieren und schreiben Sie ein neues Tool / Skript.](../tool/)
 
 * [Hier ist ein PDF / ePUB zum Lesen.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
