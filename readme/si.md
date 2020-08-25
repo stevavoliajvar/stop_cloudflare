@@ -53,24 +53,11 @@
 |  ප්‍රිස්ම් වංචාව ගැන ඔබ දැනටමත් දැන සිටිය හැකිය.AT&T සියළුම අන්තර්ජාල දත්ත නිරීක්ෂණ සඳහා පිටපත් කිරීමට NSA ට ඉඩ දෙන බව සත්‍යයකි. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ඔබ එන්එස්ඒ හි වැඩ කරන බව කියමු, ඔබට සෑම පුරවැසියෙකුගේම අන්තර්ජාල පැතිකඩක් අවශ්‍ය වේ.ඔබ ඔවුන්ගෙන් බොහෝ දෙනෙක් අන්ධ ලෙස ක්ලවුඩ්ෆ්ලෙයාර් විශ්වාස කරන අතර එය භාවිතා කරන්නේ - එක් මධ්‍යගත ද්වාරයක් පමණි - ඔවුන්ගේ සමාගම් සේවාදායක සම්බන්ධතාවය (එස්එස්එච් / ආර්ඩීපී), පුද්ගලික වෙබ් අඩවිය, චැට් වෙබ් අඩවිය, සංසද වෙබ් අඩවිය, බැංකු වෙබ් අඩවිය, රක්ෂණ වෙබ් අඩවිය, සෙවුම් යන්ත්‍රය, රහස් සාමාජිකයා පමණක් වෙබ් අඩවිය, වෙන්දේසි වෙබ් අඩවිය, සාප්පු සවාරි, වීඩියෝ වෙබ් අඩවිය, එන්එස්එෆ්ඩබ්ලිව් වෙබ් අඩවිය සහ නීති විරෝධී වෙබ් අඩවිය.“ආරක්‍ෂිත!” සඳහා ඔවුන් Cloudflare හි DNS සේවාව ("1.1.1.1") සහ VPN සේවාව ("Cloudflare Warp") භාවිතා කරන බව ඔබ දනී. ඉක්මනින්! වඩා හොඳ!" අන්තර්ජාල අත්දැකීම්.පරිශීලකයාගේ IP ලිපිනය, බ්‍රව්සර් ඇඟිලි සලකුණු, කුකීස් සහ RAY-ID සමඟ ඒවා ඒකාබද්ධ කිරීම ඉලක්කයේ සබැඳි පැතිකඩ ගොඩනැගීමට ප්‍රයෝජනවත් වේ. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  ඔබට ඔවුන්ගේ දත්ත අවශ්‍යයි. ඔයා කුමක් කරනු ඇත් ද? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare යනු පැණි බඳුනකි.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **සෑම කෙනෙකුටම නොමිලේ මී පැණි. සමහර නූල් අමුණා ඇත.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare භාවිතා නොකරන්න.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **අන්තර්ජාලය විමධ්‍යගත කරන්න.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare යනු පැණි බඳුනකි.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### සෑම කෙනෙකුටම නොමිලේ මී පැණි. සමහර නූල් අමුණා ඇත.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare භාවිතා නොකරන්න.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### අන්තර්ජාලය විමධ්‍යගත කරන්න.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [නව මෙවලම / ස්ක්‍රිප්ට් උත්සාහ කර ලියන්න.](../tool/)
 
 * [මෙන්න කියවීමට PDF / ePUB කිහිපයක්.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
