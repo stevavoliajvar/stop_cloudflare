@@ -53,24 +53,11 @@
 |  ಪ್ರಿಸ್ಮ್ ಹಗರಣದ ಬಗ್ಗೆ ನಿಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿರಬಹುದು.ಎಲ್ಲಾ ಇಂಟರ್ನೆಟ್ ಡೇಟಾವನ್ನು ಕಣ್ಗಾವಲುಗಾಗಿ ನಕಲಿಸಲು ಎಟಿ ಮತ್ತು ಟಿ ಎನ್ಎಸ್ಎಗೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ ಎಂಬುದು ನಿಜ. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ನೀವು ಎನ್ಎಸ್ಎಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೀರಿ ಎಂದು ಹೇಳೋಣ ಮತ್ತು ಪ್ರತಿಯೊಬ್ಬ ನಾಗರಿಕರ ಇಂಟರ್ನೆಟ್ ಪ್ರೊಫೈಲ್ ಅನ್ನು ನೀವು ಬಯಸುತ್ತೀರಿ.ಅವರಲ್ಲಿ ಹೆಚ್ಚಿನವರು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಅನ್ನು ಕುರುಡಾಗಿ ನಂಬುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಅದನ್ನು ಬಳಸುತ್ತಿದ್ದಾರೆ - ಕೇವಲ ಒಂದು ಕೇಂದ್ರೀಕೃತ ಗೇಟ್‌ವೇ - ತಮ್ಮ ಕಂಪನಿ ಸರ್ವರ್ ಸಂಪರ್ಕವನ್ನು (ಎಸ್‌ಎಸ್‌ಹೆಚ್ / ಆರ್‌ಡಿಪಿ), ವೈಯಕ್ತಿಕ ವೆಬ್‌ಸೈಟ್, ಚಾಟ್ ವೆಬ್‌ಸೈಟ್, ಫೋರಮ್ ವೆಬ್‌ಸೈಟ್, ಬ್ಯಾಂಕ್ ವೆಬ್‌ಸೈಟ್, ವಿಮಾ ವೆಬ್‌ಸೈಟ್, ಸರ್ಚ್ ಎಂಜಿನ್, ರಹಸ್ಯ ಸದಸ್ಯರನ್ನು ಪ್ರಾಕ್ಸಿ ಮಾಡಲು -ಒಂದು ವೆಬ್‌ಸೈಟ್, ಹರಾಜು ವೆಬ್‌ಸೈಟ್, ಶಾಪಿಂಗ್, ವಿಡಿಯೋ ವೆಬ್‌ಸೈಟ್, ಎನ್‌ಎಸ್‌ಎಫ್‌ಡಬ್ಲ್ಯೂ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು ಅಕ್ರಮ ವೆಬ್‌ಸೈಟ್.ಅವರು “ಸುರಕ್ಷಿತ!” ಗಾಗಿ ಕ್ಲೌಡ್‌ಫ್ಲೇರ್‌ನ ಡಿಎನ್ಎಸ್ ಸೇವೆ ("1.1.1.1") ಮತ್ತು ವಿಪಿಎನ್ ಸೇವೆ ("ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ವಾರ್ಪ್") ಅನ್ನು ಬಳಸುತ್ತಾರೆ ಎಂಬುದು ನಿಮಗೆ ತಿಳಿದಿದೆ. ವೇಗವಾಗಿ! ಉತ್ತಮ! ” ಇಂಟರ್ನೆಟ್ ಅನುಭವ.ಬಳಕೆದಾರರ ಐಪಿ ವಿಳಾಸ, ಬ್ರೌಸರ್ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್, ಕುಕೀಸ್ ಮತ್ತು ರೇ-ಐಡಿಯೊಂದಿಗೆ ಅವುಗಳನ್ನು ಸಂಯೋಜಿಸುವುದು ಗುರಿಯ ಆನ್‌ಲೈನ್ ಪ್ರೊಫೈಲ್ ಅನ್ನು ನಿರ್ಮಿಸಲು ಉಪಯುಕ್ತವಾಗಿರುತ್ತದೆ. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  ನೀವು ಅವರ ಡೇಟಾವನ್ನು ಬಯಸುತ್ತೀರಿ. ನೀನೇನು ಮಡುವೆ? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಒಂದು ಹನಿಪಾಟ್ ಆಗಿದೆ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **ಎಲ್ಲರಿಗೂ ಉಚಿತ ಜೇನುತುಪ್ಪ. ಕೆಲವು ತಂತಿಗಳನ್ನು ಜೋಡಿಸಲಾಗಿದೆ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಬಳಸಬೇಡಿ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ಇಂಟರ್ನೆಟ್ ಅನ್ನು ವಿಕೇಂದ್ರೀಕರಿಸಿ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಒಂದು ಹನಿಪಾಟ್ ಆಗಿದೆ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### ಎಲ್ಲರಿಗೂ ಉಚಿತ ಜೇನುತುಪ್ಪ. ಕೆಲವು ತಂತಿಗಳನ್ನು ಜೋಡಿಸಲಾಗಿದೆ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಬಳಸಬೇಡಿ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ಇಂಟರ್ನೆಟ್ ಅನ್ನು ವಿಕೇಂದ್ರೀಕರಿಸಿ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [ಹೊಸ ಪರಿಕರ / ಸ್ಕ್ರಿಪ್ಟ್ ಅನ್ನು ಪ್ರಯತ್ನಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ.](../tool/)
 
 * [ಓದಲು ಕೆಲವು ಪಿಡಿಎಫ್ / ಇಪಬ್ ಇಲ್ಲಿದೆ.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
