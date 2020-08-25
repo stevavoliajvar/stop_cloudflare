@@ -53,24 +53,11 @@
 |  អ្នកប្រហែលជាដឹងអំពីរឿងអាស្រូវ PRISM រួចហើយ។វាជាការពិតដែលថាក្រុមហ៊ុន AT&T អនុញ្ញាតឱ្យ NSA ចម្លងទិន្នន័យអ៊ិនធឺរណែតទាំងអស់ដើម្បីតាមដាន។ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ចូរនិយាយថាអ្នកកំពុងធ្វើការនៅ NSA ហើយអ្នកចង់បានប្រពន្ធ័អ៊ីនធ័រណែតរបស់ពលរដ្ឋគ្រប់រូប។អ្នកដឹងថាពួកគេភាគច្រើនជឿទុកចិត្តលើពពកហ្វារហ្វារនិងប្រើប្រាស់វា - ច្រកចេញចូលកណ្តាលតែមួយ - ដើម្បីប្រូកស៊ីភ្ជាប់បណ្តាញក្រុមហ៊ុនរបស់ពួកគេ (អេសអេសអេជ / អរភីភី) គេហទំព័រផ្ទាល់ខ្លួនគេហទំព័រជជែកគេហទំព័រវេបសាយគេហទំព័រធនាគារគេហទំព័រធានារ៉ាប់រងម៉ាស៊ីនស្វែងរកសមាជិកសម្ងាត់។ - គេហទំព័រតែវេបសាយដេញថ្លៃការទិញទំនិញគេហទំព័រវីដេអូគេហទំព័រអិនអេអេអេហ្វអេហ្វនិងគេហទំព័រខុសច្បាប់។អ្នកក៏ដឹងដែរថាពួកគេប្រើប្រាស់សេវាកម្ម DNS របស់ Cloudflare ("១.១.១.១") និងសេវាកម្ម VPN ("Cloudflare Warp") សម្រាប់“ សុវត្ថិភាព! លឿនជាងមុន! កាន់តែប្រសើរ! បទពិសោធន៍អ៊ីនធឺណិត។ការរួមបញ្ចូលពួកវាជាមួយអាសយដ្ឋាន IP របស់អ្នកប្រើប្រាស់ស្នាមម្រាមដៃកម្មវិធីរុករកឃុកឃីនិងរ៉ាយ - លេខសម្គាល់នឹងមានប្រយោជន៍ក្នុងការបង្កើតប្រវត្តិរូបតាមអ៊ីនធឺណិតរបស់គោលដៅ។ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  អ្នកចង់បានទិន្នន័យរបស់ពួកគេ។ តើ​អ្នក​និង​ធ្វើអ្វី? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare គឺជាទឹកឃ្មុំ។** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **ទឹកឃ្មុំឥតគិតថ្លៃសម្រាប់អ្នករាល់គ្នា។ ខ្សែមួយចំនួនត្រូវបានភ្ជាប់។** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **កុំប្រើ Cloudflare ។** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ធ្វើវិមជ្ឈការអ៊ីនធឺណិត។** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare គឺជាទឹកឃ្មុំ។
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### ទឹកឃ្មុំឥតគិតថ្លៃសម្រាប់អ្នករាល់គ្នា។ ខ្សែមួយចំនួនត្រូវបានភ្ជាប់។
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### កុំប្រើ Cloudflare ។
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ធ្វើវិមជ្ឈការអ៊ីនធឺណិត។
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [សាកល្បងនិងសរសេរឧបករណ៍ / ស្គ្រីបថ្មី។](../tool/)
 
 * [នេះជាឯកសារ PDF / ePUB មួយចំនួនដើម្បីអាន។](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
