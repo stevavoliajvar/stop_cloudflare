@@ -53,24 +53,11 @@
 |  Inti tista 'tkun taf diġà dwar l-iskandlu tal-PRISM.Huwa veru li AT&T iħallik lill-NSA tikkopja d-dejta kollha tal-internet għas-sorveljanza. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Ejja ngħidu li qed taħdem fl-NSA u li trid il-profil tal-internet ta 'kull ċittadin.Taf li ħafna minnhom qed jafdaw bl-addoċċ Cloudflare u jużawha - gateway ċentralizzat wieħed biss - biex jip prokuraw il-konnessjoni tas-server tal-kumpanija tagħhom (SSH / RDP), websajt personali, websajt taċ-chat, websajt tal-forum, websajt tal-bank, websajt tal-assigurazzjoni, magna tat-tiftix, membru sigriet websajt unika, websajt tal-irkant, xiri, websajt tal-vidjow, websajt NSFW, u websajt illegali.Int taf ukoll li jużaw is-servizz DNS ta 'Cloudflare ("1.1.1.1") u s-servizz VPN ("Cloudflare Warp") għal "Sikura! Aktar mgħaġġel! Aħjar! " Esperjenza fl-internet.L-għaqda tagħhom mal-indirizz IP tal-utent, il-marki tas-swaba tal-browser, il-cookies u l-ID RAY se jkunu utli biex jinbena l-profil onlajn tal-mira. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Int trid id-dejta tagħhom. X'ser taghmel? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare huwa pot tal-għasel.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Għasel b'xejn għal kulħadd. Xi kordi mehmuża.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Tużax Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Iddeċentralizza l-internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare huwa pot tal-għasel.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Għasel b'xejn għal kulħadd. Xi kordi mehmuża.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Tużax Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Iddeċentralizza l-internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "Il-Great Cloudwall", l
 * [Ipprova u ikteb Għodda / Skript ġdid.](../tool/)
 
 * [Hawn xi PDF / ePUB biex taqra.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
