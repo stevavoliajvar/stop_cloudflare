@@ -53,24 +53,11 @@
 |  S-ar putea să știți deja despre scandalul PRISM.Este adevărat că AT&T permite NSA să copieze toate datele de pe internet pentru supraveghere. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Să spunem că lucrați la ANS și doriți profilul de internet al fiecărui cetățean.Știți că majoritatea dintre ei au încredere orbă în Cloudflare și o folosesc - o singură poartă centralizată - pentru a-și oferi o legătură cu serverul companiei (SSH / RDP), site-ul personal, site-ul de chat, site-ul forumului, site-ul bancar, site-ul de asigurări, motorul de căutare, membru secret -un singur site, site-ul de licitație, cumpărături, site-uri video, site-ul NSFW și site-ul ilegal.Știți, de asemenea, că folosesc serviciul DNS al Cloudflare („1.1.1.1”) și serviciul VPN („Cloudflare Warp”) pentru „Secure! Mai repede! Mai bine!" experiență pe internet.Combinarea acestora cu adresa IP a utilizatorului, amprenta digitală a browserului, cookie-urile și RAY-ID va fi utilă pentru a crea profilul online al țintei. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Vrei datele lor. Ce vei face? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare este o miere.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Miere gratuită pentru toată lumea. Câteva șiruri atașate.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Nu folosiți Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Descentralizați internetul.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare este o miere.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Miere gratuită pentru toată lumea. Câteva șiruri atașate.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Nu folosiți Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Descentralizați internetul.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Acest depozit este o listă de site-uri web care se află în spatele „Marelui
 * [Încercați și scrieți un nou instrument / script.](../tool/)
 
 * [Iată câteva documente PDF / ePUB pentru citit.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
