@@ -53,24 +53,11 @@
 |  توهان شايد پهريان ئي پيريسم اسڪينڊل بابت knowاڻو ٿا.اهو سچ آهي ته اي ٽي ۽ ٽي اين ايس ايس کي نگراني جي سموري انٽرنيٽ ڊيٽا نقل ڪرڻ جي اجازت ڏئي ٿو. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  اچو ته چوندا آهن ته توهان NSA تي ڪم ڪري رهيا آهيو ، ۽ توهان هر شهري جو انٽرنيٽ پروفائيل چاهيو ٿا.توهان knowاڻو ٿا ته گهڻو ڪري اکين تي ٻرندڙ Cloudflare تي ڀروسو ڪندو آهي ۽ اهو استعمال ڪري رهيو آهي - صرف هڪ مرڪزي گيٽ وي - پنهنجي ڪمپني سرور ڪنيڪشن (SSH / RDP) کي پراکسي ، ذاتي ويب سائيٽ ، چيٽ ويب سائيٽ ، فورم ويب سائيٽ ، بينڪ ويب سائيٽ ، انشورنس ويب سائيٽ ، سرچ انجن ، ڳجهي ميمبر -ڪهڙو ويب سائيٽ ، نيلامي واري ويب سائيٽ ، شاپنگ ، وڊيو ويب سائيٽ ، اين ايس ايف ڊبليو ويب سائيٽ ، ۽ غيرقانوني ويبسائيٽ.توهان اهو به knowاڻو ٿا ته اهي Cloudflare جي DNS سروس ("1.1.1.1") ۽ وي پي اين سروس ("Cloudflare Warp") استعمال ڪندا آهن "محفوظ! تيز! بهتر! “ انٽرنيٽ جو تجربو.انهن کي صارف جي آءِ پي ايڊريس ، برائوزر فنگر پرنٽ ، ڪوڪيز ۽ RAY-ID سان گڏ ڪرڻ ٽارگيٽ جو آن لائن پروفائل ٺاهڻ لاءِ ڪارائتو ٿيندو. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  توهان چاهيو انهن جي ڊيٽا. ڇا ڪندو آن؟ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **ڪلائو فليور هڪ هونيپوٽو آهي.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **سڀني لاءِ مفت پيالو. ڪجهه تارون ڳن attachedيل آهن.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare استعمال نه ڪريو.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **انٽرنيٽ کي غير جانبدار ڪريو.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### ڪلائو فليور هڪ هونيپوٽو آهي.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### سڀني لاءِ مفت پيالو. ڪجهه تارون ڳن attachedيل آهن.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare استعمال نه ڪريو.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### انٽرنيٽ کي غير جانبدار ڪريو.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [ڪوشش ڪريو ۽ نئون اوزار / اسڪرپٽ لکو.](../tool/)
 
 * [هتي پڙهڻ لاءِ ڪجهه پي ڊي ايف / اي پي يو بي جوڙيا ويا آهن.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
