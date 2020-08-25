@@ -110,8 +110,7 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
   * U bigliettu hè statu vandalizatu tante volte.
   * [Eliminatu da u Prughjettu Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Vede u bigliettu 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Ultimu bigliettu d'archiviu 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544), libBletchley
-  * Avianu adupratu Cloudflare in u passatu.CF-tor hè statu cacciatu.
+* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
