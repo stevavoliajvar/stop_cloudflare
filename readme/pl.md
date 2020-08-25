@@ -53,24 +53,11 @@
 |  Być może już wiesz o skandalu PRISM.Prawdą jest, że AT&T zezwala NSA na kopiowanie wszystkich danych internetowych w celu nadzoru. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Załóżmy, że pracujesz w NSA i chcesz mieć profil internetowy każdego obywatela.Wiesz, że większość z nich ślepo ufa Cloudflare i używa go - tylko jednej scentralizowanej bramy - do proxy połączenia z serwerem firmy (SSH / RDP), osobistej strony internetowej, strony czatu, strony forum, strony banku, strony ubezpieczeniowej, wyszukiwarki, tajnego członka -tylko witryna internetowa, witryna aukcyjna, witryna handlowa, witryna wideo, witryna NSFW i witryna nielegalna.Wiesz również, że używają usługi DNS Cloudflare („1.1.1.1”) i usługi VPN („Cloudflare Warp”) w celu zapewnienia bezpieczeństwa! Szybciej! Lepszy!" doświadczenie w Internecie.Połączenie ich z adresem IP użytkownika, odciskami palców przeglądarki, plikami cookie i RAY-ID będzie przydatne do zbudowania profilu online celu. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Chcesz ich danych. Co zrobisz? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare to honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Darmowy miód dla każdego. Trochę sznurków.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Nie używaj Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Zdecentralizuj internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare to honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Darmowy miód dla każdego. Trochę sznurków.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Nie używaj Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Zdecentralizuj internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ To repozytorium to lista stron internetowych, które stoją za „Wielką zapor�
 * [Spróbuj napisać nowe narzędzie / skrypt.](../tool/)
 
 * [Oto kilka plików PDF / ePUB do przeczytania.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
