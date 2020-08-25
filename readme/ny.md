@@ -53,24 +53,11 @@
 |  Mutha kudziwa kale za vuto la PRISM.Ndizowona kuti AT&T imalola NSA kuti ikope zonse zapaintaneti kuti ziwonetsedwe. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Tinene kuti mukugwira ntchito ku NSA, ndipo mukufuna mbiri yapa nzika iliyonse.Mukudziwa kuti ambiri amakhulupirira Cloudflare mosazindikira ndipo amagwiritsa ntchito - khomo limodzi lokhalo - kutsimikizira kulumikizana kwa seva ya kampani yawo (SSH / RDP), tsamba lanu, tsamba lawebusayiti, tsamba la webusayiti, tsamba la webusayiti, tsamba la webusayiti, tsamba la inshuwaransi, osaka zobisika - Webusayiti yokhayo, tsamba la malonda, kugula zinthu, tsamba lamavidiyo, NSFW, tsamba lawebusayiti.Mukudziwanso kuti amagwiritsa ntchito ntchito ya Cloudflare's DNS ("1.1.1.1") ndi ntchito ya VPN ("Cloudflare Warp") ya "Otetezeka! Mofulumirirako! Bwino! " intaneti.Kuphatikiza ndi adilesi ya IP ya ogwiritsa, zala zakusakatuli, ma cookie ndi RAY-ID ndizothandiza popanga mbiri ya intaneti. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Mukufuna zambiri. Mutani? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare ndi chisa cha uchi.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Uchi waulere kwa aliyense. Zingwe zina zomata.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Osagwiritsa ntchito Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Kwezani intaneti.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare ndi chisa cha uchi.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Uchi waulere kwa aliyense. Zingwe zina zomata.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Osagwiritsa ntchito Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Kwezani intaneti.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "The Cloudwall", akuts
 * [Yeserani & lembani chida chatsopano / script.](../tool/)
 
 * [Nayi PDF / ePUB yoti muwerenge.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
