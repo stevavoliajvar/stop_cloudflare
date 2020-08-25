@@ -53,24 +53,11 @@
 |  คุณอาจทราบแล้วเกี่ยวกับเรื่องอื้อฉาว PRISMเป็นความจริงที่ AT&T อนุญาตให้ NSA คัดลอกข้อมูลอินเทอร์เน็ตทั้งหมดเพื่อเฝ้าระวัง | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  สมมติว่าคุณทำงานที่ NSA และคุณต้องการโปรไฟล์อินเทอร์เน็ตของพลเมืองทุกคนคุณรู้ว่าพวกเขาส่วนใหญ่ไว้วางใจ Cloudflare แบบสุ่มสี่สุ่มห้าและใช้เพียงเกตเวย์ส่วนกลางเดียว - เพื่อพร็อกซีการเชื่อมต่อเซิร์ฟเวอร์ของ บริษัท (SSH / RDP) เว็บไซต์ส่วนตัวเว็บไซต์แชทเว็บไซต์ฟอรัมเว็บไซต์ธนาคารเว็บไซต์ประกันภัยเครื่องมือค้นหาสมาชิกลับ - เฉพาะเว็บไซต์เว็บไซต์ประมูลช็อปปิ้งเว็บไซต์วิดีโอเว็บไซต์ NSFW และเว็บไซต์ที่ผิดกฎหมายคุณยังรู้ด้วยว่าพวกเขาใช้บริการ DNS ของ Cloudflare ("1.1.1.1") และบริการ VPN ("Cloudflare Warp") สำหรับ "Secure! เร็วขึ้น! ดีกว่า!” ประสบการณ์อินเทอร์เน็ตการรวมเข้ากับที่อยู่ IP ของผู้ใช้ลายนิ้วมือของเบราว์เซอร์คุกกี้และ RAY-ID จะเป็นประโยชน์ในการสร้างโปรไฟล์ออนไลน์ของเป้าหมาย | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  คุณต้องการข้อมูลของพวกเขา คุณจะทำอะไร? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare เป็นหม้อน้ำผึ้ง** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **น้ำผึ้งฟรีสำหรับทุกคน บางสายที่แนบมา** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **อย่าใช้ Cloudflare** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **กระจายอำนาจอินเทอร์เน็ต** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare เป็นหม้อน้ำผึ้ง
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### น้ำผึ้งฟรีสำหรับทุกคน บางสายที่แนบมา
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### อย่าใช้ Cloudflare
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### กระจายอำนาจอินเทอร์เน็ต
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [ลองเขียน Tool / Script ใหม่](../tool/)
 
 * [นี่คือ PDF / ePUB ที่จะอ่าน](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
