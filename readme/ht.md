@@ -53,24 +53,11 @@
 |  Ou ta ka deja konnen sou eskandal lan prism.Se vre ke AT & T pèmèt NSA kopye tout done entènèt pou siveyans. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Ann di ke ou ap travay nan NSA a, epi ou vle tout pwofil entènèt sitwayen an.Ou konnen pi fò nan yo ap fèmen konfyans Cloudflare ak lè l sèvi avèk li - sèlman yon sèl pòtay santralize - nan prokurasyon koneksyon sèvè konpayi yo (SSH / RDP), sit entènèt pèsonèl, sit entènèt chat, sit entènèt fowòm, sit entènèt labank, sit entènèt asirans, motè rechèch, sekrè manm sèlman sit entènèt, sit entènèt vann piblik, fè makèt, sit entènèt videyo, sit entènèt NSFW, ak sit entènèt ilegal.Ou konnen tou yo itilize sèvis dns Cloudflare a ("1.1.1.1") ak sèvis vpn ("Cloudflare warp") pou “Tache! Pi vit! Pi bon! " eksperyans entènèt.Konbine yo ak adrès IP itilizatè, anprent navigatè, bonbon ak RAY-ID pral itil nan bati pwofil sou entènèt sib la. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Ou vle done yo. Kisa ou pral fe? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare se yon honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Gratis siwo myèl pou tout moun. Gen kèk strings tache.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Pa itilize Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Desantralize entènèt la.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare se yon honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Gratis siwo myèl pou tout moun. Gen kèk strings tache.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Pa itilize Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Desantralize entènèt la.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "Great Cloudwall la", blok
 * [Eseye & ekri nouvo Zouti / Script.](../tool/)
 
 * [Men kèk PDF / ePUB pou li.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
