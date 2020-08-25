@@ -53,24 +53,11 @@
 |  Bạn có thể đã biết về vụ bê bối PRISM.Đúng là AT&T cho phép NSA sao chép tất cả dữ liệu internet để giám sát. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Giả sử bạn đang làm việc tại NSA và bạn muốn có hồ sơ trên internet của mọi công dân.Bạn biết đấy, hầu hết họ đang tin tưởng vào Cloudflare một cách mù quáng và sử dụng nó - chỉ có một cổng tập trung - để ủy quyền kết nối máy chủ công ty của họ (SSH / RDP), trang web cá nhân, trang web trò chuyện, trang web diễn đàn, trang web ngân hàng, trang web bảo hiểm, công cụ tìm kiếm, thành viên bí mật -chỉ trang web, trang web đấu giá, mua sắm, trang web video, trang web NSFW và trang web bất hợp pháp.Bạn cũng biết rằng họ sử dụng dịch vụ DNS của Cloudflare ("1.1.1.1") và dịch vụ VPN ("Cloudflare Warp") cho mục “Bảo mật! Nhanh hơn! Tốt hơn!" kinh nghiệm internet.Kết hợp chúng với địa chỉ IP của người dùng, vân tay trình duyệt, cookie và RAY-ID sẽ hữu ích để xây dựng hồ sơ trực tuyến của mục tiêu. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Bạn muốn dữ liệu của họ. Bạn sẽ làm gì? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare là một honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Mật ong miễn phí cho tất cả mọi người. Một số chuỗi đính kèm.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Không sử dụng Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Phân quyền internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare là một honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Mật ong miễn phí cho tất cả mọi người. Một số chuỗi đính kèm.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Không sử dụng Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Phân quyền internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Kho lưu trữ này là danh sách các trang web đứng sau "Bức tường m�
 * [Thử và viết Công cụ / Tập lệnh mới.](../tool/)
 
 * [Đây là một số PDF / ePUB để đọc.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
