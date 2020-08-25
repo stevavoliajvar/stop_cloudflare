@@ -53,24 +53,11 @@
 |  Kungenzeka ukuthi usuvele uyazi ngesehlakalo se-PRISM.Kuliqiniso ukuthi i-AT & T ivumela i-NSA ukuthi ikopishe yonke idatha ye-inthanethi ukuze ihlolwe. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Masithi usebenza eNSA, futhi ufuna yonke imininingwane yendawo eyisakhamuzi.Uyazi ukuthi iningi labo lithembela ngokungagxili ku-Cloudflare futhi bayisebenzisa - isango elilodwa elihlanganisiwe - ukubhekela ukuxhumeka kweseva yenkampani yabo (i-SSH / RDP), iwebhusayithi yomuntu siqu, iwebhusayithi yokuxoxa, iwebhusayithi yeforamu, iwebhusayithi yebhange, iwebhusayithi yomshuwalense, injini yokusesha, ilungu eliyimfihlo Iwebhusayithi -yodwa, iwebhusayithi ye-auction, ukuyothenga, iwebhusayithi yevidiyo, iwebhusayithi yeNSFW, newebhusayithi engekho emthethweni.Uyazi futhi ukuthi basebenzisa insizakalo ye-DNS ye-Cloudflare ("1.1.1.1") nensizakalo ye-VPN ("Cloudflare Warp") ye "Londekile! Ngokushesha! Kungcono! ” isipiliyoni se-inthanethi.Ukubahlanganisa nekheli le-IP lomsebenzisi, isithonjana seminwe yesiphequluli, amakhukhi kanye ne-RAY-ID kuzosiza ekwakheni iphrofayili ye-inthanethi yethagethi. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Ufuna idatha yabo. Uzokwenzani? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **I-Cloudflare iyi-honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Uju lwamahhala kuwo wonke umuntu. Imicu ethile inamathiselwe.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ungasebenzisi i-Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Nika i-inthanethi i-intanethi.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### I-Cloudflare iyi-honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Uju lwamahhala kuwo wonke umuntu. Imicu ethile inamathiselwe.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ungasebenzisi i-Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Nika i-inthanethi i-intanethi.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Lokhu kugcina uhlu lwamawebhusayithi angemuva kwe- "The Cloudwall" enkulu, evimb
 * [Zama futhi ubhale iThuluzi / Iskripthi esisha.](../tool/)
 
 * [Nayi iPDP / ePUB okufanele uyifunde.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
