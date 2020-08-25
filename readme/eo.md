@@ -54,24 +54,11 @@
 |  Vi eble jam sciis pri la [prisma](https://eo.wikipedia.org/wiki/PRISM) skandalo. Estas vere, ke [AT&T](https://en.wikipedia.org/wiki/AT%26T) permesas al [NSA](https://eo.wikipedia.org/wiki/Nacia_Sekureca_Agentejo) [kopii ĉiujn interretajn datumojn](https://www.cnet.com/news/at-t-lets-nsa-hide-and-surveil-in-plain-sight-the-intercept-reports/) por gvatado. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Ni diru, ke vi laboras ĉe la NSA, kaj vi volas _interretan profilon de ĉiu civitano_. Vi scias, ke plej multaj [blinde fidas Cloudflare](https://twitter.com/search?f=live&q=Cloudflare) kaj uzas ĝin - nur unu centralizita enirejo - por prokrasti ilian kompanian servan konekton ([SSH](https://blog.cloudflare.com/public-keys-are-not-enough-for-ssh-security/)/[RDP](https://blog.cloudflare.com/cloudflare-access-now-supports-rdp/)), personan retejon, babilejon retejo, foruma retejo, banka retejo, asekura retejo, serĉilo, sekreta membro retejo, aŭkcia retejo, [butikumado](https://www.cloudflare.com/case-studies/shopify-powering-the-biggest-shopping-weekend-of-the-year/), filmeto retejo, NSFW-retejo, kaj kontraŭleĝa retejo. Vi ankaŭ scias, ke ili uzas la DNS-servon de Cloudflare ("_1.1.1.1_") kaj VPN-servon ("_Cloudflare Warp_") por "_Sekura! Pli rapide! Pli bona!_" interreta sperto. Kombinante ilin kun IP-adreso, retumila [spuro](https://github.com/VeNoMouS/cloudscraper/issues/209#issuecomment-624853689), kuketoj kaj RAY-ID utilos por konstrui interretan profilon de celo. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Vi volas iliajn datumojn. [Kion vi faros](https://www.reddit.com/r/privacy/comments/1gb0pa/how_prism_actually_works_1520_att_fiber_optic/)? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare estas mielpoto.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Senpaga mielo por ĉiuj. Kelkaj kordoj alligitaj.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ne uzu Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+| **Malcentralizi la interreton.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare estas mielpoto.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Senpaga mielo por ĉiuj. Kelkaj kordoj alligitaj.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ne uzu Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Malcentralizi la interreton.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
