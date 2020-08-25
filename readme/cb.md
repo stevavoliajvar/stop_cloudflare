@@ -53,24 +53,11 @@
 |  Tingali nahibal-an na nimo ang iskandalo sa PRISM.Tinuod nga ang AT&T nagtugot sa NSA nga kopyahon ang tanan nga datos sa internet alang sa pagpaniid. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Ingnon ta nga nagtrabaho ka sa NSA, ug gusto nimo ang matag profile sa internet sa mga lungsuranon.Nahibal-an nimo ang kadaghanan sa mga kini nga wala’y pagsalig sa Cloudflare ug gigamit kini - usa ra ang sentralisado nga gateway - aron pag-proxy sa ilang koneksyon sa kumpanya sa kompaniya (SSH / RDP), personal nga website, chat website, forum website, website sa bangko, website sa paniguro, search engine, tinago nga miyembro -Bahin nga website, subasta sa website, subasta, pagpamaligya, website sa video, website sa NSFW, ug ilegal nga website.Nahibal-an mo usab nga gigamit nila ang serbisyo sa Cloudflare's DNS ("1.1.1.1") ug serbisyo sa VPN ("Cloudflare Warp") alang sa "Secure! Mas tulin! Mas maayo! ” kasinatian sa internet.Ang paghiusa kanila sa IP address sa gumagamit, fingerprint sa browser, cookies ug RAY-ID mahimong mapuslanon sa pagtukod sa profile sa target sa target. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Gusto nimo ang ilang datos. Unsa kaha imong buhaton? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Ang Cloudflare usa ka honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Libre nga dugos alang sa tanan. Ang pila nga mga pisi nga gilakip.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ayaw paggamit Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Deskripsyon sa internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Ang Cloudflare usa ka honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Libre nga dugos alang sa tanan. Ang pila nga mga pisi nga gilakip.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ayaw paggamit Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Deskripsyon sa internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Ang kini nga repositoryo usa ka lista sa mga website nga sa luyo sa "The Great C
 * [Sulayi & pagsulat bag-ong Tool / Script.](../tool/)
 
 * [Niini ang pila ka PDF / ePUB nga mabasa.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
