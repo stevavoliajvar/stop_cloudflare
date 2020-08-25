@@ -17,7 +17,7 @@ C'mon guys. Stop using Cloudflare.
 It's endangering the world wide web and you're blocking readers who are protecting
 their privacy by using Tor.
 ```
--- [Mr. Jeff Cliff, BSc ***PROFILE USES CLOUDFLARE***](https://shitposter.club/users/jeffcliff)  ([Issue 28: WTF Why is Jeff Cliff using Cloudflare website?](https://codeberg.org/crimeflare/cloudflare-tor/issues/28))
+-- [Mr. Jeff Cliff, BSc ***PROFILE USES CLOUDFLARE***](https://shitposter.club/users/jeffcliff)
 
 
 ```
@@ -242,6 +242,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 "[CloudFlare blocked 94% of Tor requests](http://en.android4e.com/?p=1263)"
 
 "[On Cloudflare](https://www.tyil.nl/post/2017/12/17/on-cloudflare/)" by [tyil](https://www.tyil.nl/)
+
+"[What Is Cloudflare, and Did It Really Leak My Data All Over the Internet?](https://www.howtogeek.com/295677/WHAT-IS-CLOUDFLARE-AND-DID-IT-REALLY-LEAK-MY-DATA-ALL-OVER-THE-INTERNET/)"
 
 "[Why CloudFlare Is Probably A Honeypot](https://cypherpunk.is/2015/04/02/why-cloudflare-is-probably-a-honeypot/)" by [cypherpunk](https://cypherpunk.is/)
 
@@ -560,6 +562,20 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ## Microsoft GitHub / GitLab
 </summary>
 
+
+"[Check field values e.g. "Issuer" against RegEx and change badge colour](https://github.com/jannispinter/indicatetls/issues/48)"
+
+"[Unable to query Cloudflare via Python](https://github.com/AnalogJ/lexicon/issues/542)"
+
+"[Having issues with Cloudflare endpoints](https://github.com/ethers-io/ethers.js/issues/949)"
+
+"[Cloudflare Forever Loading](https://github.com/bitwarden/server/issues/713)"
+
+"[403 Cloudflare](https://github.com/zry98/steam-promotions-bot/issues/1)"
+
+"[Unknown Firewall](https://github.com/Ekultek/WhatWaf/issues/868)"
+
+"[Consider dropping Cloudflare](https://github.com/maraoz/maraoz.github.io/issues/1)"
 
 "[Discord is down, and GitHub Actions are failing](https://github.com/PowerNukkit/PowerNukkit/issues/381)"
 
