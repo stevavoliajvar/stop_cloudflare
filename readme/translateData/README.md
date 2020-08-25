@@ -1,1 +1,1 @@
-TEMPLATE(MD) + TEMPLATE(JSON) + ASIS --- generate() ---> xy.md, xy.ethics.md
+![](../../image/int.png)
