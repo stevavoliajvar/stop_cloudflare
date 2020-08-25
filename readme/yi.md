@@ -53,24 +53,11 @@
 |  איר קען שוין וויסן וועגן דעם פּריסם סקאַנדאַל.עס איז אמת אַז AT&T לעץ NSA צו נאָכמאַכן אַלע אינטערנעט דאַטן פֿאַר סערוויילאַנס. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  לאמיר זאגן אז איר ארבעט ביי די NSA, און איר ווילט אז דער בירגער'ס אינטערנעץ פראפיל.איר וויסן אַז רובֿ פון זיי בליינדלי צוטרוי קלאָודפלאַרע און נוצן עס - בלויז איין סענטראַלייזד טויער - צו פּראַקסי זייער פירמע סערווער קשר (SSH / RDP), פערזענלעכע וועבזייטל, שמועסן וועבזייטל, פאָרום וועבזייטל, באַנק וועבזייטל, פאַרזיכערונג וועבזייטל, זוכן מאָטאָר, סוד מיטגליד בלויז וועבזייטל, ליציטאַציע וועבזייטל, שאַפּינג, ווידעא וועבזייטל, NSFW וועבזייטל און ומלעגאַל וועבזייטל.איר אויך וויסן אַז זיי נוצן Cloudflare ס דנס דינסט ("1.1.1.1") און VPN דינסט ("Cloudflare Warp") פֿאַר "זיכער! פאַסטער! בעסער! ” אינטערנעט דערפאַרונג.צו פאַרבינדן די IP אַדרעס פון די באַניצער, פינגערפּרינט פון דעם בלעטערער, ​​קיכלעך און RAY-ID וועט זיין נוציק צו בויען די אָנליין פּראָפיל פון די ציל. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  איר ווילן זייער דאַטן. וואס גייסטו טוהן? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **קלאָודפלאַרע איז אַ האָנעפּאָט.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **פריי האָניק פֿאַר אַלעמען. עטלעכע סטרינגס אַטאַטשט.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **דו זאלסט נישט נוצן קלאָודפלאַרע.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **דיסענטראַלייז די אינטערנעט.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### קלאָודפלאַרע איז אַ האָנעפּאָט.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### פריי האָניק פֿאַר אַלעמען. עטלעכע סטרינגס אַטאַטשט.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### דו זאלסט נישט נוצן קלאָודפלאַרע.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### דיסענטראַלייז די אינטערנעט.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [פּרוּווט און שרייַבן נייַ טול / סקריפּט.](../tool/)
 
 * [דאָ איז עטלעכע PDF / ePUB צו לייענען.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
