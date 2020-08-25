@@ -1,0 +1,141 @@
+maintitle1	The Great Cloudwall
+maintitle2	Stop Cloudflare
+maintitle3	Data and More Information
+maintitle4	What can you do?
+maintitle5	About fake accounts
+clickme	click me
+mainx0n00001	“The Great Cloudwall” is Cloudflare Inc., the U.S. company.
+mainx0n00002	It is providing CDN(content delivery network) services, DDoS mitigation, Internet security, and distributed DNS(domain name server) services.
+mainx0n00003	Cloudflare is the world’s largest MITM proxy(reverse proxy).
+mainx0n00004	Cloudflare owns more than 80% of CDN market share and the number of cloudflare users are growing each day.
+mainx0n00005	They have expanded their network to more than 100 countries.
+mainx0n00006	Cloudflare serves more web traffic than Twitter, Amazon, Apple, Instagram, Bing & Wikipedia combined.
+mainx0n00007	Cloudflare is offering free plan and many people are using it instead of configuring their servers properly.
+mainx0n00008	They traded privacy over convenience.
+mainx0n00009	Cloudflare sits between you and origin webserver, acting like a border patrol agent.
+mainx0n00010	You are not able to connect to your chosen destination.
+mainx0n00011	You are connecting to Cloudflare and all your information is being decrypted and handed over on the fly.
+mainx0n00012	The origin webserver administrator allowed the agent - Cloudflare - to decide who can access to their “web property” and define “restricted area".
+mainx0n00013	Take a look at the right image.
+mainx0n00014	You will think Cloudflare block only bad guys.
+mainx0n00015	You will think Cloudflare is always online(never go down).
+mainx0n00016	You will think legit bots and crawlers can index your website.
+mainx0n00017	However those are not true at all.
+mainx0n00018	Cloudflare is blocking innocent people with no reason. 
+mainx0n00019	Cloudflare can go down.
+mainx0n00020	Cloudflare blocks legit bots.
+mainx0n00021	Just like any hosting service, Cloudflare is not perfect.
+mainx0n00022	You will see this screen even if the origin server is working well.
+mainx0n00023	Do you really think Cloudflare has 100% uptime?
+mainx0n00024	You have no idea how many times Cloudflare goes down.
+mainx0n00025	If Cloudflare goes down your customer cannot access your website.
+mainx0n00026	It is called this in reference to the Great Firewall of China which does a comparable job of filtering out many humans from seeing web content (ie everyone in mainland China and people outside).
+mainx0n00027	While at the same time those not affected to see a dratically different web, a web free of censorship such as an image of “tank man” and the history of “Tiananmen Square protests”.
+mainx0n00028	Cloudflare possesses great power.
+mainx0n00029	In a sense, they control what the end user ultimately sees.
+mainx0n00030	You are prevented from browsing the website because of Cloudflare.
+mainx0n00031	Cloudflare can be used for censorship.
+mainx0n00032	You cannot view cloudflared website if you are using minor browser which Cloudflare may think it is a bot(because not many people use it).
+mainx0n00033	You cannot pass this invasive “browser check” without enabling Javascript.
+mainx0n00034	This is a waste of five(or more) seconds of your valuable life.
+mainx0n00035	Cloudflare also automatically block legit robots/crawlers such as Google, Yandex, Yacy, and API clients.
+mainx0n00036	Cloudflare is actively monitoring “bypass cloudflare” community with an intent to break legit research bots.
+mainx0n00037	Cloudflare similarly prevents many people who have poor internet connectivity from accessing the websites behind it (for example, they could be behind 7+ layers of NAT or sharing same IP, for example public Wifi) unless they solve multiple image CAPTCHAs.
+mainx0n00038	In some cases, this will take 10 to 30 minutes to satisfy Google.
+mainx0n00039	In the year 2020 Cloudflare switched from Google’s Recaptcha to hCaptcha as Google intends to charge for its use.
+mainx0n00040	Cloudflare told you they care your privacy(“it helps address a privacy concern”) but this is obviously a lie.
+mainx0n00041	It is all about money.
+mainx0n00042	“hCaptcha allows websites to make money serving this demand while blocking bots and other forms of abuse”
+mainx0n00043	From user’s perspective, this doesn’t change much. You are being forced to solve it.
+mainx0n00044	Many humans and software are being blocked by Cloudflare every day.
+mainx0n00045	Cloudflare annoys many people around the world.
+mainx0n00046	Take a look at the list and think whether adopting Cloudflare on your site is good for user experience.
+mainx0n00047	What is the purpose of the internet if you cannot do what you want?
+mainx0n00048	Most people who visit your website will just look for other pages if they can’t load a webpage.
+mainx0n00049	You may be not actively blocking any visitors, but Cloudflare’s default firewall is strict enough to block many people.
+mainx0n00050	There is no way to solve the captcha without enabling Javascript and Cookies.
+mainx0n00051	Cloudflare is using them to make a browser signature to identify you.
+mainx0n00052	Cloudflare needs to know your identity to decide whether you are eligeble to continue browsing the site.
+mainx0n00053	Tor users and VPN users are also a victim of Cloudflare.
+mainx0n00054	Both solutions are being used by many people who cannot afford uncensored internet due to their country/corporation/network policy or who wants to add extra layer to protect their privacy.
+mainx0n00055	Cloudflare is shamelessly attacking those people, forcing them to turn off their proxy solution.
+mainx0n00056	If you didn’t try Tor until this moment, we encourage you to download Tor Browser and visit your favorite websites.
+mainx0n00057	We suggest you not to login to your bank website or government webpage or they will flag your account. Use VPN for those websites.
+mainx0n00058	You might want to say “Tor is illegal! Tor users are criminal! Tor is bad!". No.
+mainx0n00059	You might learned about Tor from television, saying Tor can be used to browse darknet and trade guns, drugs or chid porn.
+mainx0n00060	While above statement is true that there are many market website where you can buy such items, those sites are often appear on clearnet too.
+mainx0n00061	Tor was developed by US Army, but current Tor is developed by the Tor project.
+mainx0n00062	There are many people and organizations who use Tor including your future friends.
+mainx0n00063	So, if you are using Cloudflare on your website you are blocking real humans.
+mainx0n00064	You will lose potential friendship and business deal.
+mainx0n00065	And their DNS service, 1.1.1.1, is also filtering out users from visiting the website by returning fake IP address owned by Cloudflare, localhost IP such as “127.0.0.x”, or just return nothing.
+mainx0n00066	Cloudflare DNS also break online software from smartphone app to computer game because of their fake DNS answer.
+mainx0n00067	Cloudflare DNS cannot query some bank websites.
+mainx0n00068	And here you might think,
+mainx0n00069	I am not using Tor or VPN, why should I care?
+mainx0n00070	I trust Cloudflare marketing, why should I care
+mainx0n00071	My website is https why should I care
+mainx0n00072	If you visit website which use Cloudflare, you are sharing your information not only to website owner but also Cloudflare.
+mainx0n00073	This is how the reverse proxy works.
+mainx0n00074	It is impossible to analyze without decrypting TLS traffic.
+mainx0n00075	Cloudflare knows all your data such as raw password.
+mainx0n00076	Cloudbeed can happen anytime.
+mainx0n00077	Cloudflare’s https is never end-to-end.
+mainx0n00078	Do you really want to share your data with Cloudflare, and also 3-letter agency?
+mainx0n00079	Internet user’s online profile is a “product” that the government and big tech companies wants to buy.
+mainx0n00080	U.S. Department of Homeland Security said
+mainx0n00081	Do you have any idea how valuable the data you have is? Is there any way you would sell us that data?
+mainx0n00082	Cloudflare also offer FREE VPN service called “Cloudflare Warp".
+mainx0n00083	If you use it, all your smartphone (or your computer) connections are sent to Cloudflare servers.
+mainx0n00084	Cloudflare can know which website you’ve read, what comment you’ve posted, who you’ve talked to, etc.
+mainx0n00085	You are voluntary giving all your information to Cloudflare.
+mainx0n00086	If you think “Are you joking? Cloudflare is secure.” then you need to learn how VPN works.
+mainx0n00087	Cloudflare said their VPN service make your internet fast.
+mainx0n00088	But VPN make your internet connection slower than your existing connection.
+mainx0n00089	You might already know about the PRISM scandal.
+mainx0n00090	It is true that AT&T lets NSA to copy all internet data for surveillance.
+mainx0n00091	Let’s say you’re working at the NSA, and you want every citizen’s internet profile. 
+mainx0n00092	You know most of them are blindly trusting Cloudflare and using it - only one centralized gateway - to proxy their company server connection(SSH/RDP), personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping, video website, NSFW website, and illegal website.
+mainx0n00093	You also know they use Cloudflare’s DNS service ("1.1.1.1") and VPN service ("Cloudflare Warp") for “Secure! Faster! Better!” internet experience.
+mainx0n00094	Combining them with user’s IP address, browser fingerprint, cookies and RAY-ID will be useful to build target’s online profile.
+mainx0n00095	You want their data. What will you do?
+mainx0n00096	Cloudflare is a honeypot.
+mainx0n00097	Free honey for everyone. Some strings attached.
+mainx0n00098	Do not use Cloudflare.
+mainx0n00099	Decentralize the internet.
+mainx0n00100	Please continue to next page
+mainx0n00101	Cloudflare Ethics
+mainx3n0001	This repository is a list of websites that are behind "The Great Cloudwall", blocking Tor users and other CDNs.
+mainx3n0002	Data
+mainx3n0003	Cloudflare Inc.
+mainx3n0004	Cloudflare Users
+mainx3n0005	Cloudflare Domains
+mainx3n0006	Non-Cloudflare CDN users
+mainx3n0007	Anti-Tor users
+mainx3n0008	More Information
+mainx3n0009	Download
+mainx3n0010	The original eBook(ePUB) was deleted by BookRix GmbH due to copyright infringement of CC0 material
+mainx3n0011	The ticket was vandalized so many times.
+mainx3n0012	Deleted by the Tor Project.
+mainx3n0013	See ticket 34175.
+mainx3n0014	Last archive ticket 24351.
+mainx3n0015	They had used Cloudflare in the past.
+mainx3n0016	CF-tor was removed.
+mainx4n0001	Read our list of recommended actions and share it with your friends.
+mainx4n0002	Read other user's voice and write your thoughts.
+mainx4n0003	Search something
+mainx4n0004	Update the domain list
+mainx4n0005	List instructions
+mainx4n0006	Add Cloudflare or project related event to history.
+mainx4n0007	Try & write new Tool/Script.
+mainx4n0008	Here's some PDF/ePUB to read.
+mainx5n0001	Crimeflare know about the existence of fake accounts impersonating our official channels, be it Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+mainx5n0002	We never ask your email.
+mainx5n0003	We never ask your name.
+mainx5n0004	We never ask your identity.
+mainx5n0005	We never ask your location.
+mainx5n0006	We never ask your donation.
+mainx5n0007	We never ask your review.
+mainx5n0008	We never ask you to follow on social media.
+mainx5n0009	We never ask your social media.
+mainx5n0010	DO NOT TRUST FAKE ACCOUNTS.

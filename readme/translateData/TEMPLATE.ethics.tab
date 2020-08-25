@@ -1,0 +1,94 @@
+clickme	click me
+ethx0000	Ethical Issues
+ethx0001	Don't support this company which is void of ethics
+ethx0002	Your company isn't trustworthy. You claim to enforce DMCA but have many lawsuits for not doing so.
+ethx0003	They only censor those who question their ethics.
+ethx0004	I guess the truth is inconvenient and better hidden from public view.
+ethx1n0000	CloudFlare spams people
+ethx1n0001	Cloudflare is sending spam emails to non-Cloudflare users.
+ethx1n0002	Only send emails to subscribers who've opted in
+ethx1n0003	When the user say "stop", then stop sending email
+ethx1n0004	It's that simple. But Cloudflare doesn't care.
+ethx1n0005	Cloudflare said using their service can stop all spammers or attackers.
+ethx1n0006	How can we stop Cloudflare without activating Cloudflare?
+ethx2n0000	Remove user's review
+ethx2n0001	Cloudflare censor negative reviews.
+ethx2n0002	If you post anti-Cloudflare text on Twitter, you have a chance to get a reply from Cloudflare employee with "No, it's not" message.
+ethx2n0003	If you post a negative review on any review site, they will try to censor it.
+ethx3n0000	Share user's private information
+ethx3n0001	Cloudflare has a massive harassment problem.
+ethx3n0002	Cloudflare shares personal information of those who complain about hosted sites.
+ethx3n0003	They sometimes ask you to provide your true ID.
+ethx3n0004	If you don't want to get harassed, assaulted, swatted or killed, you better stay away from Cloudflared websites.
+ethx4n0000	Corporate solicitation of charitable contributions
+ethx4n0001	CloudFlare is asking for charitable contributions.
+ethx4n0002	It's quite appalling that an American corporation would ask for charity alongside non-profit organizations that have good causes.
+ethx4n0003	If you like blocking people or wasting other people's time, you might want to order some pizzas for Cloudflare employees.
+ethx5n0000	Terminating sites
+ethx5n0001	What will you do if your site goes down suddenly?
+ethx5n0002	There are reports that Cloudflare is deleting user's configuration or stopping service without any warning, silently.
+ethx5n0003	We suggest you find better provider.
+ethx6n0000	Browser vendor discrimination
+ethx6n0001	CloudFlare gives preferential treatment to those using Firefox while giving hostile treatment to users of non-Tor-Browser over Tor.
+ethx6n0002	Tor users of who rightfully refuse to execute non-free javascript also receive hostile treatment.
+ethx6n0003	This access inequality is a network neutrality abuse and an abuse of power.
+ethx6n0004	Left: Tor Browser , Right: Chrome. Same IP address.
+ethx6n0005	Left: Tor Browser Javascript Disabled, Cookie Enabled
+ethx6n0006	Right: Chrome Javascript Enabled, Cookie Disabled
+ethx6n0007	QuteBrowser(minor browser) without Tor (Clearnet IP)
+ethx6n0008	Browser
+ethx6n0009	Access treatment
+ethx6n0010	Javascript enabled
+ethx6n0011	Javascript disabled
+ethx6n0012	Cookie disabled
+ethx6n0013	access permitted
+ethx6n0014	access degraded
+ethx6n0015	access denied
+ethx6n0016	Why not use Audio button to solve easy challenge?
+ethx6n0017	Yes, there is an audio button, but it always doesn't work over Tor.
+ethx6n0018	You will get this message when you click it
+ethx6n0019	Try again later
+ethx6n0020	Your computer or network may be sending automated queries.
+ethx6n0021	To protect our users, we can't process your request right now.
+ethx6n0022	For more details visit our help page
+ethx7n0000	Voter suppression
+ethx7n0001	Voters in US states register to vote ultimately through the state secretary's website in the state of their residence.
+ethx7n0002	Republican-controlled state secretary offices engage in voter suppression by proxying the state secretary's website through Cloudflare.
+ethx7n0003	Cloudflare's hostile treatment of Tor users, its MITM position as a centralized global point of surveillance, and its detrimental role overall makes prospective voters reluctant to register.
+ethx7n0004	Liberals in particular tend to embrace privacy.
+ethx7n0005	Voter registration forms collect sensitive information about a voter's political leaning, personal physical address, social security number, and date of birth.
+ethx7n0006	Most states only make a subset of that information publicly available, but Cloudflare sees all that information when someone registers to vote.
+ethx7n0007	Note that paper registration does not circumvent Cloudflare because the secretary of state data entry staff workers will likely use the Cloudflare website to enter the data.
+ethx7n0008	Change.org is a famous website for gathering votes and take action.
+ethx7n0009	people everywhere are starting campaigns, mobilizing supporters, and working with decision makers to drive solutions.
+ethx7n0010	Unfortunately, many people cannot view change.org at all due to Cloudflare's aggressive filter.
+ethx7n0011	They are being blocked from signing the petition, thus excluding them from a democratic process.
+ethx7n0012	Using other non-cloudflared platform such as OpenPetition helps remedy the problem.
+ethx7n0013	Cloudflare's "Athenian Project" offers free enterprise-level protection to state and local election websites.
+ethx7n0014	They said "their constituents can access election information and voter registration" but this is a lie because many people just can't browse the site at all.
+ethx8n0000	Ignoring user's preference
+ethx8n0001	If you opt-out something, you expect that you receive no email about it.
+ethx8n0002	Cloudflare ignore user's preference and share data with third-party corporations without customer's consent.
+ethx8n0003	If you're using their free plan, they sometimes send email to you asking to buy monthly subscription.
+ethx9n0000	Lying about deleting user's data
+ethx9n0001	According to this ex-cloudflare customer's blog, Cloudflare is lying about deleting accounts.
+ethx9n0002	Nowadays, many companies keep your data after you've closed or removed your account.
+ethx9n0003	Most of good companies do mention about it in their privacy policy.
+ethx9n0004	Cloudflare? No.
+ethx9n0005	CloudFlare sent me confirmation that they'd removed my account.
+ethx9n0006	I received an email from CloudFlare "because I am a customer"
+ethx9n0007	Cloudflare didn't know about the word "remove".
+ethx9n0008	If it is really removed, why this ex-customer got an email?
+ethx9n0009	He also mentioned that Cloudflare's privacy policy doesn't mention about it.
+ethx9n0010	Their new privacy policy doesn't make any mention of retaining data for a year.
+ethx9n0011	How can you trust Cloudflare if their privacy policy is a LIE?
+ethx10n0000	Keep your personal information
+ethx10n0001	Deleting Cloudflare account is hard level.
+ethx10n0002	Submit a support ticket using the "Account" category,
+ethx10n0003	and request account deletion in the message body.
+ethx10n0004	You must have no domains or credit cards attached to your account prior to requesting deletion.
+ethx10n0005	You will receive this confirmation email.
+ethx10n0006	"We have begun to process your deletion request" but "We will continue to store your personal information".
+ethx10n0007	Can you "trust" this?
+pleasenext	Please continue to next page
+cfvoices	Cloudflare Voices
