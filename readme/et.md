@@ -53,24 +53,11 @@
 |  Võite juba teada PRISMi skandaalist.On tõsi, et AT&T laseb NSA-l jäljendamiseks kogu Interneti-andmed kopeerida. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Oletame, et töötate NSA-s ja soovite iga kodaniku Interneti-profiili.Teate, et enamik neist usaldab pimesi Cloudflare'i ja kasutab seda - ainult ühte tsentraliseeritud lüüsi - oma ettevõtte serveri ühenduse (SSH / RDP), isikliku veebisaidi, vestluste veebisaidi, foorumi veebisaidi, panga veebisaidi, kindlustuse veebisaidi, otsimootori, salajase liikme proxy jaoks Ainult veebisait, oksjonisait, ostlemine, videoveebisait, NSFW veebisait ja ebaseaduslik veebisait.Samuti teate, et nad kasutavad Cloudflare'i DNS-teenust ("1.1.1.1") ja VPN-teenust ("Cloudflare Warp") funktsiooni „Turvaline! Kiiremini! Parem! ” Interneti-kogemus.Nende ühendamine kasutaja IP-aadressi, brauseri sõrmejälgede, küpsiste ja RAY-ID-ga on kasulik eesmärgi veebiprofiili loomiseks. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Sa tahad nende andmeid. Mida sa teed? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Pilvvalgus on kärgpott.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Kõigile tasuta mesi. Mõned stringid lisatud.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ärge kasutage Cloudflare'i.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Detsentraliseerige Internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Pilvvalgus on kärgpott.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Kõigile tasuta mesi. Mõned stringid lisatud.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ärge kasutage Cloudflare'i.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Detsentraliseerige Internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ See hoidla on loetelu veebisaitidest, mis asuvad "Suure pilvaseina" taga, blokee
 * [Proovige ja kirjutage uus tööriist / skript.](../tool/)
 
 * [Siit saate lugeda mõnda PDF / ePUB-i.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
