@@ -53,24 +53,11 @@
 |  PRISM 스캔들에 대해 이미 알고있을 것입니다.AT & T가 NSA가 감시를 위해 모든 인터넷 데이터를 복사하도록 허용하는 것은 사실입니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  NSA에서 일하고 있으며 모든 시민의 인터넷 프로필을 원한다고 가정 해 보겠습니다.대부분의 사람들이 Cloudflare를 맹목적으로 신뢰하고 있으며 하나의 중앙 집중식 게이트웨이 만 사용하여 회사 서버 연결 (SSH / RDP), 개인 웹 사이트, 채팅 웹 사이트, 포럼 웹 사이트, 은행 웹 사이트, 보험 웹 사이트, 검색 엔진, 비밀 회원을 프록시합니다. -전용 웹 사이트, 경매 웹 사이트, 쇼핑, 비디오 웹 사이트, NSFW 웹 사이트 및 불법 웹 사이트.또한 Cloudflare의 DNS 서비스 ( "1.1.1.1") 및 VPN 서비스 ( "Cloudflare Warp")를 사용하여 "Secure! 더 빨리! 보다 나은!" 인터넷 경험.이를 사용자의 IP 주소, 브라우저 지문, 쿠키 및 RAY-ID와 결합하면 대상의 온라인 프로필을 구축하는 데 유용합니다. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  당신은 그들의 데이터를 원합니다. 무엇을 하시겠습니까? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare는 허니팟입니다.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **모두를위한 무료 꿀. 일부 끈이 붙어 있습니다.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare를 사용하지 마십시오.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **인터넷을 분산하십시오.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare는 허니팟입니다.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### 모두를위한 무료 꿀. 일부 끈이 붙어 있습니다.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare를 사용하지 마십시오.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### 인터넷을 분산하십시오.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [새로운 도구 / 스크립트를 작성해보십시오.](../tool/)
 
 * [다음은 읽을 수있는 PDF / ePUB입니다.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
