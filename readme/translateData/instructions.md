@@ -22,6 +22,7 @@ Please do not edit _zz_.md directly. It may be overwritten.
 3. Remove all lines but keep what you want to fix. (you can translate all lines if you wish)
   - e.g `mainx0n00013	Take a look at the right image.`
   - format `string_key TAB string_value`
+    - string_value: please don't include any HTML tags or links.
 
 4. Translate the right-side of the string(_string\_value_).
   - Do not edit left-side of the string(_string\_key_), it will be ignored.
