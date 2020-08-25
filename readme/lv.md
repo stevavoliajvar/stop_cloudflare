@@ -53,24 +53,11 @@
 |  Jūs jau varētu zināt par PRISM skandālu.Tā ir taisnība, ka AT&T ļauj NVD kopēt visus interneta datus uzraudzībai. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Pieņemsim, ka jūs strādājat NSA, un jūs vēlaties ikviena pilsoņa interneta profilu.Jūs zināt, ka vairums no viņiem akli uzticas Cloudflare un izmanto to - tikai vienu centralizētu vārteju -, lai proxy savu uzņēmuma servera savienojumu (SSH / RDP), personīgo vietni, tērzēšanas vietni, foruma vietni, bankas vietni, apdrošināšanas vietni, meklētājprogrammu, slepeno biedru tikai vietne, izsoļu vietne, iepirkšanās, video vietne, NSFW vietne un nelegāla vietne.Jūs arī zināt, ka viņi izmanto Cloudflare DNS pakalpojumu (“1.1.1.1”) un VPN pakalpojumu (“Cloudflare Warp”) “Droši! Ātrāk! Labāk! ” interneta pieredze.To apvienošana ar lietotāja IP adresi, pārlūka pirkstu nospiedumi, sīkfaili un RAY-ID būs noderīga, lai izveidotu mērķa tiešsaistes profilu. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Jūs vēlaties viņu datus. Ko tu darīsi? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Mākoņa uzliesmojums ir medus katls.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Bezmaksas medus visiem. Pievienotas dažas stīgas.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Nelietojiet Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralizēt internetu.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Mākoņa uzliesmojums ir medus katls.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Bezmaksas medus visiem. Pievienotas dažas stīgas.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Nelietojiet Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralizēt internetu.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Izmēģiniet un uzrakstiet jaunu rīku / skriptu.](../tool/)
 
 * [Šeit ir daži lasāmie PDF / ePUB.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
