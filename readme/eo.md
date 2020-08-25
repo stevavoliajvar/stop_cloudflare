@@ -111,8 +111,7 @@
   * La bileto estis vandaligita tiom multajn fojojn.
   * Forigita de la [Projekto Tor](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). Vidu bileton [34175](https://trac.torproject.org/projects/tor/ticket/34175).
   * Lasta arkiva bileto [24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Problemo kun Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544) de libBletchley
-  * Ili antaŭe uzis Cloudflare. [Aldonita](https://github.com/privacytools/privacytools.io/pull/1205) CF-tor sed [forigis ĝin](https://github.com/privacytools/privacytools.io/pull/1804).
+* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
 * [Observejo Cloudflare](http://www.crimeflare.org:82/)
 * [Kritiko kaj polemikoj](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) de Vikipedio
 * [Alia limŝtona tago en la milito por kontroli, centraligi kaj cenzuri la interreton.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) de TheGoldenGoose8888
