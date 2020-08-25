@@ -110,8 +110,7 @@
   * டிக்கெட் பல முறை அழிக்கப்பட்டது.
   * [டோர் திட்டத்தால் நீக்கப்பட்டது.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [டிக்கெட் 34175 ஐக் காண்க.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [கடைசி காப்பக டிக்கெட் 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544), libBletchley
-  * அவர்கள் கடந்த காலத்தில் கிளவுட்ஃப்ளேரைப் பயன்படுத்தினர்.சி.எஃப்-டோர் அகற்றப்பட்டது.
+* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
