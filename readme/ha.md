@@ -53,24 +53,11 @@
 |  Wataƙila kun riga kun san labarin abin kunya na PRISM.Gaskiya ne cewa AT&T yana ba NSA damar kwafa duk bayanan intanet don sa ido. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Bari mu ce kuna aiki a NSA, kuma kuna son duk bayanan intanet na kowane ɗan ƙasa.Ka san mafi yawansu suna makanta da Cloudflare da makanta kuma suna amfani da shi - ƙwararrun ƙofa guda ɗaya - don wakili haɗin haɗin uwar garken kamfanin su (SSH / RDP), gidan yanar gizon sirri, gidan yanar gizon tattaunawa, gidan yanar gizon dandalin banki, gidan yanar gizon inshora, injin bincike, membobin asirin -nikan yanar gizo, gidan yanar gizo na tallace-tallace, sayayya, gidan yanar gizon bidiyo, gidan yanar gizon NSFW, da yanar gizo ba bisa ƙa'ida ba.Hakanan ka san cewa suna amfani da sabis ɗin DNS na Cloudflare ("1.1.1.1") da sabis na VPN ("Cloudflare Warp") don "Amintaccen! Yayi sauri! Mafi kyau! ” kwarewar intanet.Haɗa su da adireshin IP na mai amfani, sawun yatsa, kukis da RAY-ID za su kasance da amfani don gina bayanin martaba na kan layi. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Kuna son bayanan su. Me za ki yi? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare shine giyar zuma.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Free zuma ga kowa. Wasu kirtani a haɗe.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Karka yi amfani da Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Rage yanar gizo.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare shine giyar zuma.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Free zuma ga kowa. Wasu kirtani a haɗe.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Karka yi amfani da Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Rage yanar gizo.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Wannan wurin ajiyar kaya akwai jerin rukunin yanar gizon da ke bayan "Babban Clo
 * [Gwada & rubuta sabon kayan aiki / Rubutun.](../tool/)
 
 * [Ga wasu PDF / ePUB don karantawa.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
