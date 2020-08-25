@@ -53,24 +53,11 @@
 |  ప్రిస్మ్ కుంభకోణం గురించి మీకు ఇప్పటికే తెలిసి ఉండవచ్చు.AT&T నిఘా కోసం అన్ని ఇంటర్నెట్ డేటాను కాపీ చేయడానికి NSA ని అనుమతిస్తుంది. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  మీరు NSA లో పనిచేస్తున్నారని చెప్పండి మరియు ప్రతి పౌరుడి ఇంటర్నెట్ ప్రొఫైల్ మీకు కావాలి.వారి కంపెనీ సర్వర్ కనెక్షన్ (ఎస్‌ఎస్‌హెచ్ / ఆర్డిపి), వ్యక్తిగత వెబ్‌సైట్, చాట్ వెబ్‌సైట్, ఫోరమ్ వెబ్‌సైట్, బ్యాంక్ వెబ్‌సైట్, ఇన్సూరెన్స్ వెబ్‌సైట్, సెర్చ్ ఇంజన్, సీక్రెట్ మెంబర్ -ఒక వెబ్‌సైట్, వేలం వెబ్‌సైట్, షాపింగ్, వీడియో వెబ్‌సైట్, ఎన్‌ఎస్‌ఎఫ్‌డబ్ల్యు వెబ్‌సైట్ మరియు అక్రమ వెబ్‌సైట్.వారు “సురక్షితం!” కోసం క్లౌడ్‌ఫ్లేర్ యొక్క DNS సేవ ("1.1.1.1") మరియు VPN సేవ ("క్లౌడ్‌ఫ్లేర్ వార్ప్") ను ఉపయోగిస్తున్నారని మీకు తెలుసు. వేగంగా! మంచి!" ఇంటర్నెట్ అనుభవం.వినియోగదారు యొక్క IP చిరునామా, బ్రౌజర్ వేలిముద్ర, కుకీలు మరియు RAY-ID లతో వాటిని కలపడం లక్ష్యం యొక్క ఆన్‌లైన్ ప్రొఫైల్‌ను రూపొందించడానికి ఉపయోగపడుతుంది. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  మీకు వారి డేటా కావాలి. నువ్వు ఏమి చేస్తావు? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **క్లౌడ్‌ఫ్లేర్ ఒక హనీపాట్.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **అందరికీ ఉచిత తేనె. కొన్ని తీగలను జత చేశారు.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **క్లౌడ్‌ఫ్లేర్‌ను ఉపయోగించవద్దు.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ఇంటర్నెట్‌ను వికేంద్రీకరించండి.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### క్లౌడ్‌ఫ్లేర్ ఒక హనీపాట్.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### అందరికీ ఉచిత తేనె. కొన్ని తీగలను జత చేశారు.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### క్లౌడ్‌ఫ్లేర్‌ను ఉపయోగించవద్దు.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ఇంటర్నెట్‌ను వికేంద్రీకరించండి.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [కొత్త సాధనం / స్క్రిప్ట్‌ను ప్రయత్నించండి & వ్రాయండి.](../tool/)
 
 * [చదవడానికి ఇక్కడ కొన్ని PDF / ePUB ఉంది.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
