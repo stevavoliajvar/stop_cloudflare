@@ -53,24 +53,11 @@
 |  O le ti mọ tẹlẹ nipa itanjẹ PRISM.Otitọ ni pe AT&T jẹ ki NSA ṣe ẹda gbogbo data intanẹẹti fun eto iwo-kakiri. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Jẹ ki a sọ pe o n ṣiṣẹ ni NSA, ati pe o fẹ profaili gbogbo ilu ti gbogbo ara ilu.O mọ pe pupọ ninu wọn ni igboya ni igbẹkẹle Cloudflare ati lilo rẹ - ẹnu-bode centralized kan nikan - lati ṣe aṣoju isopọmọ olupin ile-iṣẹ wọn (SSH / RDP), oju opo wẹẹbu ti ara ẹni, oju opo wẹẹbu iwiregbe, oju opo wẹẹbu aaye, banki aaye ayelujara, aaye ayelujara iṣeduro, ẹrọ wiwa, ọmọ ẹgbẹ aṣiri Oju opo wẹẹbu, oju opo wẹẹbu titaja, riraja, oju opo wẹẹbu fidio, oju opo wẹẹbu NSFW, ati oju opo wẹẹbu arufin.O tun mọ pe wọn lo iṣẹ DNS ti Cloudflare ("1.1.1.1") ati iṣẹ VPN ("Cloudflare Warp") fun “Aabo! Yara ju! Dara julọ! ” iriri ayelujara.Darapọ wọn pẹlu adiresi IP adiresi olumulo, itẹka aṣàwákiri, awọn kuki ati IDAY-ID yoo wulo lati kọ profaili ori ayelujara. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  O fẹ data wọn. Kini iwọ yoo ṣe? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare jẹ ibi ifun oyin.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Oyin didi fun gbogbo eniyan. Diẹ ninu awọn gbolohun ọrọ so.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Maṣe lo Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralize ayelujara.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare jẹ ibi ifun oyin.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Oyin didi fun gbogbo eniyan. Diẹ ninu awọn gbolohun ọrọ so.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Maṣe lo Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralize ayelujara.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Ibi ipamọ yii jẹ atokọ ti awọn oju opo wẹẹbu ti o wa lẹhin "The Cl
 * [Gbiyanju & kọ Ọpa / Akosile tuntun.](../tool/)
 
 * [Eyi ni diẹ ninu PDF / ePUB lati ka.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
