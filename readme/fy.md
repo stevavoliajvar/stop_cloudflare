@@ -53,24 +53,11 @@
 |  Jo kinne miskien al witte oer it PRISM-skandaal.It is wier dat AT&T NSA alle ynternetgegevens kopieart foar tafersjoch. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Litte we sizze dat jo wurkje by de NSA, en jo wolle it ynternetprofyl fan elke boarger hawwe.Jo wite dat de measte fan harren blyn Cloudflare fertrouwe en it brûke - mar ien sintralisearre gateway - om har bedriuwsserverferbining (SSH / RDP) te proxy, persoanlike webside, petearwebside, forumwebsite, bankwebside, fersekeringswebside, sykmasjine, geheime lid -only website, Auction website, shopping, video website, NSFW website, en yllegale webside.Jo wite ek dat se de DNS-tsjinst fan Cloudflare ("1.1.1.1") en VPN-tsjinst ("Cloudflare Warp") brûke foar "Feilich! Faster! Better!" ynternetûnderfining.Kombinearje se mei it IP-adres fan 'e brûker, fingeravdruk fan' e browser, cookies en RAY-ID sil nuttich wêze om it online profyl fan it doel te bouwen. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Jo wolle har gegevens. Wat silst dwaan? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare is in honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Fergees huning foar elkenien. Guon snaren taheakke.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Brûk gjin Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Desintralisearje it ynternet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare is in honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Fergees huning foar elkenien. Guon snaren taheakke.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Brûk gjin Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Desintralisearje it ynternet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
 * [Besykje en skriuw in nij ark / skript.](../tool/)
 
 * [Hjir is wat PDF / ePUB om te lêzen.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
