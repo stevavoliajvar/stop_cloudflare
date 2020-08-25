@@ -53,24 +53,11 @@
 |  您可能已经知道PRISM丑闻。AT＆T确实允许NSA复制所有互联网数据以进行监视。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  假设您在国家安全局（NSA）工作，并且想要每个公民的互联网个人资料。您知道他们中的大多数人都盲目地信任Cloudflare并使用它-仅一个集中式网关-代理其公司服务器连接（SSH / RDP），个人网站，聊天网站，论坛网站，银行网站，保险网站，搜索引擎，秘密成员仅限网站，拍卖网站，购物，视频网站，NSFW网站和非法网站。您还知道他们将Cloudflare的DNS服务（“ 1.1.1.1”）和VPN服务（“ Cloudflare Warp”）用于“安全！快点！更好！”互联网体验。将它们与用户的IP地址，浏览器指纹，Cookie和RAY-ID结合使用，将有助于建立目标的在线个人资料。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  您需要他们的数据。你会怎么做？ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare是一个蜜罐。** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **免费给大家蜂蜜。一些附加的字符串。** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **不要使用Cloudflare。** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **分散互联网。** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare是一个蜜罐。
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### 免费给大家蜂蜜。一些附加的字符串。
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### 不要使用Cloudflare。
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### 分散互联网。
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [尝试并编写新的工具/脚本。](../tool/)
 
 * [这是一些PDF / ePUB可供阅读。](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
