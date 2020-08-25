@@ -53,24 +53,11 @@
 |  Waxaa laga yaabaa inaad hore u ogtahay fadeexada PRISM.Waa run in AT&T ay NSA u oggolaanayso inay nuqul ka sameysato dhammaan macluumaadka internet-ka ee la socoshada. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Aynu sheegnaa inaad ka shaqeyneyso NSA, oo aad rabto qof walba oo muwaadin internet ah.Waad ogtahay in badankood ay si indho la’aan ah u aaminaan Cloudflare oo ay adeegsadaan - hal albaab oo xarun dhexe ah - si ay wakiil uga dhigaan xiriirkooda shirkad (SSH / RDP), websaydhka shaqsiyadeed, websaydhka sheekaysiga, websaydhka bangiga, bogga caymiska, mashiinka raadinta, xubin qarsoodi ah - kaliya shabakad, bogga xaraashka, dukaamaysiga, degelka fiidiyowga, websaydhka NSFW, iyo degel sharci darro ah.Waxaad sidoo kale ogtahay inay u isticmaalaan adeegga 'Cloudflare's DNS service' ("1.1.1.1") iyo adeegga VPN ("Cloudflare Warp") ee loogu talagalay "Ammaan ah! Degdeg! Kafiican! waayo-aragnimada internetka.Iyaga oo lagu darayo cinwaanka 'IP' ee cinwaanka, sawirka faraha, sawirada cookie-ka iyo RAY-ID ayaa faa iido u yeelan doona in lagu dhiso barta internetka bartilmaameedka. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Waxaad dooneysaa xogtooda. Maxaad sameyn doontaa | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare waa malab malab.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Malab bilaash ah qof walba. Xargaha qaar baa ku lifaaqan.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ha isticmaalin Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Ka faa iideyso internetka.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare waa malab malab.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Malab bilaash ah qof walba. Xargaha qaar baa ku lifaaqan.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ha isticmaalin Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Ka faa iideyso internetka.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xan
 * [Isku day oo qor Qalabka / Qoraalka cusub.](../tool/)
 
 * [Waa tan qaar PDF / ePUB ah si aad wax u aqriso.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
