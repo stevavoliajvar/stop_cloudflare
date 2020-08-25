@@ -53,24 +53,11 @@
 |  Puderia digià sapè u scandalu PRISM.Hè veru chì AT&T permette à l'NSA di copià tutte e dati d'internet per a vigilazione. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Cunsintemu chì site di travaglià à l'NSA è chì vulete chì u vostru prufilu d'Internet di ogni citadinu.Sapete chì a maiò parte di elli sò fiduciamente nuvola in Cloudflare è l'utilizanu - solu un gateway centralizatu - per proxy a so cunnessione di servitore di cumpagnia (SSH / RDP), situ web persunale, situ di chat, situ web di forum, situ web di banca, situ di assicurazione, motore di ricerca, membru segrettu -un solu situ web, site d'asta, shopping, situ video, situ NSFW, è situ illegale.Sapete ancu chì usanu u serviziu DNS di Cloudflare ("1.1.1.1") è u serviziu VPN ("Cloudflare Warp") per "Secure! Più prestu! Megliu! " sperienza in Internet.Cumminendu cun l'indirizzu IP di l'utilizatore, l'emprente digitale di i navigatori, i cookies è RAY-ID seranu utili per custruisce u profilu in ligna di u destinatu. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Vulete e so dati. Chì farete? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare hè un tonu di mele.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Meli gratuiti per tutti. Certi fili sò attaccati.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ùn aduprate micca Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Descentralizà l'internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare hè un tonu di mele.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Meli gratuiti per tutti. Certi fili sò attaccati.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ùn aduprate micca Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Descentralizà l'internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
 * [Pruvate è scrivite novu Tool / Script.](../tool/)
 
 * [Eccu alcuni PDF / ePUB per leghje.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
