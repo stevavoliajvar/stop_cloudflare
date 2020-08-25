@@ -53,24 +53,11 @@
 |  Dir wësst vläicht scho iwwer de PRISM Skandal.Et ass richteg datt AT&T NSA erlaabt all Internet Daten fir d'Iwwerwaachung ze kopéieren. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Loosst eis soen datt Dir op der NSA schafft, an Dir wëllt all Bierger säin Internetprofil hunn.Dir wësst datt déi meescht vun hinnen blann op Cloudflare trauen an et benotze - nëmmen eng zentraliséiert Paart - fir hir Firmesserververbindung (SSH / RDP) ze proxy, perséinlech Websäit, Chat Websäit, Forum Websäit, Bank Websäit, Versécherungs Websäit, Sichmotor, Geheim Member -eng eenzeg Websäit, Auktioun Websäit, Shopping, Video Websäit, NSFW Websäit, an illegal Websäit.Dir wësst och datt se Cloudflare's DNS Service ("1.1.1.1") an VPN Service ("Cloudflare Warp") benotze fir "Séchert! Méi séier! Besser! “ Internet Erfahrung.D'Kombinatioun vun hinnen mat der IP-Adress vum Benotzer, Browser Fangerofdrock, Cookien an RAY-ID wier nëtzlech fir den Online-Profil vum Zil ze bauen. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Dir wëllt hir Donnéeën. Waat wëlls du maachen? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare ass en Honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Gratis Schatz fir all. E puer Saiten ugeschloss.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Benotzt net Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Dezentraliséiert den Internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare ass en Honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Gratis Schatz fir all. E puer Saiten ugeschloss.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Benotzt net Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Dezentraliséiert den Internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "The Great Cloudwal
 * [Probéiert & schreift neit Tool / Skript.](../tool/)
 
 * [Hei e puer PDF / ePUB fir ze liesen.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
