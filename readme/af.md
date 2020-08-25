@@ -1,4 +1,4 @@
-# The Great Cloudwall
+# Die Groot Wolkmuur
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
@@ -12,7 +12,7 @@
 
 |  🖹  |  🖼 |
 | --- | --- |
-|  “The Great Cloudwall” is Cloudflare Inc., die Amerikaanse maatskappy.Dit bied CDN-dienste (inhoudafleweringsnetwerk), DDoS-versagting, internetveiligheid en verspreide DNS-dienste (domeinnaambediener).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
+|  “Die Groot Wolkmuur” is Cloudflare Inc., die Amerikaanse maatskappy.Dit bied CDN-dienste (inhoudafleweringsnetwerk), DDoS-versagting, internetveiligheid en verspreide DNS-dienste (domeinnaambediener).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
 |  Cloudflare is die wêreld se grootste MITM-instaanbediener (omgekeerde instaanbediener).Cloudflare besit meer as 80% van die markaandeel van CDN en die aantal gebruikers van cloudflare groei elke dag.Hulle het hul netwerk na meer as 100 lande uitgebrei.Cloudflare bedien meer webverkeer as gesamentlik Twitter, Amazon, Apple, Instagram, Bing en Wikipedia.Cloudflare bied gratis plan aan en baie mense gebruik dit in plaas daarvan om hul bedieners behoorlik op te stel.Hulle het privaatheid verhandel weens gemak.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg)  |
 |  Cloudflare sit tussen u en die oorspronklike webbediener, en tree op soos 'n grenspatrollie-agent.U kan nie met u gekose bestemming skakel nie.U maak verbinding met Cloudflare en al u inligting word ontsyfer en vlugtig oorhandig. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/border_patrol.jpg)  |
 |  Die oorsprong-webbedieneradministrateur het die agent - Cloudflare - toegelaat om te besluit wie toegang tot hul 'webeiendom' het en 'beperkte gebied' kan definieer.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/usershoulddecide.jpg)  |
