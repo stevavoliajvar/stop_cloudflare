@@ -5564,3 +5564,4 @@ https://www.reddit.com/user/grahamperrin
 https://www.reddit.com/user/rediii123
 https://www.reddit.com/user/zaarn_
 https://www.torproject.org/  (see HISTORY.md)
+https://github.com/dngray (https://github.com/privacytools/privacytools.io/pull/2018/commits/83f2bb254c0c728b3fc1fc68ba1cdef0877b064f)
