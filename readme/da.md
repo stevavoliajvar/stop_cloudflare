@@ -53,24 +53,11 @@
 |  Du ved muligvis allerede om PRISM-skandalen.Det er rigtigt, at AT&T lader NSA kopiere alle internetdata til overvågning. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Lad os sige, at du arbejder på NSA, og at du ønsker enhver borgeres internetprofil.Du ved, at de fleste af dem stoler blindt på Cloudflare og bruger det - kun en centraliseret gateway - til at proxy deres firmageserverforbindelse (SSH / RDP), personlig webside, chatwebsted, forumwebsted, bankwebsted, forsikringswebsted, søgemaskine, hemmeligt medlem - kun websted, auktionswebsted, shopping, videowebsite, NSFW-websted og ulovligt websted.Du ved også, at de bruger Cloudflares DNS-service ("1.1.1.1") og VPN-service ("Cloudflare Warp") til "Secure! Hurtigere! Bedre!" internetoplevelse.Kombination af dem med brugerens IP-adresse, browserfingeraftryk, cookies og RAY-ID vil være nyttigt til at oprette måls online-profil. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Du vil have deres data. Hvad vil du gøre? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare er en honningplade.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Gratis skat til alle. Nogle strenge er knyttet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Brug ikke Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentraliser internettet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare er en honningplade.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Gratis skat til alle. Nogle strenge er knyttet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Brug ikke Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentraliser internettet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Dette depot er en liste over websteder, der ligger bag "The Great Cloudwall", de
 * [Prøv & skriv nyt værktøj / script.](../tool/)
 
 * [Her er nogle PDF / ePUB at læse.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
