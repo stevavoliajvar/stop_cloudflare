@@ -3,33 +3,33 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Ma taageerin shirkaddan oo anshax darrada ah"
+"Ha taageerin shirkaddan anshax xumo ka tahay"
 
-"_Shirkaddaada aan la aamini karin. Waxaad sheeganeysaa inaad xoojineyso DMCA laakiin aad leedahay sharciyo badan oo aadan sameynin sidaas._"
+"Shirkaddaada lama aamini karo. Waxaad sheeganeysaa inaad xoojineyso DMCA laakiin waxaad leedahay dacwooyin badan oo aadan sameynin sidaas."
 
-"Waxay_Isoo daayaan oo kaliya kuwa isweydiinaya akhlaaqda suuban._"
+"Kaliya waxay tirakoobayaan kuwa wax waydiinaya anshaxdooda."
 
-"_Waxaan qiyaasayaa in runtu ay tahay mid aan dhib lahayn isla markaana si fiican uga qarsoon aragtida bulshada._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Waxaan qiyaasayaa in runtu tahay mid aan sahlaneyn oo ka wanaagsan aragtida guud."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
-<ttails>
-Soo koobid> _click me_
+<details>
+<summary>isoo riix
 
-## CloudFlare wuxuu kufsadaa dadka
-Soo-koobitaan>
+## CloudFlare waxay daadisaa dadka
+</summary>
 
 
 Cloudflare waxay u diraysaa emails macaamiisha isticmaaleyaasha Cloudflare.
 
-- U dir emayl keliya macaamiisha dooratay
+- Kaliya u dir emayllada macaamiisha dooratay
 - Marka adeegsaduhu dhaho "Jooji", ka dib jooji dirista emaylka
 
 Taasi way fududahay. Laakiin Cloudflare dan kama gelin.
-Cloudflare wuxuu sheegay in adeeggooda [ay joojin karaan dhammaan kuwa khafiifka ah ama kuwa wax weeraraya](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-ystoflare-stop-all-spammers-or-attackers- ).
-Sidee ayaan u joojin karnaa _Cloudflare spammers_ annaga oo aan dhaqaajin Cloudflare?
+Cloudflare wuxuu sheegay in adeeggooda ay joojin karaan dhamaan kuwa wax weerara ama weeraraya.
+Sideen u joojin karnaa Cloudflare anaga oo aan dhaqaajin Cloudflare?
 
 
 | 🖼 | 🖼 |
@@ -41,14 +41,16 @@ Sidee ayaan u joojin karnaa _Cloudflare spammers_ annaga oo aan dhaqaajin Cloudf
 
 ---
 
-<ttails>
-Soo koobid> _click me_
+<details>
+<summary>isoo riix
 
-## Ka saar dib u eegista isticmaalaha
-Soo-koobitaan>
+## Meesha ka saar dib u eegista isticmaalaha
+</summary>
 
 
-Faafida Cloudflare [dib u eegista taban](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Hadaad dhejiso _anti-Cloudflare_ qoraalka Twitterka, waxaad fursad uheleysaa inaad hesho [reply](https://twitter.com/CloudflareHelp/status/1126051764917145601) kana yimaada [Cloudflare_inc/Cloudflare_members.txt) oo leh "_[Maya, maahan](PEOPLE.md) _ "farriin. Haddii aad dhejisid dulucda bog kasta oo aad fiiriso, waxay isku dayi doonaan [faafreeb](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672) ).
+Cloudflare faafreebka dib u eegista xun.
+Haddii aad ku dhejiso qoraalka 'anti-Cloudflare' Twitter, waxaad fursad u leedahay inaad jawaab ka hesho shaqaalaha Cloudflare oo leh "Maya, maahan" farriin.
+Haddii aad ku dhajiso faallooyinka xun bog kasta oo dib u eegis ah, waxay isku dayi doonaan inay faafiyaan.
 
 
 | 🖼 | 🖼 |
@@ -59,16 +61,17 @@ Faafida Cloudflare [dib u eegista taban](https://web.archive.org/web/20191116004
 
 ---
 
-<ttails>
-Soo koobid> _click me_
+<details>
+<summary>isoo riix
 
-## Doxxing adeegsadeyaasha
-Soo-koobitaan>
+## La wadaag macluumaadka gaarka ah ee isticmaaleyaasha
+</summary>
 
 
-Cloudflare waxay leedahay dhibaato weyn [dhibaataynta dhibaataynta](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -fake-magac-2017-5).
-Cloudflare [waxay wadaagaan macluumaadka shaqsiga ah](https://archive.ph/ePdvi) kuwa [yaa](https://twitter.com/ZJemptv/status/898299709634248704) [cafiyeen](https://twitter.com/TinyPirate/status/554718958176067584) [oo ku saabsan](https://twitter.com/remembrancermx/status/1010329041235148802) [marti geliyey](https://twitter.com/Bridaguy/status/915003769280172037) [goobo](https://twitter .com/HelloAndrew/status/897260208845500416). Mararka qaarkood waxay kaa codsadaan inaad bixiso
-aqoonsigaaga dhabta ah. Haddii aadan rabin in lagu kadeedo, [la weeraray](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ama [ladilay](https://twitter.com/RusEmbUSA/status/1187363092793040901), inaad si fiican uga fogow boggaga internetka ee Cloudflared.
+Cloudflare waxay leedahay dhibaato kadeedis ballaaran.
+Cloudflare waxay wadaagaan macluumaadka shaqsiyadeed ee kuwa ka cabanaya bogagga martigeliyay.
+Mararka qaarkood waxay kaa codsadaan inaad keento Aqoonsigaaga saxda ah.
+Haddii aadan dooneynin in lagu kadeedo, lagu weeraro, wareejiyo ama la dilo, waxaa fiican inaad ka fogaato bogagga internetka ee Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -81,14 +84,16 @@ aqoonsigaaga dhabta ah. Haddii aadan rabin in lagu kadeedo, [la weeraray](https:
 
 ---
 
-<ttails>
-Soo koobid> _click me_
+<details>
+<summary>isoo riix
 
-## U doodista shirkadaha ee tabarucaada sadaqada
-Soo-koobitaan>
+## U doodista shirkadeed ee tabarucyada sadaqada
+</summary>
 
 
-CloudFlare waxay [weydiineysaa](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) tabarucaad sadaqo. Waa wax laga xumaado in shirkad Mareykan ah ay weydiisato sadaqo oo ay weheliso ururro aan macaash doon ahayn oo leh sababo wanaagsan. Hadaad jeceshahay [inaad dadka joojiso ama aad lumiso waqtiga dadka kale](dadka la wadaago), waxaa laga yaabaa inaad u dalbatid qaar ka mid ah pizzas🍕 shaqaalaha Cloudflare.
+CloudFlare waxay weydiisaneysaa tabaruc sadaqo ah.
+Waa wax laga naxo in shirkad Mareykan ah ay weydiisato hay'ad samafal oo ay weheliso ururro aan macaash doon ahayn oo leh sababo wanaagsan.
+Haddii aad jeceshahay inaad dadka xayirto ama lumiso waqtiga dadka kale, waxaad ubaahnaan kartaa inaad ku amarto xoogaa pizzas qaar ka mid ah shaqaalaha Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -97,14 +102,16 @@ CloudFlare waxay [weydiineysaa](https://web.archive.org/web/20191112033605/https
 
 ---
 
-<ttails>
-Soo koobid> _click me_
+<details>
+<summary>isoo riix
 
-## Goobaha burburin
-Soo-koobitaan>
+## Goobaha joojinta
+</summary>
 
 
-Maxaad samaynaysaa haddii goobtaadu ay hoos u dhacdo _suddenly_? Waxaa jira warbixino sheegaya in Cloudflare uu [tirtirayo](https://twitter.com/stefan_eady/status/1126033791267426304) [adeegsigu](https://twitter.com/derivativeburke/status/903755267053117440) [qaabeynta](https://twitter.com/lordscarlet/status/1046785164792205314) ama [adeegga joojinta bilaa digniin ah](https://twitter.com/svolentin/status/1227324408475344896), [aamusnaan](https://twitter.com/BlnaryMlke/status/1194339461984854018). Waxaan kugula talineynaa inaad hesho [bixiye wanaagsan](waxa-to-do.md).
+Maxaad samayn doontaa haddii boggaagu si kedis ah hoos ugu dhaco?
+Waxaa jira warbixino sheegaya in Cloudflare uu tirtirayo qaabeynta isticmaalaha ama joojinta adeegga bilaa digniin, aamusnaan.
+Waxaan kugula talineynaa inaad heshid adeeg bixiye wanaagsan.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -112,46 +119,47 @@ Maxaad samaynaysaa haddii goobtaadu ay hoos u dhacdo _suddenly_? Waxaa jira warb
 
 ---
 
-<ttails>
-Soo koobid> _click me_
+<details>
+<summary>isoo riix
 
-## Qiimeeyaha iibiyaha Browser
-Soo-koobitaan>
+## Takoorida iibiyaha Browser
+</summary>
 
 
-CloudFlare waxay siisaa doorbidaad doorbidid kuwa isticmaala Firefox iyadoo la siinayo daaweyn cadaawad leh isticmaaleyaasha Tor-Browser-ka Tor.
-Isticmaalayaasha Tor ee kuwa sida saxda ah u diida inay dilaan javascript-ka bilaashka ah sidoo kale waxay helaan daaweyn cadaawad leh.
+CloudFlare waxay siineysaa daaweyn laxiriira kuwa isticmaalaya Firefox halka ay daryeel cadaawad u siineyso isticmaaleyaasha kuwa aan aheyn Tor-Browser-ka Tor.
+Isticmaalayaasha Tor ee si sax ah u diida inay dilaan javascript-ka bilaashka ah sidoo kale waxay helaan daaweyn cadaawad leh.
 Sinnaan-helitaankan ayaa ah xad-gudub dhexdhexaadnimo shabakadeed iyo ku takri-fal awoodeed.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Bidix: `Tor Browser`, Xuquuqda: 'Chrome`. Cinwaan IP isku mid ah.
+- Bidix: Tor Browser, Midig: Chrome. Cinwaan IP isku mid ah.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- bidix: `[Bro Broerer] Javascript naafo ah, cookie kartiyey '
-- Midig: `[Chrome] Javascript karti u leeyahay, cookie naafo ah '
+- Bidix: Tor Browser Javascript Naafoobay, Kuki waa kartibay
+- Midig: Chrome Javascript karti u leeyahay, cookie naafo ah
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
-- QuteBrowser (biraawsar fudud) oo aan lahayn Tor (Clearnet IP)
+- QuteBrowser (biraawsar yar) oo aan lahayn Tor (Clearnet IP)
 
-| *** Browser *** | *** Helitaan daaweyn *** |
+| ***Browser*** | ***Helitaan daaweyn*** |
 | --- | --- |
-| Tor Browser (Javascript ayaa karti u yeeshay) | marin u helid |
-| Firefox (Javascript karti u yeeshay) | marin u liita |
-| Chromium (Javascript karti u yeeshay) | marin u liita (riix Google reCAPTCHA) |
-| Chromium ama Firefox (Javascript naafo ah) | marin loo diiday (riixida * jabtay * Google reCAPTCHA) |
-| Chromium ama Firefox (Kuki waa naafo) | marin loo diiday |
-| QuteBrowser | marin loo diiday |
-| lynx | marin loo diiday |
-| w3m | marin loo diiday |
-| wget | marin loo diiday |
+| Tor Browser (Javascript kartibay) | marin loo oggol yahay |
+| Firefox (Javascript kartibay) | helitaan liita |
+| Chromium (Javascript kartibay) | helitaan liita |
+| Chromium or Firefox (Javascript waa naafo) | diidmo gelid |
+| Chromium or Firefox (Kuki waa naafo yahay) | diidmo gelid |
+| QuteBrowser | diidmo gelid |
+| lynx | diidmo gelid |
+| w3m | diidmo gelid |
+| wget | diidmo gelid |
 
 
-"_Maxaad u isticmaalin badhanka Audio si ay u xalliso loollan fudud?
+Waa maxay sababta aadan u adeegsan batoonka Audio si loo xalliyo loollanka fudud?
 
-Haa, waxaa jira batoon maqal ah, laakiin waxay leedahay _always_ [ma shaqeynayso Tor](https://trac.torproject.org/projects/tor/ticket/23840). Waxaad heli doontaa fariintan markaad riixdo:
+Haa, waxaa jira badhan maqal ah, laakiin had iyo jeer kama shaqeyso Tor.
+Fariintan waad heli doontaa markaad gujiso:
 
 ```
 Isku day mar dambe
@@ -164,47 +172,53 @@ Faahfaahin dheeraad ah booqo boggayaga caawinta
 
 ---
 
-<ttails>
-Soo koobid> _click me_
+<details>
+<summary>isoo riix
 
-## Codbixinta Codbixinta
-Soo-koobitaan>
+## Cadaadiska Codbixiyeyaasha
+</summary>
 
 
-Codbixiyaasha gobolada Mareykanka waxay isdiiwaangalinayaan inay ugu dambeyntii u codeeyaan iyagoo adeegsanaya websaydhada xogheynta gobolka ee degenaanshaha ay degan yihiin
-Xafiisyada xoghayaha gobolka ee ay maamusho Jamhuuriga ayaa ku hawlan cabudhinta codbixiyeyaasha iyaga oo ku xareynaya websaydhka xoghayaha gobolka ee loo maro Cloudflare.
-Daaweynta cadawga ee Cloudflare ee adeegsadayaasha isticmaala Tor, mowqifkeeda MITM oo ah xarun dhexe ee ilaalinteeda, iyo doorkeeda waxyeelada leh guud ahaan.
-waxay ka dhigeysaa codbixiyaasha mustaqbalka inay diidaan inay isdiiwaangeliyaan. Gaar ahaan liistarradu waxay qaabilaan sirta. Foomamka diiwaangelinta codbixiyeyaasha ayaa aruurinaya macluumaad xasaasi ah oo ku saabsan ku tiirsanaanta siyaasadeed ee cod-bixiyaha, cinwaanka jirkiisa shaqsiyeed, lambarka amniga bulshada, iyo taariikhda dhalashada.
-Gobollada badankood waxay sameyaan qayb keliya macluumaadkaas si caam ah oo la heli karo, laakiin Cloudflare waxay u aragtaa *** dhammaan *** macluumaadkaas marka qof diiwaangelinayo inuu codeeyo.
+Codbixiyaasha gobolada Mareykanka waxay isdiiwaangalinayaan inay ugu dambeyntii u codeeyaan iyagoo adeegsanaya websaydhada xogheynta gobolka ee degenaanshahooda.
+Xafiisyada xoghayayaasha gobolka ee ay maamusho Jamhuuriga ayaa ku hawlan cabudhinta codbixiyeyaasha iyaga oo ku xareynaya websaydhka xoghayaha gobolka ee loo maro Cloudflare.
+Daaweynta cadawga ee Cloudflare ee isticmaaleyaasha Tor, mowqifkeeda MITM oo ah xarun dhexe ee ilaalinteeda, iyo doorkeeda waxyeellada leh guud ahaan waxay ka dhigeysaa in codbixiyayaashu ka caga jiidayaan inay isdiiwaangeliyaan.
+Gaar ahaan liistarradu waxay qaabilaan sirta.
+Foomamka diiwaangelinta codbixiyeyaasha ayaa aruurinaya macluumaad xasaasi ah oo ku saabsan ku tiirsanaanta siyaasadeed ee cod-bixiyaha, cinwaanka muuqaalka qofka, lambarka amniga bulshada, iyo taariikhda dhalashada.
+Gobollada badankood waxay sameyaan qayb keliya macluumaadkaas si caam ah oo la heli karo, laakiin Cloudflare waxay aragtaa macluumaadkaas oo dhan marka qof diiwaangaliyo codbixinta.
 
-Xusuusnow diiwaangelinta waraaqaha ma xaddidayso Cloudflare sababta oo ah xoghayaha shaqaalaha soo gelitaanka xogta gobolka ayaa u badan tahay inuu isticmaali doono
-Websaydhka Cloudflare si aad u gashid xogta.
+Ogsoonow in diiwaangelinta waraaqu aysan wax u dhimeynin Cloudflare maxaa yeelay xoghayaha shaqaalaha shaqaalaha gelitaanka xogta gobolka waxay u badan tahay inay u adeegsadaan websaydhka Cloudflare inay galaan xogta.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org waa degel caan ah oo aruurinta codadka isla markaana tallaabo laga qaado. "[dadka meelkasta waxay bilaabayaan ololeyaal, abaabulayaan taageerayaal, iyo kala shaqaynta kuwa go'aan gaara si xalka loo wado.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Nasiib darrose, dad badani ma arki karaan Change.org marwalba oo ay ugu wacan tahay filterka gardarada leh ee Cloudflare. Waxaa laga hor joogsaday inay saxeexaan codsiga, sidaas darteedna ay uga saaraan hanaan dimuqraadiyadeed. Adeegsiga madal kale oo aan daruur lahayn sida [OpenPetition](https://www.openpetition.eu/content/about_us) waxay ka caawineysaa hagaajinta dhibaatada.
+- Change.org waa degel caan ah oo aruurinta codadka isla markaana wax ka qabta.
+“dadka meelkasta waxay bilaabayaan ololeyaal, abaabulayaan taageerayaal, iyo kala shaqeynta go'aanada si ay u xalliyaan xalka.”
+Nasiib darrose, dad badani ma arki karaan Change.org marwalba oo ay ugu wacan tahay filterka gardaradda leh ee Cloudflare.
+Waxaa laga hor joogsaday inay saxeexaan codsiga, sidaas darteedna ay uga saaraan hanaan dimuqraadiyadeed.
+Adeegsiga madal kale oo aan daruur lahayn sida OpenPetition ayaa ka caawiya hagaajinta dhibaatada.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- Cloudflare's "[Mashruuca Athenian](https://www.cloudflare.com/athenian/)" waxay siisaa ilaalin heer-caalami ah shabakadaha doorashada ee dowladda hoose. Waxay yiraahdeen "_Codbixiyayaasheeda ayaa marin u heli kara macluumaadka doorashada iyo diiwaangelinta cod bixiyaha_" laakiin tani waa been sababtoo ah dad badan ayaan kaliya ka eegi karin goobta.
+- Cloudflare's "Mashruuca Athenian" wuxuu siiyaa difaac heer-caalami ah shabakadaha doorashada ee heer gobol iyo degmo.
+Waxay yiraahdeen "xubnahooda ayaa marin u heli kara macluumaadka doorashada iyo diiwaangelinta codbixiyeyaasha" laakiin tani waa been sababtoo ah dad badan ayaan kaliya ka dhex karin karin goobta.
 
 </details>
 
 ---
 
-<ttails>
-Soo koobid> _click me_
+<details>
+<summary>isoo riix
 
-## Iska indho tirka doorbidka isticmaale
-Soo-koobitaan>
+## Diidista doorbidista isticmaaleha
+</summary>
 
 
-Haddii aad ka baxdo wax, waxaad filanaysaa inaadan helin emayl ku saabsan. Cloudflare waxay iska indhatiraysaa doorbidista isticmaaleyaasha waxayna la wadaagtaa xogta shirkadaha shirkadaha dhinac saddexaad ah [iyadoon rukhsadda macmiilka la siinin](https://twitter.com/thexpaw/status/1108424723233419264). Haddii aad isticmaaleyso qorshahooda bilaashka ah, waxay mararka qaarkood kuu soo diraan emayl iyagoo ku weydiinaya inaad iibsato rukummada billaha ah.
+Haddii aad ka baxdo wax, waxaad filanaysaa inaadan helin emayl ku saabsan.
+Cloudflare waxay iska indhatiraysaa doorbidista isticmaaleyaasha waxayna la wadaagaan xogta shirkadaha shirkadaha saddexaad iyada oo aan rukhsad laga helin macaamiisha.
+Haddii aad isticmaaleyso qorshahooda bilaashka ah, waxay mararka qaarkood kuu soo diraan emayl iyagoo ku weydiinaya inaad iibsato rukummada billaha ah.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -212,21 +226,26 @@ Haddii aad ka baxdo wax, waxaad filanaysaa inaadan helin emayl ku saabsan. Cloud
 
 ---
 
-<ttails>
-Soo koobid> _click me_
+<details>
+<summary>isoo riix
 
-## Beenta ku saabsan tirtirka xogta isticmaaleha
-Soo-koobitaan>
+## Been u sheegidda tirtirka macluumaadka isticmaalaha
+</summary>
 
 
-Marka loo eego [mareegta 'macaamiisha' hore ee Cloudflare](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare waxay been ka sheegtaa tirtirka xisaabaadka. Maalmahan, [shirkado badan ayaa xafida xogtaada](https://justdeleteme.xyz/) kadib markii aad xiritaanka ama ka saartay koontadaada. Shirkadaha fiican badankood waxay ku sheegaan siyaasadooda gaarka ah. Cloudflare? Maya.
+Marka loo eego boggan macaamiisha hore ee 'Cloudflare', Cloudflare wuxuu ka been sheegayaa tirtirka akoonnada.
+Maalmahan, shirkado badan ayaa xafida macluumaadkaaga ka dib markii aad xidho ama xirto koontadaada.
+Shirkadaha fiican badankood waxay ku sheegaan siyaasadooda gaarka ah.
+Cloudflare? Maya.
 
 ```
 2019-08-05 CloudFlare waxay ii soo dirtay xaqiijin ah inay meesha ka saareen akoonkeyga.
 2019-10-02 Waxaan email ka helay CloudFlare "maxaa yeelay waxaan ahay macmiil"
 ```
 
-Cloudflare kama aqoon ereyga "saar". Hadday runti tahay _removed_, muxuu macaamiishan hore u helay emayl? Wuxuu sidoo kale xusay in siyaasada gaarka ee Cloudflare aysan xusin arintaas.
+Cloudflare kama aqoon ereyga "saar".
+Haddii runtii meesha laga saaro, muxuu macmiilkan hore u helay emayl?
+Wuxuu sidoo kale xusay in siyaasada gaarka ee Cloudflare aysan xusin arintaas.
 
 ```
 Siyaasadooda cusub ee asturnaanta ma xusaan wax macluumaad ah oo laga haynayo muddo sannad ah.
@@ -234,20 +253,20 @@ Siyaasadooda cusub ee asturnaanta ma xusaan wax macluumaad ah oo laga haynayo mu
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Sideed ku kalsoonaan kartaa Cloudflare haddii [siyaasadooda asturnaanta ay tahay LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+Sideed ku kalsoonaan kartaa Cloudflare haddii siyaasadooda qaaska ay tahay LIE?
 
 </details>
 
 ---
 
-<ttails>
-Soo koobid> _click me_
+<details>
+<summary>isoo riix
 
 ## Hayso macluumaadkaaga shaqsiyeed
-Soo-koobitaan>
+</summary>
 
 
-Tirtirka koontada Cloudflare waa [heer adag](https://justdeleteme.xyz/).
+Tirtirka koontada Cloudflare waa heer adag.
 
 ```
 Gudbi tigidh taageero adiga oo adeegsanaya qaybta "Koontada",
@@ -255,7 +274,7 @@ oo weyddiiso tirtirka koontada qaybta fariinta.
 Waa inaadan lahayn domains ama kaararka deynta ee koontadaada kahor intaadan dalbanin tirtirka.
 ```
 
-Waxaad heli doontaa [emayl xaqiijinkan](https://twitter.com/originalesushi/status/1199041528414527495).
+Waxaad heli doontaa emaylkan xaqiijinta.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
@@ -267,7 +286,7 @@ Miyaad "aamini kartaa" tan?
 
 ---
 
-## Fadlan ku sii wad bogga ku xiga: "[Codadka Cloudflare](../Ps.md)"
+## Fadlan ku sii wad bogga xiga:   [Codadka Cloudflare](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
