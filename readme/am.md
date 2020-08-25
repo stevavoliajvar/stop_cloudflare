@@ -53,24 +53,11 @@
 |  ስለ PRISM ቅሌት ቀደም ሲል ያውቁ ይሆናል።AT&T ሁሉንም የበይነመረብ ውሂብ ለክትትል ለመቅዳት ለ NSA እውነት መሆኑ እውነት ነው። | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  NSA ውስጥ ነው የሚሰሩት እንበል ፣ እናም የእያንዳንዱን ዜጋ የበይነመረብ በይነመረብ ይፈልጋሉ።አብዛኛዎቹ በስውር Cloudflare በጭፍን እንደሚተማመኑ እና እሱን እንደሚጠቀሙ ያውቃሉ - አንድ ማእከል ያለው በር - የኩባንያቸውን አገልጋይ ግንኙነት (ኤስኤስኤች / አርዲ ፒ) ፣ የግል ድር ጣቢያ ፣ የውይይት ድር ጣቢያ ፣ የመድረክ ድር ጣቢያ ፣ የባንክ ድርጣቢያ ፣ የመድን ድር ጣቢያ ፣ የፍለጋ ፕሮግራም ፣ ሚስጥራዊ አባል - ብቻ ድርጣቢያ ፣ የጨረታ ድርጣቢያ ፣ ግብይት ፣ ቪዲዮ ድርጣቢያ ፣ NSFW ድርጣቢያ እና ሕገ-ወጥ ድር ጣቢያ።እንዲሁም ለ “ደህንነቱ የተጠበቀ!” የደመናውላውን የዲ ኤን ኤስ አገልግሎት ("1.1.1.1") እና የቪ.ፒ.ኤን አገልግሎት ("Cloudflare Warp") እንደሚጠቀሙ ያውቃሉ። ፈጣን! የተሻለ! ” በይነመረብ ተሞክሮ።እነሱን ከተጠቃሚዎች IP አድራሻ ፣ ከአሳሽ የጣት አሻራ ፣ ከኩኪዎች እና ከ RAY-ID ጋር በማጣመር የ targetላማውን የመስመር ላይ መገለጫ ለመገንባት ጠቃሚ ነው። | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  የእነሱን ውሂብ ይፈልጋሉ። ምን ታደርጋለህ? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare የማር ማር ነው።** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **ነፃ ማር ለሁሉም ሰው። አንዳንድ ሕብረቁምፊዎች ተያይዘዋል።** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare ን አይጠቀሙ።** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **በይነመረቡን ያጠናክሩ** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare የማር ማር ነው።
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### ነፃ ማር ለሁሉም ሰው። አንዳንድ ሕብረቁምፊዎች ተያይዘዋል።
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare ን አይጠቀሙ።
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### በይነመረቡን ያጠናክሩ
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [ይሞክሩ እና አዲስ መሣሪያ / ስክሪፕት።](../tool/)
 
 * [ለማንበብ የተወሰኑ ፒዲኤፍ / ePUB እነሆ።](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
