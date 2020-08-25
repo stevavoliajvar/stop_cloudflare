@@ -3,33 +3,33 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Nu susțineți această companie care este lipsită de etică_"
+"Nu susțineți această companie care este lipsită de etică"
 
-"Compania dvs. nu este de încredere. Vă revendicați să aplicați DMCA, dar aveți multe procese pentru că nu au făcut acest lucru."
+"Compania dvs. nu este de încredere. Pretinzi să aplici DMCA, dar ai multe procese pentru că nu au făcut acest lucru."
 
-"_Ei doar cenzurează pe cei care pun la îndoială etica lor._"
+"Ei cenzurează doar cei care pun la îndoială etica lor."
 
-"_Banuiesc ca adevarul este incomod si mai bine ascuns de viziunea publica". "- [phyzonloop](https://twitter.com/phyzonloop)
+"Banuiesc ca adevarul este incomod si mai bine ascuns privirilor publice."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
-<detalii>
-<summary> _click me_
+<details>
+<summary>faceți clic pe mine
 
-## CloudFlare spamează oamenii
-</Rezumat>
+## CloudFlare îi spală pe oameni
+</summary>
 
 
 Cloudflare trimite e-mailuri spam către utilizatorii non-Cloudflare.
 
 - Trimiteți e-mailuri doar abonaților care au optat
-- Când utilizatorul spune "oprește-te", atunci încetează să mai trimită e-mail
+- Când utilizatorul spune „oprește-te”, apoi oprește trimiterea de e-mailuri
 
 Este atat de simplu. Dar Cloudflare nu-i pasă.
-Cloudflare a spus că folosind serviciul lor [poate opri toți spammerii sau atacatorii](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers- ).
-Cum putem opri _Cloudflare spammers_ fără a activa Cloudflare?
+Cloudflare a spus că folosirea serviciului lor poate opri toți spammerii sau atacatorii.
+Cum putem opri Cloudflare fără a activa Cloudflare?
 
 
 | 🖼 | 🖼 |
@@ -37,38 +37,41 @@ Cum putem opri _Cloudflare spammers_ fără a activa Cloudflare?
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
 
-</Detalii>
+</details>
 
 ---
 
-<detalii>
-<summary> _click me_
+<details>
+<summary>faceți clic pe mine
 
-## Elimina recenzia utilizatorului
-</Rezumat>
+## Eliminați recenzia utilizatorului
+</summary>
 
 
-Cenzor Cloudflare [recenzii negative](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Dacă postați _anti-Cloudflare_ text pe Twitter, aveți șansa de a obține un [răspuns](https://twitter.com/CloudflareHelp/status/1126051764917145601) de la [angajat Cloudflare](cloudflare_inc/cloudflare_members.txt) cu "_[Nu, nu este](PEOPLE.md) _ "mesaj. Dacă postați o recenzie negativă pe orice site de recenzie, ei vor încerca să [cenzureze](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+Recenzii negative ale cenzorului Cloudflare.
+Dacă postați un mesaj anti-Cloudflare pe Twitter, aveți șansa de a primi o replică de la angajatul Cloudflare cu mesajul „Nu, nu este”.
+Dacă postați o recenzie negativă pe orice site de recenzie, vor încerca să o cenzureze.
 
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
 
-</Detalii>
+</details>
 
 ---
 
-<detalii>
-<summary> _click me_
+<details>
+<summary>faceți clic pe mine
 
-## Utilizatorii care doresc
-</Rezumat>
+## Partajează informațiile private ale utilizatorului
+</summary>
 
 
-Cloudflare are o problemă masivă [de hărțuire](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -fake-nume-2017-5).
-Cloudflare [împărtășește informații personale](https://archive.ph/ePdvi) celor [care](https://twitter.com/ZJemptv/status/898299709634248704) [plângere](https://twitter.com/TinyPirate/status/554718958176067584) [despre](https://twitter.com/remembrancermx/status/1010329041235148802) [gazduit](https://twitter.com/Bridaguy/status/915003769280172037) [site-uri](https://twitter .com/HelloAndrew/starea/897260208845500416). Uneori vă rog să furnizați
-adevăratul tău ID. Dacă nu doriți să vă hărțuiți, [asaltați](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) sau [ucis](https://twitter.com/RusEmbUSA/status/1187363092793040901), mai bine stai departe de site-urile Cloudflared.
+Cloudflare are o problemă de hărțuire masivă.
+Cloudflare împărtășește informații personale ale celor care se plâng de site-urile găzduite.
+Uneori vă solicită să furnizați adevăratul dvs. ID.
+Dacă nu doriți să vă hărțuiți, asaltați, trântiți sau ucigați, mai bine rămâneți departe de site-urile web cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -77,46 +80,50 @@ adevăratul tău ID. Dacă nu doriți să vă hărțuiți, [asaltați](https://t
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
 
-</Detalii>
+</details>
 
 ---
 
-<detalii>
-<summary> _click me_
+<details>
+<summary>faceți clic pe mine
 
-## Solicitare corporativă de contribuții caritabile
-</Rezumat>
+## Solicitarea corporativă a contribuțiilor caritabile
+</summary>
 
 
-CloudFlare cere [https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) pentru contribuții caritabile. Este destul de îngrozitor faptul că o corporație americană ar cere caritate alături de organizațiile non-profit care au cauze întemeiate. Dacă vă place [blocarea oamenilor sau pierderea timpului altor persoane](PEOPLE.md), poate doriți să comandați niște pizza pentru angajații Cloudflare.
+CloudFlare solicită contribuții caritabile.
+Este destul de îngrozitor faptul că o corporație americană ar cere caritate alături de organizațiile non-profit care au cauze bune.
+Dacă vă place să blocați oamenii sau să pierdeți timpul altor persoane, poate doriți să comandați câteva pizza pentru angajații Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
 
-</Detalii>
+</details>
 
 ---
 
-<detalii>
-<summary> _click me_
+<details>
+<summary>faceți clic pe mine
 
 ## Terminarea site-urilor
-</Rezumat>
+</summary>
 
 
-Ce vei face dacă site-ul tău coboară _suddenly_? Există rapoarte că Cloudflare este [ștergând](https://twitter.com/stefan_eady/status/1126033791267426304) [utilizator](https://twitter.com/derivativeburke/status/903755267053117440) [configurare](https://twitter.com/lordscarlet/status/1046785164792205314) sau [oprirea serviciului fără niciun avertisment](https://twitter.com/svolentin/status/1227324408475344896), [tăcut](https://twitter.com/BlnaryMlke/status/1194339461984854018). Vă sugerăm să găsiți [un furnizor mai bun](what-to-do.md).
+Ce vei face dacă site-ul tău coboară brusc?
+Există rapoarte că Cloudflare șterge configurația utilizatorului sau oprește serviciul fără niciun avertisment, în tăcere.
+Vă sugerăm să găsiți un furnizor mai bun.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
-</Detalii>
+</details>
 
 ---
 
-<detalii>
-<summary> _click me_
+<details>
+<summary>faceți clic pe mine
 
 ## Discriminarea furnizorului de browser
-</Rezumat>
+</summary>
 
 
 CloudFlare oferă un tratament preferențial celor care folosesc Firefox în timp ce oferă tratament ostil utilizatorilor non-Tor-Browser peste Tor.
@@ -125,33 +132,34 @@ Această inegalitate de acces este un abuz de neutralitate a rețelei și un abu
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Stânga: `Tor Browser`, dreapta:` Chrome`. Aceeași adresă IP.
+- Stânga: Tor Browser, dreapta: Chrome. Aceeași adresă IP.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Stânga: `[Browser Tor] Javascript Dezactivat, Cookie activat`
-- Drept: `[Chrome] Activat Javascript, Cookie Dezactivat`
+- Stânga: Tor Browser Javascript Dezactivat, Cookie Activat
+- Dreapta: Chrome activat Javascript, Cookie dezactivat
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (browser minor) fără Tor (IP Clearnet)
 
-| *** Browser *** | *** Tratament de acces *** |
+| ***Browser*** | ***Tratament de acces*** |
 | --- | --- |
-| Browser Tor (activat Javascript) | acces permis | |
-| Firefox (Javascript activat) | acces degradat |
-| Chromium (Javascript activat) | acces degradat (împinge Google reCAPTCHA) |
-| Chromium sau Firefox (Javascript dezactivat) | acces refuzat (împinge * rupt * Google reCAPTCHA) |
-| Chromium sau Firefox (Cookie dezactivat) | accesul refuzat |
-| QuteBrowser | accesul refuzat |
-| linx | accesul refuzat |
-| w3m | acces refuzat |
-| wget | acces refuzat |
+| Tor Browser (Javascript este activat) | accesul este permis |
+| Firefox (Javascript este activat) | accesul degradat |
+| Chromium (Javascript este activat) | accesul degradat |
+| Chromium or Firefox (Javascript este dezactivat) | acces interzis |
+| Chromium or Firefox (Cookie dezactivat) | acces interzis |
+| QuteBrowser | acces interzis |
+| lynx | acces interzis |
+| w3m | acces interzis |
+| wget | acces interzis |
 
 
-"_De ce nu folosiți butonul Audio pentru a rezolva o provocare ușoară? _"
+De ce nu folosiți butonul Audio pentru a rezolva o provocare ușoară?
 
-Da, există un buton audio, dar _always_ [nu funcționează peste Tor](https://trac.torproject.org/projects/tor/ticket/23840). Veți primi acest mesaj atunci când faceți clic pe acesta:
+Da, există un buton audio, dar întotdeauna nu funcționează peste Tor.
+Veți primi acest mesaj atunci când faceți clic pe acesta:
 
 ```
 Încercați mai târziu
@@ -160,73 +168,84 @@ Pentru a ne proteja utilizatorii, nu putem prelucra cererea dvs. chiar acum.
 Pentru mai multe detalii, vizitați pagina noastră de ajutor
 ```
 
-</Detalii>
+</details>
 
 ---
 
-<detalii>
-<summary> _click me_
+<details>
+<summary>faceți clic pe mine
 
 ## Suprimarea alegătorilor
-</Rezumat>
+</summary>
 
 
 Alegătorii din statele americane se înregistrează pentru a vota în cele din urmă pe site-ul secretarului de stat în statul de reședință.
 Birourile de secretariat de stat controlate de republicană se angajează în suprimarea alegătorilor prin procurarea site-ului secretarului de stat prin Cloudflare.
-Tratamentul ostil al Cloudflare pentru utilizatorii Tor, poziția MITM ca punct central de supraveghere globalizat și rolul său dăunător în general
-îi determină pe alegătorii potențiali să nu se înregistreze. Liberalii, în special, tind să îmbrățișeze confidențialitatea. Formularele de înregistrare a alegătorilor colectează informații sensibile despre aplecarea politică a unui alegător, adresa fizică personală, numărul securității sociale și data nașterii.
-Majoritatea statelor fac doar un subset al informațiilor disponibile publicului, dar Cloudflare vede *** toate aceste informații atunci când cineva se înregistrează pentru a vota.
+Tratamentul ostil al Cloudflare de către utilizatorii Tor, poziția sa MITM ca punct de supraveghere globalizat global și rolul său dăunător în general îi determină pe alegătorii potențiali să nu se înregistreze.
+Liberalii, în special, tind să îmbrățișeze confidențialitatea.
+Formularele de înregistrare ale alegătorilor colectează informații sensibile despre aplecarea politică a unui alegător, adresa fizică personală, numărul de securitate socială și data nașterii.
+Majoritatea statelor fac doar un subset al informațiilor disponibile public, dar Cloudflare vede toate acele informații atunci când cineva se înregistrează pentru a vota.
 
-Rețineți că înregistrarea pe hârtie nu ocolește Cloudflare, deoarece secretarul de stat lucrătorii personalului de introducere a datelor vor utiliza probabil
-Site-ul Cloudflare pentru a introduce datele.
+Rețineți că înregistrarea pe hârtie nu ocolește Cloudflare, deoarece secretarul de stat lucrătorii personalului de introducere a datelor vor utiliza probabil site-ul web Cloudflare pentru a introduce datele.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org este un site celebru pentru adunarea voturilor și luarea de măsuri. "[oamenii de pretutindeni încep campanii, mobilizează suporterii și lucrează cu factorii de decizie pentru a crea soluții.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Din păcate, mulți oameni nu pot vedea deloc schimbarea.org din cauza filtrului agresiv al Cloudflare. Acestea sunt blocate de la semnarea petiției, excludându-le astfel dintr-un proces democratic. Folosirea altei platforme non-cloudflared, cum ar fi [OpenPetition](https://www.openpetition.eu/content/about_us) ajută la remedierea problemei.
+- Change.org este un site celebru pentru adunarea voturilor și luarea de măsuri.
+“oamenii de pretutindeni încep campanii, mobilizează suporterii și lucrează cu factorii de decizie pentru a crea soluții.”
+Din păcate, mulți oameni nu pot vedea deloc schimbarea.org din cauza filtrului agresiv al Cloudflare.
+Acestea sunt blocate de la semnarea petiției, excludându-le astfel dintr-un proces democratic.
+Utilizarea altor platforme non-cloudflared, cum ar fi OpenPetition, ajută la remedierea problemei.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- „[Proiectul atenian] al Cloudflare (https://www.cloudflare.com/athenian/)” oferă protecție gratuită la nivel de întreprindere către site-urile electorale locale și de stat. Ei au spus că „elementele electorale pot accesa informațiile electorale și înregistrarea alegătorilor_”, dar aceasta este o minciună, deoarece mulți oameni pur și simplu nu pot răsfoi site-ul deloc.
+- „Proiectul atenian” al Cloudflare oferă protecție gratuită la nivel de întreprindere pentru site-urile electorale locale și de stat.
+Ei au spus că „reprezentanții lor pot accesa informațiile electorale și înregistrarea alegătorilor”, dar aceasta este o minciună, deoarece mulți oameni pur și simplu nu pot răsfoi site-ul deloc.
 
-</Detalii>
+</details>
 
 ---
 
-<detalii>
-<summary> _click me_
+<details>
+<summary>faceți clic pe mine
 
 ## Ignorând preferințele utilizatorului
-</Rezumat>
+</summary>
 
 
-Dacă renunțați la ceva, vă așteptați să nu primiți niciun email în acest sens. Cloudflare ignoră preferințele utilizatorului și distribuie date cu corporații terțe [fără consimțământul clientului](https://twitter.com/thexpaw/status/1108424723233419264). Dacă folosești planul lor gratuit, uneori îți trimit un e-mail care îți cere să cumperi abonament lunar.
+Dacă renunțați la ceva, vă așteptați să nu primiți niciun e-mail în acest sens.
+Cloudflare ignoră preferințele utilizatorului și distribuie date cu corporații terțe fără acordul clientului.
+Dacă folosești planul lor gratuit, uneori îți trimit un e-mail care îți cere să cumperi abonament lunar.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
-</Detalii>
+</details>
 
 ---
 
-<detalii>
-<summary> _click me_
+<details>
+<summary>faceți clic pe mine
 
 ## Minți despre ștergerea datelor utilizatorului
-</Rezumat>
+</summary>
 
 
-Conform acestui [ex-blogul clientului cloudflare](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare minte despre ștergerea conturilor. În zilele noastre, multe [companii vă păstrează datele](https://justdeleteme.xyz/) după ce v-ați închis sau ați eliminat contul. Majoritatea companiilor bune menționează acest lucru în politica lor de confidențialitate. Cloudflare? Nu.
+Conform acestui ex-cloudflare blog-ul clientului, Cloudflare se minte cu privire la ștergerea conturilor.
+În zilele noastre, multe companii vă păstrează datele după ce ați închis sau ați eliminat contul.
+Majoritatea companiilor bune menționează acest lucru în politica lor de confidențialitate.
+Cloudflare? Nu.
 
 ```
-05-05 2019 CloudFlare mi-a trimis confirmarea că mi-au eliminat contul.
+2019-08-05 CloudFlare mi-a trimis confirmarea că mi-au eliminat contul.
 2019-10-02 Am primit un e-mail de la CloudFlare „pentru că sunt client”
 ```
 
-Cloudflare nu știa despre cuvântul „elimina”. Dacă este într-adevăr _removedit_, de ce acest fost client a primit un e-mail? El a menționat, de asemenea, că politica de confidențialitate a Cloudflare nu menționează acest lucru.
+Cloudflare nu știa despre cuvântul „elimina”.
+Dacă este cu adevărat eliminat, de ce acest fost client a primit un e-mail?
+El a mai menționat că politica de confidențialitate a Cloudflare nu menționează acest lucru.
 
 ```
 Noua lor politică de confidențialitate nu menționează păstrarea datelor timp de un an.
@@ -234,20 +253,20 @@ Noua lor politică de confidențialitate nu menționează păstrarea datelor tim
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Cum puteți avea încredere în Cloudflare dacă [politica lor de confidențialitate este o LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+Cum poți avea încredere în Cloudflare dacă politica lor de confidențialitate este o LIE?
 
-</Detalii>
+</details>
 
 ---
 
-<detalii>
-<summary> _click me_
+<details>
+<summary>faceți clic pe mine
 
 ## Păstrați informațiile dvs. personale
-</Rezumat>
+</summary>
 
 
-Ștergerea contului Cloudflare este [nivel greu](https://justdeleteme.xyz/).
+Ștergerea contului Cloudflare este la un nivel dificil.
 
 ```
 Trimiteți un bilet de asistență folosind categoria „Cont”,
@@ -255,7 +274,7 @@ Trimiteți un bilet de asistență folosind categoria „Cont”,
 Nu trebuie să aveți domenii sau cărți de credit atașate contului dvs. înainte de a solicita ștergerea.
 ```
 
-Vei [primi acest e-mail de confirmare](https://twitter.com/originalesushi/status/1199041528414527495).
+Vei primi acest e-mail de confirmare.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
@@ -263,11 +282,11 @@ Vei [primi acest e-mail de confirmare](https://twitter.com/originalesushi/status
 
 Puteți „avea încredere” în asta?
 
-</Detalii>
+</details>
 
 ---
 
-## Vă rugăm să continuați la pagina următoare: "[Cloudflare Voices](../PEOPLE.md)"
+## Vă rugăm să continuați la pagina următoare:   [Voci Cloudflare](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
