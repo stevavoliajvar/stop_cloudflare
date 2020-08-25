@@ -53,24 +53,11 @@
 |  PRISM skandaly hakda eýýäm bilýän bolmagyňyz mümkin.“AT&T” NSA-a gözegçilik üçin ähli internet maglumatlaryny göçürmäge mümkinçilik berýär. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  NSA-da işleýärsiňiz diýeliň we her bir raýatyň internet profilini isleýärsiňiz.Olaryň köpüsiniň “Cloudflare” -e kör ynanýandyklaryny we kompaniýanyň serwer birikmesine (SSH / RDP), şahsy web sahypasyna, söhbetdeşlik web sahypasyna, forum web sahypasyna, bank web sahypasyna, ätiýaçlandyryş web sahypasyna, gözleg motoryna, gizlin agzasyna proksi etmek üçin diňe bir merkezleşdirilen şlýuzdan peýdalanýandygyny bilýärsiňiz. - diňe web sahypasy, auksion web sahypasy, söwda, wideo web sahypasy, NSFW web sahypasy we bikanun web sahypasy.Şeýle hem, “Howpsuz” üçin Cloudflare-iň DNS hyzmatyny ("1.1.1.1") we VPN hyzmatyny ("Cloudflare Warp") ulanýandygyny bilýärsiňiz! Çalt! Has gowusy! ” internet tejribesi.Ulanyjynyň IP adresi, brauzer barmak yzy, gutapjyklar we RAY-ID bilen birleşdirmek, nyşanyň onlaýn profilini döretmek üçin peýdaly bolar. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Olaryň maglumatlaryny isleýärsiňiz. Näme ederdiň? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **“Cloudflare” bal balydyr.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Hemmeler üçin mugt bal. Käbir setirler birikdirildi.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **“Cloudflare” ulanmaň.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Interneti merkezden daşlaşdyrmak.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### “Cloudflare” bal balydyr.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Hemmeler üçin mugt bal. Käbir setirler birikdirildi.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### “Cloudflare” ulanmaň.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Interneti merkezden daşlaşdyrmak.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "The Great Cloudwall
 * [Täze gural / skript ýazyp görüň.](../tool/)
 
 * [Ine, okamak üçin birnäçe PDF / ePUB.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
