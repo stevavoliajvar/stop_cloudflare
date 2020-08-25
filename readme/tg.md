@@ -53,24 +53,11 @@
 |  Шумо шояд аллакай дар бораи ҷанҷоли PRISM медонед.Дуруст аст, ки AT&T ба NSA имкон медиҳад, ки ҳама маълумоти интернетро барои назорат нусхабардорӣ кунад. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Бигӯед, ки шумо дар NSA кор мекунед ва шумо мехоҳед профили интернетии ҳар як шаҳрвандро дошта бошед.Шумо медонед, ки аксарияти онҳо Cloudflare-ро нобиноён эътимод мекунанд ва аз он истифода мебаранд - танҳо як шлюзи мутамарказ - барои прокси пайваст кардани сервери ширкаташон (SSH / RDP), вебсайти шахсӣ, вебсайти чат, вебсайти бонк, вебсайти суғурта, системаи ҷустуҷӯ, узви махфӣ -фақат вебсайт, вебсайти музояда, харид, вебсайти видео, вебсайти NSFW ва вебсайти ғайриқонунӣ.Шумо инчунин медонед, ки онҳо хидмати DNS Cloudflare ("1.1.1.1") ва хидмати VPN ("Cloudflare Warp") барои "Амният! Тезтар! Беҳтар! " таҷрибаи интернет.Омезиши онҳо бо суроғаи IP-и корбар, издивоҷи ангуштони браузер, кукиҳо ва RAY-ID барои сохтани профили онлайни мақсаднок муфид хоҳад буд. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Шумо маълумоти онҳоро мехоҳед. Шумо чӣ хоҳед кард? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare як балои гаронбаҳост.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Асали ройгон барои ҳама. Баъзе сатрҳо замима шудаанд.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare-ро истифода набаред.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Ғайримутамарказ кардани интернет.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare як балои гаронбаҳост.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Асали ройгон барои ҳама. Баъзе сатрҳо замима шудаанд.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare-ро истифода набаред.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Ғайримутамарказ кардани интернет.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Асбоби нав / скриптро бинед ва нависед.](../tool/)
 
 * [Дар ин ҷо якчанд PDF / ePUB барои хондан аст.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
