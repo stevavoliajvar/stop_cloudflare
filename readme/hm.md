@@ -53,24 +53,11 @@
 |  Tej zaum koj twb paub txog PRISM kev txaj muag.Nws yog qhov tseeb tias AT&T cia NSA theej txhua cov ntaub ntawv hauv internet rau kev soj ntsuam. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Cia li hais tias koj tab tom ua haujlwm ntawm NSA, thiab koj xav tau txhua tus pej xeem cov ntaub ntawv hauv Is Taws Nem.Koj paub feem ntau ntawm lawv qhov muag tsis pom kev ntseeg Cloudflare thiab siv nws - tsuas yog ib lub hauv nruab nrab ntawm lub rooj vag - txhawm rau ua lawv lub tuam txhab server sib txuas (SSH / RDP), tus kheej lub vev xaib, sib tham lub vev xaib, lub vev xaib txhab nyiaj, lub vev xaib txhab nyiaj, lub vev xaib tshawb nrhiav, tus tswvcuab zais cia -only website, muag khoom lub vev xaib, khw muag khoom, vev xaib vev xaib, NSFW lub vev xaib, thiab lub vev xaib tsis raug cai.Koj tseem paub tias lawv siv Cloudflare's DNS kev pabcuam ("1.1.1.1") thiab VPN pabcuam ("Cloudflare Warp") rau "Zoo! Sai! Zoo dua! ” kev paub hauv internet.Muab sib txuas nrog tus neeg siv IP chaw nyob, browser hneev tes, cookies thiab RAY-ID yuav siv tau los ua lub phiaj xwm online. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Koj xav tau lawv cov ntaub ntawv. Koj yuav ua li cas? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare yog lub honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Zib ntab pub dawb rau txhua tus. Qee cov hlua txuas.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Tsis txhob siv Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralize hauv internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare yog lub honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Zib ntab pub dawb rau txhua tus. Qee cov hlua txuas.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Tsis txhob siv Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralize hauv internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Qhov chaw cia no yog ib daim ntawv teev npe ntawm lub vev xaib uas nyob tom qab 
 * [Sim & sau Cov Cuab Yeej / Sau tshiab tshiab.](../tool/)
 
 * [Nov yog qee qhov PDF / ePUB los nyeem.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
