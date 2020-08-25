@@ -53,24 +53,11 @@
 |  PRISM ஊழல் பற்றி நீங்கள் ஏற்கனவே அறிந்திருக்கலாம்.அனைத்து இணைய தரவுகளையும் கண்காணிப்புக்காக நகலெடுக்க AT&T NSA ஐ அனுமதிக்கிறது என்பது உண்மைதான். | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  நீங்கள் NSA இல் பணிபுரிகிறீர்கள் என்று சொல்லலாம், மேலும் ஒவ்வொரு குடிமகனின் இணைய சுயவிவரத்தையும் விரும்புகிறீர்கள்.அவர்களில் பெரும்பாலோர் கிளவுட்ஃப்ளேரை கண்மூடித்தனமாக நம்புகிறார்கள் மற்றும் அதைப் பயன்படுத்துகிறார்கள் - ஒரே ஒரு மையப்படுத்தப்பட்ட நுழைவாயில் - தங்கள் நிறுவனத்தின் சேவையக இணைப்பு (எஸ்எஸ்ஹெச் / ஆர்.டி.பி), தனிப்பட்ட வலைத்தளம், அரட்டை வலைத்தளம், மன்ற வலைத்தளம், வங்கி வலைத்தளம், காப்பீட்டு வலைத்தளம், தேடுபொறி, ரகசிய உறுப்பினர் -ஒரு வலைத்தளம், ஏல வலைத்தளம், ஷாப்பிங், வீடியோ வலைத்தளம், என்.எஸ்.எஃப்.டபிள்யூ வலைத்தளம் மற்றும் சட்டவிரோத வலைத்தளம்.அவர்கள் கிளவுட்ஃப்ளேரின் டிஎன்எஸ் சேவை ("1.1.1.1") மற்றும் விபிஎன் சேவை ("கிளவுட்ஃப்ளேர் வார்ப்") ஆகியவற்றை "பாதுகாப்பான!" வேகமாக! சிறந்தது! ” இணைய அனுபவம்.பயனரின் ஐபி முகவரி, உலாவி கைரேகை, குக்கீகள் மற்றும் ரே-ஐடி ஆகியவற்றுடன் அவற்றை இணைப்பது இலக்கின் ஆன்லைன் சுயவிவரத்தை உருவாக்க பயனுள்ளதாக இருக்கும். | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  அவற்றின் தரவு உங்களுக்கு வேண்டும். நீ என்ன செய்வாய்? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **கிளவுட்ஃப்ளேர் ஒரு ஹனிபாட்.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **அனைவருக்கும் இலவச தேன். சில சரங்கள் இணைக்கப்பட்டுள்ளன.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **கிளவுட்ஃப்ளேரைப் பயன்படுத்த வேண்டாம்.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **இணையத்தை பரவலாக்குங்கள்.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### கிளவுட்ஃப்ளேர் ஒரு ஹனிபாட்.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### அனைவருக்கும் இலவச தேன். சில சரங்கள் இணைக்கப்பட்டுள்ளன.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### கிளவுட்ஃப்ளேரைப் பயன்படுத்த வேண்டாம்.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### இணையத்தை பரவலாக்குங்கள்.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [புதிய கருவி / ஸ்கிரிப்டை முயற்சிக்கவும் எழுதவும்.](../tool/)
 
 * [படிக்க சில PDF / ePUB இங்கே.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
