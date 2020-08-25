@@ -2,7 +2,7 @@
 
 
 - "_(en|eo)(|.ethics).md_" are _base files_.
-- If you edit _Base files_, do edit `translateData/TEMPLATE.*.(tab|txt)`.
+- If you edit _base files_, do edit `translateData/TEMPLATE.*.(tab|txt)`.
 
 
 
@@ -10,7 +10,7 @@
 
 Please do not edit _zz_.md directly. It may be overwritten.
 
-(_zz_ is not "en" or "eo")
+(_zz_ is not "en" nor "eo")
 
 
 1. [Fork](https://codeberg.org/crimeflare/cloudflare-tor/forks) cloudflare-tor.
