@@ -53,24 +53,11 @@
 |  तपाइँ पहिले नै PRISM कांड को बारे मा थाहा हुन सक्छ।यो सत्य हो कि AT&T ले NSA लाई निगरानीका लागि सबै इन्टरनेट डेटा प्रतिलिपि गर्न अनुमति दिन्छ। | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  मानिलिनुहोस् तपाईं एनएसएमा काम गर्दै हुनुहुन्छ, र तपाईं प्रत्येक नागरिकको इन्टर्नेट प्रोफाइल चाहनुहुन्छ।तपाइँलाई थाहा छ तिनीहरू मध्ये धेरैले अन्धाधुन्ध रूपमा क्लाउडफ्लेयरलाई विश्वास गर्दै छन् र केवल एक केन्द्रीकृत गेटवे - आफ्नो कम्पनी सर्भर जडान (एसएसएच / आरडीपी), व्यक्तिगत वेबसाइट, च्याट वेबसाइट, फोरम वेबसाइट, बैंक वेबसाइट, बीमा वेबसाइट, सर्च इञ्जिन, गोप्य सदस्य केवल वेबसाइट, लिलामी वेबसाइट, शपिंग, भिडियो वेबसाइट, NSFW वेबसाइट, र अवैध वेबसाइट।तपाइँलाई थाहा छ उनीहरूले क्लाउडफ्लेयरको DNS सेवा ("१.१.१.१") र VPN सेवा ("क्लाउडफ्लेयर ताना") "सुरक्षितको लागि" प्रयोग गर्छन्। छिटो! अझ राम्रो! ” इन्टरनेट अनुभव।तिनीहरूलाई प्रयोगकर्ताको आईपी ठेगाना, ब्राउजर फिंगरप्रिन्ट, कुकिज र RAY-ID का साथ संयोजन लक्ष्यको अनलाइन प्रोफाइल बनाउन उपयोगी हुनेछ। | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  तपाईं तिनीहरूको डाटा चाहनुहुन्छ। अब तिमि के गर्छाै? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **क्लाउडफ्लेयर एक हनीपोट हो।** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **सबैको लागि निःशुल्क मह। केहि तारहरू जोडिएको छ।** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **क्लाउडफ्लेयर प्रयोग नगर्नुहोस्।** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **इन्टरनेट विकेन्द्रीकृत गर्नुहोस्।** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### क्लाउडफ्लेयर एक हनीपोट हो।
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### सबैको लागि निःशुल्क मह। केहि तारहरू जोडिएको छ।
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### क्लाउडफ्लेयर प्रयोग नगर्नुहोस्।
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### इन्टरनेट विकेन्द्रीकृत गर्नुहोस्।
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [प्रयास गर्नुहोस् र नयाँ उपकरण / स्क्रिप्ट लेख्नुहोस्।](../tool/)
 
 * [यहाँ केहि PDF / ePUB पढ्नको लागि हो।](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
