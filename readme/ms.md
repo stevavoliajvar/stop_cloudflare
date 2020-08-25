@@ -53,24 +53,11 @@
 |  Anda mungkin sudah tahu mengenai skandal PRISM.Memang benar bahawa AT&T membolehkan NSA menyalin semua data internet untuk pengawasan. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Katakan anda bekerja di NSA, dan anda mahukan profil internet setiap warganegara.Anda tahu kebanyakan mereka mempercayai Cloudflare secara membabi buta dan menggunakannya - hanya satu pintu masuk terpusat - untuk memproksi sambungan pelayan syarikat mereka (SSH / RDP), laman web peribadi, laman web sembang, laman web forum, laman web bank, laman web insurans, enjin carian, ahli rahsia -hanya laman web, laman web lelong, belanja, laman web video, laman web NSFW, dan laman web haram.Anda juga tahu bahawa mereka menggunakan perkhidmatan DNS Cloudflare ("1.1.1.1") dan perkhidmatan VPN ("Cloudflare Warp") untuk "Selamat! Lebih pantas! Lebih baik! " pengalaman internet.Menggabungkannya dengan alamat IP pengguna, cap jari penyemak imbas, kuki dan RAY-ID akan berguna untuk membina profil dalam talian sasaran. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Anda mahukan data mereka. Apa yang akan kamu lakukan? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare adalah honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Madu percuma untuk semua orang. Beberapa tali dilampirkan.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Jangan gunakan Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Desentralisasi internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare adalah honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Madu percuma untuk semua orang. Beberapa tali dilampirkan.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Jangan gunakan Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Desentralisasi internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Repositori ini adalah senarai laman web yang berada di belakang "The Great Cloud
 * [Cuba & tulis Alat / Skrip baru.](../tool/)
 
 * [Berikut adalah beberapa PDF / ePUB untuk dibaca.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
