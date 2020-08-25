@@ -53,24 +53,11 @@
 |  Mohlomong u se u ntse u tseba ka seratsoana sa PRISM.Ke nnete hore AT&T e lumella NSA ho kopitsa data eohle ea inthanete hore e hlahlojoe. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Ha re re u sebetsa ho NSA, 'me u batla lebitso le leng le le leng la inthanete la baahi.Ua tseba boholo ba bona ba ts'epa Cloudflare ka bofofu 'me ba e sebelisa - e le' ngoe feela e kenang kahare - ho etsa bonnete ba khokahano ea seva ea k'hamphani (SSH / RDP), sebaka sa marang-rang, sebaka sa moqoqo, sebaka sa marang-rang, banka ea webosaete, webosaete ea inshorense, enjine ea ho batla, setho sa lekunutu Sebaka sa marang-rang, sebaka sa marang-rang sa mabenkele, mabenkele, marang-rang a video, sebaka sa NSFW le sebaka sa marang-rang se seng molaong.Hape oa tseba hore ba sebelisa tšebeletso ea Cloudflare's DNS ("1.1.1.1") le tšebeletso ea VPN ("Cloudflare Warp") bakeng sa "Sireletsehile! Kapele! Ho betere! ” boiphihlelo ba inthanete.Ho li kopanya le aterese ea IP ea mosebelisi, menoana ea li-browser, li-cookies le RAY-ID li tla ba molemo ho haha ​​profilete ea sepheo sa hau. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  O batla ya bona ya data. U tla etsa Eng? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare ke pokello ea mahe a linotsi.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Mahe a linotsi a mahala bakeng sa motho e mong le e mong. Likhoele tse ling li khangoe.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Se ke oa sebelisa Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Etsa linaha tse ling marang-rang.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare ke pokello ea mahe a linotsi.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Mahe a linotsi a mahala bakeng sa motho e mong le e mong. Likhoele tse ling li khangoe.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Se ke oa sebelisa Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Etsa linaha tse ling marang-rang.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "The Cloudwall"
 * [Leka le ho ngola Tool / script e ncha](../tool/)
 
 * [Mona ke tse ling tsa PDF / ePUB tseo u lokelang ho li bala.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
