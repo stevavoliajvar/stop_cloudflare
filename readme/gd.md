@@ -53,24 +53,11 @@
 |  Is dòcha gu bheil fios agad mu sgainneal PRISM mu thràth.Tha e fìor gu bheil AT&T a ’leigeil le NSA lethbhreac a dhèanamh den dàta eadar-lìn gu lèir airson faireachas. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Feuch an can thu gu bheil thu ag obair aig an NSA, agus gu bheil thu ag iarraidh ìomhaigh eadar-lìn gach saoranach.Tha fios agad gu bheil earbsa dall aig a ’mhòr-chuid dhiubh ann an Cloudflare agus ga chleachdadh - dìreach aon gheata meadhanaichte - gus an ceangal frithealaiche companaidh aca (SSH / RDP), làrach-lìn pearsanta, làrach-lìn cabadaich, làrach-lìn fòram, làrach-lìn banca, làrach-lìn àrachais, einnsean sgrùdaidh, ball dìomhair -only làrach-lìn, làrach-lìn rop, ceannach, làrach-lìn bhidio, làrach-lìn NSFW, agus làrach-lìn mì-laghail.Tha fios agad cuideachd gu bheil iad a ’cleachdadh seirbheis Cloudflare’s DNS (“ 1.1.1.1 ”) agus seirbheis VPN (“ Cloudflare Warp ”) airson“ Secure! Nas luaithe! Nas fheàrr! ” eòlas eadar-lìn.Bidh e feumail an ceangal ri seòladh IP an neach-cleachdaidh, lorgan-meòir a ’bhrobhsair, briosgaidean agus RAY-ID gus ìomhaigh air-loidhne an targaid a thogail. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Tha thu ag iarraidh an dàta aca. Dè nì thu? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Tha Cloudflare na lus meala.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Mil an-asgaidh don h-uile duine. Cuid de shreathan ceangailte.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Na cleachd Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Dèan dì-mheadhanachadh air an eadar-lìn.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Tha Cloudflare na lus meala.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Mil an-asgaidh don h-uile duine. Cuid de shreathan ceangailte.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Na cleachd Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Dèan dì-mheadhanachadh air an eadar-lìn.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Is e an ath-reic seo liosta de làraich-lìn a tha air cùl “The Great Cloudwa
 * [Feuch & sgrìobh Inneal / Sgriobt ùr.](../tool/)
 
 * [Seo beagan PDF / ePUB ri leughadh.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
