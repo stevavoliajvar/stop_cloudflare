@@ -53,24 +53,11 @@
 |  Galbūt jau žinote apie PRISM skandalą.Tiesa, kad AT&T leidžia NSA nukopijuoti visus interneto duomenis stebėjimui. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Tarkime, kad dirbate NSA ir norite kiekvieno piliečio interneto profilio.Jūs žinote, kad dauguma jų aklai pasitiki „Cloudflare“ ir naudojasi juo - tik vienu centralizuotu šliuzu - norėdami perduoti savo įmonės serverio ryšį (SSH / RDP), asmeninę svetainę, pokalbių svetainę, forumo svetainę, banko svetainę, draudimo svetainę, paieškos variklį, slaptą narį. tik svetainė, aukcionų svetainė, apsipirkimas, vaizdo įrašų svetainė, NSFW svetainė ir neteisėta svetainė.Taip pat žinote, kad jie naudoja „Cloudflare“ DNS paslaugą („1.1.1.1“) ir VPN paslaugą („Cloudflare metmenys“) norėdami „Saugiai! Greičiau! Geriau! “ interneto patirtis.Juos sujungus su vartotojo IP adresu, naršyklės pirštų atspaudais, slapukais ir RAY-ID, bus naudinga kuriant tikslinį internetinį profilį. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Jūs norite jų duomenų. Ką tu darysi? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Debesų liepsna yra medaus puodas.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Nemokamas medus visiems. Kai kurios stygos pritvirtintos.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Nenaudokite „Cloudflare“.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralizuokite internetą.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Debesų liepsna yra medaus puodas.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Nemokamas medus visiems. Kai kurios stygos pritvirtintos.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Nenaudokite „Cloudflare“.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralizuokite internetą.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Pabandykite ir parašykite naują įrankį / scenarijų.](../tool/)
 
 * [Čia yra keletas perskaitytų PDF / ePUB.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
