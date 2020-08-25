@@ -53,24 +53,11 @@
 |  તમે કદાચ પહેલાથી જ PRISM કાંડ વિશે જાણતા હશો.તે સાચું છે કે એટી એન્ડ ટી એનએસએને સર્વેલન્સ માટેના તમામ ઇન્ટરનેટ ડેટાની ક copyપિ કરવા દે છે. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ચાલો આપણે કહીએ કે તમે એનએસએ પર કામ કરી રહ્યાં છો, અને તમને દરેક નાગરિકની ઇન્ટરનેટ પ્રોફાઇલ જોઈએ છે.તમે જાણો છો કે તેમાંના મોટા ભાગના ક્લાઉડફ્લેર પર આંધળાપણે વિશ્વાસ કરે છે અને તેનો ઉપયોગ કરે છે - ફક્ત એક કેન્દ્રિય ગેટવે - તેમની કંપની સર્વર કનેક્શન (એસએસએચ / આરડીપી), વ્યક્તિગત વેબસાઇટ, ચેટ વેબસાઇટ, ફોરમ વેબસાઇટ, બેંક વેબસાઇટ, વીમા વેબસાઇટ, સર્ચ એન્જિન, ગુપ્ત સભ્ય ફક્ત વેબસાઇટ, હરાજી વેબસાઇટ, શોપિંગ, વિડિઓ વેબસાઇટ, એનએસએફડબલ્યુ વેબસાઇટ અને ગેરકાયદેસર વેબસાઇટ.તમે એ પણ જાણો છો કે તેઓ "સુરક્ષિત!" માટે ક્લાઉડફ્લેરની DNS સેવા ("1.1.1.1") અને VPN સેવા ("ક્લાઉડફ્લેર રેપ") નો ઉપયોગ કરે છે. ઝડપી! વધુ સારું! ” ઇન્ટરનેટ અનુભવ.તેમને વપરાશકર્તાના આઇપી સરનામાં, બ્રાઉઝર ફિંગરપ્રિન્ટ, કૂકીઝ અને આરએવાય-આઈડી સાથે જોડવાનું લક્ષ્યની profileનલાઇન પ્રોફાઇલ બનાવવા માટે ઉપયોગી થશે. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  તમને તેમનો ડેટા જોઈએ છે. તમે શું કરશો? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **ક્લાઉડફ્લેર હનીપોટ છે.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **દરેક માટે મફત મધ. કેટલાક તાર જોડાયેલા છે.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **ક્લાઉડફ્લેરનો ઉપયોગ કરશો નહીં.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ઇન્ટરનેટનું વિકેન્દ્રિય બનાવવું.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### ક્લાઉડફ્લેર હનીપોટ છે.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### દરેક માટે મફત મધ. કેટલાક તાર જોડાયેલા છે.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### ક્લાઉડફ્લેરનો ઉપયોગ કરશો નહીં.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ઇન્ટરનેટનું વિકેન્દ્રિય બનાવવું.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [નવું ટૂલ / સ્ક્રિપ્ટ અજમાવી જુઓ.](../tool/)
 
 * [વાંચવા માટે અહીં કેટલીક પીડીએફ / ઇપબ છે.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
