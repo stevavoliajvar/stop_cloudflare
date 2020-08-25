@@ -53,24 +53,11 @@
 |  אולי כבר ידעת על שערוריית ה- PRISM.נכון AT&T מאפשר ל- NSA להעתיק את כל נתוני האינטרנט למעקב. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  נניח שאתה עובד ב- NSA, ואתה מעוניין בפרופיל האינטרנט של כל אזרח.אתה יודע שרובם סומכים באופן עיוור על Cloudflare ומשתמשים בו - רק שער מרכזי אחד - כדי לפרוק את חיבור שרת החברה שלהם (SSH / RDP), אתר אישי, אתר צ'אט, אתר פורום, אתר בנק, אתר ביטוח, מנוע חיפוש, חבר סודי אתר אינטרנט בלבד, מכירה פומבית, קניות, אתר וידאו, אתר NSFW ואתר לא חוקי.אתה גם יודע שהם משתמשים בשירות ה- DNS של Cloudflare ("1.1.1.1") ובשירות VPN ("עיוות Cloudflare") לצורך "מאובטח! מהר יותר! טוב יותר!" חווית אינטרנט.שילובם עם כתובת ה- IP של המשתמש, טביעת אצבע של הדפדפן, קובצי Cookie ומזהה RAY יעיל לבניית פרופיל המקוון של היעד. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  אתה רוצה את הנתונים שלהם. מה תעשה? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare הוא דבש.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **דבש חינם לכולם. כמה מיתרים צמודים.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **אל תשתמש ב- Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ביזר את האינטרנט.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare הוא דבש.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### דבש חינם לכולם. כמה מיתרים צמודים.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### אל תשתמש ב- Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ביזר את האינטרנט.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [נסה וכתוב כלי / סקריפט חדש.](../tool/)
 
 * [להלן PDF / ePUB לקריאה.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
