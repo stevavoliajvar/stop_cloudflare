@@ -53,24 +53,11 @@
 |  ທ່ານອາດຈະຮູ້ແລ້ວກ່ຽວກັບກະທູ້ PRISM.ມັນເປັນຄວາມຈິງທີ່ວ່າ AT&T ສາມາດເຮັດໃຫ້ NSA ຄັດລອກຂໍ້ມູນອິນເຕີເນັດທັງ ໝົດ ເພື່ອການເຝົ້າລະວັງ. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ໃຫ້ເວົ້າວ່າທ່ານ ກຳ ລັງເຮັດວຽກຢູ່ NSA, ແລະທ່ານຕ້ອງການຂໍ້ມູນອິນເຕີເນັດຂອງພົນລະເມືອງທຸກຄົນ.ທ່ານຮູ້ບໍ່ວ່າພວກເຂົາສ່ວນໃຫຍ່ແມ່ນມີຄວາມໄວ້ວາງໃຈໃນ Cloudflare ແລະໃຊ້ມັນ - ມີພຽງປະຕູດຽວທີ່ເປັນສູນກາງ - ເພື່ອເປັນຕົວແທນການເຊື່ອມຕໍ່ເຊີຟເວີຂອງບໍລິສັດຂອງພວກເຂົາ (SSH / RDP), ເວບໄຊທ໌ສ່ວນຕົວ, ເວບໄຊທ໌ສົນທະນາ, ເວບໄຊທ໌ເວບໄຊທ໌, ເວບໄຊທ໌ທະນາຄານ, ເວັບໄຊທ໌ປະກັນໄພ, ເຄື່ອງຈັກຊອກຫາ, ສະມາຊິກລັບ - ເວບໄຊທ໌ດຽວ, ເວບໄຊທ໌ການປະມູນ, ການຄ້າ, ເວບໄຊທ໌ວິດີໂອ, ເວບໄຊທ໌ NSFW, ແລະເວບໄຊທ໌ທີ່ຜິດກົດ ໝາຍ.ທ່ານຍັງຮູ້ອີກວ່າພວກເຂົາໃຊ້ບໍລິການ DNS ຂອງ Cloudflare ("1.1.1.1") ແລະບໍລິການ VPN ("Cloudflare Warp") ສຳ ລັບ "ປອດໄພ! ໄວກວ່າ! ດີກວ່າ!” ປະສົບການທາງອິນເຕີເນັດ.ການສົມທົບພວກມັນກັບທີ່ຢູ່ IP ຂອງຜູ້ໃຊ້, ລາຍນິ້ວມືຂອງໂປແກຼມທ່ອງເວັບ, cookies ແລະ RAY-ID ຈະເປັນປະໂຫຍດໃນການສ້າງໂປຼໄຟລ໌ online ຂອງເປົ້າ ໝາຍ. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  ທ່ານຕ້ອງການຂໍ້ມູນຂອງພວກເຂົາ. ເຈົ້າ​ຈະ​ເຮັດ​ຫຍັງ? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare ແມ່ນນໍ້າເຜິ້ງ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **ນໍ້າເຜິ້ງຟຣີ ສຳ ລັບທຸກຄົນ. ສາຍເຊືອກບາງສາຍຕິດ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **ຢ່າໃຊ້ Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ແບ່ງປັນອິນເຕີເນັດ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare ແມ່ນນໍ້າເຜິ້ງ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### ນໍ້າເຜິ້ງຟຣີ ສຳ ລັບທຸກຄົນ. ສາຍເຊືອກບາງສາຍຕິດ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### ຢ່າໃຊ້ Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ແບ່ງປັນອິນເຕີເນັດ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [ລອງ & ຂຽນເຄື່ອງມື / ສະຄິບ ໃໝ່.](../tool/)
 
 * [ນີ້ແມ່ນບາງເອກະສານ PDF / ePUB ເພື່ອອ່ານ.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
