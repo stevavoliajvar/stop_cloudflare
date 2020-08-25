@@ -53,24 +53,11 @@
 |  Baliteke dagoeneko ezagutu PRISM eskandalua.Egia da AT&T-k NSA-k Interneteko datu guztiak kopiatzeko aukera ematen duela zaintzarako. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Esan dezagun NSAn lan egiten duzula eta herritarren Interneteko profil bakoitza nahi duzula.Badakizu gehienok Cloudflare-n konfiantzaz erabiltzen dutela eta bakarrik erabiltzen dutela - atebide zentralizatu bakarra - beren enpresako zerbitzariaren konexioa proxy (SSH / RDP), webgune pertsonala, txat-webgunea, foroaren webgunea, bankuko webgunea, aseguruen webgunea, bilatzailea, kide sekretua -Egun webgunea, enkanteen webgunea, erosketak, bideoak, NSFW webgunea eta legez kanpoko webgunea.Badakizu Cloudflare-ren DNS zerbitzua ("1.1.1.1") eta VPN zerbitzua ("Cloudflare Warp") erabiltzen dituztela "Seguru!" Azkarrago! Hobe! " Interneteko esperientzia.Erabiltzailearen IP helbidea, arakatzailearen aztarna digitala, cookieak eta RAY-ID konbinatzea erabilgarria izango da helburuaren lineako profila sortzeko. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Haien datuak nahi dituzu. Zer egingo duzu? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare eztia da.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Doako eztia guztiontzat. Kate batzuk erantsita.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ez erabili Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Internet deszentralizatu.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare eztia da.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Doako eztia guztiontzat. Kate batzuk erantsita.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ez erabili Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Internet deszentralizatu.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
 * [Saiatu eta idatzi tresna / script berria.](../tool/)
 
 * [Hona hemen PDF / ePUB batzuk irakurtzeko.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
