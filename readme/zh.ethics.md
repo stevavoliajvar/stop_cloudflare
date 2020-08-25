@@ -3,20 +3,20 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-“不要支持这家缺乏道德的公司”
+"不要支持这家缺乏道德的公司"
 
-“您的公司不值得信赖。您声称要执行数字千年版权法案（DMCA），但因不这样做而面临许多诉讼。”
+"您的公司不值得信赖。您声称要执行DMCA，但因不执行而有很多诉讼。"
 
-“他们只审查那些质疑自己道德的人。”
+"他们只审查那些质疑自己道德的人。"
 
-“我认为事实是不便的，而且最好不公开显示。”  -- [phyzonloop](https://twitter.com/phyzonloop)
+"我认为事实是不便的，最好不公开显示。"  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
 <details>
-<summary>_点击我_
+<summary>点击我
 
 ## CloudFlare垃圾邮件人
 </summary>
@@ -29,7 +29,7 @@ Cloudflare正在向非Cloudflare用户发送垃圾邮件。
 
 就这么简单。但是Cloudflare不在乎。
 Cloudflare表示，使用他们的服务可以阻止所有垃圾邮件发送者或攻击者。
-我们如何在不激活Cloudflare的情况下阻止Cloudflare垃圾邮件发送者？
+我们如何在不激活Cloudflare的情况下停止Cloudflare？
 
 
 | 🖼 | 🖼 |
@@ -42,7 +42,7 @@ Cloudflare表示，使用他们的服务可以阻止所有垃圾邮件发送者�
 ---
 
 <details>
-<summary>_点击我_
+<summary>点击我
 
 ## 删除用户的评论
 </summary>
@@ -62,14 +62,14 @@ Cloudflare审查员负面评论。
 ---
 
 <details>
-<summary>_点击我_
+<summary>点击我
 
 ## 共享用户的私人信息
 </summary>
 
 
 Cloudflare有一个严重的骚扰问题。
-Cloudflare与抱怨托管站点的人共享个人信息。
+Cloudflare分享那些抱怨托管站点的人的个人信息。
 他们有时会要求您提供真实的ID。
 如果您不想受到骚扰，殴打，殴打或杀害，则最好远离Cloudflared网站。
 
@@ -85,7 +85,7 @@ Cloudflare与抱怨托管站点的人共享个人信息。
 ---
 
 <details>
-<summary>_点击我_
+<summary>点击我
 
 ## 公司募捐慈善捐款
 </summary>
@@ -93,7 +93,7 @@ Cloudflare与抱怨托管站点的人共享个人信息。
 
 CloudFlare要求慈善捐款。
 令人震惊的是，一家美国公司会与有良好理由的非营利组织一起请求慈善。
-如果您想阻止别人或浪费别人的时间，则可能要为Cloudflare员工订购一些比萨饼。
+如果您喜欢阻止别人或浪费别人的时间，则可能需要为Cloudflare员工订购一些比萨饼。
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -103,7 +103,7 @@ CloudFlare要求慈善捐款。
 ---
 
 <details>
-<summary>_点击我_
+<summary>点击我
 
 ## 终止站点
 </summary>
@@ -120,13 +120,13 @@ CloudFlare要求慈善捐款。
 ---
 
 <details>
-<summary>_点击我_
+<summary>点击我
 
 ## 浏览器供应商歧视
 </summary>
 
 
-CloudFlare为使用Firefox的用户提供优先待遇，同时对非Tor浏览器的用户提供与Tor相比的敌对待遇。
+CloudFlare为使用Firefox的用户提供了优先待遇，同时对非Tor浏览器的用户提供了与Tor相比的敌对待遇。
 有权拒绝执行非免费javascript的Tor用户也将受到敌对待遇。
 这种访问不平等是网络中立性滥用和权力滥用。
 
@@ -136,29 +136,30 @@ CloudFlare为使用Firefox的用户提供优先待遇，同时对非Tor浏览器
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- 左： [Tor浏览器] 禁用Javascript，启用Cookie
-- 右： [Chrome] 启用Javascript，禁用Cookie
+- 左：Tor浏览器Javascript已禁用，Cookie已启用
+- 右：启用Chrome Javascript，禁用Cookie
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser（小型浏览器），不带Tor（Clearnet IP）
 
-| ***浏览器*** | ***访问处理*** |
+| ***浏览器*** | ***接诊*** |
 | --- | --- |
-| 允许Tor浏览器（启用Javascript） | 访问 |
-| Firefox（启用Javascript） | 访问降级 |
-| Chromium（启用Javascript） | 访问降级 |
-| 拒绝Chromium或Firefox（禁止Javascript） | 访问被拒绝 |
-| Chromium或Firefox（禁用Cookie） | 访问被拒绝 |
-| QuteBrowser | 访问被拒绝 |
-| lynx | 访问被拒绝 |
-| w3m | 访问被拒绝 |
-| wget | 访问被拒绝 |
+| Tor Browser (启用Javascript) | 允许访问 |
+| Firefox (启用Javascript) | 访问降级 |
+| Chromium (启用Javascript) | 访问降级 |
+| Chromium or Firefox (禁用了Javascript) | 拒绝访问 |
+| Chromium or Firefox (Cookie已禁用) | 拒绝访问 |
+| QuteBrowser | 拒绝访问 |
+| lynx | 拒绝访问 |
+| w3m | 拒绝访问 |
+| wget | 拒绝访问 |
 
 
-“为什么不使用“音频”按钮来解决简单的挑战？”
+为什么不使用音频按钮来解决简单的挑战？
 
-是的，有一个音频按钮，但始终不能在Tor上使用。单击它时，您将收到此消息：
+是的，有一个音频按钮，但始终不能在Tor上使用。
+单击该消息，您将收到此消息:
 
 ```
 稍后再试
@@ -172,17 +173,18 @@ CloudFlare为使用Firefox的用户提供优先待遇，同时对非Tor浏览器
 ---
 
 <details>
-<summary>_点击我_
+<summary>点击我
 
 ## 选民压制
 </summary>
 
 
-美国各州的选民最终通过居住所在州的国务卿网站注册投票。
-由共和党控制的州务卿办公室通过Cloudflare代理州务卿网站，从而压制选民。
-Cloudflare对Tor用户的敌视对待，其MITM作为全球集中监视点的位置以及总体上有害的角色使准选民不愿登记。
-自由主义者尤其倾向于拥抱隐私。选民登记表收集有关选民的政治倾向，个人实际住址，社会安全号码和出生日期的敏感信息。
-大多数州只公开提供这些信息的一部分，但是Cloudflare在有人注册投票时会看到所有这些信息。
+美国各州的选民最终通过居住国的国务卿网站注册投票。
+由共和党控制的州务卿办公室通过Cloudflare代理州务卿的网站来压制选民。
+Cloudflare对Tor用户的敌视态度，其MITM作为全球集中监视点的位置以及其不利的总体作用使准选民不愿登记。
+自由主义者尤其倾向于拥抱隐私。
+选民登记表收集有关选民的政治倾向，个人实际住址，社会安全号码和出生日期的敏感信息。
+大多数州只公开提供这些信息的一部分，但是当有人进行投票时，Cloudflare会看到所有这些信息。
 
 请注意，纸质注册不会绕开Cloudflare，因为国务卿数据输入工作人员可能会使用Cloudflare网站输入数据。
 
@@ -191,8 +193,8 @@ Cloudflare对Tor用户的敌视对待，其MITM作为全球集中监视点的位
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org是一个著名的网站，用于收集选票并采取行动。
-“各地的人们都在发起运动，动员支持者，并与决策者一起推动解决方案。”
-不幸的是，由于Cloudflare的过滤器过大，许多人根本无法查看change.org。
+“各地的人们正在发起运动，动员支持者，并与决策者合作以寻求解决方案。”
+不幸的是，由于Cloudflare的攻击性过滤器，许多人根本无法查看change.org。
 他们被禁止签署请愿书，从而将他们排除在民主进程之外。
 使用其他非Cloudflared平台（例如OpenPetition）有助于解决该问题。
 
@@ -200,23 +202,23 @@ Cloudflare对Tor用户的敌视对待，其MITM作为全球集中监视点的位
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- Cloudflare的“雅典计划”为州和地方选举网站提供了免费的企业级保护。
-他们说“他们的选民可以访问选举信息和选民登记册”，但这是一个谎言，因为很多人根本无法浏览该网站。
+- Cloudflare的“雅典计划”为州和地方选举网站提供免费的企业级保护。
+他们说“他们的选民可以访问选举信息和选民登记表”，但这是一个谎言，因为许多人根本无法浏览该网站。
 
 </details>
 
 ---
 
 <details>
-<summary>_点击我_
+<summary>点击我
 
 ## 忽略用户的偏好
 </summary>
 
 
-如果您选择退出，则希望您不会收到有关它的电子邮件。
+如果您选择退出，则希望您不会收到有关该邮件的电子邮件。
 Cloudflare会忽略用户的偏好，并在未经客户同意的情况下与第三方公司共享数据。
-如果您使用他们的免费计划，他们有时会向您发送电子邮件，要求您购买每月订阅。
+如果您使用他们的免费计划，他们有时会向您发送电子邮件，要求购买每月订阅。
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -225,24 +227,25 @@ Cloudflare会忽略用户的偏好，并在未经客户同意的情况下与第�
 ---
 
 <details>
-<summary>_点击我_
+<summary>点击我
 
-## 说谎删除用户数据
+## 说谎关于删除用户数据
 </summary>
 
 
 根据这位前cloudflare客户的博客，Cloudflare谎言要删除帐户。
-如今，许多公司在您关闭或删除帐户后都会保留您的数据。大多数优秀公司的隐私政策中都提到了这一点。
-Cloudflare？没有。
+如今，许多公司在您关闭或删除帐户后都会保留您的数据。
+大多数优秀公司的隐私政策中都提到了这一点。
+耀斑？没有。
 
 ```
-2019-08-05 CloudFlare向我发送了确认他们已删除我的帐户的确认。
+2019-08-05 CloudFlare向我发送了确认，他们已经删除了我的帐户。
 2019-10-02 我收到了CloudFlare的电子邮件，“因为我是客户”
 ```
 
 Cloudflare不了解“删除”一词。
 如果确实删除了该邮件，为什么这位前客户收到一封电子邮件？
-他还提到Cloudflare的隐私政策没有提及。
+他还提到Cloudflare的隐私政策没有提及它。
 
 ```
 他们的新隐私权政策没有提及保留一年的数据。
@@ -250,14 +253,14 @@ Cloudflare不了解“删除”一词。
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-如果Cloudflare的隐私政策不是，您如何信任他们？
+如果Cloudflare的隐私政策是LIE，您如何信任他们？
 
 </details>
 
 ---
 
 <details>
-<summary>_点击我_
+<summary>点击我
 
 ## 保留您的个人信息
 </summary>
@@ -277,13 +280,13 @@ Cloudflare不了解“删除”一词。
 
 “我们已开始处理您的删除请求”，但“我们将继续存储您的个人信息”。
 
-您可以“信任”吗？
+您可以“信任”这个吗？
 
 </details>
 
 ---
 
-## 请继续下一页：   "[Cloudflare Voices](../PEOPLE.md)"
+## 请继续下一页:   [Cloudflare声音](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
