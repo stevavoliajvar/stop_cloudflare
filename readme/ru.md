@@ -53,24 +53,11 @@
 |  Возможно, вы уже знаете о скандале PRISM.Это правда, что AT&T позволяет АНБ копировать все данные из Интернета для наблюдения. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Допустим, вы работаете в АНБ и хотите, чтобы у каждого гражданина был профиль в Интернете.Вы знаете, что большинство из них слепо доверяют Cloudflare и используют его - только один централизованный шлюз - для проксирования соединения с сервером своей компании (SSH / RDP), личного веб-сайта, веб-сайта чата, веб-сайта форума, веб-сайта банка, веб-сайта страхования, поисковой системы, секретного участника - только веб-сайт, веб-сайт аукциона, веб-сайт покупок, веб-сайт с видео, веб-сайт NSFW и незаконный веб-сайт.Вы также знаете, что они используют службу DNS Cloudflare («1.1.1.1») и службу VPN («Cloudflare Warp») для «Secure! Быстрее! Лучше!" Интернет-опыт.Объединение их с IP-адресом пользователя, отпечатком пальца браузера, файлами cookie и RAY-ID будет полезно для создания онлайн-профиля цели. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Вам нужны их данные. Что ты будешь делать? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare - это приманка.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Бесплатный мед для всех. Прилагаются какие-то ниточки.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Не используйте Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Децентрализовать Интернет.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare - это приманка.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Бесплатный мед для всех. Прилагаются какие-то ниточки.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Не используйте Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Децентрализовать Интернет.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Попробуйте написать новый инструмент / скрипт.](../tool/)
 
 * [Вот несколько PDF / ePUB для чтения.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
