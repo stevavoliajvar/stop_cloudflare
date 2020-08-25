@@ -53,24 +53,11 @@
 |  പ്രിസ്എം അഴിമതിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഇതിനകം തന്നെ അറിയാം.എല്ലാ ഇന്റർനെറ്റ് ഡാറ്റയും നിരീക്ഷണത്തിനായി പകർത്താൻ എടി ആൻഡ് ടി എൻ‌എസ്‌എയെ അനുവദിക്കുന്നുവെന്നത് ശരിയാണ്. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  നിങ്ങൾ എൻ‌എസ്‌എയിൽ ജോലി ചെയ്യുന്നുവെന്ന് പറയട്ടെ, നിങ്ങൾക്ക് ഓരോ പൗരന്റെയും ഇന്റർനെറ്റ് പ്രൊഫൈൽ ആവശ്യമാണ്.അവരുടെ കമ്പനി സെർവർ കണക്ഷൻ (എസ്എസ്എച്ച് / ആർ‌ഡി‌പി), പേഴ്‌സണൽ വെബ്‌സൈറ്റ്, ചാറ്റ് വെബ്‌സൈറ്റ്, ഫോറം വെബ്‌സൈറ്റ്, ബാങ്ക് വെബ്‌സൈറ്റ്, ഇൻഷുറൻസ് വെബ്‌സൈറ്റ്, സെർച്ച് എഞ്ചിൻ, രഹസ്യ അംഗം -ഒരു വെബ്‌സൈറ്റ്, ലേല വെബ്‌സൈറ്റ്, ഷോപ്പിംഗ്, വീഡിയോ വെബ്‌സൈറ്റ്, എൻ‌എസ്‌എഫ്‌ഡബ്ല്യു വെബ്‌സൈറ്റ്, നിയമവിരുദ്ധ വെബ്‌സൈറ്റ്.“സുരക്ഷിതം! വേഗത്തിൽ! നല്ലത്! ” ഇന്റർനെറ്റ് അനുഭവം.ടാർഗെറ്റിന്റെ ഓൺലൈൻ പ്രൊഫൈൽ നിർമ്മിക്കുന്നതിന് ഉപയോക്താവിന്റെ ഐപി വിലാസം, ബ്ര browser സർ ഫിംഗർപ്രിന്റ്, കുക്കികൾ, റേ-ഐഡി എന്നിവയുമായി അവ സംയോജിപ്പിക്കുന്നത് ഉപയോഗപ്രദമാകും. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  നിങ്ങൾക്ക് അവരുടെ ഡാറ്റ ആവശ്യമാണ്. നിങ്ങൾ എന്തുചെയ്യും? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **ക്ലൗഡ്ഫ്ലെയർ ഒരു ഹണിപോട്ടാണ്.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **എല്ലാവർക്കും സൗജന്യ തേൻ. ചില സ്ട്രിംഗുകൾ അറ്റാച്ചുചെയ്‌തു.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **ക്ലൗഡ്ഫ്ലെയർ ഉപയോഗിക്കരുത്.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ഇന്റർനെറ്റ് വികേന്ദ്രീകരിക്കുക.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### ക്ലൗഡ്ഫ്ലെയർ ഒരു ഹണിപോട്ടാണ്.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### എല്ലാവർക്കും സൗജന്യ തേൻ. ചില സ്ട്രിംഗുകൾ അറ്റാച്ചുചെയ്‌തു.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### ക്ലൗഡ്ഫ്ലെയർ ഉപയോഗിക്കരുത്.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ഇന്റർനെറ്റ് വികേന്ദ്രീകരിക്കുക.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [പുതിയ ഉപകരണം / സ്ക്രിപ്റ്റ് പരീക്ഷിച്ച് എഴുതുക.](../tool/)
 
 * [വായിക്കാൻ കുറച്ച് PDF / ePUB ഇതാ.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
