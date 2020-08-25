@@ -53,24 +53,11 @@
 |  Mety ho efa fantatrao ny momba ny tantara an-tsary PRISM.Marina fa ny AT&T dia mamela ny NSA handika ny angon-drakitra rehetra amin'ny Internet mba hanaraha-maso. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Andao lazaina hoe miasa ao amin'ny NSA ianao, ary maniry ny mombamomba ny olon-tsotra rehetra amin'ny Internet ianao.Fantatrao fa ny ankamaroan'izy ireo dia matoky ny Cloudflare an-jambany ary mampiasa izany - vavahady iray afovoany fotsiny - mba hanohana ny fifandraisan'izy ireo ny serivisin'ny mpizara (SSH / RDP), tranonkala manokana, tranokalan'ny chat, tranokala forum, tranokalan'ny banky, tranokalan'ny fiantohana, search engine, mpikambana miafina tranonkala -ly, tranokala lavanty, miantsena, tranonkala video, tranonkala NSFW, ary tranonkala tsy ara-dalàna.Fantatrao koa fa mampiasa ny serivisy DNS Cloudflare ("1.1.1.1") sy serivisy VPN ("Cloudflare Warp") ho an'ny "Secure! Haingankaingana! Better! " traikefa amin'ny Internet.Ny fampifangaroana azy ireo amin'ny adiresy IP an'ny mpampiasa, ny fanondro kaody, ny mofomamy ary ny RAY-ID dia ilaina amin'ny fananganana ny mombamomba an-tserasera kendrena kendrena. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Tianao ny angon-dry zareo. Inona no hataonao? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare dia honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Tantely maimaimpoana ho an'ny rehetra. Ny kofehy sasany miraikitra.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Aza mampiasa Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Araraoty ny Internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare dia honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Tantely maimaimpoana ho an'ny rehetra. Ny kofehy sasany miraikitra.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Aza mampiasa Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Araraoty ny Internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "The Great Cloudwa
 * [Manandrama & manoratra fitaovana / script vaovao.](../tool/)
 
 * [Ity misy PDF / ePUB hamaky.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
