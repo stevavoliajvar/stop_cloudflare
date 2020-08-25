@@ -53,24 +53,11 @@
 |  Maaaring alam mo na ang tungkol sa iskandalo ng PRISM.Totoo na pinapayagan ng AT&T ang NSA na kopyahin ang lahat ng data sa internet para sa pagsubaybay. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Sabihin nating nagtatrabaho ka sa NSA, at nais mo ang bawat profile ng internet ng mga mamamayan.Alam mo na ang karamihan sa kanila ay walang taros na nagtitiwala sa Cloudflare at ginagamit ito - isang sentralisado lamang na gateway - upang i-proxy ang kanilang koneksyon sa server ng kumpanya (SSH / RDP), personal na website, chat website, forum website, website ng bangko, website ng seguro, search engine, lihim na miyembro -only website, auction website, shopping, video website, NSFW website, at illegal website.Alam mo rin na gumagamit sila ng serbisyo ng Cloudflare's DNS ("1.1.1.1") at serbisyo ng VPN ("Cloudflare Warp") para sa "Secure! Mas mabilis! Mas mabuti!" karanasan sa internet.Ang pagsasama-sama sa kanila ng IP address ng gumagamit, fingerprint ng browser, cookies at RAY-ID ay magiging kapaki-pakinabang upang bumuo ng online profile ng target. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Nais mo ang kanilang data. Ano ang gagawin mo? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Ang Cloudflare ay isang honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Libreng honey para sa lahat. Ang ilang mga string na nakadikit.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Huwag gumamit ng Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Tukuyin ang internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Ang Cloudflare ay isang honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Libreng honey para sa lahat. Ang ilang mga string na nakadikit.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Huwag gumamit ng Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Tukuyin ang internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 * [Subukan at isulat ang bagong Tool / Script.](../tool/)
 
 * [Narito ang ilang mga PDF / ePUB upang mabasa.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
