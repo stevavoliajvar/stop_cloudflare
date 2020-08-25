@@ -53,24 +53,11 @@
 |  آپ شاید PRISM اسکینڈل کے بارے میں جان چکے ہوں گے۔یہ سچ ہے کہ اے ٹی اینڈ ٹی این ایس اے کو نگرانی کے لئے تمام انٹرنیٹ ڈیٹا کاپی کرنے کی اجازت دیتا ہے۔ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ہم کہتے ہیں کہ آپ NSA پر کام کر رہے ہیں ، اور آپ ہر شہری کا انٹرنیٹ پروفائل چاہتے ہیں۔آپ جانتے ہیں کہ ان میں سے بیشتر آنکھیں بند کرکے کلاؤڈ فلایر پر بھروسہ کررہے ہیں اور اسے استعمال کررہے ہیں - صرف ایک مرکزی گیٹ وے - اپنی کمپنی سرور کنیکشن (ایس ایس ایچ / آر ڈی پی) ، ذاتی ویب سائٹ ، چیٹ ویب سائٹ ، فورم ویب سائٹ ، بینک ویب سائٹ ، انشورنس ویب سائٹ ، سرچ انجن ، خفیہ ممبر صرف ویب سائٹ ، نیلامی کی ویب سائٹ ، خریداری ، ویڈیو ویب سائٹ ، NSFW ویب سائٹ ، اور غیر قانونی ویب سائٹ۔آپ یہ بھی جانتے ہیں کہ وہ کلاؤڈ فلایر کی ڈی این ایس سروس ("1.1.1.1") اور VPN سروس ("کلاؤڈ فلائر وارپ") کو "سیکیور!" کے لئے استعمال کرتے ہیں۔ تیز! بہتر! " انٹرنیٹ کا تجربہ۔ان کا صارف کے IP ایڈریس ، براؤزر فنگر پرنٹ ، کوکیز اور RAY-ID کے ساتھ جوڑنا ہدف کے آن لائن پروفائل کی تعمیر کے ل useful مفید ہوگا۔ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  آپ ان کا ڈیٹا چاہتے ہیں۔ آپ کیا کریں گے؟ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **کلاؤڈ فلایر ایک ہنی پاٹ ہے۔** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **سب کے لئے مفت شہد۔ کچھ ڈور منسلک۔** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **کلاؤڈ فلایر کا استعمال نہ کریں۔** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **انٹرنیٹ کو وکندریقرت بنائیں۔** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### کلاؤڈ فلایر ایک ہنی پاٹ ہے۔
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### سب کے لئے مفت شہد۔ کچھ ڈور منسلک۔
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### کلاؤڈ فلایر کا استعمال نہ کریں۔
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### انٹرنیٹ کو وکندریقرت بنائیں۔
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [نیا ٹول / اسکرپٹ آزمائیں اور لکھیں۔](../tool/)
 
 * [پڑھنے کے لئے کچھ پی ڈی ایف / ای پی یو بی یہ ہے۔](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
