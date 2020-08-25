@@ -53,24 +53,11 @@
 |  Dibe ku hûn berê di derbarê skandala PRISM de dizanin.Rast e ku AT&T dihêle NSA ku hemî daneyên internetnternetê ji bo çavdêriyê kopî bike. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Ka em bêjin hûn li NSA kar dikin, û hûn profîla internetnternetê ya her welatî dixwazin.Hûn dizanin piraniya wan bi Cloudflare-yê bawer dikin û ew bikar tînin - tenê yek deriyek navendî - ji bo girêdana serverê ya pargîdaniya wan (SSH / RDP), malperê kesane, malpera chat, malpera forumê, malperê bankê, malperê bîmeyê, motora lêgerînê, endamê veşartî. Malpera yekane, malpera ankand, kirînê, malpera vîdyoyê, malpera NSFW, û malpera neqanûnî.Hûn jî dizanin ku ew karûbarê DNS ya Cloudflare ("1.1.1.1") û karûbarê VPN ("Cloudflare Warp") ji bo "Ewlehî! Zûtir! Baştir!" ezmûna înternetê.Bihevxistina wan bi navnîşana IP-ya bikarhêner, şîfreya tilikê, cookies û RAY-ID dê ji bo avakirina profîla serhêl a kêrhatî be. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Hûn daneyên wan dixwazin. Tu ê çi bikî? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare honandî ye.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Belaş ji bo herkesî. Hin stûnên pêve çêdibin.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare bikar neynin.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Thenternetê dexelal bikin.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare honandî ye.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Belaş ji bo herkesî. Hin stûnên pêve çêdibin.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare bikar neynin.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Thenternetê dexelal bikin.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Vê repoya navnîşek malperên ku li paş "The Cloudwall mezin" in, rawestandin
 * [Vebijêrin / Nivîsbar / Nivîsbariya Nû binivîsin.](../tool/)
 
 * [Li vir çend PDF / ePUB heye ku hûn bixwînin.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
