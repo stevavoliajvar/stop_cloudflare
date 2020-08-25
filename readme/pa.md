@@ -110,8 +110,7 @@
   * ਕਈ ਵਾਰ ਟਿਕਟ ਦੀ ਭੰਨਤੋੜ ਕੀਤੀ ਗਈ.
   * [ਟੋਰ ਪ੍ਰੋਜੈਕਟ ਦੁਆਰਾ ਮਿਟਾਇਆ ਗਿਆ.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ਟਿਕਟ ਵੇਖੋ 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [ਆਖਰੀ ਪੁਰਾਲੇਖ ਦੀ ਟਿਕਟ 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544), libBletchley
-  * ਉਨ੍ਹਾਂ ਨੇ ਪਿਛਲੇ ਸਮੇਂ ਕਲਾਉਡਫਲੇਅਰ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ.ਸੀ.ਐਫ.-ਟੋਰ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਸੀ.
+* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
