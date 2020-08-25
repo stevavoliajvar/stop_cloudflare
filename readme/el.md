@@ -53,24 +53,11 @@
 |  Ίσως γνωρίζετε ήδη για το σκάνδαλο PRISM.Είναι αλήθεια ότι η AT&T επιτρέπει στην NSA να αντιγράφει όλα τα δεδομένα διαδικτύου για παρακολούθηση. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Ας υποθέσουμε ότι εργάζεστε στην NSA και θέλετε το προφίλ διαδικτύου κάθε πολίτη.Γνωρίζετε ότι οι περισσότεροι από αυτούς εμπιστεύονται τυφλά το Cloudflare και το χρησιμοποιούν - μόνο μια κεντρική πύλη - για τη μεσολάβηση της σύνδεσης διακομιστή εταιρείας (SSH / RDP), προσωπικού ιστότοπου, ιστότοπου συνομιλίας, ιστότοπου φόρουμ, ιστότοπου τράπεζας, ιστότοπου ασφάλισης, μηχανής αναζήτησης, μυστικού μέλους -όνο ιστότοπος, ιστότοπος δημοπρασιών, ιστότοπους αγορών, βίντεο, ιστότοπος NSFW και παράνομος ιστότοπος.Γνωρίζετε επίσης ότι χρησιμοποιούν την υπηρεσία DNS του Cloudflare ("1.1.1.1") και την υπηρεσία VPN ("Cloudflare Warp") για το "Secure! Γρηγορότερα! Καλύτερα!" εμπειρία στο Διαδίκτυο.Ο συνδυασμός τους με τη διεύθυνση IP του χρήστη, το δακτυλικό αποτύπωμα του προγράμματος περιήγησης, τα cookie και το RAY-ID θα είναι χρήσιμο για τη δημιουργία του διαδικτυακού προφίλ του στόχου. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Θέλετε τα δεδομένα τους. Τι θα κάνεις? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Το Cloudflare είναι ένα honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Δωρεάν μέλι για όλους. Συνδέθηκαν ορισμένες χορδές.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Μην χρησιμοποιείτε το Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Αποκέντρωση του Διαδικτύου.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Το Cloudflare είναι ένα honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Δωρεάν μέλι για όλους. Συνδέθηκαν ορισμένες χορδές.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Μην χρησιμοποιείτε το Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Αποκέντρωση του Διαδικτύου.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Δοκιμάστε & γράψτε νέο εργαλείο / σενάριο.](../tool/)
 
 * [Εδώ μπορείτε να διαβάσετε μερικά PDF / ePUB.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
