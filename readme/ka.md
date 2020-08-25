@@ -53,24 +53,11 @@
 |  თქვენ შეიძლება უკვე იცოდეთ PRISM სკანდალის შესახებ.მართალია, AT&T საშუალებას აძლევს NSA- ს კოპირება განახორციელოს ინტერნეტში ყველა მონაცემის მეთვალყურეობისთვის. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ვთქვათ, რომ თქვენ მუშაობთ NSA- ში და გინდათ ყველა მოქალაქის ინტერნეტი.თქვენ იცით, რომ მათი უმრავლესობა ბრმად ენდობა Cloudflare- ს და იყენებს მას - მხოლოდ ერთი ცენტრალიზებული კარიბჭე - მათი კომპანიის სერვერის კავშირის (SSH / RDP) მარიონეტულობის, პირად ვებსაიტზე, ჩატის ვებსაიტზე, ფორუმის ვებსაიტზე, ბანკის ვებსაიტზე, სადაზღვევო ვებსაიტზე, საძიებო სისტემაზე, საიდუმლო წევრზე. ერთ ვებსაიტზე, აუქციონის ვებსაიტზე, საყიდლებზე, ვიდეო ვებსაიტზე, NSFW ვებსაიტზე და არალეგალურ ვებსაიტზე.თქვენ ასევე იცით, რომ ისინი იყენებენ Cloudflare- ს DNS მომსახურებას ("1.1.1.1") და VPN მომსახურებას ("Cloudflare Warp") "უსაფრთხო! უფრო სწრაფად! Უკეთესი!" ინტერნეტის გამოცდილება.მათი კომბინაცია მომხმარებლის IP მისამართთან, ბრაუზერის თითის ანაბეჭდთან, ქუქი – ფაილებთან და RAY-ID– ით სასარგებლო იქნება სამიზნე ონლაინ პროფილის შესაქმნელად. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  გსურთ მათი მონაცემები. Რას იზავ? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare არის honpot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **ყველასთვის უფასო თაფლი. რამდენიმე სტრიქონი ერთვის.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **არ გამოიყენოთ Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ინტერნეტის დეცენტრალიზაცია.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare არის honpot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### ყველასთვის უფასო თაფლი. რამდენიმე სტრიქონი ერთვის.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### არ გამოიყენოთ Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ინტერნეტის დეცენტრალიზაცია.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [სცადეთ და დაწერეთ ახალი ხელსაწყო / სკრიპტი.](../tool/)
 
 * [აქ წაიკითხეთ PDF / ePUB.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
