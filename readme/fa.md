@@ -53,24 +53,11 @@
 |  ممکن است از رسوایی PRISM اطلاع داشته باشید.درست است که AT&T به NSA اجازه می دهد تا تمام اطلاعات اینترنت را برای نظارت کپی کند. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  بیایید بگوییم که شما در NSA کار می کنید ، و مشخصات اینترنت همه شهروندان را می خواهید.شما می دانید که اکثر آنها به Cloudflare اعتماد دارند و از آن استفاده می کنند - فقط یک دروازه متمرکز - برای پروکسی اتصال سرور شرکت خود (SSH / RDP) ، وب سایت شخصی ، وب سایت گپ ، وب سایت انجمن ، وب سایت بانکی ، وب سایت بیمه ، موتور جستجو ، عضو مخفی. وب سایت تنها ، وب سایت حراج ، خرید ، وب سایت ویدیویی ، وب سایت NSFW و وب سایت غیرقانونی.شما همچنین می دانید که آنها از سرویس DNS Cloudflare ("1.1.1.1") و سرویس VPN ("Cloudflare Warp") برای "ایمن! سریعتر! بهتر!" تجربه اینترنتترکیب آنها با آدرس IP کاربر ، اثر انگشت مرورگر ، کوکی ها و RAY-ID برای ساختن نمایه آنلاین هدف مفید خواهد بود. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  شما داده های آنها را می خواهید. چه خواهید کرد؟ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare یک لانه زنبوری است.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **عزیز رایگان برای همه. برخی از رشته ها وصل شده اند.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **از Cloudflare استفاده نکنید.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **عدم تمرکز اینترنت.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare یک لانه زنبوری است.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### عزیز رایگان برای همه. برخی از رشته ها وصل شده اند.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### از Cloudflare استفاده نکنید.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### عدم تمرکز اینترنت.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [ابزار / اسکریپت جدید را امتحان کنید و بنویسید.](../tool/)
 
 * [در اینجا چند PDF / ePUB برای خواندن آورده شده است.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
