@@ -53,24 +53,11 @@
 |  Saatat jo tietää PRISM-skandaalista.On totta, että AT&T antaa NSA: lle kopioida kaikki Internet-tiedot seurantaa varten. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Oletetaan, että työskentelet NSA: ssa ja haluat jokaisen kansalaisen Internet-profiilin.Tiedät, että useimmat heistä luottavat sokeasti Cloudflareen ja käyttävät sitä - vain yhtä keskitettyä yhdyskäytävää - välittääkseen yrityksen palvelinyhteyttä (SSH / RDP), henkilökohtaista verkkosivustoa, chat-verkkosivustoa, foorumin verkkosivustoa, pankin verkkosivustoa, vakuutussivustoa, hakukonetta, salaa jäsentä - vain verkkosivusto, huutokauppasivusto, ostokset, video-, NSFW- ja laiton verkkosivusto.Tiedät myös, että he käyttävät Cloudflaren DNS-palvelua ("1.1.1.1") ja VPN-palvelua ("Cloudflare Warp") "Suojattu! Nopeammin! Paremmin!" Internet-kokemus.Niiden yhdistäminen käyttäjän IP-osoitteeseen, selaimen sormenjälkeen, evästeisiin ja RAY-ID: hen on hyödyllistä rakentaa kohteen online-profiilia. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Haluat heidän tietojaan. Mitä aiot tehdä? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare on hunajapotti.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Ilmainen kulta kaikille. Jotkut jouset kiinnitetty.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Älä käytä Cloudflare-laitetta.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Hajauttaa Internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare on hunajapotti.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Ilmainen kulta kaikille. Jotkut jouset kiinnitetty.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Älä käytä Cloudflare-laitetta.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Hajauttaa Internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Tämä säilytystila on luettelo verkkosivustoista, jotka ovat "Suuren pilvasein
 * [Kokeile ja kirjoita uusi työkalu / komentosarja.](../tool/)
 
 * [Tässä on joitain luettavia PDF / ePUB-tiedostoja.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
