@@ -53,24 +53,11 @@
 |  Unaweza kuwa tayari unajua juu ya kashfa ya PRISM.Ni kweli kwamba AT&T inaruhusu NSA kunakili data zote za mtandao za uchunguzi. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Acha tuseme unafanya kazi katika NSA, na unataka wasifu wa mtandao wa kila raia.Unajua wengi wao wanaiamini kwa upofu Cloudflare na kuitumia - lango moja tu la kati - kuwakubali muunganisho wa seva ya kampuni yao (SSH / RDP), tovuti ya kibinafsi, tovuti ya mazungumzo, tovuti ya jukwaa, wavuti ya benki, wavuti ya bima, injini ya utaftaji, mjumbe wa siri Tovuti pekee, tovuti ya mnada, ununuzi, tovuti ya video, tovuti ya NSFW, na wavuti haramu.Unajua pia kutumia huduma ya Cloudflare's DNS ("1.1.1.1") na huduma ya VPN ("Cloudflare Warp") kwa "Salama! Haraka! Afadhali! " uzoefu wa mtandao.Kuwaunganisha na anwani ya IP ya mtumiaji, vidole vya vidakuzi, kuki na kitambulisho cha RAY itakuwa muhimu kujenga wasifu wa mkondoni wa lengo. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Unataka data zao. Utafanya nini? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare ni supu ya asali.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Asali ya bure kwa kila mtu. Kamba kadhaa zilizowekwa.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Usitumie Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Tangaza mtandao.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare ni supu ya asali.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Asali ya bure kwa kila mtu. Kamba kadhaa zilizowekwa.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Usitumie Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Tangaza mtandao.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "Cloudwall Kubwa", zinazuia wa
 * [Jaribu na uandike Chombo mpya / Hati mpya.](../tool/)
 
 * [Hapa kuna PDF / ePUB ya kusoma.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
