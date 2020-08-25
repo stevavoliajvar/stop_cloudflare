@@ -53,24 +53,11 @@
 |  سىز بەلكىم PRISM سەتچىلىكىنى بىلىشىڭىز مۇمكىن.AT&T نىڭ NSA نىڭ بارلىق ئىنتېرنېت سانلىق مەلۇماتلىرىنى نازارەت قىلىپ كۆچۈرۈشىگە يول قويغانلىقى راس. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ئالايلۇق ، سىز NSA دا ئىشلەۋاتىسىز ، ھەر بىر پۇقرانىڭ تور ئارخىپىنى ئۈمىد قىلىسىز.ئۇلارنىڭ كۆپىنچىسىنىڭ Cloudflare غا قارىغۇلارچە ئىشىنىدىغانلىقىنى ۋە ئۇنى ئىشلىتىپ ، پەقەت بىر مەركەزلىك دەرۋازا ئارقىلىق ئۇلارنىڭ شىركەت مۇلازىمېتىر ئۇلىنىشى (SSH / RDP) ، شەخسىي تور بېكەت ، پاراڭلىشىش تور بېكىتى ، مۇنبەر تور بېكىتى ، بانكا تور بېكىتى ، سۇغۇرتا تور بېكىتى ، ئىزدەش ماتورى ، مەخپىي ئەزانىڭ ۋاكالەتچى ئىكەنلىكىنى بىلىسىز. -بىز تور بېكەت ، كىمئارتۇق سودىسى تور بېكىتى ، مال سېتىۋېلىش ، سىن تور بېكىتى ، NSFW تور بېكىتى ۋە قانۇنسىز تور بېكەت.ئۇلارنىڭ «Cloudflare» نىڭ DNS مۇلازىمىتى («1.1.1.1») ۋە VPN مۇلازىمىتى («Cloudflare Warp») نى «بىخەتەر» ئۈچۈن ئىشلىتىدىغانلىقىنى بىلىسىز. تېز! ياخشى! ». ئىنتېرنېت تەجرىبىسى.ئۇلارنى ئىشلەتكۈچىنىڭ IP ئادرېسى ، توركۆرگۈچنىڭ بارماق ئىزى ، ساقلانمىلار ۋە RAY-ID بىلەن بىرلەشتۈرگەندە نىشاننىڭ تور ئارخىپىنى تۇرغۇزۇشقا پايدىسى بار. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  ئۇلارنىڭ سانلىق مەلۇماتلىرىغا ئېھتىياجلىق. نېمە قىلىسىز؟ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare بولسا ھەسەل ھەرىسى.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **ھەممەيلەنگە ھەقسىز ھەسەل. بەزى قۇرلار باغلانغان.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare نى ئىشلەتمەڭ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ئىنتېرنېتنى تارقاقلاشتۇرۇش.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare بولسا ھەسەل ھەرىسى.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### ھەممەيلەنگە ھەقسىز ھەسەل. بەزى قۇرلار باغلانغان.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare نى ئىشلەتمەڭ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ئىنتېرنېتنى تارقاقلاشتۇرۇش.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [يېڭى قورال / قوليازمىنى سىناپ بېقىڭ.](../tool/)
 
 * [بۇ يەردە ئوقۇيدىغان PDF / ePUB بار.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
