@@ -53,24 +53,11 @@
 |  قد تكون على علم بالفعل بفضيحة PRISM.صحيح أن AT&T تتيح لوكالة الأمن القومي نسخ جميع بيانات الإنترنت للمراقبة. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  لنفترض أنك تعمل في وكالة الأمن القومي وتريد ملفًا شخصيًا على الإنترنت لكل مواطن.أنت تعرف أن معظمهم يثقون بشكل أعمى في Cloudflare ويستخدمونها - بوابة مركزية واحدة فقط - لتوكيل اتصال خادم الشركة (SSH / RDP) ، وموقع الويب الشخصي ، وموقع الدردشة ، وموقع المنتدى ، وموقع البنك ، وموقع التأمين ، ومحرك البحث ، والعضو السري -الموقع الإلكتروني فقط ، وموقع المزاد ، والتسوق ، وموقع الفيديو ، وموقع NSFW ، والموقع غير القانوني.أنت تعلم أيضًا أنهم يستخدمون خدمة DNS الخاصة بـ Cloudflare ("1.1.1.1") وخدمة VPN ("Cloudflare Warp") من أجل "Secure! بسرعة! أفضل!" تجربة الإنترنت.سيكون الجمع بينها وبين عنوان IP الخاص بالمستخدم وبصمة المتصفح وملفات تعريف الارتباط ومعرف RAY مفيدًا لبناء الملف الشخصي للهدف عبر الإنترنت. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  تريد بياناتهم. ماذا ستفعل؟ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare هو موضع جذب.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **عسل مجاني للجميع. بعض الخيوط المرفقة.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **لا تستخدم Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **تطبيق اللامركزية على الإنترنت.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare هو موضع جذب.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### عسل مجاني للجميع. بعض الخيوط المرفقة.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### لا تستخدم Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### تطبيق اللامركزية على الإنترنت.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [جرب واكتب أداة / نص جديد.](../tool/)
 
 * [إليك بعض ملفات PDF / ePUB للقراءة.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
