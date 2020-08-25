@@ -53,24 +53,11 @@
 |  Iam ut vos scire, quo Prisma circa partialis.AT & T est vera lets NSA ut effingo omnium Penitus enim notitia annotata. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Lets 'narro vos erant' opus in NSA et vis omnis civis profile scriptor penitus.Tu nosti omnium ex illis sunt caeca confidens Cloudflare et per id - modo unum centralized porta - Proxy in comitatu servo nexu (ssh / RDP), personalis website, chat website, forum website, ripae website, assecurationis website, quaerere engine, secretum membrum, tantum website, auction website, shopping, video website, NSFW website, et illegal website.Tu quoque nosti de Vesci Cloudflare uti servitium ( "1.1.1.1 ') et VPN servitium (" Cloudflare Warrior') pro "Salva! Citius! Melius est! " Penitus experientia.Combining IP oratio eorum in user scriptor, pasco fingerprints, crustula et influentia, id utile esse target scriptor online profile facere. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Tibi vis in data. Quid facies? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare Honeypot est.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Mel, quia omnes libera. Quidam cordis attachiatus.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ne Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralize interrete.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare Honeypot est.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Mel, quia omnes libera. Quidam cordis attachiatus.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ne Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralize interrete.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
 * [Try & Mors Principium novum scribo / ita contigit.](../tool/)
 
 * [Ecce quibusdam PDF / ePUB legere.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
