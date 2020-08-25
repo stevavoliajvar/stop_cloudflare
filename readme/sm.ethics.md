@@ -1,35 +1,35 @@
-# Amio Taualoa Faʻafitauli
+# Mataupu Amio Taualoa
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Aua le lagolagoina lenei kamupani lea e gaogao i amioga taualoa_"
+"Aua le lagolagoina lenei kamupani lea e leai se amio faʻamaoni"
 
-"_O lau kamupani e le faʻatuatuaina. E te faʻapea o oe e faamalosia le DMCA ae e tele ni au tagi o loʻo le faia."
+"O lau kamupani e le faʻatuatuaina. Tou te fai mai e faamalosia le DMCA ae e tele ni suʻesuʻega na tou te le faia."
 
-"_Latou te faʻailoaina na o latou e fesiligia a latou amio taualoa._"
+"Na o latou faʻailoaina latou o loʻo fesiligia a latou amio saʻo."
 
-"_Ou te masalo o le mea moni e le talafeagai ma sili atu natia mai tagata lautele._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Ou te masalo o le mea moni talafeagai ma sili natia mai lautele manatu."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
-<auiliiliga>
-<sapuʻe> _kiliki aʻu_
+<details>
+<summary>kiliki aʻu
 
-## CloudFlare faʻasalalau tagata
+## CloudFlare spams tagata
 </summary>
 
 
 Cloudflare o loʻo lafoina spam imeli i tagata le-Cloudflare.
 
-- Naʻo lafo imeli i tagata lesitala oe na filifilia
-- A fai mai le tagata faʻaaoga "taofi", ona taofi lea o le lafoina imeli
+- Naʻo ona lafo imeli i tagata lesitala oe na filifili
+- A faʻapea e le tagata faʻaaoga "taofi", ona taofi lea o le lafoina imeli
 
 E faigofie. Ae e le popole le Cloudflare.
-Fai mai Cloudflare le faaaogaina o la latou auaunaga [e mafai ona taofia uma spammers poo le attackers](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers- ).
-Faʻafefea mafai ona tatou taofia _Cloudflare spammers_ aunoa ma le faʻatinoina Cloudflare?
+Fai mai Cloudflare o le faʻaaogaina o le latou tautua e mafai ai ona taofia uma le au spam poʻo le osofaʻiga.
+Faʻafefea mafai ona tatou taofia Cloudflare e aunoa ma le toe faʻatinoina Cloudflare?
 
 
 | 🖼 | 🖼 |
@@ -41,14 +41,16 @@ Faʻafefea mafai ona tatou taofia _Cloudflare spammers_ aunoa ma le faʻatinoina
 
 ---
 
-<auiliiliga>
-<sapuʻe> _kiliki aʻu_
+<details>
+<summary>kiliki aʻu
 
-## Aveese le faʻaaogaina a le tagata faʻaaoga
+## Aveese le iloiloga a le tagata
 </summary>
 
 
-Cloudflare censor [iloiloga le lelei](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Afai e te lafoina _anti-Cloudflare_ tusitusiga i luga o le Twitter, e iai lou avanoa e maua ai se [tali](https://twitter.com/CloudflareHelp/status/1126051764917145601) mai le [Cloudflare tagata faigaluega](cloudflare_inc/cloudflare_members.txt) ma "_[Leai, e leʻo](PEOPLE.md) _ "feau. Afai e te lafoina se iloiloga le lelei i soʻo se nofoaga o iloiloga, o le a latou taumafai e [faʻamatalaina](https://twitter.com/phyzonloop/status/1178836176985366529) [ia](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+Cloudflare sikoa faʻamatalaga le lelei.
+Afai e te faʻalauiloa aneti-Cloudflare tusitusiga i luga o le Twitter, ua e maua se avanoa e maua ai se tali mai le Cloudflare tagata faigaluega ma "Leai, e leʻo" savali.
+A faʻapea e te lafoina se mea le saʻo i seisi itulau o iloiloga, o le a latou taumafai e pasiaina.
 
 
 | 🖼 | 🖼 |
@@ -59,16 +61,17 @@ Cloudflare censor [iloiloga le lelei](https://web.archive.org/web/20191116004046
 
 ---
 
-<auiliiliga>
-<sapuʻe> _kiliki aʻu_
+<details>
+<summary>kiliki aʻu
 
-## Tagata fai faʻatau
+## Faʻasoa faʻamatalaga a le tagata faʻaaoga
 </summary>
 
 
-Cloudflare ei ai se [tele faʻaletonu faafitauli](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -faaigoa-igoa-2017-5).
-Cloudflare [faʻasoa faʻamatalaga a le tagata lava ia](https://archive.ph/ePdvi) ai latou na [oe](https://twitter.com/ZJemptv/status/898299709634248704) [faasee](https://twitter.com/TinyPirate/status/554718958176067584) [e uiga](https://twitter.com/remembrancermx/status/1010329041235148802) [talimalo](https://twitter.com/Bridaguy/status/915003769280172037) [nofoaga](https://twitter .com/TalofaAndrew/tulaga/897260208845500416). O nisi taimi latou te fai atu ai e aumai
-lau ID moni. Afai e te le manaʻo e faʻalavelave, [osofaʻia](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) pe [fasioti](https://twitter.com/RusEmbUSA/status/1187363092793040901), e sili ai lou nofo ese mai le Cloudflared 'upega tafaʻilagi.
+Cloudflare ei ai se faʻafitauli tele o faʻalavelave.
+Cloudflare faʻasoa faʻamatalaga a le tagata lava ia i latou e faʻasea e uiga i talimalo nofoaga.
+O nisi taimi latou te fai mai ia te oe e aumai lau ID moni.
+Afai e te le manaʻo e faʻalavelavea, osofaʻia, faʻafefeteina pe fasiotia, e sili ai lou nofo ese mai Cloudflared 'upega tafaʻilagi.
 
 
 | 🖼 | 🖼 |
@@ -81,14 +84,16 @@ lau ID moni. Afai e te le manaʻo e faʻalavelave, [osofaʻia](https://twitter.c
 
 ---
 
-<auiliiliga>
-<sapuʻe> _kiliki aʻu_
+<details>
+<summary>kiliki aʻu
 
-## Tautala ole faʻapitoa mo foaʻi alofa
+## Tautalaga faʻapitoa ole faʻameaalofa foaʻi
 </summary>
 
 
-CloudFlare o [fesili](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) mo saofaga alofa. E matua faʻanoanoa tele le faʻapea o se kamupani a Amerika o le a talosaga mo le alofa faʻatasi ma faʻalapotopotoga e leai ni tupe mama e lelei. Afai e te fiafia i le [polokaina tagata poʻo le maʻimau taimi o isi tagata](PEOPLE.md), atonu e te manaʻo e oka ni pisa mo tagata faigaluega a le Cloudflare.
+CloudFlare ole atu mo fesoasoani alofa.
+O se mea mataina tele le a faʻatonu e se faʻalapotopotoga a Amerika mo le alofa faʻatasi ma faʻapotopotoga e leai ni tupe mama e lelei mafuaʻaga.
+Afai e te fiafia e poloka tagata pe faʻaleaogaina isi taimi, atonu e te manaʻo e faʻatonu ni pisi mo tagata faigaluega a le Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -97,14 +102,16 @@ CloudFlare o [fesili](https://web.archive.org/web/20191112033605/https://opencol
 
 ---
 
-<auiliiliga>
-<sapuʻe> _kiliki aʻu_
+<details>
+<summary>kiliki aʻu
 
 ## Faʻamutaina nofoaga
 </summary>
 
 
-O le a lau mea o le a fai pe a alu lau '' upega tafaʻilagi _ faʻafuaseʻi_? O loʻo iai lipoti o Cloudflare o le [delete](https://twitter.com/stefan_eady/status/1126033791267426304) [user's](https://twitter.com/derivativeburke/status/903755267053117440) [konfigurasi](https://twitter.com/lordscarlet/status/1046785164792205314) poʻo [taofi auaunaga e aunoa ma se lapataiga](https://twitter.com/svolentin/status/1227324408475344896), [filemu](https://twitter.com/BlnaryMlke/status/1194339461984854018). Matou te fautua atu ia e maua le [sili atu tautua](what-to-do.md).
+O le a lau mea o le a fai pe a fai o lau 'upega tafaʻilagi alu ifo faʻafuaseʻi?
+E i ai lipoti o le Cloudflare o loʻo soloia le faʻaaoga a le tagata pe taofi se auaunaga e aunoa ma se lapataiga, lemu.
+Matou te fautua atu e te maua se tausi sili.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -112,99 +119,106 @@ O le a lau mea o le a fai pe a alu lau '' upega tafaʻilagi _ faʻafuaseʻi_? O 
 
 ---
 
-<auiliiliga>
-<sapuʻe> _kiliki aʻu_
+<details>
+<summary>kiliki aʻu
 
-## Vaʻaiga faʻailoga tagata
+## Suʻesuʻega faʻailoga tagata faʻatau
 </summary>
 
 
 CloudFlare e maua ai le faʻamaninoina ia i latou o loʻo faʻaaogaina Firefox aʻo tuʻuina atu faʻaleaga togafitiga i tagata e le o ni Tor-Browser i luga o le Tor.
 E faʻaaoga e le au faʻaaogaina se tasi e le tatau ona faia se faʻamatalaga e leai se totogi.
-O lenei avanoa le tutusa ai o se fesoʻotaʻiga soʻofaʻatasi fesoʻotaʻiga ma se faʻaaoga sese le mana.
+O lenei avanoa le tutusa ai o se fesoʻotaʻiga soʻofaʻatasi fesoʻotaʻiga ma se faʻaaoga sese.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Agavale: `` Tor Browser '', Taumatau: `` Chrome '. Tuatusi IP tuatusi.
+- Agavale: Tor Browser, Taumatau: Chrome. Tuatusi IP tuatusi.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Agavale: `[Tor Browser] Javascript Faʻaletonu, Kuki Faʻamalosi '
-- Taumatau: `` [Chrome] Javascript Enabled, Cookie Disabled '
+- Agavale: Tor Browser Javascript ua le atoatoa, Kuki na mafai
+- Taumatau: Chrome Javascript Enabled, Cookie Disabled
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
-- QuteBrowser (browser laiti) aunoa Tor (Clearnet IP)
+- QuteBrowser (tamaʻi browser) e leai se Tor (Clearnet IP)
 
-| *** Browser *** | *** Avanoa togafitiga *** |
+| ***Suʻesuʻega*** | ***Avanoa togafitiga*** |
 | --- | --- |
-| Tor Browser (Sa mafai e le Javascript) | avanoa faʻatagaina |
-| Firefox (Javascript mafai) | avanoa ua faʻaleaogaina |
-| Chromium (Ua mafai ona faʻalauiloa Javascript) | avanoa faʻaleagaina (tulei Google reCAPTCHA) |
-| Chromium poʻo le Firefox (Javascript ua le atoatoa) | avanoa ua le talia (tulei * malepe * Google reCAPTCHA) |
-| Chromium poʻo le Firefox (Kuki le atoatoa) | avanoa e le talia |
-| QuteBrowser | avanoa e le talia |
-| tui | avanoa e le talia |
-| w3m | avanoa e le talia |
-| tupe totogi | avanoa e le talia |
+| Tor Browser (Javascript mafai ai) | avanoa faʻatagaina |
+| Firefox (Javascript mafai ai) | avanoa ua faaleagaina |
+| Chromium (Javascript mafai ai) | avanoa ua faaleagaina |
+| Chromium or Firefox (Javascript ua le atoatoa) | le taliaina |
+| Chromium or Firefox (Kuki le atoatoa) | le taliaina |
+| QuteBrowser | le taliaina |
+| lynx | le taliaina |
+| w3m | le taliaina |
+| wget | le taliaina |
 
 
-"_Aisea e le faʻaaogaina ai le ki e faʻafetaui ai luʻitau faigofie? _"
+Aisea e le faʻaaoga ai Audio faʻamau e foia ai faʻafitauli faigofie?
 
-Ioe, e iai le leo o le pana, ae _always_ [e le galue i luga o Tor](https://trac.torproject.org/projects/tor/ticket/23840). O le ae mauaina lenei feʻau pe a e kilikiina:
+Ioe, e i ai le leo faʻamau, ae e le faigaluega i luga o Tor.
+E te mauaina lea feʻau pe a e kiliki i ai:
 
-`` ''
+```
 Toe taumafai mulimuli ane
 O lau komepiuta poʻo le fesoʻotaʻiga e ono auina atu ni fesili otometi.
 Ina ia puipuia a matou tagata faʻaaogaina, matou le mafai ona faʻagaioia lau talosaga i le taimi nei.
 Mo nisi faʻamatalaga asiasi le matou itulau fesoasoani
-`` ''
+```
 
 </details>
 
 ---
 
-<auiliiliga>
-<sapuʻe> _kiliki aʻu_
+<details>
+<summary>kiliki aʻu
 
-## Aveesea tagata palota
+## Tagata palota
 </summary>
 
 
-O tagata palota i US setete o loʻo resitala e palota e auala i le failautusi a le setete i le tulaga o lo latou nofoaga.
-O ofisa failautusi a le setete e pulea le Republican e auai i le taofiofia o tagata palota e ala i le sui o le setete failautusi i luga o le upega tafailagi e ala i Cloudflare.
-Cloudflare's le talimalo talimalo i tagata faʻaaogaina Tor, o lona tulaga MITM o se ogatotonu o le lalolagi tulaga o mataituina, ma lona afaina ai aotelega
-e fiu ai tagata palota e lesitala. O tagata lautele e faapitoa lava latou te taliaina le le faalauaiteleina. O pepa resitala a tagata palota e aoina mai faʻamatalaga e uiga i le palota a le tagata palota, tuatusi o le tagata, numera o le saogalemu, ma le aso na fanau ai.
-Ole tele o setete na o le faia o se vaega o na faʻamatalaga faʻalauaʻitele, ae Cloudflare vaʻai *** uma *** faamatalaga ia pe a iai se tasi e lesitala e palota.
+O tagata palota i Amerika o loʻo lesitala e palota e ala i le failautusi a le setete i le setete o lo latou nofoaga.
+O ofisa o le failautusi a le setete e pulea le Republican e auai i le taofia o tagata palota e ala i le sui o le setete failautusi i luga o le upega tafailagi e ala i Cloudflare.
+Cloudflare o le le talimalo agavaʻa o tagata faʻaaoga Tor, o lona tulaga MITM o se tulaga tutotonu tulaga faʻavaitaimi o le mataituina, ma lona afaina ai aotelega faia faʻatosina tagata palota palota i ai le mumusu e lesitala.
+O tagata lautele e faapitoa lava latou te taliaina le le faalauaiteleina.
+O pepa resitala a tagata palota e aoina mai faʻamatalaga e uiga i le palota a le tagata palota, tuatusi o le tagata, numera o le saogalemu, ma le aso na fanau ai.
+Ole tele o setete naʻo le faia o se vaega o na faʻamatalaga faʻalauaʻitele, ae Cloudflare vaʻai uma na faʻamatalaga pe a lesitala se tasi e palota.
 
-Manatua o pepa faʻamauina e le taofiofia Cloudflare ona o le failautusi o le setete faʻamaumauga faʻamaumauga ulufale tagata faigaluega ono ono faʻaaogaina le
-Cloudflare 'upega tafaʻilagi e ulufale i faʻamaumauga.
+Manatua o pepa resitala e le taofiofia Cloudflare ona o le failautusi o le setete faʻamaumauga faʻamatalaga ulufale tagata faigaluega o le a ono faʻaaogaina le Cloudflare 'upega tafaʻilagi e ulufale i le faʻamatalaga.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org o se lauiloa 'upega tafaʻilagi mo le aoina o palota ma faia gaioiga. "[tagata i soo se mea e amata ai ni faʻasalalauga, e unaʻiina tagata lagolago, ma galulue faʻatasi ma tagata e faia faʻaiuga e avatua ni fofo.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Ae paga lea, e toʻatele tagata e le mafai ona vaʻavaʻai i le change.org ona o le malosi o le Cloudflare. O loʻo poloka latou i le sainia o le talosaga, e le aofia ai i latou mai le faʻatemokarasi. O le faʻaaogaina o isi tulaga e le o ni cloudflared pei o le [OpenPetition](https://www.openpetition.eu/content/about_us) e foia ai le faʻafitauli.
+- Change.org o se lauiloa 'upega tafaʻilagi mo le aoina o palota ma faia gaioiga.
+“o tagata i soo se mea e amata ai ni polokalame, e unaʻia le au lagolago, ma galulue faatasi ma le au fai faaiuga e unaʻia fofo.”
+Ae paga lea, e toʻatele tagata e le mafai ona vaʻavaʻai i le suiga.org.
+O loʻo poloka latou i le sainia o le talosaga, e le aofia ai i latou mai le faʻatemokarasi.
+Faʻaogaina isi leai-cloudflared tulaga pei o OpenPetition fesoasoani faʻafofoina le faʻafitauli.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- Cloudflare's "[Atenian Poloketi](https://www.cloudflare.com/athenian/)" ofoina fua-pisinisi tulaga-puipuia puipuiga i tulaga o le setete ma le palota i le lotoifale uepisaite. Na latou fai mai "_e mafai e tagata o latou itumalo ona maua faʻamatalaga a le palota ma le lesitala o tagata palota".
+- Cloudflare's "Atenian Poloketi" ofoina maua fua-pisinisi puipuiga tulaga i le setete ma le lotoifale palota i luga o le upega tafailagi.
+Na latou fai mai "e mafai e latou itumalo ona maua faʻamatalaga a le palota ma le lesitala o tagata palota" peitaʻi o se pepelo lea aua e toʻatele tagata e le mafai ona vaʻai i luga o le upega tafailagi.
 
 </details>
 
 ---
 
-<auiliiliga>
-<sapuʻe> _kiliki aʻu_
+<details>
+<summary>kiliki aʻu
 
-## Le amanaiaina le manaʻo a le tagata faʻaaoga
+## Le amanaiaina le manaʻo o tagata
 </summary>
 
 
-Afai e te filifilia se mea, e te manatu e te le mauaina se imeli e uiga i ai. Cloudflare le amanaiaina le manaʻo o le tagata faʻasoa ma fefaʻasoaʻi faʻamatalaga ma isi vaega faʻapitoa [e aunoa ma le faʻatagaga a tagata faʻatau](https://twitter.com/thexpaw/status/1108424723233419264). Afai o loʻo e faʻaaogaina la latou fuafuaga faʻatau, latou te tuʻuina atu i isi taimi imeli ia te oe e manaʻo e faʻatau saʻo le masina.
+Afai e te filifilia se mea, e te manatu e te le mauaina se imeli e uiga i ai.
+Cloudflare le amanaiaina le faʻaaogaina o le tagata ma faʻasoa faʻamaumauga ma isi vaega faʻalapotopotoga e aunoa ma le faʻatagaina a le tagata faʻatau.
+Afai o loʻo e faʻaaogaina la latou fuafuaga faʻatau, latou te tuʻuina atu i nisi taimi imeli ia oe e fai atu e faʻatau saʻo le masina.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -212,54 +226,59 @@ Afai e te filifilia se mea, e te manatu e te le mauaina se imeli e uiga i ai. Cl
 
 ---
 
-<auiliiliga>
-<sapuʻe> _kiliki aʻu_
+<details>
+<summary>kiliki aʻu
 
-## pepelo e uiga i le soloia o faʻamatalaga a le tagata
+## Pepelo e uiga i le tapeina o faʻamatalaga a le tagata
 </summary>
 
 
-E tusa ai ma lenei [ex-cloudflare custom blog blog](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare e pepelo e uiga i le soloia o teugatupe. Ole taimi nei, e tele [kamupani tausi au faamatalaga](https://justdeleteme.xyz/) pe a uma ona e tapunia pe aveese lau teugatupe. Le tele o kamupani lelei taʻutaʻu e uiga i ai i la latou faalauaiteleina faiga faavae. Cloudflare? Leai.
+E tusa ai ma lenei muamua-cloudflare tagata faʻatau blog, Cloudflare pepelo e uiga i le soloia o teuga tupe.
+I nei aso, tele kamupani tausia lau faʻamatalaga pe a uma ona e tapunia pe aveese lau teuga tupe.
+Le tele o kamupani lelei taʻutaʻu e uiga i ai i la latou faalauaiteleina faiga faavae.
+Cloudflare? Leai.
 
-`` ''
-2019-08-05 CloudFlare na auina mai ia te aʻu le faʻamaoniga ua latou aveesea laʻu tala.
+```
+2019-08-05 Sa auina mai e CloudFlare se faamautinoaga na latou aveeseina laʻu tala.
 2019-10-02 Na ou mauaina se imeli mai le CloudFlare "aua o aʻu o le tagata faatau"
-`` ''
+```
 
-Sa le iloa e Cloudflare le upu "aveese". Afai o le mea moni _removed_, aisea na maua ai e le ex-tagata faʻatau imeli? Na ia taʻua foi o le le faalauaiteleina faiga faavae a Cloudflare e le taʻua ai.
+Sa le iloa e Cloudflare le upu "aveese".
+Afai e aveʻesea, pe aisea na maua ai e le ex-customer le imeli?
+Na ia taʻua foi o le le faalauaiteleina faiga faavae a Cloudflare e le taʻu ai.
 
-`` ''
+```
 O la latou faiga malu puipuia fou e le taʻua ai le teuina o faʻamaumauga mo le tausaga.
-`` ''
+```
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-E faʻafefea ona e faʻatuatuaina Cloudflare pe afai [o latou tulafono faʻalilolilo o se LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+Faʻafefea ona e faʻatuatuaina Cloudflare pe a fai o latou faʻalilolilo tulafono o se LIE?
 
 </details>
 
 ---
 
-<auiliiliga>
-<sapuʻe> _kiliki aʻu_
+<details>
+<summary>kiliki aʻu
 
-## Tausia au oe lava faʻamatalaga
+## Tausi ou oe lava faʻamatalaga
 </summary>
 
 
-O le tapeina o Cloudflare account o [faigata tulaga](https://justdeleteme.xyz/).
+Aveesea Cloudflare tala e faigata tulaga.
 
-`` ''
+```
 Tuʻu se pepa lagolago lagolago faʻaaoga le vaega "Teugatupe",
-ma le talosaga e faʻamuta le teuina o le tino i le feau.
-E le tatau ona i ai ni auupega poʻo ni kata aitalafu e faʻapipiʻi i lau teugatupe ae e te leʻi manaʻomia lau faʻauiga.
-`` ''
+ma le talosaga e faʻamuta le teuina o le tino ile feau.
+E le tatau ona i ai ni au domains poʻo ni kata aitalafu e faʻapipiʻi i lau teugatupe ae e te leʻi manaʻomia lau faʻauiga.
+```
 
-E te [mauaina lenei faʻamaoniga imeli](https://twitter.com/originalesushi/status/1199041528414527495).
+O le ae mauaina lenei faʻamaoniga imeli.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
-"Ua amata ona matou faʻagaioia lau faʻamutaina o le tuʻufaʻatasiga" ae "Matou te faʻaauauina pea le teuina o au faʻamatalaga".
+"Ua amata ona matou faʻagaioia lau faʻamutuga o le tuʻufaʻatasia" ae "O le a matou faaauau pea ona teuina a oe lava faʻamatalaga".
 
 Mafai ona e "faʻatuatuaina" lenei?
 
@@ -267,7 +286,7 @@ Mafai ona e "faʻatuatuaina" lenei?
 
 ---
 
-## Faʻamolemole faʻaauau i le isi itulau: "[Cloudflare Voices](../PEOPLE.md)"
+## Faʻamolemole faʻaauau i le isi itulau:   [Cloudflare Leo](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

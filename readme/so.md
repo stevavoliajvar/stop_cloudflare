@@ -1,120 +1,121 @@
-# Iyo huru Cloudwall
+# Cloud Cloud weyn
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegraph/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 ---
 
 
-## Misa Cloudflare
+## Jooji Cloudflare
 
 
-| 🖹 | 🖼 |
-| - -
-| "Great Cloudwall" ndeye Cloudflare Inc., iyo kambani yeU.S. Iyo iri kupa CDN (yezviratidzwa zvekutumira network) masevhisi, DDoS mitigation, Internet kuchengetedzeka, uye yakagoverwa DNS (domain name server) masevhisi. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
-| Cloudflare ndiyo yepasi rose MITM proxy (reverse proxy). Cloudflare inazvo inopfuura 80% yeiyo CDN musika wekugovera uye huwandu hwevanoshandisa Cloudflare vari kukura zuva rega rega. Vakawedzera network yavo kune anopfuura nyika zana. Cloudflare inoshanda yakawanda yewebhu traffic kupfuura Twitter, Amazon, Apple, Instagram, Bing & Wikipedia yakasanganiswa. Cloudflare iri kupa yemahara chirongwa uye vanhu vazhinji vari kuishandisa panzvimbo yekugadzirisa maseva avo nemazvo. Ivo vaitengesa kuvanzika pamusoro pekureruka. | ![] [
-| Cloudflare inogara pakati pako uye neiyo webserver, ichiita senge muganho wekutenderera. Iwe haugone kubatanidza kune yako yakasarudzwa kwaunoda. Iwe uri kubatanidza kuCloudflare uye ruzivo rwako rwese rwuri kutsanangurwa uye rwunopihwa pakubhururuka. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/border_patrol.jpg) |
-| Iyo yekutanga webserver maneja akabvumidza mumiririri - Cloudflare - kusarudza uyo anokwanisa kuwana kune yavo "webhu" uye kutsanangura "nzvimbo yakadzoreredzwa". | ![] [
-| Tarisa uone pamufananidzo wakakodzera. Iwe uchafunga Cloudflare block chete yakaipa chete. Iwe uchafunga kuti Cloudflare inogara iri online (usambofa wakadzika). Iwe uchafunga Legob bots uye vanopenga vanogona kuratidza yako webhusaiti. | ![] [
-| Zvisinei izvo hazvisi zvechokwadi zvachose. Cloudflare iri kuvhara vanhu vasina mhosva pasina chikonzero. Cloudflare inogona kuburuka. Cloudflare inovhara Leg bots. | ![] [
-| Sezvakaita chero basa rekutambira, Cloudflare haina kukwana. Iwe uchaona iyi skrini kunyange iyo sevha yekutanga iri kushanda nemazvo. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdown2019.jpg) |
-| Iwe unonyatsofunga kuti Cloudflare ine 100% kumusoro? Iwe hauna zano rekuti kangani Cloudflare inodzika. Kana Cloudflare ikadzika mutengi wako haakwanise kuwana webhusaiti yako. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternilerrorjj.jpg) <br>![](https://codeberg.org//media/branch/master/image/cloudflareoutage2020.jpg) |
-| Izvo zvinonzi izvi zvichitaura nezve Great Firewall yeChina inoita basa rakafanana nerekuturikira kunze vanhu vazhinji kuti vaone zviri mukati mewebhu (kureva munhu wese mudunhu reChina nevanhu vari kunze) nepo panguva imwe chete avo vasina kukanganisa kuona webhu zvakasiyana , yewebhu isina macensorship yakaita semufananidzo we "tank man" uye nhoroondo ye "Tiananmen Square kuratidzira". | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflarechina.jpg) |
-| Cloudflare ine simba rakakura. Mune imwe nzira, ivo vanodzora izvo pakupedzisira mushandisi anozoona. Iwe unodzivirirwa kuti urege kuongorora webhusaiti nekuda kweCloudflare. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/onemorestep.jpg) |
-| Cloudflare inogona kushandiswa kucensorship. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/accdenied.jpg) |
-| Iwe haugone kuona yegore rakapunzika kana iwe uri kushandisa diki browser iyo Cloudflare ingafunge kuti ndeye bot (nekuti havasi vanhu vazhinji vanoishandisa). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfublock.jpg) |
-| Iwe haugone kupfuudza iyi inopinda "browser yekutarisa" pasina kuendesa Javascript. Uku kutambisa kwemashanu (kana kupfuura) masekondi ehupenyu hwako hwakakosha. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsjsck.jpg) |
-| Cloudflare zvakare inozvivhara otomatiki mabhoti/zvinokambaira zvakadai seGoogle, Yandex, Yacy, uye API vatengi. Cloudflare iri kushingairira kutarisa "bypass Cloudflare" nharaunda ine chinangwa chekutyora Legit research research. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg) |
-| Cloudflare nenzira imwechete inodzivirira vanhu vazhinji vane kushaya kwakanaka kweinternet kubva pakuwana mawebhusaiti kumashure kwayo (semuenzaniso, ivo vanogona kunge vari kumashure kwe7+ layita yeNAT kana kugoverana zvakafanana IP, semuenzaniso yeruzhinji Wifi) kunze kwekunge ivo vagadzirisa akawanda mufananidzo maCAPTCHA. Mune zvimwe zviitiko, izvi zvinotora maminetsi gumi kusvika makumi matatu ekugutsa Google. | ![] [
-| Mugore ra2020 Cloudflare yakachinja kubva kuGoogle's Recaptcha kuenda hCaptcha seGoogle inotarisira kubhadharisa kushandiswa kwayo. Cloudflare yakakuudza kuti vanochengeta yako kuvanzika ("inobatsira kugadzirisa kusavanzika kunetseka") asi izvi zviri pachena kuti inhema. Izvo zvese ndezvemari. "hCaptcha inobvumira mawebhusaiti kuita mari yekushumirwa uku achivhara bots uye dzimwe nzira dzekushungurudzwa" <br> Kubva pamaonero evashandisi, izvi hazvichinje zvakanyanya. Uri kumanikidzwa kuzvigadzirisa. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fedup_fucking_hcaptcha.jpg) |
-| Vanhu vazhinji uye software iri kuvharwa neCloudflare mazuva ese. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsnot.jpg) |
-| Cloudflare inotsamwisa vanhu vazhinji pasi rese. Tarisa uone pane rondedzero uye ufunge kana kutora Cloudflare pane yako saiti kwakanakira ruzivo rwevashandisi. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsstream.jpg) |
-| Chii chinangwa che internet kana usingakwanise kuita zvaunoda? Vanhu vazhinji vanoshanyira webhusaiti yako vanozongotsvaga mamwe mapeji kana vasingakwanise kurongedza peji rewebhu. Iwe unogona kunge usiri kuvhara chero vashanyi, asi Cloudflare's default firewall yakasimba zvakakwana kuvhara vanhu vazhinji. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsdroid.jpg) <br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsappl.jpg) |
-| Iko hakuna nzira yekugadzirisa Captcha pasina kugonesa Javascript uye Cookies. Cloudflare iri kuvashandisa kuti vagadziirire siginari yekukuzivisa iwe. Cloudflare inoda kuziva chako chiziviso kuti uone kana uri eligeble kuti uenderere mberi nekutsvaga saiti. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1010bsig.jpg) |
-| Vashandisi veTor uye vashandisi veVPN zvakare vari kunetswa ne Cloudflare. Mhinduro dzese dziri kushandiswa nevanhu vazhinji vasingakwanise kubhadhara internet zvisina kufanira nekuda kwenyika yavo/mubatanidzwa/network dandemutande kana uyo anoda kuwedzera rimwe dongo kuchengetedza kwavo kuvanzika. Cloudflare iri kunyara kurwisa vanhu ivavo, ichivamanikidza kuti vadzime mhinduro yavo. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn2.jpg) |
-| Kana iwe usina kuedza Tor kusvika panguva ino, tinokukurudzira kurodha Tor Browser uye shanyira ako aunofarira webhusaiti. (Zano: Usapinda pawebhusaiti yako yebhangi kana yewebhu peji kana ivo vachamisa muakaunti yako. Shandisa VPN yeiyo mawebhusaiti.) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn.jpg) |
-| Unogona kuda kuti "Tor haisi pamutemo! Vashandisi veTor vane mhosva! Tor yakaipa!". Kwete. Unogona kudzidza nezveTor kubva terevhizheni, ichiti Tor inogona kushandiswa kutarisa rima uye kutengesa pfuti, zvinodhaka kana chidhira. Nepo chirevo chiri pamusoro ndechechokwadi kuti kune akawanda emusika webhusaiti iwe paunogona kutenga zvinhu zvakadaro, aya masosi anowanzoonekwa pane clearnet zvakare. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whousetor.jpg) |
-| Tor yakagadzirwa neUS Army, asi Tor yazvino yakagadziriswa neTor chirongwa. Kune vanhu vazhinji nemasangano vanoshandisa Tor kusanganisira shamwari dzako dzamangwana. Saka, kana iwe uri kushandisa Cloudflare pane yako webhusaiti uri kuvhara vanhu chaivo. Iwe ucharasikirwa hunogona kuve ushamwari uye bhizinesi dhizaini. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
-| Uye yavo DNS sevhisi, 1.1.1.1, zvakare iri kusefa kunze kwevashandisi kushanyira iyo webhusaiti nekudzora fake IP kero iri Cloudflare, yemunharaunda IP yakadai se "127.0.0.x", kana kungodzosa chinhu. | ![] [/media/branch/master/image/cferr1016sp.jpg) |
-| Cloudflare DNS zvakare inoputsa software yepamhepo kubva kuApple app kuenda kumutambo wekombuta nekuda kwemhinduro yavo yemanyepo yeDNS. Cloudflare DNS haigoni kubvunza mamwe mabhangi ewebhu. | ![] [/media/branch/master/image/dnsfailtest.jpg) |
-| Uye pano iwe unogona kufunga, <br> "Ini handisi kushandisa Tor kana VPN, nei ndichifanira kutarisira?" <br> "Ndinovimba Cloudflare kushambadzira, nei ndichifanira kuva nehanya" <br> "Webhusaiti yangu inonzi https nei ndichifanira kuva nehanya "| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
-| Kana iwe ukashanyira webhusaiti inoshandisa Cloudflare, uri kugovera ruzivo rwako kwete chete kune muridzi webhusaiti asiwo Cloudflare. Aya ndiwo mashandisiro anoita proxy mushandisi. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
-| Hazvibviri kuongorora pasina decrypting TLS traffic. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
-| Cloudflare inoziva yako data rese senge password password. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg) |
-| Cloudbeed inogona kuitika chero nguva. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg) |
-| Cloudflare's https haina kumbobvira yapera. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
-| Iwe unonyatsoda kugovera yako data ne Cloudflare, uye zvakare 3-tsamba agency? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
-| Internet mushandisi wepamhepo nhoroondo ndeye "chigadzirwa" icho hurumende uye makambani makuru e tech anoda kutenga. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
-| Dhipatimendi reU.S. reHomeland Security rakati: <br> "Iwe unoziva here kuti data rauinaro rakakosha sei? Pane imwe nzira yaungatitengesere data iyoyo?" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
-| Cloudflare zvakare inopa MAHARA VPN sevhisi inonzi "Cloudflare Warp". Kana iwe uchishandisa iyo, yako yese smartphone (kana komputa yako) inobatanidza inotumirwa ku Cloudflare maseva. Cloudflare inogona kuziva kuti ndeipi webhusaiti iwe iwe wakaverenga, ndeupi maoni yawakanyora, waunotaura naye, nezvimwewo Uri kupa nemoyo wese ruzivo rwako kuCloudflare. Kana iwe uchifunga "Uri kutamba? Cloudflare yakachengeteka." ipapo iwe unofanirwa kudzidza kuti VPN inoshanda sei. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howvpnwork.jpg) |
-| Cloudflare yakati yavo VPN sevhisi ita internet yako nekukurumidza. Asi VPN ita kuti internet yako ibatane zvishoma zvishoma pane yako iripo kubatana. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/notfastervpn.jpg) |
-| Iwe unogona kunge uchitoziva nezve PRISM yekunyomba. Ichokwadi kuti AT & T inobvumira NSA kutevedzera data rese internet rekutarisa. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
-| Ngatitii urikushandira kuNSA, uye iwe unoda mupi wega wega webhu saizi. Iwe unoziva vazhinji vavo vanovimba nekukurumidza Cloudflare uye vachiishandisa - imwechete yakavharirwa gedhi - kubvumidza yavo kambani server server (SSH/RDP), webhusaiti webhusaiti, webhusaiti webhusaiti, webhusaiti webhusaiti, webhusaiti webhusaiti, webhusaiti webhusaiti, injini yekutsvaga, nhengo yakavanzika. -only webhusaiti, webhusaiti webhusaiti, kutenga, vhidhiyo webhusaiti, NSFW webhusaiti, uye webhusaiti zvisiri pamutemo. Iwe zvakare unoziva vanoshandisa Cloudflare's DNS service ("1.1.1.1") uye basa reVPN ("Cloudflare Warp") ye "Yakachengeteka! Yakakurumidza!" internet ruzivo. Kuvasanganisa ivo neye IP kero yevashandisi, browser zvigunwe, makuki uye RAY-ID zvichabatsira kuvaka vavariro yeinternet. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
-| Iwe unoda yavo data. Uchaiteiko? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  🖹  |  🖼 |
+| --- | --- |
+|  “The Cloud Cloud” waa Cloudflare Inc., shirkadda Mareykanka.Waxay bixineysaa adeegyo CDN (shabakad gaarsiinta sheyga), yareynta DDoS, amniga internetka, iyo adeegyada loo qeybiyay (magaca magaca domain).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
+|  Cloudflare waa wakiilka MITM ee aduunka ugu weyn (proxy proxy).Cloudflare waxay leedahay in ka badan 80% saamiyada suuqa CDN iyo tirada dadka isticmaala daruuraha ayaa maalinba maalinta ka dambeysa sii kordhaya.Waxay ku ballaarisay shabakadooda in ka badan 100 dal.Cloudflare wuxuu u adeegaa taraafikada websaydhada ka badan Twitter, Amazon, Apple, Instagram, Bing & Wikipedia oo la isku daray.Cloudflare waxay soo bandhigaysaa qorshe lacag la’aan ah dad badan ayaana u adeegsanaya halkii ay si sax ah u habeyn lahaayeen howlahooda.Waxay ka ganacsan jireen sirta si ku habboon.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg)  |
+|  Cloudflare wuxuu dhex fadhiyaa adiga iyo asalka webserver, wuxuu u dhaqmaa sidii wakiilka kormeerka xuduudaha.Ma awoodid inaad ku xirto halka aad dooratay.Waxaad ku xireysaa Cloudflare macluumaadkaaga oo dhanna waa la duubey oo lagu wareejiyay duullimaadka. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/border_patrol.jpg)  |
+|  Maamulka asalka u ah 'webserver' wuxuu u oggolaaday wakiilka - Cloudflare - inuu go'aamiyo cidda marin u heli karta "hantidooda internetka" iyo inuu qeexo "aag xadidan".  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/usershoulddecide.jpg)  |
+|  Hoos ka daawo muuqaalka saxda ah.Waxaad u maleyn doontaa Cloudflare inay xayirto kaliya ragga xun.Waxaad u maleyn doontaa in Cloudflare had iyo jeer ay tahay khadka tooska ah (waligaa hoos uma dhicin).Waxaad u maleyn doontaa in botsiyada sharciga ah iyo kuwa gurguurta ay tilmaami karaan bartaada internetka.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howcfwork.jpg)  |
+|  Si kastaba ha noqotee kuwaas run ma aha run ahaantii.Cloudflare wuxuu xayirayaa dadka aan waxba galabsan sabab la'aan.Cloudflare hoos ayuu u dhici karaa.Cloudflare wuxuu xannibayaa bots sharci ah.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdowncfcom.jpg)  |
+|  Sida adeeg kasta oo martigelinta, Cloudflare ma ahan mid kaamil ah.Waad arki doontaa shaashaddaan xitaa haddii asalkiisa asalkiisu si wanaagsan u shaqeynayo.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdown2019.jpg) |
+|  Miyaad runtii u maleyneysaa in Cloudflare uu leeyahay 100% wakhti go'an?Wax fikrad ah kama lihin inta jeer ee Cloudflare hoos ugu dhaco.Haddii Cloudflare hoos u dhaco macaamiishaada ma geli karto boggaaga. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg) |
+|  Waxaa loogu yeeraa tan iyada oo loo tixraacayo Dab-demiska Weyn ee Shiinaha kaas oo qabanaya shaqo la mid ah oo shaandhaynta aadanaha badan si ay u arkaan waxa ku jira websaydhka.In kasta oo isla waqtigaasna kuwa aan saamaynta ku lahayn ay u arkaan websaydh ahaan si ka duwan sidii hore, haddana bog ka xor ah faafreebid sida muuqaalka “man tank” iyo taariikhda “Mudaaharaadka Tiananmen Square”. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflarechina.jpg)  |
+|  Cloudflare waxay leedahay awood weyn.Dareen ahaan, waxay xukumaan waxa dhamaadka isticmaalaha ugu dambeyntii arko.Waxaa lagaa mamnuucay inaad baarto shabakada sababta oo ah Cloudflare. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/onemorestep.jpg) |
+|  Cloudflare waxaa loo isticmaali karaa faafreeb. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/accdenied.jpg) |
+|  Ma arki kartid websaydhka Cloudflared haddii aad isticmaaleyso biraawsar sahlan oo Cloudflare laga yaabo inuu u arko inay tahay bot (maxaa yeelay dad badani ma isticmaalaan). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfublock.jpg) |
+|  Kama gudbi kartid baarista "biraawsarka biraawsarka ah" ayada oo aadan awood u siin Javascript.Tani waa lumis shan (ama in kabadan) sekan oo noloshaada qiimo leh ah. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsjsck.jpg) |
+|  Cloudflare sidoo kale waxay si otomaatig ah u xayirtaa robots / curwler sharci ah sida Google, Yandex, Yacy, iyo macaamiisha API.Cloudflare waxay si firfircoon isha ugu haysaa bulshada "iska dhaaf Cloudflare" iyadoo ulajeeddadu tahay inay jabiso boomaatada cilmi baarista sharciga ah. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/htmlalertcloudflare2.jpg) |
+|  Cloudflare si la mid ah waxay ka hortagtaa dad badan oo leh isku xirnaan xumo internet inay liidato bogagga ka dambeeya (tusaale ahaan, waxay ka dambayn karaan 7+ lakab oo NAT ah ama la wadaagi karaan IP isku mid ah, tusaale ahaan Wifi dadweyne) haddii aysan xallin masawiro badan CAPTCHAs.Xaaladaha qaarkood, tani waxay qaadan doontaa 10 illaa 30 daqiiqadood in lagu qanco Google. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/googlerecaptcha.jpg) |
+|  Sannadkii 2020 Cloudflare ayaa ka beddelay Google Recaptcha una beddelay hCaptcha maaddaama Google ay damacsan tahay inay ku dallacdo isticmaalkeeda.Cloudflare wuxuu kuu sheegay inay daryeelaan sirtaada ("waxay ka caawineysaa wax ka qabashada qarsoodiga") laakiin tani waa iska cad.Waa lacag oo dhan."HCaptcha waxay u oggolaaneysaa websaydhada inay sameeyaan lacag loogu adeego baahiyahan iyagoo xayraya botska iyo qaabab kale oo xadgudub ah" | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fedup_fucking_hcaptcha.jpg) |
+|  Marka loo eego aragtida isticmaaleha, tan wax badan kama beddeleyso. Waxaa lagugu qasbay inaad xalliso. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/hcaptcha_abrv.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/hcaptcha_chrome.jpg) |
+|  Dad badan iyo barnaamijyo ayaa maalin walba xannibaya Cloudflare. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsnote.jpg) |
+|  Cloudflare waxay ka careysiisaa dad badan oo adduunka ah.Fiiri liistada oo ka fikir in ku qabashada Cloudflare boggaaga ay u fiican tahay khibradda adeegsadaha. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsstream.jpg) |
+|  Waa maxay ujeeddada internetka haddii aadan sameyn karin waxaad rabto?Dadka badankood ee soo booqda websaydhkaaga waxay raadin doonaan boggag kale haddii aysan rari karin deg deg.Waxaa laga yaabaa inaadan si firfircoon u xanibin booqdayaasha kasta, laakiin galka tooska ah ee Cloudflare ayaa adag oo ku filan in dadka badan laga joojiyo. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsdroid.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsappl.jpg) |
+|  Ma jirto hab lagu xalliyo captcha-ga iyadoo aan loo oggolaanin Javascript iyo Kukiyada.Cloudflare ayaa u adeegsaneysa iyaga inay sameyaan saxeex biraawsar si ay kuu aqoonsadaan.Cloudflare wuxuu u baahan yahay inuu garto aqoonsigaaga si uu u go'aamiyo inaad u qalanto inaad sii waddo bogga. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1010bsig.jpg) |
+|  Isticmaalayaasha Tor iyo isticmaaleyaasha VPN sidoo kale waa dhibbane Cloudflare.Labada xalka waxaa adeegsanaya dad badan oo aan awoodin inay iska bixiyaan intarneetka aan lala socodsiin sababtuna tahay waddankooda / shirkadahooda / nidaamka shabakadooda ama raba inuu ku daro lakab dheeri ah si loo ilaaliyo asturnaantooda.Cloudflare ayaa si xamaasad leh u weerareysa dadkaas, kuna qasbeysa inay joojiso xalka wakiilkooda. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn2.jpg) |
+|  Haddii aadan isku dayin Tor ilaa waqtigan, waxaan kugu dhiirigelinaynaa inaad soo dejiso Tor Browser oo aad booqato websaydhyada aad ugu jeceshahay.Waxaan kugula talineynaa inaadan galin websaydhka bangigaaga ama websaydhka dowladda ama ay calankaaga xiri doonaan. U adeegso VPN websaydhadaas. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn.jpg) |
+|  Waxaa laga yaabaa inaad tiraahdid “Tor waa sharci darro! Isticmaalayaasha Tor waa dambiilayaal! Tor waa xun yahay! ”. Maya.Waad ka baran kartaa Tor telefishanka, isagoo leh Tor waxaa loo istcimaali karaa qodista madow iyo ka ganacsiga qoryaha, daroogada ama porn pid.In kasta oo bayaanka kor ku xusan uu run yahay in ay jiraan degel internet oo badan oo aad ka iibsan karto waxyaabaha noocaas ah, goobahan ayaa badanaa ka muuqan kara barta internetka.  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whousetor.jpg) |
+|  Tor waxaa horumariyay ciidamada Mareykanka, laakiin hadda Tor waxaa soo saaray mashruuca Tor.Waxaa jira dad badan iyo ururo u adeegsanaayo Tor oo ay ku jiraan asxaabtaada mustaqbalka.Marka, haddii aad isticmaaleysid Cloudflare boggaaga waxaad xannibeysaa aadanaha dhabta ah.Waxaad waayi doontaa saaxibtinimada iyo heshiis ganacsi. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
+|  Adeeggooda DNS, 1.1.1.1, ayaa sidoo kale shaandhaynaya isticmaalayaasha inay soo booqdaan websaydhka iyagoo soo celinaya cinwaanka IP been-abuurka ah ee ay leedahay Cloudflare, IP-ka localhost sida "127.0.0.x", ama waxba ha soo celin. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg) |
+|  Cloudflare DNS sidoo kale waxay jabisaa softiweerka internetka ee barnaamijka casriga ah illaa ciyaarta kombiyuutarka sababtoo ah jawaabtooda been-abuurka ah ee DNS.Cloudflare DNS ma weydiin karaan websaydhyada bangiyada qaarkood. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
+|  Oo halkan waxaad ka fikiri kartaa,<br>Ma ihi inaan isticmaalo Tor ama VPN, maxaan u daryeelayaa?<br>Waxaan aaminsanahay suuq-geynta Cloudflare, maxaan u daryeelaa<br>Websaydhkaygu waa https sababta aan u daryeelayo | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
+|  Haddii aad booqato degel adeegsanaya Cloudflare, waxaad u wadaageysaa macluumaadkaaga keliya milkiilaha websaydhka laakiin sidoo kale Cloudflare.Sidan ayaa loo sameeyaa wakiilada gadaal u shaqeysa. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
+|  Suurtagal ma aha in la falanqeeyo iyada oo aan la kala go’in taraafikada TLS. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
+|  Cloudflare way ogtahay xogtaada oo dhan sida password cayriin. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg) |
+|  Cloudbeed way dhici kartaa wakhti kasta. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg) |
+|  Cloudflare's https weligeed ma ahan dhamaadka-dhamaadka-dhamaadka. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
+|  Xaqiiqdii ma rabtaa inaad xogtaada la wadaagto Cloudflare, iyo sidoo kale hay'ad 3-warqad ah? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
+|  Muuqaalka barta internetka ee isticmaaleha internetka waa "wax soo saar" ay dowladda iyo shirkadaha waaweyn ee teknolojiyada doonayaan inay iibsadaan. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
+|  Wasaaradda Amniga Gudaha ee Mareykanka ayaa tiri:<br><br>Ma haysaa wax fikrad ah oo ah sida ay xogtaadu u qiimo leedahay? Ma jiraa waddo aad nooga iibiso xogtaas?  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
+|  Cloudflare waxay kaloo bixisaa adeeg VPN bilaash ah oo loo yaqaan "Cloudflare Warp".Hadaad isticmaasho, dhamaan xiriiradaada casrigaaga ah (ama kumbuyuutarkaaga) waxaa loo diraa adeegaha Cloudflare.Cloudflare wuu garan karaa websaydhka aad akhriday, faallooyinka aad dhejisay, cidda aad la hadashay, iwm.Si tabaruc ah ayaad u siineysaa macluumaadkaaga oo dhan Cloudflare.Haddii aad u malaynayso “Ma kaftamaysaa? Cloudflare waa amaan. markaa waxaad u baahan tahay inaad baratid sida VPN u shaqeyso. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howvpnwork.jpg) |
+|  Cloudflare wuxuu sheegay in adeeggooda VPN ay internet-ka ka dhigayaan mid dhaqso badan.Laakiin VPN waxay ka dhigtaa iskuxirkaaga internetka mid ka gaabiyey xiriirka aad hadda ku leedihiin. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/notfastervpn.jpg) |
+|  Waxaa laga yaabaa inaad hore u ogtahay fadeexada PRISM.Waa run in AT&T ay NSA u oggolaanayso inay nuqul ka sameysato dhammaan macluumaadka internet-ka ee la socoshada. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
+|  Aynu sheegnaa inaad ka shaqeyneyso NSA, oo aad rabto qof walba oo muwaadin internet ah.Waad ogtahay in badankood ay si indho la’aan ah u aaminaan Cloudflare oo ay adeegsadaan - hal albaab oo xarun dhexe ah - si ay wakiil uga dhigaan xiriirkooda shirkad (SSH / RDP), websaydhka shaqsiyadeed, websaydhka sheekaysiga, websaydhka bangiga, bogga caymiska, mashiinka raadinta, xubin qarsoodi ah - kaliya shabakad, bogga xaraashka, dukaamaysiga, degelka fiidiyowga, websaydhka NSFW, iyo degel sharci darro ah.Waxaad sidoo kale ogtahay inay u isticmaalaan adeegga 'Cloudflare's DNS service' ("1.1.1.1") iyo adeegga VPN ("Cloudflare Warp") ee loogu talagalay "Ammaan ah! Degdeg! Kafiican! waayo-aragnimada internetka.Iyaga oo lagu darayo cinwaanka 'IP' ee cinwaanka, sawirka faraha, sawirada cookie-ka iyo RAY-ID ayaa faa iido u yeelan doona in lagu dhiso barta internetka bartilmaameedka. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
+|  Waxaad dooneysaa xogtooda. Maxaad sameyn doontaa | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
 
 
 
-## # Cloudflare huchi huchi.
+### Cloudflare waa malab malab.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
 
-### Mahara uchi kune wese munhu. _Some_ tambo dzakabatanidzwa.
+### Malab bilaash ah qof walba. Xargaha qaar baa ku lifaaqan.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
 
-# # 1 # Usashandise Cloudflare.
+### Ha isticmaalin Cloudflare.
 
-![] [
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
 
-# # 1 # Regedza internet.
+### Ka faa iideyso internetka.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
 
-# # Ndokumbira kuti uenderere mberi kune inozotevera peji: "[Cloudflare Ethics](VERENGAE_ethics.md)"
+##    Fadlan ku sii wad bogga xiga:  "[Anshaxa Cloudflare](so.ethics.md)"
 
 ---
 
 <details>
-<summary> _click me_
+<summary>_isoo riix_
 
-# # Dhata & Ruzivo rwakawanda
+## Xogta iyo Macluumaad Dheeraad ah
 </summary>
 
 
-Iyi repository runyorwa rwemawebhusaiti ari kumashure "_The Great Cloudwall_", ichivharira vashandisi veTor nemamwe maCDN.
+Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xannibaya isticmaalayaasha Tor iyo CDN-yada kale.
 
 
-** Data **
+**Xog**
 * [Cloudflare Inc.](../cloudflare_inc/)
-* [Cloudflare Vashandisi](../cloudflare_users/)
-* [Cloudflare Domain](../cloudflare_users/dunhu/)
-* [Vasina-Cloudflare CDN vashandisi](kwete_cloudflare/)
-* [Vashandisi veAnti-Tor](../anti-tor_users/)
+* [Isticmaalayaasha Cloudflare](../cloudflare_users/)
+* [Domains Cloudflare](../cloudflare_users/domains/)
+* [Isticmaalayaasha non-Cloudflare CDN](../not_cloudflare/)
+* [Isticmaalayaasha anti-Tor](../anti-tor_users/)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
 
 
-** Mamwe Ruzivo **
-* [Myth Catalog](../myth_catalog.md)
-* [Great Cloudwall](chinyorwa.txt) na [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
-  * Dhawunirodha se: PDF [apa](../pdf/2019-Iyo _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _Lun_Louwall.epub)
-  * Iyo yekutanga eBook (ePUB) yakabviswa neBhukuRix GmbH nekuda kwekukanganisa kwemutemo weCC0 zvinhu
-* *
-* [Vharira Global Active Hondo Cloudflare](https://trac.torproject.org/projects/tor/tiketi/54351) na nym-zone
-  * Tiketi rakaparadzwa nguva zhinji.
-  * Yakabviswa ne [Tor Project](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). Ona [tikiti 34175](https://trac.torproject.org/projects/tor/tiketi/34175).
-  * Yekupedzisira [dura renhoroondo 24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/tiketi/24351)
-* [Dambudziko Cloudflare](https://github.com/privacytools.io/issues/374 #issuecomment-460077544) by libBletchley
-  * Vakange vashandisa Cloudflare munguva yakapfuura. Yakawedzera CF-tor asi [akaibvisa](https://github.com/privacytools/privacytools.io/pull/1804).
+**Macluumaad Dheeraad ah**
+* [Myth Catalog](../subfiles/myth_catalog.md)
+* [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
+  * Soo dejiso: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
+  * Ebook-ga asalka ahaa (ePUB) waxaa tirtiray BookRix GmbH sababtuna tahay ku xadgudubka xuquuqda daabacaada ee waxyaabaha loo yaqaan CC0
+* [Padlock icon indicates a secure SSL connection established w MITM-ed](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=831835), Anonymous
+* [Block Global Active Adversary Cloudflare](https://trac.torproject.org/projects/tor/ticket/24351), nym-zone
+  * Tigidhada ayaa marar badan la jebiyey.
+  * [Tirtirey Mashruuca Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Eeg tigidhada 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
+  * [Tigidhada ugu dambeysa ee diiwaan gelinta 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
+* [Problem with Cloudflare](https://github.com/privacytoolsIO/privacytools.io/issues/374#issuecomment-460077544), libBletchley
+  * Horey ayey u isticmaali jireen Cloudflare.CF-tor waa laga saaray.
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
-* [Kutsoropodzwa uye kupokana](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_contakavaes) neWikipedia
-* [Rimwe zuva rakajeka muhondo yekudzora, kuisa pakati uye kuongororesa internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/) naTheGoldenGoose8888
-* [Zvinokanganisika zvekuvimba nebasa rimwe chete](https://twitter.com/w3Nicolas/status/1134529316904153089) ([ITI CF](https://www.digwebinterface.com/?hostnames=ns1.digitalo Ocean.com % 0D% 0Ans2.digitalo Ocean.com% 0D% 0Ans3.digitalo Ocean.com% 0D% 0Awww.digitalo Ocean.com & Type = A & ns = resolutionver & useresolver = 8.8.4.4 & nameservers =)
+* [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
+* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
+* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/watcloudflare.jpg)
 
@@ -124,58 +125,58 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure "_The Great Cloudwall_", i
 ---
 
 <details>
-<summary> _click me_
+<summary>_isoo riix_
 
-## Ungaitei?
+## Maxaad qaban kartaa?
 </summary>
 
-* [Verenga runyorwa rwedu rwezviito zvakakurudzirwa uye urigovane neshamwari dzako](chii-to-do.md)
+* [Aqri liiskayaga talaabada lagu taliyay lana wadaag asxaabtaada.](../ACTION.md)
 
-* [Verenga izwi remumwe mushandisi uye nyora zvaunofunga](VANHU.md)
+* [Akhri codka isticmaale kale oo qor fikradahaaga.](../PEOPLE.md)
 
-* Tsvaga chimwe chinhu pa [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)) kana [Crimeflare \ #Seva](https://crimeflare. anorferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/)).
+* Raadi wax: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
 
-* [Gadzirisa iyo kero yekutonga: Rondedzero mirayiridzo](mirayiridzo.md).
+* Cusboonaysii liiska magacyada: [Liiska tilmaamaha](../INSTRUCTION.md).
 
-* [Wedzera Cloudflare kana purojekiti inoenderana nechiitiko kune nhoroondo](../HISTORY.md).
+* [Kudar Cloudflare ama dhacdo laxiriirta mashruuc taariikhda.](../HISTORY.md)
 
-* Edza & nyora nyowani [../tool/script](chishandiso/).
+* [Isku day oo qor Qalabka / Qoraalka cusub.](../tool/)
 
-* Heano mamwe [PDF/ePUB](../pdf/) kuverenga.
-
-
----
-
-# # 1 # About zvemanyepo maakaunzi
-
-VeCrifflare ziva nezve kuvapo kwenhoroondo dzemanyepo dzinotevedzera zviteshi zvedu zviri pamutemo, zvingave zviri Twitter, Facebook, Patreon, OpenCollective, Mishages etc.
-** Hatife takabvunza email yako.
-Hatimbofi takabvunza zita rako.
-Hatimbofi takabvunza zita rako.
-Hatife takabvunza kwaunogara.
-Hatimbokumbira mupiro wako.
-Hatimbokumbira wongororo yako.
-Hatimbokukumbira iwe kuti uteedzere pama media enhau.
-Hatimbofi takabvunza yako social media. **
-
-# ASI KUTENDA FUMA ZVAKANAKA.
+* [Waa tan qaar PDF / ePUB ah si aad wax u aqriso.](../pdf/)
 
 
 ---
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg)
+### Ku saabsan akoonnada been abuurka ah
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg)
-![] [
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fixthedamn.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imnotarobot.jpg)
+Crimeflare waxay ogaataa jiritaanka akoonno been abuur ah oo muujinaya kanaalka tooska ah, ha ahaato Twitter, Facebook, Patreon, OpenCollective, Village iwm.
+**Marna kuma weydiinayno emaylkaaga.
+Marna kuma weydiin magacaaga.
+Marna kuma weydiinay aqoonsigaaga.
+Marna kuma weydiinayno goobtaada.
+Marna kuma weydiisanayno deeqdaada.
+Marna kuma weydiinayno dib u eegistaada.
+Marna kuma weydiisanayno inaad ku raacdid warbaahinta bulshada.
+Marna kuma weydiinay warbaahintaada bulshada.**
+
+# HA KU SAMEEYIN FARSAMADA FUUQADA.
+
+
+
+---
+
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl2.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg) |
+| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fixthedamn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imnotarobot.jpg) |
 
 </details>
 
 ---
 
 
-![] [
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_lb.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_dz.jpg)
 
@@ -183,10 +184,10 @@ Hatimbofi takabvunza yako social media. **
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_ial.jpg)
 
-![] [
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_eptg.jpg)
 
-![] [
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
-![] [
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)

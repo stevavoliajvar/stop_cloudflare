@@ -1,35 +1,35 @@
 # Bayanan Al'adu
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg))
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Kada ku goyi bayan wannan kamfani wanda ba shi da da'a"
+"Kada ku goyi bayan wannan kamfani wanda ba shi da da'a"
 
-"_Kamfanin ku ba mai gaskiya bane. Kuna da'awar tilasta DMCA amma kuna da shari'oi da yawa saboda rashin yin hakan._"
+"Kamfaninku ba mai gaskiya bane. Kuna da'awar aiwatar da DMCA amma kuna da ƙarin shari'o'i don rashin yin hakan."
 
-"_Twai kawai suna tafe suna tambaya ga wadanda suke tambayoyinsu._"
+"Suna kawai yin watsi da waɗanda suke tambayar ɗabi'unsu."
 
-"_Ina ganin gaskiya ba ta da matsala kuma tana da kyau a ɓoye daga ganin jama'a." "- phyzonloop](https://twitter.com/phyzonloop)
+"Ina tsammani gaskiya ba ta da matsala kuma mafi kyawu a ɓoye ta gaban jama'a."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
-<tetails>
-<takaitaccen bayani _ _click me_
+<details>
+<summary>danna ni
 
-## CloudFlare yaudarar mutane
-Bayanin bayani>
+## CloudFlare yana zambatar mutane
+</summary>
 
 
 Cloudflare yana aika imel na spam zuwa ga masu amfani da Cloudflare.
 
-- A aika imel kawai zuwa masu biyan kuɗi waɗanda suka shiga
+- A aika da imel kawai ga masu biyan kuɗi waɗanda suka zaɓi shiga
 - Lokacin da mai amfani ya ce "dakatar", to, dakatar da aika imel
 
 Abu ne mai sauki. Amma Cloudflare bai damu ba.
-Cloudflare ya ce amfani da sabis na su [zai iya dakatar da duk masu yin zagon kasa ko maharan](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-ystoflare-stop-all-spammers-or-attackers- ).
-Ta yaya za mu dakatar da _Cloudflare spammers_ ba tare da kunna Cloudflare ba?
+Cloudflare ya ce amfani da sabis nasu na iya dakatar da duk masu safarar bakin wake ko masu kai hari.
+Ta yaya za mu dakatar da Cloudflare ba tare da kunna Cloudflare ba?
 
 
 | 🖼 | 🖼 |
@@ -41,14 +41,16 @@ Ta yaya za mu dakatar da _Cloudflare spammers_ ba tare da kunna Cloudflare ba?
 
 ---
 
-<tetails>
-<takaitaccen bayani _ _click me_
+<details>
+<summary>danna ni
 
-## Cire bita na mai amfani
-Bayanin bayani>
+## Cire bita da mai amfani
+</summary>
 
 
-Censor Cloudflare [sake dubawa mara kyau](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Idan kayi posting na _anti-Cloudflare_ rubutu akan Twitter, kana da damar samun [amsa](https://twitter.com/CloudflareHelp/status/1126051764917145601) daga [Cloudflare_inc/Cloudflare_members.txt) tare da "_[A'a, ba haka ba ne) (MUTANE.md) _ "saƙo. Idan kayi posting mara kyau akan kowane shafi na bita, zasuyi kokarin [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672) ).
+Cloudflare saiti sake dubawa mara kyau.
+Idan kun buga rubutun anti-Cloudflare a kan Twitter, kuna da damar samun martani daga ma'aikacin Cloudflare tare da "A'a, ba haka bane".
+Idan kayi post mara kyau a kowane shafi na bita, zasuyi kokarin toshe shi.
 
 
 | 🖼 | 🖼 |
@@ -59,16 +61,17 @@ Censor Cloudflare [sake dubawa mara kyau](https://web.archive.org/web/2019111600
 
 ---
 
-<tetails>
-<takaitaccen bayani _ _click me_
+<details>
+<summary>danna ni
 
-## Doxxing masu amfani
-Bayanin bayani>
+## Raba bayanan sirri masu amfani
+</summary>
 
 
-Cloudflare yana da babban [matsalar tashin hankali](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -fake-suna-2017-5).
-Cloudflare [yana raba bayanan mutum](https://archive.ph/ePdvi) na wadanda [wa](https://twitter.com/ZJemptv/status/898299709634248704) [korafi](https://twitter.com/TinyPirate/status/554718958176067584) [game da](https://twitter.com/remembrancermx/status/1010329041235148802) [aka shirya](https://twitter.com/Bridaguy/status/915003769280172037) [shafukan](https://twitter .com/HelloAndrew/status/897260208845500416). Wani lokacin su kan nemi ka bayar
-ID na gaskiya. Idan ba kwa son fitina, [kai hari](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ko [an kashe](https://twitter.com/RusEmbUSA/status/1187363092793040901), zai fi kyau nesa da gidajen yanar gizon Cloudflared.
+Cloudflare yana da babbar matsalar tursasawa.
+Cloudflare yana musayar bayanan sirri na wadanda ke korafi game da rukunin yanar gizo.
+Wani lokaci suna tambayarka cewa ka samar da ainihin ID ɗinka.
+Idan baku so a matsa muku lamba, kai hari, kashe shi ko kashe shi ba, zai fi kyau nesa da gidajen yanar gizon Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -81,14 +84,16 @@ ID na gaskiya. Idan ba kwa son fitina, [kai hari](https://twitter.com/NiteShade9
 
 ---
 
-<tetails>
-<takaitaccen bayani _ _click me_
+<details>
+<summary>danna ni
 
-## Binciken kwastomomi na abubuwan taimako
-Bayanin bayani>
+## Gudanar da ayyukan haɗin gwiwar abubuwan taimako
+</summary>
 
 
-CloudFlare shine [tambayar](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) don gudummawa ta sadaka. Abin ba in ciki ba ne cewa kamfani na Amurka zai nemi agaji tare da ƙungiyoyi masu ba da riba waɗanda ke da dalilai masu kyau. Idan kuna son [tarewa mutane ko ɓata lokacin wasu mutane) (MUTANE.md), kuna iya yin odar wasu pizzas🍕 na ma'aikatan Cloudflare.
+CloudFlare na neman gudummawa ne na taimako.
+Abin ba in ciki da damuwa ne cewa kamfani na Amurka zai nemi gudummawa tare da ƙungiyoyi masu ba da riba waɗanda ke da dalilai masu kyau.
+Idan kuna son toshe mutane ko ɓata lokacin wasu mutane, zaku so yin odar wasu pizzas ga ma'aikatan Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -97,14 +102,16 @@ CloudFlare shine [tambayar](https://web.archive.org/web/20191112033605/https://o
 
 ---
 
-<tetails>
-<takaitaccen bayani _ _click me_
+<details>
+<summary>danna ni
 
-## Shafin yanar gizo
-Bayanin bayani>
+## Sitesarshe wuraren
+</summary>
 
 
-Me za ku yi idan rukunin yanar gizonku ya sauka _suddenly_? Akwai rahotanni da ke nuna cewa Cloudflare yana [sharewa](https://twitter.com/stefan_eady/status/1126033791267426304) [mai amfani](https://twitter.com/derivativeburke/status/903755267053117440) [sanyi](https://twitter.com/lordscarlet/status/1046785164792205314) ko [dakatar da sabis ba tare da wani gargadi ba](https://twitter.com/svolentin/status/1227324408475344896), [shiru](https://twitter.com/BlnaryMlke/status/1194339461984854018). Muna ba da shawarar ku samo [mafi kyawun mai bayarwa](me-to-do.md).
+Me za ku yi idan rukunin gidanku ba zato ba tsammani?
+Akwai rahoto cewa Cloudflare yana share tsarin mai amfani ko sabis na dakatarwa ba tare da wani gargadi ba, a hankali.
+Muna ba da shawarar ku sami mafi kyawun mai bayarwa.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -112,46 +119,47 @@ Me za ku yi idan rukunin yanar gizonku ya sauka _suddenly_? Akwai rahotanni da k
 
 ---
 
-<tetails>
-<takaitaccen bayani _ _click me_
+<details>
+<summary>danna ni
 
-## Browser dillali mai siyarwa
-Bayanin bayani>
+## Nuna bambancin mai siyar da mai bincike
+</summary>
 
 
-CloudFlare yana ba da fifiko ga waɗanda suke amfani da Firefox yayin ba da kulawa da ƙiyayya ga masu amfani da rashin Tor-Browser akan Tor.
+CloudFlare yana ba da fifiko ga waɗanda suke amfani da Firefox yayin ba da kulawa da abokan gaba ga masu amfani da Tor-Browser akan Tor.
 Masu amfani da Tor wadanda suka ki yarda su aiwatar da javascript ba tare da izini ba suma suna karban rashin lafiya.
 Wannan rashin daidaituwa na amfani da rashin daidaituwa na hanyar sadarwa da cin zarafin iko.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Hagu: `Tor Browser`, Dama:` Chrome`. Adireshin IP iri ɗaya.
+- Hagu: Tor Browser, Dama: Chrome. Adireshin IP iri ɗaya.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Hagu: `[Bro Broerer] Javascript mai rauni, Kukarwa ya yi aiki '
-- Dama: `[Chrome] An kunna Javascript, Kukis ya yi aiki '
+- Hagu: An cire Tor Browser Javascript, An kunna Kukis
+- Dama: An kunna Javascript Java, An kunna Kukis
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (karamin mai bincike) ba tare da Tor ba (Clearnet IP)
 
-| *** Mai bincike *** | *** Shiga magani *** |
+| ***Mai bincike*** | ***Samun magani*** |
 | --- | --- |
-| Tor Browser (Javascript ya kunna) | damar izini |
-| Firefox (Javascript ya kunna) | damar zuwa lalata |
-| Chromium (Javascript an kunna) | damar shiga lalata (yana tura Google reCAPTCHA) |
-| Chromium ko Firefox (Javascript naƙasasshe) | hana hana shiga (turawa * ya karye * Google reCAPTCHA) |
-| Chromium ko Firefox (Kukis ya kashe) | hana hana shiga |
-| QuteBrowser | hana hana shiga |
-| lynx | hana hana shiga |
-| w3m | hana hana shiga |
-| wget | hana hana shiga |
+| Tor Browser (Javascript an kunna) | damar izini |
+| Firefox (Javascript an kunna) | damar lalata |
+| Chromium (Javascript an kunna) | damar lalata |
+| Chromium or Firefox (Javascript ba ya aiki) | An hana shiga |
+| Chromium or Firefox (Kuki yana da rauni) | An hana shiga |
+| QuteBrowser | An hana shiga |
+| lynx | An hana shiga |
+| w3m | An hana shiga |
+| wget | An hana shiga |
 
 
-"_Me yasa basa amfani da maɓallin Audio don warware ƙalubalen mai sauƙi? _"
+Me zai hana a yi amfani da maɓallin Audio don warware kalubale mai sauƙi?
 
-Ee, akwai maɓallin sauti, amma _always_ [ba ya yin aiki akan Tor](https://trac.torproject.org/projects/tor/ticket/23840). Zaka samu wannan sakon lokacinda ka latsa shi:
+Ee, akwai maɓallin sauti, amma koyaushe baya aiki akan Tor.
+Zaka samu wannan sakon idan ka latsa shi:
 
 ```
 Sake gwadawa daga baya
@@ -164,47 +172,53 @@ Don ƙarin cikakkun bayanai ziyarci shafin taimako
 
 ---
 
-<tetails>
-<takaitaccen bayani _ _click me_
+<details>
+<summary>danna ni
 
-## Masu jefa kuri'a
-Bayanin bayani>
+## Kusantar masu jefa kuri'a
+</summary>
 
 
 Masu jefa kuri'a a jihohin Amurka suna yin rijistar jefa kuri'a a ƙarshe ta hanyar gidan yanar gizon gidan yanar gizon jihar da suke zaune.
-Ofishin sakatare-janar na jihohi da ke karkashin ikon mallakar Republican ya shiga cikin murkushe masu jefa kuri'a ta hanyar yin amfani da shafin intanet na sakatare ta hanyar Cloudflare.
-Kiyayya da zaluncin Cloudflare na masu amfani da Tor, matsayinta na MITM a matsayin cibiyar sa ido a duniya, da kuma cutarwarta gaba daya
-yana sa masu jefa ƙuri'a masu ƙin yin rajista. Musamman masu sassaucin ra'ayi suna ɗaukar sirri. Kundin rajista na masu jefa kuri'a yana tattara bayanai masu mahimmanci game da jingina siyasa, adireshin mutum, lambar tsaro, da ranar haihuwa.
-Yawancin jihohi suna ba da tsarin wannan bayanan ne a bainar jama'a, amma Cloudflare tana ganin *** duk *** bayanan hakan ne lokacin da wani yayi rajista don zaɓen.
+Ofishin sakatare-janar na jihohi da ke karkashin ikon tafiyar da harkokin mulki suna yin murkushe masu jefa kuri'a ta hanyar yin amfani da shafin intanet na sakatare ta hanyar Cloudflare
+Rashin zalunci da Cloudflare ke yiwa masu amfani da Tor, matsayinta na MITM a matsayin wani babban matsayi na sanya ido a duniya, kuma mummunan tasirinsa gaba daya yana sa masu kada kuri'a suyi watsi da rajista.
+Musamman masu sassaucin ra'ayi suna ɗaukar sirri.
+Kundin rajista na masu jefa kuri'a yana tattara bayanai masu mahimmanci game da jingina siyasa, adireshin mutum, lambar tsaro, da ranar haihuwa.
+Yawancin jihohi suna amfani da tsarin wannan bayanan ne a bainar jama'a, amma Cloudflare yana ganin duk wannan bayanin lokacin da wani yayi rajista don jefa ƙuri'a.
 
-Ka lura cewa rajistar takarda ba ta murƙushe Cloudflare saboda sakataren ma’aikatan shigarwa na bayanan ƙungiyar za su yi amfani da
-Gidan yanar gizon Cloudflare don shigar da bayanai.
+Ka lura cewa rajistar takarda ba ta murƙushe Cloudflare saboda sakataren ma’aikatan shigarwa na bayanan ma’aikatan wataƙila za su yi amfani da gidan yanar gizon Cloudflare don shigar da bayanan.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org shahararren gidan yanar gizo ne na tara kuri'un da daukar mataki. "[mutane a ko'ina suna fara kamfen, suna tattara magoya bayansu, kuma suna aiki tare da masu yanke hukunci don fitar da mafita.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Abin baƙin ciki, mutane da yawa ba za su iya kallon canjin.org kwata-kwata saboda matattara mai ƙarfi na Cloudflare. An toshe su daga rattaba hannu kan takarda kai, don haka keɓe su daga tsarin dimokiraɗiyya. Yin amfani da wasu dandamali mara amfani kamar girgije kamar (OpenPetition](https://www.openpetition.eu/content/about_us) yana taimakawa wajen magance matsalar.
+- Change.org shahararren gidan yanar gizo ne don tara kuri'un da daukar mataki.
+“mutane ko'ina suna fara kamfen, suna tattara supportersan tallafi, kuma suna aiki tare da masu yanke shawara don tinkarar mafita.”
+Abin baƙin ciki, mutane da yawa ba za su iya kallon Change.org kwata-kwata saboda matattara mai ƙarfi na Cloudflare.
+An toshe su daga rattaba hannu kan takarda kai, don haka keɓe su daga tsarin dimokiraɗiyya.
+Yin amfani da wasu dandamali mara amfani kamar girgije mai kwakwalwa kamar OpenPetition yana taimakawa magance matsalar.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- Cloudflare's "[Athenian Project](https://www.cloudflare.com/athenian/)" suna ba da kariya ta matakin masana'antu kyauta ga yanar gizo da zaben kananan hukumomi. Sun ce "mutanen mazabar su na iya samun damar yin amfani da bayanan zaben da kuma rajistar masu kada kuri'a" amma wannan karya ce saboda mutane da yawa ba sa iya yin amfani da shafin kwata-kwata.
+- Cloudflare's "Athenian Project" yana ba da kariya ga matakin kasuwanci kyauta ga yanar gizo da zaben kananan hukumomi.
+Sun ce "mazabunsu na iya samun damar yin amfani da bayanan zaben da rajistar masu jefa kuri'a" amma wannan karya ce saboda mutane da yawa ba za su iya yin amfani da shafin ba kwata-kwata.
 
 </details>
 
 ---
 
-<tetails>
-<takaitaccen bayani _ _click me_
+<details>
+<summary>danna ni
 
 ## Yin watsi da fifikon mai amfani
-Bayanin bayani>
+</summary>
 
 
-Idan ka daina wani abu, kuna tsammanin kar ku sami imel game da hakan. Cloudflare watsi da fifikon mai amfani da raba bayanai tare da kamfanoni na ɓangare na uku [ba tare da yardar abokin ciniki ba) (https://twitter.com/thexpaw/status/1108424723233419264). Idan kana amfani da shirinsu na kyauta, wani lokacin sukan aiko maka da imel zuwa ga tambayar sayan kowane wata.
+Idan ka daina wani abu, kuna tsammanin kar ku sami imel game da hakan.
+Cloudflare watsi da fifikon mai amfani da raba bayanai tare da kamfanoni na ɓangare na uku ba tare da yardar abokin ciniki ba.
+Idan kana amfani da shirinsu na kyauta, wani lokacin sukan aiko maka da imel zuwa ga tambayar sayan kowane wata.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -212,21 +226,26 @@ Idan ka daina wani abu, kuna tsammanin kar ku sami imel game da hakan. Cloudflar
 
 ---
 
-<tetails>
-<takaitaccen bayani _ _click me_
+<details>
+<summary>danna ni
 
-## Yin karya game da share bayanan mai amfani
-Bayanin bayani>
+## Yingarya game da share bayanan mai amfani
+</summary>
 
 
-Dangane da wannan [tsohuwar gidan yanar gizon abokin ciniki](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare yana kwance game da share asusun. Yau, yawancin [kamfanoni suna kiyaye bayananku](https://justdeleteme.xyz/) bayan kun rufe ko cire asusunka. Yawancin kamfanoni masu kyau suna ambaton hakan a cikin tsarin sirrin su. Cloudflare? A'a.
+Dangane da wannan shafin abokin ciniki na tsohon kamfanin Cloudflare, Cloudflare yana kwance game da share asusun.
+Yau, kamfanoni da yawa suna kiyaye bayanan ku bayan rufewa ko cire asusunka.
+Yawancin kamfanoni masu kyau suna ambaton hakan a cikin tsarin sirrin su.
+Cloudflare? A'a.
 
 ```
-2019-08-05 CloudFlare ya aiko min da tabbacin cewa za su cire min asusun.
-2019-10-02 Na sami imel daga CloudFlare "saboda ni abokin ciniki ne"
+2019-08-05 CloudFlare ya aiko min da tabbacin cewa sun cire maajan.
+2019-10-02 Na karɓi imel daga CloudFlare "saboda ni abokin ciniki ne"
 ```
 
-Cloudflare bai san game da kalmar "cire" ba. Idan da gaske _removed_, me yasa wannan tsohon abokin ciniki ya sami imel? Ya kuma ambata cewa manufofin sirri na Cloudflare bai ambata ba.
+Cloudflare bai san game da kalmar "cire" ba.
+Idan an cire shi da gaske, me yasa wannan tsohon abokin ciniki ya sami imel?
+Ya kuma ambata cewa manufofin sirri na Cloudflare bai ambata ba.
 
 ```
 Sabuwar manufar su ta sirri ba ta ambaci bayanan riƙe bayanai har shekara guda.
@@ -234,28 +253,28 @@ Sabuwar manufar su ta sirri ba ta ambaci bayanan riƙe bayanai har shekara guda.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Taya zaka dogara da Cloudflare idan [sirrinsu na sirri ne na LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+Ta yaya zaka iya amincewa da Cloudflare idan manufofin sirrin su ne LIE?
 
 </details>
 
 ---
 
-<tetails>
-<takaitaccen bayani _ _click me_
+<details>
+<summary>danna ni
 
-## Rike bayanan ku
-Bayanin bayani>
+## Rike keɓaɓɓen bayananku
+</summary>
 
 
-Share asusun Cloudflare shine [matakin wahala](https://justdeleteme.xyz/).
+Share asusun Cloudflare abu ne mai wahala.
 
 ```
 Submitaddamar da tikiti na tallafi ta amfani da rukunin "Asusun",
 sannan ka nemi goge asusu a jikin sakon.
-Dole ne ku sami yanki ko katunan kuɗi a asusunku kafin neman sharewa.
+Dole ne ku sami yanki ko katin kuɗi a haɗe a asusarku kafin neman sharewa.
 ```
 
-Za ku [karɓi wannan imel ɗin tabbatarwa](https://twitter.com/originalesushi/status/1199041528414527495).
+Za ku sami wannan imel ɗin tabbatarwa.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
@@ -267,7 +286,7 @@ Shin zaka iya "amincewa" wannan?
 
 ---
 
-## Da fatan za a ci gaba zuwa shafi na gaba: "[Cloudflare Voices](../people.md)"
+## Da fatan za a ci gaba zuwa shafi na gaba:   [Muryar Cloudflare](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

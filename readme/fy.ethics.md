@@ -3,33 +3,33 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Stypje dit bedriuw net dat ethysk is_"
+"Stypje dit bedriuw net dat etysk is"
 
-"_Jo bedriuw is net betrouber. Jo beweare DMCA te hanthavenjen, mar hawwe in soad rjochtsaken foar it net dwaan._"
+"Jo bedriuw is net betrouber. Jo claimje DMCA te hanthavenjen, mar hawwe in soad rjochtsaken foar it net dwaan."
 
-"_Sensurearje dejingen dy't har etyk betwivelje._"
+"Se sensuerje allinich dejingen dy't har etyk betwivelje."
 
-"_Ik tink dat de wierheid ûnhandich is en better ferburgen is foar iepenbiere werjefte._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Ik tink dat de wierheid ûnhandich is en better ferburgen is foar iepenbiere werjefte."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
 <details>
-<summary> _klik my_
+<summary>klik my
 
 ## CloudFlare spam minsken
 </summary>
 
 
-Cloudflare stjoert spam-e-mails nei net-Cloudflare-brûkers.
+Cloudflare stjoert spam-e-mails oan net-Cloudflare-brûkers.
 
-- Stjoer allinich e-postberjochten nei abonnees dy't har oanmeld hawwe
+- Stjoer allinich e-postberjochten nei abonnees dy't har ynskreaun hawwe
 - As de brûker "stop" seit, stop dan it ferstjoeren fan e-post
 
 It is sa ienfâldich. Mar Cloudflare makket neat út.
-Cloudflare sei mei it brûken fan har tsjinst [kin alle spammers as oanfallers stopje](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers- ).
-Hoe kinne wy ​​_Cloudflare-spammers_ stopje sûnder Cloudflare te aktivearjen?
+Cloudflare sei dat it gebrûk fan har tsjinst alle spammers as oanfallers kin stopje.
+Hoe kinne wy ​​Cloudflare stopje sûnder Cloudflare te aktivearjen?
 
 
 | 🖼 | 🖼 |
@@ -42,13 +42,15 @@ Hoe kinne wy ​​_Cloudflare-spammers_ stopje sûnder Cloudflare te aktivearje
 ---
 
 <details>
-<summary> _klik my_
+<summary>klik my
 
-## Resinsje fan brûker ferwiderje
+## Ferwiderje de brûker syn resinsje
 </summary>
 
 
-Cloudflare-censor [negative resinsjes](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). As jo ​​_anti-Cloudflare_-tekst op Twitter pleatse, hawwe jo in kâns om in [antwurdzje] te krijen (https://twitter.com/CloudflareHelp/status/1126051764917145601) fan [Cloudflare-meiwurker](cloudflare_inc/cloudflare_members.txt) mei "_[Nee, it is net](PEOPLE.md) _ "berjocht. As jo ​​in negatyf resinsje pleatse op elke beoordelingsside, sille se besykje [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+Cloudflare negearje resinsjes.
+As jo ​​anty-Cloudflare-tekst op Twitter pleatse, hawwe jo in kâns om in antwurd te krijen fan Cloudflare-meiwurker mei berjocht "Nee, it is net".
+As jo ​​in negatyf resinsje pleatse op elke beoordelingsside, sille se besykje it te censurearjen.
 
 
 | 🖼 | 🖼 |
@@ -60,15 +62,16 @@ Cloudflare-censor [negative resinsjes](https://web.archive.org/web/2019111600404
 ---
 
 <details>
-<summary> _klik my_
+<summary>klik my
 
-## Doxxing brûkers
+## Diele de privee ynformaasje fan de brûker
 </summary>
 
 
-Cloudflare hat in massaal [harassismeprobleem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -fake-nammen-2017-5).
-Cloudflare [dielt persoanlike ynformaasje](https://archive.ph/ePdvi) fan dyjingen [dy't](https://twitter.com/ZJemptv/status/898299709634248704) [klagen](https://twitter.com/TinyPirate/status/554718958176067584) [oer](https://twitter.com/remembrancermx/status/1010329041235148802) [hosted](https://twitter.com/Bridaguy/status/915003769280172037) [sites](https://twitter .com/HelloAndrew/status/897260208845500416). Se freegje jo somtiden om te leverjen
-jo wiere ID. As jo ​​net wolle wurde pesten, [oanfallen](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) of [fermoarde](https://twitter.com/RusEmbUSA/status/1187363092793040901), jo moatte better fuortgean fan Cloudflared websiden.
+Cloudflare hat in massaal harassyprobleem.
+Cloudflare dielt persoanlike ynformaasje fan dyjingen dy't klagen oer hosted sites.
+Se freegje jo somtiden om jo wirklike ID oan te jaan.
+As jo ​​net wolle wurde pesten, oanfalle, swatte of fermoarde, bliuwst better fuort fan websiden Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -82,13 +85,15 @@ jo wiere ID. As jo ​​net wolle wurde pesten, [oanfallen](https://twitter.com
 ---
 
 <details>
-<summary> _klik my_
+<summary>klik my
 
-## Bedriuwsopfang fan woldiedige bydragen
+## Corporate solicitation fan woldiedige bydragen
 </summary>
 
 
-CloudFlare is [freget](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) foar woldiedige bydragen. It is heul skriklik dat in Amerikaanske korporaasje om goeddiedigens freget neist organisaasjes sûnder winst dy't goede oarsaken hawwe. As jo ​​graach wolle [minsken blokkearje of tiid fan oare minsken fergrieme](PEOPLE.md), wolle jo miskien wat pizza's bestelle foar Cloudflare-meiwurkers.
+CloudFlare freget om woldiedige bydragen.
+It is heul skriklik dat in Amerikaanske korporaasje om goeddiedigens soe freegje neist non-profit organisaasjes dy't goede oarsaken hawwe.
+As jo ​​graach wolle blokkearje of tiid fan oaren fergrieme, wolle jo miskien wat pizza's bestelle foar meiwurkers fan Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -98,13 +103,15 @@ CloudFlare is [freget](https://web.archive.org/web/20191112033605/https://openco
 ---
 
 <details>
-<summary> _klik my_
+<summary>klik my
 
 ## Beëinigjen fan siden
 </summary>
 
 
-Wat sille jo dwaan as jo side _suddenly_ omleech giet? D'r binne rapporten dat Cloudflare is [ferwiderje](https://twitter.com/stefan_eady/status/1126033791267426304) [brûker's](https://twitter.com/derivativeburke/status/903755267053117440) [konfiguraasje](https://twitter.com/lordscarlet/status/1046785164792205314) of [stoptsjinst sûnder warskôging](https://twitter.com/svolentin/status/1227324408475344896), [stil) (https://twitter.com/BlnaryMlke/status/1194339461984854018). Wy riede oan dat jo [bettere leveransier] fine (what-to-do.md).
+Wat sille jo dwaan as jo side ynienen sakket?
+D'r binne rapporten dat Cloudflare de konfiguraasje fan de brûker wisket of tsjinst stopt sûnder warskôging, stil.
+Wy riede oan dat jo in bettere leveransier fine.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -113,9 +120,9 @@ Wat sille jo dwaan as jo side _suddenly_ omleech giet? D'r binne rapporten dat C
 ---
 
 <details>
-<summary> _klik my_
+<summary>klik my
 
-## Diskriminaasje fan browserversier
+## Diskriminaasje fan browserferkeaper
 </summary>
 
 
@@ -125,33 +132,34 @@ Dizze tagongs ongelikens is in netwurkneutraliteit misbrûk en in misbrûk fan m
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Lofts: `Tor Browser`, rjochts:` Chrome`. Itselde IP-adres.
+- Lofts: Tor Browser, rjochts: Chrome. Itselde IP-adres.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Lofts: `[Tor Browser] Javascript útskeakele, koekje ynskeakele`
-- Rjochts: `[Chrome] Javascript ynskeakele, cookie útskeakele`
+- Lofts: Tor Browser Javascript útskeakele, koekje ynskeakele
+- Rjochts: Chrome Javascript ynskeakele, koekje útskeakele
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
-- QuteBrowser (lytse browser) sûnder Tor (Clearnet IP)
+- QuteBrowser (minor browser) sûnder Tor (Clearnet IP)
 
-| *** Browser *** | *** Tagong behanneling *** |
+| ***Browser*** | ***Tagong behanneling*** |
 | --- | --- |
 | Tor Browser (Javascript ynskeakele) | tagong tastien |
 | Firefox (Javascript ynskeakele) | tagong degradearre |
-| Chromium (Javascript ynskeakele) | tagong degradearre (drukke Google reCAPTCHA) |
-| Chromium as Firefox (Javascript útskeakele) | tagong wegere (drukke op * brutsen * Google reCAPTCHA) |
-| Chromium as Firefox (Cookie útskeakele) | tagong wegere |
+| Chromium (Javascript ynskeakele) | tagong degradearre |
+| Chromium or Firefox (Javascript útskeakele) | tagong wegere |
+| Chromium or Firefox (Koekje útskeakele) | tagong wegere |
 | QuteBrowser | tagong wegere |
 | lynx | tagong wegere |
 | w3m | tagong wegere |
 | wget | tagong wegere |
 
 
-"_Wêrom brûke jo Audio knop net om maklik útdaging op te lossen? _"
+Wêrom net Audio knop brûke om maklike útdaging op te lossen?
 
-Ja, d'r is in audioknop, mar it _always_ [wurket net oer Tor](https://trac.torproject.org/projects/tor/ticket/23840). Jo sille dit berjocht krije as jo op it klikke:
+Ja, d'r is in audioknop, mar it wurket altyd net oer Tor.
+Jo sille dit berjocht krije as jo derop klikke:
 
 ```
 Besykje it letter nochris
@@ -165,46 +173,52 @@ Besykje ús helpside foar mear details
 ---
 
 <details>
-<summary> _klik my_
+<summary>klik my
 
-## Underdrukking fan kiezers
+## Kies-ûnderdrukking
 </summary>
 
 
-Kiesers yn Amerikaanske steaten registrearje om úteinlik fia de webside fan 'e steatssekretaris te stimmen yn' e steat fan har ferbliuw.
-Republikeinske-kontroleare kantoaren fan steatssekretaris dogge mei oan ûnderdrukking fan kiezers troch de webside fan 'e steatssekretaris fia Cloudflare te proxysearjen.
-Fijannige behanneling fan Cloudflare fan Tor-brûkers, har MITM-posysje as in sintralisearre wrâldwiid punt fan tafersjoch, en syn skealike rol yn 't algemien
-makket potensjele kiezers ûnhâldber mei registrearjen. Liberalen yn 't bysûnder omfetsje privacy. Kostenregistraasjeformulieren sammelje gefoelige ynformaasje oer politike leagen fan in kiezer, persoanlik fysyk adres, sosjaal feiligensnûmer, en bertedatum.
-De measte steaten meitsje allinich in subset fan dy ynformaasje iepenbier beskikber, mar Cloudflare sjocht *** alle *** dy ynformaasje as immen registreart om te stimmen.
+Kiezers yn Amerikaanske steaten registrearje om úteinlik fia de webside fan 'e steatssekretaris te stimmen yn' e steat fan har ferbliuw.
+Republikeinske-kontroleare kantoaren fan steatsekretaris dogge mei oan ûnderdrukking fan kiezers troch de webside fan 'e steatssekretaris fia Cloudflare te proxysearjen.
+Fijannige behanneling fan Cloudflare fan Tor-brûkers, har MITM-posysje as in sintralisearre wrâldwiid punt fan tafersjoch, en har skealike rol yn 't algemien makket potensjele kiezers ûnwillich om te registrearjen.
+Liberalen hawwe yn it bysûnder de privacy omearmjend.
+Kostenregistraasjeformulieren sammelje gefoelige ynformaasje oer politike leagen fan in kiezer, persoanlik fysyk adres, sosjaal feiligensnûmer, en bertedatum.
+De measte steaten meitsje allinich in subset fan dy ynformaasje iepenbier beskikber, mar Cloudflare sjocht al dy ynformaasje as immen registreart om te stimmen.
 
-Tink derom dat papierregistraasje Cloudflare net omearmet, om't de sekretaris fan 'e meiwurkers fan gegevensgegevens personiel wierskynlik de
-Cloudflare webside om de gegevens yn te fieren.
+Tink derom dat papierregistraasje Cloudflare net omearmet, om't de sekretaris fan wurknimmers fan steat gegevens yngong wierskynlik de Cloudflare-webside sil brûke om de gegevens yn te fieren.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org is in ferneamde webside foar it sammeljen fan stimmen en aksje te nimmen. "[minsken oeral begjinne kampanjes, mobilisearje supporters en wurkje mei beslútjouwers om oplossingen te riden.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Spitigernôch kinne in protte minsken feroaring.org hielendal net sjen fanwegen it agressive filter fan Cloudflare. Se wurde blokkeare fan it ûndertekenjen fan 'e petysje, en dus útslute se út in demokratysk proses. In oare net-cloudflared platfoarm brûke, lykas [OpenPetition](https://www.openpetition.eu/content/about_us) helpt it probleem op te lossen.
+- Change.org is in ferneamde webside foar it sammeljen fan stimmen en aksje te nimmen.
+“minsken begjinne oeral kampanjes, mobilisearje supporters en wurkje mei beslútjouwers om oplossingen te stjoeren.”
+Spitigernôch kinne in protte minsken feroaring.org hielendal net sjen fanwegen it agressive filter fan Cloudflare.
+Se wurde útsetten foar it ûndertekenjen fan 'e petysje, en dus útslute se út in demokratysk proses.
+In oare net-cloudflared platfoarm brûke, lykas OpenPetition, helpt it probleem te ferhelpen.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- Cloudflare's "[Atheenske projekt](https://www.cloudflare.com/athenian/)" biedt fergees ûndernimmingsbeskerming oan steat- en lokale ferkiezingswebsides. Se seine "- har kiesdistrikten kinne tagong krije ta ferkiezingsynformaasje en kiezerregistraasje_", mar dit is in leagen, om't in protte minsken gewoanwei de side net kinne blêdzje.
+- Cloudflare's "Atheenske projekt" biedt fergese beskerming op ûndernimmingsnivo oan steats- en lokale ferkiezingswebsides.
+Se seine "har kiezers kinne tagong krije ta ferkiezingsynformaasje en kiezerregistraasje", mar dit is in leagen, om't in protte minsken gewoanwei de side net kinne blêdzje.
 
 </details>
 
 ---
 
 <details>
-<summary> _klik my_
+<summary>klik my
 
-## Negearje de foarkar fan brûkers
+## Negearje de foarkar fan brûker
 </summary>
 
 
-As jo ​​der foar ôfkarre, ferwachtsje jo dat jo der gjin e-post oer krije. Cloudflare negearje de foarkar fan brûker en diele gegevens mei korporaasjes fan tredden [sûnder tastimming fan klant](https://twitter.com/thexpaw/status/1108424723233419264). As jo ​​har fergese plan brûke, stjoere se somtiden e-post nei jo om te freegjen om alle moannen abonnemint te keapjen.
+As jo ​​der foar ôfkarre, ferwachtsje jo dat jo der gjin e-post oer krije.
+Cloudflare negearje de foarkar fan brûker en diele gegevens mei korporaasjes fan tredden sûnder tastimming fan klanten.
+As jo ​​har fergese plan brûke, stjoere se soms e-post nei jo om te freegjen om alle moannen abonnemint te keapjen.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -213,53 +227,58 @@ As jo ​​der foar ôfkarre, ferwachtsje jo dat jo der gjin e-post oer krije. 
 ---
 
 <details>
-<summary> _klik my_
+<summary>klik my
 
-## Ligne oer it fuortheljen fan gegevens fan brûkers
+## Ligne oer it wiskjen fan gegevens fan brûkers
 </summary>
 
 
-Neffens dit [blog fan 'e ex-cloudflare-klant](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), lijt Cloudflare oer it wiskjen fan akkounts. Tsjintwurdich hâlde in protte [bedriuwen jo gegevens](https://justdeleteme.xyz/) neidat jo jo akkount sluten of fuortsmiten hawwe. De measte fan goede bedriuwen neame dêroer yn har privacybelied. Cloudflare? Nee.
+Neffens it blog fan dizze ex-cloudflare-klant lijt Cloudflare oer it wiskjen fan akkounts.
+Tsjintwurdich bewarje in protte bedriuwen jo gegevens neidat jo jo akkount sluten of fuortsmiten hawwe.
+De measte fan goede bedriuwen neame dêroer yn har privacybelied.
+Cloudflare? Nee.
 
 ```
 2019-08-05 CloudFlare stjoerde my befêstiging dat se myn account hawwe ferwidere.
-2019-10-02 Ik krige in e-post fan CloudFlare "omdat ik in klant bin"
+2019-10-02 Ik krige in e-post fan CloudFlare "om't ik in klant bin"
 ```
 
-Cloudflare wist net oer it wurd "ferwiderje". As it echt _ferwidere_ is, wêrom hat dizze eks-klant in e-post? Hy neamde ek dat it privacybelied fan Cloudflare der net oer neamt.
+Cloudflare wist net oer it wurd "ferwiderje".
+As it wirklik wurdt ferwidere, wêrom hat dizze eks-klant in e-post krigen?
+Hy neamde ek dat it privacybelied fan Cloudflare der net oer neamt.
 
 ```
-Harren nije privacybelied makket gjin melding fan behâld fan gegevens foar in jier.
+Harren nije privacybelied makket gjin melding fan behâlden fan gegevens foar in jier.
 ```
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Hoe kinne jo Cloudflare fertrouwe as [har privacybelied in LIE is](https://twitter.com/daviddlow/status/1197787135526555648)?
+Hoe kinne jo Cloudflare fertrouwe as har privacybelied in LIE is?
 
 </details>
 
 ---
 
 <details>
-<summary> _klik my_
+<summary>klik my
 
 ## Hâld jo persoanlike ynformaasje
 </summary>
 
 
-Cloudflare-akkount wiskje is [hurd nivo](https://justdeleteme.xyz/).
+Cloudflare-akkount wiskje is hurd nivo.
 
 ```
 Stypje in stipe ticket yn mei de kategory "Account",
 en freegje accountferwidering yn it berjochtlichem oan.
-Jo moatte gjin domeinen of kredytkaarten hawwe hechte oan jo akkount foardat jo ferwidering oanfreegje.
+Jo moatte gjin domeinen of kredytkaarten hawwe ferbûn oan jo akkount foardat jo ferwidering oanfreegje.
 ```
 
-Jo sille [dizze e-post foar befêstiging krije](https://twitter.com/originalesushi/status/1199041528414527495).
+Jo sille dizze befêstigings-e-post krije.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
-"Wy binne begon jo ferwideringsoanfraach te ferwurkjen", mar "Wy sille trochgean mei opslaan fan jo persoanlike ynformaasje".
+"Wy binne begon jo ferwideringsoanfraach te ferwurkjen" mar "Wy sille trochgean mei opslaan fan jo persoanlike ynformaasje".
 
 Kinst dit "fertrouwe"?
 
@@ -267,7 +286,7 @@ Kinst dit "fertrouwe"?
 
 ---
 
-## Trochgean asjebleaft nei folgjende side: "[Cloudflare-stimmen](../PEOPLE.md)"
+## Trochgean asjebleaft nei folgjende pagina:   [Wolkenflaterstimmen](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

@@ -3,20 +3,20 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Ärge toetage seda ettevõtet, millel puudub eetika_"
+"Ärge toetage seda ettevõtet, mis on eetikavaba"
 
-"_Teie ettevõte pole usaldusväärne. Te väidate, et jõustate DMCA, kuid teil on selle tühistamise eest palju kohtuasju._"
+"Teie ettevõte pole usaldusväärne. Te väidate, et ta jõustab DMCA, kuid teil on selle vastu võtmata jätmiseks palju kohtuasju."
 
-"_Tsenseerivad nad ainult neid, kes seavad oma eetika kahtluse alla."
+"Nad tsenseerivad ainult neid, kes seavad nende eetika kahtluse alla."
 
-"_Mõistan, et tõde on ebamugav ja on paremini avalikkuse eest varjatud._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Ma arvan, et tõde on ebamugav ja paremini peidetud avaliku vaate eest."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
-<üksikasjad>
-<kokkuvõte> _klõpsake mind_
+<details>
+<summary>klõpsa mulle
 
 ## CloudFlare rämpsposti inimesi
 </summary>
@@ -28,8 +28,8 @@ Cloudflare saadab rämpsposti mitte-Cloudflare'i kasutajatele.
 - Kui kasutaja ütleb "stopp", lõpetage e-kirjade saatmine
 
 See on nii lihtne. Kuid Pilvvalgus ei huvita.
-Cloudflare ütles, et nende teenust kasutades [saab peatada kõik rämpspostitajad või ründajad](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attacckers- ).
-Kuidas saaksime peatada _Cloudflare rämpsposti saatjad_ ilma Cloudflare aktiveerimata?
+Cloudflare ütles, et nende teenuse kasutamine võib peatada kõik rämpspostitajad või ründajad.
+Kuidas saaksime Cloudflare'i peatada ilma Cloudflare aktiveerimata?
 
 
 | 🖼 | 🖼 |
@@ -41,14 +41,16 @@ Kuidas saaksime peatada _Cloudflare rämpsposti saatjad_ ilma Cloudflare aktivee
 
 ---
 
-<üksikasjad>
-<kokkuvõte> _klõpsake mind_
+<details>
+<summary>klõpsa mulle
 
-## eemalda kasutaja arvustus
+## Eemaldage kasutaja arvustus
 </summary>
 
 
-Cloudflare tsensor [negatiivsed arvustused](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Kui postitate _anti-Cloudflare_ teksti Twitterisse, on teil võimalus saada [Cloudflare töötaja](cloudflare_inc/cloudflare_members.txt) vastus [vastus](https://twitter.com/CloudflareHelp/status/1126051764917145601) saidilt "_[Ei, see pole](PEOPLE.md) _ "sõnum. Kui postitate negatiivse arvustuse mis tahes arvustussaidile, proovivad nad [tsenseerida](https://twitter.com/phyzonloop/status/1178836176985366529) [seda](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+Cloudflare tsenseerib negatiivseid ülevaateid.
+Kui postitate Twitterisse Cloudflare'i vastase teksti, on teil võimalus saada Cloudflare'i töötajalt vastus sõnumiga "Ei, see pole".
+Kui postitate negatiivse arvustuse mis tahes arvustussaidile, proovivad nad seda tsenseerida.
 
 
 | 🖼 | 🖼 |
@@ -59,16 +61,17 @@ Cloudflare tsensor [negatiivsed arvustused](https://web.archive.org/web/20191116
 
 ---
 
-<üksikasjad>
-<kokkuvõte> _klõpsake mind_
+<details>
+<summary>klõpsa mulle
 
-## Doxxing kasutajad
+## Jagage kasutaja isiklikku teavet
 </summary>
 
 
-Cloudflare'il on tohutu [ahistamisprobleem](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -võltsnimed-2017-5).
-Cloudflare [jagab isiklikku teavet](https://archive.ph/ePdvi) neist [kes](https://twitter.com/ZJemptv/status/898299709634248704) [kaebavad](https://twitter.com/TinyPirate/status/554718958176067584) [umbes](https://twitter.com/remembrancermx/status/1010329041235148802) [hostitud](https://twitter.com/Bridaguy/status/915003769280172037) [saidid](https://twitter .com/HelloAndrew/olek/897260208845500416). Mõnikord paluvad nad teil seda pakkuda
-sinu tõeline isikutunnistus. Kui te ei soovi ahistada, [rünnati](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) või [tapetud](https://twitter.com/RusEmbUSA/status/1187363092793040901), hoidke parem Cloudflaredi veebisaitidest.
+Pilvvalgus on tohutu ahistamise probleem.
+Cloudflare jagab isiklikku teavet nende kohta, kes kurdavad hostitud saitide üle.
+Mõnikord paluvad nad teil sisestada oma tõeline isikutunnus.
+Kui te ei soovi ahistada, rünnata, neelata ega tapeta, hoidke parem Cloudflaredi veebisaitidest.
 
 
 | 🖼 | 🖼 |
@@ -81,14 +84,16 @@ sinu tõeline isikutunnistus. Kui te ei soovi ahistada, [rünnati](https://twitt
 
 ---
 
-<üksikasjad>
-<kokkuvõte> _klõpsake mind_
+<details>
+<summary>klõpsa mulle
 
-## Heategevuslike toetuste korporatiivne pakkumine
+## Heategevuslike toetuste korporatiivne taotlus
 </summary>
 
 
-CloudFlare küsib (https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) heategevuslikku toetust. On üsna õõvastav, kui Ameerika korporatsioon küsib heategevust lisaks heade põhjustega mittetulundusühingutele. Kui teile meeldib [inimeste blokeerimine või teiste inimeste aja raiskamine](PEOPLE.md), võiksite tellida mõned pitsad🍕 Cloudflare'i töötajatele.
+CloudFlare küsib heategevuslikku toetust.
+On üsna õõvastav, et Ameerika korporatsioon küsib heategevust lisaks heade põhjustega mittetulundusühingutele.
+Kui teile meeldib inimeste blokeerimine või teiste inimeste aja raiskamine, võiksite tellida mõned pitsad Cloudflare'i töötajatele.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -97,14 +102,16 @@ CloudFlare küsib (https://web.archive.org/web/20191112033605/https://opencollec
 
 ---
 
-<üksikasjad>
-<kokkuvõte> _klõpsake mind_
+<details>
+<summary>klõpsa mulle
 
-## Saitide lõpetamine
+## Lõpetavad saidid
 </summary>
 
 
-Mida teha, kui teie sait väheneb_kohe_? On teateid, et Cloudflare [kustutab](https://twitter.com/stefan_eady/status/1126033791267426304) [kasutaja](https://twitter.com/derivativeburke/status/903755267053117440) [konfiguratsioon](https://twitter.com/lordscarlet/status/1046785164792205314) või [teenuse peatamine ilma igasuguse hoiatuseta](https://twitter.com/svolentin/status/1227324408475344896), [vaikselt](https://twitter.com/BlnaryMlke/status/1194339461984854018). Soovitame teil leida [parem pakkuja](what-to-do.md).
+Mida teha, kui teie sait äkitselt väheneb?
+On teateid, et Cloudflare kustutab kasutaja konfiguratsiooni või lõpetab teenuse ilma hoiatuseta, vaikides.
+Soovitame teil leida parem pakkuja.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -112,8 +119,8 @@ Mida teha, kui teie sait väheneb_kohe_? On teateid, et Cloudflare [kustutab](ht
 
 ---
 
-<üksikasjad>
-<kokkuvõte> _klõpsake mind_
+<details>
+<summary>klõpsa mulle
 
 ## Brauseritarnija diskrimineerimine
 </summary>
@@ -125,33 +132,34 @@ See juurdepääsu ebavõrdsus on võrgu neutraalsuse kuritarvitamine ja võimu k
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Vasakul: `Tor Browser`, paremal:` Chrome`. Sama IP-aadress.
+- Vasakul: Tor-brauser, paremal: Chrome. Sama IP-aadress.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Vasakul: "[Tor-brauser] Javascript keelatud, küpsis lubatud"
-- Parem: `[Chrome] Javascript lubatud, küpsised keelatud"
+- Vasakul: Tor-brauseri Javascript keelatud, küpsis lubatud
+- Paremal: Chrome Javascript lubatud, küpsis keelatud
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (alaealine brauser) ilma Torita (Clearnet IP)
 
-| *** Brauser *** | *** Juurdepääsukäsitlus *** |
+| ***Brauser*** | ***Juurdepääsu ravi*** |
 | --- | --- |
-| Tor-brauser (Javascript lubatud) | juurdepääs lubatud |
-| Firefox (Javascript lubatud) | juurdepääs halvenenud |
-| Kroom (Javascript lubatud) | juurdepääs halvenenud (surub Google reCAPTCHA) |
-| Chromium või Firefox (Javascript keelatud) | ligipääs keelatud (lükkab * katki * Google reCAPTCHA) |
-| Kroom või Firefox (küpsised keelatud) | juurdepääs keelati |
-| QuteBrowser | juurdepääs keelati |
-| ilves | juurdepääs keelati |
-| w3m | juurdepääs keelati |
-| wget | juurdepääs keelati |
+| Tor Browser (Javascript on lubatud) | juurdepääs lubatud |
+| Firefox (Javascript on lubatud) | juurdepääs halvenenud |
+| Chromium (Javascript on lubatud) | juurdepääs halvenenud |
+| Chromium or Firefox (Javascript on keelatud) | Ligipääs keelatud |
+| Chromium or Firefox (Präänik on keelatud) | Ligipääs keelatud |
+| QuteBrowser | Ligipääs keelatud |
+| lynx | Ligipääs keelatud |
+| w3m | Ligipääs keelatud |
+| wget | Ligipääs keelatud |
 
 
-"_Miks ei kasuta lihtsa väljakutse lahendamiseks helinuppu? _"
+Miks mitte kasutada helinuppu lihtsa väljakutse lahendamiseks?
 
-Jah, helinupp on olemas, kuid see _ainult_ [ei tööta Toris](https://trac.torproject.org/projects/tor/ticket/23840). Kui klõpsate seda, kuvatakse järgmine teade:
+Jah, seal on helinupp, kuid see ei tööta alati Tor'i kohal.
+Selle teate kuvatakse siis, kui sellel klõpsate:
 
 ```
 Proovige hiljem uuesti
@@ -164,8 +172,8 @@ Lisateabe saamiseks külastage meie abilehte
 
 ---
 
-<üksikasjad>
-<kokkuvõte> _klõpsake mind_
+<details>
+<summary>klõpsa mulle
 
 ## Valijate allasurumine
 </summary>
@@ -173,38 +181,44 @@ Lisateabe saamiseks külastage meie abilehte
 
 USA osariikide valijad registreeruvad hääletamiseks oma elukohariigi riigisekretäri veebisaidi kaudu.
 Vabariiklaste kontrolli all olevad riigisekretäride kontorid tegelevad valijate allasurumisega, puhverdades riigisekretäri veebisaiti Cloudflare kaudu.
-Cloudflare'i Tor-kasutajate vaenulik kohtlemine, selle MITM-i positsioon tsentraliseeritud globaalse seirepunktina ja kahjulik roll üldiselt
-paneb tulevased valijad registreerimisest loobuma. Eriti liberaalid kipuvad omaks võtma privaatsust. Valija registreerimisvormid koguvad tundlikku teavet valija poliitilise poole, isikliku aadressi, sotsiaalkindlustuse numbri ja sünnikuupäeva kohta.
-Enamik osariike teeb selle teabe ainult osa alarühma avalikult kättesaadavaks, kuid Cloudflare näeb kogu teavet ***, kui keegi registreerub hääletama.
+Cloudflare'i Tor-kasutajate vaenulik kohtlemine, selle MITM-i positsioon tsentraliseeritud globaalse seirepunktina ja kahjulik roll üldiselt muudavad tulevased valijad registreerimisest loobuma.
+Eriti liberaalid kipuvad omaks võtma privaatsust.
+Valija registreerimisvormid koguvad tundlikku teavet valija poliitilise poole, isikliku aadressi, sotsiaalkindlustuse numbri ja sünnikuupäeva kohta.
+Enamik riike teeb selle teabe alamhulga avalikult kättesaadavaks, kuid Cloudflare näeb kogu seda teavet, kui keegi registreerub hääletama.
 
-Pange tähele, et paberkandjal registreerimine ei lase Cloudflare'ist mööda, kuna tõenäoliselt kasutab seda riigisisese andmesisestuse töötajate sekretär
-Cloudflare'i veebisait andmete sisestamiseks.
+Pange tähele, et paberkandjal registreerimine ei hoia Cloudflarest mööda, kuna riigisisese andmesisestuse töötajate sekretär kasutab andmete sisestamiseks tõenäoliselt Cloudflare'i veebisaiti.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org on kuulus veebisait häälte kogumiseks ja tegutsemiseks. "[Kõik inimesed alustavad kampaaniaid, mobiliseerivad toetajaid ja töötavad koos otsustajatega lahenduste leidmiseks.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Kahjuks ei saa paljud inimesed muutustorg.org Cloudflare'i agressiivse filtri tõttu üldse vaadata. Nad ei saa petitsioonile alla kirjutada, välistades seega nad demokraatlikust protsessist. Muude pilvkattega platvormide, näiteks [OpenPetition](https://www.openpetition.eu/content/about_us) kasutamine aitab probleemi lahendada.
+- Change.org on kuulus veebisait häälte kogumiseks ja tegutsemiseks.
+“kõikjal inimesed alustavad kampaaniaid, mobiliseerivad toetajaid ja teevad lahenduste otsimiseks koostööd otsustajatega.”
+Kahjuks ei saa paljud inimesed muutustorg.org Cloudflare'i agressiivse filtri tõttu üldse vaadata.
+Neil takistatakse petitsiooni allkirjastamist, välistades seega nad demokraatlikust protsessist.
+Muude pilvkattega platvormide, näiteks OpenPetitioni kasutamine aitab probleemi lahendada.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- Cloudflare'i "[Ateena projekt](https://www.cloudflare.com/athenian/)" pakub riigi ja kohalike valimiste veebisaitidele tasuta ettevõtte tasemel kaitset. Nad ütlesid, et "_valijatel on juurdepääs valimisteabele ja valijate registreerimisele_", kuid see on vale, sest paljud inimesed lihtsalt ei saa seda saiti üldse sirvida.
+- Cloudflare'i "Ateena projekt" pakub riigi ja kohalike valimiste veebisaitidele tasuta ettevõtte tasemel kaitset.
+Nad ütlesid, et "nende valijatel on juurdepääs valimisteabele ja valijate registreerimisele", kuid see on vale, sest paljud inimesed lihtsalt ei saa seda saiti üldse sirvida.
 
 </details>
 
 ---
 
-<üksikasjad>
-<kokkuvõte> _klõpsake mind_
+<details>
+<summary>klõpsa mulle
 
 ## Kasutaja eelistuste eiramine
 </summary>
 
 
-Kui loobute millestki, loodate, et te ei saa selle kohta meilisõnumeid. Cloudflare ignoreerib kasutaja eelistusi ja jagab andmeid kolmandate osapoolte ettevõtetega [ilma kliendi nõusolekuta](https://twitter.com/thexpaw/status/1108424723233419264). Kui kasutate nende tasuta paketti, saadavad nad teile mõnikord meilisõnumeid, paludes osta igakuist tellimust.
+Kui loobute millestki, loodate, et te ei saa selle kohta meilisõnumeid.
+Cloudflare ignoreerib kasutaja eelistusi ja jagab andmeid ilma kliendi nõusolekuta kolmandate osapoolte ettevõtetega.
+Kui kasutate nende tasuta paketti, saadavad nad teile mõnikord meilisõnumeid, paludes osta igakuist tellimust.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -212,42 +226,47 @@ Kui loobute millestki, loodate, et te ei saa selle kohta meilisõnumeid. Cloudfl
 
 ---
 
-<üksikasjad>
-<kokkuvõte> _klõpsake mind_
+<details>
+<summary>klõpsa mulle
 
-## valetab kasutaja andmete kustutamise eest
+## Valetab kasutaja andmete kustutamist
 </summary>
 
 
-Selle [endise cloudflare'i kliendi ajaveebi](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/) kohaselt valetab Cloudflare kontode kustutamise kohta. Tänapäeval hoiavad paljud [ettevõtted teie andmeid](https://justdeleteme.xyz/) pärast konto sulgemist või eemaldamist. Enamik häid ettevõtteid mainib seda oma privaatsuseeskirjades. Pilvetuled? Ei
+Selle endise cloudflare'i kliendi ajaveebi kohaselt valetab Cloudflare kontode kustutamise üle.
+Tänapäeval hoiavad paljud ettevõtted teie andmeid pärast konto sulgemist või eemaldamist.
+Enamik häid ettevõtteid mainib seda oma privaatsuseeskirjades.
+Pilvetuled? Ei
 
 ```
-2019-08-05 CloudFlare saatis mulle kinnituse, et nad eemaldasid minu konto.
-2019-10-02 sain meili CloudFlare'ilt "kuna olen klient"
+2019-08-05 CloudFlare saatis mulle kinnituse, et nad on mu konto eemaldanud.
+2019-10-02 Sain CloudFlareilt meili "kuna olen klient"
 ```
 
-Cloudflare ei teadnud sõna "eemalda". Kui see on tõesti _removed_, siis miks see endine klient e-kirja sai? Ta mainis ka, et Cloudflare'i privaatsuseeskirjades seda ei mainita.
+Cloudflare ei teadnud sõna "eemalda".
+Kui see tõesti eemaldatakse, siis miks see endine klient e-kirja sai?
+Ta mainis ka, et Cloudflare'i privaatsuseeskirjades seda ei mainita.
 
 ```
-Nende uues privaatsuseeskirjas ei mainita andmete säilitamist aasta jooksul.
+Nende uues privaatsuspoliitikas ei mainita andmete säilitamist aasta jooksul.
 ```
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Kuidas saab Cloudflare'i usaldada, kui [nende privaatsuseeskirjad on LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+Kuidas saab Cloudflare'i usaldada, kui nende privaatsuseeskirjad on LIE?
 
 </details>
 
 ---
 
-<üksikasjad>
-<kokkuvõte> _klõpsake mind_
+<details>
+<summary>klõpsa mulle
 
 ## Hoidke oma isiklikke andmeid
 </summary>
 
 
-Cloudflare'i konto kustutamine on [kõva tase](https://justdeleteme.xyz/).
+Cloudflare'i konto kustutamine on raskel tasemel.
 
 ```
 Esitage tugipilet kategooria „Konto” abil,
@@ -255,11 +274,11 @@ ja taotleda konto kustutamist sõnumi kerest.
 Enne kustutamise taotlemist ei tohi teie kontoga seotud olla domeene ega krediitkaarte.
 ```
 
-Te saate [selle kinnitusmeili](https://twitter.com/originalesushi/status/1199041528414527495).
+Saate selle kinnitusmeili.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
-"Oleme hakanud teie kustutamistaotlust töötlema", kuid "jätkame teie isikliku teabe säilitamist".
+"Oleme hakanud teie kustutamistaotlust töötlema", kuid "Jätkame teie isikliku teabe säilitamist".
 
 Kas saate seda "usaldada"?
 
@@ -267,7 +286,7 @@ Kas saate seda "usaldada"?
 
 ---
 
-## jätkake järgmisele lehele: "[Cloudflare Voices](../PEOPLE.md)"
+## Jätkake järgmisel lehel:   [Pilves hävitavad hääled](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

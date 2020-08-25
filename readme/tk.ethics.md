@@ -3,33 +3,33 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Etikasy ýok bu kompaniýany goldamaň"
+"Etika ýok bu kompaniýany goldamaň"
 
-"_Siziň kompaniýaňyz ygtybarly däl. DMCA-ny ýerine ýetirjekdigiňizi aýdýarsyňyz, ýöne muny etmezlik üçin köp kazyýet işi bar."
+"Şereketiňiz ygtybarly däl. DMCA-ny ýerine ýetirjekdigiňizi aýdýarsyňyz, ýöne muny etmezlik üçin köp kazyýet işi bar."
 
-"_Olar diňe ahlak kadalaryny sorag edýänlere senzura edýärler."
+"Diňe ahlak kadalaryna şübhelenýänlere senzura edýärler."
 
-"_Hakykat amatsyz we köpçüligiň pikirinden has gowy gizlenýär öýdýärin._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Hakykat amatsyz we köpçüligiň öňünde has gowy gizlenýär öýdýärin."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
 <details>
-<summary> _ basyň
+<summary>maňa basyň
 
-## CloudFlare adamlary spamlaýar
+## “CloudFlare” adamlary spamlaýar
 </summary>
 
 
 “Cloudflare” “Cloudflare” däl ulanyjylara spam hatlaryny iberýär.
 
 - Diňe saýlan abonentlere e-poçta iberiň
-- Ulanyjy "dur" diýende, e-poçta ibermegi bes ediň
+- Ulanyjy "bes et" diýende, e-poçta ibermegi bes ediň
 
 Bu ýönekeý. Emma “Cloudflare” gyzyklanmaýar.
-“Cloudflare” öz hyzmatyndan peýdalanýandygyny [ähli spamerleri ýa-da hüjümçileri duruzyp biljekdigini] aýtdy (https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers- ).
-“Cloudflare” -ni işjeňleşdirmän, “Cloudflare spammers” -i nädip saklap bileris?
+“Cloudflare” öz hyzmatyny ulanmak ähli spamerleri ýa-da hüjümçileri duruzyp biljekdigini aýtdy.
+“Cloudflare” -ni işjeňleşdirmän nädip “Cloudflare” -ni duruzyp bileris?
 
 
 | 🖼 | 🖼 |
@@ -42,13 +42,15 @@ Bu ýönekeý. Emma “Cloudflare” gyzyklanmaýar.
 ---
 
 <details>
-<summary> _ basyň
+<summary>maňa basyň
 
 ## Ulanyjynyň synyny aýyryň
 </summary>
 
 
-“Cloudflare” senzurasy [negatiw synlar](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853) Twitterde _anti-Cloudflare_ tekstini ýerleşdirseňiz, [Cloudflare işgäri](cloudflare_inc/cloudflare_members.txt) bilen [jogap](https://twitter.com/CloudflareHelp/status/1126051764917145601) almak mümkinçiligiňiz bar. [, Ok, beýle däl](PEOPLE.md) _ "habar. Islendik syn sahypasynda negatiw syn goýsaňyz, [senzura] synanyşarlar (https://twitter.com/phyzonloop/status/1178836176985366529) [muny](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+“Cloudflare” senzura negatiw synlar.
+“Cloudflare” -e garşy teksti Twitterde ýerleşdirseňiz, “Cloudflare” -iň işgärinden “, ok, bu däl” habary bilen jogap alyp bilersiňiz.
+Islendik syn sahypasynda negatiw syn goýsaňyz, senzura etmäge synanyşarlar.
 
 
 | 🖼 | 🖼 |
@@ -60,15 +62,16 @@ Bu ýönekeý. Emma “Cloudflare” gyzyklanmaýar.
 ---
 
 <details>
-<summary> _ basyň
+<summary>maňa basyň
 
-## Doxxing ulanyjylary
+## Ulanyjynyň şahsy maglumatlaryny paýlaşyň
 </summary>
 
 
-“Cloudflare” -de uly [azar bermek meselesi] bar (https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use ýasama atlar-2017-5).
-“Cloudflare” [şahsy maglumatlary paýlaşýar](https://archive.ph/ePdvi) (https://twitter.com/ZJemptv/status/898299709634248704) [arz edýär](https://twitter.com/TinyPirate/status/554718958176067584) [hakda](https://twitter.com/remembrancermx/status/1010329041235148802) [myhman aldy](https://twitter.com/Bridaguy/status/915003769280172037) [saýtlar] .com/SalamAndrew/status/897260208845500416). Kämahal üpjün etmegiňizi soraýarlar
-hakyky şahsyýetnamaňyz Azar bermek islemeýän bolsaňyz, [hüjüm edildi](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) ýa-da [öldürildi](https://twitter.com/RusEmbUSA/status/1187363092793040901), “Cloudflared” web sahypalaryndan daşda dursaňyz gowy bolar.
+“Cloudflare” -de uly yzarlama meselesi bar.
+“Cloudflare” ýerleşdirilen saýtlardan zeýrenýänleriň şahsy maglumatlaryny paýlaşýar.
+Käwagt hakyky şahsyýetiňizi bermegiňizi soraýarlar.
+Azar bermek, hüjüm etmek, aldamak ýa-da öldürmek islemeýän bolsaňyz, “Cloudflared” web sahypalaryndan daşda durmagyňyz has gowudyr.
 
 
 | 🖼 | 🖼 |
@@ -82,13 +85,15 @@ hakyky şahsyýetnamaňyz Azar bermek islemeýän bolsaňyz, [hüjüm edildi](ht
 ---
 
 <details>
-<summary> _ basyň
+<summary>maňa basyň
 
 ## Haýyr-sahawat goşantlaryny bilelikde soramak
 </summary>
 
 
-CloudFlare haýyr-sahawat goşantlary üçin soraýar (https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) Amerikan korporasiýasynyň gowy sebäpleri bolan telekeçilik däl guramalar bilen birlikde haýyr-sahawat soramagy gaty geň galdyryjy. [Adamlary petiklemek ýa-da başga adamlaryň wagtyny ýitirmek](PEOPLE.md) halaýan bolsaňyz, “Cloudflare” -iň işgärleri üçin käbir pizzalary zakaz edip bilersiňiz.
+“CloudFlare” haýyr-sahawat goşantlaryny soraýar.
+Amerikan korporasiýasynyň oňat sebäpleri bolan telekeçilik däl guramalar bilen birlikde haýyr-sahawat soramagy gaty gorkunçdyr.
+Adamlary petiklemek ýa-da başga adamlaryň wagtyny ýitirmek isleseňiz, “Cloudflare” -iň işgärleri üçin käbir pizzalary sargyt edip bilersiňiz.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -98,13 +103,15 @@ CloudFlare haýyr-sahawat goşantlary üçin soraýar (https://web.archive.org/w
 ---
 
 <details>
-<summary> _ basyň
+<summary>maňa basyň
 
 ## Saýtlary ýatyrmak
 </summary>
 
 
-Sahypaňyz birdenkä aşak düşse näme ederdiňiz? “Cloudflare” -iň [pozýandygy](https://twitter.com/stefan_eady/status/1126033791267426304) [ulanyjynyň](https://twitter.com/derivativeburke/status/903755267053117440) [konfigurasiýa](https://twitter.com/lordscarlet/status/1046785164792205314) ýa-da [duýduryş bermezden hyzmaty duruzmak](https://twitter.com/svolentin/status/1227324408475344896), [sessiz](https://twitter.com/BlnaryMlke/status/1194339461984854018). [Has gowy üpjün ediji](what-to-do.md) tapmagyňyzy maslahat berýäris.
+Sahypaňyz birden ýykylsa näme ederdiňiz?
+“Cloudflare” ulanyjynyň konfigurasiýasyny pozýar ýa-da hiç hili duýduryş bermezden hyzmaty duruzýar.
+Has gowy üpjün ediji tapmagyňyzy maslahat berýäris.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -113,59 +120,60 @@ Sahypaňyz birdenkä aşak düşse näme ederdiňiz? “Cloudflare” -iň [poz�
 ---
 
 <details>
-<summary> _ basyň
+<summary>maňa basyň
 
-## Brauzer satyjysynyň diskriminasiýasy
+## Brauzer satyjy diskriminasiýa
 </summary>
 
 
-“CloudFlare”, “Tor” -da brauzer däl ulanyjylara duşmançylykly çemeleşmek bilen, “Firefox” ulanýanlara artykmaçlyk berýär.
+“CloudFlare”, “Tor” -da brauzer däl ulanyjylara duşmançylykly çemeleşmek bilen, “Firefox” -y ulanýanlara artykmaçlyk berýär.
 Mugt däl javascript-i ýerine ýetirmekden ýüz öwürýän tor ulanyjylary hem duşmançylykly çemeleşýärler.
 Bu elýeterlilik deňsizligi, tor bitaraplygyndan hyýanatçylykly peýdalanmak we ygtyýarlykdan hyýanatçylykly peýdalanmak.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Çep: "Tor brauzeri", sagda: "Chrome". Birmeňzeş IP adresi.
+- Çepden: Tor brauzeri, sagda: Chrome. Birmeňzeş IP adresi.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Çepden: `[Tor brauzeri] Javascript ýapyk, gutapjyk işledildi '
-- Sagda: "[Chrome] Javascript açyk, kukiler ýapyk"
+- Çepden: Tor brauzeri Javascript ýapyk, Cookie açyk
+- Sagda: Chrome Javascript açyk, gutapjyk ýapyk
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - Tor (Clearnet IP) bolmasa QuteBrowser (kiçi brauzer)
 
-| *** Brauzer *** | *** Bejergi elýeterliligi *** |
+| ***Brauzer*** | ***Bejergi*** |
 | --- | --- |
-| Tor brauzeri (Javascript açyk) | girmäge rugsat berildi |
+| Tor Browser (Javascript açyk) | girmäge rugsat berilýär |
 | Firefox (Javascript açyk) | giriş peseldi |
-| Hrom (Javascript açyk) | giriş peseldi (Google reCAPTCHA iterýär) |
-| Hrom ýa-da Firefox (Javascript ýapyk) | girmek gadagan edildi (itýär * döwülýär * Google reCAPTCHA) |
-| Hrom ýa-da Firefox (Cookie ýapyk) | girmek gadagan |
-| QuteBrowser | girmek gadagan |
-| lynx | girmek gadagan |
-| w3m | girmek gadagan |
-| wget | girmek gadagan |
+| Chromium (Javascript açyk) | giriş peseldi |
+| Chromium or Firefox (Javascript ýapyk) | Giriş gadaganlandy |
+| Chromium or Firefox (Gutapjyk ýapyk) | Giriş gadaganlandy |
+| QuteBrowser | Giriş gadaganlandy |
+| lynx | Giriş gadaganlandy |
+| w3m | Giriş gadaganlandy |
+| wget | Giriş gadaganlandy |
 
 
-"_Näme üçin aňsat kynçylygy çözmek üçin Ses düwmesini ulanmaýarsyňyz? _"
+Ansat kynçylygy çözmek üçin näme üçin Audio düwmesini ulanmaly däl?
 
-Hawa, ses düwmesi bar, ýöne ol _ hemişe_ [Toruň üstünde işlemeýär](https://trac.torproject.org/projects/tor/ticket/23840). Bu habary basanyňyzda alarsyňyz:
+Hawa, ses düwmesi bar, ýöne Toruň üstünde hemişe işlemeýär.
+Bu habary basanyňyzda alarsyňyz:
 
-``
+```
 Soňrak synanyşyň
 Kompýuteriňiz ýa-da toruňyz awtomatiki talaplary iberip biler.
-Ulanyjylarymyzy goramak üçin haýyşyňyzy häzirlikçe işläp bilmeris.
+Ulanyjylarymyzy goramak üçin häzir haýyşyňyzy işläp bilmeris.
 Has giňişleýin maglumat üçin kömek sahypamyza giriň
-``
+```
 
 </details>
 
 ---
 
 <details>
-<summary> _ basyň
+<summary>maňa basyň
 
 ## Saýlawçylary basyp ýatyrmak
 </summary>
@@ -173,38 +181,44 @@ Has giňişleýin maglumat üçin kömek sahypamyza giriň
 
 ABŞ-nyň ştatlarynda saýlawçylar ahyrky netijede ýaşaýan ýerindäki döwlet sekretarynyň web sahypasy arkaly ses bermek üçin hasaba alynýarlar.
 Respublikanlaryň gözegçiligindäki döwlet sekretary edaralary, “Cloudflare” arkaly döwlet sekretarynyň web sahypasyna proksi bermek arkaly saýlawçylary basyp ýatyrmak bilen meşgullanýar.
-“Cloudflare” -iň Tor ulanyjylaryna duşmançylykly çemeleşmegi, MITM-iň merkezleşdirilen global gözegçilik nokady hökmünde pozisiýasy we umuman zyýanly roly
-boljak saýlawçylary hasaba alynmak islemeýär. Hususan-da liberallar şahsy durmuşyň eldegrilmesizligini kabul edýärler. Saýlawçylary hasaba alyş blankalary, saýlawçynyň syýasy nukdaýnazary, şahsy fiziki salgysy, sosial üpjünçilik belgisi we doglan senesi barada möhüm maglumatlary ýygnaýar.
-Ştatlaryň köpüsi diňe şol maglumatlaryň bir bölegini köpçülige elýeterli edýär, ýöne “Cloudflare” kimdir biri ses bermek üçin hasaba alnanda şol maglumatlary *** görýär.
+“Cloudflare” -iň Tor ulanyjylaryna duşmançylykly çemeleşmegi, MITM-iň merkezleşdirilen global gözegçilik nokady hökmünde pozisiýasy we zyýanly roly, geljekki saýlawçylary hasaba alynmak islemeýär.
+Hususan-da liberallar şahsy durmuşyň eldegrilmesizligini kabul edýärler.
+Saýlawçylary hasaba alyş blankalary, saýlawçynyň syýasy nukdaýnazary, şahsy fiziki salgysy, sosial üpjünçilik belgisi we doglan senesi barada möhüm maglumatlary ýygnaýar.
+Ştatlaryň köpüsi bu maglumatlaryň diňe bir bölegini köpçülige elýeterli edýär, ýöne “Cloudflare” kimdir biri ses bermek üçin hasaba alnanda şol maglumatlaryň hemmesini görýär.
 
-Kagyzlaryň hasaba alynmagy “Cloudflare” -den geçmeýär, sebäbi döwlet maglumat sekretarynyň işgärleri bu maglumatlary ulanar
-Maglumatlary girizmek üçin “Cloudflare” web sahypasy.
+Kagyzlaryň hasaba alynmagy “Cloudflare” -den geçmeýär, sebäbi maglumatlary girizmek üçin döwlet sekretarynyň işgärleri “Cloudflare” web sahypasyny ulanar.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org ses ýygnamak we çäre görmek üçin meşhur web sahypasydyr. "[hemme ýerdäki adamlar kampaniýalara başlaýarlar, goldawçylary ýygnaýarlar we çözgüt tapmak üçin karar berýänler bilen işleşýärler.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Gynansagam, “Cloudflare” -niň agressiw süzgüji sebäpli köp adam Change.org-a asla seredip bilmeýär. Olara haýyşa gol çekmek gadagan edilýär, şeýlelik bilen olary demokratik prosesden çykarýarlar. [OpenPetition](https://www.openpetition.eu/content/about_us) ýaly bulutly däl platforma ulanmak meseläni çözmäge kömek edýär.
+- Change.org ses ýygnamak we çäre görmek üçin meşhur web sahypasydyr.
+“hemme ýerdäki adamlar kampaniýalara başlaýarlar, goldawçylary ýygnaýarlar we çözgüt tapmak üçin karar berýänler bilen işleşýärler.”
+Gynansagam, “Cloudflare” -niň agressiw süzgüji sebäpli köp adam Change.org-a asla seredip bilmeýär.
+Olara haýyşnama gol çekmek gadagan edilýär, şeýlelik bilen olary demokratik prosesden çykarýarlar.
+“OpenPetition” ýaly bulutly däl platformany ulanmak meseläni çözmäge kömek edýär.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- “Cloudflare” -niň “[Afiny taslamasy](https://www.cloudflare.com/athenian/)” ştat we ýerli saýlaw web sahypalaryna kärhana derejesinde mugt gorag hödürleýär. "Saýlawçylary saýlaw maglumatlaryna we saýlawçylary bellige aldyryp bilerler" diýdiler, ýöne bu ýalan, sebäbi köp adam sahypa asla seredip bilmeýär.
+- “Cloudflare” -niň “Afiny taslamasy” döwlet we ýerli saýlaw web sahypalaryna mugt kärhana derejesinde gorag hödürleýär.
+"Saýlawçylary saýlaw maglumatlaryna we saýlawçylary bellige alyp bilerler" diýdiler, ýöne bu ýalan, sebäbi köp adam sahypa asla seredip bilmeýär.
 
 </details>
 
 ---
 
 <details>
-<summary> _ basyň
+<summary>maňa basyň
 
 ## Ulanyjynyň islegine ähmiýet bermezlik
 </summary>
 
 
-Bir zady ret etseňiz, bu hakda e-poçta almajakdygyňyza garaşýarsyňyz. “Cloudflare” ulanyjynyň islegini äsgermezlik edýär we maglumatlary üçünji tarap korporasiýalary bilen [müşderiniň razylygy bolmazdan] paýlaşýar (https://twitter.com/thexpaw/status/1108424723233419264) Mugt meýilnamasyny ulanýan bolsaňyz, käwagt abuna ýazylmagyny haýyş edip size e-poçta iberýärler.
+Bir zady ret etseňiz, bu hakda e-poçta almajakdygyňyza garaşýarsyňyz.
+“Cloudflare” ulanyjynyň islegini äsgermezlik edýär we müşderiniň razylygy bolmazdan üçünji tarap korporasiýalary bilen maglumatlary paýlaşýar.
+Mugt meýilnamasyny ulanýan bolsaňyz, käwagt abuna ýazylmagyny haýyş edip size e-poçta iberýärler.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -213,49 +227,54 @@ Bir zady ret etseňiz, bu hakda e-poçta almajakdygyňyza garaşýarsyňyz. “C
 ---
 
 <details>
-<summary> _ basyň
+<summary>maňa basyň
 
 ## Ulanyjynyň maglumatlaryny pozmak barada ýalan sözlemek
 </summary>
 
 
-Bu [öňki bulutly müşderiniň blogy](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/) laýyklykda, Cloudflare hasaplary pozmak barada ýalan sözleýär. Häzirki wagtda hasabyňyzy ýapanyňyzdan ýa-da aýyranyňyzdan soň köp [kompaniýalar maglumatlaryňyzy saklaýar](https://justdeleteme.xyz/). Gowy kompaniýalaryň köpüsi bu barada gizlinlik ýörelgelerinde ýatlaýarlar. Bulut? No.ok.
+Öňki “cloudflare” müşderisiniň blogyna görä, “Cloudflare” hasaplary pozmak barada ýalan sözleýär.
+Häzirki wagtda hasaby ýapanyňyzdan ýa-da aýyranyňyzdan soň köp kompaniýalar maglumatlaryňyzy saklaýarlar.
+Gowy kompaniýalaryň köpüsi bu barada gizlinlik ýörelgelerinde ýatlaýarlar.
+Bulut? No.ok.
 
-``
+```
 2019-08-05 CloudFlare hasabymy aýyrjakdyklaryny tassyklady.
 2019-10-02 CloudFlare-den "men müşderi bolanym üçin" e-poçta aldym
-``
+```
 
-Cloudflare "aýyrmak" sözi hakda bilmeýärdi. Eger hakykatdanam _ aýrylan bolsa, näme üçin bu öňki müşderi e-poçta aldy? Şeýle hem, “Cloudflare” -niň gizlinlik ýörelgesinde bu barada agzalmaýandygyny aýtdy.
+“Cloudflare” “aýyrmak” sözi hakda bilmeýärdi.
+Eger hakykatdanam aýyrylan bolsa, näme üçin bu öňki müşderi e-poçta aldy?
+Şeýle hem, “Cloudflare” -niň gizlinlik ýörelgesinde bu barada agzalmaýandygyny aýtdy.
 
-``
+```
 Täze gizlinlik syýasaty, bir ýyllap maglumatlary saklamak barada hiç zat aýtmaýar.
-``
+```
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-[Gizlinlik syýasaty LIE bolsa) “Cloudflare” nädip ynanyp bilersiňiz (https://twitter.com/daviddlow/status/1197787135526555648)
+Gizlinlik syýasaty LIE bolsa, “Cloudflare” nädip ynanyp bilersiňiz?
 
 </details>
 
 ---
 
 <details>
-<summary> _ basyň
+<summary>maňa basyň
 
 ## Şahsy maglumatlaryňyzy saklaň
 </summary>
 
 
-“Cloudflare” hasabyny pozmak [gaty dereje](https://justdeleteme.xyz/).
+“Cloudflare” hasabyny pozmak gaty kyn.
 
-``
+```
 "Hasap" kategoriýasyny ulanyp, goldaw biletini iberiň,
-we habarlar bölüminde hasabyň öçürilmegini haýyş ediň.
-Öçürilmegini talap etmezden ozal hasabyňyza domen ýa-da kredit kartoçkalary bolmaly däldir.
-``
+we habar bölüminde hasabyň öçürilmegini haýyş ediň.
+Öçürilmegini talap etmezden ozal hasabyňyzda domen ýa-da kredit kartoçkalary bolmaly däldir.
+```
 
-Bu tassyklama e-poçta alarsyňyz (https://twitter.com/originalesushi/status/1199041528414527495)
+Bu tassyklama e-poçta alarsyňyz.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
@@ -267,7 +286,7 @@ Muňa "ynanyp" bilersiňizmi?
 
 ---
 
-## Indiki sahypa dowam etmegiňizi haýyş edýäris: "[Cloudflare Voices](../PEOPLE.md)"
+## Indiki sahypa dowam etmegiňizi haýyş edýäris:   [Bulut sesleri](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

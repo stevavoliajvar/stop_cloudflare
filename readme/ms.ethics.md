@@ -3,20 +3,20 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Jangan menyokong syarikat ini yang tidak mempunyai etika_"
+"Jangan menyokong syarikat ini yang tidak mempunyai etika"
 
-"_Syarikat anda tidak boleh dipercayai. Anda mengaku menegakkan DMCA tetapi mempunyai banyak tuntutan undang-undang kerana tidak melakukannya._"
+"Syarikat anda tidak boleh dipercayai. Anda mengaku menguatkuasakan DMCA tetapi mempunyai banyak tuntutan mahkamah kerana tidak melakukannya."
 
-"_Mereka hanya menapis mereka yang mempersoalkan etika mereka._"
+"Mereka hanya menapis mereka yang mempersoalkan etika mereka."
 
-"_Saya rasa sebenarnya tidak selesa dan lebih baik disembunyikan dari pandangan umum._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Saya rasa kebenaran itu menyusahkan dan lebih baik disembunyikan dari pandangan orang ramai."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
-<maklumat>
-<summary> _klik saya_
+<details>
+<summary>klik saya
 
 ## CloudFlare mengancam orang
 </summary>
@@ -24,12 +24,12 @@
 
 Cloudflare menghantar e-mel spam kepada pengguna bukan Cloudflare.
 
-- Hantarkan e-mel hanya kepada pelanggan yang memilih
+- Hantar e-mel hanya kepada pelanggan yang telah memilih
 - Apabila pengguna mengatakan "berhenti", kemudian berhenti menghantar e-mel
 
 Sederhana itu. Tetapi Cloudflare tidak peduli.
-Cloudflare berkata menggunakan perkhidmatan mereka [dapat menghentikan semua spammer atau penyerang](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers- ).
-Bagaimana kita boleh menghentikan _Cloudflare spammers_ tanpa mengaktifkan Cloudflare?
+Cloudflare mengatakan bahawa menggunakan perkhidmatan mereka dapat menghentikan semua spammer atau penyerang.
+Bagaimana kita boleh menghentikan Cloudflare tanpa mengaktifkan Cloudflare?
 
 
 | 🖼 | 🖼 |
@@ -41,14 +41,16 @@ Bagaimana kita boleh menghentikan _Cloudflare spammers_ tanpa mengaktifkan Cloud
 
 ---
 
-<maklumat>
-<summary> _klik saya_
+<details>
+<summary>klik saya
 
 ## Alih keluar ulasan pengguna
 </summary>
 
 
-Penapis Cloudflare [ulasan negatif](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Sekiranya anda menghantar teks _anti-Cloudflare_ di Twitter, anda berpeluang mendapatkan [balasan](https://twitter.com/CloudflareHelp/status/1126051764917145601) dari [pekerja Cloudflare](cloudflare_inc/cloudflare_members.txt) dengan "_[Tidak, bukan](PEOPLE.md) _ "mesej. Sekiranya anda menyiarkan ulasan negatif di mana-mana laman web ulasan, mereka akan cuba [menyensor](https://twitter.com/phyzonloop/status/1178836176985366529) [itu](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+Ulasan negatif penapis Cloudflare.
+Sekiranya anda menghantar teks anti-Cloudflare di Twitter, anda berpeluang mendapatkan balasan daripada pekerja Cloudflare dengan mesej "Tidak, bukan".
+Sekiranya anda menyiarkan ulasan negatif di mana-mana laman web ulasan, mereka akan cuba menapisnya.
 
 
 | 🖼 | 🖼 |
@@ -59,16 +61,17 @@ Penapis Cloudflare [ulasan negatif](https://web.archive.org/web/20191116004046/h
 
 ---
 
-<maklumat>
-<summary> _klik saya_
+<details>
+<summary>klik saya
 
-## Pengguna doxxing
+## Kongsi maklumat peribadi pengguna
 </summary>
 
 
-Cloudflare mempunyai [masalah gangguan] yang besar (https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -fake-names-2017-5).
-Cloudflare [berkongsi maklumat peribadi](https://archive.ph/ePdvi) mereka [yang](https://twitter.com/ZJemptv/status/898299709634248704) [mengeluh](https://twitter.com/TinyPirate/status/554718958176067584) [mengenai](https://twitter.com/remembrancermx/status/1010329041235148802) [dihoskan](https://twitter.com/Bridaguy/status/915003769280172037) [laman web](https://twitter .com/HelloAndrew/status/897260208845500416). Mereka kadang-kadang meminta anda memberikan
-ID sebenar anda. Sekiranya anda tidak mahu diganggu, [diserang](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) atau [dibunuh](https://twitter.com/RusEmbUSA/status/1187363092793040901), lebih baik anda menjauhkan diri dari laman web Cloudflared.
+Cloudflare mempunyai masalah gangguan besar-besaran.
+Cloudflare berkongsi maklumat peribadi mereka yang mengadu mengenai laman web yang dihoskan.
+Kadang-kadang mereka meminta anda memberikan ID sebenar anda.
+Sekiranya anda tidak mahu diganggu, diserang, disapu atau dibunuh, lebih baik anda menjauhkan diri dari laman web Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -81,14 +84,16 @@ ID sebenar anda. Sekiranya anda tidak mahu diganggu, [diserang](https://twitter.
 
 ---
 
-<maklumat>
-<summary> _klik saya_
+<details>
+<summary>klik saya
 
-## Permintaan korporat sumbangan amal
+## Permintaan korporat untuk sumbangan amal
 </summary>
 
 
-CloudFlare [meminta](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) untuk sumbangan amal. Amat mengerikan apabila sebuah syarikat Amerika akan meminta amal bersama dengan organisasi bukan keuntungan yang mempunyai tujuan baik. Sekiranya anda suka [menyekat orang atau membuang masa orang lain](PEOPLE.md), anda mungkin ingin memesan beberapa pizza untuk pekerja Cloudflare.
+CloudFlare meminta sumbangan amal.
+Amat mengerikan bahawa sebuah syarikat Amerika akan meminta amal bersama dengan organisasi bukan keuntungan yang mempunyai tujuan yang baik.
+Sekiranya anda suka menyekat orang atau membuang masa orang lain, anda mungkin ingin memesan beberapa pizza untuk pekerja Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -97,14 +102,16 @@ CloudFlare [meminta](https://web.archive.org/web/20191112033605/https://opencoll
 
 ---
 
-<maklumat>
-<summary> _klik saya_
+<details>
+<summary>klik saya
 
 ## Menamatkan laman web
 </summary>
 
 
-Apa yang akan anda lakukan sekiranya laman web anda jatuh secara tiba-tiba_? Terdapat laporan bahawa Cloudflare [menghapus](https://twitter.com/stefan_eady/status/1126033791267426304) [pengguna](https://twitter.com/derivativeburke/status/903755267053117440) [konfigurasi](https://twitter.com/lordscarlet/status/1046785164792205314) atau [menghentikan perkhidmatan tanpa sebarang amaran](https://twitter.com/svolentin/status/1227324408475344896), [senyap](https://twitter.com/BlnaryMlke/status/1194339461984854018). Kami mencadangkan anda mencari [penyedia yang lebih baik](what-to-do.md).
+Apa yang akan anda lakukan sekiranya laman web anda hilang secara tiba-tiba?
+Terdapat laporan bahawa Cloudflare menghapus konfigurasi pengguna atau menghentikan perkhidmatan tanpa sebarang amaran, secara senyap.
+Kami mencadangkan anda mencari pembekal yang lebih baik.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -112,8 +119,8 @@ Apa yang akan anda lakukan sekiranya laman web anda jatuh secara tiba-tiba_? Ter
 
 ---
 
-<maklumat>
-<summary> _klik saya_
+<details>
+<summary>klik saya
 
 ## Diskriminasi vendor penyemak imbas
 </summary>
@@ -125,47 +132,48 @@ Ketidaksamaan akses ini adalah penyalahgunaan netraliti rangkaian dan penyalahgu
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Kiri: `Penyemak Imbas Tor ', Kanan:` Chrome`. Alamat IP yang sama.
+- Kiri: Penyemak Imbas Tor, Kanan: Chrome. Alamat IP yang sama.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Kiri: `[Tor Browser] Javascript Disabled, Cookie Enabled`
-- Kanan: "[Chrome] Javascript Diaktifkan, Cookie Dinyahdayakan"
+- Kiri: Javascript Penyemak Imbas Dinyahdayakan, Kuki Diaktifkan
+- Kanan: Javascript Chrome Diaktifkan, Kuki Dinyahaktifkan
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (penyemak imbas kecil) tanpa Tor (Clearnet IP)
 
-| *** Penyemak Imbas *** | *** Akses rawatan *** |
+| ***Penyemak Imbas*** | ***Akses rawatan*** |
 | --- | --- |
-| Penyemak Imbas Tor (Javascript diaktifkan) | akses dibenarkan |
-| Firefox (Javascript didayakan) | akses merosot |
-| Chromium (Javascript didayakan) | akses menurun (mendorong Google reCAPTCHA) |
-| Chromium atau Firefox (Javascript dilumpuhkan) | akses ditolak (tolakan * rosak * Google reCAPTCHA) |
-| Chromium atau Firefox (Kuki dilumpuhkan) | akses ditolak |
-| QuteBrowser | akses ditolak |
-| lynx | akses ditolak |
-| w3m | akses ditolak |
-| wget | akses ditolak |
+| Tor Browser (Javascript diaktifkan) | akses dibenarkan |
+| Firefox (Javascript diaktifkan) | akses merosot |
+| Chromium (Javascript diaktifkan) | akses merosot |
+| Chromium or Firefox (Javascript dilumpuhkan) | akses dinafikan |
+| Chromium or Firefox (Kuki dilumpuhkan) | akses dinafikan |
+| QuteBrowser | akses dinafikan |
+| lynx | akses dinafikan |
+| w3m | akses dinafikan |
+| wget | akses dinafikan |
 
 
-"_Mengapa tidak menggunakan butang Audio untuk menyelesaikan cabaran mudah? _"
+Mengapa tidak menggunakan butang Audio untuk menyelesaikan cabaran mudah?
 
-Ya, ada butang audio, tetapi _always_ [tidak berfungsi melebihi Tor](https://trac.torproject.org/projects/tor/ticket/23840). Anda akan mendapat mesej ini apabila anda mengkliknya:
+Ya, ada butang audio, tetapi tidak selalu berfungsi berbanding Tor.
+Anda akan mendapat mesej ini apabila anda mengkliknya:
 
-"
+```
 Cuba lagi nanti
 Komputer atau rangkaian anda mungkin menghantar pertanyaan automatik.
 Untuk melindungi pengguna kami, kami tidak dapat memproses permintaan Anda sekarang.
 Untuk maklumat lebih lanjut, lawati halaman bantuan kami
-"
+```
 
 </details>
 
 ---
 
-<maklumat>
-<summary> _klik saya_
+<details>
+<summary>klik saya
 
 ## Penindasan pengundi
 </summary>
@@ -173,38 +181,44 @@ Untuk maklumat lebih lanjut, lawati halaman bantuan kami
 
 Pengundi di negeri AS mendaftar untuk memilih akhirnya melalui laman web setiausaha negara di negeri tempat tinggal mereka.
 Pejabat setiausaha negara yang dikendalikan oleh Republikan terlibat dalam penindasan pengundi dengan melayari laman web setiausaha negara melalui Cloudflare.
-Perlakuan Cloudflare terhadap pengguna Tor, kedudukan MITM sebagai titik pengawasan global terpusat, dan peranannya yang merugikan secara keseluruhan
-menjadikan calon pengundi enggan mendaftar. Kaum liberal khususnya cenderung merangkul privasi. Borang pendaftaran pemilih mengumpulkan maklumat sensitif mengenai kecenderungan politik pengundi, alamat fizikal peribadi, nombor keselamatan sosial, dan tarikh lahir.
-Sebilangan besar negeri hanya menyediakan sebahagian daripada maklumat tersebut untuk umum, tetapi Cloudflare melihat semua maklumat itu ketika seseorang mendaftar untuk mengundi.
+Perlakuan Cloudflare yang memusuhi pengguna Tor, kedudukan MITMnya sebagai titik pengawasan global terpusat, dan peranannya yang merugikan secara keseluruhan menjadikan calon pemilih enggan mendaftar.
+Kaum liberal khususnya cenderung untuk menjaga privasi.
+Borang pendaftaran pemilih mengumpulkan maklumat sensitif mengenai kecenderungan politik pengundi, alamat fizikal peribadi, nombor keselamatan sosial, dan tarikh lahir.
+Sebilangan besar negeri hanya menyediakan sebahagian daripada maklumat tersebut untuk umum, tetapi Cloudflare melihat semua maklumat itu ketika seseorang mendaftar untuk memilih.
 
-Perhatikan bahawa pendaftaran kertas tidak melanggar Cloudflare kerana pekerja kakitangan kemasukan data setiausaha negara kemungkinan akan menggunakan
-Laman web Cloudflare untuk memasukkan data.
+Perhatikan bahawa pendaftaran kertas tidak melanggar Cloudflare kerana pekerja kakitangan kemasukan data setiausaha negara kemungkinan akan menggunakan laman web Cloudflare untuk memasukkan data.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org adalah laman web terkenal untuk mengumpulkan undi dan mengambil tindakan. "[orang di mana-mana memulakan kempen, menggerakkan penyokong, dan bekerjasama dengan pembuat keputusan untuk mencari jalan keluar.]
-Malangnya, banyak orang tidak dapat melihat perubahan.org sama sekali kerana penapis agresif Cloudflare. Mereka dihalangi menandatangani petisyen tersebut, sehingga mengecualikannya dari proses demokrasi. Menggunakan platform bukan awan lain seperti [OpenPetition](https://www.openpetition.eu/content/about_us) membantu menyelesaikan masalah tersebut.
+- Change.org adalah laman web terkenal untuk mengumpulkan undi dan mengambil tindakan.
+“orang di mana sahaja memulakan kempen, menggerakkan penyokong, dan bekerjasama dengan pembuat keputusan untuk mencari jalan keluar.”
+Malangnya, banyak orang tidak dapat melihat perubahan.org sama sekali kerana penapis agresif Cloudflare.
+Mereka dihalangi menandatangani petisyen itu, sehingga mengecualikannya dari proses demokrasi.
+Menggunakan platform non-cloudflared lain seperti OpenPetition membantu menyelesaikan masalah tersebut.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- "[Projek Athena] Cloudflare (https://www.cloudflare.com/athenian/)" menawarkan perlindungan peringkat perusahaan percuma ke laman web pilihan raya negeri dan tempatan. Mereka mengatakan "_pengundi mereka dapat mengakses maklumat pilihan raya dan pendaftaran pemilih_" tetapi ini adalah pembohongan kerana banyak orang sama sekali tidak dapat melayari laman web ini sama sekali.
+- "Athenian Project" Cloudflare menawarkan perlindungan peringkat perusahaan percuma ke laman web pilihan raya negeri dan tempatan.
+Mereka mengatakan "konstituen mereka dapat mengakses maklumat pilihan raya dan pendaftaran pemilih" tetapi ini adalah pembohongan kerana banyak orang tidak dapat melayari laman web ini sama sekali.
 
 </details>
 
 ---
 
-<maklumat>
-<summary> _klik saya_
+<details>
+<summary>klik saya
 
 ## Mengabaikan pilihan pengguna
 </summary>
 
 
-Sekiranya anda memilih untuk tidak memilih sesuatu, anda tidak akan menerima e-mel mengenainya. Cloudflare mengabaikan pilihan pengguna dan berkongsi data dengan syarikat pihak ketiga [tanpa persetujuan pelanggan](https://twitter.com/thexpaw/status/1108424723233419264). Sekiranya anda menggunakan pelan percuma mereka, kadangkala mereka akan menghantar e-mel kepada anda meminta membeli langganan bulanan.
+Sekiranya anda memilih untuk tidak memilih sesuatu, anda tidak akan menerima e-mel mengenainya.
+Cloudflare mengabaikan pilihan pengguna dan berkongsi data dengan syarikat pihak ketiga tanpa persetujuan pelanggan.
+Sekiranya anda menggunakan pelan percuma mereka, kadangkala mereka akan menghantar e-mel kepada anda yang meminta untuk membeli langganan bulanan.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -212,50 +226,55 @@ Sekiranya anda memilih untuk tidak memilih sesuatu, anda tidak akan menerima e-m
 
 ---
 
-<maklumat>
-<summary> _klik saya_
+<details>
+<summary>klik saya
 
-## Berbohong tentang menghapus data pengguna
+## Berbohong mengenai pemadaman data pengguna
 </summary>
 
 
-Menurut [blog pelanggan ex-cloudflare] ini (https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare berbohong mengenai penghapusan akaun. Pada masa kini, banyak [syarikat menyimpan data anda](https://justdeleteme.xyz/) setelah anda menutup atau membuang akaun anda. Sebilangan besar syarikat yang baik menyebutkannya dalam dasar privasi mereka. Cloudflare? Tidak.
+Menurut blog pelanggan ex-cloudflare ini, Cloudflare berbohong mengenai penghapusan akaun.
+Pada masa kini, banyak syarikat menyimpan data anda setelah anda menutup atau membuang akaun anda.
+Sebilangan besar syarikat yang baik menyebutkannya dalam polisi privasi mereka.
+Cloudflare? Tidak.
 
-"
-2019-08-05 CloudFlare menghantar pengesahan kepada saya bahawa mereka telah membuang akaun saya.
+```
+2019-08-05 CloudFlare menghantar saya pengesahan bahawa mereka telah membuang akaun saya.
 2019-10-02 Saya menerima e-mel dari CloudFlare "kerana saya adalah pelanggan"
-"
+```
 
-Cloudflare tidak tahu mengenai perkataan "buang". Sekiranya benar-benar_dihapus_, mengapa bekas pelanggan ini mendapat e-mel? Dia juga menyebut bahawa dasar privasi Cloudflare tidak menyebut tentangnya.
+Cloudflare tidak tahu mengenai perkataan "buang".
+Sekiranya ia benar-benar dikeluarkan, mengapa bekas pelanggan ini mendapat e-mel?
+Dia juga menyebut bahawa dasar privasi Cloudflare tidak menyebut tentangnya.
 
-"
+```
 Dasar privasi baru mereka tidak menyebut tentang menyimpan data selama setahun.
-"
+```
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Bagaimana anda boleh mempercayai Cloudflare jika [dasar privasi mereka adalah LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+Bagaimana anda boleh mempercayai Cloudflare jika dasar privasi mereka adalah LIE?
 
 </details>
 
 ---
 
-<maklumat>
-<summary> _klik saya_
+<details>
+<summary>klik saya
 
 ## Simpan maklumat peribadi anda
 </summary>
 
 
-Menghapus akaun Cloudflare adalah [tahap keras](https://justdeleteme.xyz/).
+Memadamkan akaun Cloudflare adalah tahap sukar.
 
-"
-Kirim tiket sokongan menggunakan kategori "Akaun",
+```
+Kirimkan tiket sokongan menggunakan kategori "Akaun",
 dan meminta penghapusan akaun di badan mesej.
 Anda mesti tidak mempunyai domain atau kad kredit yang dilampirkan ke akaun anda sebelum meminta penghapusan.
-"
+```
 
-Anda akan [menerima e-mel pengesahan ini](https://twitter.com/originalesushi/status/1199041528414527495).
+Anda akan menerima e-mel pengesahan ini.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
@@ -267,7 +286,7 @@ Bolehkah anda "mempercayai" ini?
 
 ---
 
-## Sila terus ke halaman seterusnya: "[Cloudflare Voices](../PEOPLE.md)"
+## Sila terus ke halaman seterusnya:   [Cloudflare Suara](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

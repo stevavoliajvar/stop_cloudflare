@@ -1,22 +1,22 @@
-# Prublemi Etichi
+# Quistioni Etiche
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Ùn sustene sta sucetà chì hè nulla di etica_"
+"Ùn sustene micca sta sucetà chì hè nulla di etica"
 
-"A vostra cumpagnia ùn hè di fiducia. Diciuli di rinfurzà a DMCA, ma avè parechji diritti per ùn fà cusì._"
+"A vostra cumpagnia ùn hè micca fiduciale. Avete dichjarazione di rinfurzà DMCA, ma hà parechje demanda per ùn fà micca."
 
-"_Ils solu censuranu quelli chì interruganu a so etica._"
+"Ci censuranu solu quelli chì interruganu a so etica."
 
-"_Credu chì a verità hè inconveniente è megliu nascosta à a vista publica._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Pensu chì a verità hè inconveniente è megliu nascosta à a vista pubblica."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
-<dettagli>
-<summary> _click me_
+<details>
+<summary>cliccate mi
 
 ## CloudFlare spams a ghjente
 </summary>
@@ -24,12 +24,12 @@
 
 Cloudflare invià e-mail di spam à utilizatori non Cloudflare.
 
-- Invia solu email à l'abbonati chì anu optatu
-- Quandu l'utilizatore dice "stop", allora cessate di mandà un mail
+- Inviate solu email à l'abbonati chì anu optatu
+- Quandu l'utilizatore dice "stop", allughjate da invià un mail
 
 Hè cusì simplice. Ma Cloudflare ùn importa micca.
-Cloudflare hà dettu u so serviziu [pò detene tutti i spammers o attaccanti](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers- ).
-Cumu pudemu parità _Cloudflare spammers_ senza attivà Cloudflare?
+Cloudflare hà dettu chì l'usu di u so serviziu pò fà piantà tutti i spammers o l'attaccanti.
+Cumu pudemu parità Cloudflare senza attivà Cloudflare?
 
 
 | 🖼 | 🖼 |
@@ -41,14 +41,16 @@ Cumu pudemu parità _Cloudflare spammers_ senza attivà Cloudflare?
 
 ---
 
-<dettagli>
-<summary> _click me_
+<details>
+<summary>cliccate mi
 
-## Elimina a revue d'utilizatore
+## Elimina a critica di l'utilizatore
 </summary>
 
 
-Censore di Cloudflare [critichi negativi](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Se pubblicate _anti-Cloudflare_ testu in Twitter, avete a pussibilità di ottene una [risposta](https://twitter.com/CloudflareHelp/status/1126051764917145601) da [impiegatu Cloudflare](cloudflare_inc/cloudflare_members.txt) cù "_[No, ùn hè micca](PEOPLE.md) _ "missaghju. Se pubblicate una recensione negativa nantu à qualsiasi situ di review, provaranu di [censurà](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+Criteri Cloudflare censor negativu.
+Se pubblicate un testu anti-Cloudflare in Twitter, avete a pussibilità di ottene una risposta da l'impiegatu Cloudflare cù u "No, ùn hè micca".
+Se pubblicate una recensione negativa in qualsiasi situ di recensione, pruvateranu di censurà.
 
 
 | 🖼 | 🖼 |
@@ -59,16 +61,17 @@ Censore di Cloudflare [critichi negativi](https://web.archive.org/web/2019111600
 
 ---
 
-<dettagli>
-<summary> _click me_
+<details>
+<summary>cliccate mi
 
-## Utenti di puzza
+## Compartite l'infurmazioni privati ​​di l'utilizatori
 </summary>
 
 
-Cloudflare hà un massiccia [prublema di fastidiu](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -fake-names-2017-5).
-Cloudflare [comparte infurmazione persunale](https://archive.ph/ePdvi) di quelli [chì](https://twitter.com/ZJemptv/status/898299709634248704) [lagnà](https://twitter.com/TinyPirate/status/554718958176067584) [circa](https://twitter.com/remembrancermx/status/1010329041235148802) [hosted](https://twitter.com/Bridaguy/status/915003769280172037) [siti](https://twitter .com/HelloAndrew/status/897260208845500416). Qualchissia vi dumandanu di furniscia
-u vostru veru ID. Se ùn vulete micca esse ingannatu, [assaltatu](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) o [uccisu](https://twitter.com/RusEmbUSA/status/1187363092793040901), megliu stà luntanu da i siti web Cloudflared.
+Cloudflare hà un prublema di molestamentu massivu.
+Cloudflare sparta infurmazione persunale di quelli chì si lamentanu di siti ospitati.
+Vi dumandanu certi volte à furnisce u vostru veru ID.
+Se ùn vulete micca esse ingannatu, assaltatu, sbattulatu o uccisu, megliu stà luntanu da i siti web Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -81,14 +84,16 @@ u vostru veru ID. Se ùn vulete micca esse ingannatu, [assaltatu](https://twitte
 
 ---
 
-<dettagli>
-<summary> _click me_
+<details>
+<summary>cliccate mi
 
-## Solicitazione aziendale di cuntribuzioni caritatevoli
+## Solicitazione corporativa di cuntribuzioni di carità
 </summary>
 
 
-CloudFlare sta [richiede](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) per i contributi caritatevoli. Hè abbastanza appassiante chì una corporazione americana avissi dumandà a carità à fiancu à l'urganizazioni non lucrativi chì anu boni cause. Se vi piace [bloccà e persone o perde u tempu di altre persone](PEOPLE.md), puderebbe urdinà qualchì pizze🍕 per i dipendenti di Cloudflare.
+CloudFlare si dumanda di cuntribuzioni di carità.
+Hè abbastanza appassiante chì una corporazione americana averà dumandatu a carità à fiancu à l'urganizazioni non lucrativi chì anu boni cause.
+Se vi piace bluccatu e persone o perde u tempu d'altri persone, puderebbe vulete ordene alcune pizze per l'impiegati di Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -97,14 +102,16 @@ CloudFlare sta [richiede](https://web.archive.org/web/20191112033605/https://ope
 
 ---
 
-<dettagli>
-<summary> _click me_
+<details>
+<summary>cliccate mi
 
-## siti di terminazione
+## Siti di terminazione
 </summary>
 
 
-Cosa farete se u vostru situ falà _suddenly_? Ci hè rapporti chì Cloudflare hè [eliminazione](https://twitter.com/stefan_eady/status/1126033791267426304) [utilizatore](https://twitter.com/derivativeburke/status/903755267053117440) [cunfigurazione](https://twitter.com/lordscarlet/status/1046785164792205314) o [servizio di interruzione senza avvertimento](https://twitter.com/svolentin/status/1227324408475344896), [in silenzioso](https://twitter.com/BlnaryMlke/status/1194339461984854018). Vi consigliemu di truvà [megliu fornitore](ciò chì- à-do.md).
+Cosa farete se u vostru situ falò di colpu?
+Ci hè i raporti chì Cloudflare elimina a cunfigurazione di l'utente o arresta u serviziu senza alcun avvisu, silenziosamente.
+Vi consigliemu di truvà un megliu fornitore.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -112,10 +119,10 @@ Cosa farete se u vostru situ falà _suddenly_? Ci hè rapporti chì Cloudflare h
 
 ---
 
-<dettagli>
-<summary> _click me_
+<details>
+<summary>cliccate mi
 
-## discriminazione di u venditore in navigatore
+## A discriminazione di u venditore in navigatore
 </summary>
 
 
@@ -125,33 +132,34 @@ Questa inuguaglianza d'accessu hè un abusu di a neutralità di a rete è un abu
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Left: `Tor Browser`, Right:` Chrome`. U stessu indirizzu IP.
+- Sinistra: Tor Browser, A diritta: Chrome. U stessu indirizzu IP.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Left: `[Tor Browser] Javascript Disabled, Cookie Abilitatu`
-- Right: `[Chrome] attivatu Javascript, Cookie Disabilitatu '
+- Left: Tor Browser Javascript Disabled, Cookie Abilitatu
+- Right: Chrome Activatu Javascript, Cookie Disattivatu
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
-- QuteBrowser (navigatore minore) senza Tor (IP Clearnet)
+- QuteBrowser (navigatore minore) senza Tor (Clearnet IP)
 
-| *** Browser *** | *** Trattamentu di accessu *** |
+| ***Browser*** | ***Trattamentu di accessu*** |
 | --- | --- |
-| Browser Tor (Javascript attivatu) | accessu permessu |
-| Firefox (Javascript attivatu) | accessu degradatu |
-| Chromium (Javascript attivatu) | accessu degradatu (push Google reCAPTCHA) |
-| Chromium o Firefox (Javascript disattivatu) | accessu ricusatu (push * broken * Google reCAPTCHA) | |
-| Chromium o Firefox (Cookie disattivatu) | accessu ricusatu |
+| Tor Browser (Javascript hà attivatu) | accessu permessu |
+| Firefox (Javascript hà attivatu) | accessu degradatu |
+| Chromium (Javascript hà attivatu) | accessu degradatu |
+| Chromium or Firefox (Javascript hè disattivatu) | accessu ricusatu |
+| Chromium or Firefox (Cookie disattivatu) | accessu ricusatu |
 | QuteBrowser | accessu ricusatu |
-| lince | accessu ricusatu |
+| lynx | accessu ricusatu |
 | w3m | accessu ricusatu |
 | wget | accessu ricusatu |
 
 
-"_Perchè ùn aduprate u buttone Audio per risolve a sfida faciule? _"
+Perchè ùn utilizate micca u buttone Audio per risolve a sfida faciule?
 
-Iè, ci hè un buttone audio, ma _always_ [ùn funziona micca più nantu à Tor](https://trac.torproject.org/projects/tor/ticket/23840). Puderete vene sta messa quandu fate un clic:
+Iè, ci hè un buttone audio, ma ùn sempre funziona annantu à Tor.
+Puderete vene questu messagiu quandu u fate cliccà:
 
 ```
 Pruvate dopu più tardi
@@ -164,8 +172,8 @@ Per più infurmazione visitate a nostra pagina d'aiutu
 
 ---
 
-<dettagli>
-<summary> _click me_
+<details>
+<summary>cliccate mi
 
 ## Suppressione di u votante
 </summary>
@@ -173,38 +181,44 @@ Per più infurmazione visitate a nostra pagina d'aiutu
 
 U votanti in i stati di i Stati Uniti s'hè registratu per vutà ultimamente à traversu u situ di u secretariu di u statu in a so residenza.
 Uffizii di secretariu di statu cuntrullati da i Republicani participanu à a suppressione di l'elettori in prova di u situ web di u secretariu di statu à traversu Cloudflare.
-U trattamentu ostili di Cloudflare à l'utenti di Tor, a so pusizione MITM cum'è un puntu di sorveglianza globale centralizatu, è u so rolu detrimentale in generale
-faci chì i potentisti eletti sò riluttanti à registrà. I liberali in particulare tendenu à abbraccià a privacy. I formi di registrazione di u votante recullanu informazioni sensibule nantu à l'inclinazione pulitica di un votante, l'indirizzu fisicu persunale, u numeru di securità suciale, è a data di nascita.
-A maiò parte di i stati facenu solu un sottumessu di quella informazione dispunibile à u publicu, ma Cloudflare vede *** tutte l'informazioni quandu qualchissia se registra per vutà.
+U trattamentu ostili di Cloudflare à l'utenti di Tor, a so pusizione MITM cum'è un puntu di sorveglianza globale centralizatu, è u so rolu pregiudiziale in generale fa chì i votanti riesuttivi sò riluttanti à u registru.
+I liberali in particulare tendenu à abbraccià a privacy.
+I formi di registrazione di u votante recullanu informazioni sensibule nantu à l'inclinazione pulitica di un votante, l'indirizzu fisicu persunale, u numeru di securità suciale, è a data di nascita.
+A maiò parte di i stati facenu solu un sottumessu di quella informazione dispunibile à u publicu, ma Cloudflare vede tutta quella infurmazione quandu qualchissia hè registratu per vutà.
 
-Innota chì a registrazione di carta ùn eludisce Cloudflare perchè u sicritariu di i travagliadori statali di travagliu di l'ingressu di dati probabbilmente aduprà
-Web di Cloudflare per inserisce a dati.
+Innota chì a registrazione di carta ùn eludisce Cloudflare perchè u sicritariu di i travagliadori di u serviziu di l'ingressu di dati statali probabilmente usarà u situ web Cloudflare per inserisce a dati.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org hè un famosu situ web per riunite i voti è azione. "[a ghjente in ogni locu inizia campagne, mobilizendu i supportori, è travaglia cù i decisori per guidà soluzioni.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Sfortunatamente, assai persone ùn ponu micca vede change.org in tuttu per via di u filtru aggressivu di Cloudflare. Sò bluccati da a firma di a petizione, allora escludendu da un prucessu demucraticu. Aduprendu altre piattaforma non-cloudflared cum'è [OpenPetition](https://www.openpetition.eu/content/about_us) aiuta à rimedià u prublema.
+- Change.org hè un situ famosu per riunite i voti è agisce.
+“e persone in ogni locu stanu cumincendu campagne, mobilizendu i supportori, è travagliendu cù i decisori per guidà suluzioni.”
+Sfortunatamente, assai persone ùn ponu micca vede change.org in tuttu per via di u filtru aggressivu di Cloudflare.
+Sò bluccati da a firma di a petizione, allora escludendu da un prucessu demucraticu.
+Aduprendu altre piattaforma non cloudflared cum'è OpenPetition aiuta à rimedià u prublema.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- U "[Prughjettu Athenianu] di Cloudflare (https://www.cloudflare.com/athenian/)" offre una prutezzione di u livellu di l'impresa gratuiti à i siti web elettorali è statali. Hanu dettu chì "i constituenti sò pussibili accede à l'informazione elettorale è u registru di u votante_" ma questu hè una bugia perchè parechje persone ùn ponu micca ghjustu navigà in u situ.
+- U "Prughjettu Ateneu" di Cloudflare offre una prutezzione à u livellu di l'impresa gratuiti à i siti web di l'elizzioni statali è lucali.
+Hanu dettu chì "i so custituenti ponu accede à l'infurmazioni elettorale è u registru di u votante", ma questu hè una bugia perchè parechje persone ùn ponu solu navigà in u situ.
 
 </details>
 
 ---
 
-<dettagli>
-<summary> _click me_
+<details>
+<summary>cliccate mi
 
 ## Ignorà a preferenza di l'utilizatore
 </summary>
 
 
-Se opt-out qualcosa, aspetta chì ùn riceve micca alcun email riguardu. Cloudflare ignora a preferenza di l'utilizatore è cumanda a dati cù e corporazioni di terzu [senza accunsentu di u cliente](https://twitter.com/thexpaw/status/1108424723233419264). Sè vo aduprate u so pianu gratuitu, mannanu qualchì volta invià un mail à voi per dumandassi à cumprà abbonamentu mensuale.
+Se opt-out qualcosa, aspetta chì ùn riceve micca alcun email riguardu.
+Cloudflare ignora a preferenza di l'utilizatore è cumanda a dati cù e corporazioni di terzu senza l'accunsentu di u cliente.
+Sè vo aduprate u so pianu gratuitu, à volte li mandanu e-mail à ti dumandendu di cumprà abbonamentu mensuale.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -212,21 +226,26 @@ Se opt-out qualcosa, aspetta chì ùn riceve micca alcun email riguardu. Cloudfl
 
 ---
 
-<dettagli>
-<summary> _click me_
+<details>
+<summary>cliccate mi
 
-## Mentì annantu à a supressione di i dati di l'utilizatori
+## Si trova nantu à a supressione di i dati di l'utilizatori
 </summary>
 
 
-Sicondu questu [ex-blog di client di cloudflare](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare sta mentendo per eliminare i conti. Avà assai [cumpagnie mantene e vostre dati](https://justdeleteme.xyz/) dopu chì avete chjusu o sguassatu u vostru contu. A maiò parte di e boni cumpagnie ne mencionanu di questu in a so pulitica di privacy. Cloudflare? Innò.
+Sicondu stu blog di clienti ex-cloudflare, Cloudflare si trova in mente per sguassà i cunti.
+Avà parechje cumpagnie mantene e vostre dati dopu chì avete chjusu o sguassate u vostru contu.
+A maiò parte di e boni cumpagnie ne mencionanu di questu in a so pulitica di privacy.
+Cloudflare? Innò.
 
 ```
 2019-08-05 CloudFlare m'hà mandatu cunferma chì avianu sguassatu u mo contu.
 2019-10-02 Aghju ricevutu un email da CloudFlare "perchè sò un cliente"
 ```
 
-Cloudflare ùn sapia micca di a parolla "sguassà". Se hè veramente _removed_, perchè stu ex cliente hà un email? Hà ammintu ancu chì a pulitica di privacy di Cloudflare ùn ne fa nunda.
+Cloudflare ùn sapia micca di a parolla "sguassà".
+Se hè veramente eliminatu, perchè questu ex cliente hà un email?
+Hà ammintu ancu chì a pulitica di privacy di Cloudflare ùn ne fa nunda.
 
 ```
 A so nova pulitica di privacy ùn face nunda di mantenimentu di dati per un annu.
@@ -234,20 +253,20 @@ A so nova pulitica di privacy ùn face nunda di mantenimentu di dati per un annu
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Cumu pudete fida à Cloudflare se [a so pulitica di privacy hè una LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+Cumu pudete fida à Cloudflare se a so pulitica di privacy hè una LIE?
 
 </details>
 
 ---
 
-<dettagli>
-<summary> _click me_
+<details>
+<summary>cliccate mi
 
 ## Mantene a vostra infurmazione persunale
 </summary>
 
 
-L'eliminazione di u contu Cloudflare hè [livelu duru](https://justdeleteme.xyz/).
+Sguassà u contu Cloudflare hè un livellu duru.
 
 ```
 Invia un bigliettu di supportu utilizendu a categuria "Contu",
@@ -255,7 +274,7 @@ Invia un bigliettu di supportu utilizendu a categuria "Contu",
 Ùn devete avè alcun domini o carte di creditu attaccati à u vostru contu prima di dumandà a cancelazione.
 ```
 
-Ti riceverete [stu email di cunfirmazione](https://twitter.com/originalesushi/status/1199041528414527495).
+Ricivarete sta email di cunferma.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
@@ -267,7 +286,7 @@ Pudete "fiducia" questu?
 
 ---
 
-## Please continue to next page: "[Cloudflare Voices](../PEOPLE.md)"
+## Per piacè seguite à a prossima pagina:   [Voci Cloudflare](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

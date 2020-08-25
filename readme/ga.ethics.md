@@ -3,22 +3,22 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Ní thacaigh leis an gcuideachta seo atá ar neamhní eitice_"
+"Ná tabhair tacaíocht don chuideachta seo atá ar neamhní eitice"
 
-"Níl muinín ag do chuideachta. Éilíonn tú go gcuireann tú DMCA i bhfeidhm ach tá go leor lawsuits agat gan é a dhéanamh._"
+"Níl muinín ag do chuideachta as. Éilíonn tú DMCA a fhorfheidhmiú ach tá go leor lawsuits agat as gan é a dhéanamh."
 
-"_Ní dhéanann siad cinsireacht ach ar dhaoine a chuireann ceist ar a n-eitic._"
+"Ní dhéanann siad cinsireacht ach ar dhaoine a chuireann ceist ar a n-eitic."
 
-"_Buille faoi thuairim mé go bhfuil an fhírinne dochreidte agus i bhfolach níos fearr ó radharc an phobail._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Buille faoi thuairim mé go bhfuil an fhírinne deacair agus i bhfolach níos fearr ó radharc an phobail."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
 <details>
-<summary> _click me_
+<summary>cliceáil orm
 
-## Cuireann CloudFlare daoine amú
+## Casann CloudFlare daoine
 </summary>
 
 
@@ -28,8 +28,8 @@ Tá Cloudflare ag seoladh ríomhphoist spam chuig úsáideoirí nach Cloudflare 
 - Nuair a deir an t-úsáideoir “stad”, ansin stop ríomhphost a sheoladh
 
 Tá sé chomh simplí sin. Ach is cuma le Cloudflare.
-Dúirt Cloudflare trí úsáid a bhaint as a seirbhís [is féidir stop a chur le gach spamálaí nó ionsaitheoir](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers- ).
-Conas is féidir linn _Cloudflare spammers_ a stopadh gan Cloudflare a ghníomhachtú?
+Dúirt Cloudflare gur féidir le spammers nó ionsaitheoirí uile a gcuid seirbhísí a stopadh.
+Conas is féidir linn Cloudflare a stopadh gan Cloudflare a ghníomhachtú?
 
 
 | 🖼 | 🖼 |
@@ -42,13 +42,15 @@ Conas is féidir linn _Cloudflare spammers_ a stopadh gan Cloudflare a ghníomha
 ---
 
 <details>
-<summary> _click me_
+<summary>cliceáil orm
 
 ## Bain léirmheas an úsáideora
 </summary>
 
 
-Scrúdóir Cloudflare [athbhreithnithe diúltacha](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Má phostálann tú téacs _anti-Cloudflare_ ar Twitter, tá seans agat [freagra](https://twitter.com/CloudflareHelp/status/1126051764917145601) a fháil ó [fostaí Cloudflare](cloudflare_inc/cloudflare_members.txt) le "_[Níl, níl sé](PEOPLE.md) _ "teachtaireacht. Má phostálann tú athbhreithniú diúltach ar aon láithreán athbhreithnithe, déanfaidh siad iarracht [censor](https://twitter.com/phyzonloop/status/1178836176985366529) [é](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+Athbhreithnithe diúltacha cinsireachta Cloudflare.
+Má phostálann tú téacs frith-Cloudflare ar Twitter, tá seans agat freagra a fháil ó fhostaí Cloudflare le teachtaireacht "Níl, níl sé".
+Má phostálann tú athbhreithniú diúltach ar aon láithreán athbhreithnithe, déanfaidh siad iarracht é a chinsireacht.
 
 
 | 🖼 | 🖼 |
@@ -60,15 +62,16 @@ Scrúdóir Cloudflare [athbhreithnithe diúltacha](https://web.archive.org/web/2
 ---
 
 <details>
-<summary> _click me_
+<summary>cliceáil orm
 
-## Úsáideoirí Doxxing
+## Comhroinn faisnéis phríobháideach an úsáideora
 </summary>
 
 
-Tá [fadhb ciaptha] ollmhór ag Cloudflare (https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -fake-ainmneacha-2017-5).
-Cloudflare [roinneann sé faisnéis phearsanta](https://archive.ph/ePdvi) díobh siúd [cé](https://twitter.com/ZJemptv/status/898299709634248704) [gearán](https://twitter.com/TinyPirate/status/554718958176067584) [about](https://twitter.com/remembrancermx/status/1010329041235148802) [óstáil](https://twitter.com/Bridaguy/status/915003769280172037) [láithreáin](https://twitter .com/HelloAndrew/status/897260208845500416). Iarrann siad ort uaireanta soláthar a dhéanamh
-d’fhíor-ID. Mura dteastaíonn uait ciapadh a dhéanamh, [ionsaí](https://twitter.com/NiteShade925/status/1158469203420205056), [swatted](https://boingboing.net/2015/01/19/invasion-boards -set-out-to-rui.html) nó [maraíodh](https://twitter.com/RusEmbUSA/status/1187363092793040901), is fearr duit fanacht amach ó láithreáin ghréasáin Cloudflared.
+Tá fadhb mhór ciaptha ag Cloudflare.
+Roinneann Cloudflare faisnéis phearsanta dóibh siúd a dhéanann gearán faoi shuíomhanna óstáilte.
+Iarrann siad ort uaireanta do fhíor-ID a sholáthar.
+Mura dteastaíonn uait ciapadh, ionsaí, swatted nó maraíodh, is fearr duit fanacht amach ó láithreáin ghréasáin Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -82,13 +85,15 @@ d’fhíor-ID. Mura dteastaíonn uait ciapadh a dhéanamh, [ionsaí](https://twi
 ---
 
 <details>
-<summary> _click me_
+<summary>cliceáil orm
 
 ## Sireadh corparáideach ar ranníocaíochtaí carthanúla
 </summary>
 
 
-Tá CloudFlare [ag iarraidh](https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about) le haghaidh ranníocaíochtaí carthanúla. Tá sé uafásach go n-iarrfadh corparáid Mheiriceá carthanas in éineacht le heagraíochtaí neamhbhrabúis a bhfuil cúiseanna maithe leo. Más maith leat [daoine a bhac nó cur amú ama daoine eile](PEOPLE.md), b’fhéidir gur mhaith leat roinnt píotsa a ordú d’fhostaithe Cloudflare.
+Tá CloudFlare ag iarraidh ranníocaíochtaí carthanúla.
+Tá sé uafásach go leor go n-iarrfadh corparáid Mheiriceá carthanas in éineacht le heagraíochtaí neamhbhrabúis a bhfuil cúiseanna maithe leo.
+Más maith leat daoine a bhac nó cur amú ama daoine eile, b’fhéidir gur mhaith leat roinnt píotsa a ordú d’fhostaithe Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -98,13 +103,15 @@ Tá CloudFlare [ag iarraidh](https://web.archive.org/web/20191112033605/https://
 ---
 
 <details>
-<summary> _click me_
+<summary>cliceáil orm
 
 ## Suíomhanna foirceanta
 </summary>
 
 
-Cad a dhéanfaidh tú má théann do shuíomh síos _suddenly_? Tá tuairiscí ann go bhfuil Cloudflare [ag scriosadh](https://twitter.com/stefan_eady/status/1126033791267426304) [úsáideoir](https://twitter.com/derivativeburke/status/903755267053117440) [cumraíocht](https://twitter.com/lordscarlet/status/1046785164792205314) nó [seirbhís a stopadh gan aon rabhadh](https://twitter.com/svolentin/status/1227324408475344896), [go ciúin](https://twitter.com/BlnaryMlke/status/1194339461984854018). Molaimid duit [soláthróir níos fearr] a fháil (what-to-do.md).
+Cad a dhéanfaidh tú má théann do shuíomh síos go tobann?
+Tá tuairiscí ann go bhfuil Cloudflare ag scriosadh cumraíocht an úsáideora nó ag stopadh seirbhíse gan aon rabhadh, go ciúin.
+Molaimid duit soláthróir níos fearr a fháil.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -113,7 +120,7 @@ Cad a dhéanfaidh tú má théann do shuíomh síos _suddenly_? Tá tuairiscí a
 ---
 
 <details>
-<summary> _click me_
+<summary>cliceáil orm
 
 ## Idirdhealú díoltóra brabhsálaí
 </summary>
@@ -125,33 +132,34 @@ Mí-úsáid neodrachta líonra agus mí-úsáid cumhachta is ea an neamhionannas
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Ar chlé: `Brabhsálaí Tor`, Deas:` Chrome`. Seoladh IP céanna.
+- Ar chlé: Brabhsálaí Tor, Deas: Chrome. Seoladh IP céanna.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Ar chlé: `[Brabhsálaí Tor] Javascript Disabled, Cookie Enabled`
-- Ar dheis: `[Chrome] Cumasaithe Javascript, Cookie Disabled`
+- Ar chlé: Brabhsálaí Tor Javascript Míchumasaithe, Cumasaithe Fianán
+- Ar dheis: Cumasaíodh Chrome Javascript, Cookie Disabled
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (mion-bhrabhsálaí) gan Tor (Clearnet IP)
 
-| *** Brabhsálaí *** | *** Cóireáil rochtana *** |
+| ***Brabhsálaí*** | ***Cóireáil rochtana*** |
 | --- | --- |
-| Brabhsálaí Tor (cumasaithe ag Javascript) | rochtain ceadaithe |
-| Firefox (cumasaithe ag Javascript) | rochtain díghrádaithe |
-| Cróimiam (cumasaithe ag Javascript) | rochtain díghrádaithe (brú Google reCAPTCHA) |
-| Cróimiam nó Firefox (Javascript díchumasaithe) | rochtain diúltaithe (brú * briste * Google reCAPTCHA) |
-| Cróimiam nó Firefox (Fianán faoi mhíchumas) | rochtain diúltaithe |
+| Tor Browser (Javascript cumasaithe) | rochtain ceadaithe |
+| Firefox (Javascript cumasaithe) | rochtain díghrádaithe |
+| Chromium (Javascript cumasaithe) | rochtain díghrádaithe |
+| Chromium or Firefox (Javascript díchumasaithe) | rochtain diúltaithe |
+| Chromium or Firefox (Fianán faoi mhíchumas) | rochtain diúltaithe |
 | QuteBrowser | rochtain diúltaithe |
 | lynx | rochtain diúltaithe |
 | w3m | rochtain diúltaithe |
 | wget | rochtain diúltaithe |
 
 
-"_Cén fáth nach n-úsáideann tú cnaipe Fuaime chun dúshlán éasca a réiteach? _"
+Cén fáth nach n-úsáideann tú cnaipe Fuaime chun dúshlán éasca a réiteach?
 
-Sea, tá cnaipe fuaime ann, ach ní oibríonn _always_ [thar Tor](https://trac.torproject.org/projects/tor/ticket/23840). Gheobhaidh tú an teachtaireacht seo nuair a chliceálann tú uirthi:
+Sea, tá cnaipe fuaime ann, ach ní oibríonn sé thar Tor i gcónaí.
+Gheobhaidh tú an teachtaireacht seo nuair a chliceálann tú uirthi:
 
 ```
 Bain triail eile as níos déanaí
@@ -165,46 +173,52 @@ Le haghaidh tuilleadh sonraí tabhair cuairt ar ár leathanach cabhrach
 ---
 
 <details>
-<summary> _click me_
+<summary>cliceáil orm
 
-## Sochtadh an vótálaí
+## Sochtadh vótálaí
 </summary>
 
 
 Cláraíonn vótálaithe i stáit na SA chun vótáil sa deireadh trí shuíomh Gréasáin an rúnaí stáit i stát a gcónaithe.
 Glacann oifigí rúnaí stáit atá faoi rialú na Poblachta faoi chois vótálaithe trí shuíomh Gréasáin an rúnaí stáit a sheachfhreastalaí trí Cloudflare.
-Cóireáil naimhdeach Cloudflare le húsáideoirí Tor, a seasamh MITM mar phointe faireachais domhanda láraithe, agus a ról díobhálach ar an iomlán
-bíonn drogall ar vótálaithe ionchasacha clárú. Is gnách go nglacann liobrálaigh le príobháideacht. Bailíonn foirmeacha cláraithe vótálaithe faisnéis íogair faoi chlaonadh polaitiúil vótálaí, seoladh fisiceach pearsanta, uimhir slándála sóisialta, agus dáta breithe.
-Ní chuireann an chuid is mó de na stáit ach fo-thacar den fhaisnéis sin ar fáil go poiblí, ach feiceann Cloudflare *** gach *** an fhaisnéis sin nuair a chláraíonn duine le vótáil.
+Mar gheall ar chóireáil naimhdeach Cloudflare d’úsáideoirí Tor, a seasamh MITM mar phointe faireachais láraithe domhanda, agus a ról díobhálach ar an iomlán bíonn drogall ar vótálaithe ionchasacha clárú.
+Is iondúil go nglacann liobrálaigh le príobháideacht.
+Bailíonn foirmeacha clárúcháin vótálaithe faisnéis íogair faoi chlaonadh polaitiúil vótálaí, seoladh fisiceach pearsanta, uimhir slándála sóisialta, agus dáta breithe.
+Ní chuireann mórchuid na stát ach fo-thacar den fhaisnéis sin ar fáil go poiblí, ach feiceann Cloudflare an fhaisnéis sin go léir nuair a chláraíonn duine le vótáil.
 
-Tabhair faoi deara nach dtéann clárú páipéir timpeall ar Cloudflare mar is dócha go n-úsáidfidh rúnaí oibrithe foirne iontrála sonraí stáit an
-Suíomh Gréasáin Cloudflare chun na sonraí a iontráil.
+Tabhair faoi deara nach dtéann clárú páipéir timpeall ar Cloudflare mar is dócha go n-úsáidfidh rúnaí oibrithe foirne iontrála sonraí stáit suíomh Gréasáin Cloudflare chun na sonraí a iontráil.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Is suíomh Gréasáin cáiliúil é Change.org as vótaí a bhailiú agus gníomhú. "[tá daoine i ngach áit ag cur feachtais ar bun, ag tacú le lucht tacaíochta, agus ag obair le cinnteoirí chun réitigh a thiomáint.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Ar an drochuair, ní féidir le go leor daoine féachaint ar change.org ar chor ar bith mar gheall ar scagaire ionsaitheach Cloudflare. Tá cosc ​​orthu an achainí a shíniú, agus mar sin iad a eisiamh ó phróiseas daonlathach. Cuidíonn ardán neamh-scamall eile mar [OpenPetition](https://www.openpetition.eu/content/about_us) leis an bhfadhb a réiteach.
+- Is suíomh Gréasáin cáiliúil é Change.org as vótaí a bhailiú agus gníomhú.
+“tá daoine i ngach áit ag cur feachtais ar bun, ag tacú le lucht tacaíochta, agus ag obair le cinnteoirí chun réitigh a thiomáint.”
+Ar an drochuair, ní féidir le go leor daoine féachaint ar change.org ar chor ar bith mar gheall ar scagaire ionsaitheach Cloudflare.
+Tá cosc ​​orthu an achainí a shíniú, agus mar sin iad a eisiamh ó phróiseas daonlathach.
+Cuidíonn ardán neamh-scamall eile mar OpenPetition leis an bhfadhb a leigheas.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- Tugann Cloudflare “[Athenian Project](https://www.cloudflare.com/athenian/)” cosaint ar leibhéal na fiontraíochta saor in aisce do láithreáin ghréasáin toghcháin stáit agus áitiúla. Dúirt siad "is féidir lena gcomhthoghthóirí rochtain a fháil ar fhaisnéis toghcháin agus ar chlárú vótálaithe_" ach is bréag é seo toisc nach féidir le go leor daoine an suíomh a bhrabhsáil ar chor ar bith.
+- Tugann “Athenian Project” Cloudflare cosaint ar leibhéal na fiontraíochta saor in aisce do láithreáin ghréasáin toghcháin stáit agus áitiúla.
+Dúirt siad “is féidir lena gcomhthoghthóirí rochtain a fháil ar fhaisnéis toghcháin agus ar chlárú vótálaithe” ach is bréag é seo toisc nach féidir le go leor daoine an suíomh a bhrabhsáil ar chor ar bith.
 
 </details>
 
 ---
 
 <details>
-<summary> _click me_
+<summary>cliceáil orm
 
 ## Ag neamhaird rogha an úsáideora
 </summary>
 
 
-Má roghnaíonn tú rud éigin, tá súil agat nach bhfaighidh tú aon r-phost faoi. Déanann Cloudflare neamhaird ar rogha an úsáideora agus roinn sonraí le corparáidí tríú páirtí [gan toiliú an chustaiméara](https://twitter.com/thexpaw/status/1108424723233419264). Má tá a bplean saor in aisce á úsáid agat, cuireann siad r-phost chugat uaireanta ag iarraidh síntiús míosúil a cheannach.
+Má roghnaíonn tú rud éigin, tá súil agat nach bhfaighidh tú aon r-phost faoi.
+Déanann Cloudflare neamhaird ar rogha an úsáideora agus roinn sonraí le corparáidí tríú páirtí gan toiliú an chustaiméara.
+Má tá a bplean saor in aisce á úsáid agat, cuireann siad ríomhphost chugat uaireanta ag iarraidh síntiús míosúil a cheannach.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -213,20 +227,25 @@ Má roghnaíonn tú rud éigin, tá súil agat nach bhfaighidh tú aon r-phost f
 ---
 
 <details>
-<summary> _click me_
+<summary>cliceáil orm
 
-## Ag luí faoi shonraí úsáideora a scriosadh
+## Atá suite faoi shonraí úsáideora a scriosadh
 </summary>
 
 
-De réir seo [blag an chustaiméara ex-cloudflare](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), tá Cloudflare suite faoi chun cuntais a scriosadh. Sa lá atá inniu ann, coimeádann go leor [cuideachtaí do chuid sonraí](https://justdeleteme.xyz/) tar éis duit do chuntas a dhúnadh nó a bhaint. Luann mórchuid na gcuideachtaí maithe faoi ina mbeartas príobháideachais. Cloudflare? Níl.
+De réir bhlag an chustaiméara ex-cloudflare seo, tá Cloudflare ag bréagadh faoi chun cuntais a scriosadh.
+Sa lá atá inniu ann, coimeádann go leor cuideachtaí do chuid sonraí tar éis duit do chuntas a dhúnadh nó a bhaint.
+Luann mórchuid na gcuideachtaí maithe faoi ina mbeartas príobháideachais.
+Cloudflare? Níl.
 
 ```
 2019-08-05 Chuir CloudFlare deimhniú chugam gur bhain siad mo chuntas.
 2019-10-02 Fuair ​​mé ríomhphost ó CloudFlare "toisc gur custaiméir mé"
 ```
 
-Ní raibh a fhios ag Cloudflare faoin bhfocal "bain". Más _removed_ atá ann i ndáiríre, cén fáth go bhfuair an t-iar-chustaiméir seo ríomhphost? Luaigh sé freisin nach luann beartas príobháideachta Cloudflare faoi.
+Ní raibh a fhios ag Cloudflare faoin bhfocal "bain".
+Má bhaintear é i ndáiríre, cén fáth go bhfuair an t-iar-chustaiméir seo ríomhphost?
+Luaigh sé freisin nach luann beartas príobháideachta Cloudflare faoi.
 
 ```
 Ní luann a mbeartas príobháideachta nua aon sonraí a choinneáil ar feadh bliana.
@@ -234,20 +253,20 @@ Ní luann a mbeartas príobháideachta nua aon sonraí a choinneáil ar feadh bl
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Conas is féidir muinín a bheith agat as Cloudflare más [LIE an beartas príobháideachta atá acu](https://twitter.com/daviddlow/status/1197787135526555648)?
+Conas is féidir leat muinín a bheith agat as Cloudflare más LIE a mbeartas príobháideachta?
 
 </details>
 
 ---
 
 <details>
-<summary> _click me_
+<summary>cliceáil orm
 
 ## Coinnigh do chuid faisnéise pearsanta
 </summary>
 
 
-Is é [leibhéal crua] an cuntas Cloudflare a scriosadh (https://justdeleteme.xyz/).
+Tá an cuntas Cloudflare a scriosadh leibhéal crua.
 
 ```
 Cuir ticéad tacaíochta isteach ag baint úsáide as an gcatagóir "Cuntas",
@@ -255,7 +274,7 @@ agus scriosadh cuntas a iarraidh i gcomhlacht na teachtaireachta.
 Ní mór duit aon fhearainn nó cártaí creidmheasa a bheith ceangailte le do chuntas sula n-iarrtar scriosadh.
 ```
 
-Gheobhaidh tú [an ríomhphost dearbhaithe seo](https://twitter.com/originalesushi/status/1199041528414527495).
+Gheobhaidh tú an ríomhphost dearbhaithe seo.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
@@ -267,7 +286,7 @@ An féidir leat "muinín" a dhéanamh air seo?
 
 ---
 
-## Lean ar aghaidh go dtí an chéad leathanach eile: "[Cloudflare Voices](../PEOPLE.md)"
+## Lean ar aghaidh go dtí an chéad leathanach eile:   [Guthanna Cloudflare](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
