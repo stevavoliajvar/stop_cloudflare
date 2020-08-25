@@ -53,24 +53,11 @@
 |  Вы ўжо можаце ведаць пра скандал з ПРЫЗАМ.Гэта праўда, што AT&T дазваляе NSA капіяваць усе дадзеныя ў Інтэрнэце для назірання. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Скажам, вы працуеце ў АНБ і хочаце атрымаць інтэрнэт-профіль кожнага грамадзяніна.Вы ведаеце, што большасць з іх даверліва давяраюць Cloudflare і выкарыстоўваюць яго - толькі адзін цэнтралізаваны шлюз - праксіміраваць падключэнне да сервера сваёй кампаніі (SSH / RDP), асабісты сайт, чат-сайт, вэб-сайт форума, вэб-сайт банка, страхавы сайт, пошукавік, сакрэтны член -толькі сайт, аўкцыённы сайт, крамы, відэа-сайт, сайт NSFW і нелегальны сайт.Вы таксама ведаеце, што яны выкарыстоўваюць службу DNS Cloudflare ("1.1.1.1") і VPN ("Cloudflare Warp") для "Бяспечнай! Хутчэй! Лепш! " Інтэрнэт-досвед.Спалучэнне іх з IP-адрасамі карыстальніка, адбіткам пальцаў, кукі і RAY-ідэнтыфікатарам будзе карысна для стварэння анлайн-профілю мэтавай. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Вы хочаце, каб іх дадзеныя. Што ты будзеш рабіць? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare - гэта мядовы кашаль.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Бясплатны мёд для ўсіх. Некаторыя радкі далучаны.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Не выкарыстоўвайце Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Дэцэнтралізаваць Інтэрнэт.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare - гэта мядовы кашаль.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Бясплатны мёд для ўсіх. Некаторыя радкі далучаны.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Не выкарыстоўвайце Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Дэцэнтралізаваць Інтэрнэт.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Паспрабуйце і напішыце новы інструмент / сцэнар.](../tool/)
 
 * [Вось некаторыя PDF / ePUB для чытання.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
