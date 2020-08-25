@@ -2,12 +2,13 @@
 
 
 - "_(en|eo)(|.ethics).md_" are _base files_.
+- If you edit _Base files_, do edit `translateData/TEMPLATE.*.(tab|txt)`.
+
 
 
 ### _zz_.md's translation is horrible. How can I fix this?
 
-Please do not edit _zz_.md directly. It will be overwritten.
-Please use "override" template.
+Please do not edit _zz_.md directly. It may be overwritten.
 
 1. [Fork](https://codeberg.org/crimeflare/cloudflare-tor/forks) cloudflare-tor.
 
