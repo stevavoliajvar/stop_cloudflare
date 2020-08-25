@@ -53,24 +53,11 @@
 |  ਸ਼ਾਇਦ ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ ਪ੍ਰਿਸਮ ਘੁਟਾਲੇ ਬਾਰੇ ਜਾਣਦੇ ਹੋਵੋਗੇ.ਇਹ ਸੱਚ ਹੈ ਕਿ ਏਟੀ ਐਂਡ ਟੀ ਐਨਐਸਏ ਨੂੰ ਨਿਗਰਾਨੀ ਲਈ ਸਾਰੇ ਇੰਟਰਨੈਟ ਡੇਟਾ ਦੀ ਨਕਲ ਕਰਨ ਦਿੰਦਾ ਹੈ. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ਮੰਨ ਲਓ ਕਿ ਤੁਸੀਂ ਐਨਐਸਏ ਤੇ ਕੰਮ ਕਰ ਰਹੇ ਹੋ, ਅਤੇ ਤੁਸੀਂ ਹਰ ਨਾਗਰਿਕ ਦਾ ਇੰਟਰਨੈਟ ਪ੍ਰੋਫਾਈਲ ਚਾਹੁੰਦੇ ਹੋ.ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਉਨ੍ਹਾਂ ਵਿਚੋਂ ਬਹੁਤ ਸਾਰੇ ਕਲਾਉਡਫਲੇਅਰ 'ਤੇ ਅੰਨ੍ਹੇਵਾਹ ਵਿਸ਼ਵਾਸ ਕਰ ਰਹੇ ਹਨ ਅਤੇ ਇਸਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹਨ - ਸਿਰਫ ਇਕ ਕੇਂਦਰੀ ਗੇਟਵੇ - ਆਪਣੀ ਕੰਪਨੀ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨ (ਐਸਐਸਐਚ / ਆਰਡੀਪੀ), ਨਿੱਜੀ ਵੈਬਸਾਈਟ, ਚੈਟ ਵੈਬਸਾਈਟ, ਬੈਂਕ ਵੈਬਸਾਈਟ, ਬੀਮਾ ਵੈਬਸਾਈਟ, ਸਰਚ ਇੰਜਨ, ਗੁਪਤ ਮੈਂਬਰ ਸਿਰਫ ਵੈਬਸਾਈਟ, ਨਿਲਾਮੀ ਵੈਬਸਾਈਟ, ਖਰੀਦਦਾਰੀ, ਵੀਡੀਓ ਵੈਬਸਾਈਟ, ਐਨਐਸਐਫਡਬਲਯੂ ਵੈਬਸਾਈਟ, ਅਤੇ ਗੈਰਕਾਨੂੰਨੀ ਵੈਬਸਾਈਟ.ਤੁਸੀਂ ਇਹ ਵੀ ਜਾਣਦੇ ਹੋ ਕਿ ਉਹ ਕਲਾਉਡਫਲੇਅਰ ਦੀ ਡੀਐਨਐਸ ਸੇਵਾ ("1.1.1.1") ਅਤੇ ਵੀਪੀਐਨ ਸੇਵਾ ("ਕਲਾਉਡਫਲੇਅਰ ਵਾਰਪ") ਦੀ ਵਰਤੋਂ “ਸੁਰੱਖਿਅਤ! ਹੋਰ ਤੇਜ਼! ਬਿਹਤਰ! ” ਇੰਟਰਨੈੱਟ ਦਾ ਤਜਰਬਾ.ਉਨ੍ਹਾਂ ਨੂੰ ਉਪਭੋਗਤਾ ਦੇ ਆਈਪੀ ਐਡਰੈੱਸ, ਬ੍ਰਾ browserਜ਼ਰ ਫਿੰਗਰਪ੍ਰਿੰਟ, ਕੂਕੀਜ਼ ਅਤੇ ਰੇ-ਆਈਡੀ ਨਾਲ ਜੋੜਨਾ ਟੀਚੇ ਦੇ onlineਨਲਾਈਨ ਪ੍ਰੋਫਾਈਲ ਨੂੰ ਬਣਾਉਣ ਲਈ ਲਾਭਦਾਇਕ ਹੋਵੇਗਾ. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਦਾ ਡੇਟਾ ਚਾਹੁੰਦੇ ਹੋ. ਤੁਸੀਂ ਕੀ ਕਰੋਗੇ? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **ਕਲਾਉਡਫਲੇਅਰ ਇਕ ਹਨੀਪੋਟ ਹੈ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **ਹਰੇਕ ਲਈ ਮੁਫਤ ਸ਼ਹਿਦ. ਕੁਝ ਤਾਰ ਜੁੜੇ ਹੋਏ ਹਨ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **ਕਲਾਉਡਫਲੇਅਰ ਦੀ ਵਰਤੋਂ ਨਾ ਕਰੋ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ਇੰਟਰਨੈਟ ਦਾ ਵਿਕੇਂਦਰੀਕਰਣ ਕਰੋ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### ਕਲਾਉਡਫਲੇਅਰ ਇਕ ਹਨੀਪੋਟ ਹੈ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### ਹਰੇਕ ਲਈ ਮੁਫਤ ਸ਼ਹਿਦ. ਕੁਝ ਤਾਰ ਜੁੜੇ ਹੋਏ ਹਨ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### ਕਲਾਉਡਫਲੇਅਰ ਦੀ ਵਰਤੋਂ ਨਾ ਕਰੋ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ਇੰਟਰਨੈਟ ਦਾ ਵਿਕੇਂਦਰੀਕਰਣ ਕਰੋ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [ਨਵਾਂ ਟੂਲ / ਸਕ੍ਰਿਪਟ ਲਿਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ.](../tool/)
 
 * [ਇੱਥੇ ਕੁਝ PDF / ePUB ਨੂੰ ਪੜ੍ਹਨ ਲਈ ਦਿੱਤਾ ਗਿਆ ਹੈ.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
