@@ -53,24 +53,11 @@
 |  Lehet, hogy már tudott a PRISM-botrányról.Igaz, hogy az AT&T lehetővé teszi az NSA számára, hogy megfigyelés céljából másolja az összes internetes adatot. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Tegyük fel, hogy az NSA-nál dolgozik, és minden polgár internetes profilját szeretné.Tudja, hogy többségük vakon bízik a Cloudflare-ban, és csak egy központosított átjárót használ a vállalati szerver kapcsolat (SSH / RDP), személyes webhely, csevegő, fórum, bank, biztosítási webhely, keresőmotor, titkos tag proxyjára. - kizárólag weboldal, aukciós webhely, bevásárló, video webhely, NSFW webhely és illegális webhely.Ön is tudja, hogy a Cloudflare DNS szolgáltatását ("1.1.1.1") és a VPN szolgáltatást ("Cloudflare Warp") használják a “Biztonságos! Gyorsabb! Jobb!" internetes élmény.A felhasználó IP-címével, a böngésző ujjlenyomatával, a sütikkel és a RAY-ID-vel kombinálva hasznos lehet a cél online profiljának felépítéséhez. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Szeretnéd az adataikat. Mit fogsz csinálni? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **A Cloudflare egy mézeskanál.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Ingyenes méz mindenkinek. Néhány húr csatlakozik.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ne használja a Cloudflare-t.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralizálja az internetet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### A Cloudflare egy mézeskanál.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Ingyenes méz mindenkinek. Néhány húr csatlakozik.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ne használja a Cloudflare-t.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralizálja az internetet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Ez a lerakat azon webhelyek listája, amelyek a "Nagy felhőfal" mögött állna
 * [Próbálja ki és írjon új szerszámot / szkriptet.](../tool/)
 
 * [Itt van néhány olvasható PDF / ePUB.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
