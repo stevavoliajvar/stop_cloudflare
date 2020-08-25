@@ -3,20 +3,20 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"_Atbalstīt šo uzņēmumu, kuram nav ētikas principa_"
+"Neatbalstiet šo uzņēmumu, kurā nav ētikas normu"
 
-"_Jūsu uzņēmums nav uzticams. Jūs apgalvojat, ka izpildāt DMCA, taču jums ir daudz tiesas prāvu par tā nedarīšanu._"
+"Jūsu uzņēmums nav uzticams. Jūs apgalvojat, ka izpildāt DMCA, taču jums ir daudz tiesas prāvu par tā neveikšanu."
 
-"_Viņi cenzē tikai tos, kuri apšauba viņu ētiku._"
+"Viņi cenzē tikai tos, kuri apšauba viņu ētiku."
 
-"_Manuprāt, patiesība ir neērta un ir labāk paslēpta no sabiedrības viedokļa._" -- [phyzonloop](https://twitter.com/phyzonloop)
+"Es domāju, ka patiesība ir neērta un labāk slēpta no sabiedrības viedokļa."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
 
 
-<detaļas>
-<summary> _noklikšķini uz manis_
+<details>
+<summary>noklikšķiniet uz manis
 
 ## CloudFlare izspiež cilvēkus
 </summary>
@@ -24,12 +24,12 @@
 
 Cloudflare sūta surogātpastu lietotājiem, kas nav Cloudflare lietotāji.
 
-- sūtīt e-pastus tikai tiem abonentiem, kuri ir izvēlējušies
-- Kad lietotājs saka “apstāties”, pārtrauciet e-pasta sūtīšanu
+- Sūtīt e-pastus tikai tiem abonentiem, kuri ir izvēlējušies
+- Kad lietotājs saka “stop”, pārtrauciet e-pasta ziņojumu sūtīšanu
 
 Tas ir tik vienkārši. Bet Cloudflare vienalga.
-Cloudflare teica, ka, izmantojot savu pakalpojumu, [var apturēt visus surogātpasta izplatītājus vai uzbrucējus](https://support.cloudflare.com/hc/en-us/articles/200170066-Will-activating-Cloudflare-stop-all-spammers-or-attackers- ).
-Kā mēs varam apturēt _Cloudflare surogātpasta izplatītājus_, neaktivizējot Cloudflare?
+Cloudflare sacīja, ka viņu pakalpojuma izmantošana var apturēt visus surogātpasta izplatītājus vai uzbrucējus.
+Kā mēs varam apturēt Cloudflare, neaktivizējot Cloudflare?
 
 
 | 🖼 | 🖼 |
@@ -41,14 +41,16 @@ Kā mēs varam apturēt _Cloudflare surogātpasta izplatītājus_, neaktivizējo
 
 ---
 
-<detaļas>
-<summary> _noklikšķini uz manis_
+<details>
+<summary>noklikšķiniet uz manis
 
 ## Noņemt lietotāja pārskatu
 </summary>
 
 
-Mākoņa uzliesmojuma cenzors [negatīvas atsauksmes](https://web.archive.org/web/20191116004046/https://www.trustpilot.com/reviews/5aa6ee0ed5a5700a7c8cf853). Ja jūs ievietojat _anti-Cloudflare_ tekstu Twitter, jums ir iespēja saņemt [atbildi](https://twitter.com/CloudflareHelp/status/1126051764917145601) no [Cloudflare darbinieks](cloudflare_inc/cloudflare_members.txt) ar “_ [Nē, tā nav](PEOPLE.md) _ "ziņojums. Ja jūs ievietojat negatīvu atsauksmi jebkurā pārskatīšanas vietnē, viņi mēģinās [cenzēt](https://twitter.com/phyzonloop/status/1178836176985366529) [it](https://twitter.com/dxgl_org/status/1178722159432220672 ).
+Mākoņa uzliesmojuma cenzora negatīvās atsauksmes.
+Ja vietnē Twitter izliksit pret Cloudflare vērstu tekstu, jums ir iespēja saņemt atbildi no Cloudflare darbinieka ar ziņojumu “Nē, tā nav”.
+Ja jūs ievietojat negatīvu atsauksmi jebkurā pārskatīšanas vietnē, viņi mēģinās to cenzēt.
 
 
 | 🖼 | 🖼 |
@@ -59,16 +61,17 @@ Mākoņa uzliesmojuma cenzors [negatīvas atsauksmes](https://web.archive.org/we
 
 ---
 
-<detaļas>
-<summary> _noklikšķini uz manis_
+<details>
+<summary>noklikšķiniet uz manis
 
-## Doxxing lietotāji
+## Kopīgojiet lietotāja privāto informāciju
 </summary>
 
 
-Mākoņa uzliesmojumam ir milzīga [uzmākšanās problēma](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use -fake-names-2017-5).
-Cloudflare [dalās ar personisko informāciju](https://archive.ph/ePdvi) no tiem, kas [https://twitter.com/ZJemptv/status/898299709634248704) [sūdzas](https://twitter.com/TinyPirate/statuss/554718958176067584) [par](https://twitter.com/remembrancermx/status/1010329041235148802) [mitināts](https://twitter.com/Bridaguy/status/915003769280172037) [vietnes](https://twitter .com/HelloAndrew/status/897260208845500416). Viņi dažreiz lūdz jūs sniegt
-tavs īstais ID. Ja nevēlaties uzmācīties, [uzbrūk](https://twitter.com/NiteShade925/status/1158469203420205056), [iesita](https://boingboing.net/2015/01/19/invasion-boards) -set-out-to-rui.html) vai [nogalināts](https://twitter.com/RusEmbUSA/status/1187363092793040901), labāk palieciet prom no Cloudflared vietnēm.
+Mākoņa uzliesmojumam ir milzīga uzmākšanās problēma.
+Cloudflare dalās ar to personu personīgo informāciju, kuras sūdzas par mitinātām vietnēm.
+Viņi dažreiz lūdz jūs norādīt savu īsto personu apliecinošu dokumentu.
+Ja nevēlaties uzmācīties, uzbrukt, sašņorēt vai nonāvēt, labāk palieciet prom no Cloudflared vietnēm.
 
 
 | 🖼 | 🖼 |
@@ -81,14 +84,16 @@ tavs īstais ID. Ja nevēlaties uzmācīties, [uzbrūk](https://twitter.com/Nite
 
 ---
 
-<detaļas>
-<summary> _noklikšķini uz manis_
+<details>
+<summary>noklikšķiniet uz manis
 
 ## Labdarības iemaksu lūgums korporatīvajiem uzņēmumiem
 </summary>
 
 
-CloudFlare [https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about] lūdz labdarības iemaksas. Tas ir diezgan drausmīgi, ka amerikāņu korporācija lūgs labdarību līdzās bezpeļņas organizācijām, kurām ir labi iemesli. Ja jums patīk [bloķēt cilvēkus vai tērēt citu cilvēku laiku](PEOPLE.md), iespējams, vēlēsities pasūtīt dažas picas🍕 Cloudflare darbiniekiem.
+CloudFlare lūdz veikt labdarības iemaksas.
+Tas ir diezgan drausmīgi, ka amerikāņu korporācija lūgs labdarību līdzās bezpeļņas organizācijām, kurām ir labi iemesli.
+Ja jums patīk bloķēt cilvēkus vai tērēt citu cilvēku laiku, iespējams, vēlēsities pasūtīt dažas picas Cloudflare darbiniekiem.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -97,14 +102,16 @@ CloudFlare [https://web.archive.org/web/20191112033605/https://opencollective.co
 
 ---
 
-<detaļas>
-<summary> _noklikšķini uz manis_
+<details>
+<summary>noklikšķiniet uz manis
 
-## Vietņu pārtraukšana
+## Termināļu slēgšana
 </summary>
 
 
-Ko jūs darīsit, ja jūsu vietne samazināsies vienkārši? Ir ziņojumi, ka Cloudflare tiek dzēsts (https://twitter.com/stefan_eady/status/1126033791267426304) [lietotāja](https://twitter.com/derideriburke/status/903755267053117440) [konfigurācija](https://twitter.com/lordscarlet/status/1046785164792205314) vai [apstāšanās pakalpojums bez brīdinājuma](https://twitter.com/svolentin/status/1227324408475344896), [klusi](https://twitter.com/BlnaryMlke/status/1194339461984854018). Mēs iesakām jums atrast [labāku pakalpojumu sniedzēju](what-to-do.md).
+Ko jūs darīsit, ja jūsu vietne pēkšņi samazināsies?
+Ir ziņojumi, ka Cloudflare klusi dzēš lietotāja konfigurāciju vai pārtrauc pakalpojumu bez brīdinājuma.
+Mēs iesakām jums atrast labāku pakalpojumu sniedzēju.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
 
@@ -112,50 +119,51 @@ Ko jūs darīsit, ja jūsu vietne samazināsies vienkārši? Ir ziņojumi, ka Cl
 
 ---
 
-<detaļas>
-<summary> _noklikšķini uz manis_
+<details>
+<summary>noklikšķiniet uz manis
 
 ## Pārlūkprogrammu pārdevēju diskriminācija
 </summary>
 
 
-CloudFlare nodrošina preferenciālu attieksmi pret tiem, kuri izmanto Firefox, vienlaikus nodrošinot naidīgu izturēšanos pret lietotājiem, kas nav saistīti ar pārlūku Tor.
+CloudFlare nodrošina preferenciālu attieksmi pret tiem, kas izmanto Firefox, vienlaikus nodrošinot naidīgu izturēšanos pret lietotājiem, kas nav saistīti ar pārlūku Tor.
 Tore lietotāji, kuri likumīgi atsakās izpildīt bezmaksas Java programmu, arī saņem naidīgu izturēšanos.
 Šī piekļuves nevienlīdzība ir tīkla neitralitātes un varas ļaunprātīga izmantošana.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Pa kreisi: `Tor Browser`, pa labi:` Chrome`. Tā pati IP adrese.
+- Pa kreisi: Tor pārlūks, pa labi: Chrome. Tā pati IP adrese.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Pa kreisi: `[Tor pārlūks] Javascript ir atspējots, sīkdatnes iespējotas”
-- Pa labi: `[Chrome] Javascript ir iespējots, sīkdatnes ir atspējotas`
+- Pa kreisi: Tor pārlūka Javascript ir atspējots, sīkdatne ir iespējota
+- Pa labi: ieslēgts Chrome Javascript, atspējots sīkfails
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (mazs pārlūks) bez Tor (Clearnet IP)
 
-| *** Pārlūks *** | *** Piekļuves apstrāde *** |
+| ***Pārlūks*** | ***Piekļuves ārstēšana*** |
 | --- | --- |
-| Tor pārlūks (Javascript iespējots) | piekļuve atļauta
-| Firefox (Javascript iespējots) | piekļuve pasliktināta |
-| Hroms (Javascript iespējots) | piekļuve ir pasliktināta (nospiež Google reCAPTCHA) |
-| Chromium vai Firefox (Javascript ir atspējots) piekļuve liegta (nospiež * salauztu * Google reCAPTCHA) |
-| Chromium vai Firefox (sīkdatnes ir atspējotas) piekļuve liegta
-| QuteBrowser | piekļuve liegta
-| lūši | piekļuve liegta
-| w3m | piekļuve liegta
-| wget | piekļuve liegta
+| Tor Browser (Javascript ir iespējots) | piekļuve atļauta |
+| Firefox (Javascript ir iespējots) | piekļuve pasliktināta |
+| Chromium (Javascript ir iespējots) | piekļuve pasliktināta |
+| Chromium or Firefox (Javascript ir atspējots) | pieeja noliegta |
+| Chromium or Firefox (Sīkdatne ir atspējota) | pieeja noliegta |
+| QuteBrowser | pieeja noliegta |
+| lynx | pieeja noliegta |
+| w3m | pieeja noliegta |
+| wget | pieeja noliegta |
 
 
-"_Kāpēc neizmantojat pogu Audio, lai atrisinātu vieglu izaicinājumu? _"
+Kāpēc neizmantot audio pogu, lai atrisinātu vieglu izaicinājumu?
 
-Jā, ir audio poga, bet tā _always_ [nedarbojas vairāk nekā Tor](https://trac.torproject.org/projects/tor/ticket/23840). Noklikšķinot uz tā, jūs saņemsit šo ziņojumu:
+Jā, ir audio poga, taču tā vienmēr nedarbojas, izmantojot Tor.
+Jūs saņemsit šo ziņojumu, kad noklikšķināsit uz tā:
 
 ```
 Pamēģini vēlreiz vēlāk
-Iespējams, jūsu dators vai tīkls sūta automatizētus vaicājumus.
+Iespējams, jūsu dators vai tīkls sūta automātiskus vaicājumus.
 Lai aizsargātu mūsu lietotājus, mēs šobrīd nevaram apstrādāt jūsu pieprasījumu.
 Lai iegūtu papildinformāciju, apmeklējiet mūsu palīdzības lapu
 ```
@@ -164,47 +172,53 @@ Lai iegūtu papildinformāciju, apmeklējiet mūsu palīdzības lapu
 
 ---
 
-<detaļas>
-<summary> _noklikšķini uz manis_
+<details>
+<summary>noklikšķiniet uz manis
 
 ## Vēlētāju apspiešana
 </summary>
 
 
-Vēlētāji ASV štatos reģistrējas, lai balsotu galu galā savas dzīvesvietas valsts sekretāra tīmekļa vietnē.
+Vēlētāji ASV štatos reģistrējas, lai balsotu galu galā savas dzīvesvietas štata valsts sekretāra tīmekļa vietnē.
 Republikāņu kontrolētie valsts sekretāru biroji iesaistās vēlētāju slāpēšanā, izmantojot Cloudflare starpniecību valsts sekretāra vietni.
-Mākoņu uzliesmojuma naidīgā izturēšanās pret Tor lietotājiem, tā MITM kā centralizētā globālā uzraudzības punkta pozīcija un tā kaitīgā loma kopumā
-potenciālajiem vēlētājiem liek nelabprāt reģistrēties. Jo īpaši liberāļi cenšas aptvert privātumu. Vēlētāju reģistrācijas veidlapās tiek apkopota slepena informācija par vēlētāja politisko noslieci, personas fizisko adresi, sociālās apdrošināšanas numuru un dzimšanas datumu.
-Lielākā daļa valstu publisko tikai šīs informācijas apakškopu, bet Cloudflare redz visu šo informāciju ***, kad kāds reģistrējas balsošanai.
+Cloudflare naidīgā attieksme pret Tor lietotājiem, tās MITM kā centralizētā globālā uzraudzības punkta pozīcija un tās kaitīgā loma kopumā liek potenciālajiem vēlētājiem nevēlēties reģistrēties.
+Jo īpaši liberāļi cenšas aptvert privātumu.
+Vēlētāju reģistrācijas veidlapās tiek apkopota slepena informācija par vēlētāja politisko noslieci, personas fizisko adresi, sociālās apdrošināšanas numuru un dzimšanas datumu.
+Lielākā daļa valstu publisko tikai šīs informācijas apakškopu, bet Cloudflare visu šo informāciju redz, kad kāds reģistrējas balsošanai.
 
-Ņemiet vērā, ka reģistrācija uz papīra neliek apiet Cloudflare, jo valsts datu ievades darbinieku sekretārs, iespējams, izmantos
-Vietne Cloudflare datu ievadīšanai.
+Ņemiet vērā, ka reģistrēšana uz papīra neliek apiet Cloudflare, jo datu ievadīšanas valsts sekretārs, visticamāk, datu ievadīšanai izmantos Cloudflare vietni.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org ir slavena vietne balsojumu apkopošanai un rīcībai. "[Cilvēki visur sāk kampaņas, mobilizē atbalstītājus un sadarbojas ar lēmumu pieņēmējiem, lai virzītu risinājumus.](https://web.archive.org/web/20200206120027/https://www.change.org/about)"
-Diemžēl Cloudflare agresīvā filtra dēļ daudzi cilvēki vispār nevar apskatīt change.org. Viņiem tiek liegts parakstīt petīciju, tādējādi izslēdzot viņus no demokrātiskā procesa. Izmantojot citu platformu, kas nav aizklāta, piemēram, [OpenPetition](https://www.openpetition.eu/content/about_us), problēmu var novērst.
+- Change.org ir slavena vietne balsojumu apkopošanai un rīcībai.
+“cilvēki visur sāk kampaņas, mobilizē atbalstītājus un sadarbojas ar lēmumu pieņēmējiem, lai virzītu risinājumus.”
+Diemžēl Cloudflare agresīvā filtra dēļ daudzi cilvēki vispār nevar apskatīt change.org.
+Viņiem tiek liegts parakstīt petīciju, tādējādi izslēdzot viņus no demokrātiskā procesa.
+Citas platformas, kas nav aizklāta, piemēram, OpenPetition, izmantošana palīdz novērst problēmu.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- Cloudflare vietne “[Athenian Project](https://www.cloudflare.com/athenian/)” piedāvā bezmaksas uzņēmuma līmeņa aizsardzību valsts un pašvaldību vēlēšanu vietnēm. Viņi teica, ka "viņu vēlētāji var piekļūt informācijai par vēlēšanām un vēlētāju reģistrēšanai", bet tas ir meli, jo daudzi cilvēki vietni vienkārši nevar pārlūkot.
+- Cloudflare "Athenian Project" piedāvā bezmaksas uzņēmuma līmeņa aizsardzību valsts un pašvaldību vēlēšanu vietnēm.
+Viņi teica, ka "viņu vēlētāji var piekļūt informācijai par vēlēšanām un vēlētāju reģistrācijai", bet tas ir meli, jo daudzi cilvēki vienkārši nemaz nevar pārlūkot vietni.
 
 </details>
 
 ---
 
-<detaļas>
-<summary> _noklikšķini uz manis_
+<details>
+<summary>noklikšķiniet uz manis
 
 ## Lietotāja izvēles ignorēšana
 </summary>
 
 
-Ja atsakāties no kaut kā, jūs domājat, ka par to nesaņemsit e-pastu. Mākoņa uzliesmojums ignorē lietotāja izvēli un koplieto datus ar trešo personu korporācijām [bez klienta piekrišanas](https://twitter.com/thexpaw/status/1108424723233419264). Ja jūs izmantojat viņu bezmaksas plānu, viņi dažreiz sūta jums e-pastu, lūdzot iegādāties ikmēneša abonementu.
+Ja atsakāties no kaut kā, jūs domājat, ka par to nesaņemsit e-pastu.
+Cloudflare ignorē lietotāja izvēli un bez klienta piekrišanas koplieto datus ar trešo personu korporācijām.
+Ja jūs izmantojat viņu bezmaksas plānu, viņi dažreiz sūta jums e-pastu ar lūgumu iegādāties ikmēneša abonementu.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -212,21 +226,26 @@ Ja atsakāties no kaut kā, jūs domājat, ka par to nesaņemsit e-pastu. Māko�
 
 ---
 
-<detaļas>
-<summary> _noklikšķini uz manis_
+<details>
+<summary>noklikšķiniet uz manis
 
 ## Guļ par lietotāja datu dzēšanu
 </summary>
 
 
-Saskaņā ar šo [ex-cloudflare klienta emuāru](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), Cloudflare melo par kontu dzēšanu. Mūsdienās daudzi [uzņēmumi glabā jūsu datus](https://justdeleteme.xyz/) pēc konta slēgšanas vai noņemšanas. Lielākā daļa labu uzņēmumu to piemin savā privātuma politikā. Mākoņa uzliesmojums? Nē.
+Saskaņā ar šo bijušā mākoņainības klienta emuāru, Cloudflare melo par kontu dzēšanu.
+Mūsdienās daudzi uzņēmumi glabā jūsu datus pēc konta slēgšanas vai noņemšanas.
+Lielākā daļa labu uzņēmumu to piemin savā privātuma politikā.
+Mākoņa uzliesmojums? Nē.
 
 ```
-2019-08-05 CloudFlare nosūtīja man apstiprinājumu, ka viņi ir noņemuši manu kontu.
-2019-10-02 es saņēmu e-pastu no CloudFlare ", jo es esmu klients"
+2019-08-05 CloudFlare man atsūtīja apstiprinājumu, ka viņi ir noņemuši manu kontu.
+2019-10-02 Es saņēmu e-pastu no CloudFlare ", jo esmu klients"
 ```
 
-Mākoņa uzliesmojums nezināja par vārdu "noņemt". Ja tas tiešām ir _removed_, kāpēc šis bijušais klients saņēma e-pastu? Viņš arī minēja, ka Cloudflare privātuma politikā par to nav minēts.
+Mākoņa uzliesmojums nezināja par vārdu "noņemt".
+Ja tas patiešām tiek noņemts, kāpēc šim bijušajam klientam tika nosūtīts e-pasts?
+Viņš arī minēja, ka Cloudflare privātuma politikā par to nav minēts.
 
 ```
 Viņu jaunajā privātuma politikā nav pieminēts datu saglabāšana gadu.
@@ -234,20 +253,20 @@ Viņu jaunajā privātuma politikā nav pieminēts datu saglabāšana gadu.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Kā jūs varat uzticēties Cloudflare, ja [viņu privātuma politika ir LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+Kā jūs varat uzticēties Cloudflare, ja viņu privātuma politika ir LIE?
 
 </details>
 
 ---
 
-<detaļas>
-<summary> _noklikšķini uz manis_
+<details>
+<summary>noklikšķiniet uz manis
 
-## Saglabājiet savu personisko informāciju
+## Saglabājiet personisko informāciju
 </summary>
 
 
-Cloudflare konta dzēšana ir [cietais līmenis](https://justdeleteme.xyz/).
+Cloudflare konta dzēšana ir sarežģīta.
 
 ```
 Iesniedziet atbalsta biļeti, izmantojot kategoriju "Konts",
@@ -255,7 +274,7 @@ un pieprasīt konta dzēšanu ziņojuma pamattekstā.
 Pirms dzēšanas pieprasīšanas kontam nedrīkst būt pievienoti domēni vai kredītkartes.
 ```
 
-Jūs [saņemsit šo apstiprinājuma e-pastu](https://twitter.com/originalesushi/status/1199041528414527495).
+Jūs saņemsit šo apstiprinājuma e-pastu.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
@@ -267,7 +286,7 @@ Vai jūs varat tam "uzticēties"?
 
 ---
 
-## Lūdzu, turpiniet nākamo lapu: "[Cloudflare Voices](../PEOPLE.md)"
+## Lūdzu, turpiniet uz nākamo lapu:   [Mākoņa aizdegšanās balsis](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
