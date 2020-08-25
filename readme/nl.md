@@ -53,24 +53,11 @@
 |  Misschien weet u al van het PRISM-schandaal.Het is waar dat AT&T de NSA toestaat alle internetgegevens te kopiëren voor bewaking. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Stel dat u bij de NSA werkt en dat u het internetprofiel van elke burger wilt.U weet dat de meesten van hen Cloudflare blindelings vertrouwen en het gebruiken - slechts één gecentraliseerde gateway - om hun bedrijfsserververbinding (SSH / RDP), persoonlijke website, chatwebsite, forumwebsite, bankwebsite, verzekeringswebsite, zoekmachine, geheim lid te proxy -alleen website, veilingwebsite, winkel-, videowebsite, NSFW-website en illegale website.U weet ook dat ze de DNS-service ("1.1.1.1") en VPN-service ("Cloudflare Warp") van Cloudflare gebruiken voor "Secure! Sneller! Beter!" internetervaring.Het combineren met het IP-adres van de gebruiker, de vingerafdruk van de browser, cookies en RAY-ID zal nuttig zijn om het online profiel van het doelwit op te bouwen. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  U wilt hun gegevens. Wat ga je doen? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare is een honingpot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Gratis honing voor iedereen. Enkele touwtjes eraan.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Gebruik Cloudflare niet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentraliseer het internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare is een honingpot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Gratis honing voor iedereen. Enkele touwtjes eraan.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Gebruik Cloudflare niet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentraliseer het internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Deze repository is een lijst met websites die achter "The Great Cloudwall" staan
 * [Probeer en schrijf een nieuwe tool / script.](../tool/)
 
 * [Hier is wat PDF / ePUB om te lezen.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
