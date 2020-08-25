@@ -53,24 +53,11 @@
 |  PRISM ଦୁର୍ନୀତି ବିଷୟରେ ଆପଣ ହୁଏତ ଜାଣିଥିବେ |ଏହା ସତ୍ୟ ଯେ AT&T NSA କୁ ତଦାରଖ ପାଇଁ ସମସ୍ତ ଇଣ୍ଟରନେଟ୍ ତଥ୍ୟ କପି କରିବାକୁ ଦେଇଥାଏ | | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  ଧରାଯାଉ ତୁମେ NSA ରେ କାମ କରୁଛ, ଏବଂ ତୁମେ ପ୍ରତ୍ୟେକ ନାଗରିକଙ୍କ ଇଣ୍ଟରନେଟ୍ ପ୍ରୋଫାଇଲ୍ ଚାହୁଁଛ |ଆପଣ ଜାଣନ୍ତି ଯେ ସେମାନଙ୍କ ମଧ୍ୟରୁ ଅଧିକାଂଶ ଅନ୍ଧ ଭାବରେ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ଉପରେ ବିଶ୍ trust ାସ କରୁଛନ୍ତି ଏବଂ ଏହାକୁ ବ୍ୟବହାର କରୁଛନ୍ତି - କେବଳ ଗୋଟିଏ କେନ୍ଦ୍ରୀଭୂତ ଗେଟୱେ - ସେମାନଙ୍କ କମ୍ପାନୀ ସର୍ଭର ସଂଯୋଗ (SSH / RDP), ବ୍ୟକ୍ତିଗତ ୱେବସାଇଟ୍, ଚାଟ୍ ୱେବସାଇଟ୍, ଫୋରମ୍ ୱେବସାଇଟ୍, ବ୍ୟାଙ୍କ ୱେବସାଇଟ୍, ବୀମା ୱେବସାଇଟ୍, ସର୍ଚ୍ଚ ଇଞ୍ଜିନ୍, ଗୁପ୍ତ ସଦସ୍ୟ | କେବଳ ୱେବସାଇଟ୍, ନିଲାମ ୱେବସାଇଟ୍, ସପିଂ, ଭିଡିଓ ୱେବସାଇଟ୍, NSFW ୱେବସାଇଟ୍ ଏବଂ ବେଆଇନ ୱେବସାଇଟ୍ |ଆପଣ ଜାଣନ୍ତି ଯେ ସେମାନେ “ସୁରକ୍ଷିତ” ପାଇଁ କ୍ଲାଉଡଫ୍ଲେୟାରର DNS ସେବା ("1.1.1.1") ଏବଂ VPN ସେବା ("କ୍ଲାଉଡଫ୍ଲେର୍ ୱାର୍ପ") ବ୍ୟବହାର କରନ୍ତି! ଶୀଘ୍ର! ଭଲ! ” ଇଣ୍ଟରନେଟ୍ ଅଭିଜ୍ଞତା |ସେମାନଙ୍କୁ ବ୍ୟବହାରକାରୀଙ୍କ IP ଠିକଣା, ବ୍ରାଉଜର୍ ଫିଙ୍ଗର ପ୍ରିଣ୍ଟ, କୁକିଜ୍ ଏବଂ RAY-ID ସହିତ ମିଶାଇ ଟାର୍ଗେଟର ଅନଲାଇନ୍ ପ୍ରୋଫାଇଲ୍ ନିର୍ମାଣ କରିବାରେ ଉପଯୋଗୀ ହେବ | | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  ଆପଣ ସେମାନଙ୍କର ତଥ୍ୟ ଚାହୁଁଛନ୍ତି | ତୁମେ କଣ କରିବ? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ହେଉଛି ଏକ ହନିପଟ୍ |** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **ସମସ୍ତଙ୍କ ପାଇଁ ମାଗଣା ମହୁ | କିଛି ଷ୍ଟ୍ରିଙ୍ଗ୍ ସଂଲଗ୍ନ ହୋଇଛି |** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ |** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **ଇଣ୍ଟରନେଟକୁ ବିକେନ୍ଦ୍ରୀକରଣ କରନ୍ତୁ |** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ହେଉଛି ଏକ ହନିପଟ୍ |
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### ସମସ୍ତଙ୍କ ପାଇଁ ମାଗଣା ମହୁ | କିଛି ଷ୍ଟ୍ରିଙ୍ଗ୍ ସଂଲଗ୍ନ ହୋଇଛି |
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ |
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### ଇଣ୍ଟରନେଟକୁ ବିକେନ୍ଦ୍ରୀକରଣ କରନ୍ତୁ |
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [ନୂତନ ଉପକରଣ / ସ୍କ୍ରିପ୍ଟ ଚେଷ୍ଟା ଏବଂ ଲେଖନ୍ତୁ |](../tool/)
 
 * [ପ read ିବାକୁ ଏଠାରେ କିଛି PDF / ePUB ଅଛି |](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
