@@ -53,24 +53,11 @@
 |  Vous connaissez peut-être déjà le scandale PRISM.Il est vrai qu'AT & T permet à la NSA de copier toutes les données Internet à des fins de surveillance. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Disons que vous travaillez à la NSA et que vous voulez le profil Internet de chaque citoyen.Vous savez que la plupart d'entre eux font aveuglément confiance à Cloudflare et l'utilisent - une seule passerelle centralisée - pour proxy leur connexion au serveur d'entreprise (SSH / RDP), site Web personnel, site de chat, site de forum, site de banque, site d'assurance, moteur de recherche, membre secret -uniquement site Web, site Web d'enchères, magasinage, site Web vidéo, site Web NSFW et site Web illégal.Vous savez également qu'ils utilisent le service DNS de Cloudflare ("1.1.1.1") et le service VPN ("Cloudflare Warp") pour "Secure! Plus rapide! Mieux!" expérience Internet.Les combiner avec l'adresse IP, l'empreinte digitale du navigateur, les cookies et le RAY-ID de l'utilisateur sera utile pour créer le profil en ligne de la cible. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Vous voulez leurs données. Que vas-tu faire? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare est un pot de miel.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Du miel gratuit pour tout le monde. Certaines conditions sont attachées.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **N'utilisez pas Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Décentraliser Internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare est un pot de miel.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Du miel gratuit pour tout le monde. Certaines conditions sont attachées.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### N'utilisez pas Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Décentraliser Internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Ce référentiel est une liste de sites Web derrière "The Great Cloudwall", blo
 * [Essayez et écrivez un nouvel outil / script.](../tool/)
 
 * [Voici quelques PDF / ePUB à lire.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
