@@ -42,7 +42,7 @@ If you don't [ask for it](PEOPLE.md), website owner *never* know this problem.
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/liberapay.jpg)
 
 [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
-You have a problem? Raise your voice now. Example below.
+You have a problem? [Raise your voice now](https://github.com/maraoz/maraoz.github.io/issues/1). Example below.
 
 ```
 You are just helping corporate censorship and mass surveillance.
