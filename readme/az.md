@@ -53,24 +53,11 @@
 |  PRİZM qalmaqalı haqqında artıq bilə bilərsən.Düzdür, AT&T NSA-ya bütün internet məlumatlarını nəzarət üçün kopyalamağa imkan verir. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Deyək ki, NSA-da işləyirsiniz və hər bir vətəndaşın internet profilini istəyirsiniz.Onların əksəriyyətinin Cloudflare-ya kor-koranə güvəndiyini və bundan istifadə etdiyini - yalnız bir mərkəzləşdirilmiş şlüz - şirkətlərinin server bağlantısını (SSH / RDP), şəxsi veb saytını, söhbət saytını, forum veb saytını, bank veb saytını, sığorta veb saytını, axtarış motorunu, gizli üzvünü proksi etmək üçün istifadə etdiyini bilirsiniz. - yalnız veb sayt, auksion veb saytı, alış-veriş, video veb sayt, NSFW veb saytı və qanunsuz veb sayt.Cloudflare'nin DNS xidmətindən ("1.1.1.1") və VPN xidmətindən ("Cloudflare Warp") "Təhlükəsiz! Daha sürətli! Daha yaxşı! ” internet təcrübəsi.Onları istifadəçinin IP ünvanı, brauzerin barmaq izi, peçenye və RAY-ID ilə birləşdirmək hədəf onlayn profil yaratmaq üçün faydalı olacaqdır. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Onların məlumatlarını istəyirsən. Nə edəcəksən? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare bir bal qabıdır.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Hər kəs üçün pulsuz bal. Bəzi iplər bağlandı.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare istifadə etməyin.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **İnterneti mərkəzsizləşdirin.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare bir bal qabıdır.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Hər kəs üçün pulsuz bal. Bəzi iplər bağlandı.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare istifadə etməyin.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### İnterneti mərkəzsizləşdirin.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Bulud" a
 * [Yeni alət / skript yazın.](../tool/)
 
 * [Burada oxumaq üçün bəzi PDF / ePUB var.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
