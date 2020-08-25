@@ -53,24 +53,11 @@
 |  Դուք արդեն կարող եք իմանալ PRISM սկանդալի մասին:Իշտ է, AT&T- ն ԱԱԾ-ին թույլ է տալիս բոլոր ինտերնետ տվյալների պատճենել հսկողության համար: | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Եկեք ասենք, որ աշխատում եք ԱԱԾ-ում, և ցանկանում եք յուրաքանչյուր քաղաքացու ինտերնետային պրոֆիլ:Դուք գիտեք, որ նրանց մեծ մասը կուրորեն վստահում է Cloudflare- ին և օգտագործում է այն ՝ միայն մեկ կենտրոնացված դարպաս, որպեսզի վստահի իրենց ընկերության սերվերի կապը (SSH / RDP), անձնական կայքը, չաթ կայքը, ֆորումի կայքը, բանկի կայքը, ապահովագրության կայքը, որոնիչը, գաղտնի անդամը մեկական կայք, աճուրդների կայք, գնումներ, վիդեո կայք, NSFW կայք և ապօրինի կայք:Դուք նաև գիտեք, որ նրանք օգտագործում են Cloudflare- ի DNS ծառայությունը («1.1.1.1») և VPN ծառայությունը («Cloudflare Warp») «Ապահով! Ավելի արագ: Ավելի լավ է »: ինտերնետի փորձ:Դրանք համադրելով օգտագործողի IP հասցեի, զննարկչի մատնահետքի, cookie- ների և RAY-ID- ի հետ, օգտակար կլինեն նպատակային առցանց պրոֆիլը կառուցելու համար: | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Դուք ուզում եք նրանց տվյալները: Ի՞նչ կանես | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare- ը մեղր է:** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Բոլորի համար անվճար մեղր: Մի քանի տող կցված է:** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Մի օգտագործեք Cloudflare:** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Ապակենտրոնացնել ինտերնետը:** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare- ը մեղր է:
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Բոլորի համար անվճար մեղր: Մի քանի տող կցված է:
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Մի օգտագործեք Cloudflare:
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Ապակենտրոնացնել ինտերնետը:
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Փորձեք և գրեք նոր գործիք / սցենար:](../tool/)
 
 * [Ահա PDF / ePUB- ը կարդալու համար:](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
