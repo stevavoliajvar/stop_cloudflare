@@ -53,24 +53,11 @@
 |  PRISM шуугианы талаар та аль хэдийн мэдэж байсан байх.AT&T нь ​​NSA-д танд зориулж интернетийн бүх өгөгдлийг хуулах боломжийг олгодог нь үнэн юм. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Таныг NSA-т ажиллаж байгаа гэдгээ хэлээрэй, тэгвэл иргэн бүрийг интернетэд нэвтрэхийг хүсч байна.Тэдний ихэнх нь Cloudflare-д сохроор итгэдэг бөгөөд үүнийг ашигладаг - зөвхөн нэг төвлөрсөн гарц байдаг - тэдний компаний серверийн холболтыг (SSH / RDP) прокси хийх, хувийн вэбсайт, чат вэбсайт, форум вэбсайт, банкны вэбсайт, даатгалын вэбсайт, хайлтын систем, нууц гишүүн. - зөвхөн вэбсайт, дуудлага худалдааны вэбсайт, дэлгүүр, видео вэбсайт, NSFW вэбсайт, хууль бус вэбсайт.Та эдгээрийг Cloudflare-ийн DNS үйлчилгээ ("1.1.1.1") болон VPN үйлчилгээг ("Cloudflare Warp") "Аюулгүй! Илүү хурдан! Илүү дээр! ”Гэдэг. интернет туршлага.Хэрэглэгчийн IP хаяг, хөтөчийн хурууны хээ, күүки, RAY-ID зэргийг нэгтгэснээр зорилтот онлайн профайл үүсгэхэд хэрэгтэй болно. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Та тэдний датаг авахыг хүсч байна. Та юу хийх вэ? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare бол зөгийн бал юм.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Бүх хүнд үнэгүй зөгийн бал. Зарим нэг мөрийг хавсаргасан.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare ашиглаж болохгүй.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Интернетийг төвлөрлийг сааруулах.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare бол зөгийн бал юм.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Бүх хүнд үнэгүй зөгийн бал. Зарим нэг мөрийг хавсаргасан.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare ашиглаж болохгүй.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Интернетийг төвлөрлийг сааруулах.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Шинэ Багаж / Скриптийг ашиглаж үзнэ үү.](../tool/)
 
 * [Энд PDF / ePUB-г уншина уу.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
