@@ -53,24 +53,11 @@
 |  Potser ja sabreu sobre l’escàndol PRISM.És cert que AT&T permet a NSA copiar totes les dades d’internet per a la seva vigilància. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Diguem que treballes a l’NSA i que desitges el perfil d’internet de cada ciutadà.Sabeu que la majoria d’ells confien cegament en Cloudflare i l’utilitzen (només una passarel·la centralitzada) per fer referència a la connexió del servidor de la seva empresa (SSH / RDP), lloc web personal, lloc web de xat, lloc web del fòrum, lloc web del banc, lloc web d’assegurances, motor de cerca, membre secret -un lloc web únic, lloc web de subhastes, compres, lloc web de vídeos, lloc web NSFW i lloc web il·legals.També sabeu que utilitzen el servei DNS de Cloudflare ("1.1.1.1") i el servei VPN ("Cloudflare Warp") per a "Secure! Més ràpid! Millor!" experiència a Internet.Si es combinen amb l’adreça IP de l’usuari, l’empremta digital del navegador, les cookies i el RAY-ID, serà útil per crear el perfil en línia del destinatari. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Vostè vol les seves dades. Què faràs? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare és un punt mel.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Mel gratis per a tothom. Algunes cadenes enganxades.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **No utilitzeu Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Descentralitzar Internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare és un punt mel.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Mel gratis per a tothom. Algunes cadenes enganxades.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### No utilitzeu Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Descentralitzar Internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
 * [Proveu i escrigui nova eina / script.](../tool/)
 
 * [A continuació, es descriuen alguns PDF / ePUB.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
