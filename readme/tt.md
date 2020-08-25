@@ -53,24 +53,11 @@
 |  Сез PRISM җәнҗалы турында белә аласыз.Дөрес, AT&T NSAга күзәтү өчен барлык интернет мәгълүматларын күчерергә мөмкинлек бирә. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Әйтик, сез NSAда эшлисез, һәм сез һәрбер гражданның интернет профилен телисез.Син беләсең, аларның күбесе сукырларча Cloudflare ышаналар һәм аны кулланалар - бер үзәкләштерелгән шлюз - компания серверына тоташу (SSH / RDP), шәхси сайт, чат сайты, форум сайты, банк сайты, страховка сайты, эзләү системасы, яшерен әгъза. - бердәнбер сайт, аукцион сайты, кибет, видео сайт, NSFW сайты, һәм законсыз сайт.Сез шулай ук ​​Cloudflare'ның DNS сервисын ("1.1.1.1") һәм VPN сервисын ("Cloudflare Warp") "Куркынычсыз" өчен кулланганнарын беләсез! Тизрәк! Яхшырак! " Интернет тәҗрибәсе.Аларны кулланучының IP адресы, браузерның бармак эзе, cookies һәм RAY-ID белән берләштерү максатчан онлайн профиль төзү өчен файдалы булачак. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Сез аларның мәгълүматларын телисез. Нишләячәксең? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare - бал корты.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Барысы өчен бушлай бал. Кайбер кыллар бәйләнгән.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare кулланмагыз.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Интернетны үзәкләштермә.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare - бал корты.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Барысы өчен бушлай бал. Кайбер кыллар бәйләнгән.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare кулланмагыз.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Интернетны үзәкләштермә.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Яңа Корал / Скриптны карагыз.](../tool/)
 
 * [Менә берничә PDF / ePUB укырга.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
