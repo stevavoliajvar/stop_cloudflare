@@ -53,24 +53,11 @@
 |  PRISM skandalını zaten biliyor olabilirsiniz.AT&T'nin NSA'nın gözetim için tüm internet verilerini kopyalamasına izin verdiği doğrudur. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Diyelim ki NSA'da çalışıyorsunuz ve her vatandaşın internet profilini istiyorsunuz.Birçoğunun Cloudflare'a körü körüne güvendiğini ve şirket sunucu bağlantılarını (SSH / RDP), kişisel web sitesini, sohbet web sitesini, forum web sitesini, banka web sitesini, sigorta web sitesini, arama motorunu, gizli üye için proxy yapmak için yalnızca bir merkezi ağ geçidi kullandığını biliyorsunuz. -yalnızca web sitesi, açık artırma web sitesi, alışveriş, video web sitesi, NSFW web sitesi ve yasadışı web sitesi.Ayrıca "Güvenli! İçin Cloudflare’nin DNS hizmetini (" 1.1.1.1 ") ve VPN hizmetini (" Cloudflare Warp ") kullandıklarını da biliyorsunuz. Daha hızlı! Daha iyi!" internet deneyimi.Bunları kullanıcının IP adresi, tarayıcı parmak izi, çerezler ve RAY-ID ile birleştirmek, hedefin çevrimiçi profilini oluşturmak için yararlı olacaktır. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Onların verilerini istiyorsun. Ne yapacaksın? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare bir bal küpüdür.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Herkese bedava bal. Bazı dizeler eklenmiştir.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare kullanmayın.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **İnterneti merkezden uzaklaştırın.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare bir bal küpüdür.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Herkese bedava bal. Bazı dizeler eklenmiştir.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare kullanmayın.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### İnterneti merkezden uzaklaştırın.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Bu depo, Tor kullanıcılarını ve diğer CDN'leri engelleyen "The Great Cloudw
 * [Yeni Araç / Komut Dosyası deneyin ve yazın.](../tool/)
 
 * [İşte okumak için bazı PDF / ePUB.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
