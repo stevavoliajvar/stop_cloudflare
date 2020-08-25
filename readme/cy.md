@@ -53,24 +53,11 @@
 |  Efallai eich bod eisoes yn gwybod am y sgandal PRISM.Mae'n wir bod AT&T yn gadael i'r NSA gopïo'r holl ddata rhyngrwyd ar gyfer gwyliadwriaeth. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Gadewch i ni ddweud eich bod chi'n gweithio yn yr NSA, ac rydych chi eisiau proffil rhyngrwyd pob dinesydd.Rydych chi'n gwybod bod y mwyafrif ohonyn nhw'n ymddiried yn ddall yn Cloudflare ac yn ei ddefnyddio - dim ond un porth canolog - i ddirprwyo eu cysylltiad gweinydd cwmni (SSH / RDP), gwefan bersonol, gwefan sgwrsio, gwefan fforwm, gwefan banc, gwefan yswiriant, peiriant chwilio, aelod cudd - gwefan yn unig, gwefan ocsiwn, siopa, gwefan fideo, gwefan NSFW, a gwefan anghyfreithlon.Rydych hefyd yn gwybod eu bod yn defnyddio gwasanaeth DNS Cloudflare ("1.1.1.1") a gwasanaeth VPN ("Cloudflare Warp") ar gyfer "Secure! Yn gyflymach! Gwell! ” profiad rhyngrwyd.Bydd eu cyfuno â chyfeiriad IP y defnyddiwr, olion bysedd y porwr, cwcis ac RAY-ID yn ddefnyddiol i adeiladu proffil ar-lein y targed. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Rydych chi eisiau eu data. Beth fyddwch chi'n ei wneud? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Potyn mêl yw Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Mêl am ddim i bawb. Rhai llinynnau ynghlwm.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Peidiwch â defnyddio Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Datganoli'r rhyngrwyd.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Potyn mêl yw Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Mêl am ddim i bawb. Rhai llinynnau ynghlwm.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Peidiwch â defnyddio Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Datganoli'r rhyngrwyd.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "The Great Cloudwall", ga
 * [Ceisiwch ac ysgrifennwch Offeryn / Sgript newydd.](../tool/)
 
 * [Dyma ychydig o PDF / ePUB i'w ddarllen.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
