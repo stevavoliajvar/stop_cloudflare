@@ -53,24 +53,11 @@
 |  Kei te mohio pea koe mo te kohinga PRISM.He tika kei te AT&T te tuku ki te NSA ki te kape i nga raraunga ipurangi katoa hei tirotiro. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Me ki atu kei te mahi koe i te NSA, a kei te hiahia koe ki nga korero ipurangi a nga tangata.E mohio ana koe ko te nuinga o ratou e whakawhirinaki ana ki a Cloudflare me te whakamahi - kotahi noa te tomokanga - ki te whakauru i a raatau hononga tūmau kamupene (SSH / RDP), paetukutuku whaiaro, paetukutuku korerorero, paetukutuku paetukutuku, paetukutuku peeke, paetukutuku inihua, search engine, mema huna -Te paetukutuku, paetukutuku hokohoko, hokohoko, paetukutuku ataata, paetukutuku NSFW, me te paetukutuku aitua.Kei te mohio ano koe kei te whakamahi i te ratonga DNS a Cloudflare ("1.1.1.1") me te ratonga VPN ("Cloudflare Warp") mo te "Haumaru! Ka tere! He pai! " wheako ipurangi.Ko te whakakotahi i a raatau me te Wāhitau IP a te kaiwhakamahi, te tohu tohi tirotiro, pihikete me te RAY-ID ka whai hua ki te hanga i te kōtaha tuunga a te hunga whaainga | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Kei te hiahia koe ki a raatau raraunga. Ka aha koe? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Ko te Cloudflare he honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Honi koretake mo te katoa. Ko etahi aho e piri ana.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Kaua e whakamahi i Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Te whakatau i te ipurangi.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Ko te Cloudflare he honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Honi koretake mo te katoa. Ko etahi aho e piri ana.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Kaua e whakamahi i Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Te whakatau i te ipurangi.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Ko tenei kohinga tetahi raarangi o nga paetukutuku kei muri i te "The Cloudwall 
 * [Whakamātauhia me tuhia te taputapu / Panui hou.](../tool/)
 
 * [Anei etahi PDF / ePUB hei panui.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
