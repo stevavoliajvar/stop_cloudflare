@@ -53,24 +53,11 @@
 |  Morda že veste za škandal z PRISM.Res je, da AT&T dovoljuje agenciji NSA, da kopira vse internetne podatke za nadzor. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Recimo, da delate pri NSA in želite imeti internetni profil vsakega državljana.Veste, da večina njih slepo zaupa Cloudflare-ju in uporablja le - en sam centraliziran prehod - za posredovanje povezave s svojim podjetniškim strežnikom (SSH / RDP), osebnim spletnim mestom, spletnim mestom za klepete, spletnim mestom na forumu, bančnim spletnim mestom, zavarovalnim mestom, iskalnikom, tajnim članom samo spletna stran, spletna stran za dražbe, nakupovanje, video spletna stran, spletna stran NSFW in nezakonita spletna stran.Prav tako veste, da uporabljajo storitev DNS Cloudflare ("1.1.1.1)" in storitev VPN ("Cloudflare Warp") za "Varno! Hitreje! Bolje! " internetna izkušnja.Če jih sestavite z uporabnikovim IP-naslovom, prstnim odtisom brskalnika, piškotki in ID-jem RAY-ja, bo koristno za izdelavo spletnega profila cilja. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Želiš njihove podatke. Kaj boš naredil? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare je satje.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Brezplačen med za vse. Nekaj ​​strun je pripetih.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ne uporabljajte Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralizirajte internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare je satje.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Brezplačen med za vse. Nekaj ​​strun je pripetih.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ne uporabljajte Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralizirajte internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ To skladišče je seznam spletnih mest, ki stojijo za "Great Cloudwall" in bloki
 * [Poskusite in napišite novo orodje / skript.](../tool/)
 
 * [Tukaj je prebrati nekaj PDF / ePUB.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
