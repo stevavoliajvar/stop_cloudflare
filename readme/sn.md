@@ -53,24 +53,11 @@
 |  Iwe unogona kunge uchitoziva nezve PRISM yekunyomba.Ichokwadi kuti AT & T inobvumira NSA kutevedzera data rese internet rekutarisa. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Ngatitaurei kuti urikushanda paNSA, uye unoda mupi wega wega wemo internet.Iwe unoziva vazhinji vavo vanovimba nekukurumidza Cloudflare uye vachiishandisa - imwechete yakavharirwa gedhi - kubvumidza yavo kambani server server (SSH / RDP), webhusaiti webhusaiti, webhusaiti webhusaiti, webhusaiti webhusaiti, webhusaiti webhusaiti, webhusaiti webhusaiti, injini yekutsvaga, nhengo yakavanzika. -only webhusaiti, webhusaiti webhusaiti, kutenga, vhidhiyo webhusaiti, NSFW webhusaiti, uye webhusaiti zvisiri pamutemo.Iwe zvakare unoziva vanoshandisa Cloudflare's DNS service ("1.1.1.1") uye basa reVPN ("Cloudflare Warp") ye "Chengetedzwa! Nokukurumidza! Zvirinani! ” internet ruzivo.Kuzvisanganisa nekero yevashandisi yeIP, browser yeminwe, makuki uye RAY-ID zvichabatsira kuvaka mbiri yepamhepo | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Iwe unoda yavo data. Uchaiteiko? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare huchi huchi.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Hura huchi hwemunhu wese. Dzimwe tambo dzakabatanidzwa.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Usashandise Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralize internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare huchi huchi.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Hura huchi hwemunhu wese. Dzimwe tambo dzakabatanidzwa.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Usashandise Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralize internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure kwe "Iyo huru Cloudwall", 
 * [Edza & nyora nyowani Tool / script.](../tool/)
 
 * [Heano mamwe maPDP / ePUB ekuverenga.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
