@@ -53,24 +53,11 @@
 |  Ju tashmë mund të dini për skandalin PRISM.Shtë e vërtetë që AT&T i lejon NSA të kopjojë të gjitha të dhënat e internetit për mbikëqyrje. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Le të themi se jeni duke punuar në NSA, dhe ju doni profilin e internetit të çdo qytetari.Ju e dini që shumica e tyre besojnë verbërisht në Cloudflare dhe e përdorin atë - vetëm një portë të centralizuar - për të lidhur lidhjen e serverit të kompanisë së tyre (SSH / RDP), uebfaqen personale, uebfaqen e chatit, faqen e internetit të forumit, faqen e internetit të bankës, faqen e internetit të sigurimeve, motorin e kërkimit, anëtarin e fshehtë një faqe në internet, ankand në internet, pazar, video në internet, Uebfaqe NSFW dhe uebfaqe të paligjshme.Ju gjithashtu e dini që ata përdorin shërbimin DNS të Cloudflare ("1.1.1.1") dhe shërbimin VPN ("Cloudflare Warp") për "Sigurt! Më shpejt! Më mirë! " përvoja në internet.Kombinimi i tyre me adresën IP të përdoruesit, gjurmët e gishtave të shfletuesit, cookies dhe RAY-ID do të jetë i dobishëm për të ndërtuar profilin në internet të synuar. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Ju dëshironi të dhënat e tyre. Cfare do te besh? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare është një huall mjalti.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Mjaltë falas për të gjithë. Disa tela të bashkangjitura.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Mos përdorni Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralizoni internetin.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare është një huall mjalti.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Mjaltë falas për të gjithë. Disa tela të bashkangjitura.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Mos përdorni Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralizoni internetin.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Kjo depo është një listë e faqeve të internetit që janë pas "The Great Cl
 * [Provo dhe shkruaj mjetin / skenarin e ri.](../tool/)
 
 * [Këtu keni disa PDF / ePUB për të lexuar.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
