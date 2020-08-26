@@ -53,24 +53,11 @@
 |  Možno už viete o škandále s PRISM-om.Je pravda, že AT&T umožňuje NSA kopírovať všetky internetové údaje na sledovanie. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Povedzme, že pracujete v NSA a chcete internetový profil každého občana.Viete, že väčšina z nich slepo dôveruje službe Cloudflare a používa ju - iba jednu centralizovanú bránu - na proxy pripojenie k firemnému serveru (SSH / RDP), osobné webové stránky, webové stránky rozhovoru, webové stránky fóra, webové stránky banky, poisťovacie webové stránky, vyhľadávacie nástroje, tajný člen. - iba webová stránka, aukčná webová stránka, nakupovanie, webová stránka s videom, webová stránka NSFW a nelegálna webová stránka.Tiež viete, že používajú službu DNS spoločnosti Cloudflare („1.1.1.1“) a službu VPN („Cloudflare Warp“) pre „Bezpečné! Rýchlejšie! Lepšie! " internetový zážitok.Kombinácia týchto údajov s IP adresou používateľa, odtlačkami prstov prehliadača, súbormi cookie a RAY-ID bude užitočná na vytvorenie online profilu cieľa. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Chcete ich údaje. Čo budeš robiť? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare je medonosný.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Med zadarmo pre všetkých. Niektoré reťazce pripojené.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Nepoužívajte Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralizujte internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare je medonosný.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Med zadarmo pre všetkých. Niektoré reťazce pripojené.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Nepoužívajte Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralizujte internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Toto úložisko je zoznam webových stránok, ktoré sú za „Veľkou cloudovou
 * [Vyskúšajte a napíšte nový nástroj / skript.](../tool/)
 
 * [Tu je niekoľko PDF / ePUB, ktoré si môžete prečítať.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
