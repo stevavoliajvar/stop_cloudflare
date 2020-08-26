@@ -53,24 +53,11 @@
 |  B’fhéidir go mbeadh eolas agat cheana faoi scannal PRISM.Is fíor go ligeann AT&T don NSA na sonraí idirlín go léir a chóipeáil le haghaidh faireachais. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Abair go bhfuil tú ag obair ag an NSA, agus teastaíonn próifíl idirlín gach saoránach uait.Tá a fhios agat go bhfuil muinín dall ag an gcuid is mó acu as Cloudflare agus go n-úsáideann siad é - geata láraithe amháin - chun seachfhreastalaí a nasc cuideachta (SSH / RDP), suíomh Gréasáin pearsanta, suíomh Gréasáin comhrá, suíomh Gréasáin fóraim, suíomh Gréasáin bainc, suíomh Gréasáin árachais, inneall cuardaigh, ball rúnda - suíomh Gréasáin amháin, suíomh Gréasáin ceant, siopadóireacht, suíomh Gréasáin físe, suíomh Gréasáin NSFW, agus suíomh Gréasáin mídhleathach.Tá a fhios agat freisin go n-úsáideann siad seirbhís DNS Cloudflare ("1.1.1.1") agus seirbhís VPN ("Cloudflare Warp") le haghaidh "Secure! Níos tapúla! Níos fearr! ” taithí idirlín.Beidh sé úsáideach iad a chomhcheangal le seoladh IP an úsáideora, méarlorg an bhrabhsálaí, na fianáin agus RAY-ID chun próifíl ar líne an sprioc a thógáil. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Ba mhaith leat a gcuid sonraí. Cad a dhéanfaidh tú? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Is pota meala é Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Mil saor in aisce do gach duine. Roinnt teaghráin ceangailte.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ná húsáid Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Déan an t-idirlíon a dhílárú.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Is pota meala é Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Mil saor in aisce do gach duine. Roinnt teaghráin ceangailte.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ná húsáid Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Déan an t-idirlíon a dhílárú.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de "The Gr
 * [Bain triail as & scríobh Uirlis / Script nua.](../tool/)
 
 * [Seo roinnt PDF / ePUB le léamh.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
