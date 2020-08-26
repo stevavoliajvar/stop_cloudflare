@@ -53,24 +53,11 @@
 |  Сіз PRISM жанжалы туралы бұрыннан білетін шығарсыз.AT&T NSA-ға барлық Интернеттегі деректерді бақылауға мүмкіндік беретіні ақиқат. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Сіз NSA-да жұмыс істеп жатырсыз және әр азаматтың интернет-профилін алғыңыз келеді делік.Сіз олардың көпшілігі Cloudflare-ге сенбейтінін және оны пайдаланып жатқанды - тек бір орталықтандырылған шлюзді - компанияның сервер қосылымын (SSH / RDP), жеке веб-сайтты, чат веб-сайтты, форум веб-сайтын, банк веб-сайтын, сақтандыру веб-сайтын, іздеу жүйесін, құпия мүшені проксидеу үшін қолданады. - тек веб-сайт, аукцион веб-сайт, сауда, бейне веб-сайт, NSFW веб-сайты және заңсыз веб-сайт.Сондай-ақ, олар Cloudflare DNS қызметін («1.1.1.1») және VPN қызметін («Cloudflare Warp») «Қауіпсіз! Тезірек! Жақсырақ! » интернет тәжірибесі.Оларды пайдаланушының IP мекенжайымен, шолғыштың саусақ ізімен, cookie файлдарымен және RAY-ID-мен біріктіру мақсатты онлайн профилін құру үшін пайдалы болады. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Сіз олардың деректерін қалайсыз. Сен не істейсің? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare - бұл бал құмыра.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Барлығына тегін бал. Кейбір ішектер бекітілген.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflare қолданбаңыз.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Интернетті орталықсыздандырыңыз.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare - бұл бал құмыра.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Барлығына тегін бал. Кейбір ішектер бекітілген.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflare қолданбаңыз.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Интернетті орталықсыздандырыңыз.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Жаңа құрал / сценарийді қолданып көріңіз және жазыңыз.](../tool/)
 
 * [Мұнда оқу үшін бірнеше PDF / ePUB бар.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
