@@ -53,24 +53,11 @@
 |  Anjeun panginten bakal terang ngeunaan skandal PRISM.Memang leres anu AT&T ngamungkinkeun NSA nyalin sadaya data internét pikeun panjagaan. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Hayu urang tiasa damel di NSA, sareng anjeun hoyong profil internét unggal warga.Anjeun terang kalolobaanana dipercaya percanten Cloudflare sareng nganggo éta - ngan aya hiji gateway terpusat - pikeun proxy konéksi server perusahaanna (SSH / RDP), situs wéb pribadi, situs wéb, website wéb, website bank, website asuransi, mesin pencari, anggota rahasia situs web, situs lélang, balanja, situs wéb, situs wéb NSFW, sareng situs web anu haram.Anjeun ogé terang yén aranjeunna nganggo jasa DNS Cloudflare ("1.1.1.1") sareng jasa VPN ("Cloudflare Warp") pikeun "Aman! Leuwih gancang! Hadé! ” pangalaman internét.Kombinasikeun sareng alamat IP pangguna, sidik browser, cookies sareng RAY-ID bakal aya gunana pikeun ngawangun profil online target. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Anjeun hoyong data na. Naon anu anjeun bakal lakukeun? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare mangrupikeun honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Madu gratis kanggo sadayana. Sababaraha senar anu dipasang.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Entong nganggo Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Hatur internét.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare mangrupikeun honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Madu gratis kanggo sadayana. Sababaraha senar anu dipasang.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Entong nganggo Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Hatur internét.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Repositori ieu mangrupikeun daptar situs wéb anu aya di tukangeun "The Great Cl
 * [Coba & nulis Alat / Tulisan anyar.](../tool/)
 
 * [Ieu sababaraha PDF / ePUB pikeun dibaca.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
