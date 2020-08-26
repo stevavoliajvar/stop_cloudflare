@@ -53,24 +53,11 @@
 |  Þú gætir nú þegar vitað um PRISM hneykslið.Það er rétt að AT&T lætur NSA afrita öll internetgögn til eftirlits. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Segjum sem svo að þú sért að vinna hjá NSA og þú viljir netsnið hvers borgara.Þú veist að flestir treysta Cloudblare í blindni og nota það - aðeins ein miðlæg hlið - til að umboð fyrirtækjamiðlara tengingu þeirra (SSH / RDP), persónuleg vefsíða, spjallvefsíða, spjallvefsíða, bankavefsíða, tryggingarvefsíða, leitarvél, leynilegur félagi -eina vefsíðu, uppboðsvef, verslun, vídeóvef, NSFW vefsíða og ólögleg vefsíða.Þú veist líka að þeir nota DNS-þjónustu Cloudflare („1.1.1.1“) og VPN-þjónustu („Cloudflare Warp“) fyrir „Secure! Hraðari! Betra! “ internetupplifun.Samsetning þeirra með IP-tölu notandans, fingrafar vafra, smákökur og RAY-ID mun vera gagnlegt til að búa til netsnið markmiðsins. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Þú vilt fá gögn þeirra. Hvað muntu gera? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare er honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Ókeypis elskan fyrir alla. Nokkrir strengir fylgja.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ekki nota Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Dreifðu netinu.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare er honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Ókeypis elskan fyrir alla. Nokkrir strengir fylgja.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ekki nota Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Dreifðu netinu.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [Prófaðu og skrifaðu nýtt tól / handrit.](../tool/)
 
 * [Hérna er einhver PDF / ePUB til að lesa.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
