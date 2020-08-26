@@ -53,24 +53,11 @@
 |  あなたはすでにPRISMスキャンダルについて知っているかもしれません。AT＆TがNSAにすべてのインターネットデータを監視のためにコピーさせることは事実です。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  NSAで働いていて、すべての市民のインターネットプロファイルが必要だとします。あなたは彼らのほとんどがCloudflareを盲目的に信頼し、それを使用して-中央ゲートウェイ1つだけ-会社のサーバー接続（SSH / RDP）、個人Webサイト、チャットWebサイト、フォーラムWebサイト、銀行Webサイト、保険Webサイト、検索エンジン、秘密メンバーをプロキシすることを知っています。 -のみのWebサイト、オークションWebサイト、ショッピング、ビデオWebサイト、NSFW Webサイト、および違法Webサイト。また、彼らはCloudflareのDNSサービス（「1.1.1.1」）とVPNサービス（「Cloudflare Warp」）を使用して「セキュア！もっと早く！良い！」インターネット体験。それらをユーザーのIPアドレス、ブラウザのフィンガープリント、Cookie、RAY-IDと組み合わせることで、ターゲットのオンラインプロファイルを作成するのに役立ちます。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  あなたは彼らのデータを求めています。あなたは何をしますか？ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflareはハニーポットです。** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **皆のための無料の蜂蜜。紐がついています。** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Cloudflareは使用しないでください。** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **インターネットを分散化します。** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflareはハニーポットです。
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### 皆のための無料の蜂蜜。紐がついています。
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Cloudflareは使用しないでください。
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### インターネットを分散化します。
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [新しいツール/スクリプトを試してみてください。](../tool/)
 
 * [これが読むべきPDF / ePUBです。](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
