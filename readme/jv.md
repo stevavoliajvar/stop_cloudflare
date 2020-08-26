@@ -53,24 +53,11 @@
 |  Sampeyan bisa uga wis ngerti babagan skandal PRISM.Pancen AT&T ngidini NSA nyalin kabeh data internet kanggo ndjogo. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Ayo ujar sampeyan lagi kerja ing NSA, lan sampeyan pengin profil internet saben warga.Sampeyan ngerti sing paling akeh dipercaya karo Cloudflare kanthi wuta lan nggunakake - mung siji gateway terpusat - kanggo proxy sambungan server perusahaan (SSH / RDP), situs web pribadi, situs web obrolan, situs web forum, situs web bank, situs web asuransi, mesin telusuran, anggota rahasia Situs web sing apik, situs lelang, blanja, situs web video, situs web NSFW, lan situs web sing ilegal.Sampeyan uga ngerti manawa nggunakake layanan DNS Cloudflare ("1.1.1.1") lan layanan VPN ("Cloudflare Warp") kanggo "Aman! Luwih cepet! Luwih apik! " pengalaman internet.Nggabungake karo alamat IP pangguna, sidik driji browser, cookie lan RAY-ID bakal migunani kanggo nggawe profil online target. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Sampeyan pengin data dheweke. Apa sing bakal ditindakake? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare minangka honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Madu gratis kanggo kabeh wong. Sawetara senar dipasang.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Aja nggunakake Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Nemtokake internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare minangka honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Madu gratis kanggo kabeh wong. Sawetara senar dipasang.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Aja nggunakake Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Nemtokake internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
 * [Coba & nulis Alat / Skrip anyar.](../tool/)
 
 * [Mangkene sawetara PDF / ePUB supaya bisa diwaca.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
