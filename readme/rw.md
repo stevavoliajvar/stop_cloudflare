@@ -53,24 +53,11 @@
 |  Urashobora kuba usanzwe uzi ibya PRISM scandal.Nukuri ko AT&T ireka NSA ikoporora amakuru yose ya enterineti kugirango ikurikiranwe. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Reka tuvuge ko ukorera muri NSA, kandi ushaka umwirondoro wa interineti wa buri muturage.Urabizi ko benshi muribo bizeye buhumyi Cloudflare kandi barayikoresha - irembo rimwe gusa ryibanze - kugirango bahagararire seriveri yabo ya seriveri (SSH / RDP), urubuga rwumuntu, urubuga rwibiganiro, urubuga rwihuriro, urubuga rwa banki, urubuga rwubwishingizi, moteri ishakisha, umunyamuryango wibanga -urubuga gusa, urubuga rwa cyamunara, guhaha, urubuga rwa videwo, urubuga rwa NSFW, nurubuga rutemewe.Uzi kandi ko bakoresha serivise ya DNS ya Cloudflare ("1.1.1.1") na serivisi ya VPN ("Cloudflare Warp") kuri "Umutekano! Byihuta! Ibyiza! ” uburambe bwa interineti.Kubahuza hamwe na aderesi ya IP yumukoresha, igikumwe cya mushakisha, kuki na RAY-ID bizagira akamaro mukubaka intego kumurongo. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Urashaka amakuru yabo. Uzakora iki? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare ni ubuki.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Ubuki bwubusa kuri buri wese. Imirongo imwe ifatanye.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Ntukoreshe Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Kwegereza ubuyobozi bwa interineti.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare ni ubuki.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Ubuki bwubusa kuri buri wese. Imirongo imwe ifatanye.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Ntukoreshe Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Kwegereza ubuyobozi bwa interineti.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Ububiko ni urutonde rwurubuga ruri inyuma ya "The Great Cloudwall", rukumira aba
 * [Gerageza & andika Igikoresho gishya / Inyandiko.](../tool/)
 
 * [Hano hari PDF / ePUB yo gusoma.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
