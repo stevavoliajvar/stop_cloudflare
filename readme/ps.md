@@ -53,24 +53,11 @@
 |  تاسو شاید دمخه د PRISM رسوایی په اړه پوهیږئ.دا ریښتیا ده چې AT&T NSA ته اجازه ورکوي ترڅو د نظارت لپاره ټول انټرنیټ ډیټا کاپي کړي. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  راځئ چې ووایو چې تاسو په NSA کې کار کوئ ، او تاسو د هر وګړي انټرنیټ پروفایل غواړئ.تاسو پوهیږئ چې ډیری یې په ړوند ډول د کلاوډ فلیر باور لري او دا کاروي - یوازې یو مرکزي ګیټ ویز - د خپل شرکت سرور ارتباط (SSH / RDP) ، شخصي ویب پا ،ه ، د چیټ ویب پا ،ه ، بانک ویب پا ،ه ، بیمه ویب پا ،ه ، د لټون انجن ، پټ غړي. یوازې ویب پا websiteه ، د لیلام ویب پا ،ه ، شاپنگ ، ویډیو ویب پا ،ه ، د NSFW ویب پا ،ه ، او غیرقانوني ویب پا .ه.تاسو هم پوهیږئ چې دوی د "خوندي کولو لپاره د کلاوډ فلایر د DNS خدمت (" 1.1.1.1 ") او VPN خدمت (" کلاوډ فلایر ریپ ") کاروي. ګړندی! غوره! د انټرنیټ تجربه.د کاروونکي IP پتې ، د براوزر فنګر چاپ ، کوکیز او RAY-ID سره د دوی یوځای کول به د هدف آنلاین پروفایل رامینځته کولو لپاره ګټور وي. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  تاسو د دوی ډاټا غواړئ. ته به څه وکړې؟ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **کلاوډ فلایر یو هینی پاټ دی.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **د هرچا لپاره وړیا شات. ځینې ​​تارونه یوځای شوي.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **کلاوډ فلیر مه کاروئ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **انټرنیټ غیرمتمرکز کړئ.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### کلاوډ فلایر یو هینی پاټ دی.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### د هرچا لپاره وړیا شات. ځینې ​​تارونه یوځای شوي.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### کلاوډ فلیر مه کاروئ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### انټرنیټ غیرمتمرکز کړئ.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@
 * [نوې وسیله / سکریپټ ولیکئ.](../tool/)
 
 * [دلته د لوستلو لپاره ځینې PDF / ePUB دی.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
