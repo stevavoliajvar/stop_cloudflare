@@ -53,24 +53,11 @@
 |  Atonu ua e iloa e uiga ile PRISM scandal.E moni e AT&T faʻataga NSA e kopi uma Initaneti faʻamaumauga mo mataituina. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Faʻapea o loʻo e galue i le NSA, ma e te manaʻo i le initaneti tagata uma a latou laiga.E te iloa o le toʻatele o loʻo faʻatuatuaina ma le faʻaua le Cloudflare ma faʻaaoga - naʻo le tasi o le faitotoʻa tutotonu - e sui ai le latou kamupani server Connection (SSH / RDP), luga o le upega tafailagi, talanoaga i luga o le upega tafailagi, fono i luga o le upega tafailagi, faletupe uepisaite, inisiua 'upega tafaʻilagi, sailiga afi, tagata lilo -o le laiga 'upega tafaʻilagi, faʻatautuʻi' upega tafaʻilagi, faʻatau, vitio o le 'upega tafaʻilagi, NSFW' upega tafaʻilagi, ma le tulaga faʻaletonu 'upega tafaʻilagi.E te iloa foʻi latou te faʻaaogaina le Cloudflare's DNS service ("1.1.1.1") ma VPN service ("Cloudflare Warp") mo le "Secure! Televave Sili atu! ” initaneti.O le tuʻufaʻatasia o latou ma le tuatusi IP a tagata e faʻaaogaina, sapalai tamaʻilima sipela, kuki ma le RAY-ID o le a aoga e fausia ai le faʻamoemoe o le initaneti. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Oe manaʻo i latou faʻamaumauga. O le a lau mea e fai? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare o le honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Talofa fua i tagata uma. O nisi manoa ua faapipii.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Aua le faʻaogaina Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Nofoaga le initaneti.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare o le honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Talofa fua i tagata uma. O nisi manoa ua faapipii.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Aua le faʻaogaina Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Nofoaga le initaneti.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ O lenei fale teu oloa o se lisi o uepisaite o loʻo i tua o le "The Great Cloudw
 * [Taumafai & tusi fou Tool / Tusitusiga.](../tool/)
 
 * [Lenei o nisi PDF / ePUB e faitau ai.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
