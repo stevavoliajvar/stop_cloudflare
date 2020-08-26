@@ -53,24 +53,11 @@
 |  Potresti già sapere dello scandalo PRISM.È vero che AT&T consente alla NSA di copiare tutti i dati Internet per la sorveglianza. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
 |  Supponiamo che tu stia lavorando alla NSA e che desideri il profilo Internet di ogni cittadino.Sai che la maggior parte di loro si fida ciecamente di Cloudflare e lo utilizza - un solo gateway centralizzato - per eseguire il proxy della connessione al server aziendale (SSH / RDP), sito Web personale, sito Web di chat, sito Web del forum, sito Web della banca, sito Web assicurativo, motore di ricerca, membro segreto -solo sito web, sito web di aste, shopping, sito web di video, sito web NSFW e sito web illegale.Sai anche che usano il servizio DNS di Cloudflare ("1.1.1.1") e il servizio VPN ("Cloudflare Warp") per "Sicuro! Più veloce! Meglio!" esperienza di Internet.Combinarli con l'indirizzo IP dell'utente, l'impronta digitale del browser, i cookie e RAY-ID sarà utile per creare il profilo online del target. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
 |  Vuoi i loro dati. Cosa farai? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare è un honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **Miele gratis per tutti. Alcune stringhe allegate.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **Non utilizzare Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **Decentralizza Internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 
-
-
-### Cloudflare è un honeypot.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif)
-
-### Miele gratis per tutti. Alcune stringhe allegate.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg)
-
-### Non utilizzare Cloudflare.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg)
-
-### Decentralizza Internet.
-
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
 
 ---
 
@@ -142,6 +129,8 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 * [Prova e scrivi un nuovo strumento / script.](../tool/)
 
 * [Ecco alcuni PDF / ePUB da leggere.](../pdf/)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
