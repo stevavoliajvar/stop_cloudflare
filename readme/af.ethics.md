@@ -53,24 +53,11 @@ As u anti-Cloudflare-teks op Twitter plaas, het u die kans om 'n antwoord van di
 As u 'n negatiewe resensie op enige beoordelingswebwerf plaas, sal hulle dit probeer sensuur.
 
 
-| 🖼 | 🖼 |
+|  **** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
-
-</details>
-
----
-
-<details>
-<summary>klik my
-
-## Deel die privaat inligting van die gebruiker
-</summary>
-
-
-Cloudflare het 'n enorme teisteringprobleem.
-Cloudflare deel persoonlike inligting van diegene wat kla oor gehuisvesde werwe.
-Hulle vra u soms om u ware ID te verstrek.
 As u nie geteister, aangerand, geslaan of doodgemaak wil word nie, moet u beter wegbly van Cloudflared-webwerwe.
 
 
@@ -142,6 +129,8 @@ Hierdie toegangsongelykheid is 'n netwerkneutraliteit en magsmisbruik.
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (klein blaaier) sonder Tor (Clearnet IP)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 | ***Blaaier*** | ***Toegang tot behandeling*** |
 | --- | --- |
@@ -283,6 +272,15 @@ U sal hierdie bevestigings-e-pos ontvang.
 Kan u dit "vertrou"?
 
 </details>
+
+---
+
+## Aliaj informoj
+
+- Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
+  - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
+  - [Former Chief Security Officer For Uber Charged With Obstruction Of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
+
 
 ---
 
