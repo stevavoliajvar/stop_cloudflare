@@ -286,6 +286,15 @@ OpenPetition போன்ற பிற மேகக்கணி அல்லா�
 
 ---
 
+## Aliaj informoj
+
+- Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
+  - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
+  - [Former Chief Security Officer For Uber Charged With Obstruction Of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
+
+
+---
+
 ## அடுத்த பக்கத்திற்குத் தொடரவும்:   [கிளவுட்ஃப்ளேர் குரல்கள்](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
