@@ -270,6 +270,20 @@ Can you "trust" this?
 
 </details>
 
+
+---
+
+## Other information
+
+- Joseph Sullivan (Cloudflare CSO)
+  - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
+  - [Former Chief Security Officer For Uber Charged With Obstruction Of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
+
+```
+Sullivan not only allegedly hid the breach from authorities, but also concealed it from many other Uber employees, including top management — with one exception. According to the complaint, Uber's CEO at the time, Travis Kalanick, knew about the incident and about the steps Sullivan took to allegedly cover it up, including making the $100,000 payout under Uber's "bug bounty" program.
+```
+
+
 ---
 
 ## Please continue to next page:   "[Cloudflare Voices](../PEOPLE.md)"
