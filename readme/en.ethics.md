@@ -270,9 +270,7 @@ Can you "trust" this?
 
 </details>
 
-
 ---
-
 
 ## Other information
 
@@ -285,8 +283,8 @@ Sullivan took to allegedly cover it up, including making the $100,000 payout
 under Uber's "bug bounty" program.
 ```
 
-
 ---
+
 
 ## Please continue to next page:   "[Cloudflare Voices](../PEOPLE.md)"
 
