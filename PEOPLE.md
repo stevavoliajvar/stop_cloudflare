@@ -741,6 +741,21 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+"Thank you, but I do not think this is the problem I am encountering- I am seeing the Cloudflare CAPTCHA page in my screenshot above when I am already logged in- I write a post, try to save draft, but it redirects me to Cloudflare page instead of saving my draft, losing my work" ([quartzen](https://twitter.com/quartzen/status/1297941070156832768))
+
+"What settings do I need to change? Nothing has changed on my side to prompt this, this happens across browsers, and I have checked my IP address as listed on the CAPTCHA page on Project Honeypot as suggested by Cloudflare community support and my IP is not blacklisted" ([quartzen](https://twitter.com/quartzen/status/1297929659049533443))
+
+"Cloudflare has declared war on PIA's VPN ( It's captcha's every where I turn." ([gshinhwa](https://twitter.com/gShinhwa/status/1297310733458341888))
+
+"How come your PhishTank is now delivering an invasive Cloudflare CAPTCHA to my browser? Cloudflare treats some ISPs like garbage." ([dxgl_org](https://twitter.com/dxgl_org/status/1296835586402275332))
+
+"Unfortunately, is too lazy and/or incompetent to use a real CAPTCHA system. Instead, they take the lazy way out and use the worthless reCAPTCHA." ([nickhillebran](https://twitter.com/NickHillebran/status/1296607396878524416))
+
+"Nope, I don't use proxies or vpn, everything worked as usual but since yesterday I'm not able to access anything and sites using cloudflare give me that error" ([finchnoise](https://twitter.com/finchnoise/status/1297215159145041921))
+
+"is the site still down or being crashed by users again everytime i ry to access the site im being met with error code 1020 from cloudflare" ([manaicgamein](https://twitter.com/Manaicgamein/status/1297065648175173632))
+
+
 "Cloudflare is a centralized MITM-type service which does not only have privacy issues, but by nature is also detrimental to a free & open internet. Therefor it doesn't fit Linux IMO." ([stp_kitt](https://twitter.com/STP_KITT/status/1293299843037892610))
 
 "Well, that is nearly exactly what happened to me and why I began this crusade against the BS policies of Cloudflare and lack of stewardship. They did not help me at all. Dozens of rogue sites stayed online scamming consumers after multiple abuse reports." ([phyzonloop](https://twitter.com/phyzonloop/status/1296281227687854084))
@@ -3228,6 +3243,17 @@ Found many things that I use regularly wouldn't work anymore like they were bloc
 
 
 
+
+
+"Self-hosting is generally a good idea, but it doesn't obviate the problem. When Jitsi jails their resources in CloudFlare, resources that a self-hoster needs are out of reach for some and others take a privacy blow. Bigbluebutton.org seems like a decent alternative to Jitsi, no?" ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104745596953311521))
+
+"Jitsi also has issues, like being a privacy-abusing CloudFlare site. So I'm glad to hear about I've also heard is decent (open source non-profit)." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104745069754657873))
+
+"Signal is not a good thing to be like: It's a poor standard of privacy and ethics, and jitsi seems to be lousy too (jitsi.org is a CloudFlare site)." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104745031120582312))
+
+"tomanthony is a CloudFlare site. Plz try not to send ppl to CloudFlare's walledgarden of privacy abuse to read about privacy abuses." ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104745006960019425))
+
+"The CSO of CloudFlare has been caught trying to cover up an Uber data breach by paying $100k to hackers for silence" ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/104741720064729988))
 
 
 "you have no choice but to agree with the facts - unless you have counter facts. OWS Signal subjects users to a variety of surveillance capitalist mechanisms by forcing phone number registration & pushing Google Playstore (while hiding & discouraging apk downloads).. pushing CloudFlare.. financing Amazon.. working for Facebook." ([resist1984](https://social.privacytools.io/@resist1984/104740432451902572))
