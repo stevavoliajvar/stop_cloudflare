@@ -53,24 +53,11 @@ Cloudflare ሳንሱር አሉታዊ ግምገማዎች።
 በማንኛውም የግምገማ ጣቢያ ላይ አሉታዊ ግምገማ ከለጠፉ እሱን ለመጥቀስ ይሞክራሉ ፡፡
 
 
-| 🖼 | 🖼 |
+|  **** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
+|  **** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
+|  **** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
+|  **** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
-
-</details>
-
----
-
-<details>
-<summary>ጠቅ ያድርጉኝ
-
-## የተጠቃሚውን የግል መረጃ ያጋሩ
-</summary>
-
-
-Cloudflare ሰፊ የማጎሳቆል ችግር አለው።
-Cloudflare ስለተስተናገዱ ጣቢያዎች ቅሬታ ያላቸውን ሰዎች የግል መረጃ ያጋራል።
-አንዳንድ ጊዜ እውነተኛ መታወቂያዎን እንዲያቀርቡ ይጠይቁዎታል።
 ትንኮሳ ፣ መደብደብ ፣ መተላለፍ ወይም መግደል የማይፈልጉ ከሆነ ከ Cloudflared ከሆኑ ድርጣቢያዎች መራቅ ይሻላሉ።
 
 
@@ -142,6 +129,8 @@ CloudFlare ለበጎ አድራጎት መዋጮዎች እየጠየቀ ነው።
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (ጥቃቅን አሳሽ) ያለ ቶር (Clearnet IP)
+
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 | ***አሳሽ*** | ***ሕክምና ድረስበት*** |
 | --- | --- |
@@ -283,6 +272,15 @@ Cloudflare “አስወግድ” የሚለውን ቃል አላወቀም ነበ�
 ይህንን "ማመን" ይችላሉ?
 
 </details>
+
+---
+
+## Aliaj informoj
+
+- Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
+  - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
+  - [Former Chief Security Officer For Uber Charged With Obstruction Of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
+
 
 ---
 
