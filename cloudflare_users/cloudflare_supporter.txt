@@ -22,6 +22,7 @@ https://github.com/beerisgood
 https://github.com/blacklight447-ptio
 https://github.com/coagmano
 https://github.com/davidkarlsen
+https://github.com/dngray (https://github.com/privacytools/privacytools.io/pull/2018/commits/83f2bb254c0c728b3fc1fc68ba1cdef0877b064f)
 https://github.com/grahamperrin
 https://github.com/ikedaosushi
 https://github.com/jaywink
@@ -420,6 +421,7 @@ https://twitter.com/BihBogShinichi
 https://twitter.com/BiharNewsDesk
 https://twitter.com/Bijoux_Dany
 https://twitter.com/BilaspurNewsFla
+https://twitter.com/BinhndIT
 https://twitter.com/BintangQu22
 https://twitter.com/BionicTdb
 https://twitter.com/BisPrpl
@@ -2569,6 +2571,7 @@ https://twitter.com/ajmera15
 https://twitter.com/ak_griyahusada
 https://twitter.com/ak_kim0
 https://twitter.com/akabalabanov
+https://twitter.com/akbarhabiby
 https://twitter.com/akbarkh78984400
 https://twitter.com/akeelsaad43
 https://twitter.com/akhorshed6222
@@ -4498,6 +4501,7 @@ https://twitter.com/nutya7
 https://twitter.com/nvanh6789
 https://twitter.com/nvtvzaptoorg
 https://twitter.com/nwps
+https://twitter.com/nwrid
 https://twitter.com/nznikora
 https://twitter.com/o3lNgJye1Rujczy
 https://twitter.com/o__Pat__o
@@ -5564,4 +5568,3 @@ https://www.reddit.com/user/grahamperrin
 https://www.reddit.com/user/rediii123
 https://www.reddit.com/user/zaarn_
 https://www.torproject.org/  (see HISTORY.md)
-https://github.com/dngray (https://github.com/privacytools/privacytools.io/pull/2018/commits/83f2bb254c0c728b3fc1fc68ba1cdef0877b064f)
