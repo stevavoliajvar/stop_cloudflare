@@ -732,6 +732,17 @@ Awesome! Use Cloudflare!
 
 
 - "Oebblokfuehrer ah, but it s delivered by cloudflare your mitm cdn when crossing file system kannst auch genauso breit" ([macmelonmac](https://twitter.com/MacMelonMac/status/1299745637592899586))
+- "your Cloudflare implementation is completly broken Need to click "I am human" and captcha thing at each page. No I don't have virus, malware or such things" ([lobotommy6](https://twitter.com/LoboTommy6/status/1299723806320320512))
+- "Yes, that's work and I know, that's not hCaptcha's issue. But when I pass the captcha, returns me again and again to that. I think, that is and problem with IPs." ([vharveyifa](https://twitter.com/VharveyiFa/status/1299392330139660289))
+- "how is it that I have to solve THREE captchas of and and again land on the captcha resolving page instead of getting the ORCID resolved? I cannot even access your main page. You should kick and out." ([rvb_siberia](https://twitter.com/rvb_siberia/status/1299174163698065418))
+- "Also using is nearly impossible with my "suspicious" Siberian IP address. I log in, clone or push a project - I solve a captcha. This breaks git command line tools, since about two weeks. How many hours per day am I supposed to solve" ([rvb_siberia](https://twitter.com/rvb_siberia/status/1299171603432042496))
+- "Let's try. (some moments later...) Now I get a Failed Captcha (or something like that. The message is hidden behind Firefox URLs)" ([robsonsobral](https://twitter.com/robsonsobral/status/1299130659919794177))
+- "Call for Pitches link in the tweet showed a cloudflare message. So I tried the site. Site denied access, even after checking captcha. Now I tried again and site shows Error 1020 Access Denied after captcha procedure" ([jencysamuel](https://twitter.com/JencySamuel/status/1298132170133737472))
+- "Your site & mobile app are down due to a CloudFlare Error 1020 so visitors are all being blocked. Guess there will be no movies for us on this rainy day." ([fugitivealien](https://twitter.com/fugitivealien/status/1299760722730266625))
+- "I have been getting error code 1016 / cloudflare since 1AM & sling tv won't load on my TV and on several locations on my computer. what's the word ???? subscriber since 2017....." ([whopbell2](https://twitter.com/whopbell2/status/1298572618103169024))
+- "Hi, Garmin - Who do I contact to resolve a CloudFlare 1006 (Access Denied) error for my (static) IP address?" ([awscloudman](https://twitter.com/awscloudman/status/1298209719472082945))
+- "I am currently unable to access your website over Tor due to an Error 1020 access denied error. Could you please reconsider your Cloudflare settings? Some of us like to browse the web without being spied on by our ISPs." ([happysmash27](https://twitter.com/happysmash27/status/1298149158990348288))
+- "Unable to login. Getting Error 1020 from CloudFlare." ([bluemint_io](https://twitter.com/bluemint_io/status/1297907064270774272))
 
 "Thank you, but I do not think this is the problem I am encountering- I am seeing the Cloudflare CAPTCHA page in my screenshot above when I am already logged in- I write a post, try to save draft, but it redirects me to Cloudflare page instead of saving my draft, losing my work" ([quartzen](https://twitter.com/quartzen/status/1297941070156832768))
 
