@@ -77,6 +77,8 @@ Awesome! Use Cloudflare!
 </summary>
 
 
+- [Major internet outage: Dozens of websites and apps were down](https://edition.cnn.com/2020/08/30/tech/internet-outage-cloudflare/index.html)
+- [Произошел сбой работы интернет сервисов по всему миру](https://www.securitylab.ru/news/511577.php)
 - [Cloudflare suffered data leak; exposing 3 million IP addresses: Ukraine](https://www.hackread.com/cloudflare-data-leak-expose-ip-addresses-ukraine/)
 - [Cloudflare’s DNS Issue, Service Shuts Down Half The Web](https://www.prosyscom.tech/tech-industry/cloudflares-dns-issue-service-shuts-down-half-the-web/)
 - [Half Of The Internet Is Down After Cloudflare Suffers Major Outage](https://www.zerohedge.com/markets/major-part-web-offline-cloudflare-suffers-outage)
