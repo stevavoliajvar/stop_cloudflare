@@ -181,7 +181,7 @@ Awesome! Use Cloudflare!
 </summary>
 
 
-- [Spectrum and Cloudflare](https://old.reddit.com/r/Spectrum/comments/iia1cz/spectrum_and_cloudflare/)
+- [Spectrum and Cloudflare](https://www.reddit.com/r/Spectrum/comments/iia1cz/spectrum_and_cloudflare/)
 - [DNS Troubles?](https://www.reddit.com/r/TalesOfCrestoria/comments/iiyvha/dns_troubles/)
 - [Access denied | www.freemalaysiatoday.com used Cloudflare to restrict access](https://www.reddit.com/r/malaysianews/comments/iinkqa/access_denied_wwwfreemalaysiatodaycom_used/)
 - [How do I restore company's faith in Cloudflare?](https://www.reddit.com/r/sysadmin/comments/htg5p5/how_do_i_restore_companys_faith_in_cloudflare/)
