@@ -181,6 +181,9 @@ Awesome! Use Cloudflare!
 </summary>
 
 
+- [Spectrum and Cloudflare](https://old.reddit.com/r/Spectrum/comments/iia1cz/spectrum_and_cloudflare/)
+- [DNS Troubles?](https://www.reddit.com/r/TalesOfCrestoria/comments/iiyvha/dns_troubles/)
+- [Access denied | www.freemalaysiatoday.com used Cloudflare to restrict access](https://www.reddit.com/r/malaysianews/comments/iinkqa/access_denied_wwwfreemalaysiatodaycom_used/)
 - [How do I restore company's faith in Cloudflare?](https://www.reddit.com/r/sysadmin/comments/htg5p5/how_do_i_restore_companys_faith_in_cloudflare/)
 - [Cloudlfare issues?](https://reddit.com/r/CloudFlare/comments/i852xd/cloudlfare_issues/)
 - [Anyone else's game just dis connect?](https://reddit.com/r/VALORANT/comments/i850x5/anyone_elses_game_just_dis_connect/g16aqap/)
@@ -336,6 +339,8 @@ Awesome! Use Cloudflare!
 </summary>
 
 
+- [Blocked as a result of the Cloudflare's anti-DDoS challenge.](https://github.com/Jackett/Jackett/issues/9352#issuecomment-674549970)
+- [npm audit returns a cloudflare captcha page](https://github.com/npm/cli/issues/1741)
 - [Check field values e.g. Issuer against RegEx and change badge colour](https://github.com/jannispinter/indicatetls/issues/48)
 - [Unable to query Cloudflare via Python](https://github.com/AnalogJ/lexicon/issues/542)
 - [Having issues with Cloudflare endpoints](https://github.com/ethers-io/ethers.js/issues/949)
