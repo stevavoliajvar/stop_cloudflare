@@ -442,6 +442,15 @@ Awesome! Use Cloudflare!
 
 
 
+- si tu fait un site sans faire nimporte quoi et le rendre lourdingue il tiens facilement dans 100-200Ko avec de la compression et sur un faible traffique ça tiens correctement donc pourquoi payer un VPS ou passer par le MITM cloudflare ([ramleseam](https://twitter.com/RamleSeam/status/1300011766471155712))
+- FYI: Cloudflare is down and it’s supplying error messages to anyone registering with Indie Untangled Everywhere. 😫 Hopefully this will be resolved soon. ([indieuntangled](https://twitter.com/indieuntangled/status/1300080517661024257))
+- FYI Picarto is having intermittent issues because of Cloudflare outages. 😞 Refreshing might help, if you hit an error. ([idek_uggy](https://twitter.com/idek_uggy/status/1300075684648292352))
+- New as of yesterday went to set it up on Roku, now I can't access that or Fire Sling app. Yesterday was fine. No anything for help. Cloudflare issues? No phone, site, help or access with without the error starting with Error 1016 Ray...or that 10-100 ([sailanation](https://twitter.com/SailaNation/status/1300063540674465798))
+- August 30, 2020. I cannot sign in either on the website, trying to reach the signin page simply returns a Cloudflare error page, and the ROKU SlingTV app is not working either. I assume that's also a signin problem. Just thought you'd like to know. ([bennycemoli](https://twitter.com/BennyCemoli/status/1300060622558769153))
+- When is the DNS error through CloudFlare going to be resolved. Can't login to SlingTV ([johnt757uv](https://twitter.com/johnt757uv/status/1300059932692283392))
+- same. I can get to the main page but login and help give me a cloudflare dns error. ([rburn1960](https://twitter.com/rburn1960/status/1300057090199891969))
+- are you guys down? Im getting Cloudflare DNS error and the app keeps showing 10-100 error ([emvp84](https://twitter.com/emvp84/status/1300056534408454144))
+
 - Oebblokfuehrer ah, but it s delivered by cloudflare your mitm cdn when crossing file system kannst auch genauso breit ([macmelonmac](https://twitter.com/MacMelonMac/status/1299745637592899586))
 - your Cloudflare implementation is completly broken Need to click I am human and captcha thing at each page. No I don't have virus, malware or such things ([lobotommy6](https://twitter.com/LoboTommy6/status/1299723806320320512))
 - Yes, that's work and I know, that's not hCaptcha's issue. But when I pass the captcha, returns me again and again to that. I think, that is and problem with IPs. ([vharveyifa](https://twitter.com/VharveyiFa/status/1299392330139660289))
