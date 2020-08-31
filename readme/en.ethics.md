@@ -141,7 +141,7 @@ This access inequality is a network neutrality abuse and an abuse of power.
 
 - QuteBrowser(minor browser) without Tor (Clearnet IP)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.jpg)
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
 
 - Lynx
 
