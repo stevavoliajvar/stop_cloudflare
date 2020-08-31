@@ -143,6 +143,11 @@ Tor-uzantoj, kiuj rajte rifuzas ekzekuti senpage ĝavaskripton, ankaŭ ricevas m
 
 - QuteBrowser(plej malgranda retumilo) sen Tor (klara IP)
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.jpg)
+
+- Lynx
+
+
 | ***Retumilo*** | ***Alira traktado*** |
 | --- | --- |
 | Tor Browser (Ĝavoskripto enŝaltita) | aliro permesatis |

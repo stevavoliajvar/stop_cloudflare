@@ -143,6 +143,11 @@
 
 - {%ethx6n0007%}
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.jpg)
+
+- Lynx
+
+
 | ***{%ethx6n0008%}*** | ***{%ethx6n0009%}*** |
 | --- | --- |
 | Tor Browser ({%ethx6n0010%}) | {%ethx6n0013%} |
