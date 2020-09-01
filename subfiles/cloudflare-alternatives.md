@@ -17,7 +17,7 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
 
 
 ## Best way to protect your server from DDoS
-- Avoid any service that _can intercept_ HTTP traffic (like Cloudflare)
+- Avoid any third-party service that _can intercept_ HTTP traffic (like Cloudflare)
 - Install WAF on your loadbalancer.
   - Even simple [ModSecurity](https://www.modsecurity.org/) can save you.
 - Add rate-limit to your nftable(firewall) and server software.
