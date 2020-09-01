@@ -33,7 +33,7 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
 | Sharktech DDoS Solutions | ? | ? | https://sharktech.net/ |
 | Surge.sh      | uses custom servers           | Free | https://surge.sh/ |
 | Voxility | ? | ? | https://www.voxility.com/ |
-| [eQualitie](https://equalit.ie/) | not gratis | gratis during COVID19 | https://equalit.ie/ |
+| eQualitie | not gratis | gratis during COVID19 | https://equalit.ie/ |
 | neoCities | static pages | Free | https://neocities.org/ |
 | sucuri | not gratis; tor hostility at ~3.483% | $200+ | https://sucuri.net/|
 
