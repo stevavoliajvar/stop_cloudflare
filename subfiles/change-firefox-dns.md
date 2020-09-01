@@ -1,6 +1,3 @@
-# CrimeFlarE
-***Why you should say "NO" to Cloudflare***
-
 ## Solutions - Change default DNS provider of firefox
 
 Mozilla (Firefox) has partnered up with Cloudflare and will resolve the domain names from the application itself via a DNS server from Cloudflare.

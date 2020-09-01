@@ -164,9 +164,9 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
 - Do you need [DNS server](https://twitter.com/IngeniousAppsIA/status/1187730384492077057)? Can't set up your own server? Then how about [1984 FreeDNS](https://www.1984hosting.com/), [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/) or [this (warning: Admin delete your account if you use TOR)](https://freedns.afraid.org/)?
-  - By the way Searxes is using `1984 DNS`.
 
 - Looking for hosting service? "Free" only? Well, how about [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
+  - [Cloudflare Alternatives](subfiles/cloudflare-alternatives.md)
 
 - Are you using "_cloudflare-ipfs.com_"? Do you know [Cloudflare IPFS is bad](PEOPLE.md)?
 
@@ -372,6 +372,7 @@ Therefore we recommend above table only. _Nothing else_.
 - ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin in 2018.
 
 - To disable DoH, enter *about:config?filter=network.trr* in the address bar then set "*network.trr.mode*" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
+  - [Change default DNS provider of firefox](subfiles/change-firefox-dns.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/firefoxdns.jpg)
 
