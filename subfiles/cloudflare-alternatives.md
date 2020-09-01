@@ -13,8 +13,15 @@ It is more aimed at technical people.
 We might create a guide for some self-hosting basics which don't require Cloudflare.
 [IPFS](https://ipfs.io/) may be worth consideration if performance is the main concern.
 
-`Apache` is vulnerable to various low-bandwidth attacks. Use other server software such as {lighttpd](https://www.lighttpd.net/) or [nginx](https://nginx.org/).
+`Apache` is vulnerable to various low-bandwidth attacks. Use other server software such as [Caddy](https://caddyserver.com/), [lighttpd](https://www.lighttpd.net/) or [nginx](https://nginx.org/).
 
+
+## Best way to protect your server from DDoS
+- Avoid any service that _can intercept_ HTTP traffic (like Cloudflare)
+- Install WAF on your loadbalancer.
+  - Even simple [ModSecurity](https://www.modsecurity.org/) can save you.
+- Add rate-limit to your nftable(firewall) and server software.
+  - Just drop the excessive connection.
 
 
 
