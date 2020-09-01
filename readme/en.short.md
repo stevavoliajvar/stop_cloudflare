@@ -90,7 +90,7 @@ Many visitors will just leave your site when they see this.
 
 No one wants to click multiple images just to read your website.
 
-Here is an [example video](../subfiles/cloudflare-video-01.md) of CloudFlare blocking user who is using privacy add-ons.
+Here is an [example video](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/image/cloudflare_withprivaon.mp4) of CloudFlare blocking user who is using privacy add-ons.
 
 
 ### Other problems
