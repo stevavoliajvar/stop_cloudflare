@@ -12,7 +12,7 @@
 
 ![CrimeFlarE logo](../image/crimeflare-logo.png)
 
-Are you already aware of the problems of Cloudflare?
+Are you already aware of the problems of [Cloudflare](https://www.cloudflare.com/)?
 
 You might want to check:
 - [Alternatives](#alternatives)
@@ -22,17 +22,17 @@ You might want to check:
 
 ## Who are we?
 
-`CrimeFlarE` is a group of volunteer Tor, privacy and net neutrality
+`CrimeFlarE`(CFE) is a group of volunteer [Tor](https://www.torproject.org/), privacy and net neutrality
 enthusiasts working to counter CloudFlare’s oppressive attack on the Tor 
 community and reduce the harms CloudFlare brings to all users (Tor users and 
 clearnet users).
 
 ## Who is Cloudflare?
 
-Cloudflare is the world's largest man-in-the-middle proxy. Technically it is called "reverse proxy".
+Cloudflare is the world's largest man-in-the-middle proxy. Technically it is called "[reverse proxy](https://en.wikipedia.org/wiki/Reverse_proxy)".
 This means that it sits between you and the server which sent you webpages and images.
 
-Cloudflare is a content delivery network, which means that it has different 
+Cloudflare is a [content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network), which means that it has different 
 servers in different locations, so that websites are supposed to be better 
 reachable. This has some bad sides.
 
@@ -68,7 +68,7 @@ Read more about the [reCAPTCHA problem](../subfiles/recaptcha-problem.md).
 
 #### Project Honey Pot
 
-"Project Honey Pot" is a project which collects a lot of personal data
+"[Project Honey Pot](https://www.projecthoneypot.org/)" is a project which collects a lot of personal data
 and much of that data is from innocent people who deserve privacy.
 Cloudflare was created by people who worked on that project. US DHS showed interest to this project.
 
@@ -81,12 +81,16 @@ Cloudflare is not convenient for many visitors of your site.
 You will lose visitors when you choose Cloudflare.
 Many people who helped writing this file even blocked by Cloudflare.
 
-Did you know that you can lose visitors because your site doesn't load in a few seconds?
+Did you know that you can lose visitors because your site [doesn't load in a few seconds](https://www.hostingmanual.net/3-seconds-how-website-speed-impacts-visitors-sales/)?
 
 Cloudflare often makes visitors wait for more than few seconds.
 Many visitors will just leave your site when they see this.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/onemorestep.jpg)
+
+No one wants to click multiple images just to read your website.
+
+Here is an [example video](../subfiles/cloudflare-video-01.md) of CloudFlare blocking user who is using privacy add-ons.
 
 
 ### Other problems
