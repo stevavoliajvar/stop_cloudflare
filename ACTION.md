@@ -372,6 +372,7 @@ Therefore we recommend above table only. _Nothing else_.
 - ~~Report a bug on mozilla's tracker, telling them not to use Cloudflare/TRR.~~ There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin in 2018.
 
 - To disable DoH, enter *about:config?filter=network.trr* in the address bar then set "*network.trr.mode*" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
+  - [Change default DNS provider of firefox](subfiles/change-firefox-dns.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/firefoxdns.jpg)
 
