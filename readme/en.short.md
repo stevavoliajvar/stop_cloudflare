@@ -88,6 +88,8 @@ Many visitors will just leave your site when they see this.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/onemorestep.jpg)
 
+No one wants to click multiple images just to read your website.
+
 Here is an [example video](../subfiles/cloudflare-video-01.md) of CloudFlare blocking user who is using privacy add-ons.
 
 
