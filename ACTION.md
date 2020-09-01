@@ -167,6 +167,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
   - By the way Searxes is using `1984 DNS`.
 
 - Looking for hosting service? "Free" only? Well, how about [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/) or [this](https://www.reddit.com/r/webdev/comments/5m8tr4/how_do_i_host_the_website_i_just_built/dc1qpk7/)?
+  - [Cloudflare Alternatives](subfiles/cloudflare-alternatives.md)
 
 - Are you using "_cloudflare-ipfs.com_"? Do you know [Cloudflare IPFS is bad](PEOPLE.md)?
 
