@@ -430,6 +430,14 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- tls1.0 et 1.1 c'est pas ultra safe en même temps, tl1.3 c'est pas top par contre mais bon c'est mieux que avoir un MITM via cloudflare ([ramleseam](https://twitter.com/RamleSeam/status/1300795041888243716))
+- Then why do you use Cloudflare on your homepage and use it to MITM the login? Cloudflare does not abide by the DMCA. ([dxgl_org](https://twitter.com/dxgl_org/status/1300557721536790530))
+- Yeah, its like the irony of using a "decentralized application" and receiving a Cloudflare error. Just wow. ([cryptocorral](https://twitter.com/CryptoCorral/status/1300666274951749632))
+- including Cloudflare. Cloudflare’s systems routed around the problem, however, some Internet properties that use Cloudflare saw increased error rates during the impact period despite our mitigations. ([baselabubakr](https://twitter.com/baselAbubakr/status/1300377218707849216))
+- 3 games had already concluded. All of us in india faced internal server error for about 2 minutes on chesscom including the players. If you go to cloudflare status site, you will see regiona affected due to this outrage. ([kunalkp87](https://twitter.com/kunalkp87/status/1300100199449206784))
+- Ed, with all due respect.. 2nd round should have been played and then the appeal should have continued..today cloudflare also mentioned it was a global outage. A lot of us in India faced internal server error for about 2 minutes on chesscom.. ([kunalkp87](https://twitter.com/kunalkp87/status/1300084967255408640))
+- It's a Lyric Round WiFi Thermostat. There's no reset wifi option in the app. I get unable to reach server error. I've had previous dm with my Mac address if you need it. Does the issue have to do with the cloudflare/centurylink outage? ([d3fung](https://twitter.com/d3fung/status/1300084527294033922))
+
 - si tu fait un site sans faire nimporte quoi et le rendre lourdingue il tiens facilement dans 100-200Ko avec de la compression et sur un faible traffique ça tiens correctement donc pourquoi payer un VPS ou passer par le MITM cloudflare ([ramleseam](https://twitter.com/RamleSeam/status/1300011766471155712))
 - FYI: Cloudflare is down and it’s supplying error messages to anyone registering with Indie Untangled Everywhere. 😫 Hopefully this will be resolved soon. ([indieuntangled](https://twitter.com/indieuntangled/status/1300080517661024257))
 - FYI Picarto is having intermittent issues because of Cloudflare outages. 😞 Refreshing might help, if you hit an error. ([idek_uggy](https://twitter.com/idek_uggy/status/1300075684648292352))
