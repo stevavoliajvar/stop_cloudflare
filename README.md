@@ -8,3 +8,5 @@
 ---
 
 - [Permesilo / License](LICENSE.md)
+
+<span style="display:none"><a rel="me" href="https://activism.openworlds.info/@sunny"></a></span>
