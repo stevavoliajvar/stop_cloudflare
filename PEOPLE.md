@@ -430,6 +430,8 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Come on sort it out. Same as yesterday, dead on 14:30 BST Cloudflare error pages for most of the afternoon. Not a huge amount of use. ([nvelopuk](https://twitter.com/NvelopUk/status/1301153417310674955))
+
 - tls1.0 et 1.1 c'est pas ultra safe en même temps, tl1.3 c'est pas top par contre mais bon c'est mieux que avoir un MITM via cloudflare ([ramleseam](https://twitter.com/RamleSeam/status/1300795041888243716))
 - Then why do you use Cloudflare on your homepage and use it to MITM the login? Cloudflare does not abide by the DMCA. ([dxgl_org](https://twitter.com/dxgl_org/status/1300557721536790530))
 - The failing to save problem was the same as the Cloudflare problem I've been having (support ticket 915489, which I was told was escalated to the engineering team last week) but the Cloudflare CAPTCHA doesn't come up like it had and now I can't log in, which never happened before ([quartzen](https://twitter.com/quartzen/status/1301219981758267394))
