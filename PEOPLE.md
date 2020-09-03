@@ -118,6 +118,8 @@ Half of the internet relying on a single entity is dangerous.
 - [Can you trust CloudFlare with your personal data?](https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/), [Terence Eden](https://edent.tel/)
 - [WARP is not a VPN for privacy](https://www.piavpnaymodqeuza.onion/blog/2019/09/warp-is-not-a-vpn-for-privacy/), [Private Internet Access](https://www.privateinternetaccess.com/)
 - [Cloudflare - why the fuss?](https://decentralize.today/decentralization/cloudflare-why-the-fuss), [O S Layman](https://decentralize.today/cryptocurrency/blogger/big-h)
+- [Cloudflare Outage Kills the Internet](https://youtube.com/watch?v=Yld9t32Frcw)
+- [Cloudflare is down lol](https://youtube.com/watch?v=cpCZG_r6nXg)
 - [Cloudflare considered harmful](https://www.devever.net/~hl/cloudflare)
 - [Cloudflare’s WARP ‘VPN’ isn’t private nor safe; Don’t use it](https://blog.kareldonk.com/cloudflares-warp-vpn-isnt-private-nor-safe-dont-use-it/), [Karel Donk](https://blog.kareldonk.com/)
 - [Does Cloudflare help my WordPress site?](https://seravo.com/blog/does-cloudflare-help-my-wordpress-site/), [Seravo](https://seravo.com/)
@@ -171,6 +173,9 @@ Half of the internet relying on a single entity is dangerous.
 </summary>
 
 
+- [Access Denied: Cloudflare is blocking my access to srb2.org (Can't access the game to Download!)](https://www.reddit.com/r/SRB2/comments/ikfq09/access_denied_cloudflare_is_blocking_my_access_to/)
+- [Cloudflare is down, who cares?](https://www.reddit.com/r/Bluzelle/comments/ijo561/cloudflare_is_down_who_cares/)
+- [Cloudflare goes down; crypto websites hit](https://www.reddit.com/r/p2psf/comments/ijlcvb/cloudflare_goes_down_crypto_websites_hit/)
 - [Spectrum and Cloudflare](https://www.reddit.com/r/Spectrum/comments/iia1cz/spectrum_and_cloudflare/)
 - [DNS Troubles?](https://www.reddit.com/r/TalesOfCrestoria/comments/iiyvha/dns_troubles/)
 - [Access denied | www.freemalaysiatoday.com used Cloudflare to restrict access](https://www.reddit.com/r/malaysianews/comments/iinkqa/access_denied_wwwfreemalaysiatodaycom_used/)
