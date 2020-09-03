@@ -173,6 +173,9 @@ Half of the internet relying on a single entity is dangerous.
 </summary>
 
 
+- [Access Denied: Cloudflare is blocking my access to srb2.org (Can't access the game to Download!)](https://www.reddit.com/r/SRB2/comments/ikfq09/access_denied_cloudflare_is_blocking_my_access_to/)
+- [Cloudflare is down, who cares?](https://www.reddit.com/r/Bluzelle/comments/ijo561/cloudflare_is_down_who_cares/)
+- [Cloudflare goes down; crypto websites hit](https://www.reddit.com/r/p2psf/comments/ijlcvb/cloudflare_goes_down_crypto_websites_hit/)
 - [Spectrum and Cloudflare](https://www.reddit.com/r/Spectrum/comments/iia1cz/spectrum_and_cloudflare/)
 - [DNS Troubles?](https://www.reddit.com/r/TalesOfCrestoria/comments/iiyvha/dns_troubles/)
 - [Access denied | www.freemalaysiatoday.com used Cloudflare to restrict access](https://www.reddit.com/r/malaysianews/comments/iinkqa/access_denied_wwwfreemalaysiatodaycom_used/)
