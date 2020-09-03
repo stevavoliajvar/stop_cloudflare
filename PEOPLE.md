@@ -173,6 +173,9 @@ Half of the internet relying on a single entity is dangerous.
 </summary>
 
 
+- [Cloudflare fail - a dry run to closing down the internet?](https://www.reddit.com/r/conspiracyNOPOL/comments/ijk28z/cloudflare_fail_a_dry_run_to_closing_down_the/)
+- [Dozens of Websites, Apps Go Down in Major Cloudflare Outage](https://www.reddit.com/user/joshwho/comments/ijkfqv/dozens_of_websites_apps_go_down_in_major/)
+- [For everyone who needs drivers during the MSI website downtime.](https://www.reddit.com/r/MSI_Gaming/comments/iji1pk/for_everyone_who_needs_drivers_during_the_msi/)
 - [Access Denied: Cloudflare is blocking my access to srb2.org (Can't access the game to Download!)](https://www.reddit.com/r/SRB2/comments/ikfq09/access_denied_cloudflare_is_blocking_my_access_to/)
 - [Cloudflare is down, who cares?](https://www.reddit.com/r/Bluzelle/comments/ijo561/cloudflare_is_down_who_cares/)
 - [Cloudflare goes down; crypto websites hit](https://www.reddit.com/r/p2psf/comments/ijlcvb/cloudflare_goes_down_crypto_websites_hit/)
@@ -436,7 +439,6 @@ Half of the internet relying on a single entity is dangerous.
 
 
 - Come on sort it out. Same as yesterday, dead on 14:30 BST Cloudflare error pages for most of the afternoon. Not a huge amount of use. ([nvelopuk](https://twitter.com/NvelopUk/status/1301153417310674955))
-
 - tls1.0 et 1.1 c'est pas ultra safe en même temps, tl1.3 c'est pas top par contre mais bon c'est mieux que avoir un MITM via cloudflare ([ramleseam](https://twitter.com/RamleSeam/status/1300795041888243716))
 - Then why do you use Cloudflare on your homepage and use it to MITM the login? Cloudflare does not abide by the DMCA. ([dxgl_org](https://twitter.com/dxgl_org/status/1300557721536790530))
 - The failing to save problem was the same as the Cloudflare problem I've been having (support ticket 915489, which I was told was escalated to the engineering team last week) but the Cloudflare CAPTCHA doesn't come up like it had and now I can't log in, which never happened before ([quartzen](https://twitter.com/quartzen/status/1301219981758267394))
@@ -445,7 +447,6 @@ Half of the internet relying on a single entity is dangerous.
 - 3 games had already concluded. All of us in india faced internal server error for about 2 minutes on chesscom including the players. If you go to cloudflare status site, you will see regiona affected due to this outrage. ([kunalkp87](https://twitter.com/kunalkp87/status/1300100199449206784))
 - Ed, with all due respect.. 2nd round should have been played and then the appeal should have continued..today cloudflare also mentioned it was a global outage. A lot of us in India faced internal server error for about 2 minutes on chesscom.. ([kunalkp87](https://twitter.com/kunalkp87/status/1300084967255408640))
 - It's a Lyric Round WiFi Thermostat. There's no reset wifi option in the app. I get unable to reach server error. I've had previous dm with my Mac address if you need it. Does the issue have to do with the cloudflare/centurylink outage? ([d3fung](https://twitter.com/d3fung/status/1300084527294033922))
-
 - si tu fait un site sans faire nimporte quoi et le rendre lourdingue il tiens facilement dans 100-200Ko avec de la compression et sur un faible traffique ça tiens correctement donc pourquoi payer un VPS ou passer par le MITM cloudflare ([ramleseam](https://twitter.com/RamleSeam/status/1300011766471155712))
 - FYI: Cloudflare is down and it’s supplying error messages to anyone registering with Indie Untangled Everywhere. 😫 Hopefully this will be resolved soon. ([indieuntangled](https://twitter.com/indieuntangled/status/1300080517661024257))
 - FYI Picarto is having intermittent issues because of Cloudflare outages. 😞 Refreshing might help, if you hit an error. ([idek_uggy](https://twitter.com/idek_uggy/status/1300075684648292352))
@@ -454,7 +455,6 @@ Half of the internet relying on a single entity is dangerous.
 - When is the DNS error through CloudFlare going to be resolved. Can't login to SlingTV ([johnt757uv](https://twitter.com/johnt757uv/status/1300059932692283392))
 - same. I can get to the main page but login and help give me a cloudflare dns error. ([rburn1960](https://twitter.com/rburn1960/status/1300057090199891969))
 - are you guys down? Im getting Cloudflare DNS error and the app keeps showing 10-100 error ([emvp84](https://twitter.com/emvp84/status/1300056534408454144))
-
 - Oebblokfuehrer ah, but it s delivered by cloudflare your mitm cdn when crossing file system kannst auch genauso breit ([macmelonmac](https://twitter.com/MacMelonMac/status/1299745637592899586))
 - your Cloudflare implementation is completly broken Need to click I am human and captcha thing at each page. No I don't have virus, malware or such things ([lobotommy6](https://twitter.com/LoboTommy6/status/1299723806320320512))
 - Yes, that's work and I know, that's not hCaptcha's issue. But when I pass the captcha, returns me again and again to that. I think, that is and problem with IPs. ([vharveyifa](https://twitter.com/VharveyiFa/status/1299392330139660289))
