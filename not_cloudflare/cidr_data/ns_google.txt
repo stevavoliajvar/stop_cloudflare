@@ -18,6 +18,10 @@ ns-cloud-e1.googledomains.com
 ns-cloud-e2.googledomains.com
 ns-cloud-e3.googledomains.com
 ns-cloud-e4.googledomains.com
+ns-cloud-f1.googledomains.com
+ns-cloud-f2.googledomains.com
+ns-cloud-f3.googledomains.com
+ns-cloud-f4.googledomains.com
 ns-cloud1.googledomains.com
 ns-cloud2.googledomains.com
 ns-cloud3.googledomains.com
