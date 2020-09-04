@@ -106,6 +106,7 @@ Half of the internet relying on a single entity is dangerous.
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+- [Cloudflare outage and the risk in today's Internet](https://www.garron.blog/posts/cloudflare-outage.html)
 - [Turns out half the internet has a Single-Point-of-Failure called “Cloudflare”](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
 - [Cloudflare and why it's bad](https://ella.wantscuddl.es/b/cloudflare)
 - [Vous vous souvenez de l'époque où DARPA avait conçu internet de manière à ce qu'il continue de fonctionner même quand un noeud du réseau est tombé ?](https://sebsauvage.net/links/?GSB_Fg)
