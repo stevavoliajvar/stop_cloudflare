@@ -439,6 +439,8 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Also think of what can do with all the data they currently MITM. Add the DoH query data to it and they also know about websites you visit that they don't MITM. ([kingslyj](https://twitter.com/kingslyj/status/1301859976093155329))
+
 - Come on sort it out. Same as yesterday, dead on 14:30 BST Cloudflare error pages for most of the afternoon. Not a huge amount of use. ([nvelopuk](https://twitter.com/NvelopUk/status/1301153417310674955))
 - tls1.0 et 1.1 c'est pas ultra safe en même temps, tl1.3 c'est pas top par contre mais bon c'est mieux que avoir un MITM via cloudflare ([ramleseam](https://twitter.com/RamleSeam/status/1300795041888243716))
 - Then why do you use Cloudflare on your homepage and use it to MITM the login? Cloudflare does not abide by the DMCA. ([dxgl_org](https://twitter.com/dxgl_org/status/1300557721536790530))
