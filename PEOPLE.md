@@ -439,6 +439,24 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Cloudflare pushing a captcha to users trying to login from the same IP they've had for 3 years. Unbranded friction. Wonder if Wave signed off on this. ([markriffey](https://twitter.com/MarkRiffey/status/1303022960526016513))
+- Have an RSS feed for your site. Use Cloudflare? Configure it not to throw a captcha on those URLs. RSS readers read RSS not hCaptcha HTML pages! ([ekes](https://twitter.com/ekes/status/1301536008035594240))
+- I have made posts on the CloudFlare community a long time ago, but can't login into CloudFlare now due to error 429 Too Many Requests cloudflare-lb ([partounian](https://twitter.com/partounian/status/1303789835648249856))
+- i think it's just maintenance bc it's that cloudflare error. It's working now!! ([keigosvisor](https://twitter.com/keigosvisor/status/1303686899823816704))
+- Hi. How do you fix the 526 error? been trying to resolve it for weeks but it keeps coming up. it's very frustrating ([edemt](https://twitter.com/EdemT/status/1303669327112155142))
+- yeah it's working now but i had a cloudflare error...weird :/c ([dantefucker](https://twitter.com/dantefucker/status/1303193147506393088))
+- If you're getting a cloudflare error it's probably down for everyone or undergoing maintenance ([dobu_dobu](https://twitter.com/Dobu_Dobu/status/1303173705888038912))
+- it looks like your servers are down again 😔. I got a couple of "error 500" on Trakt, with the Matrix background, and now it doesn't even do that, it's 524 on Cloudflare (host timeout). I hope you can find the issue. Thanks! ([ajperez81](https://twitter.com/ajperez81/status/1303067590999379968))
+- Now we are experiencing that near 1-5% of all requests from cloudflare workers to gcloud services (storage, run, etc) responding with 525 error. Workaround is simple - retry fetch, now waiting for support to answer. ([icelabaratory](https://twitter.com/icelabaratory/status/1303043554651013121))
+- i am not able to apply for ipo. Error message is - There seems to be an issue reaching our servers. Error reference number: 502 Cloudflare Location: Marseille ([amanturate](https://twitter.com/AmanTurate/status/1302828250880565248))
+- Its not opening in Pakistan. Showing Error: This site can’t be reached i am not sure its banned by ISP's in Pakistan or by any Cloudflare services causing any issue, because cloudflare have issues from many days in Pakistan Region. ([azeeupdates](https://twitter.com/AzeeUpdates/status/1302315535103913984))
+- Having weird issues with a site today. Started getting a Cloudflare error 1016 on LAN and on mobile data (not connected to network), but Gtmetrix, Pingdom and a TOR browser saw the site fine. Can't believe it would be a local cache issue since we saw an error on mobile as well. ([mattsingley](https://twitter.com/mattsingley/status/1301980453142892544))
+- I tried that too, same results, still seeing error 1016 ([deluxetom](https://twitter.com/deluxetom/status/1301967551501488128))
+- Not sure about Azure, but IIS log does contain this error. As said in the previous, the error was caused by Cloudflare sending an "Transfer-Encoding: chunked" in the proxied request. So the temporary solution is filter this header out until they fix at their side. ([seraphsx](https://twitter.com/Seraphsx/status/1301914513470640130))
+- This issue is from Cloudflare, nothing to do with Azure. (Although the error is from Azure/IIS) ([seraphsx](https://twitter.com/Seraphsx/status/1301891943673274371))
+- I have just installed elementor on a dedicated server - now says license could not be validated... yesterday i was seeing errors in their error messages - so my guess is that it's a poorly configured cloudflare setup ([jasonchargedm](https://twitter.com/jasonchargedm/status/1301573926326337538))
+- Error 520 sez Cloudflare. Must be getting lots of hits. ([cajunfj40](https://twitter.com/cajunfj40/status/1301520269174083589))
+
 - Also think of what can do with all the data they currently MITM. Add the DoH query data to it and they also know about websites you visit that they don't MITM. ([kingslyj](https://twitter.com/kingslyj/status/1301859976093155329))
 - Come on sort it out. Same as yesterday, dead on 14:30 BST Cloudflare error pages for most of the afternoon. Not a huge amount of use. ([nvelopuk](https://twitter.com/NvelopUk/status/1301153417310674955))
 - tls1.0 et 1.1 c'est pas ultra safe en même temps, tl1.3 c'est pas top par contre mais bon c'est mieux que avoir un MITM via cloudflare ([ramleseam](https://twitter.com/RamleSeam/status/1300795041888243716))
