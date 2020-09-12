@@ -1,4 +1,4 @@
-let localUse = false,
+let localUse = -1,
 	localDB = [],
 	timr, memcache = {},
 	forcePurge = false,
@@ -1082,9 +1082,9 @@ function get_realdomain(w) {
 	return wa[1] + '.' + wa[0];
 }
 function is_hostile(f) {
-	if (localUse) {
+	if (localUse >= 1) {
 		return new Promise((g, b) => {
-			g(localDB.includes(f) ? true : false);
+			g(localDB.includes(get_realdomain(f)) ? true : false);
 		});
 	}
 	return new Promise((g, b) => {
@@ -1171,7 +1171,7 @@ function forget_cache() {
 			'mul': (g.mul != undefined ? g.mul : 'eo')
 		});
 		browser.storage.local.set({
-			'opd': (g.opd == 'n' ? 'n' : 'y')
+			'opd': (g.opd != undefined ? g.opd : 'y')
 		});
 		browser.storage.local.set({
 			'ldb': (g.ldb != undefined ? g.ldb : '[]')
@@ -1189,7 +1189,17 @@ function forget_cache() {
 	}, 1814400000);
 }
 browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd']).then(g => {
-	localUse = (g.opd == 'n') ? true : false;
+	switch (g.opd) {
+		case 'n':
+			localUse = 1;
+			break;
+		case 'l':
+			localUse = 2;
+			break;
+		default:
+			localUse = -1;
+			break;
+	}
 	localDB = JSON.parse(g.ldb || '[]');
 	if (g.lastU) {
 		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1814400) {
@@ -1218,7 +1228,7 @@ browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd']).then(g => {
 					'mul': (g.mul != undefined ? g.mul : 'eo')
 				});
 				browser.storage.local.set({
-					'opd': (g.opd == 'n' ? 'n' : 'y')
+					'opd': (g.opd != undefined ? g.opd : 'y')
 				});
 				browser.storage.local.set({
 					'ldb': (g.ldb != undefined ? g.ldb : '[]')
@@ -1261,7 +1271,7 @@ browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd']).then(g => {
 				'mul': (g.mul != undefined ? g.mul : 'eo')
 			});
 			browser.storage.local.set({
-				'opd': (g.opd == 'n' ? 'n' : 'y')
+				'opd': (g.opd != undefined ? g.opd : 'y')
 			});
 			browser.storage.local.set({
 				'ldb': (g.ldb != undefined ? g.ldb : '[]')
@@ -1278,6 +1288,34 @@ browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd']).then(g => {
 		forget_cache();
 	}, 1814400000);
 });
+browser.webRequest.onResponseStarted.addListener(r => {
+	if (localUse == 2) {
+		let ismitm = false,
+			hn, rh = r.responseHeaders;
+		for (let i = 0; i < rh.length; i++) {
+			hn = rh[i]['name'].toLowerCase();
+			if (hn == 'cf-ray' || hn == 'cf-cache-status') {
+				ismitm = true;
+				break;
+			}
+		}
+		if (ismitm) {
+			let enemy = get_realdomain((new URL(r.url)).hostname);
+			if (enemy.length >= 4 && !localDB.includes(enemy)) {
+				localDB.push(enemy);
+				browser.storage.local.set({
+					'ldb': JSON.stringify(localDB)
+				});
+				browser.storage.local.set({
+					[enemy]: 'y'
+				});
+			}
+		}
+	}
+}, {
+	urls: ['http://*/*', 'https://*/*'],
+	types: ['main_frame', 'sub_frame', 'script']
+}, ['responseHeaders']);
 browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 	if (requests) {
 		if (requests === 'clear') {
@@ -1290,13 +1328,19 @@ browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 					browser.storage.local.set({
 						'opd': 'y'
 					});
-					localUse = false;
+					localUse = -1;
 					break;
 				case 'dbmode,s0':
 					browser.storage.local.set({
 						'opd': 'n'
 					});
-					localUse = true;
+					localUse = 1;
+					break;
+				case 'dbmode,s2':
+					browser.storage.local.set({
+						'opd': 'l'
+					});
+					localUse = 2;
 					break;
 				case 'dbmode,cl':
 					browser.storage.local.set({
