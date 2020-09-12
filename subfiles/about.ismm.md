@@ -35,9 +35,12 @@ example.org
 *** "Observe and Learn" mode (v1.0.21+)
 	If you don't want to use online public API, or don't want to maintain offline database
 	this option is for you.
-	You'll have to visit cloudflared website because this add-on never make a request to websites.
-	To activate this option, go to "Database" section and select "Use offline local database (Detect and remember at first sight)".
-	To clear local database, go to "Database" section and click "Database". Click "Clear all data".
+	You'll have to visit cloudflared website first because this add-on never make a
+	request to websites.
+	To activate this option,
+		go to "Database" section and select "Use offline local database (Detect and remember)".
+	To clear local database,
+		go to "Database" section and click "Database". Click "Clear all data".
 
 ```
  
