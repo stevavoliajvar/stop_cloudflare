@@ -2,10 +2,11 @@
    "manifest_version": 2,
    "name": "Kiu retejo malakceptis min?",
    "description": "Via retejo malakceptis min, sed mi scias ke mi fartos bone.",
-   "version": "1.0.3",
+   "version": "1.0.4",
    "homepage_url": "https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/",
    "author": "Crimeflare",
    "permissions": [
+      "storage",
       "webRequest",
       "<all_urls>"
    ],
