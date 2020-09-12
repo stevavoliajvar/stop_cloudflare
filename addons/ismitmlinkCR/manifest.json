@@ -1,14 +1,16 @@
 {
    "manifest_version": 2,
    "name": "Ĉu ligoj estas vundeblaj al MITM-atako?",
-   "version": "1.0.20.5",
+   "version": "1.0.21",
    "minimum_chrome_version": "68",
    "homepage_url": "https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/",
    "author": "Crimeflare",
    "incognito": "split",
    "permissions": [
       "storage",
-      "unlimitedStorage"
+      "unlimitedStorage",
+      "webRequest",
+      "<all_urls>"
    ],
    "icons": {
       "72": "icons/72.png"
