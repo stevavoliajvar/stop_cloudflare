@@ -5,8 +5,9 @@ document.addEventListener('DOMContentLoaded', () => {
 		document.getElementById('obs').checked = (g.obs == 'y') ? true : false;
 		document.getElementById('dbg').checked = (g.dbg == 'y') ? true : false;
 		document.getElementById('alt').checked = (g.alt == 'y') ? true : false;
-		document.getElementById('opon').checked = (g.opd != 'n') ? true : false;
+		document.getElementById('opon').checked = (g.opd != 'n' && g.opd != 'l') ? true : false;
 		document.getElementById('opoff').checked = (g.opd == 'n') ? true : false;
+		document.getElementById('opol').checked = (g.opd == 'l') ? true : false;
 		let ul = g.mul || 'eo';
 		fetch('i18n/' + ul + '.json', {
 			method: 'GET'
@@ -59,6 +60,11 @@ document.getElementById('opon').addEventListener('click', () => {
 });
 document.getElementById('opoff').addEventListener('click', () => {
 	browser.runtime.sendMessage('dbmode,s0').then(() => {
+		location.reload();
+	});
+});
+document.getElementById('opol').addEventListener('click', () => {
+	browser.runtime.sendMessage('dbmode,s2').then(() => {
 		location.reload();
 	});
 });
