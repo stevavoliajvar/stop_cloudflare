@@ -7,7 +7,7 @@ chrome.webRequest.onResponseStarted.addListener(i => {
 		}
 		let iServer = '?';
 		i.responseHeaders.forEach(x => {
-			if (x.name == 'Server' || x.name == 'server') {
+			if (x.name.toLowerCase() == 'server') {
 				iServer = x.value;
 			}
 		});
