@@ -17,5 +17,5 @@ Your cloudflare-domain collection is yours.
 
 
 Download add-on
-- From **Crimeflare (Recommend)**: [Firefox ESR / Chromium](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/)
-- From CodeBerg (Delay Sync): [FirefoxESR](../addons/releases/bcma.xpi) / [Chromium](../addons/releases/bcma.crx)
+- From Crimeflare (_Recommend_): [Firefox ESR / Chromium](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/)
+- From Gitea (Delay Sync): [FirefoxESR](../addons/releases/bcma.xpi) / [Chromium](../addons/releases/bcma.crx)
