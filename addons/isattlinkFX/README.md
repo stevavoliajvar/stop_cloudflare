@@ -1,6 +1,6 @@
 [//]: # (do not edit me; start)
 
-Versio: _1.0.2.5_
+Versio: _1.0.2.6_
 
 [//]: # (do not edit me; end)
 
