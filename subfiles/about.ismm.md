@@ -10,7 +10,7 @@
 You′ve found something on the internet.
 Are these links or images vulnerable to MITM attack or not?
  
-This add-on is using* Crimeflare′s Public API to scan FQDN.
+This add-on is using* Crimeflare′s Public API to scan*** FQDN.
 	e.g. https://ekzemplo.com/page.html → "ekzemplo.com"
 
 This add-on never send other information.
@@ -31,8 +31,20 @@ www.cloudflare.com
 domain.com
 example.org
 --------------------
+
+*** "Observe and Learn" mode
+	If you don't want to use online public API, or don't want to maintain offline database
+	this option is for you.
+	You'll have to visit cloudflared website first because this add-on never make a
+	request to websites.
+	To activate this option,
+		go to "Database" section and select "Use offline local database (Detect and remember)".
+	To clear local database,
+		go to "Database" section and click "Database". Click "Clear all data".
+
 ```
  
 
 Download add-on
-- [Firefox ESR / Chromium](https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/addon.php?give&for=ismitmlink)
+- From Crimeflare (_Recommend_): [Firefox ESR / Chromium](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/)
+- From Gitea (Delay Sync): [FirefoxESR](../addons/releases/ismm.xpi) / [Chromium](../addons/releases/ismm.crx)
