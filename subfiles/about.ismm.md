@@ -32,7 +32,7 @@ domain.com
 example.org
 --------------------
 
-*** "Observe and Learn" mode (v1.0.21+)
+*** "Observe and Learn" mode
 	If you don't want to use online public API, or don't want to maintain offline database
 	this option is for you.
 	You'll have to visit cloudflared website first because this add-on never make a
