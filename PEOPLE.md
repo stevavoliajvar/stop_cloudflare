@@ -456,7 +456,6 @@ Half of the internet relying on a single entity is dangerous.
 - This issue is from Cloudflare, nothing to do with Azure. (Although the error is from Azure/IIS) ([seraphsx](https://twitter.com/Seraphsx/status/1301891943673274371))
 - I have just installed elementor on a dedicated server - now says license could not be validated... yesterday i was seeing errors in their error messages - so my guess is that it's a poorly configured cloudflare setup ([jasonchargedm](https://twitter.com/jasonchargedm/status/1301573926326337538))
 - Error 520 sez Cloudflare. Must be getting lots of hits. ([cajunfj40](https://twitter.com/cajunfj40/status/1301520269174083589))
-
 - Also think of what can do with all the data they currently MITM. Add the DoH query data to it and they also know about websites you visit that they don't MITM. ([kingslyj](https://twitter.com/kingslyj/status/1301859976093155329))
 - Come on sort it out. Same as yesterday, dead on 14:30 BST Cloudflare error pages for most of the afternoon. Not a huge amount of use. ([nvelopuk](https://twitter.com/NvelopUk/status/1301153417310674955))
 - tls1.0 et 1.1 c'est pas ultra safe en même temps, tl1.3 c'est pas top par contre mais bon c'est mieux que avoir un MITM via cloudflare ([ramleseam](https://twitter.com/RamleSeam/status/1300795041888243716))
