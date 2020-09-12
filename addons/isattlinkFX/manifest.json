@@ -2,7 +2,7 @@
    "manifest_version": 2,
    "name": "Ĉu ĉi tiuj ligoj blokos Tor-uzanton?",
    "description": "Skanu FQDN uzante la API",
-   "version": "1.0.2.5",
+   "version": "1.0.2.6",
    "homepage_url": "https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/",
    "author": "Crimeflare",
    "permissions": [
