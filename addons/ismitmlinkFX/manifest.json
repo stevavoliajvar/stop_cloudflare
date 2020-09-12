@@ -2,12 +2,14 @@
    "manifest_version": 2,
    "name": "Ĉu ligoj estas vundeblaj al MITM-atako?",
    "description": "Skanu FQDN uzante la API",
-   "version": "1.0.20.5",
+   "version": "1.0.21",
    "homepage_url": "https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/",
    "author": "Crimeflare",
    "permissions": [
       "storage",
-      "unlimitedStorage"
+      "unlimitedStorage",
+      "webRequest",
+      "<all_urls>"
    ],
    "icons": {
       "72": "icons/72.png"
@@ -37,7 +39,7 @@
       "gecko": {
          "id": "ismitmlink@searxes.danwin1210.me",
          "strict_min_version": "68.0",
-         "update_url":"https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/addon.php?for=ismitmlink"
+         "update_url": "https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/addon.php?for=ismitmlink"
       }
    }
 }
