@@ -36,4 +36,4 @@ example.org
 
 Download add-on
 - From Crimeflare (_Recommend_): [Firefox ESR / Chromium](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/)
-- From Gitea (Delay Sync): [FirefoxESR](../addons/releases/isat.xpi) / [Chromium](../addons/releases/isat.crx)
+- From Gitea (Delay Sync): [FirefoxESR](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/addons/releases/isat.xpi) / [Chromium](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/addons/releases/isat.crx)
