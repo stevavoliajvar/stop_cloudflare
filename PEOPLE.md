@@ -439,6 +439,16 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Can I say can’t even given the chance to lock yourself out of accounts, because the cloudflare/google “oh no you seem to be using tor” recursive captcha loop from hell will consume you. ([synackpse](https://twitter.com/synackpse/status/1305184010893701121))
+- or use Cloudflare to protect your blog and add a captcha to the contact form ([justmeddling](https://twitter.com/justmeddling/status/1301504201026084865))
+- Yes, that's work and I know, that's not hCaptcha's issue. But when I pass the captcha, returns me again and again to that. I think, that is and problem with IPs. ([snosratiershad](https://twitter.com/snosratiershad/status/1299392330139660289))
+- Weird, I think it might be a cloudflare issue again, Twitch died for me and not long after I got error coded in Destiny. The game is just telling me the servers are down but everyone seems to be having different issues ([envyuwu](https://twitter.com/envyuwu/status/1305041990510415874))
+- Starting to see an increased error rate for websites behind again. We'll keep an eye on the situation as it develops. ([hetrixtools](https://twitter.com/HetrixTools/status/1305039576117972992))
+- did the site just stop loading images? I'm getting a cloudflare error when I try to load one ([rawmorella](https://twitter.com/rawmorella/status/1304940118462083078))
+- But I still cannot access the page. Cloudflare says there is a error in the host. ([zx_role](https://twitter.com/Zx_role/status/1304897769153282049))
+- Guys, as the new owners of hostedredmine, do you have any idea why their site isn't working? Error 1001 from ([paulceden](https://twitter.com/PaulCEden/status/1304841594957373443))
+- I am having trouble using your site, the Gift Wizard, won't allow me to select a suburb, and clicking on any sections of the site gives me a Cloudflare 524 error site timed out. ([juddlehmkuhl](https://twitter.com/JuddLehmkuhl/status/1304327940327575552))
+- Got through.. Submit payment.. Cloudflare Error. GG to me. I tried. ([jxstnaid](https://twitter.com/JxstNaid/status/1304164804303745027))
 - Cloudflare pushing a captcha to users trying to login from the same IP they've had for 3 years. Unbranded friction. Wonder if Wave signed off on this. ([markriffey](https://twitter.com/MarkRiffey/status/1303022960526016513))
 - Have an RSS feed for your site. Use Cloudflare? Configure it not to throw a captcha on those URLs. RSS readers read RSS not hCaptcha HTML pages! ([ekes](https://twitter.com/ekes/status/1301536008035594240))
 - I have made posts on the CloudFlare community a long time ago, but can't login into CloudFlare now due to error 429 Too Many Requests cloudflare-lb ([partounian](https://twitter.com/partounian/status/1303789835648249856))
