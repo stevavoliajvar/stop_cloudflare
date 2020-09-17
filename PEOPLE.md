@@ -439,6 +439,7 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Is your service down? I was in a conference but I'm now getting a Cloudflare "Forbidden" error page. ([fanahova](https://twitter.com/FanaHOVA/status/1305922279356981250))
 - Can I say can’t even given the chance to lock yourself out of accounts, because the cloudflare/google “oh no you seem to be using tor” recursive captcha loop from hell will consume you. ([synackpse](https://twitter.com/synackpse/status/1305184010893701121))
 - or use Cloudflare to protect your blog and add a captcha to the contact form ([justmeddling](https://twitter.com/justmeddling/status/1301504201026084865))
 - Yes, that's work and I know, that's not hCaptcha's issue. But when I pass the captcha, returns me again and again to that. I think, that is and problem with IPs. ([snosratiershad](https://twitter.com/snosratiershad/status/1299392330139660289))
