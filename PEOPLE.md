@@ -17,7 +17,7 @@ C'mon guys. Stop using Cloudflare.
 It's endangering the world wide web and you're blocking readers who are protecting
 their privacy by using Tor.
 ```
--- [Mr. Jeff Cliff, BSc ***PROFILE USES CLOUDFLARE***](https://shitposter.club/users/jeffcliff)
+-- [Jeff Cliff](https://mamot.fr/jeffcliff)
 
 
 ```
