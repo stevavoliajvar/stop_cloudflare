@@ -439,6 +439,12 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- t. Totally agree that means cloudflare by cloudflare by cloudflare your mitm cdn when trying to me w ([macmelonmac](https://twitter.com/MacMelonMac/status/1307766737727877121))
+- 🙏 Had a Cloudflare and captcha check on an unloaded page so here's to the form working out better ([philashoes](https://twitter.com/philashoes/status/1307838722923167746))
+- lol ran into a cloudflare "security check" using their own captcha thing that doesn't even have a (terrible) audio alternative. yep fuck the visually impaired!! ([kemonologic](https://twitter.com/kemonologic/status/1305316851212222464))
+- The site is has gotten really slow all of the sudden in the last 10 minutes, even got a Cloudflare error at one point saying the site was unavailable. Just thought I'd let you know in case you're not aware. ([mfdwx](https://twitter.com/mfdwx/status/1306611375729446913))
+- been getting this error for a while: The web server is not returning a connection. As a result, the web page is not displaying. Ray ID: 5d31b93d3dd9e59b Your IP address: 81.103.238.121 Error reference number: 521 Cloudflare Location: Manchester ([rathean2](https://twitter.com/Rathean2/status/1305818731013120000))
+- And all I'm seeing at that link is a "Error 502 Bad Gateway" Cloudflare error page. Coincidence? I think not. ([bennycemoli](https://twitter.com/BennyCemoli/status/1305484079488475139))
 - Is your service down? I was in a conference but I'm now getting a Cloudflare "Forbidden" error page. ([fanahova](https://twitter.com/FanaHOVA/status/1305922279356981250))
 - Can I say can’t even given the chance to lock yourself out of accounts, because the cloudflare/google “oh no you seem to be using tor” recursive captcha loop from hell will consume you. ([synackpse](https://twitter.com/synackpse/status/1305184010893701121))
 - or use Cloudflare to protect your blog and add a captcha to the contact form ([justmeddling](https://twitter.com/justmeddling/status/1301504201026084865))
