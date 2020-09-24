@@ -341,6 +341,8 @@ Let's talk about _other software's privacy_...
 
 - Opera spyware level: [Extremely High](https://spyware.neocities.org/articles/opera.html)
 
+- Don't use any browser on Apple iOS. This is because you shouldn't be using iOS at all, mainly because it is [malware](https://www.gnu.org/proprietary/malware-apple.html).
+
 Therefore we recommend above table only. _Nothing else_.
 
 </details>
