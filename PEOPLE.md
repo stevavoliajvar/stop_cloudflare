@@ -439,6 +439,8 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Unfortunately still getting the cloudflare security error. Appreciate the updates, looking forward to using this with my students tomorrow! 🤞 ([misterbrash](https://twitter.com/MisterBrash/status/1308477400066543617))
+- Hey, why the website shows Cloudflare error all the time I am unable to access it!!!! ([subhankarsmith](https://twitter.com/subhankarsmith/status/1308309175529697280))
 - t. Totally agree that means cloudflare by cloudflare by cloudflare your mitm cdn when trying to me w ([macmelonmac](https://twitter.com/MacMelonMac/status/1307766737727877121))
 - 🙏 Had a Cloudflare and captcha check on an unloaded page so here's to the form working out better ([philashoes](https://twitter.com/philashoes/status/1307838722923167746))
 - lol ran into a cloudflare "security check" using their own captcha thing that doesn't even have a (terrible) audio alternative. yep fuck the visually impaired!! ([kemonologic](https://twitter.com/kemonologic/status/1305316851212222464))
