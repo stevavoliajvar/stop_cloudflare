@@ -289,6 +289,8 @@ die();
 | [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux)  _Tor_|
 | [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android  _Tor_|
 | [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS  _Tor_|
+| [Iridium Browser](https://iridiumbrowser.de/downloads/) | Iridium Secure Browser Project | [Link](https://github.com/iridium-browser/iridium-browser/) | PC (Win, Mac, Linux, OpenBSD) |
+| [Werefox](https://git.nuegia.net/webbrowser.git/)(_unverified_) | Thomas Groman | [Link](xmpp:spyware@conference.nuegia.net) | PC (Linux) |
 
 
 Other software's privacy is imperfect. This doesn't mean Tor browser is "_perfect_".
@@ -330,7 +332,7 @@ Let's talk about _other software's privacy_...
 
 - SRWare Iron make too many [phones home connection](https://spyware.neocities.org/articles/iron.html). It also connect to google domains.
 
-- Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/). Here's [more issues](https://spyware.neocities.org/articles/brave.html). Brave is stealing donations in the name of other people [without their consent](https://digdeeper.neocities.org/ghost/browsers.html#brave).
+- Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/). Here's [more issues](https://spyware.neocities.org/articles/brave.html).
   - [binance affiliate ID](https://twitter.com/cryptonator1337/status/1269594587716374528)
 
 - Microsoft Edge lets Facebook [run Flash code behind users' backs](https://www.zdnet.com/article/microsoft-edge-lets-facebook-run-flash-code-behind-users-backs/).
