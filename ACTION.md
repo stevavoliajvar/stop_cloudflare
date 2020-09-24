@@ -289,6 +289,7 @@ die();
 | [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux)  _Tor_|
 | [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android  _Tor_|
 | [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS  _Tor_|
+| [GNU/Icecat](https://ftp.gnu.org/gnu/gnuzilla/) | GNU | [Link](https://www.gnu.org/software/gnuzilla/) | PC (Linux) |
 | [Iridium Browser](https://iridiumbrowser.de/downloads/) | Iridium Secure Browser Project | [Link](https://github.com/iridium-browser/iridium-browser/) | PC (Win, Mac, Linux, OpenBSD) |
 | [Werefox](https://git.nuegia.net/webbrowser.git/)(_unverified_) | Thomas Groman | [Link](xmpp:spyware@conference.nuegia.net) | PC (Linux) |
 
