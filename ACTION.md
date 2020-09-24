@@ -314,7 +314,8 @@ There is no 100% secure nor 100% private on the internet and technology.
 
 Let's talk about _other software's privacy_...
 
-- **If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)"**. ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in [many ways](https://spyware.neocities.org/articles/firefox.html).
+- **If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)"**. ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in many ways.
+  - [Firefox - Spyware Watchdog](https://spyware.neocities.org/articles/firefox.html)
   - [Firefox rejects free speech, bans free speech](https://web.archive.org/web/20200423010026/https://reclaimthenet.org/firefox-rejects-free-speech-bans-free-speech-commenting-plugin-dissenter-from-its-extensions-gallery/)
   - ["100+ downvotes. It seems like asking a software company to stick to... software is just too much these days."](https://old.reddit.com/r/firefox/comments/gutdiw/weve_got_work_to_do_the_mozilla_blog/fslbbb6/)
 
