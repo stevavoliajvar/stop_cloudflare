@@ -405,7 +405,7 @@ Therefore we recommend above table only. _Nothing else_.
 </summary>
 
 
-- Tell others around you about the dangers of Cloudflare. But don't talk with NSA employee; you'll be _definitely_ [marked](https://news.slashdot.org/comments.pl?sid=15426596&cid=59534554)... just kidding!
+- Tell others around you about the dangers of Cloudflare.
 
 - Help improve this repository, both the lists, the arguments against it and the details.
 
