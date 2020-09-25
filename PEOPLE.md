@@ -17,7 +17,7 @@ C'mon guys. Stop using Cloudflare.
 It's endangering the world wide web and you're blocking readers who are protecting
 their privacy by using Tor.
 ```
--- [Jeff Cliff](https://mamot.fr/jeffcliff)
+-- [Jeff Cliff](http://qhtn4w2q36dojls2.onion/)
 
 
 ```
@@ -25,7 +25,7 @@ Man-in-the-middle attack is a serious offense.
 If you′re using Cloudflare on your website, you won′t get first rank.
 You shouldn′t use it if you value visitor′s privacy.
 ```
- -- [Crimeflare #Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) (aka Searxes)
+ -- [Crimeflare #Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) (_aka_ Searxes)
 
 
 ```
