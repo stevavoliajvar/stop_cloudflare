@@ -20,7 +20,7 @@ Self publishing platform, [BookRix.com](https://www.bookrix.com/), denied Mr. Je
 @jeffcliff@niu.moe:
 ```
 #greatcloudwall gets further politicized:
-Terminates Service for 8Chan - the #greatcloudwall gets one step closer to dictating what you can/cannot say on the internet 
+Terminates Service for 8Chan - the #greatcloudwall gets one step closer to dictating what you can or cannot say on the internet 
 ``` 
 
 https://niu.moe/@jeffcliff/102566376973167221

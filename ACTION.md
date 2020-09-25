@@ -289,6 +289,9 @@ die();
 | [Tor Browser](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | PC (Win, Mac, Linux)  _Tor_|
 | [Tor Browser Android](https://www.torproject.org/download/) | Tor Project | [Link](https://support.torproject.org/) | Android  _Tor_|
 | [Onion Browser](https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8) | Mike Tigas | [Link](https://github.com/OnionBrowser/OnionBrowser/issues) | Apple iOS  _Tor_|
+| [GNU/Icecat](https://ftp.gnu.org/gnu/gnuzilla/) | GNU | [Link](https://www.gnu.org/software/gnuzilla/) | PC (Linux) |
+| [Iridium Browser](https://iridiumbrowser.de/downloads/) | Iridium Secure Browser Project | [Link](https://github.com/iridium-browser/iridium-browser/) | PC (Win, Mac, Linux, OpenBSD) |
+| [Werefox](https://git.nuegia.net/webbrowser.git/)(_unverified_) | Thomas Groman | [Link](https://www.nuegia.net/) | PC (Linux) |
 
 
 Other software's privacy is imperfect. This doesn't mean Tor browser is "_perfect_".
@@ -312,7 +315,8 @@ There is no 100% secure nor 100% private on the internet and technology.
 
 Let's talk about _other software's privacy_...
 
-- **If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)"**. ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in [many ways](https://spyware.neocities.org/articles/firefox.html).
+- **If you really need to use Firefox, pick "[Firefox ESR](https://www.mozilla.org/en-US/firefox/organizations/)"**. ESR is developed for company and organizations, thus _some_ spyware code is disabled by default. Portable version is [here](https://portableapps.com/apps/internet/firefox-portable-esr). But we tell you, Firefox is [horrible for privacy](https://www.reddit.com/r/privacytoolsIO/comments/81om92/what_are_the_differences_between_privacytoolsio/dv4orve/) in many ways.
+  - [Firefox - Spyware Watchdog](https://spyware.neocities.org/articles/firefox.html)
   - [Firefox rejects free speech, bans free speech](https://web.archive.org/web/20200423010026/https://reclaimthenet.org/firefox-rejects-free-speech-bans-free-speech-commenting-plugin-dissenter-from-its-extensions-gallery/)
   - ["100+ downvotes. It seems like asking a software company to stick to... software is just too much these days."](https://old.reddit.com/r/firefox/comments/gutdiw/weve_got_work_to_do_the_mozilla_blog/fslbbb6/)
 
@@ -330,7 +334,7 @@ Let's talk about _other software's privacy_...
 
 - SRWare Iron make too many [phones home connection](https://spyware.neocities.org/articles/iron.html). It also connect to google domains.
 
-- Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/). Here's [more issues](https://spyware.neocities.org/articles/brave.html). Brave is stealing donations in the name of other people [without their consent](https://digdeeper.neocities.org/ghost/browsers.html#brave).
+- Brave Browser [whitelist Facebook/Twitter trackers](https://www.bleepingcomputer.com/news/security/facebook-twitter-trackers-whitelisted-by-brave-browser/). Here's [more issues](https://spyware.neocities.org/articles/brave.html).
   - [binance affiliate ID](https://twitter.com/cryptonator1337/status/1269594587716374528)
 
 - Microsoft Edge lets Facebook [run Flash code behind users' backs](https://www.zdnet.com/article/microsoft-edge-lets-facebook-run-flash-code-behind-users-backs/).
@@ -338,6 +342,8 @@ Let's talk about _other software's privacy_...
 - Vivaldi [does not respect your privacy](https://spyware.neocities.org/articles/vivaldi.html).
 
 - Opera spyware level: [Extremely High](https://spyware.neocities.org/articles/opera.html)
+
+- Don't use any browser on Apple iOS. This is because you shouldn't be using iOS at all, mainly because it is [malware](https://www.gnu.org/proprietary/malware-apple.html).
 
 Therefore we recommend above table only. _Nothing else_.
 
@@ -399,7 +405,7 @@ Therefore we recommend above table only. _Nothing else_.
 </summary>
 
 
-- Tell others around you about the dangers of Cloudflare. But don't talk with NSA employee; you'll be _definitely_ [marked](https://news.slashdot.org/comments.pl?sid=15426596&cid=59534554)... just kidding!
+- Tell others around you about the dangers of Cloudflare.
 
 - Help improve this repository, both the lists, the arguments against it and the details.
 
