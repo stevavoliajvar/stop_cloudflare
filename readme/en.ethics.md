@@ -1,4 +1,6 @@
 # 👋 [_Non-English_ versions](../README.md)
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 ---
 
@@ -245,6 +247,8 @@ Their new privacy policy doesn't make any mention of retaining data for a year.
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
 How can you trust Cloudflare if [their privacy policy is a LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
+
+- [Over a year passed since I cancelled my Cloudflare account](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
 
 </details>
 
