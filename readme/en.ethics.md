@@ -277,6 +277,20 @@ You will [receive this confirmation email](https://twitter.com/originalesushi/st
 
 Can you "trust" this?
 
+
+- How to cancel your Cloudflare account
+
+1. Login to your [Cloudflare dashboard](https://dash.cloudflare.com/).
+2. Delete all zones(domains) from your dashboard.
+3. Click _support_ link.
+4. Send a new ticket. Tell them that you want to close your account.
+5. _Wait several days._
+6. Cloudflare staff will ask for your confirmation and the reason why you have decided to leave Cloudflare.
+7. Send a reply again.
+8. _Wait several days._
+9. You will get a message: "We have successfully deleted your account"
+
+
 </details>
 
 ---
