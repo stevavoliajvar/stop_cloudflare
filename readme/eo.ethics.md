@@ -260,6 +260,8 @@ Ilia nova privateca politiko neniel mencias konservi datumojn dum unu jaro.
 
 Kiel vi povas fidi Cloudflare se ilia privateca politiko estas mensogo?
 
+- [Pasis pli ol unu jaro de kiam mi nuligis mian Cloudflaron konton](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -286,6 +288,18 @@ Vi ricevos ĉi tiun konfirman retpoŝton.
 "Ni komencis procesi vian peton pri forigo" sed "Ni daŭre stokos viajn personajn informojn".
 
 Ĉu vi povas "fidi" ĉi tion?
+
+- Kiel nuligi vian Cloudflaron konton
+
+1. Ensalutu al via [panelo de Cloudflare](https://dash.cloudflare.com/).
+2. Forigu ĉiujn domajnojn de via panelo.
+3. Alklaku subtenan ligon.
+4. Sendu novan bileton. Diru al ili, ke vi volas fermi vian konton.
+5. Atendu plurajn tagojn.
+6. Personaro de Cloudflare petos vian konfirmon kaj la kialon, kial vi decidis forlasi Cloudflare.
+7. Sendu respondon denove.
+8. Atendu plurajn tagojn.
+9. Vi ricevos mesaĝon: "Ni sukcese forigis vian konton"
 
 </details>
 
