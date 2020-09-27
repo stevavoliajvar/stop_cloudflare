@@ -1,4 +1,6 @@
 # 👋 [_Non-English_ versions](../README.md)
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 ---
 
@@ -246,6 +248,8 @@ Their new privacy policy doesn't make any mention of retaining data for a year.
 
 How can you trust Cloudflare if [their privacy policy is a LIE](https://twitter.com/daviddlow/status/1197787135526555648)?
 
+- [Over a year passed since I cancelled my Cloudflare account](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -272,6 +276,20 @@ You will [receive this confirmation email](https://twitter.com/originalesushi/st
 "We have begun to process your deletion request" but "We will continue to store your personal information".
 
 Can you "trust" this?
+
+
+- How to cancel your Cloudflare account
+
+1. Login to your [Cloudflare dashboard](https://dash.cloudflare.com/).
+2. Delete all zones(domains) from your dashboard.
+3. Click _support_ link.
+4. Send a new ticket. Tell them that you want to close your account.
+5. _Wait several days._
+6. Cloudflare staff will ask for your confirmation and the reason why you have decided to leave Cloudflare.
+7. Send a reply again.
+8. _Wait several days._
+9. You will get a message: "We have successfully deleted your account"
+
 
 </details>
 
