@@ -289,6 +289,7 @@ Vi ricevos ĉi tiun konfirman retpoŝton.
 
 Ĉu vi povas "fidi" ĉi tion?
 
+
 - Kiel nuligi vian Cloudflaron konton
 
 1. Ensalutu al via [panelo de Cloudflare](https://dash.cloudflare.com/).
@@ -300,6 +301,7 @@ Vi ricevos ĉi tiun konfirman retpoŝton.
 7. Sendu respondon denove.
 8. Atendu plurajn tagojn.
 9. Vi ricevos mesaĝon: "Ni sukcese forigis vian konton"
+
 
 </details>
 
