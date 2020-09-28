@@ -260,6 +260,8 @@
 
 {%ethx9n0011%}
 
+- [{%ethx9n0012%}](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -286,6 +288,20 @@
 {%ethx10n0006%}
 
 {%ethx10n0007%}
+
+
+- {%ethx10n0008%}
+
+1. {%ethx10n0009%}
+2. {%ethx10n0010%}
+3. {%ethx10n0011%}
+4. {%ethx10n0012%}
+5. {%ethx10n0013%}
+6. {%ethx10n0014%}
+7. {%ethx10n0015%}
+8. {%ethx10n0013%}
+9. {%ethx10n0016%}
+
 
 </details>
 
