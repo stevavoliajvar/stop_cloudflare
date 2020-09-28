@@ -3,13 +3,13 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"Ne támogassa ezt a etikus társaságot"
+"Ne támogassa ezt az etikai szempontból semmis társaságot"
 
-"Vállalata nem megbízható. Azt állítja, hogy végrehajtja a DMCA-t, de számos peres eljárással rendelkezik ennek elmulasztása miatt."
+"A céged nem megbízható. Ön azt állítja, hogy érvényesíti a DMCA-t, de sok pert indít, amiért ezt nem teszi meg."
 
-"Csak cenzúrázza azokat, akik etikájuk megkérdőjelezik."
+"Csak azokat cenzúrázzák, akik megkérdőjelezik etikájukat."
 
-"Azt hiszem, az igazság kényelmetlen és jobban el van rejtve a nyilvánosság előtt."  -- [phyzonloop](https://twitter.com/phyzonloop)
+"Azt hiszem, az igazság kényelmetlen és jobban el van rejtve a nyilvánosság elől."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
@@ -18,18 +18,18 @@
 <details>
 <summary>kattints ide
 
-## A CloudFlare embereket spamol
+## A CloudFlare spameket küld az embereknek
 </summary>
 
 
-A Cloudflare spam e-maileket küld a nem Cloudflare felhasználók számára.
+A Cloudflare spam e-maileket küld nem Cloudflare felhasználóknak.
 
-- Csak e-maileket küldhet azoknak az előfizetőknek, akik már bejelentkeztek
-- Amikor a felhasználó azt mondja: "stop", akkor hagyja abba az e-mail küldést
+- Csak azoknak az előfizetőknek küldjön e-mailt, akik részt vettek
+- Amikor a felhasználó azt mondja, hogy "stop", akkor hagyja abba az e-mail küldését
 
 Ez ennyire egyszerű. De a Cloudflare nem érdekli.
-A Cloudflare azt mondta, hogy szolgáltatásuk felhasználásával megállíthatják a spamszerelőket vagy a támadókat.
-Hogyan állíthatjuk le a Cloudflare-t anélkül, hogy aktiválnánk a Cloudflare-t?
+A Cloudflare szerint szolgáltatásuk használatával minden spamelőt vagy támadót meg lehet állítani.
+Hogyan állíthatjuk meg a Cloudflare-t anélkül, hogy aktiválnánk a Cloudflare-t?
 
 
 | 🖼 | 🖼 |
@@ -44,13 +44,13 @@ Hogyan állíthatjuk le a Cloudflare-t anélkül, hogy aktiválnánk a Cloudflar
 <details>
 <summary>kattints ide
 
-## Távolítsa el a felhasználói véleményt
+## Távolítsa el a felhasználó véleményét
 </summary>
 
 
-A Cloudflare cenzúrázza a negatív értékeléseket.
-Ha a Cloudflare elleni szöveget tesz a Twitteren, lehetősége van arra, hogy a Cloudflare alkalmazottjától "Nem, ez nem" üzenettel válaszoljon.
-Ha bármelyik felülvizsgálati webhelyen negatív véleményt tesz közzé, megpróbálják cenzúrálni.
+Cloudflare cenzor negatív vélemények.
+Ha Cloudflare-ellenes szöveget tesz közzé a Twitteren, akkor esélye van arra, hogy választ kapjon a Cloudflare alkalmazottjától, hogy "Nem, ez nem".
+Ha bármelyik felülvizsgálati webhelyen negatív véleményt tesz közzé, akkor megpróbálják cenzúrázni.
 
 
 | 🖼 | 🖼 |
@@ -68,10 +68,10 @@ Ha bármelyik felülvizsgálati webhelyen negatív véleményt tesz közzé, meg
 </summary>
 
 
-A felhő tükröződése hatalmas zaklatási problémával rendelkezik.
-A Cloudflare megosztja azoknak a személyes adatait, akik panaszkodnak a tárolt webhelyekről.
-Néha megkérik, hogy adja meg az igazi igazolványát.
-Ha nem akarja zaklatni, bántalmazni, verni vagy megölni, akkor tartózkodjon távol a Cloudflared webhelyektől.
+A Cloudflare-nek hatalmas zaklatási problémája van.
+A Cloudflare megosztja azok személyes adatait, akik panaszkodnak a hosztolt webhelyekre.
+Néha megkérik, hogy adja meg valódi igazolványát.
+Ha nem akarja, hogy zaklassák, bántalmazzák, elkapják vagy megölik, akkor inkább tartózkodjon a Cloudflared webhelyektől.
 
 
 | 🖼 | 🖼 |
@@ -87,13 +87,13 @@ Ha nem akarja zaklatni, bántalmazni, verni vagy megölni, akkor tartózkodjon t
 <details>
 <summary>kattints ide
 
-## Jótékonysági hozzájárulások vállalati felkérése
+## Karitatív hozzájárulások vállalati igénybevétele
 </summary>
 
 
 A CloudFlare jótékonysági hozzájárulást kér.
-Nagyon megdöbbentő, hogy egy amerikai vállalat jótékonysági tevékenységet kérne a jó okokkal rendelkező nonprofit szervezetek mellett.
-Ha szereti blokkolni az embereket vagy pazarolni mások idejét, érdemes megrendelnie néhány pizzát a Cloudflare alkalmazottainak.
+Elég borzasztó, hogy egy amerikai vállalat jótékonysági tevékenységet kérne a jó okokkal rendelkező non-profit szervezetek mellett.
+Ha szeretné blokkolni az embereket, vagy pazarolni mások idejét, érdemes rendelnie néhány pizzát a Cloudflare alkalmazottainak.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -105,12 +105,12 @@ Ha szereti blokkolni az embereket vagy pazarolni mások idejét, érdemes megren
 <details>
 <summary>kattints ide
 
-## Lezáró helyek
+## Megszüntető helyek
 </summary>
 
 
-Mit fogsz tenni, ha webhelye hirtelen csökken?
-Jelentések vannak arról, hogy a Cloudflare figyelmeztetés nélkül, csendesen törli a felhasználói konfigurációt vagy leállítja a szolgáltatást.
+Mit fog tenni, ha webhelye hirtelen leáll?
+Vannak jelentések arról, hogy a Cloudflare minden figyelmeztetés nélkül, némán törli a felhasználó konfigurációját vagy leállítja a szolgáltatást.
 Javasoljuk, hogy keressen jobb szolgáltatót.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
@@ -122,50 +122,55 @@ Javasoljuk, hogy keressen jobb szolgáltatót.
 <details>
 <summary>kattints ide
 
-## A böngésző gyártói megkülönböztetés
+## A böngésző gyártói diszkrimináció
 </summary>
 
 
-A CloudFlare kedvezményes bánásmódban részesíti a Firefoxot használókat, miközben ellenséges bánásmódban részesíti a nem Tor-böngésző felhasználóit a Tor felett.
-A tor-felhasználók, akik jogszerűen megtagadják a nem ingyenes javascript végrehajtását, szintén ellenséges bánásmódban részesülnek.
-Ez a hozzáférési egyenlőtlenség hálózati semlegesség és hatalom visszaélése.
+A CloudFlare kedvezményes bánásmódban részesíti a Firefoxot használókat, miközben ellenséges bánásmódban részesíti a Tor felett nem Tor-Browser felhasználóit.
+Azok a Tor-felhasználók, akik jogosan tagadják meg a nem ingyenes javascript végrehajtását, szintén ellenséges bánásmódban részesülnek.
+Ez a hozzáférési egyenlőtlenség hálózati semlegességgel való visszaélés és hatalommal való visszaélés.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Balra: Tor böngésző, jobbra: Chrome. Ugyanaz az IP cím.
+- Bal: Tor böngésző, Jobb: Króm. Ugyanaz az IP-cím.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Balra: A Tor böngésző Javascript letiltva, a cookie engedélyezve
-- Jobbra: A Chrome Javascript engedélyezve, a Cookie letiltva
+- Balra: a Tor böngésző Javascript le van tiltva, a sütik engedélyezve vannak
+- Jobbra: Chrome Javascript engedélyezve, Cookie kikapcsolva
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (kisebb böngésző) Tor nélkül (Clearnet IP)
 
-| ***Böngésző*** | ***Hozzáférés kezelése*** |
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
+
+| ***Böngésző*** | ***Hozzáférés a kezeléshez*** |
 | --- | --- |
-| Tor Browser (A Javascript engedélyezve van) | hozzáférés megengedett |
-| Firefox (A Javascript engedélyezve van) | a hozzáférés romlott |
-| Chromium (A Javascript engedélyezve van) | a hozzáférés romlott |
+| Tor Browser (Javascript engedélyezve) | hozzáférés engedélyezett |
+| Firefox (Javascript engedélyezve) | a hozzáférés romlott |
+| Chromium (Javascript engedélyezve) | a hozzáférés romlott |
 | Chromium or Firefox (A Javascript le van tiltva) | hozzáférés megtagadva |
-| Chromium or Firefox (A süti le van tiltva) | hozzáférés megtagadva |
+| Chromium or Firefox (A cookie le van tiltva) | hozzáférés megtagadva |
 | QuteBrowser | hozzáférés megtagadva |
 | lynx | hozzáférés megtagadva |
 | w3m | hozzáférés megtagadva |
 | wget | hozzáférés megtagadva |
 
 
-Miért nem használja az Audio gombot az egyszerű kihívás megoldásához?
+Miért ne használná az Audio gombot az egyszerű kihívás megoldására?
 
-Igen, van egy audio gomb, de a Tor-nál mindig nem működik.
-Ezt az üzenetet kapja, amikor rákattint:
+Igen, van egy audio gomb, de ez mindig nem működik Tor felett.
+Ezt az üzenetet akkor kapja meg, amikor rákattint:
 
 ```
 Próbáld újra később
-Lehet, hogy számítógépe vagy hálózata automatikusan lekérdezéseket küld.
-Felhasználóink ​​védelme érdekében jelenleg nem tudjuk feldolgozni kérését.
-További részletek a súgóoldalon találhatók
+Lehet, hogy számítógépe vagy hálózata automatikus lekérdezéseket küld.
+Felhasználóink ​​védelme érdekében kérését jelenleg nem tudjuk feldolgozni.
+További részletekért látogasson el a súgó oldalunkra
 ```
 
 </details>
@@ -175,35 +180,35 @@ További részletek a súgóoldalon találhatók
 <details>
 <summary>kattints ide
 
-## A választók elnyomása
+## A szavazók elfojtása
 </summary>
 
 
-Az Egyesült Államokban a szavazók regisztrálnak és végül a lakóhelyük államának államtitkárának webhelyén szavazhatnak.
-A republikánus által ellenőrzött államtitkár irodák a szavazók elnyomására lépnek fel az államtitkár webhelyének a Cloudflare-en keresztül történő proxy segítségével.
-A Cloudflare Tor-felhasználók ellenséges bánásmódja, MITM pozíciója mint a globális megfigyelési központ globális pontja, és összességében káros szerepe miatt a leendő választópolgárok vonakodnak a regisztrálástól.
-Különösen a liberálisok hajlandók felkarolni a magánélet védelmét.
-A választói regisztrációs nyomtatványok érzékeny információkat gyűjtnek a választópolgárok politikai helyzetéről, személyes címéről, társadalombiztosítási számáról és születési idejéről.
-A legtöbb állam ezeknek az információknak csak egy részét teszi közzé, de a Cloudflare látja ezeket az információkat, amikor valaki regisztrál a szavazásra.
+Az egyesült államokbeli választópolgárok nyilvántartásba veszik a szavazást végső soron az államtitkár honlapján keresztül a lakóhelyük szerinti államban.
+A republikánusok által ellenőrzött államtitkárságok a választók elnyomásában vesznek részt az államtitkár webhelyének a Cloudflare-en keresztüli meghatalmazásával.
+A Cloudflare Tor-felhasználókkal szembeni ellenséges bánásmódja, MITM-központja mint központosított globális megfigyelési pont, valamint káros szerepe összességében a leendő választókat vonakodik regisztrációtól.
+Különösen a liberálisok szokták magáévá tenni a magánéletet.
+A választói regisztrációs űrlapok érzékeny információkat gyűjtenek a választók politikai beállítottságáról, személyes címéről, társadalombiztosítási számáról és születési dátumáról.
+A legtöbb állam csak ezen információk egy részhalmazát teszi nyilvánosan elérhetővé, de a Cloudflare akkor látja az összes információt, ha valaki regisztrálódik a szavazásra.
 
-Vegye figyelembe, hogy a papíralapú regisztráció nem kerüli meg a Cloudflare alkalmazását, mivel az állami adatbeviteli alkalmazottak titkára valószínűleg a Cloudflare webhelyet használja az adatok beviteléhez.
+Ne feledje, hogy a papíron történő regisztráció nem kerüli meg a Cloudflare-t, mert az állami adatbeviteli alkalmazottak titkára valószínűleg a Cloudflare webhelyet használja az adatok megadásához.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - A Change.org egy híres weboldal a szavazatok összegyűjtésére és a cselekvésre.
-“az emberek mindenhol kampányokat indítanak, támogatóikat mozgósítanak, és a döntéshozókkal együttműködnek a megoldások előmozdítása érdekében.”
-Sajnos sok ember egyáltalán nem tudja megtekinteni a change.org oldalt a Cloudflare agresszív szűrője miatt.
-Tiltják őket a petíció aláírásával, így kizárva őket a demokratikus folyamatról.
-Más nem felhőalapú platform, például OpenPetition használata segít a probléma megoldásában.
+“az emberek mindenhol kampányokat indítanak, támogatókat mozgósítanak, és a döntéshozókkal dolgoznak a megoldások ösztönzésében.”
+Sajnos sokan egyáltalán nem tekinthetik meg a change.org-ot a Cloudflare agresszív szűrője miatt.
+A petíció aláírását akadályozzák, így kizárva őket a demokratikus folyamatból.
+Más, nem felhőalapú platformok, például az OpenPetition használata segít megoldani a problémát.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- A Cloudflare „atheniai projektje” ingyenes vállalati szintű védelmet kínál az állami és helyi választási webhelyek számára.
-Azt mondták, hogy "választópolgáraik hozzáférhetnek a választási információkhoz és a választói regisztrációhoz", de ez hazugság, mert sokan egyszerűen nem tudják böngészni az oldalt.
+- A Cloudflare „athéni projektje” ingyenes vállalati szintű védelmet kínál az állami és helyi választási webhelyeknek.
+Azt mondták, hogy "választóik hozzáférhetnek a választási információkhoz és a választók regisztrációjához", de ez hazugság, mert sokan egyszerűen nem tudnak egyáltalán böngészni az oldalon.
 
 </details>
 
@@ -212,13 +217,13 @@ Azt mondták, hogy "választópolgáraik hozzáférhetnek a választási inform�
 <details>
 <summary>kattints ide
 
-## A felhasználói preferencia figyelmen kívül hagyása
+## A felhasználó preferenciáinak figyelmen kívül hagyása
 </summary>
 
 
-Ha lemond valamit, akkor arra számít, hogy nem kap e-mailt erről.
-A Cloudflare figyelmen kívül hagyja a felhasználó preferenciáit, és az ügyfél hozzájárulása nélkül megosztja az adatokat harmadik fél vállalatokkal.
-Ha ingyenes csomagját használja, néha e-mailt küld nektek, hogy havi előfizetést vásároljon.
+Ha elutasít valamit, akkor arra számít, hogy nem kap erről e-mailt.
+A Cloudflare figyelmen kívül hagyja a felhasználó preferenciáit, és az ügyfelek beleegyezése nélkül megosztja az adatokat harmadik felekkel működő vállalatokkal.
+Ha az ingyenes csomagot használja, néha e-mailt küld neked, amelyben havi előfizetés megvásárlását kéri.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -229,31 +234,33 @@ Ha ingyenes csomagját használja, néha e-mailt küld nektek, hogy havi előfiz
 <details>
 <summary>kattints ide
 
-## A felhasználói adatok törléséért fekszik
+## A felhasználó adatainak törlése
 </summary>
 
 
-Az ex-cloudflare ügyfél blogja szerint a Cloudflare hazudik a fiókok törléséről.
-Manapság sok vállalat megőrzi az Ön adatait, miután bezárta vagy eltávolította a fiókját.
-A jó társaságok többsége megemlíti erről adatvédelmi irányelveit.
-Felhő-fény Nem.
+E volt felhőalapú ügyfél blogja szerint a Cloudflare hazudik a számlák törléséről.
+Manapság sok vállalat megőrzi adatait, miután bezárta vagy eltávolította fiókját.
+A jó cégek többsége említést tesz róla az adatvédelmi irányelveiben.
+Cloudflare? Nem.
 
 ```
-2019-08-05 A CloudFlare megerősítést küldött nekem, hogy eltávolították a fiókomat.
-2019-10-02 Kaptam egy e-mailt a CloudFlare-tól, "mert ügyfél vagyok"
+2019-08-05 A CloudFlare megerősítést küldött nekem arról, hogy eltávolították a fiókomat.
+2019-10-02 E-mailt kaptam a CloudFlare-től "mert ügyfél vagyok"
 ```
 
 A Cloudflare nem tudott az "eltávolítás" szóról.
-Ha valóban eltávolítják, miért kapott ez az ügyfél e-mailt?
-Azt is megemlítette, hogy a Cloudflare adatvédelmi politikája nem említi róla.
+Ha valóban eltávolítják, miért kapott e-mailt ez a volt ügyfél?
+Megemlítette azt is, hogy a Cloudflare adatvédelmi szabályzata erről nem tesz említést.
 
 ```
-Új adatvédelmi politikájuk nem említi az adatok egy évig tartó megőrzését.
+Új adatvédelmi irányelvük nem említi az adatok egy évig tartó megőrzését.
 ```
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Hogyan lehet megbízni a Cloudflare-ban, ha adatvédelmi politikájuk LIE?
+Hogyan bízhat meg a Cloudflare-ben, ha az adatvédelmi irányelveik LIE?
+
+- [Több mint egy év telt el azóta, hogy töröltem a Cloudflare-fiókomat](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
 
 </details>
 
@@ -262,31 +269,45 @@ Hogyan lehet megbízni a Cloudflare-ban, ha adatvédelmi politikájuk LIE?
 <details>
 <summary>kattints ide
 
-## Tartsa meg személyes adatait
+## Őrizze meg személyes adatait
 </summary>
 
 
-A Cloudflare fiók törlése nehéz szintű.
+A Cloudflare-fiók törlése nehéz.
 
 ```
-Nyújtson be támogatási jegyet a "Fiók" kategóriában,
-és fiók törlését kérheti az üzenet törzséből.
-A törlés kérése előtt nem kell domainjét vagy hitelkártyáját csatolnia a fiókjához.
+Nyújtson be támogatási jegyet a "Számla" kategória használatával,
+és kérje a fiók törlését az üzenet törzsében.
+A törlés kérése előtt nem lehet domainje vagy hitelkártyája a fiókjához csatolva.
 ```
 
-Megkapja ezt a megerősítő e-mailt.
+Ezt a megerősítő e-mailt megkapja.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
-"Megkezdtük a törlési kérelmed feldolgozását", de "Folytatjuk az Ön személyes adatainak tárolását".
+"Megkezdtük a törlési kérelem feldolgozását", de "A személyes adatait továbbra is tároljuk".
 
-Tud bízni ebben?
+Tud "ebben bízni"?
+
+
+- Hogyan törölheti Cloudflare-fiókját
+
+1. Jelentkezzen be a Cloudflare irányítópultjára.
+2. Törölje az összes zónát (tartományt) az irányítópultról.
+3. Kattintson a támogatási linkre.
+4. Küldjön új jegyet. Mondja meg nekik, hogy le akarja zárni a fiókját.
+5. Várjon néhány napot.
+6. A Cloudflare munkatársai megerősítést kérnek Öntől és annak okáról, hogy miért döntött úgy, hogy elhagyja a Cloudflare szolgáltatást.
+7. Küldjön ismét választ.
+8. Várjon néhány napot.
+9. Üzenetet kap: Sikeresen töröltük fiókját
+
 
 </details>
 
 ---
 
-## Aliaj informoj
+## Egyéb információk
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -295,7 +316,8 @@ Tud bízni ebben?
 
 ---
 
-## Folytassa a következő oldalra:   [Cloudflare Voices](../PEOPLE.md)
+
+## Kérjük, folytassa a következő oldalra:   [Cloudflare Voices](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

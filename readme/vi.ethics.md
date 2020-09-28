@@ -28,7 +28,7 @@ Cloudflare đang gửi email spam đến những người dùng không phải Cl
 - Khi người dùng nói "dừng", sau đó ngừng gửi email
 
 Nó đơn giản mà. Nhưng Cloudflare không quan tâm.
-Cloudflare cho biết sử dụng dịch vụ của họ có thể ngăn chặn tất cả những kẻ gửi thư rác hoặc những kẻ tấn công.
+Cloudflare cho biết việc sử dụng dịch vụ của họ có thể ngăn chặn tất cả những kẻ gửi thư rác hoặc những kẻ tấn công.
 Làm thế nào chúng ta có thể dừng Cloudflare mà không cần kích hoạt Cloudflare?
 
 
@@ -71,7 +71,7 @@ Nếu bạn đăng một đánh giá tiêu cực trên bất kỳ trang web đá
 Cloudflare có một vấn đề quấy rối lớn.
 Cloudflare chia sẻ thông tin cá nhân của những người phàn nàn về các trang được lưu trữ.
 Đôi khi họ yêu cầu bạn cung cấp ID thật của bạn.
-Nếu bạn không muốn bị quấy rối, tấn công, đánh đập hoặc giết chết, bạn nên tránh xa các trang web Cloudflared.
+Nếu bạn không muốn bị quấy rối, tấn công, đánh đập hoặc bị giết, bạn nên tránh xa các trang web Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -93,7 +93,7 @@ Nếu bạn không muốn bị quấy rối, tấn công, đánh đập hoặc g
 
 CloudFlare đang yêu cầu đóng góp từ thiện.
 Thật kinh hoàng khi một tập đoàn của Mỹ lại xin từ thiện cùng với các tổ chức phi lợi nhuận có lý do chính đáng.
-Nếu bạn thích chặn người khác hoặc lãng phí thời gian của người khác, bạn có thể muốn đặt một số pizza cho nhân viên Cloudflare.
+Nếu bạn thích chặn người khác hoặc lãng phí thời gian của người khác, bạn có thể muốn đặt một số bánh pizza cho nhân viên Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -126,9 +126,9 @@ Chúng tôi khuyên bạn nên tìm nhà cung cấp tốt hơn.
 </summary>
 
 
-CloudFlare ưu đãi những người sử dụng Firefox trong khi đối xử thù địch với những người dùng không sử dụng Tor-Browser trên Tor.
-Người dùng Tor của những người từ chối thực thi javascript không miễn phí một cách hợp pháp cũng sẽ bị đối xử thù địch.
-Sự bất bình đẳng về truy cập này là sự lạm dụng tính trung lập của mạng và sự lạm dụng quyền lực.
+CloudFlare ưu đãi những người sử dụng Firefox trong khi đối xử thù địch với những người dùng không sử dụng Tor-Browser thay vì Tor.
+Người dùng Tor của những người từ chối thực thi javascript không miễn phí một cách hợp pháp cũng nhận được sự đối xử thù địch.
+Sự bất bình đẳng về truy cập này là sự lạm dụng tính trung lập của mạng và lạm dụng quyền lực.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
@@ -142,6 +142,11 @@ Sự bất bình đẳng về truy cập này là sự lạm dụng tính trung 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (trình duyệt nhỏ) không có Tor (Clearnet IP)
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
 
 | ***Trình duyệt*** | ***Tiếp cận điều trị*** |
 | --- | --- |
@@ -184,9 +189,9 @@ Các văn phòng thư ký tiểu bang do đảng Cộng hòa kiểm soát tham g
 Sự đối xử thù địch của Cloudflare đối với người dùng Tor, vị trí MITM của nó như là một điểm giám sát toàn cầu tập trung và vai trò bất lợi của nó nói chung khiến các cử tri tiềm năng miễn cưỡng đăng ký.
 Những người theo chủ nghĩa tự do đặc biệt có xu hướng coi trọng sự riêng tư.
 Biểu mẫu đăng ký cử tri thu thập thông tin nhạy cảm về khuynh hướng chính trị của cử tri, địa chỉ thực tế cá nhân, số an sinh xã hội và ngày sinh.
-Hầu hết các bang chỉ công bố công khai một tập hợp con của thông tin đó, nhưng Cloudflare sẽ nhìn thấy tất cả thông tin đó khi ai đó đăng ký bỏ phiếu.
+Hầu hết các bang chỉ công bố công khai một tập hợp con của thông tin đó, nhưng Cloudflare sẽ thấy tất cả thông tin đó khi ai đó đăng ký bỏ phiếu.
 
-Lưu ý rằng việc đăng ký bằng giấy không phá vỡ Cloudflare vì thư ký của các nhân viên nhập dữ liệu tiểu bang có thể sẽ sử dụng trang web Cloudflare để nhập dữ liệu.
+Lưu ý rằng đăng ký giấy không phá vỡ Cloudflare vì thư ký của nhân viên nhập dữ liệu tiểu bang có thể sẽ sử dụng trang web Cloudflare để nhập dữ liệu.
 
 | 🖼 | 🖼 |
 | --- | --- |
@@ -255,6 +260,8 @@ Chính sách bảo mật mới của họ không đề cập đến việc lưu 
 
 Làm thế nào bạn có thể tin tưởng Cloudflare nếu chính sách bảo mật của họ là LỜI NÓI DỐI?
 
+- [Hơn một năm trôi qua kể từ khi tôi hủy tài khoản Cloudflare của mình](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -282,11 +289,25 @@ Bạn sẽ nhận được email xác nhận này.
 
 Bạn có thể "tin tưởng" vào điều này?
 
+
+- Cách hủy tài khoản Cloudflare của bạn
+
+1. Đăng nhập vào bảng điều khiển Cloudflare của bạn.
+2. Xóa tất cả các vùng (miền) khỏi trang tổng quan của bạn.
+3. Nhấp vào liên kết hỗ trợ.
+4. Gửi một vé mới. Nói với họ rằng bạn muốn đóng tài khoản của mình.
+5. Chờ vài ngày.
+6. Nhân viên Cloudflare sẽ yêu cầu xác nhận của bạn và lý do tại sao bạn quyết định rời khỏi Cloudflare.
+7. Gửi trả lời một lần nữa.
+8. Chờ vài ngày.
+9. Bạn sẽ nhận được thông báo: Chúng tôi đã xóa tài khoản của bạn thành công
+
+
 </details>
 
 ---
 
-## Aliaj informoj
+## Thông tin khác
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -295,7 +316,8 @@ Bạn có thể "tin tưởng" vào điều này?
 
 ---
 
-## Vui lòng tiếp tục sang trang tiếp theo:   [Cloudflare Voices](../PEOPLE.md)
+
+## Vui lòng tiếp tục sang trang tiếp theo:   [Giọng nói của Cloudflare](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

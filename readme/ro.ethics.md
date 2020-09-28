@@ -5,11 +5,11 @@
 
 "Nu susțineți această companie care este lipsită de etică"
 
-"Compania dvs. nu este de încredere. Pretinzi să aplici DMCA, dar ai multe procese pentru că nu au făcut acest lucru."
+"Compania dvs. nu este de încredere. Pretindeți să aplicați DMCA, dar aveți multe procese pentru că nu faceți acest lucru."
 
-"Ei cenzurează doar cei care pun la îndoială etica lor."
+"Cenzurează doar pe cei care își pun la îndoială etica."
 
-"Banuiesc ca adevarul este incomod si mai bine ascuns privirilor publice."  -- [phyzonloop](https://twitter.com/phyzonloop)
+"Cred că adevărul este incomod și mai bine ascuns de vizibilitatea publicului."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
@@ -18,14 +18,14 @@
 <details>
 <summary>faceți clic pe mine
 
-## CloudFlare îi spală pe oameni
+## CloudFlare spame pe oameni
 </summary>
 
 
-Cloudflare trimite e-mailuri spam către utilizatorii non-Cloudflare.
+Cloudflare trimite e-mailuri spam către utilizatori care nu sunt Cloudflare.
 
-- Trimiteți e-mailuri doar abonaților care au optat
-- Când utilizatorul spune „oprește-te”, apoi oprește trimiterea de e-mailuri
+- Trimiteți e-mailuri numai abonaților care au înscris
+- Când utilizatorul spune „opriți”, opriți trimiterea de e-mailuri
 
 Este atat de simplu. Dar Cloudflare nu-i pasă.
 Cloudflare a spus că folosirea serviciului lor poate opri toți spammerii sau atacatorii.
@@ -48,9 +48,9 @@ Cum putem opri Cloudflare fără a activa Cloudflare?
 </summary>
 
 
-Recenzii negative ale cenzorului Cloudflare.
-Dacă postați un mesaj anti-Cloudflare pe Twitter, aveți șansa de a primi o replică de la angajatul Cloudflare cu mesajul „Nu, nu este”.
-Dacă postați o recenzie negativă pe orice site de recenzie, vor încerca să o cenzureze.
+Cloudflare cenzurează recenziile negative.
+Dacă postezi text anti-Cloudflare pe Twitter, ai șansa să primești un răspuns de la angajatul Cloudflare cu mesajul „Nu, nu este”.
+Dacă postați o recenzie negativă pe orice site de recenzii, ei vor încerca să o cenzureze.
 
 
 | 🖼 | 🖼 |
@@ -64,14 +64,14 @@ Dacă postați o recenzie negativă pe orice site de recenzie, vor încerca să 
 <details>
 <summary>faceți clic pe mine
 
-## Partajează informațiile private ale utilizatorului
+## Distribuiți informațiile private ale utilizatorului
 </summary>
 
 
-Cloudflare are o problemă de hărțuire masivă.
+Cloudflare are o problemă masivă de hărțuire.
 Cloudflare împărtășește informații personale ale celor care se plâng de site-urile găzduite.
-Uneori vă solicită să furnizați adevăratul dvs. ID.
-Dacă nu doriți să vă hărțuiți, asaltați, trântiți sau ucigați, mai bine rămâneți departe de site-urile web cloudflared.
+Uneori vă cer să furnizați adevăratul dvs. act de identitate.
+Dacă nu vrei să fii hărțuit, agresat, lovit sau ucis, mai bine stai departe de site-urile Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -87,13 +87,13 @@ Dacă nu doriți să vă hărțuiți, asaltați, trântiți sau ucigați, mai bi
 <details>
 <summary>faceți clic pe mine
 
-## Solicitarea corporativă a contribuțiilor caritabile
+## Solicitare corporativă de contribuții caritabile
 </summary>
 
 
 CloudFlare solicită contribuții caritabile.
-Este destul de îngrozitor faptul că o corporație americană ar cere caritate alături de organizațiile non-profit care au cauze bune.
-Dacă vă place să blocați oamenii sau să pierdeți timpul altor persoane, poate doriți să comandați câteva pizza pentru angajații Cloudflare.
+Este destul de îngrozitor faptul că o corporație americană ar cere caritate alături de organizații non-profit care au motive întemeiate.
+Dacă vă place să blocați oamenii sau să pierdeți timpul altor persoane, vă recomandăm să comandați niște pizza pentru angajații Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -105,11 +105,11 @@ Dacă vă place să blocați oamenii sau să pierdeți timpul altor persoane, po
 <details>
 <summary>faceți clic pe mine
 
-## Terminarea site-urilor
+## Site-uri terminate
 </summary>
 
 
-Ce vei face dacă site-ul tău coboară brusc?
+Ce veți face dacă site-ul dvs. va ceda brusc?
 Există rapoarte că Cloudflare șterge configurația utilizatorului sau oprește serviciul fără niciun avertisment, în tăcere.
 Vă sugerăm să găsiți un furnizor mai bun.
 
@@ -126,29 +126,34 @@ Vă sugerăm să găsiți un furnizor mai bun.
 </summary>
 
 
-CloudFlare oferă un tratament preferențial celor care folosesc Firefox în timp ce oferă tratament ostil utilizatorilor non-Tor-Browser peste Tor.
-Utilizatorii Tor care refuză în mod corect să execute javascript non-gratuit primesc și tratament ostil.
+CloudFlare oferă tratament preferențial celor care utilizează Firefox, oferind în același timp un tratament ostil utilizatorilor non-Tor-Browser peste Tor.
+Utilizatorii Tor care refuză pe bună dreptate să execute javascript non-liber primesc, de asemenea, un tratament ostil.
 Această inegalitate de acces este un abuz de neutralitate a rețelei și un abuz de putere.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Stânga: Tor Browser, dreapta: Chrome. Aceeași adresă IP.
+- Stânga: Browser Tor, Dreapta: Chrome. Aceeași adresă IP.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
-- Stânga: Tor Browser Javascript Dezactivat, Cookie Activat
-- Dreapta: Chrome activat Javascript, Cookie dezactivat
+- Stânga: Javascript Tor Browser dezactivat, Cookie activat
+- Dreapta: Chrome Javascript activat, Cookie dezactivat
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
-- QuteBrowser (browser minor) fără Tor (IP Clearnet)
+- QuteBrowser (browser minor) fără Tor (Clearnet IP)
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
 
 | ***Browser*** | ***Tratament de acces*** |
 | --- | --- |
-| Tor Browser (Javascript este activat) | accesul este permis |
-| Firefox (Javascript este activat) | accesul degradat |
-| Chromium (Javascript este activat) | accesul degradat |
-| Chromium or Firefox (Javascript este dezactivat) | acces interzis |
+| Tor Browser (Javascript activat) | acces permis |
+| Firefox (Javascript activat) | acces degradat |
+| Chromium (Javascript activat) | acces degradat |
+| Chromium or Firefox (Javascript dezactivat) | acces interzis |
 | Chromium or Firefox (Cookie dezactivat) | acces interzis |
 | QuteBrowser | acces interzis |
 | lynx | acces interzis |
@@ -156,16 +161,16 @@ Această inegalitate de acces este un abuz de neutralitate a rețelei și un abu
 | wget | acces interzis |
 
 
-De ce nu folosiți butonul Audio pentru a rezolva o provocare ușoară?
+De ce nu folosiți butonul audio pentru a rezolva provocarea ușoară?
 
 Da, există un buton audio, dar întotdeauna nu funcționează peste Tor.
-Veți primi acest mesaj atunci când faceți clic pe acesta:
+Veți primi acest mesaj când faceți clic pe el:
 
 ```
 Încercați mai târziu
-Calculatorul sau rețeaua dvs. poate trimite întrebări automate.
-Pentru a ne proteja utilizatorii, nu putem prelucra cererea dvs. chiar acum.
-Pentru mai multe detalii, vizitați pagina noastră de ajutor
+Este posibil ca computerul sau rețeaua dvs. să trimită interogări automate.
+Pentru a ne proteja utilizatorii, nu putem procesa solicitarea dvs. chiar acum.
+Pentru mai multe detalii vizitați pagina noastră de ajutor
 ```
 
 </details>
@@ -179,31 +184,31 @@ Pentru mai multe detalii, vizitați pagina noastră de ajutor
 </summary>
 
 
-Alegătorii din statele americane se înregistrează pentru a vota în cele din urmă pe site-ul secretarului de stat în statul de reședință.
-Birourile de secretariat de stat controlate de republicană se angajează în suprimarea alegătorilor prin procurarea site-ului secretarului de stat prin Cloudflare.
-Tratamentul ostil al Cloudflare de către utilizatorii Tor, poziția sa MITM ca punct de supraveghere globalizat global și rolul său dăunător în general îi determină pe alegătorii potențiali să nu se înregistreze.
-Liberalii, în special, tind să îmbrățișeze confidențialitatea.
-Formularele de înregistrare ale alegătorilor colectează informații sensibile despre aplecarea politică a unui alegător, adresa fizică personală, numărul de securitate socială și data nașterii.
-Majoritatea statelor fac doar un subset al informațiilor disponibile public, dar Cloudflare vede toate acele informații atunci când cineva se înregistrează pentru a vota.
+Alegătorii din statele SUA se înregistrează pentru a vota în cele din urmă prin intermediul site-ului web al secretarului de stat din statul de reședință.
+Secretarele de stat controlate de republicani se angajează în suprimarea alegătorilor prin reprezentarea site-ului web al secretarului de stat prin Cloudflare.
+Tratamentul ostil al Cloudflare față de utilizatorii Tor, poziția sa MITM ca punct centralizat de supraveghere globală și rolul său dăunător, în general, face ca viitorii alegători să fie reticenți să se înregistreze.
+Liberalii, în special, tind să îmbrățișeze intimitatea.
+Formularele de înregistrare a alegătorilor colectează informații sensibile despre înclinația politică a alegătorului, adresa fizică personală, numărul de securitate socială și data nașterii.
+Majoritatea statelor fac publice doar un subset al acelor informații, dar Cloudflare vede toate aceste informații atunci când cineva se înregistrează pentru a vota.
 
-Rețineți că înregistrarea pe hârtie nu ocolește Cloudflare, deoarece secretarul de stat lucrătorii personalului de introducere a datelor vor utiliza probabil site-ul web Cloudflare pentru a introduce datele.
+Rețineți că înregistrarea pe hârtie nu ocolește Cloudflare, deoarece lucrătorii personalului secretarului de stat pentru introducerea datelor vor folosi probabil site-ul web Cloudflare pentru a introduce datele.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org este un site celebru pentru adunarea voturilor și luarea de măsuri.
-“oamenii de pretutindeni încep campanii, mobilizează suporterii și lucrează cu factorii de decizie pentru a crea soluții.”
-Din păcate, mulți oameni nu pot vedea deloc schimbarea.org din cauza filtrului agresiv al Cloudflare.
-Acestea sunt blocate de la semnarea petiției, excludându-le astfel dintr-un proces democratic.
-Utilizarea altor platforme non-cloudflared, cum ar fi OpenPetition, ajută la remedierea problemei.
+- Change.org este un site celebru pentru adunarea voturilor și acțiunea.
+“oamenii de pretutindeni încep campanii, mobilizează susținători și lucrează cu factorii de decizie pentru a genera soluții.”
+Din păcate, mulți oameni nu pot vizualiza change.org deloc datorită filtrului agresiv al Cloudflare.
+Li se blochează semnarea petiției, excludându-i astfel de la un proces democratic.
+Utilizarea altei platforme non-cloudflared, cum ar fi OpenPetition, ajută la remedierea problemei.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- „Proiectul atenian” al Cloudflare oferă protecție gratuită la nivel de întreprindere pentru site-urile electorale locale și de stat.
-Ei au spus că „reprezentanții lor pot accesa informațiile electorale și înregistrarea alegătorilor”, dar aceasta este o minciună, deoarece mulți oameni pur și simplu nu pot răsfoi site-ul deloc.
+- „Proiectul Athenian” al Cloudflare oferă protecție gratuită la nivel de întreprindere pentru site-urile electorale de stat și locale.
+Ei au spus că „electorii lor pot accesa informațiile electorale și înregistrarea alegătorilor”, dar aceasta este o minciună, deoarece mulți oameni nu pot naviga deloc pe site.
 
 </details>
 
@@ -212,13 +217,13 @@ Ei au spus că „reprezentanții lor pot accesa informațiile electorale și î
 <details>
 <summary>faceți clic pe mine
 
-## Ignorând preferințele utilizatorului
+## Ignorarea preferințelor utilizatorului
 </summary>
 
 
-Dacă renunțați la ceva, vă așteptați să nu primiți niciun e-mail în acest sens.
-Cloudflare ignoră preferințele utilizatorului și distribuie date cu corporații terțe fără acordul clientului.
-Dacă folosești planul lor gratuit, uneori îți trimit un e-mail care îți cere să cumperi abonament lunar.
+Dacă renunțați la ceva, vă așteptați să nu primiți niciun e-mail despre asta.
+Cloudflare ignoră preferințele utilizatorului și partajează datele cu corporații terțe fără acordul clientului.
+Dacă folosești planul lor gratuit, uneori îți trimit un e-mail cerându-ți să cumperi abonament lunar.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -229,13 +234,13 @@ Dacă folosești planul lor gratuit, uneori îți trimit un e-mail care îți ce
 <details>
 <summary>faceți clic pe mine
 
-## Minți despre ștergerea datelor utilizatorului
+## Minciuna despre ștergerea datelor utilizatorului
 </summary>
 
 
-Conform acestui ex-cloudflare blog-ul clientului, Cloudflare se minte cu privire la ștergerea conturilor.
-În zilele noastre, multe companii vă păstrează datele după ce ați închis sau ați eliminat contul.
-Majoritatea companiilor bune menționează acest lucru în politica lor de confidențialitate.
+Conform blogului acestui client ex-cloudflare, Cloudflare minte despre ștergerea conturilor.
+În zilele noastre, multe companii vă păstrează datele după ce v-ați închis sau ați eliminat contul.
+Majoritatea companiilor bune menționează acest lucru în politica de confidențialitate.
 Cloudflare? Nu.
 
 ```
@@ -244,8 +249,8 @@ Cloudflare? Nu.
 ```
 
 Cloudflare nu știa despre cuvântul „elimina”.
-Dacă este cu adevărat eliminat, de ce acest fost client a primit un e-mail?
-El a mai menționat că politica de confidențialitate a Cloudflare nu menționează acest lucru.
+Dacă este eliminat cu adevărat, de ce acest fost client a primit un e-mail?
+El a menționat, de asemenea, că politica de confidențialitate Cloudflare nu menționează acest lucru.
 
 ```
 Noua lor politică de confidențialitate nu menționează păstrarea datelor timp de un an.
@@ -253,7 +258,9 @@ Noua lor politică de confidențialitate nu menționează păstrarea datelor tim
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Cum poți avea încredere în Cloudflare dacă politica lor de confidențialitate este o LIE?
+Cum poți avea încredere în Cloudflare dacă politica lor de confidențialitate este o MINCIUNĂ?
+
+- [A trecut peste un an de când mi-am anulat contul Cloudflare](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
 
 </details>
 
@@ -262,31 +269,45 @@ Cum poți avea încredere în Cloudflare dacă politica lor de confidențialitat
 <details>
 <summary>faceți clic pe mine
 
-## Păstrați informațiile dvs. personale
+## Păstrați-vă informațiile personale
 </summary>
 
 
-Ștergerea contului Cloudflare este la un nivel dificil.
+Ștergerea contului Cloudflare este dificilă.
 
 ```
-Trimiteți un bilet de asistență folosind categoria „Cont”,
+Trimiteți un bilet de asistență utilizând categoria „Cont”,
 și solicitați ștergerea contului în corpul mesajului.
-Nu trebuie să aveți domenii sau cărți de credit atașate contului dvs. înainte de a solicita ștergerea.
+Nu trebuie să aveți domenii sau carduri de credit atașate la contul dvs. înainte de a solicita ștergerea.
 ```
 
-Vei primi acest e-mail de confirmare.
+Veți primi acest e-mail de confirmare.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
 „Am început să procesăm solicitarea dvs. de ștergere”, dar „Vom continua să stocăm informațiile dvs. personale”.
 
-Puteți „avea încredere” în asta?
+Poți „avea încredere” în asta?
+
+
+- Cum să vă anulați contul Cloudflare
+
+1. Conectați-vă la tabloul de bord Cloudflare.
+2. Ștergeți toate zonele (domeniile) din tabloul de bord.
+3. Faceți clic pe linkul de asistență.
+4. Trimite un bilet nou. Spuneți-le că doriți să vă închideți contul.
+5. Așteptați câteva zile.
+6. Personalul Cloudflare vă va cere confirmarea și motivul pentru care ați decis să părăsiți Cloudflare.
+7. Trimiteți din nou un răspuns.
+8. Așteptați câteva zile.
+9. Veți primi un mesaj: V-am șters contul cu succes
+
 
 </details>
 
 ---
 
-## Aliaj informoj
+## Alte informații
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -295,7 +316,8 @@ Puteți „avea încredere” în asta?
 
 ---
 
-## Vă rugăm să continuați la pagina următoare:   [Voci Cloudflare](../PEOPLE.md)
+
+## Vă rugăm să continuați la pagina următoare:   [Cloudflare Voices](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)

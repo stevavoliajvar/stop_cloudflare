@@ -71,7 +71,7 @@ Cloudflare는 부정적인 리뷰를 검열합니다.
 Cloudflare에는 엄청난 괴롭힘 문제가 있습니다.
 Cloudflare는 호스팅 사이트에 대해 불만을 제기하는 사람들의 개인 정보를 공유합니다.
 그들은 때때로 귀하의 실제 ID를 제공하도록 요청합니다.
-괴롭힘, 폭행, 스와트 또는 살해 당하고 싶지 않다면 Cloudflared 웹 사이트에서 멀리 떨어져있는 것이 좋습니다.
+괴롭힘, 폭행, 스와트 또는 살해를 당하고 싶지 않다면 Cloudflared 웹 사이트를 멀리하는 것이 좋습니다.
 
 
 | 🖼 | 🖼 |
@@ -92,7 +92,7 @@ Cloudflare는 호스팅 사이트에 대해 불만을 제기하는 사람들의 
 
 
 CloudFlare는 자선 기부를 요청하고 있습니다.
-미국 기업이 좋은 사유를 가진 비영리 단체와 함께 자선 단체를 요청하는 것은 매우 끔찍합니다.
+미국 기업이 정당한 사유를 가진 비영리 단체와 함께 자선 단체를 요청하는 것은 매우 끔찍합니다.
 사람을 차단하거나 다른 사람의 시간을 낭비하는 것을 좋아한다면 Cloudflare 직원을 위해 피자를 주문할 수 있습니다.
 
 
@@ -126,9 +126,9 @@ Cloudflare가 경고없이 자동으로 사용자의 구성을 삭제하거나 �
 </summary>
 
 
-CloudFlare는 Firefox를 사용하는 사람들에게 우선적 인 대우를 제공하고 Tor보다 Tor-Browser가 아닌 사용자에게는 적대적인 대우를 제공합니다.
+CloudFlare는 Firefox를 사용하는 사람들에게 우대를 제공하고 Tor보다 Tor-Browser가 아닌 사용자에게는 적대적인 대우를 제공합니다.
 비 자유 자바 스크립트 실행을 정당하게 거부하는 Tor 사용자도 적대적인 대우를받습니다.
-이러한 액세스 불평등은 네트워크 중립성 남용 및 권력 남용입니다.
+이러한 액세스 불평등은 네트워크 중립성 남용과 권력 남용입니다.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
@@ -143,6 +143,11 @@ CloudFlare는 Firefox를 사용하는 사람들에게 우선적 인 대우를 �
 
 - Tor (Clearnet IP)없는 QuteBrowser (부 브라우저)
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
+
 | ***브라우저*** | ***접근 치료*** |
 | --- | --- |
 | Tor Browser (자바 스크립트 사용) | 액세스 허용 |
@@ -156,7 +161,7 @@ CloudFlare는 Firefox를 사용하는 사람들에게 우선적 인 대우를 �
 | wget | 접근 불가 |
 
 
-쉬운 문제를 해결하기 위해 오디오 버튼을 사용하지 않으시겠습니까?
+쉬운 문제를 해결하기 위해 오디오 버튼을 사용하지 않겠습니까?
 
 예, 오디오 버튼이 있지만 항상 Tor에서는 작동하지 않습니다.
 클릭하면이 메시지가 나타납니다.:
@@ -179,21 +184,21 @@ CloudFlare는 Firefox를 사용하는 사람들에게 우선적 인 대우를 �
 </summary>
 
 
-미국주의 유권자들은 궁극적으로 거주하는 주에있는 주 장관의 웹 사이트를 통해 투표 등록을합니다.
+미국 주 유권자들은 궁극적으로 거주하는 주에있는 주 장관의 웹 사이트를 통해 투표 등록을합니다.
 공화당이 통제하는 국무 장관 사무실은 Cloudflare를 통해 국무 장관의 웹 사이트를 프록시함으로써 유권자 억제에 관여합니다.
-Cloudflare의 Tor 사용자에 대한 적대적인 대우, 중앙 집중식 글로벌 감시 지점으로서의 MITM 위치 및 전반적인 해로운 역할은 유권자들이 등록을 꺼리게 만듭니다.
+Cloudflare의 Tor 사용자에 대한 적대적 대우, 중앙 집중식 글로벌 감시 지점으로서의 MITM 위치 및 전반적인 해로운 역할은 유권자들이 등록을 꺼리게 만듭니다.
 특히 자유 주의자들은 프라이버시를 포용하는 경향이 있습니다.
-유권자 등록 양식은 유권자의 정치적 성향, 개인의 물리적 주소, 사회 보장 번호 및 생년월일에 대한 민감한 정보를 수집합니다.
+유권자 등록 양식은 유권자의 정치적 성향, 개인 실제 주소, 사회 보장 번호 및 생년월일에 대한 민감한 정보를 수집합니다.
 대부분의 주에서는 해당 정보의 일부만 공개적으로 사용할 수 있지만 Cloudflare는 누군가가 투표 등록을하면 해당 정보를 모두 볼 수 있습니다.
 
-문서 등록은 주 데이터 입력 직원 직원이 Cloudflare 웹 사이트를 사용하여 데이터를 입력 할 가능성이 높기 때문에 Cloudflare를 우회하지 않습니다.
+문서 등록은 주 데이터 입력 직원의 비서관이 Cloudflare 웹 사이트를 사용하여 데이터를 입력 할 가능성이 높기 때문에 Cloudflare를 우회하지 않습니다.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org는 투표를 모으고 조치를 취하는 유명한 웹 사이트입니다.
-“모든 곳의 사람들이 캠페인을 시작하고 지지자를 동원하고 의사 결정자와 협력하여 솔루션을 추진하고 있습니다.”
+“모든 곳의 사람들이 캠페인을 시작하고 지지자들을 동원하며 솔루션을 추진하기 위해 의사 결정자와 협력하고 있습니다.”
 불행히도 많은 사람들은 Cloudflare의 공격적인 필터로 인해 change.org를 전혀 볼 수 없습니다.
 그들은 청원서에 서명하는 것이 차단되어 민주적 절차에서 배제되고 있습니다.
 OpenPetition과 같은 Cloudflared가 아닌 다른 플랫폼을 사용하면 문제를 해결하는 데 도움이됩니다.
@@ -216,7 +221,7 @@ OpenPetition과 같은 Cloudflared가 아닌 다른 플랫폼을 사용하면 �
 </summary>
 
 
-옵트 아웃하는 경우 이에 대한 이메일을받지 못할 것으로 예상합니다.
+옵트 아웃하면 이에 대한 이메일을받지 못할 것으로 예상됩니다.
 Cloudflare는 사용자의 선호도를 무시하고 고객의 동의없이 제 3 자 기업과 데이터를 공유합니다.
 무료 요금제를 사용하는 경우 때때로 월간 구독을 구매하라는 이메일을 보냅니다.
 
@@ -239,7 +244,7 @@ Cloudflare는 사용자의 선호도를 무시하고 고객의 동의없이 제 
 Cloudflare? 아니.
 
 ```
-2019-08-05 CloudFlare가 내 계정을 제거했다는 확인 메시지를 보냈습니다.
+2019-08-05 CloudFlare가 내 계정을 제거했다는 확인을 보냈습니다.
 2019-10-02 CloudFlare에서 "고객이기 때문에"이메일을 받았습니다.
 ```
 
@@ -255,6 +260,8 @@ Cloudflare는 "제거"라는 단어에 대해 몰랐습니다.
 
 개인 정보 보호 정책이 LIE 인 경우 Cloudflare를 어떻게 신뢰할 수 있습니까?
 
+- [Cloudflare 계정을 취소 한 지 1 년이 넘었습니다.](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -269,7 +276,7 @@ Cloudflare는 "제거"라는 단어에 대해 몰랐습니다.
 Cloudflare 계정 삭제는 어려운 수준입니다.
 
 ```
-"계정"카테고리를 사용하여 지원 티켓을 제출하고,
+"계정"카테고리를 사용하여 지원 티켓을 제출하십시오.
 메시지 본문에서 계정 삭제를 요청합니다.
 삭제를 요청하기 전에 계정에 연결된 도메인이나 신용 카드가 없어야합니다.
 ```
@@ -282,11 +289,25 @@ Cloudflare 계정 삭제는 어려운 수준입니다.
 
 이것을 "신뢰"할 수 있습니까?
 
+
+- Cloudflare 계정을 취소하는 방법
+
+1. Cloudflare 대시 보드에 로그인합니다.
+2. 대시 보드에서 모든 영역 (도메인)을 삭제합니다.
+3. 지원 링크를 클릭하십시오.
+4. 새 티켓을 보냅니다. 귀하의 계정을 폐쇄하고 싶다고 말씀하십시오.
+5. 며칠을 기다리십시오.
+6. Cloudflare 직원이 귀하의 확인과 귀하가 Cloudflare를 떠나기로 결정한 이유를 요청할 것입니다.
+7. 다시 답장을 보내십시오.
+8. 며칠을 기다리십시오.
+9. 다음 메시지가 표시됩니다. 계정을 성공적으로 삭제했습니다.
+
+
 </details>
 
 ---
 
-## Aliaj informoj
+## 기타 정보
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -294,6 +315,7 @@ Cloudflare 계정 삭제는 어려운 수준입니다.
 
 
 ---
+
 
 ## 다음 페이지를 계속하십시오:   [Cloudflare 음성](../PEOPLE.md)
 

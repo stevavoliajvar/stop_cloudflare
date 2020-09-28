@@ -49,7 +49,7 @@ Comment pouvons-nous arrêter Cloudflare sans activer Cloudflare?
 
 
 Cloudflare censure les critiques négatives.
-Si vous publiez un texte anti-Cloudflare sur Twitter, vous avez la possibilité d'obtenir une réponse d'un employé de Cloudflare avec le message "Non, ce n'est pas".
+Si vous publiez un texte anti-Cloudflare sur Twitter, vous avez la possibilité d'obtenir une réponse d'un employé de Cloudflare avec le message «Non, ce n'est pas».
 Si vous publiez un avis négatif sur un site d'avis, ils essaieront de le censurer.
 
 
@@ -126,13 +126,13 @@ Nous vous suggérons de trouver un meilleur fournisseur.
 </summary>
 
 
-CloudFlare accorde un traitement préférentiel à ceux qui utilisent Firefox tout en donnant un traitement hostile aux utilisateurs non-Tor-Browser sur Tor.
+CloudFlare donne un traitement préférentiel à ceux qui utilisent Firefox tout en donnant un traitement hostile aux utilisateurs non-Tor-Browser sur Tor.
 Les utilisateurs de Tor qui refusent à juste titre d'exécuter du javascript non libre reçoivent également un traitement hostile.
 Cette inégalité d'accès est un abus de neutralité du réseau et un abus de pouvoir.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Gauche: navigateur Tor, droite: Chrome. Même adresse IP.
+- À gauche: navigateur Tor, à droite: Chrome. Même adresse IP.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
@@ -142,6 +142,11 @@ Cette inégalité d'accès est un abus de neutralité du réseau et un abus de p
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (navigateur mineur) sans Tor (Clearnet IP)
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
 
 | ***Navigateur*** | ***Traitement d'accès*** |
 | --- | --- |
@@ -158,7 +163,7 @@ Cette inégalité d'accès est un abus de neutralité du réseau et un abus de p
 
 Pourquoi ne pas utiliser le bouton Audio pour résoudre un défi facile?
 
-Oui, il existe un bouton audio, mais il ne fonctionne toujours pas sur Tor.
+Oui, il y a un bouton audio, mais cela ne fonctionne toujours pas sur Tor.
 Vous recevrez ce message lorsque vous cliquez dessus:
 
 ```
@@ -181,9 +186,9 @@ Pour plus de détails, visitez notre page d'aide
 
 Les électeurs des États américains s'inscrivent pour voter via le site Web du secrétaire d'État de l'État de leur résidence.
 Les bureaux du secrétaire d'État contrôlés par les républicains s'engagent dans la suppression des électeurs en envoyant un proxy sur le site Web du secrétaire d'État via Cloudflare.
-Le traitement hostile de Cloudflare envers les utilisateurs de Tor, sa position MITM en tant que point de surveillance mondial centralisé et son rôle préjudiciable dans l'ensemble rendent les électeurs potentiels réticents à s'inscrire.
+Le traitement hostile par Cloudflare des utilisateurs de Tor, sa position MITM en tant que point de surveillance mondial centralisé et son rôle préjudiciable dans l'ensemble rendent les électeurs potentiels réticents à s'inscrire.
 Les libéraux en particulier ont tendance à embrasser la vie privée.
-Les formulaires d'inscription des électeurs collectent des informations sensibles sur l'orientation politique, l'adresse physique personnelle, le numéro de sécurité sociale et la date de naissance d'un électeur.
+Les formulaires d'inscription des électeurs collectent des informations sensibles sur les tendances politiques, l'adresse physique personnelle, le numéro de sécurité sociale et la date de naissance d'un électeur.
 La plupart des États ne mettent à la disposition du public qu'un sous-ensemble de ces informations, mais Cloudflare voit toutes ces informations lorsque quelqu'un s'inscrit pour voter.
 
 Notez que l'enregistrement papier ne contourne pas Cloudflare car les employés du secrétaire d'État à la saisie des données utiliseront probablement le site Web de Cloudflare pour saisir les données.
@@ -203,7 +208,7 @@ L'utilisation d'une autre plate-forme non cloudflared telle qu'OpenPetition perm
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Le "Projet Athénien" de Cloudflare offre une protection gratuite au niveau de l'entreprise aux sites Web électoraux des États et locaux.
-Ils ont dit que "leurs électeurs peuvent accéder aux informations électorales et à l'inscription des électeurs", mais c'est un mensonge car beaucoup de gens ne peuvent tout simplement pas naviguer sur le site.
+Ils ont dit que "leurs électeurs peuvent accéder aux informations électorales et à l'inscription des électeurs", mais c'est un mensonge parce que beaucoup de gens ne peuvent tout simplement pas naviguer sur le site.
 
 </details>
 
@@ -245,7 +250,7 @@ Cloudflare? Non.
 
 Cloudflare ne connaissait pas le mot «supprimer».
 S'il est vraiment supprimé, pourquoi cet ancien client a-t-il reçu un e-mail?
-Il a également mentionné que la politique de confidentialité de Cloudflare ne le mentionnait pas.
+Il a également mentionné que la politique de confidentialité de Cloudflare n'en faisait pas mention.
 
 ```
 Leur nouvelle politique de confidentialité ne fait aucune mention de la conservation des données pendant un an.
@@ -254,6 +259,8 @@ Leur nouvelle politique de confidentialité ne fait aucune mention de la conserv
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
 Comment faire confiance à Cloudflare si sa politique de confidentialité est un mensonge?
+
+- [Plus d'un an s'est écoulé depuis que j'ai annulé mon compte Cloudflare](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
 
 </details>
 
@@ -282,11 +289,25 @@ Vous recevrez cet e-mail de confirmation.
 
 Pouvez-vous «faire confiance» à cela?
 
+
+- Comment annuler votre compte Cloudflare
+
+1. Connectez-vous à votre tableau de bord Cloudflare.
+2. Supprimez toutes les zones (domaines) de votre tableau de bord.
+3. Cliquez sur le lien d'assistance.
+4. Envoyez un nouveau ticket. Dites-leur que vous souhaitez fermer votre compte.
+5. Attendez plusieurs jours.
+6. Le personnel de Cloudflare vous demandera votre confirmation et la raison pour laquelle vous avez décidé de quitter Cloudflare.
+7. Envoyez à nouveau une réponse.
+8. Attendez plusieurs jours.
+9. Vous recevrez un message: Nous avons supprimé votre compte avec succès
+
+
 </details>
 
 ---
 
-## Aliaj informoj
+## Les autres informations
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -294,6 +315,7 @@ Pouvez-vous «faire confiance» à cela?
 
 
 ---
+
 
 ## Veuillez continuer à la page suivante:   [Voix Cloudflare](../PEOPLE.md)
 

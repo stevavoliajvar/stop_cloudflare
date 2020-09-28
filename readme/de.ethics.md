@@ -70,7 +70,7 @@ Wenn Sie eine negative Bewertung auf einer Bewertungsseite veröffentlichen, wir
 
 Cloudflare hat ein massives Belästigungsproblem.
 Cloudflare gibt persönliche Informationen von Personen weiter, die sich über gehostete Websites beschweren.
-Manchmal werden Sie gebeten, Ihren wahren Ausweis anzugeben.
+Sie werden manchmal gebeten, Ihren wahren Ausweis anzugeben.
 Wenn Sie nicht belästigt, angegriffen, geschlagen oder getötet werden möchten, halten Sie sich besser von Cloudflared-Websites fern.
 
 
@@ -143,6 +143,11 @@ Diese Zugangsungleichheit ist ein Missbrauch der Netzneutralität und ein Machtm
 
 - QuteBrowser (kleiner Browser) ohne Tor (Clearnet IP)
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
+
 | ***Browser*** | ***Zugangsbehandlung*** |
 | --- | --- |
 | Tor Browser (Javascript aktiviert) | Zugang erlaubt |
@@ -158,7 +163,7 @@ Diese Zugangsungleichheit ist ein Missbrauch der Netzneutralität und ein Machtm
 
 Warum nicht die Audio-Taste verwenden, um einfache Herausforderungen zu lösen?
 
-Ja, es gibt eine Audio-Taste, aber sie funktioniert immer nicht über Tor.
+Ja, es gibt eine Audio-Taste, die jedoch über Tor immer nicht funktioniert.
 Sie erhalten diese Nachricht, wenn Sie darauf klicken:
 
 ```
@@ -255,6 +260,8 @@ In der neuen Datenschutzrichtlinie wird nicht erwähnt, dass Daten ein Jahr lang
 
 Wie können Sie Cloudflare vertrauen, wenn die Datenschutzrichtlinie eine LÜGE ist?
 
+- [Über ein Jahr ist vergangen, seit ich mein Cloudflare-Konto gekündigt habe](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -270,7 +277,7 @@ Das Löschen eines Cloudflare-Kontos ist schwierig.
 
 ```
 Senden Sie ein Support-Ticket in der Kategorie "Konto".
-und Löschen des Kontos im Nachrichtentext anfordern.
+und das Löschen des Kontos im Nachrichtentext anfordern.
 Sie müssen keine Domains oder Kreditkarten an Ihr Konto angehängt haben, bevor Sie die Löschung beantragen.
 ```
 
@@ -282,11 +289,25 @@ Sie erhalten diese Bestätigungs-E-Mail.
 
 Kannst du dem "vertrauen"?
 
+
+- So kündigen Sie Ihr Cloudflare-Konto
+
+1. Melden Sie sich bei Ihrem Cloudflare-Dashboard an.
+2. Löschen Sie alle Zonen (Domänen) aus Ihrem Dashboard.
+3. Klicken Sie auf den Support-Link.
+4. Senden Sie ein neues Ticket. Sagen Sie ihnen, dass Sie Ihr Konto schließen möchten.
+5. Warten Sie mehrere Tage.
+6. Die Mitarbeiter von Cloudflare werden Sie um Ihre Bestätigung und den Grund bitten, warum Sie sich entschieden haben, Cloudflare zu verlassen.
+7. Senden Sie erneut eine Antwort.
+8. Warten Sie mehrere Tage.
+9. Sie erhalten eine Nachricht: Wir haben Ihr Konto erfolgreich gelöscht
+
+
 </details>
 
 ---
 
-## Aliaj informoj
+## Andere Informationen
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -294,6 +315,7 @@ Kannst du dem "vertrauen"?
 
 
 ---
+
 
 ## Bitte fahren Sie mit der nächsten Seite fort:   [Cloudflare-Stimmen](../PEOPLE.md)
 

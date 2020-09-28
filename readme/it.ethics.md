@@ -25,7 +25,7 @@
 Cloudflare sta inviando e-mail di spam a utenti non Cloudflare.
 
 - Invia e-mail solo agli abbonati che hanno aderito
-- Quando l'utente dice "interrompi", interrompi l'invio di e-mail
+- Quando l'utente dice "interrompi", interrompi l'invio di email
 
 È così semplice. Ma a Cloudflare non interessa.
 Cloudflare ha affermato che l'utilizzo del servizio può bloccare tutti gli spammer o gli aggressori.
@@ -49,7 +49,7 @@ Come possiamo fermare Cloudflare senza attivare Cloudflare?
 
 
 Cloudflare censura le recensioni negative.
-Se pubblichi un testo anti-Cloudflare su Twitter, hai la possibilità di ottenere una risposta dal dipendente Cloudflare con il messaggio "No, non è".
+Se pubblichi un testo anti-Cloudflare su Twitter, hai la possibilità di ottenere una risposta dal dipendente di Cloudflare con il messaggio "No, non è".
 Se pubblichi una recensione negativa su qualsiasi sito di recensioni, cercheranno di censurarla.
 
 
@@ -126,7 +126,7 @@ Ti suggeriamo di trovare un fornitore migliore.
 </summary>
 
 
-CloudFlare offre un trattamento preferenziale a coloro che utilizzano Firefox mentre offre un trattamento ostile agli utenti di browser non Tor su Tor.
+CloudFlare offre un trattamento preferenziale a coloro che utilizzano Firefox mentre offre un trattamento ostile agli utenti di non-Tor-Browser su Tor.
 Anche gli utenti Tor che si rifiutano giustamente di eseguire javascript non liberi ricevono un trattamento ostile.
 Questa disuguaglianza di accesso è un abuso della neutralità della rete e un abuso di potere.
 
@@ -142,6 +142,11 @@ Questa disuguaglianza di accesso è un abuso della neutralità della rete e un a
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (browser minore) senza Tor (IP Clearnet)
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
 
 | ***Browser*** | ***Accesso al trattamento*** |
 | --- | --- |
@@ -179,12 +184,12 @@ Per maggiori dettagli visita la nostra pagina di aiuto
 </summary>
 
 
-Gli elettori negli Stati Uniti si registrano per votare in ultima analisi, tramite il sito web del segretario di stato nello stato di residenza.
+Gli elettori negli stati degli Stati Uniti si registrano per votare, infine, attraverso il sito web del segretario di stato nello stato di residenza.
 Gli uffici della segreteria di stato controllati dai repubblicani si impegnano nella soppressione degli elettori inviando tramite proxy il sito web del segretario di stato attraverso Cloudflare.
 Il trattamento ostile di Cloudflare nei confronti degli utenti Tor, la sua posizione MITM come punto di sorveglianza globale centralizzato e il suo ruolo dannoso in generale rendono i potenziali elettori riluttanti a registrarsi.
 I liberali in particolare tendono ad abbracciare la privacy.
 I moduli di registrazione degli elettori raccolgono informazioni sensibili sull'inclinazione politica di un elettore, l'indirizzo fisico personale, il numero di previdenza sociale e la data di nascita.
-La maggior parte degli stati rende disponibile pubblicamente solo un sottoinsieme di tali informazioni, ma Cloudflare vede tutte quelle informazioni quando qualcuno si registra per votare.
+La maggior parte degli stati rende pubblicamente disponibile solo un sottoinsieme di tali informazioni, ma Cloudflare vede tutte quelle informazioni quando qualcuno si registra per votare.
 
 Tieni presente che la registrazione cartacea non elude Cloudflare perché il personale addetto alla segreteria dello stato per l'immissione dei dati utilizzerà probabilmente il sito Web di Cloudflare per inserire i dati.
 
@@ -203,7 +208,7 @@ L'utilizzo di altre piattaforme non cloud come OpenPetition aiuta a risolvere il
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Il "Progetto Ateniese" di Cloudflare offre protezione gratuita a livello aziendale ai siti web delle elezioni statali e locali.
-Hanno detto che "i loro elettori possono accedere alle informazioni elettorali e alla registrazione degli elettori", ma questa è una bugia perché molte persone semplicemente non possono navigare nel sito.
+Hanno detto che "i loro elettori possono accedere alle informazioni elettorali e alla registrazione degli elettori", ma questa è una bugia perché molte persone non riescono affatto a navigare nel sito.
 
 </details>
 
@@ -212,7 +217,7 @@ Hanno detto che "i loro elettori possono accedere alle informazioni elettorali e
 <details>
 <summary>cliccami
 
-## Ignorando la preferenza dell'utente
+## Ignorando le preferenze dell'utente
 </summary>
 
 
@@ -255,6 +260,8 @@ La loro nuova politica sulla privacy non menziona la conservazione dei dati per 
 
 Come puoi fidarti di Cloudflare se la loro politica sulla privacy è una BUGIA?
 
+- [È passato più di un anno da quando ho cancellato il mio account Cloudflare](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -282,11 +289,25 @@ Riceverai questa email di conferma.
 
 Puoi "fidarti" di questo?
 
+
+- Come cancellare il tuo account Cloudflare
+
+1. Accedi alla dashboard di Cloudflare.
+2. Elimina tutte le zone (domini) dalla dashboard.
+3. Fare clic sul collegamento di supporto.
+4. Invia un nuovo biglietto. Di 'loro che vuoi chiudere il tuo account.
+5. Aspetta diversi giorni.
+6. Lo staff di Cloudflare chiederà la tua conferma e il motivo per cui hai deciso di lasciare Cloudflare.
+7. Invia di nuovo una risposta.
+8. Aspetta diversi giorni.
+9. Riceverai un messaggio: Abbiamo cancellato con successo il tuo account
+
+
 </details>
 
 ---
 
-## Aliaj informoj
+## Altre informazioni
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -294,6 +315,7 @@ Puoi "fidarti" di questo?
 
 
 ---
+
 
 ## Si prega di passare alla pagina successiva:   [Voci di Cloudflare](../PEOPLE.md)
 

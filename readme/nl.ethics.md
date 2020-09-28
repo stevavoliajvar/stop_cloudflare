@@ -3,9 +3,9 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"Steun dit bedrijf niet, dat geen ethiek kent"
+"Steun dit bedrijf niet dat geen ethiek kent"
 
-"Uw bedrijf is niet betrouwbaar. U beweert DMCA af te dwingen, maar heeft veel rechtszaken omdat u dit niet doet."
+"Uw bedrijf is niet betrouwbaar. U beweert DMCA af te dwingen, maar heeft veel rechtszaken als u dit niet doet."
 
 "Ze censureren alleen degenen die hun ethiek in twijfel trekken."
 
@@ -49,7 +49,7 @@ Hoe kunnen we Cloudflare stoppen zonder Cloudflare te activeren?
 
 
 Cloudflare censureert negatieve beoordelingen.
-Als je anti-Cloudflare-tekst op Twitter plaatst, heb je de kans om een ​​antwoord te krijgen van de Cloudflare-medewerker met het bericht "Nee, dat is het niet".
+Als je anti-Cloudflare-tekst op Twitter plaatst, heb je de kans om een ​​antwoord te krijgen van de Cloudflare-medewerker met een "Nee, dat is het niet" -bericht.
 Als u een negatieve recensie op een recensiesite plaatst, zullen zij deze proberen te censureren.
 
 
@@ -71,7 +71,7 @@ Als u een negatieve recensie op een recensiesite plaatst, zullen zij deze prober
 Cloudflare heeft een enorm intimidatieprobleem.
 Cloudflare deelt persoonlijke informatie van degenen die klagen over gehoste sites.
 Ze vragen u soms om uw echte identiteitsbewijs.
-Als je niet lastiggevallen, aangevallen, geslagen of vermoord wilt worden, blijf dan weg van Cloudflared-websites.
+Als je niet lastiggevallen, aangevallen, geslagen of vermoord wilt worden, kun je beter wegblijven van Cloudflared-websites.
 
 
 | 🖼 | 🖼 |
@@ -92,7 +92,7 @@ Als je niet lastiggevallen, aangevallen, geslagen of vermoord wilt worden, blijf
 
 
 CloudFlare vraagt ​​om liefdadigheidsbijdragen.
-Het is nogal afschuwelijk dat een Amerikaans bedrijf naast non-profitorganisaties met goede doelen om liefdadigheid vraagt.
+Het is nogal schrikbarend dat een Amerikaans bedrijf naast non-profitorganisaties met goede doelen om liefdadigheid vraagt.
 Als je het leuk vindt om mensen te blokkeren of de tijd van anderen te verspillen, wil je misschien wat pizza's bestellen voor Cloudflare-medewerkers.
 
 
@@ -143,6 +143,11 @@ Deze ongelijkheid in toegang is misbruik van netwerkneutraliteit en machtsmisbru
 
 - QuteBrowser (kleine browser) zonder Tor (Clearnet IP)
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
+
 | ***Browser*** | ***Toegang tot behandeling*** |
 | --- | --- |
 | Tor Browser (Javascript ingeschakeld) | toegang toegestaan |
@@ -162,7 +167,7 @@ Ja, er is een audioknop, maar deze werkt niet altijd via Tor.
 U krijgt dit bericht als u erop klikt:
 
 ```
-Probeer het later opnieuw
+Probeer het later nogmaals
 Uw computer of netwerk verstuurt mogelijk geautomatiseerde vragen.
 Om onze gebruikers te beschermen, kunnen we uw verzoek momenteel niet verwerken.
 Bezoek onze helppagina voor meer informatie
@@ -192,8 +197,8 @@ Merk op dat papieren registratie Cloudflare niet omzeilt, omdat de medewerkers v
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org is een bekende website voor het verzamelen van stemmen en het ondernemen van actie.
-“Overal starten mensen campagnes, mobiliseren supporters en werken ze samen met besluitvormers om oplossingen te vinden.”
+- Change.org is een bekende website om stemmen te verzamelen en actie te ondernemen.
+“mensen overal ter wereld starten campagnes, mobiliseren supporters en werken samen met besluitvormers om oplossingen te vinden.”
 Helaas kunnen veel mensen change.org helemaal niet bekijken vanwege het agressieve filter van Cloudflare.
 Ze worden geblokkeerd voor het ondertekenen van de petitie, waardoor ze worden uitgesloten van een democratisch proces.
 Het gebruik van een ander niet-cloudflared platform zoals OpenPetition helpt het probleem te verhelpen.
@@ -248,12 +253,14 @@ Als het echt is verwijderd, waarom heeft deze ex-klant dan een e-mail ontvangen?
 Hij zei ook dat het privacybeleid van Cloudflare er niets over zegt.
 
 ```
-Hun nieuwe privacybeleid maakt geen melding van het bewaren van gegevens gedurende een jaar.
+In hun nieuwe privacybeleid wordt geen melding gemaakt van het bewaren van gegevens gedurende een jaar.
 ```
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
 Hoe kunt u Cloudflare vertrouwen als hun privacybeleid een LIE is?
+
+- [Er is meer dan een jaar verstreken sinds ik mijn Cloudflare-account heb opgezegd](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
 
 </details>
 
@@ -282,11 +289,25 @@ U ontvangt deze bevestigingsmail.
 
 Kunt u dit "vertrouwen"?
 
+
+- Hoe u uw Cloudflare-account kunt annuleren
+
+1. Log in op uw Cloudflare-dashboard.
+2. Verwijder alle zones (domeinen) van je dashboard.
+3. Klik op ondersteuningslink.
+4. Stuur een nieuw ticket. Vertel hen dat u uw account wilt sluiten.
+5. Wacht een paar dagen.
+6. Het personeel van Cloudflare zal om uw bevestiging vragen en de reden waarom u heeft besloten Cloudflare te verlaten.
+7. Stuur nogmaals een antwoord.
+8. Wacht een paar dagen.
+9. U krijgt een bericht: We hebben uw account verwijderd
+
+
 </details>
 
 ---
 
-## Aliaj informoj
+## Andere informatie
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -294,6 +315,7 @@ Kunt u dit "vertrouwen"?
 
 
 ---
+
 
 ## Ga door naar de volgende pagina:   [Cloudflare-stemmen](../PEOPLE.md)
 
