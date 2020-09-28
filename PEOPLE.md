@@ -440,6 +440,18 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- if they use Cloudflare they can at least apply captcha challenge for these regions. ([davidgasparian](https://twitter.com/davidgasparian/status/1310133756968263681))
+- Making your "protection" captcha incompatible with TOR is about the most asinine thing you can do, Cloudfail ([cloakedship](https://twitter.com/cloakedship/status/1309956529035116544))
+- Just tried to pass a captcha on a site served by Cloudflare and failed. 5 times. Starting to doubt my own humanity a bit here. ([tkadlec](https://twitter.com/tkadlec/status/1309526136947343362))
+- Bad gateway The web server reported a bad gateway error. Ray ID: 5d8feabfca5d0d02 Your IP address: 107.12.202.82 Error reference number: 502 Cloudflare Location: Atlanta ([sqlcatt](https://twitter.com/SQLCatt/status/1309961325557288964))
+- Also getting this from Canada! Cloudflare 1020 error ([datenthielt](https://twitter.com/DatenThielt/status/1309903867631611905))
+- . blog sites down, getting the all too frequent CloudFlare error notices, 502 inside our account and 1001 for our live sites. What's up now? ([tom_collins](https://twitter.com/Tom_Collins/status/1309591492374208512))
+- Im sure you guys know but there are issues with your website and logging in at the moment. I keep getting a cloudflare error ([olorin_jim](https://twitter.com/Olorin_Jim/status/1309568935717634048))
+- I recently added some new DNS entries to my zone and they randomly stop resolving?! Furthermore if I try to edit them I get an error. I reached out to 4 days ago and received very little help or response. I still can't resolve certain records. ([esotericmeans](https://twitter.com/esotericmeans/status/1309487438822166529))
+- I can't see my account. Error 1020 Ray ID: 5d8236a4ab470e5e • 2020-09-25 05:06:01 UTC Cloudflare Ray ID: 5d8236a4ab470e5e Your IP: 189.223.178.171 Performance & security by Cloudflare. Is something wrong? ([lurday](https://twitter.com/lurday/status/1309359098710818816))
+- Already told you a million times it's not working for me and I'm getting error messages. Already told you I've emailed your supposed abuse team several times with no response. ([susanashline](https://twitter.com/SusanAshline/status/1309146682689572870))
+- Your ppl emailed back, saying I had to submit thru online form. When I attemped AGAIN, I got error msg saying I'd already submitted. But in last week's submission that wouldn't take a description, I only wrote that I needed an email address b/c form wasn't working!!! ([susanashline](https://twitter.com/SusanAshline/status/1309144586078617604))
+- Getting a Cloudflare Error 522 page saying issue with host when visiting your site ([satandave](https://twitter.com/satandave/status/1309101025211682825))
 - Unfortunately still getting the cloudflare security error. Appreciate the updates, looking forward to using this with my students tomorrow! 🤞 ([misterbrash](https://twitter.com/MisterBrash/status/1308477400066543617))
 - Hey, why the website shows Cloudflare error all the time I am unable to access it!!!! ([subhankarsmith](https://twitter.com/subhankarsmith/status/1308309175529697280))
 - t. Totally agree that means cloudflare by cloudflare by cloudflare your mitm cdn when trying to me w ([macmelonmac](https://twitter.com/MacMelonMac/status/1307766737727877121))
