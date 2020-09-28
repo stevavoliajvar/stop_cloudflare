@@ -3,13 +3,13 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
-"Nepodporujte tuto společnost, která je bez etiky"
+"Nepodporujte tuto společnost, která je neplatná etiky"
 
-"Vaše společnost není důvěryhodná. Tvrdíte, že vynucujete DMCA, ale máte mnoho soudů za to, že tak neučiníte."
+"Vaše společnost není důvěryhodná. Tvrdíte, že vymáháte DMCA, ale za to, že jste tak neučinili, vedete řadu soudních sporů."
 
-"Cenzurují pouze ty, kteří zpochybňují jejich etiku."
+"Cenzurují pouze ty, kdo zpochybňují jejich etiku."
 
-"Myslím, že pravda je nepohodlná a lépe skrytá před veřejným pohledem."  -- [phyzonloop](https://twitter.com/phyzonloop)
+"Myslím, že pravda je nepohodlná a lépe skrytá před veřejností."  -- [phyzonloop](https://twitter.com/phyzonloop)
 
 
 ---
@@ -22,13 +22,13 @@
 </summary>
 
 
-Cloudflare odesílá nevyžádané e-maily uživatelům, kteří nepoužívají Cloudflare.
+Cloudflare zasílá nevyžádané e-maily uživatelům, kteří nejsou cloudflare.
 
-- E-maily zasílejte pouze odběratelům, kteří se přihlásili
-- Když uživatel řekne „zastavit“, zastavte odesílání e-mailů
+- E-maily zasílejte pouze předplatitelům, kteří se přihlásili
+- Když uživatel řekne „stop“, přestane posílat e-maily
 
-Je to tak jednoduché. Ale Cloudflare to nezajímá.
-Cloudflare řekl, že použití jejich služby může zastavit všechny spammery nebo útočníky.
+Je to tak jednoduché. Ale Cloudflare se nestará.
+Cloudflare uvedl, že používání jejich služeb může zastavit všechny spamery a útočníky.
 Jak můžeme zastavit Cloudflare bez aktivace Cloudflare?
 
 
@@ -48,9 +48,9 @@ Jak můžeme zastavit Cloudflare bez aktivace Cloudflare?
 </summary>
 
 
-Negativní recenze Cloudflare censor.
-Pokud na Twitteru zveřejníte text proti Cloudflare, máte šanci získat odpověď od zaměstnance Cloudflare zprávou „Ne, není to“.
-Pokud na některý web s recenzemi pošlete negativní recenzi, pokusí se jej cenzurovat.
+Cloudflare cenzuruje negativní recenze.
+Pokud zveřejníte text proti Cloudflare na Twitteru, máte šanci dostat odpověď od zaměstnance Cloudflare se zprávou „Ne, není to“.
+Pokud na jakýkoli web s recenzemi zveřejníte negativní recenzi, pokusí se ji cenzurovat.
 
 
 | 🖼 | 🖼 |
@@ -69,9 +69,9 @@ Pokud na některý web s recenzemi pošlete negativní recenzi, pokusí se jej c
 
 
 Cloudflare má obrovský problém s obtěžováním.
-Cloudflare sdílí osobní údaje těch, kteří si stěžují na hostované stránky.
-Někdy vás požádají o poskytnutí skutečného ID.
-Pokud se nechcete nechat obtěžovat, napadat, bít nebo zabíjet, raději se držte dál od webů Cloudflared.
+Cloudflare sdílí osobní informace těch, kteří si stěžují na hostované stránky.
+Někdy vás požádají, abyste poskytli své skutečné ID.
+Pokud se nechcete nechat obtěžovat, napadat, plísnit nebo zabíjet, raději se držte dál od webů Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -87,13 +87,13 @@ Pokud se nechcete nechat obtěžovat, napadat, bít nebo zabíjet, raději se dr
 <details>
 <summary>Klikni na mě
 
-## Firemní nabízení charitativních příspěvků
+## Firemní žádosti o charitativní příspěvky
 </summary>
 
 
-CloudFlare požaduje charitativní příspěvky.
-Je docela děsivé, že americká korporace by požádala o charitu spolu s neziskovými organizacemi, které mají dobré důvody.
-Pokud rádi blokujete lidi nebo ztrácíte čas jiných lidí, možná budete chtít objednat zaměstnancům společnosti Cloudflare nějaké pizzy.
+CloudFlare žádá o charitativní příspěvky.
+Je docela děsivé, že americká korporace by žádala o charitu vedle neziskových organizací, které mají dobré důvody.
+Pokud rádi blokujete lidi nebo plýtváte časem jiných lidí, možná si budete chtít objednat nějaké pizzy pro zaměstnance Cloudflare.
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
@@ -105,12 +105,12 @@ Pokud rádi blokujete lidi nebo ztrácíte čas jiných lidí, možná budete ch
 <details>
 <summary>Klikni na mě
 
-## Ukončení stránek
+## Končící weby
 </summary>
 
 
-Co uděláte, pokud váš web náhle klesne?
-Existují zprávy o tom, že Cloudflare bez upozornění varuje, že uživatel konfiguruje nebo zastavuje službu uživatele.
+Co uděláte, když váš web náhle spadne?
+Existují zprávy, že Cloudflare tiše odstraňuje konfiguraci uživatele nebo zastavuje službu bez jakéhokoli varování.
 Doporučujeme vám najít lepšího poskytovatele.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
@@ -126,13 +126,13 @@ Doporučujeme vám najít lepšího poskytovatele.
 </summary>
 
 
-CloudFlare poskytuje preferenční zacházení těm, kteří používají Firefox, zatímco poskytuje nepřátelské zacházení uživatelům jiných prohlížečů než Tor.
-Uživatelům, kteří oprávněně odmítají vykonávat nesvobodný javascript, se také dostává nepřátelského zacházení.
-Tato nerovnost v přístupu je zneužitím neutrality sítě a zneužitím moci.
+CloudFlare poskytuje preferenční zacházení těm, kteří používají Firefox, zatímco poskytuje nepřátelské zacházení uživatelům jiných než Tor-Browser přes Tor.
+Uživatelé nepřátel, kteří oprávněně odmítají vykonávat nesvobodný javascript, dostávají také nepřátelské zacházení.
+Tato nerovnost přístupu představuje zneužití síťové neutrality a zneužití moci.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
 
-- Vlevo: Prohlížeč Tor, vpravo: Chrome. Stejná adresa IP.
+- Vlevo: Tor Browser, Vpravo: Chrome. Stejná IP adresa.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
 
@@ -141,31 +141,36 @@ Tato nerovnost v přístupu je zneužitím neutrality sítě a zneužitím moci.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
-- QuteBrowser (menší prohlížeč) bez Tor (Clearnet IP)
+- QuteBrowser (vedlejší prohlížeč) bez Tor (Clearnet IP)
 
-| ***Prohlížeč*** | ***Ošetření přístupu*** |
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
+
+| ***Prohlížeč*** | ***Přístup k léčbě*** |
 | --- | --- |
 | Tor Browser (Javascript povolen) | přístup povolen |
-| Firefox (Javascript povolen) | přístup snížen |
-| Chromium (Javascript povolen) | přístup snížen |
-| Chromium or Firefox (Javascript zakázán) | přístup odepřen |
-| Chromium or Firefox (Cookie zakázáno) | přístup odepřen |
+| Firefox (Javascript povolen) | přístup degradován |
+| Chromium (Javascript povolen) | přístup degradován |
+| Chromium or Firefox (Javascript deaktivován) | přístup odepřen |
+| Chromium or Firefox (Cookie deaktivován) | přístup odepřen |
 | QuteBrowser | přístup odepřen |
 | lynx | přístup odepřen |
 | w3m | přístup odepřen |
 | wget | přístup odepřen |
 
 
-Proč nepoužívat tlačítko Audio k vyřešení snadné výzvy?
+Proč nepoužívat tlačítko Zvuk k řešení snadné výzvy?
 
-Ano, existuje zvukové tlačítko, ale na Tor vždy nefunguje.
-Tuto zprávu dostanete, když na ni kliknete:
+Ano, existuje zvukové tlačítko, ale vždy nefunguje přes Tor.
+Tuto zprávu obdržíte, když na ni kliknete:
 
 ```
 Zkuste to později znovu
-Váš počítač nebo síť může odesílat automatické dotazy.
-V zájmu ochrany našich uživatelů nemůžeme váš požadavek zpracovat.
-Pro více informací navštivte naši stránku nápovědy
+Váš počítač nebo síť může odesílat automatizované dotazy.
+Z důvodu ochrany našich uživatelů nemůžeme nyní váš požadavek zpracovat.
+Další informace naleznete na naší stránce nápovědy
 ```
 
 </details>
@@ -179,31 +184,31 @@ Pro více informací navštivte naši stránku nápovědy
 </summary>
 
 
-Voliči ve státech USA se registrují, aby nakonec hlasovali prostřednictvím webové stránky státního tajemníka ve státě svého bydliště.
-Úřady státního tajemníka ovládané republikány se zapojují do potlačování voličů tím, že prohledávají webové stránky státního tajemníka prostřednictvím služby Cloudflare.
-Cloudflareovo nepřátelské zacházení s uživateli Tor, jeho pozice MITM jako centralizovaného globálního bodu dohledu a jeho škodlivá role celkově činí potenciální voliče neochotné se zaregistrovat.
-Obzvláště liberálové mají sklon přijímat soukromí.
-Formuláře pro registraci voličů shromažďují citlivé informace o politickém sklonu voliče, jeho fyzické fyzické adrese, čísle sociálního zabezpečení a datu narození.
-Většina států zveřejňuje pouze podmnožinu těchto informací, ale Cloudflare vidí všechny tyto informace, když se někdo zaregistruje k hlasování.
+Voliči ve státech USA se zaregistrují, aby mohli nakonec hlasovat prostřednictvím webových stránek státního tajemníka ve státě jejich bydliště.
+Republikánem kontrolované kanceláře státního tajemníka se účastní potlačení voličů prostřednictvím proxy serveru státního tajemníka prostřednictvím služby Cloudflare.
+Cloudflare je nepřátelské zacházení s uživateli Tor, jeho pozice MITM jako centralizovaného globálního bodu dohledu a jeho celkově škodlivá role vede k tomu, že se potenciální voliči zdráhají registrovat.
+Zejména liberálové mají tendenci přijímat soukromí.
+Formuláře pro registraci voličů shromažďují citlivé informace o politickém sklonu voliče, osobní fyzické adrese, rodném čísle a datu narození.
+Většina států veřejně zpřístupňuje pouze podmnožinu těchto informací, ale Cloudflare vidí všechny tyto informace, když se někdo zaregistruje k hlasování.
 
-Povšimněte si, že registrace papíru neobchází Cloudflare, protože tajemník pracovníků pracovníků státní správy pro zadávání dat bude pravděpodobně pro zadávání dat používat webovou stránku Cloudflare.
+Všimněte si, že registrace v papírové podobě neobchází Cloudflare, protože sekretářka státních zaměstnanců pracujících se zadáváním údajů bude pravděpodobně k zadávání údajů používat web Cloudflare.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
-- Change.org je slavný web pro shromažďování hlasů a jednání.
-“lidé všude začínají kampaně, mobilizují příznivce a spolupracují s tvůrci rozhodnutí na řešení.”
-Bohužel mnoho lidí nemůže zobrazit change.org vůbec kvůli agresivnímu filtru Cloudflare.
-Je jim blokováno podepsání petice, čímž jsou vyloučeny z demokratického procesu.
-Použití jiné platformy bez cloudů, jako je OpenPetition, pomáhá problém vyřešit.
+- Change.org je slavný web, který shromažďuje hlasy a přijímá opatření.
+“lidé kdekoli začínají kampaně, mobilizují příznivce a spolupracují s osobami s rozhodovací pravomocí na vytváření řešení.”
+Mnoho lidí bohužel nemůže změnit change.org kvůli agresivnímu filtru Cloudflare.
+Je jim blokováno, aby podepsali petici, čímž je vylučují z demokratického procesu.
+Problém lze odstranit pomocí jiné platformy bez cloudu, jako je OpenPetition.
 
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
-- „Athénský projekt“ společnosti Cloudflare nabízí bezplatnou ochranu podnikových úrovní na webových stránkách pro státní a místní volby.
-Řekli, že „jejich voliči mají přístup k informacím o volbách a registraci voličů“, ale je to lež, protože mnoho lidí prostě nemůže prohlížet web vůbec.
+- „Aténský projekt“ Cloudflare nabízí státní a místní volební webové stránky bezplatnou ochranu na podnikové úrovni.
+Řekli, že „jejich voliči mají přístup k informacím o volbách a registraci voličů“, ale to je lež, protože mnoho lidí prostě nemůže procházet stránky vůbec.
 
 </details>
 
@@ -212,13 +217,13 @@ Použití jiné platformy bez cloudů, jako je OpenPetition, pomáhá problém v
 <details>
 <summary>Klikni na mě
 
-## Ignorování preference uživatele
+## Ignorování předvoleb uživatele
 </summary>
 
 
-Pokud se odhlásíte, očekáváte, že o tom neobdržíte žádný e-mail.
+Pokud se něco odhlásíte, očekáváte, že vám o tom nebude zaslán žádný e-mail.
 Cloudflare ignoruje preference uživatele a sdílí data s korporacemi třetích stran bez souhlasu zákazníka.
-Pokud používáte bezplatný tarif, občas vám pošlou e-mail s žádostí o zakoupení měsíčního předplatného.
+Pokud používáte jejich bezplatný tarif, někdy vám pošlou e-mail s žádostí o zakoupení měsíčního předplatného.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
 
@@ -229,31 +234,33 @@ Pokud používáte bezplatný tarif, občas vám pošlou e-mail s žádostí o z
 <details>
 <summary>Klikni na mě
 
-## Leží o mazání uživatelských dat
+## Lhát o smazání dat uživatele
 </summary>
 
 
-Podle tohoto zákaznického blogu typu cloudflare spočívá Cloudflare v mazání účtů.
-V dnešní době si mnoho společností vaše data uchová po uzavření nebo odebrání účtu.
-Většina dobrých společností o tom zmiňuje ve svých zásadách ochrany osobních údajů.
+Podle blogu tohoto zákazníka bývalého cloudflare Cloudflare lže o mazání účtů.
+V dnešní době mnoho společností uchovává vaše data poté, co jste zrušili nebo odstranili svůj účet.
+Většina dobrých společností se o tom zmiňuje ve svých zásadách ochrany osobních údajů.
 Cloudflare? Ne.
 
 ```
-2019-08-05 CloudFlare mi poslal potvrzení, že můj účet odstranili.
+2019-08-05 CloudFlare mi poslal potvrzení, že odstranili můj účet.
 2019-10-02 Obdržel jsem e-mail od CloudFlare „protože jsem zákazník“
 ```
 
-Cloudflare nevěděla o slovu „odstranit“.
+Cloudflare nevěděl o slově „odebrat“.
 Pokud je skutečně odstraněn, proč tento bývalý zákazník dostal e-mail?
-Také zmínil, že zásady ochrany soukromí Cloudflare o tom nezmiňují.
+Zmínil také, že zásady ochrany osobních údajů Cloudflare se o tom nezmiňují.
 
 ```
-Jejich nové zásady ochrany osobních údajů nezmínily uchovávání údajů po dobu jednoho roku.
+Jejich nové zásady ochrany osobních údajů nezmiňují uchovávání údajů po dobu jednoho roku.
 ```
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
 
-Jak můžete věřit Cloudflare, pokud je jejich ochrana soukromí LIE?
+Jak můžete věřit Cloudflare, pokud jejich zásady ochrany osobních údajů LŽOU?
+
+- [Od zrušení účtu Cloudflare uplynul více než rok](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
 
 </details>
 
@@ -266,27 +273,41 @@ Jak můžete věřit Cloudflare, pokud je jejich ochrana soukromí LIE?
 </summary>
 
 
-Odstranění účtu Cloudflare je obtížné.
+Odstranění účtu Cloudflare je těžké.
 
 ```
-Vložte podpůrný lístek pomocí kategorie „Účet“,
-a požádat o odstranění účtu v těle zprávy.
-Před žádostí o smazání musíte mít k účtu nepřipojené žádné domény ani kreditní karty.
+Odešlete tiket podpory pomocí kategorie „Účet“,
+a požádat o vymazání účtu v těle zprávy.
+Před podáním žádosti o vymazání nesmíte mít ke svému účtu připojeny žádné domény ani kreditní karty.
 ```
 
 Tento potvrzovací e-mail obdržíte.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
 
-„Začali jsme zpracovávat vaši žádost o odstranění“, ale „Vaše osobní údaje budeme i nadále ukládat“.
+„Začali jsme zpracovávat vaši žádost o odstranění“, ale „Vaše osobní údaje budeme nadále uchovávat“.
 
-Můžete tomu věřit?
+Můžete tomu „věřit“?
+
+
+- Jak zrušit svůj účet Cloudflare
+
+1. Přihlaste se na svůj hlavní panel Cloudflare.
+2. Odstraňte všechny zóny (domény) z hlavního panelu.
+3. Klikněte na odkaz podpory.
+4. Odeslat nový lístek. Řekněte jim, že chcete zrušit svůj účet.
+5. Počkejte několik dní.
+6. Zaměstnanci Cloudflare vás požádají o potvrzení a důvod, proč jste se rozhodli Cloudflare opustit.
+7. Znovu pošlete odpověď.
+8. Počkejte několik dní.
+9. Zobrazí se zpráva: Váš účet jsme úspěšně smazali
+
 
 </details>
 
 ---
 
-## Aliaj informoj
+## Jiná informace
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -295,7 +316,8 @@ Můžete tomu věřit?
 
 ---
 
-## Pokračujte na další stránku:   [Hlasy oblačnosti](../PEOPLE.md)
+
+## Pokračujte na další stránku:   [Hlasy cloudflare](../PEOPLE.md)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
