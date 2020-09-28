@@ -82,6 +82,7 @@ ethx9n0008	If it is really removed, why this ex-customer got an email?
 ethx9n0009	He also mentioned that Cloudflare's privacy policy doesn't mention about it.
 ethx9n0010	Their new privacy policy doesn't make any mention of retaining data for a year.
 ethx9n0011	How can you trust Cloudflare if their privacy policy is a LIE?
+ethx9n0012  Over a year passed since I cancelled my Cloudflare account
 ethx10n0000	Keep your personal information
 ethx10n0001	Deleting Cloudflare account is hard level.
 ethx10n0002	Submit a support ticket using the "Account" category,
@@ -90,6 +91,15 @@ ethx10n0004	You must have no domains or credit cards attached to your account pr
 ethx10n0005	You will receive this confirmation email.
 ethx10n0006	"We have begun to process your deletion request" but "We will continue to store your personal information".
 ethx10n0007	Can you "trust" this?
+ethx10n0008	How to cancel your Cloudflare account
+ethx10n0009	Login to your Cloudflare dashboard.
+ethx10n0010	Delete all zones(domains) from your dashboard.
+ethx10n0011	Click support link.
+ethx10n0012	Send a new ticket. Tell them that you want to close your account.
+ethx10n0013	Wait several days.
+ethx10n0014	Cloudflare staff will ask for your confirmation and the reason why you have decided to leave Cloudflare.
+ethx10n0015	Send a reply again.
+ethx10n0016	You will get a message: We have successfully deleted your account
 other1nfo	Other information
 pleasenext	Please continue to next page
 cfvoices	Cloudflare Voices
