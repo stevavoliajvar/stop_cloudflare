@@ -5,7 +5,7 @@
 
 "Não apoie esta empresa que não é ética"
 
-"Sua empresa não é confiável. Você alega fazer cumprir o DMCA, mas tem muitos processos por não fazê-lo."
+"Sua empresa não é confiável. Você alega fazer cumprir o DMCA, mas tem muitos processos judiciais por não fazê-lo."
 
 "Eles apenas censuram aqueles que questionam sua ética."
 
@@ -71,7 +71,7 @@ Se você postar uma avaliação negativa em qualquer site de avaliação, eles t
 Cloudflare tem um grande problema de assédio.
 A Cloudflare compartilha informações pessoais de quem reclama dos sites hospedados.
 Às vezes, eles pedem que você forneça sua identidade verdadeira.
-Se você não quer ser assediado, agredido, golpeado ou morto, é melhor você ficar longe de sites do Cloudflared.
+Se você não quer ser assediado, agredido, golpeado ou morto, é melhor ficar longe de sites do Cloudflared.
 
 
 | 🖼 | 🖼 |
@@ -92,7 +92,7 @@ Se você não quer ser assediado, agredido, golpeado ou morto, é melhor você f
 
 
 CloudFlare está pedindo contribuições de caridade.
-É bastante espantoso que uma empresa americana peça caridade ao lado de organizações sem fins lucrativos que têm boas causas.
+É terrível que uma empresa americana peça caridade ao lado de organizações sem fins lucrativos que têm boas causas.
 Se você gosta de bloquear pessoas ou perder o tempo de outras pessoas, você pode pedir algumas pizzas para os funcionários da Cloudflare.
 
 
@@ -110,7 +110,7 @@ Se você gosta de bloquear pessoas ou perder o tempo de outras pessoas, você po
 
 
 O que você fará se o seu site cair repentinamente?
-Há relatos de que Cloudflare está excluindo a configuração do usuário ou interrompendo o serviço sem qualquer aviso, silenciosamente.
+Há relatos de que o Cloudflare está excluindo a configuração do usuário ou interrompendo o serviço sem qualquer aviso, silenciosamente.
 Sugerimos que você encontre um provedor melhor.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
@@ -142,6 +142,11 @@ Essa desigualdade de acesso é um abuso da neutralidade da rede e um abuso de po
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (navegador secundário) sem Tor (Clearnet IP)
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
 
 | ***Navegador*** | ***Tratamento de acesso*** |
 | --- | --- |
@@ -179,12 +184,12 @@ Para mais detalhes visite nossa página de ajuda
 </summary>
 
 
-Os eleitores nos estados dos EUA registram-se para votar por meio do site do secretário de estado no estado em que residem.
-Escritórios de secretários de estado controlados pelos republicanos envolvem-se na repressão aos eleitores por meio de proxy do site do secretário de estado por meio do Cloudflare.
+Os eleitores nos estados dos EUA registram-se para votar por meio do site do secretário de estado no estado de sua residência.
+Escritórios de secretários de estado controlados pelos republicanos envolvem-se na repressão aos eleitores por meio do proxy do site do secretário de estado por meio do Cloudflare.
 O tratamento hostil da Cloudflare aos usuários do Tor, sua posição MITM como um ponto global centralizado de vigilância e seu papel prejudicial em geral tornam os eleitores em potencial relutantes em se registrar.
 Os liberais, em particular, tendem a abraçar a privacidade.
 Os formulários de registro de eleitores coletam informações confidenciais sobre a inclinação política do eleitor, endereço físico pessoal, número do seguro social e data de nascimento.
-A maioria dos estados apenas disponibiliza um subconjunto dessas informações publicamente, mas o Cloudflare vê todas essas informações quando alguém se registra para votar.
+A maioria dos estados disponibiliza apenas um subconjunto dessas informações publicamente, mas o Cloudflare vê todas essas informações quando alguém se registra para votar.
 
 Observe que o registro em papel não contorna o Cloudflare porque os funcionários da equipe de entrada de dados do secretário de estado provavelmente usarão o site do Cloudflare para inserir os dados.
 
@@ -203,7 +208,7 @@ O uso de outra plataforma não declarada em nuvem, como OpenPetition, ajuda a so
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - O "Projeto ateniense" da Cloudflare oferece proteção gratuita em nível empresarial para sites de eleições estaduais e locais.
-Eles disseram que "seus eleitores podem acessar informações eleitorais e registro de eleitores", mas isso é uma mentira porque muitas pessoas simplesmente não conseguem navegar no site.
+Eles disseram que "seus constituintes podem acessar informações eleitorais e registro de eleitores", mas isso é uma mentira porque muitas pessoas simplesmente não conseguem navegar no site.
 
 </details>
 
@@ -255,6 +260,8 @@ A nova política de privacidade deles não faz nenhuma menção à retenção de
 
 Como você pode confiar na Cloudflare se sua política de privacidade é uma mentira?
 
+- [Mais de um ano se passou desde que cancelei minha conta Cloudflare](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -282,11 +289,25 @@ Você receberá este email de confirmação.
 
 Você pode "confiar" nisso?
 
+
+- Como cancelar sua conta Cloudflare
+
+1. Faça login no painel do Cloudflare.
+2. Exclua todas as zonas (domínios) de seu painel.
+3. Clique no link de suporte.
+4. Envie um novo tíquete. Diga a eles que você deseja encerrar sua conta.
+5. Espere vários dias.
+6. A equipe da Cloudflare pedirá sua confirmação e o motivo pelo qual você decidiu sair da Cloudflare.
+7. Envie uma resposta novamente.
+8. Espere vários dias.
+9. Você receberá uma mensagem: Excluímos com sucesso sua conta
+
+
 </details>
 
 ---
 
-## Aliaj informoj
+## Outra informação
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -294,6 +315,7 @@ Você pode "confiar" nisso?
 
 
 ---
+
 
 ## Por favor, continue na próxima página:   [Cloudflare Voices](../PEOPLE.md)
 
