@@ -143,6 +143,11 @@ Esta desigualdad de acceso es un abuso de la neutralidad de la red y un abuso de
 
 - QuteBrowser (navegador menor) sin Tor (Clearnet IP)
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
+
 | ***Navegador*** | ***Tratamiento de acceso*** |
 | --- | --- |
 | Tor Browser (Javascript habilitado) | acceso permitido |
@@ -156,7 +161,7 @@ Esta desigualdad de acceso es un abuso de la neutralidad de la red y un abuso de
 | wget | acceso denegado |
 
 
-¿Por qué no utilizar el botón de audio para resolver un desafío fácil?
+¿Por qué no usar el botón de audio para resolver un desafío fácil?
 
 Sí, hay un botón de audio, pero no siempre funciona con Tor.
 Recibirá este mensaje cuando haga clic en él.:
@@ -181,7 +186,7 @@ Para más detalles visite nuestra página de ayuda
 
 Los votantes en los estados de EE. UU. Se registran para votar en última instancia a través del sitio web del secretario de estado en el estado de su residencia.
 Las oficinas de la secretaria de estado controladas por los republicanos participan en la supresión de votantes al utilizar el sitio web de la secretaria de estado a través de Cloudflare.
-El trato hostil de Cloudflare a los usuarios de Tor, su posición MITM como un punto global centralizado de vigilancia y su papel perjudicial en general hace que los posibles votantes se muestren reacios a registrarse.
+El trato hostil de Cloudflare a los usuarios de Tor, su posición MITM como un punto de vigilancia global centralizado y su papel perjudicial en general hace que los posibles votantes se muestren reacios a registrarse.
 Los liberales, en particular, tienden a abrazar la privacidad.
 Los formularios de registro de votantes recopilan información confidencial sobre la inclinación política, la dirección física personal, el número de seguro social y la fecha de nacimiento de un votante.
 La mayoría de los estados solo ponen a disposición del público un subconjunto de esa información, pero Cloudflare ve toda esa información cuando alguien se registra para votar.
@@ -193,7 +198,7 @@ Tenga en cuenta que el registro en papel no elude Cloudflare porque los trabajad
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org es un sitio web famoso para reunir votos y tomar medidas.
-“La gente de todo el mundo está iniciando campañas, movilizando simpatizantes y trabajando con los responsables de la toma de decisiones para impulsar soluciones.”
+“La gente de todo el mundo está iniciando campañas, movilizando simpatizantes y trabajando con los tomadores de decisiones para impulsar soluciones.”
 Desafortunadamente, muchas personas no pueden ver change.org debido al filtro agresivo de Cloudflare.
 Se les impide firmar la petición, lo que los excluye de un proceso democrático.
 El uso de otra plataforma que no esté en la nube, como OpenPetition, ayuda a solucionar el problema.
@@ -255,6 +260,8 @@ Su nueva política de privacidad no menciona la retención de datos durante un a
 
 ¿Cómo puede confiar en Cloudflare si su política de privacidad es una MENTIRA?
 
+- [Pasó más de un año desde que cancelé mi cuenta de Cloudflare](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -282,11 +289,25 @@ Recibirá este correo electrónico de confirmación.
 
 ¿Puedes "confiar" en esto?
 
+
+- Cómo cancelar su cuenta de Cloudflare
+
+1. Inicie sesión en su panel de Cloudflare.
+2. Elimine todas las zonas (dominios) de su panel.
+3. Haga clic en el enlace de asistencia.
+4. Envíe un nuevo ticket. Diles que quieres cerrar tu cuenta.
+5. Espere varios días.
+6. El personal de Cloudflare le pedirá su confirmación y la razón por la que decidió dejar Cloudflare.
+7. Envía una respuesta de nuevo.
+8. Espere varios días.
+9. Recibirá un mensaje: Hemos eliminado su cuenta con éxito
+
+
 </details>
 
 ---
 
-## Aliaj informoj
+## Otra información
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -294,6 +315,7 @@ Recibirá este correo electrónico de confirmación.
 
 
 ---
+
 
 ## Continúe en la página siguiente:   [Voces de Cloudflare](../PEOPLE.md)
 

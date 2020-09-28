@@ -143,6 +143,11 @@ Ketimpangan akses ini merupakan penyalahgunaan netralitas jaringan dan penyalahg
 
 - QuteBrowser (browser kecil) tanpa Tor (Clearnet IP)
 
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
+
 | ***Browser*** | ***Akses pengobatan*** |
 | --- | --- |
 | Tor Browser (Javascript diaktifkan) | akses diizinkan |
@@ -203,7 +208,7 @@ Menggunakan platform non-cloudflared lainnya seperti OpenPetition membantu mempe
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - "Proyek Athena" Cloudflare menawarkan perlindungan tingkat perusahaan gratis untuk situs web pemilihan negara bagian dan lokal.
-Mereka mengatakan "konstituen mereka dapat mengakses informasi pemilu dan pendaftaran pemilih" tetapi ini bohong karena banyak orang tidak dapat menjelajahi situs sama sekali.
+Mereka mengatakan "konstituen mereka dapat mengakses informasi pemilu dan pendaftaran pemilih" tetapi ini bohong karena banyak orang tidak bisa menjelajahi situs sama sekali.
 
 </details>
 
@@ -255,6 +260,8 @@ Kebijakan privasi baru mereka tidak menyebutkan penyimpanan data selama setahun.
 
 Bagaimana Anda bisa mempercayai Cloudflare jika kebijakan privasi mereka adalah KEBOHONGAN?
 
+- [Lebih dari setahun berlalu sejak saya membatalkan akun Cloudflare saya](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -282,11 +289,25 @@ Anda akan menerima email konfirmasi ini.
 
 Bisakah Anda "mempercayai" ini?
 
+
+- Cara membatalkan akun Cloudflare Anda
+
+1. Masuk ke dasbor Cloudflare Anda.
+2. Hapus semua zona (domain) dari dasbor Anda.
+3. Klik tautan dukungan.
+4. Kirim tiket baru. Beri tahu mereka bahwa Anda ingin menutup akun Anda.
+5. Tunggu beberapa hari.
+6. Staf Cloudflare akan meminta konfirmasi Anda dan alasan mengapa Anda memutuskan untuk meninggalkan Cloudflare.
+7. Kirim balasan lagi.
+8. Tunggu beberapa hari.
+9. Anda akan mendapatkan pesan: Kami telah berhasil menghapus akun Anda
+
+
 </details>
 
 ---
 
-## Aliaj informoj
+## Informasi lainnya
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -294,6 +315,7 @@ Bisakah Anda "mempercayai" ini?
 
 
 ---
+
 
 ## Silakan lanjutkan ke halaman berikutnya:   [Suara Cloudflare](../PEOPLE.md)
 
