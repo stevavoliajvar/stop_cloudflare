@@ -110,7 +110,7 @@ CloudFlare要求慈善捐款。
 
 
 如果您的站点突然关闭，该怎么办？
-有报道称，Cloudflare正在默默地删除用户的配置或在没有任何警告的情况下停止服务。
+有报道称，Cloudflare正在无提示地删除用户的配置或停止服务而没有任何警告。
 我们建议您找到更好的提供商。
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
@@ -126,7 +126,7 @@ CloudFlare要求慈善捐款。
 </summary>
 
 
-CloudFlare为使用Firefox的用户提供了优先待遇，同时对非Tor浏览器的用户提供了与Tor相比的敌对待遇。
+CloudFlare为使用Firefox的用户提供了优先待遇，同时对非Tor浏览器的用户提供了对Tor的敌对待遇。
 有权拒绝执行非免费javascript的Tor用户也将受到敌对待遇。
 这种访问不平等是网络中立性滥用和权力滥用。
 
@@ -142,6 +142,11 @@ CloudFlare为使用Firefox的用户提供了优先待遇，同时对非Tor浏览
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser（小型浏览器），不带Tor（Clearnet IP）
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+
+- Lynx
+
 
 | ***浏览器*** | ***接诊*** |
 | --- | --- |
@@ -181,7 +186,7 @@ CloudFlare为使用Firefox的用户提供了优先待遇，同时对非Tor浏览
 
 美国各州的选民最终通过居住国的国务卿网站注册投票。
 由共和党控制的州务卿办公室通过Cloudflare代理州务卿的网站来压制选民。
-Cloudflare对Tor用户的敌视态度，其MITM作为全球集中监视点的位置以及其不利的总体作用使准选民不愿登记。
+Cloudflare对Tor用户的敌视态度，其MITM作为全球集中监视点的位置以及其不利的整体作用，使准选民不愿登记。
 自由主义者尤其倾向于拥抱隐私。
 选民登记表收集有关选民的政治倾向，个人实际住址，社会安全号码和出生日期的敏感信息。
 大多数州只公开提供这些信息的一部分，但是当有人进行投票时，Cloudflare会看到所有这些信息。
@@ -203,7 +208,7 @@ Cloudflare对Tor用户的敌视态度，其MITM作为全球集中监视点的位
 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare的“雅典计划”为州和地方选举网站提供免费的企业级保护。
-他们说“他们的选民可以访问选举信息和选民登记表”，但这是一个谎言，因为许多人根本无法浏览该网站。
+他们说“他们的选民可以访问选举信息和选民登记表”，但这是一个谎言，因为很多人根本无法浏览该网站。
 
 </details>
 
@@ -255,6 +260,8 @@ Cloudflare不了解“删除”一词。
 
 如果Cloudflare的隐私政策是LIE，您如何信任他们？
 
+- [自从我取消Cloudflare帐户以来已经过去了一年](https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/)
+
 </details>
 
 ---
@@ -282,11 +289,25 @@ Cloudflare不了解“删除”一词。
 
 您可以“信任”这个吗？
 
+
+- 如何取消您的Cloudflare帐户
+
+1. 登录到您的Cloudflare仪表板。
+2. 从信息中心删除所有区域（域）。
+3. 点击支持链接。
+4. 发送新票。告诉他们您要关闭帐户。
+5. 等几天
+6. Cloudflare员工会要求您确认，以及决定离开Cloudflare的原因。
+7. 再次发送回复。
+8. 等几天
+9. 您将收到一条消息：我们已成功删除您的帐户
+
+
 </details>
 
 ---
 
-## Aliaj informoj
+## 其他资讯
 
 - Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
@@ -294,6 +315,7 @@ Cloudflare不了解“删除”一词。
 
 
 ---
+
 
 ## 请继续下一页:   [Cloudflare声音](../PEOPLE.md)
 
