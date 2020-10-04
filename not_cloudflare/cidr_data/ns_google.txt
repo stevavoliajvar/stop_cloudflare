@@ -22,6 +22,10 @@ ns-cloud-f1.googledomains.com
 ns-cloud-f2.googledomains.com
 ns-cloud-f3.googledomains.com
 ns-cloud-f4.googledomains.com
+ns-cloud-g1.googledomains.com
+ns-cloud-g2.googledomains.com
+ns-cloud-g3.googledomains.com
+ns-cloud-g4.googledomains.com
 ns-cloud1.googledomains.com
 ns-cloud2.googledomains.com
 ns-cloud3.googledomains.com
