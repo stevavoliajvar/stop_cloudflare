@@ -440,6 +440,14 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- After enabling the Cloudflare's APO, I had a robot warning and a captcha when accessing the website as a user (tested in different devices). ([saberespractico](https://twitter.com/saberespractico/status/1312713570182889475))
+- Cloudflare, yes. On desktop, I have to solve a captcha once or twice a day and as of today I'm not able to reach the site on mobile both on WiFi and mobile data. It's an unending loop. ([julespetrikov](https://twitter.com/JulesPetrikov/status/1312511999624925186))
+- Hi. This impossible to validate Cloudflare captcha .. Ten or more attempts and none is valid please verify. ([carlosg20778002](https://twitter.com/CarlosG20778002/status/1312105101826252800))
+- I would kill that useless CloudFlare captcha, hate it, especially on mobile. ([monasterymen](https://twitter.com/monasterymen/status/1311657495786647552))
+- having cloudflare pop captcha at you for accessing something over tor is just a big fuck-off though. these people are going to fail at ipv6 ([tripcodeuser](https://twitter.com/tripcodeuser/status/1310992192404586496))
+- No idea it it's related (correlation is not causation) but quite a few UHS facilities throw up a Cloudflare captcha before letting you in, which I doesn't look like business as usual. ([richbartlett](https://twitter.com/RichBartlett/status/1310597412659105792))
+- Network Solutions could give them a run for their money. Though something is definitely up with Register's cloudflare connection. All kinds of Error 522 today. ([mywebmaestro](https://twitter.com/MyWebMaestro/status/1311742531886108672))
+- Are there problems with the askamanager website. I get a CloudFlare ERROR 522 ([stevenmartin](https://twitter.com/stevenmartin/status/1311322864075726848))
 - if they use Cloudflare they can at least apply captcha challenge for these regions. ([davidgasparian](https://twitter.com/davidgasparian/status/1310133756968263681))
 - Making your "protection" captcha incompatible with TOR is about the most asinine thing you can do, Cloudfail ([cloakedship](https://twitter.com/cloakedship/status/1309956529035116544))
 - Just tried to pass a captcha on a site served by Cloudflare and failed. 5 times. Starting to doubt my own humanity a bit here. ([tkadlec](https://twitter.com/tkadlec/status/1309526136947343362))
