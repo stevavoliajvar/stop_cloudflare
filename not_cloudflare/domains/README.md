@@ -16,14 +16,12 @@
 
 - Kombinita rezulto de _Kontraŭ-Tor uzantoj_ kaj _CDN uzantoj_.
 - Ni ne povas provizi rezulton Z1 kaj Z5 pro memora limo.
-- Cloudflare faris escepton de _Tor Retumilo_. Cloudflare blokos vin se vi uzas [alian retumilon](../../readme/eo.ethics.md#user-content-diskriminacio-pri-vendisto-de-retumiloj) kun Tor.
 
 [//]: # (start; table / do not edit me; If necessary please create an issue first)
 
 | CDN-Kodo<br>CDN Code | Nomo<br>Name | % de bazaj domajnoj estas blokitaj<br>% of base domains blocked |
 | -------- | -------- | -------- |
 | Z2 | Akamai | 46.111 % |
-| Z3 | Cloudflare | 2.585 % |
 | Z4 | Imperva | 4.729 % |
 | Z6 | Microsoft | 3.739 % |
 | Z7 | INAP | 2.091 % |
@@ -45,4 +43,3 @@
 
 - Combined result of _Anti-Tor users_ and _CDN users_.
 - We cannot provide Z1/Z5 result due to memory limit.
-- Cloudflare made an exception to _Tor Browser_. You will be blocked by Cloudflare if you use [other browser](../../README.md) with Tor.
