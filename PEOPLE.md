@@ -175,6 +175,8 @@ Half of the internet relying on a single entity is dangerous.
 </summary>
 
 
+- [Tor connectiong being MITMED by Cloudflare](https://www.reddit.com/r/tails/comments/ip0gg6/tor_connectiong_being_mitmed_by_cloudflare/)
+- [Cloudflare now controls a large portion of the internet with it's MiTM-style DDOS protection.](https://www.reddit.com/r/privacy/comments/iddxb2/are_we_seriously_going_to_live_in_a_googleowned/)
 - [Cloudflare fail - a dry run to closing down the internet?](https://www.reddit.com/r/conspiracyNOPOL/comments/ijk28z/cloudflare_fail_a_dry_run_to_closing_down_the/)
 - [Dozens of Websites, Apps Go Down in Major Cloudflare Outage](https://www.reddit.com/user/joshwho/comments/ijkfqv/dozens_of_websites_apps_go_down_in_major/)
 - [For everyone who needs drivers during the MSI website downtime.](https://www.reddit.com/r/MSI_Gaming/comments/iji1pk/for_everyone_who_needs_drivers_during_the_msi/)
@@ -339,6 +341,9 @@ Half of the internet relying on a single entity is dangerous.
 </summary>
 
 
+- [problem with cloudfare protect](https://github.com/HDoujinDownloader/HDoujin-Downloader/issues/5)
+- [Htmlunit Cloudflare](https://github.com/HtmlUnit/htmlunit/issues/249)
+- [Stop using CDNs](https://github.com/sio2project/oioioi/issues/44)
 - [Blocked as a result of the Cloudflare's anti-DDoS challenge.](https://github.com/Jackett/Jackett/issues/9352#issuecomment-674549970)
 - [npm audit returns a cloudflare captcha page](https://github.com/npm/cli/issues/1741)
 - [Check field values e.g. Issuer against RegEx and change badge colour](https://github.com/jannispinter/indicatetls/issues/48)
