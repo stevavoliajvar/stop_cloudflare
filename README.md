@@ -9,4 +9,6 @@
 
 - [Permesilo / License](LICENSE.md)
 
-<a rel="me" href="https://activism.openworlds.info/@sunny"></a>
+---
+
+<a rel="me" href="https://activism.openworlds.info/@sunny">🌤</a>
