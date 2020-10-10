@@ -8,7 +8,7 @@
 
 ### _zz_.md's translation is horrible. How can I fix this?
 
-Please do not edit _zz_.md directly. It may be overwritten.
+**Please** do not edit _zz_.md directly. It may be overwritten.
 
 (_zz_ is not "en" nor "eo")
 
@@ -42,7 +42,8 @@ You can send edited "tab" files to us, or submit it to upstream.
 If you help us, more people around the world who speaks your language can learn about the problems of CloudFlare.
 
 
-### Can I add my name to translation file as "credit"?
+### Can I add my name/link/cat pic to translation file as "credit"?
 
 Sure. Tell us about it when creating a pull request.
   - e.g `zz by Your_Name, Other_EditName`
+  - e.g `zz by [Your_Name](https://myblog.example/)`
