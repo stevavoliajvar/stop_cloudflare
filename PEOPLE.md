@@ -445,6 +445,20 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- The site is not available at all, servers are down, 15 minutes ago only a cloudflare captcha was responding, now not even that. ETA on restoring functionalities? I had big auctions set for today, this has happened before, no IT division? ([sebimihaila](https://twitter.com/SebiMihaila/status/1314187047771541505))
+- I can’t access your website. Keep getting a Cloudflare landing page and after verifying through captcha, design pages never load. Extremely frustrated. ([imdavidraymond](https://twitter.com/ImDavidRaymond/status/1313677725543129088))
+- Fuck these captchas. Keep getting them on cloudflare and 4chan threads all the same. What happened to the simple: "Please type two scrambled strings" captcha. ([bishoujonews](https://twitter.com/BishoujoNEWS/status/1313261767980650499))
+- guys cant seems to reset my password. the captcha isn't working, keep sending me back to the form. Please help ([rezvie](https://twitter.com/rezvie/status/1312815995455709187))
+- Cant order - I’m getting a cloudflare error ([dav_htch](https://twitter.com/dav_htch/status/1315437071503372293))
+- Fck Error 1020 Ray ID: 5e0c20379f27a644 • 2020-10-11 22:47:57 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 5e0c20379f27a644 Your IP: xxx Performance & security by Cloudflare ([marzmerco](https://twitter.com/MarzMerco/status/1315424241941204995))
+- Are you OK? I’m getting nothing but Cloudflare error pages when I try to login to my account or support chat ([lisadsmith](https://twitter.com/LisaDSmith/status/1315096147686559745))
+- Receiving an error when registering for this event. ([khakibrands](https://twitter.com/KhakiBrands/status/1314688386230226944))
+- For some reason there is a 1020 Cloudflare error today when I try to visit the website. Weird... Also inconvenient! ([cryptodelicious](https://twitter.com/cryptodelicious/status/1314604734687346689))
+- Anyone use Cloudflare for their website? I changed over my DNS after signing up and now my websites all show nothing but an error. ([angelaingeneral](https://twitter.com/AngelaInGeneral/status/1314250025753432065))
+- this is my first time experiencing this. i know they already went down before but did cloudflare throw an error like this back then? ([signomaeo](https://twitter.com/SignoMaeo/status/1313821964373381122))
+- YEAH. I AM READING A GOOD MANHWA AND IT SUDDENLY SHOWED UP SOME CLOUDFLARE ERROR. ([lemenope12](https://twitter.com/lemenope12/status/1313818363424993280))
+- "Error 520 occurs when the origin server returns an empty, unknown, or unexpected response to Cloudflare" - Bascially, they can't 'keep it up'. Not surprised. ([elementalistly](https://twitter.com/Elementalistly/status/1313534997429616641))
+- I have been trying to vote in the next donation of Credo, but the does not let me vote (error 1020 access denied). I changed device and even IP, no luck ([mohibakh](https://twitter.com/mohibakh/status/1313417906395451399))
 - After enabling the Cloudflare's APO, I had a robot warning and a captcha when accessing the website as a user (tested in different devices). ([saberespractico](https://twitter.com/saberespractico/status/1312713570182889475))
 - Cloudflare, yes. On desktop, I have to solve a captcha once or twice a day and as of today I'm not able to reach the site on mobile both on WiFi and mobile data. It's an unending loop. ([julespetrikov](https://twitter.com/JulesPetrikov/status/1312511999624925186))
 - Hi. This impossible to validate Cloudflare captcha .. Ten or more attempts and none is valid please verify. ([carlosg20778002](https://twitter.com/CarlosG20778002/status/1312105101826252800))
