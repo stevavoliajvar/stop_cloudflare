@@ -12,8 +12,8 @@
 
 |  🖹  |  🖼 |
 | --- | --- |
-|  “The Great Cloudwall” är Cloudflare Inc., det amerikanska företaget.Det tillhandahåller CDN-tjänster (innehållsleveransnätverk), DDoS-begränsning, internetsäkerhet och distribuerade DNS-tjänster (domännamnserver).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
-|  Cloudflare är världens största MITM-proxy (omvänd proxy).Cloudflare äger mer än 80% av CDN: s marknadsandel och antalet användare av cloudflare växer varje dag.De har utökat sitt nätverk till mer än 100 länder.Cloudflare tjänar mer webbtrafik än Twitter, Amazon, Apple, Instagram, Bing & Wikipedia tillsammans.Cloudflare erbjuder gratis plan och många använder det istället för att konfigurera sina servrar korrekt.De handlade integritet över bekvämlighet.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg)  |
+|  “The Great Cloudwall” är Cloudflare Inc., ett amerikanskt företag. Det tillhandahåller CDN-tjänster (innehållsleveransnätverk), DDoS-begränsning, internetsäkerhet och distribuerade DNS-tjänster (domännamnserver).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
+|  Cloudflare är världens största MITM-proxy (omvänd proxy). Cloudflare äger mer än åttio procent av CDN:s marknadsandel och antalet användare av cloudflare växer varje dag. De har utökat sitt nätverk till mer än hundra länder. Cloudflare betjänar mer webbtrafik än Twitter, Amazon, Apple, Instagram, Bing och Wikipedia tillsammans. Cloudflare erbjuder gratis plan och många använder det istället för att konfigurera sina servrar korrekt. De  integritet över bekvämlighet.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg)  |
 |  Cloudflare sitter mellan dig och ursprungswebbserver och agerar som en gränspatruljeagent.Du kan inte ansluta till din valda destination.Du ansluter till Cloudflare och all din information dekrypteras och överlämnas i farten. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/border_patrol.jpg)  |
 |  Ursprungens webbserveradministratör tillät agenten - Cloudflare - att bestämma vem som kan komma åt sin "webbegendom" och definiera "begränsat område".  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/usershoulddecide.jpg)  |
 |  Titta på rätt bild.Du kommer att tro att Cloudflare endast blockerar dåliga killar.Du kommer att tro att Cloudflare alltid är online (gå aldrig ner).Du tror att legitima bots och sökrobotar kan indexera din webbplats.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howcfwork.jpg)  |
@@ -179,3 +179,6 @@ Vi frågar aldrig dina sociala medier.**
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)
+
+
+[//]: # (not override/imported @prograde)
