@@ -3,7 +3,7 @@
 
 [//]: # (do not edit me; start)
 
-## *6,700,361* domajnoj
+## *6,708,695* domajnoj
 
 [//]: # (do not edit me; end)
 
