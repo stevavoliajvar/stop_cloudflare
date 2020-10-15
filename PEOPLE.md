@@ -2,7 +2,8 @@
 
 
 - This is a list of voices. Thank you for sharing your opinion.
-  - Disclaimer: This _does not_ mean we endorse you.
+- **Disclaimer**: This page contains external links to third party websites. These sites are subject to the liability of the respective website operators.
+
 
 | 🖼 | 🖼 |
 | --- | --- |
@@ -85,7 +86,7 @@ Half of the internet relying on a single entity is dangerous.
 - [Internet security CEO explained why his company exposed people to harassment, and suggested they should've used fake names](https://web.archive.org/web/20171024040313/http://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5), [Julie Bort](http://www.businessinsider.com/author/julie-bort)
 - [Cloudflare CEO Terminates Neo-Nazi Site After 'Waking Up in a Bad Mood'](https://www.zerohedge.com/news/2017-08-17/cloudflare-ceo-terminates-neo-nazi-site-after-waking-bad-mood), [The_Real_Fly](https://www.zerohedge.com/users/therealfly)
 - [Cloudflare CEO on Terminating Service to Neo-Nazi Site: 'The Daily Stormer Are Assholes'](https://gizmodo.com/cloudflare-ceo-on-terminating-service-to-neo-nazi-site-1797915295), [Kate Conger](https://kinja.com/conger)
-- [The invasion boards that set out to ruin lives](https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html), [Jay Allen](https://boingboing.net/author/amaninblack)
+- [The invasion boards that set out to ruin lives](https://web.archive.org/web/https://boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html), [Jay Allen](https://boingboing.net/author/amaninblack)
 - [How One Major Internet Company Helps Serve Up Hate on the Web](https://web.archive.org/web/20190512152916/https://www.propublica.org/article/how-cloudflare-helps-serve-up-hate-on-the-web), [Ken Schwencke](https://web.archive.org/web/20190512152916/https://www.propublica.org/people/ken-schwencke)
 - [Zaradi hrošča iz Cloudflara več mesecev curljalo](https://slo-tech.com/novice/t694836/p5445996), [Slo-Tech](https://slo-tech.com/)
 - [CDN企業Cloudflareのバグで、多数のサービスで機密データ流出の可能性](https://www.itmedia.co.jp/news/articles/1702/25/news024.html), [佐藤由紀子](https://www.itmedia.co.jp/news/)
@@ -146,19 +147,19 @@ Half of the internet relying on a single entity is dangerous.
 - [CloudFlareよサヨナラ！ WordPressの表示速度が改善するプラグイン「Photon」](https://rentalhomepage.com/photon/), [ENJILOG](https://rentalhomepage.com/)
 - [CloudFlareの解除と「Phonton」の導入方法](http://kyoheixxx.com/cloudflare-phonton-5058), [kyohei](http://kyoheixxx.com/)
 - [Cloudflare: The “Now You See Me, Now You Don’t” of the Internet](http://copyright.nova.edu/cloudflare/)
-- [The CloudFlare Leak and the Problem of Centralized Authentication](https://www.iovation.com/blog/the-cloudflare-leak-and-the-problem-of-centralized-authentication), [iovation Inc.](https://www.iovation.com/)
+- [The CloudFlare Leak and the Problem of Centralized Authentication](https://web.archive.org/web/https://www.iovation.com/blog/the-cloudflare-leak-and-the-problem-of-centralized-authentication), [iovation Inc.](https://www.iovation.com/)
 - [CloudFlare is ruining the internet (for me)](https://www.slashgeek.net/2016/05/17/cloudflare-is-ruining-the-internet-for-me/), [slashgeek](https://www.slashgeek.net/)
 - [MITM-as-a-Service: The Threat Surface We Didn’t Know We Had](http://daveshackleford.com/?p=1134), [Shack](twitter.com/daveshackleford/)
 - [Journal CloudFlare au milieu](https://linuxfr.org/users/thibg/journaux/cloudflare-au-milieu), [ThibG](https://linuxfr.org/)
 - [why you shouldn’t use Cloudflare](https://tech.tiq.cc/2016/01/why-you-shouldnt-use-cloudflare/), [tiq](https://tech.tiq.cc/)
 - [DNSサーバー「1.1.1.1」が利用できない障害発生中（2018年4月22日）](https://web.archive.org/web/20190815152042/https://did2memo.net/2018/04/22/dns-1-1-1-1-failure-2018-04-22/), [did2](https://twitter.com/did2memo)
 - [The CloudFlare MITM](https://web.archive.org/web/20160311163431/https://blog.paymium.com/2014/02/19/the-cloudflare-mitm/), [David FRANCOIS](https://blog.paymium.com/)
-- [Allergique à Cloudflare ? Voici comment vous soigner…](https://korben.info/cloudflare-mitm.html), [KORBEN](https://korben.info/)
+- [Allergique à Cloudflare ? Voici comment vous soigner…](https://web.archive.org/web/https://korben.info/cloudflare-mitm.html), [KORBEN](https://korben.info/)
 - [CloudFlare, We Have A Problem](http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/), [joepie91](http://cryto.net/~joepie91/)
 - [CloudFlare blocked 94% of Tor requests](http://en.android4e.com/?p=1263)
 - [On Cloudflare](https://www.tyil.nl/post/2017/12/17/on-cloudflare/), [tyil](https://www.tyil.nl/)
 - [What Is Cloudflare, and Did It Really Leak My Data All Over the Internet?](https://www.howtogeek.com/295677/WHAT-IS-CLOUDFLARE-AND-DID-IT-REALLY-LEAK-MY-DATA-ALL-OVER-THE-INTERNET/)
-- [Why CloudFlare Is Probably A Honeypot](https://cypherpunk.is/2015/04/02/why-cloudflare-is-probably-a-honeypot/), [cypherpunk](https://cypherpunk.is/)
+- [Why CloudFlare Is Probably A Honeypot](https://web.archive.org/web/https://cypherpunk.is/2015/04/02/why-cloudflare-is-probably-a-honeypot/), [cypherpunk](https://cypherpunk.is/)
 - [iSucker: Big Brother Internet Culture](https://exiledonline.com/isucker-big-brother-internet-culture/), [The Exiled](https://exiledonline.com/)
 - [CloudFlare Watch](http://cryptome.org/2012/07/cloudflare-watch.htm), Daniel Brandt
 - [The Trouble with CloudFlare](https://blog.torproject.org/trouble-cloudflare), [mikeperry](https://blog.torproject.org/users/mikeperry)
