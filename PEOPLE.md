@@ -446,6 +446,14 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Cloudflare just invites me to complete another Captcha, and your website spins unresponsively. I don't normally talk bad but this is incompetence of the highest order. ([cavalier17cod](https://twitter.com/Cavalier17COD/status/1316529676005695488))
+- your captchas are not loading, websites just endlessly attempt to load your captcha, preventing access to the website. Fix your shit. ([vaelys_au](https://twitter.com/Vaelys_au/status/1316357219298861059))
+- It would be nice to be able to access your site, but Cloudflare is denying me access, despite doing the captcha tick box and photo recognition thing several times. Security so tough, that no one can access your site?! ([luutamusic](https://twitter.com/LuutaMusic/status/1315765809277435906))
+- Maintenance? The web server reported a bad gateway error. Ray ID: 5e2644b29cb2f5df Your IP address: 177.51.146.238 Error reference number: 502 Cloudflare Location: São Paulo ([maxmag981](https://twitter.com/maxmag981/status/1316573747655176192))
+- I got an error message for that. "There is an unknown connection issue between Cloudflare and insanity. As a result, the web page can not be displayed." Note: It's definitely "insanity" and not "insanitary" ([fauxmole](https://twitter.com/FauxMole/status/1316087885624414208))
+- 500 ERROR Connection timed out The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed. You seem to be having a problem. ([speakcamera](https://twitter.com/Speakcamera/status/1315939581821296640))
+- problem with access: Error 1020 Ray ID: 5e13dd320c102c5a • 2020-10-12 21:20:18 UTC Access denied What happened? This website is using a security service to protect itself from online attacks Cloudflare Ray ID: 5e13dd320c102c5a • Your IP: 2.99.5.196 ([pasqdek](https://twitter.com/pasqdek/status/1315764997956554753))
+- Your website login is down? I get a cloudflare error. ([pump_eet](https://twitter.com/PUMP_EET/status/1315481610175873026))
 - The site is not available at all, servers are down, 15 minutes ago only a cloudflare captcha was responding, now not even that. ETA on restoring functionalities? I had big auctions set for today, this has happened before, no IT division? ([sebimihaila](https://twitter.com/SebiMihaila/status/1314187047771541505))
 - I can’t access your website. Keep getting a Cloudflare landing page and after verifying through captcha, design pages never load. Extremely frustrated. ([imdavidraymond](https://twitter.com/ImDavidRaymond/status/1313677725543129088))
 - Fuck these captchas. Keep getting them on cloudflare and 4chan threads all the same. What happened to the simple: "Please type two scrambled strings" captcha. ([bishoujonews](https://twitter.com/BishoujoNEWS/status/1313261767980650499))
