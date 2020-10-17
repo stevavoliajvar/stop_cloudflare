@@ -446,6 +446,7 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Error 1020 Ray ID: 5e3340f0dfbe08b8 • 2020-10-16 16:46:02 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 5e3340f0dfbe08b8 • Your IP: 181.31.114.151 • Performance & security by Cloudflare ([cordobes28](https://twitter.com/cordobes28/status/1317145113152323585))
 - Cloudflare just invites me to complete another Captcha, and your website spins unresponsively. I don't normally talk bad but this is incompetence of the highest order. ([cavalier17cod](https://twitter.com/Cavalier17COD/status/1316529676005695488))
 - your captchas are not loading, websites just endlessly attempt to load your captcha, preventing access to the website. Fix your shit. ([vaelys_au](https://twitter.com/Vaelys_au/status/1316357219298861059))
 - It would be nice to be able to access your site, but Cloudflare is denying me access, despite doing the captcha tick box and photo recognition thing several times. Security so tough, that no one can access your site?! ([luutamusic](https://twitter.com/LuutaMusic/status/1315765809277435906))
