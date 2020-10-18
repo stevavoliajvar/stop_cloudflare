@@ -10,7 +10,7 @@
 - [Permesilo / License](LICENSE.md)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;[![](image/icon.rss.jpg)](https://activism.openworlds.info/@sunny.rss)
-&nbsp;&nbsp;&nbsp;&nbsp;[![](image/icon.toot.jpg)](https://activism.openworlds.info/@sunny)
+&nbsp;&nbsp;&nbsp;&nbsp;[![](image/icon.rss.jpg)](https://en.wikipedia.org/wiki/Internet_censorship#Censorship_of_users_by_web_service_operators)
+&nbsp;&nbsp;&nbsp;&nbsp;[![](image/icon.toot.jpg)](https://en.wikipedia.org/wiki/Internet_censorship#Censorship_of_users_by_web_service_operators)
 
-<a rel="me" href="https://activism.openworlds.info/@sunny"></a>
+<a rel="me" href="https://fuck.mastodon.services/@sunny"></a>
