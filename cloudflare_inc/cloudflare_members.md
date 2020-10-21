@@ -2,6 +2,8 @@
 
 
 
+## Founder, Director
+
 | Name | Title | Else |
 | --- | --- | --- |
 | Matthew Prince | CEO | https://twitter.com/eastdakota<br>matthew@cloudflare.com |
@@ -15,6 +17,8 @@
 | Katrin Suder | Partner |  |
 
 
+
+## Employee
 
 | Name | Title | Else |
 | --- | --- | --- |
@@ -320,7 +324,7 @@
 | Daniel Stinson-Diess | Security Engineer |  |
 | Daniel Weidman | Engineering Manager |  |
 | Daniel Wesonga | Customer Development |  |
-| Daniella Vallurupalli | Communications |  |
+| Daniella Vallurupalli | Communications | daniella@cloudflare.com |
 | Danielle Vanzura | Employee |  |
 | Dao Quang Minh | Employee |  |
 | Darwin D. Wu | Employee |  |
@@ -411,8 +415,7 @@
 | Erin Walk | Policy Analyst |  |
 | Etienne Labaume | Support Engineer |  |
 | Eva Hoyer | Head of Supply Chain |  |
-| Evan J Johnson | e@ejj.io https://twitter.com/ejcx_ |  |
-| Evan J. Johnson | Systems Engineer |  |
+| Evan J Johnson | Security Engineer | evan@cloudflare.com<br>e@ejj.io<br>https://twitter.com/ejcx_<br>https://ejj.io/<br>https://github.com/ejcx |
 | Ewa Klepaczewska | Employee |  |
 | Fabienne Semeria | Systems Engineer |  |
 | Fai Varinthorn | Singapore |  |
@@ -579,7 +582,7 @@
 | Jennifer Taylor | Head of Product |  |
 | Jenny Dee Brecheisen | Brand Designer |  |
 | Jensen Hussey | Web Developer |  |
-| Jensen Kuras | Programmer | https:/twitter.com/jensechu<br>jensen@cloudflare.com |
+| Jensen Kuras | Programmer | https:/twitter.com/jensechu<br>jensen@cloudflare.com<br>https://www.instagram.com/accounts/sin.jen/ |
 | Jeppe Toustrup | Systems Reliability Engineer |  |
 | Jeremy Bernick | Intern |  |
 | Jeremy L. Pugh | Employee |  |
@@ -609,7 +612,7 @@
 | Joaquin Madruga | Engineering Director |  |
 | Jocelyn Woolbright | Policy Analyst |  |
 | Jodie Holland | Security and Performance |  |
-| Joe (Joseph Edmund) Sullivan | Chief Security Officer, "Joseph Sullivan" https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice |  |
+| Joe (Joseph Edmund) Sullivan | Chief Security Officer | "Joseph Sullivan"<br>https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice |
 | Joe Astroth | Enterprise Sales |  |
 | Joe Mocquant | Software Engineer |  |
 | Joery Van Druten | Marketing |  |
@@ -618,7 +621,7 @@
 | John B. Roberts | Platform Lead |  |
 | John Bauer | Systems Engineer |  |
 | John Esterline | Technical Support Engineer |  |
-| John Fawcett | Systems Engineer | +1-469-387-5077<br>jrf0110@gmail.com<br>5336<br>Krueger<br>Ln.<br>Austin,<br>TX,<br>78723 |
+| John Fawcett | Systems Engineer | +1-469-387-5077<br>jrf0110@gmail.com<br>5336 Krueger Ln. Austin, TX, 78723 |
 | John Graham-Cumming | Chief Technology Officer | https://twitter.com/jgrahamc<br>https://jgc.org/<br>jgc@cloudflare.com |
 | John Kaden | General Manager, Public Sector |  |
 | John Terzis | Systems Engineer |  |
@@ -665,7 +668,7 @@
 | Julien Desgats | Systems Engineer |  |
 | Julio Pescador | Sales Operations |  |
 | Junade Ali | Engineer | https://twitter.com/icyapril<br>mjsa@junade.com<br>https://www.junade.com/ |
-| Junho Choi | https://www.twitter.com/junhochoi |  |
+| Junho Choi | Protocol Team | https://www.twitter.com/junhochoi<br>Previously co-founder of Neumob, CTO of CDNetworks, Web Data Bank<br>https://www.saturnsoft.net/<br>https://github.com/junhochoi<br>junho@cloudflare.com |
 | Junyi Lim | Customer Development |  |
 | Justin Fong | Marketing Manager |  |
 | Justin Paine | Director of Trust & Safety | https://twitter.com/xxdesmus<br>https://www.linkedin.com/in/justinpaine<br>justin@cloudflare.com<br>https://www.reddit.com/user/xxdesmus |
@@ -680,7 +683,7 @@
 | Karim Dik | Employee |  |
 | Karl Ehr | Head of Technical Operations |  |
 | Karl Henrik Smith | Business Development |  |
-| Kas Perch | Developer | https://twitter.com/nodebotanist<br>twitch.tv/nodebotanist |
+| Kas Perch | Developer | https://twitter.com/nodebotanist<br>https://twitch.tv/nodebotanist |
 | Kassian (Kas) Perch | Developer, Austin |  |
 | Kat Valentine | Compliance Manager |  |
 | Kate Delaney | Operations Engineer |  |
@@ -1287,7 +1290,7 @@
 | Yevgen Safronov | Web Engineer |  |
 | Yien Wu | Relationship Manager |  |
 | Young Park | Employee |  |
-| Yuchen Wu | Systems Engineer | yuchenw@cs.cmu.edu<br>5000<br>Forbes<br>Ave,<br>Pittsburgh,<br>USA,<br>15213 |
+| Yuchen Wu | Systems Engineer | yuchenw@cs.cmu.edu<br>5000 Forbes Ave, Pittsburgh, USA, 15213 |
 | Yun Ting Tan | Business Development |  |
 | Yunfei Luo (Adam) | Channel Account Manager |  |
 | Yuri Takano | Business Development, Singapore |  |
