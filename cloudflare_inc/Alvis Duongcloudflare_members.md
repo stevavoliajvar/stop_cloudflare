@@ -7,12 +7,12 @@
 | Name | Title | Else |
 | --- | --- | --- |
 | Matthew Prince | CEO | https://twitter.com/eastdakota<br>matthew@cloudflare.com |
-| Michelle Zatlyn | founder | https://twitter.com/zatlyn |
+| Michelle Zatlyn | founder | https://twitter.com/zatlyn<br>https://www.linkedin.com/in/michellezatlyn |
 | Lee Holloway | founder | https://twitter.com/icqheretic |
 | Mark Anderson | Partner |  |
-| Maria Eitel | Partner |  |
+| Maria Eitel | Partner | https://www.linkedin.com/in/maria-eitel-78baa868 |
 | Carl Ledbetter | Pelion Venture Partners |  |
-| Stan Meresman | Partner |  |
+| Stan Meresman | Partner | https://www.linkedin.com/in/stanmeresman<br>stan@meresman.com<br>http://meresman.com/ |
 | Scott Sandell | New Enterprise Associates |  |
 | Katrin Suder | Partner |  |
 
@@ -94,7 +94,7 @@
 | Alvin Khor | ASEAN Sales Lead |  |
 | Alvin Lin | Growth Marketing Manager |  |
 | Alvin Tai | Enterprise Sales |  |
-| Alvis Duong | alvisduong@gmail.com |  |
+| Alvis Duong | Employee | alvisduong@gmail.com<br>https://www.linkedin.com/in/alvisduong |
 | Amin Fawzi | Business Development |  |
 | Amir Tahsini | Customer Development |  |
 | Amit Lift | Business Development |  |
@@ -1317,3 +1317,7 @@
 Alex Vidal | https://twitter.com/aviddy<br>Austin, TX<br>alexvidal@khanacademy.org | 
 Tim Strazzere | https://twitter.com/timstrazz<br>https://rednaga.io/ | 
 Yichun Zhang (章亦春) | https://twitter.com/agentzh<br>agentzh@gmail.com<br>yichun@openresty.com | 
+
+
+
+- old data: [The Gang at CloudFlare: aiding and abetting cybercriminals](http://www.crimeflare.org:82/cfgang.html)
