@@ -31,7 +31,7 @@
 | cloudflare_owned_NS.txt     | Name Server owned by Cloudflare    |
 | cloudflare_owned_domains.txt     | Domains owned by Cloudflare     |
 | cloudflare_owned_onions.txt     | Tor .onions owned by Cloudflare     |
-| cloudflare_members.txt | Cloudflare employer & employee |
+| cloudflare_members.md | Cloudflare employer, employee, ex-employee |
 
 
 **How to detect Cloudflare?**
