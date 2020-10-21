@@ -42,7 +42,7 @@ There are many ways to detect it:
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
 - Use "Is MITM?" webpage. [Clearnet](https://crimeflare.eu.org/ss/tool_ismitm.php) / [Tor](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)
-- Search [cloudflare domain list](cloudflare_users/). Karma's ["Find Cloudflare Domains" API](http://zkyo47fhjhfstn3a2bnaj3ir5rcv7f6vo3cuktpjpiw2mxfjqakqipyd.onion/a/is_cf.php)
+- Search [cloudflare domain list](cloudflare_users/domain/). Karma's ["Find Cloudflare Domains" API](http://zkyo47fhjhfstn3a2bnaj3ir5rcv7f6vo3cuktpjpiw2mxfjqakqipyd.onion/a/is_cf.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
@@ -160,6 +160,7 @@ This is a collection of websites that ban Tor exits, other than through Cloudfla
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 - Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
+- Search [anti-tor fqdn list](anti-tor_users/fqdn/). Karma's ["Find Anti-Tor FQDN" API](http://zkyo47fhjhfstn3a2bnaj3ir5rcv7f6vo3cuktpjpiw2mxfjqakqipyd.onion/a/is_at.php)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/tor_nontor_diff.jpg)
 
