@@ -210,8 +210,8 @@
 | Brady Gentile | Product Marketing |  |
 | Brandon Crowe | Enterprise Account Executive |  |
 | Brandon Huang | Business Development |  |
-| Brandon Nelson | Employee |  |
-| Brendan McMillion | Engineer | brendanmcmillion@gmail.com |
+| Brandon Nelson | Employee | https://github.com/bnelz |
+| Brendan McMillion | Engineer | brendan@cloudflare.com<br>brendanmcmillion@gmail.com<br>https://github.com/Bren2010<br>https://blog.bren2010.io/<br>https://twitter.com/BrenTwentyTen |
 | Brent Coco | Trainer |  |
 | Brett Erilane | Operations Engineer |  |
 | Brett Hoerner | Systems Engineer |  |
