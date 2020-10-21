@@ -806,7 +806,7 @@
 | Marina Harper | HR Administrator |  |
 | Marina Jeon | Demand Generation Specialist |  |
 | Mark Garfield | VP of Finance |  |
-| Mark Pashmfouroush | mark@markpash.me |  |
+| Mark Pashmfouroush | System Engineer | mark@markpash.me<br>https://stackoverflow.com/users/5111029/mark-pashmfouroush<br>https://github.com/MarkPash<br>https://bio.markpash.me/<br>https://keybase.io/markpash |
 | Mark Steyn | Front End Engineer |  |
 | Marshall Alexander | Platform Operations |  |
 | Marshall Crockett | Employee |  |
