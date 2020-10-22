@@ -446,6 +446,10 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Hey playasia, your captcha is broke. I can't login from brave browser. Even when I complete the captcha flawlessly it still makes me do more. Get rid of fucking captcha and get cloudflare production like a fucking normal website. ([tenshi_feather](https://twitter.com/tenshi_feather/status/1318560858826510336))
+- Could you take a look at the question I posted earlier? I'm unable to access the official ScanComputers Website, getting an error code 1020 from Cloudflare (Access denied) Is that due to my location (Japan)? Works neither on pc nor on my smartphone, after passing the captcha. ([kbuddaeus](https://twitter.com/KBuddaeus/status/1318549680226242562))
+- Can't login due to api/v4/memberships?status=accepted returning 500 Internal Error. Tested on two different machines with Brave and Edge. ([uaktags](https://twitter.com/uaktags/status/1318179553953677312))
+- Website seems to be down this morning: Error 522 Ray ID: 5e4ab6223d922598 • 2020-10-19 13:05:35 UTC Cloudflare is up but not the site. ([sj3vans](https://twitter.com/sj3vans/status/1318176927325343745))
 - What makes you think it's load related? Correlation? I can't get past it any more, while the actual site load error (cloudflare) no longer appears, so to me it looks ux related, not load ([bitfalls](https://twitter.com/bitfalls/status/1317380134421385216))
 - Error 1020 Ray ID: 5e3340f0dfbe08b8 • 2020-10-16 16:46:02 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 5e3340f0dfbe08b8 • Your IP: 181.31.114.151 • Performance & security by Cloudflare ([cordobes28](https://twitter.com/cordobes28/status/1317145113152323585))
 - Cloudflare just invites me to complete another Captcha, and your website spins unresponsively. I don't normally talk bad but this is incompetence of the highest order. ([cavalier17cod](https://twitter.com/Cavalier17COD/status/1316529676005695488))
