@@ -1,3 +1,4 @@
+https://activism.openworlds.info/
 https://chaos.social/@davidak
 https://codeberg.org/davidak
 https://davidak.de/
@@ -48,6 +49,7 @@ https://github.com/vladimiry
 https://github.com/wolfbeast
 https://github.com/x5engine
 https://github.com/yegortimoshenko
+https://ieji.de/
 https://infosec.exchange/@slh
 https://lobste.rs/u/quad
 https://mastodon.xyz/@Liberapay
@@ -58,6 +60,7 @@ https://opencollective.com/jadewang
 https://opencollective.com/junade
 https://opencollective.com/mabin
 https://openprivacy.ca/  (see https://codeberg.org/crimeflare/cloudflare-tor/issues/1#issuecomment-57325 )
+https://resistance.social/
 https://social.avareborn.de/@nipos
 https://social.privacytools.io/@BurungHantu
 https://social.tchncs.de/@wallichii
@@ -596,6 +599,7 @@ https://twitter.com/DT_TUBER
 https://twitter.com/DUY95908464
 https://twitter.com/DVaugh16
 https://twitter.com/D_Atkin
+https://twitter.com/D_urban_boy
 https://twitter.com/DaRedUmbrella
 https://twitter.com/DadSavage42
 https://twitter.com/Daily39629305
@@ -1476,6 +1480,7 @@ https://twitter.com/MdMamun987
 https://twitter.com/MdNababuddin
 https://twitter.com/MeFarhanazeemi
 https://twitter.com/MeHMeTBeSiKTaS
+https://twitter.com/MeaxisDev
 https://twitter.com/Mech_Rogue
 https://twitter.com/MeerutReporter
 https://twitter.com/MeghalayaMagazi
@@ -1581,6 +1586,7 @@ https://twitter.com/MusaBiceer
 https://twitter.com/MustafaHeidary
 https://twitter.com/Mustafa_F_N
 https://twitter.com/Mustafa_N84
+https://twitter.com/MutConsulting
 https://twitter.com/MwUNepM1pN7JqV0
 https://twitter.com/My44304254
 https://twitter.com/MyEJones
@@ -2734,6 +2740,7 @@ https://twitter.com/ankitdangi22
 https://twitter.com/anthony08pham
 https://twitter.com/anthonylomb
 https://twitter.com/anthonyrogersg1
+https://twitter.com/anton_mcclure
 https://twitter.com/antonand03
 https://twitter.com/antonburnette
 https://twitter.com/antonioripa
@@ -3035,6 +3042,7 @@ https://twitter.com/cliffxchen
 https://twitter.com/clipub
 https://twitter.com/clocksoftsol
 https://twitter.com/cloudbart
+https://twitter.com/cloudnetuy
 https://twitter.com/cmalbari
 https://twitter.com/cmontoro
 https://twitter.com/cmsv20
@@ -3058,6 +3066,7 @@ https://twitter.com/contactskysate
 https://twitter.com/contentpartner
 https://twitter.com/conversadeguri
 https://twitter.com/cou_sa
+https://twitter.com/coverzoid
 https://twitter.com/cowsock727
 https://twitter.com/cpdrenato
 https://twitter.com/cpsnow
@@ -4722,6 +4731,8 @@ https://twitter.com/poltavets
 https://twitter.com/pombeiro
 https://twitter.com/positivedustin
 https://twitter.com/power_mex
+https://twitter.com/powerhousevid
+https://twitter.com/ppragnesh2
 https://twitter.com/pradip_nalwaya
 https://twitter.com/praetorax
 https://twitter.com/prasetyochairul
@@ -5390,6 +5401,7 @@ https://twitter.com/unitymix
 https://twitter.com/unlimapps
 https://twitter.com/unsuccesssss
 https://twitter.com/updatedreviews
+https://twitter.com/upx09
 https://twitter.com/uqif1FkyKu1NGPY
 https://twitter.com/uramoty
 https://twitter.com/urbankiwi
@@ -5647,6 +5659,3 @@ https://www.reddit.com/user/grahamperrin
 https://www.reddit.com/user/rediii123
 https://www.reddit.com/user/zaarn_
 https://www.torproject.org/  (see HISTORY.md)
-https://ieji.de/
-https://activism.openworlds.info/
-https://resistance.social/
