@@ -446,6 +446,18 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Cloudflare is asking me to perform a Captcha when trying to load the database. Any ideas? ([jasonhunter](https://twitter.com/jasonhunter/status/1317928614965301248))
+- Your captcha system works really bad. Not only is it getting really confused, but sometimes I fill it TWENTY TIMES and it still won't let me in ([flashgorgone](https://twitter.com/FlashGorgone/status/1317542706323853312))
+- nz election results page keeps giving me cloudflare probably because i'm overseas but gosh the captcha is difficult ([itemic](https://twitter.com/itemic/status/1317443269005959168))
+- Does cloudflare not block Tor nodes? Last time I tried to use Tor I was not able to access any content, every site was throwing captcha's ([lekanovic1](https://twitter.com/lekanovic1/status/1313414356437274624))
+- Hey I keep getting a error. " Error 1020 Ray ID: 5e65962698f396aa • 2020-10-22 19:22:20 UTC Access denied" I would like to go to the forums again. ([sundancerge](https://twitter.com/SunDancerGE/status/1319358620576907266))
+- Any idea when you will be back up and running. Keep on getting a error ([iu20techdir](https://twitter.com/IU20TechDir/status/1319043416030875649))
+- What are my options if a customer of yours added me to an e-mail list (spamming me) and the unsubscribe link is returning a server error and not working? ([leebennett](https://twitter.com/leebennett/status/1318961864525623297))
+- You do not see Cloudflare error status in screenshot? ([medvidekpu](https://twitter.com/Medvidekpu/status/1318944222033170434))
+- this isn't discord's error message. the overlay is showing cloudflare's error message which shows your IP. you should try letting cloudflare know instead. ([zapteryx](https://twitter.com/zapteryx/status/1318695269303681024))
+- Hey can you pls tell why this voting link is showing this kind of error ⬇️⬇️👇👇 Error 1020 Ray ID: 5e539b8afa25072a •2020-10-20 15:00:17 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ([_btsstanner](https://twitter.com/_btsstanner/status/1318568476412276736))
+- my discord is being very fucking weird, is it just me? it's tossing me like a cloudflare error ([aethertides](https://twitter.com/aethertides/status/1318273596872138762))
+- your site down? getting ERROR 524 and 520 reported by your CDN (cloudflare) when logging in? ([thatsnonsense](https://twitter.com/thatsnonsense/status/1317823984604426244))
 - Hey playasia, your captcha is broke. I can't login from brave browser. Even when I complete the captcha flawlessly it still makes me do more. Get rid of fucking captcha and get cloudflare production like a fucking normal website. ([tenshi_feather](https://twitter.com/tenshi_feather/status/1318560858826510336))
 - Could you take a look at the question I posted earlier? I'm unable to access the official ScanComputers Website, getting an error code 1020 from Cloudflare (Access denied) Is that due to my location (Japan)? Works neither on pc nor on my smartphone, after passing the captcha. ([kbuddaeus](https://twitter.com/KBuddaeus/status/1318549680226242562))
 - Can't login due to api/v4/memberships?status=accepted returning 500 Internal Error. Tested on two different machines with Brave and Edge. ([uaktags](https://twitter.com/uaktags/status/1318179553953677312))
