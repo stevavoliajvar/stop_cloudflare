@@ -446,6 +446,7 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Gitlab seems to be down. Bad gateway The web server reported a bad gateway error. Ray ID: 5e6bae565f8e562f Your IP address: 73.211.114.147 Error reference number: 502 Cloudflare Location: Chicago Please see our status page for more information. ([techgeek2](https://twitter.com/techgeek2/status/1319626729397358592))
 - Cloudflare is asking me to perform a Captcha when trying to load the database. Any ideas? ([jasonhunter](https://twitter.com/jasonhunter/status/1317928614965301248))
 - Your captcha system works really bad. Not only is it getting really confused, but sometimes I fill it TWENTY TIMES and it still won't let me in ([flashgorgone](https://twitter.com/FlashGorgone/status/1317542706323853312))
 - nz election results page keeps giving me cloudflare probably because i'm overseas but gosh the captcha is difficult ([itemic](https://twitter.com/itemic/status/1317443269005959168))
