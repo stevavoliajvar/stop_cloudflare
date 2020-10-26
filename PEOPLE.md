@@ -446,6 +446,10 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- so is now using for their website. now we don't get the reproduction values from nowcasting data unless we solve a captcha. never use for critical infrastructure. ([yetzt](https://twitter.com/yetzt/status/1320316067256950791))
+- Oi, you fuckwits, if you're going to try and insist on making me captcha every site you secure, just because I'm using a vpn, all it means is that I'm not going to be visiting most of those sites any longer. Cut that shit out. ([t_artifacts](https://twitter.com/T_Artifacts/status/1320010343142191104))
+- I figured that was the case when I saw the Cloudflare error page. I’ve just been spoiled by Netlify’s instantaneous domain setup 😅 Awesome work though! Looking forward to seeing what’s coming! ([chrismtse](https://twitter.com/ChrisMTse/status/1320041466316656642))
+- down again? receiving 503 error (a few minutes ago, it was bad gateway error, Cloudflare Location: Istanbul) ([burebaruta](https://twitter.com/burebaruta/status/1319932002385186817))
 - Gitlab seems to be down. Bad gateway The web server reported a bad gateway error. Ray ID: 5e6bae565f8e562f Your IP address: 73.211.114.147 Error reference number: 502 Cloudflare Location: Chicago Please see our status page for more information. ([techgeek2](https://twitter.com/techgeek2/status/1319626729397358592))
 - Cloudflare is asking me to perform a Captcha when trying to load the database. Any ideas? ([jasonhunter](https://twitter.com/jasonhunter/status/1317928614965301248))
 - Your captcha system works really bad. Not only is it getting really confused, but sometimes I fill it TWENTY TIMES and it still won't let me in ([flashgorgone](https://twitter.com/FlashGorgone/status/1317542706323853312))
