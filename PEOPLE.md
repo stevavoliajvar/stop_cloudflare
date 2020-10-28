@@ -446,6 +446,7 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- I can´t use the dashboard, gives a cloudflare error. ([home3d](https://twitter.com/home3d/status/1321231391879811074))
 - Your Cloudflare setup has a problem. I tried to access your website today from Taiwan with 2 different networks, and both time the access was denied "error 1015 - you are being rate limited, the owner of this website temporarily banned you" ([jklepatch](https://twitter.com/jklepatch/status/1320725426000392192))
 - yep seems most customers unable to log in with a connection timed out error. Connection on 'cloudflare' of course no feedback. Great for doing business as month end looms ([gilliandawson12](https://twitter.com/GillianDawson12/status/1320645971844435969))
 - so is now using for their website. now we don't get the reproduction values from nowcasting data unless we solve a captcha. never use for critical infrastructure. ([yetzt](https://twitter.com/yetzt/status/1320316067256950791))
