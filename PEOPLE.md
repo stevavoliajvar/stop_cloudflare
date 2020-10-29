@@ -446,6 +446,8 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Hi Paul, for maybe a month or so I’ve been unable to access jshowbiz and it just says access denied (error 1020). For what it’s worth my Cloudflare Ray ID is 5e95daebfba810b1. I’ve been using your site daily for years and would like to keep doing it but I can’t :/ ([eyeneedless](https://twitter.com/eyeneedless/status/1321482606094012417))
+- Error 1020 Ray ID: 5e95975dda2ac286 • 2020-10-28 15:11:46 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 5e95975dda2ac286 Your IP: 188.57.123.51 Performance & security by Cloudflare ([drshelleylbeer1](https://twitter.com/DrShelleyLBeer1/status/1321469797062901762))
 - I can´t use the dashboard, gives a cloudflare error. ([home3d](https://twitter.com/home3d/status/1321231391879811074))
 - Your Cloudflare setup has a problem. I tried to access your website today from Taiwan with 2 different networks, and both time the access was denied "error 1015 - you are being rate limited, the owner of this website temporarily banned you" ([jklepatch](https://twitter.com/jklepatch/status/1320725426000392192))
 - yep seems most customers unable to log in with a connection timed out error. Connection on 'cloudflare' of course no feedback. Great for doing business as month end looms ([gilliandawson12](https://twitter.com/GillianDawson12/status/1320645971844435969))
