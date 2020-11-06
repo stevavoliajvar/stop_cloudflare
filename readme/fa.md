@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # ابر بزرگ
 
 
@@ -179,3 +181,5 @@ Crimeflare درباره وجود حساب های جعلی که جعل هویت �
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)
+
+</div>
