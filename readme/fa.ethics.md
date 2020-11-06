@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # مسائل اخلاقی
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
@@ -299,3 +301,5 @@ Cloudflare در مورد کلمه "حذف" اطلاعی نداشت.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+
+</div>
