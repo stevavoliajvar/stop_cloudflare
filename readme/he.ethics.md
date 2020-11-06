@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # בעיות אתיות
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
@@ -299,3 +301,5 @@ Cloudflare לא ידע על המילה "הסר".
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+
+</div>
