@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # السحاب العظيم
 
 
@@ -179,3 +181,5 @@
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)
+
+</div>

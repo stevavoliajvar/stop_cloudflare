@@ -1,3 +1,8 @@
+Bonvolu rigardi. Se vi havas sugeston, bonvolu rakonti al ni pri ĝi.
+
+<details>
+<summary> &#128273; </summary>
+
 ```
 -----BEGIN PGP PRIVATE KEY BLOCK-----
 
@@ -105,3 +110,4 @@ Aw==
 =m8wt
 -----END PGP PRIVATE KEY BLOCK-----
 ```
+</details>

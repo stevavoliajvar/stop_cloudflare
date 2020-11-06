@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # הענן הגדול
 
 
@@ -179,3 +181,5 @@ Crimeflare יודע על קיומם של חשבונות מזויפים המתח�
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)
+
+</div>
