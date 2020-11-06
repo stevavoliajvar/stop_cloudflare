@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # قضايا أخلاقية
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
@@ -299,3 +301,5 @@ Cloudflare رقابة المراجعات السلبية.
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+
+</div>
