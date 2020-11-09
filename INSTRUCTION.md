@@ -94,7 +94,6 @@ Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.t
 
 | List name | Description |
 | -------- | -------- |
-| /domain/zcdn_(CDN_Code).txt     | Split files (FQDN)     |
 | /cidr_data/?.txt     |  CIDR, ASN, NS    |
 
 ```
@@ -118,26 +117,7 @@ Z9 Fastly
 
 - Above is how Siteground-hosted([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
 
-
-```
-
-About "CDN FQDN list"
-
-www.example.com
-   ---> www.example.com is using CDN.
-
-?.akamaiedge.net
-   ---> subdomain of akamaiedge.net is using CDN.
-   * unique hostname will be masked as "?" for privacy reason
-
-senate.gov
-   ---> base domain is using CDN.
-
-```
-
-Some websites combine other companies _with_ the Cloudflare business model.
-
-This is a collection of websites that ban Tor exits, other than through Cloudflare(e.g. showing access denied pages, systematic timing out connections, ...).
+Some websites combine other companies (e.g. Amazon AWS, Google Cloud) _with_ the Cloudflare business model.
 
 </details>
 
@@ -228,13 +208,11 @@ A or B will be enough. Thank you for your contribution.
 
 > Type B: Just scan the FQDN
 
-- Cloudflare/CDN
+- Cloudflare
   - Scan FQDN on "[Is MITM?](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
   - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
   - Or: Use "_MITM test_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)ismitm.php?f=www.emsisoft.com`
-  - Or: Use "_Detect CDN_" API.
-    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)is_zcdn.php?f=www.cloudflare.com`
 - Anti-TOR
   - Use "_Is it blocking Tor?_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)is_antitor.php?f=www.cloudflare.com`
