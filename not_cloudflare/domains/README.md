@@ -1,18 +1,10 @@
-# FQDN-listo de CDN-uzantoj [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_zc.php)
-
-
-[//]: # (do not edit me; start)
-
-## *5,917,744* FQDN
-
-[//]: # (do not edit me; end)
-
+# FQDN-listo de CDN-uzantoj
 
 - Dateno pri Cloudflare (kodo "Z3"): [/cloudflare_users/domains](../../cloudflare_users/domains)
 - Bonvolu vidi [INSTRUCTION.md](../../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
 
 
-# Malamikeco kontraŭ Tor (Tor Browser)
+# Malamikeco kontraŭ Tor (Tor Browser) [2020]
 
 - Kombinita rezulto de _Kontraŭ-Tor uzantoj_ kaj _CDN uzantoj_.
 - Ni ne povas provizi rezulton Z1 kaj Z5 pro memora limo.
@@ -39,7 +31,6 @@
 - Cloudflare data (code "Z3"): [/cloudflare_users/domains](../../cloudflare_users/domains)
 - See [INSTRUCTION.md](../../INSTRUCTION.md) for file purpose and format specifications.
 
-# Hostility against Tor (Tor Browser)
+# Hostility against Tor (Tor Browser) [2020]
 
 - Combined result of _Anti-Tor users_ and _CDN users_.
-- We cannot provide Z1/Z5 result due to memory limit.
