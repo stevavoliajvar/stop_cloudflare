@@ -120,7 +120,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 
 * [Leggi la voce di altri utenti e scrivi i tuoi pensieri.](../PEOPLE.md)
 
-* Cerca qualcosa: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Cerca qualcosa: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
 
 * Aggiorna l'elenco dei domini: [Elenca le istruzioni](../INSTRUCTION.md).
 
