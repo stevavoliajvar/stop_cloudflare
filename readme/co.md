@@ -120,7 +120,7 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
 
 * [Leghjite a voce di l'altru utente è scrive u vostru pensamentu.](../PEOPLE.md)
 
-* Cerca qualcosa: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Cerca qualcosa: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
 
 * Aghjurnà a lista di domini: [Elencu istruzzioni](../INSTRUCTION.md).
 
