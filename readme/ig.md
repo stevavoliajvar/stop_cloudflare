@@ -120,7 +120,7 @@ Ebe a bụ ndepụta nke weebụsaịtị dị n'azụ "The Great Cloudwall", na
 
 * [Guo olu onye oru ndi ozo ma dee echiche gi.](../PEOPLE.md)
 
-* Chọọ ihe: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Chọọ ihe: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
 
 * Melite ngalaba ndepụta: [Ntuziaka ndepụta](../INSTRUCTION.md).
 
