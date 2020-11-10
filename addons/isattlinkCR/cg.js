@@ -1,10 +1,27 @@
 document.addEventListener('DOMContentLoaded', () => {
-	chrome.storage.local.get(['ign1', 'obs', 'dbg', 'alt', 'mul', 'opd'], g => {
+	chrome.storage.local.get(['ign1', 'obs', 'dbg', 'alt', 'mul', 'opd', 'cep'], g => {
 		document.getElementById('ign1').checked = (g.ign1 == 'y') ? true : false;
 		document.getElementById('obs').checked = (g.obs == 'y') ? true : false;
 		document.getElementById('alt').checked = (g.alt == 'y') ? true : false;
 		document.getElementById('opon').checked = (g.opd != 'n') ? true : false;
 		document.getElementById('opoff').checked = (g.opd == 'n') ? true : false;
+		switch (g.cep) {
+			case '1':
+				document.getElementById('ut0').checked = false;
+				document.getElementById('ut1').checked = true;
+				document.getElementById('ut2').checked = false;
+				break;
+			case '2':
+				document.getElementById('ut0').checked = false;
+				document.getElementById('ut1').checked = false;
+				document.getElementById('ut2').checked = true;
+				break;
+			default:
+				document.getElementById('ut0').checked = true;
+				document.getElementById('ut1').checked = false;
+				document.getElementById('ut2').checked = false;
+				break;
+		}
 		let ul = g.mul || 'eo';
 		fetch('i18n/' + ul + '.json', {
 			method: 'GET'
@@ -52,6 +69,21 @@ document.getElementById('opoff').addEventListener('click', () => {
 });
 document.getElementById('crs').addEventListener('click', () => {
 	chrome.runtime.sendMessage('clear', () => {
+		location.reload();
+	});
+});
+document.getElementById('ut0').addEventListener('click', () => {
+	chrome.runtime.sendMessage('urltype,0', () => {
+		location.reload();
+	});
+});
+document.getElementById('ut1').addEventListener('click', () => {
+	chrome.runtime.sendMessage('urltype,1', () => {
+		location.reload();
+	});
+});
+document.getElementById('ut2').addEventListener('click', () => {
+	chrome.runtime.sendMessage('urltype,2', () => {
 		location.reload();
 	});
 });
