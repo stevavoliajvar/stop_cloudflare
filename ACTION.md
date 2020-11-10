@@ -113,9 +113,9 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 | Name | Developer | Support | Can Block | Can Notify | support Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Crimeflare #Addon | [Link](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/), [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | **Yes**     | **Yes**     |  **Yes** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Crimeflare #Addon | [Link](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/), [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | No     | **Yes**     |  **Yes** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | Crimeflare #Addon | [Link](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/), [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | No     | **Yes**     |  **Yes** |
+| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Crimeflare #Addon | [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | **Yes**     | **Yes**     |  **Yes** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Crimeflare #Addon | [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | No     | **Yes**     |  **Yes** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | Crimeflare #Addon | [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | No     | **Yes**     |  **Yes** |
 | [<s>Block Cloudflare MITM Attack</s>](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [Link](https://github.com/nym-zone/block_cloudflare_mitm_fx), [Link](https://codeberg.org/crimeflare/cloudflare-tor/issues) | **Yes**     | **Yes**     |  No |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [Link](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Yes**     | **Yes**     |  No |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |  No |
