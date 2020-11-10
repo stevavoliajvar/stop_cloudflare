@@ -120,7 +120,7 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "The Great Cloudwa
 
 * [Vakio ny feon'ny mpampiasa hafa ary soraty ny hevitrao.](../PEOPLE.md)
 
-* Mikaroka zavatra iray: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Mikaroka zavatra iray: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
 
 * Hanavao ny lisitry ny sehatra: [Tanisao torolàlana](../INSTRUCTION.md).
 
