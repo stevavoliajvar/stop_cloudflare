@@ -120,7 +120,7 @@ O lenei fale teu oloa o se lisi o uepisaite o loʻo i tua o le "The Great Cloudw
 
 * [Faitau le isi leo faʻaaoga ma tusi ou manatu.](../PEOPLE.md)
 
-* Saili se mea: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Saili se mea: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
 
 * Faafou le lisi lisi: [Lisi faatonuga](../INSTRUCTION.md).
 
