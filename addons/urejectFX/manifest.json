@@ -2,8 +2,8 @@
    "manifest_version": 2,
    "name": "Kiu retejo malakceptis min?",
    "description": "Via retejo malakceptis min, sed mi scias ke mi fartos bone.",
-   "version": "1.0.4",
-   "homepage_url": "https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/",
+   "version": "1.0.4.1",
+   "homepage_url": "https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/",
    "author": "Crimeflare",
    "permissions": [
       "storage",
@@ -33,7 +33,7 @@
       "gecko": {
          "id": "urejectme@searxes.eu.org",
          "strict_min_version": "68.0",
-         "update_url": "https://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/addon.php?for=ureject"
+         "update_url": "https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/addon.php?for=ureject"
       }
    }
 }
