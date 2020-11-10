@@ -209,7 +209,7 @@ A or B will be enough. Thank you for your contribution.
 > Type B: Just scan the FQDN
 
 - Cloudflare
-  - Scan FQDN on "[Is MITM?](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
+  - Scan FQDN on "[Is MITM?](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_ismitm.php)" webpage.
   - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
   - Or: Use "_MITM test_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)ismitm.php?f=www.emsisoft.com`
@@ -218,7 +218,7 @@ A or B will be enough. Thank you for your contribution.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)is_antitor.php?f=www.cloudflare.com`
   - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
 
-Public API Details [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/#!op=info/api)
+Public API Details [ℹ](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/#!op=info/api)
 <br>
 Your contribution will be pushed to Codeberg automatically within a week.
 
@@ -334,7 +334,7 @@ cf-ray: XXXXXXXXXXX-YYY
 If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)" - after checking `example.com` with online tool below.
 
 
-1. Open "[Is MITM?](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
+1. Open "`Is MITM?`" webpage.
 
 2. Input `gitlab.com` and click `Scan`.
 
