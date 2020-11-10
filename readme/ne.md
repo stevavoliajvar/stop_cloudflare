@@ -120,7 +120,7 @@
 
 * [अन्य प्रयोगकर्ताको आवाज पढ्नुहोस् र आफ्नो विचार लेख्नुहोस्।](../PEOPLE.md)
 
-* केहि खोज्नुहोस्: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
+* केहि खोज्नुहोस्: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
 
 * डोमेन सूची अपडेट गर्नुहोस्: [सूची निर्देशनहरू](../INSTRUCTION.md).
 
