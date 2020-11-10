@@ -2,7 +2,7 @@ let history = {};
 chrome.webRequest.onResponseStarted.addListener(i => {
 	if ([403, 406, 410, 429, 451, 462].includes(i.statusCode)) {
 		let iFQDN = (new URL(i.url)).hostname;
-		if (['crimeflare.eu.org', 'ansero.eu.org', 'crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion', 'ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion'].includes(iFQDN)) {
+		if (['crimeflare.eu.org', 'ansero.eu.org', 'cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion', 'ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion'].includes(iFQDN)) {
 			return;
 		}
 		let iServer = '?';
