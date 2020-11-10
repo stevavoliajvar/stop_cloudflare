@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-	browser.storage.local.get(['ign1', 'ign2', 'obs', 'dbg', 'alt', 'mul', 'opd']).then(g => {
+	browser.storage.local.get(['ign1', 'ign2', 'obs', 'dbg', 'alt', 'mul', 'opd', 'cep']).then(g => {
 		document.getElementById('ign1').checked = (g.ign1 == 'y') ? true : false;
 		document.getElementById('ign2').checked = (g.ign2 == 'y') ? true : false;
 		document.getElementById('obs').checked = (g.obs == 'y') ? true : false;
@@ -8,6 +8,23 @@ document.addEventListener('DOMContentLoaded', () => {
 		document.getElementById('opon').checked = (g.opd != 'n' && g.opd != 'l') ? true : false;
 		document.getElementById('opoff').checked = (g.opd == 'n') ? true : false;
 		document.getElementById('opol').checked = (g.opd == 'l') ? true : false;
+		switch (g.cep) {
+			case '1':
+				document.getElementById('ut0').checked = false;
+				document.getElementById('ut1').checked = true;
+				document.getElementById('ut2').checked = false;
+				break;
+			case '2':
+				document.getElementById('ut0').checked = false;
+				document.getElementById('ut1').checked = false;
+				document.getElementById('ut2').checked = true;
+				break;
+			default:
+				document.getElementById('ut0').checked = true;
+				document.getElementById('ut1').checked = false;
+				document.getElementById('ut2').checked = false;
+				break;
+		}
 		let ul = g.mul || 'eo';
 		fetch('i18n/' + ul + '.json', {
 			method: 'GET'
@@ -70,6 +87,21 @@ document.getElementById('opol').addEventListener('click', () => {
 });
 document.getElementById('crs').addEventListener('click', () => {
 	browser.runtime.sendMessage('clear').then(() => {
+		location.reload();
+	});
+});
+document.getElementById('ut0').addEventListener('click', () => {
+	browser.runtime.sendMessage('urltype,0').then(() => {
+		location.reload();
+	});
+});
+document.getElementById('ut1').addEventListener('click', () => {
+	browser.runtime.sendMessage('urltype,1').then(() => {
+		location.reload();
+	});
+});
+document.getElementById('ut2').addEventListener('click', () => {
+	browser.runtime.sendMessage('urltype,2').then(() => {
 		location.reload();
 	});
 });
