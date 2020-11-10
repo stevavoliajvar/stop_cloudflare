@@ -120,7 +120,7 @@ Kho lưu trữ này là danh sách các trang web đứng sau "Bức tường m�
 
 * [Đọc giọng nói của người dùng khác và viết suy nghĩ của bạn.](../PEOPLE.md)
 
-* Tìm kiếm thứ gì đó: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Tìm kiếm thứ gì đó: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
 
 * Cập nhật danh sách miền: [Liệt kê hướng dẫn](../INSTRUCTION.md).
 

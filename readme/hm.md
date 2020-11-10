@@ -120,7 +120,7 @@ Qhov chaw cia no yog ib daim ntawv teev npe ntawm lub vev xaib uas nyob tom qab 
 
 * [Nyeem lwm tus neeg siv lub suab thiab sau koj qhov kev xav.](../PEOPLE.md)
 
-* Tshawb nrhiav qee yam: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Tshawb nrhiav qee yam: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
 
 * Hloov kho cov npe sau: [Sau cov lus qhia](../INSTRUCTION.md).
 

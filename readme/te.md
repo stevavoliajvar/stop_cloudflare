@@ -120,7 +120,7 @@
 
 * [ఇతర వినియోగదారు గొంతు చదవండి మరియు మీ ఆలోచనలను రాయండి.](../PEOPLE.md)
 
-* ఏదైనా శోధించండి: [Ansero](https://ansero.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/) ([clearnet](https://crimeflare.eu.org/))
+* ఏదైనా శోధించండి: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
 
 * డొమైన్ జాబితాను నవీకరించండి: [సూచనలను జాబితా చేయండి](../INSTRUCTION.md).
 
