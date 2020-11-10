@@ -2,31 +2,7 @@ let localUse = false,
 	localDB = [],
 	timr, memcache = {},
 	forcePurge = false,
-	apiurl = 'http://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/is_antitor.php';
-/*
-chrome.storage.local.get(['cep'], g => {
-	if (g.cep == 'y') {
-		apiurl = 'http://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/is_antitor.php';
-	} else {
-		if (g.cep != 'n') {
-			chrome.storage.local.set({
-				'cep': 'n'
-			});
-			fetch('http://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/ok.php', {
-				method: 'GET',
-				mode: 'cors'
-			}).then(r => r.text()).then(r => {
-				if (r == 'ok') {
-					apiurl = 'http://api.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/_/is_antitor.php';
-					chrome.storage.local.set({
-						'cep': 'y'
-					});
-				}
-			}).catch(() => {});
-		}
-	}
-});
-*/
+	apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_antitor.php';
 function is_hostile(f) {
 	if (localUse) {
 		return new Promise((g, b) => {
@@ -96,7 +72,7 @@ function forget_cache() {
 			'alt': (g.alt == 'y' ? 'y' : 'n')
 		});
 		chrome.storage.local.set({
-			'cep': (g.cep == 'y' ? 'y' : 'n')
+			'cep': (g.cep != undefined ? g.cep : '2')
 		});
 		chrome.storage.local.set({
 			'mul': (g.mul != undefined ? g.mul : 'eo')
@@ -119,9 +95,20 @@ function forget_cache() {
 		forget_cache();
 	}, 1814400000);
 }
-chrome.storage.local.get(['lastU', 'lastV', 'ldb', 'opd'], g => {
+chrome.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep'], g => {
 	localUse = (g.opd == 'n') ? true : false;
 	localDB = JSON.parse(g.ldb || '[]');
+	switch (g.cep) {
+		case '1':
+			apiurl = 'https://api.crimeflare.eu.org/_/is_antitor.php';
+			break;
+		case '2':
+			apiurl = 'http://avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/a/is_at.php';
+			break;
+		default:
+			apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_antitor.php';
+			break;
+	}
 	if (g.lastU) {
 		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1814400) {
 			chrome.storage.local.get(['ign1', 'obs', 'dbg', 'alt', 'cep', 'mul', 'opd', 'ldb'], g => {
@@ -140,7 +127,7 @@ chrome.storage.local.get(['lastU', 'lastV', 'ldb', 'opd'], g => {
 					'alt': (g.alt == 'y' ? 'y' : 'n')
 				});
 				chrome.storage.local.set({
-					'cep': (g.cep == 'y' ? 'y' : 'n')
+					'cep': (g.cep != undefined ? g.cep : '2')
 				});
 				chrome.storage.local.set({
 					'mul': (g.mul != undefined ? g.mul : 'eo')
@@ -179,7 +166,7 @@ chrome.storage.local.get(['lastU', 'lastV', 'ldb', 'opd'], g => {
 				'alt': (g.alt == 'y' ? 'y' : 'n')
 			});
 			chrome.storage.local.set({
-				'cep': (g.cep == 'y' ? 'y' : 'n')
+				'cep': (g.cep != undefined ? g.cep : '2')
 			});
 			chrome.storage.local.set({
 				'mul': (g.mul != undefined ? g.mul : 'eo')
@@ -232,6 +219,29 @@ chrome.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 					chrome.storage.local.get(['ldb'], (g) => {
 						localDB = JSON.parse(g.ldb || '[]');
 					});
+					break;
+			}
+			return;
+		}
+		if (requests.indexOf('urltype,') === 0) {
+			switch (requests) {
+				case 'urltype,0':
+					chrome.storage.local.set({
+						'cep': '0'
+					});
+					apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_antitor.php';
+					break;
+				case 'urltype,1':
+					chrome.storage.local.set({
+						'cep': '1'
+					});
+					apiurl = 'https://api.crimeflare.eu.org/_/is_antitor.php';
+					break;
+				case 'urltype,2':
+					chrome.storage.local.set({
+						'cep': '2'
+					});
+					apiurl = 'http://avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/a/is_at.php';
 					break;
 			}
 			return;
