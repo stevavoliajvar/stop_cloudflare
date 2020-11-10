@@ -41,7 +41,7 @@ There are many ways to detect it:
 - Add-on "[Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md)" will help your Cloudflare collection.
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
-- Use "Is MITM?" webpage. [Clearnet](https://crimeflare.eu.org/ss/tool_ismitm.php) / [Tor](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)
+- Use "Is MITM?" webpage. [Clearnet](https://crimeflare.eu.org/ss/tool_ismitm.php) / [Tor](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_ismitm.php)
 - Search [cloudflare domain list](cloudflare_users/domain/). Karma's ["Find Cloudflare Domains" API](http://zkyo47fhjhfstn3a2bnaj3ir5rcv7f6vo3cuktpjpiw2mxfjqakqipyd.onion/a/is_cf.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
@@ -209,7 +209,7 @@ A or B will be enough. Thank you for your contribution.
 > Type B: Just scan the FQDN
 
 - Cloudflare
-  - Scan FQDN on "[Is MITM?](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
+  - Scan FQDN on "[Is MITM?](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_ismitm.php)" webpage.
   - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
   - Or: Use "_MITM test_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)ismitm.php?f=www.emsisoft.com`
@@ -218,7 +218,7 @@ A or B will be enough. Thank you for your contribution.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)is_antitor.php?f=www.cloudflare.com`
   - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
 
-Public API Details [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/#!op=info/api)
+Public API Details [ℹ](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/#!op=info/api)
 <br>
 Your contribution will be pushed to Codeberg automatically within a week.
 
@@ -334,7 +334,7 @@ cf-ray: XXXXXXXXXXX-YYY
 If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)" - after checking `example.com` with online tool below.
 
 
-1. Open "[Is MITM?](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/tool_ismitm.php)" webpage.
+1. Open "`Is MITM?`" webpage.
 
 2. Input `gitlab.com` and click `Scan`.
 

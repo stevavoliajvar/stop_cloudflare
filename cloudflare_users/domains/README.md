@@ -1,4 +1,4 @@
-# Domajna listo de uzantoj de Cloudflare [ℹ](https://crimeflare.wodferndripvpe6ib4uz4rtngrnzichnirgn7t5x64gxcyroopbhsuqd.onion/ss/pct_cf.php)
+# Domajna listo de uzantoj de Cloudflare [ℹ](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/pct_cf.php)
 
 
 [//]: # (do not edit me; start)
