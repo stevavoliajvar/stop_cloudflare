@@ -9,8 +9,3 @@
 
 - [Permesilo / License](LICENSE.md)
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;[![](image/icon.rss.jpg)](https://en.wikipedia.org/wiki/Internet_censorship#Censorship_of_users_by_web_service_operators)
-&nbsp;&nbsp;&nbsp;&nbsp;[![](image/icon.toot.jpg)](https://en.wikipedia.org/wiki/Internet_censorship#Censorship_of_users_by_web_service_operators)
-
-<a rel="me" href="https://localhost/@sunny"></a>
