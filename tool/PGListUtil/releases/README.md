@@ -1,4 +1,10 @@
-- PGListUtil.exe: original software
-- readme.txt: original readme
+### Original files
 
-- PGListUtil_en.exe: Translated into English
+- [PGListUtil.exe](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/tool/PGListUtil/releases/PGListUtil.exe)
+- [readme.txt](readme.txt)
+
+
+
+### English
+
+- [PGListUtil_en.exe](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/tool/PGListUtil/releases/PGListUtil_en.exe)
