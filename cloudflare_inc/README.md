@@ -4,6 +4,7 @@ Kontraŭ-homa gvatada & cenzura kompanio.
 
 ![](../image/blockedbyjustin.jpg)
 ![](../image/blockedbymatthewprince.jpg)
+![](../image/blockedbymatthewprince2.jpg)
 
 Bonvolu vidi [INSTRUCTION.md](../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
 
