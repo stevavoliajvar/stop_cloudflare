@@ -120,7 +120,7 @@
 
 * [Башка колдонуучунун үнүн окуп, ойлоруңузду жазыңыз.](../PEOPLE.md)
 
-* Бир нерсе изде: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Бир нерсе изде: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=ky) ([clearnet](https://crimeflare.eu.org/))
 
 * Домен тизмесин жаңыртыңыз: [Көрсөтмөлөрдүн тизмеси](../INSTRUCTION.md).
 
