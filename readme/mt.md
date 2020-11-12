@@ -120,7 +120,7 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "Il-Great Cloudwall", l
 
 * [Aqra leħen ta 'utent ieħor u ikteb il-ħsibijiet tiegħek.](../PEOPLE.md)
 
-* Fittex xi ħaġa: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Fittex xi ħaġa: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=mt) ([clearnet](https://crimeflare.eu.org/))
 
 * Aġġorna l-lista tad-domain: [Elenka l-istruzzjonijiet](../INSTRUCTION.md).
 
