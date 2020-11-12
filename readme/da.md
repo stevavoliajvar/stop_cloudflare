@@ -120,7 +120,7 @@ Dette depot er en liste over websteder, der ligger bag "The Great Cloudwall", de
 
 * [Læs den anden brugers stemme, og skriv dine tanker.](../PEOPLE.md)
 
-* Søg efter noget: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Søg efter noget: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=da) ([clearnet](https://crimeflare.eu.org/))
 
 * Opdater domænelisten: [Liste instruktioner](../INSTRUCTION.md).
 
