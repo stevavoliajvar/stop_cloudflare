@@ -120,7 +120,7 @@
 
 * [የሌላ ተጠቃሚን ድምጽ ያንብቡ እና ሀሳቦችዎን ይፃፉ ፡፡](../PEOPLE.md)
 
-* የሆነ ነገር ይፈልጉ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* የሆነ ነገር ይፈልጉ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=am) ([clearnet](https://crimeflare.eu.org/))
 
 * የጎራ ዝርዝሩን አዘምን: [መመሪያዎችን ይዘርዝሩ](../INSTRUCTION.md).
 
