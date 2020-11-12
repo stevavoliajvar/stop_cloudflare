@@ -120,7 +120,7 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
 
 * [Lês de stim fan oare brûker en skriuw jo gedachten.](../PEOPLE.md)
 
-* Sykje wat: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Sykje wat: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=fy) ([clearnet](https://crimeflare.eu.org/))
 
 * Update de domeinnamme: [List ynstruksjes](../INSTRUCTION.md).
 
