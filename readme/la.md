@@ -120,7 +120,7 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
 
 * [Legere et scribere aliam vocem tuam cogitationes user scriptor.](../PEOPLE.md)
 
-* aliquid quaerere: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* aliquid quaerere: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=la) ([clearnet](https://crimeflare.eu.org/))
 
 * Album update in domain: [List instructiones](../INSTRUCTION.md).
 
