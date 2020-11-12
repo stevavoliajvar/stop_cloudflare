@@ -120,7 +120,7 @@ Ovo skladište predstavlja listu web stranica koje stoje iza "Velikog oblačnog 
 
 * [Pročitajte glas drugog korisnika i napišite svoje misli.](../PEOPLE.md)
 
-* Pretražite nešto: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Pretražite nešto: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=bs) ([clearnet](https://crimeflare.eu.org/))
 
 * Ažurirajte listu domena: [Lista uputa](../INSTRUCTION.md).
 
