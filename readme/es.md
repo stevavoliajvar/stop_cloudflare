@@ -120,7 +120,7 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
 
 * [Lea la voz de otros usuarios y escriba sus pensamientos.](../PEOPLE.md)
 
-* Buscar algo: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Buscar algo: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=es) ([clearnet](https://crimeflare.eu.org/))
 
 * Actualizar la lista de dominios: [Instrucciones de lista](../INSTRUCTION.md).
 
