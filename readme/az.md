@@ -120,7 +120,7 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Bulud" a
 
 * [Digər istifadəçinin səsini oxuyun və fikirlərinizi yazın.](../PEOPLE.md)
 
-* Bir şey axtarın: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Bir şey axtarın: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=az) ([clearnet](https://crimeflare.eu.org/))
 
 * Domen siyahısını yeniləyin: [Təlimatları sadalayın](../INSTRUCTION.md).
 
