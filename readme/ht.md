@@ -120,7 +120,7 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "Great Cloudwall la", blok
 
 * [Li vwa lòt itilizatè a epi ekri panse ou.](../PEOPLE.md)
 
-* Chèche yon bagay: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Chèche yon bagay: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=ht) ([clearnet](https://crimeflare.eu.org/))
 
 * Mete ajou lis la domèn: [Lis enstriksyon yo](../INSTRUCTION.md).
 
