@@ -1,4 +1,4 @@
-# The Great Cloudwall
+# Den store skyveggen
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
@@ -12,7 +12,7 @@
 
 |  🖹  |  🖼 |
 | --- | --- |
-|  “The Great Cloudwall” er Cloudflare Inc., det amerikanske selskapet.Det leverer CDN-tjenester (innholdsleveringsnettverk), DDoS-begrensning, Internett-sikkerhet og distribuerte DNS-tjenester (domenenavnserver).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
+|  “Den store skyveggen” er Cloudflare Inc., det amerikanske selskapet. Det leverer CDN-tjenester (innholdsleveringsnettverk), DDoS-begrensning, Internett-sikkerhet og distribuerte DNS-tjenester (domenenavnserver).  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
 |  Cloudflare er verdens største MITM-proxy (omvendt proxy).Cloudflare eier mer enn 80% av markedsandelen i CDN, og antallet brukere av cloudflare vokser hver dag.De har utvidet nettverket til mer enn 100 land.Cloudflare serverer mer nettrafikk enn Twitter, Amazon, Apple, Instagram, Bing og Wikipedia til sammen.Cloudflare tilbyr gratis plan og mange bruker den i stedet for å konfigurere serverne sine ordentlig.De handlet privatliv over bekvemmelighet.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg)  |
 |  Cloudflare sitter mellom deg og opprinnelseswebserver, og fungerer som en grensepatruljemiddel.Du kan ikke koble til den valgte destinasjonen.Du kobler deg til Cloudflare, og all informasjonen din blir dekryptert og overlevert på farta. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/border_patrol.jpg)  |
 |  Opphavsrettsserveradministratoren tillot agenten - Cloudflare - å bestemme hvem som kan få tilgang til sin "webeiendom" og definere "begrenset område".  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/usershoulddecide.jpg)  |
