@@ -120,7 +120,7 @@
 
 * [לייענען די קול פון אנדערע באַניצער און שרייַבן דיין געדאנקען.](../PEOPLE.md)
 
-* זוך עפּעס: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* זוך עפּעס: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=yi) ([clearnet](https://crimeflare.eu.org/))
 
 * דערהייַנטיקן די פעלד רשימה: [רשימה ינסטראַקשאַנז](../INSTRUCTION.md).
 
