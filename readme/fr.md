@@ -120,7 +120,7 @@ Ce référentiel est une liste de sites Web derrière "The Great Cloudwall", blo
 
 * [Lisez la voix des autres utilisateurs et écrivez vos pensées.](../PEOPLE.md)
 
-* Rechercher quelque chose: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Rechercher quelque chose: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=fr) ([clearnet](https://crimeflare.eu.org/))
 
 * Mettre à jour la liste des domaines: [Liste des instructions](../INSTRUCTION.md).
 
