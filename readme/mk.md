@@ -120,7 +120,7 @@
 
 * [Прочитајте го гласот на другите корисници и напишете ги мислите.](../PEOPLE.md)
 
-* Пребарај нешто: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Пребарај нешто: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=mk) ([clearnet](https://crimeflare.eu.org/))
 
 * Ажурирајте го списокот на домени: [Наведете ги упатствата](../INSTRUCTION.md).
 
