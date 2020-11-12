@@ -62,7 +62,7 @@
 ---
 
 
-##    Fortsett til neste side:  "[Cloudflare-etikk](no.ethics.md)"
+##    Fortsett til neste side:  "[Cloudflare-etikk](nb.ethics.md)"
 
 ---
 
