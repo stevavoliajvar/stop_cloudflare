@@ -122,7 +122,7 @@
 
 * [دوسرے صارف کی آواز پڑھیں اور اپنے خیالات لکھیں۔](../PEOPLE.md)
 
-* کچھ تلاش کریں: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* کچھ تلاش کریں: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=ur) ([clearnet](https://crimeflare.eu.org/))
 
 * ڈومین لسٹ کو اپ ڈیٹ کریں: [ہدایات کی فہرست](../INSTRUCTION.md).
 
