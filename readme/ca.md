@@ -120,7 +120,7 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
 
 * [Llegiu la veu d’un altre usuari i escriviu els vostres pensaments.](../PEOPLE.md)
 
-* Busca alguna cosa: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Busca alguna cosa: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=ca) ([clearnet](https://crimeflare.eu.org/))
 
 * Actualitzeu la llista de dominis: [Llista instruccions](../INSTRUCTION.md).
 
