@@ -120,7 +120,7 @@
 
 * [Прочитајте глас другог корисника и напишите своје мисли.](../PEOPLE.md)
 
-* Претражите нешто: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Претражите нешто: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=sr) ([clearnet](https://crimeflare.eu.org/))
 
 * Ажурирајте листу домена: [Листа упутстава](../INSTRUCTION.md).
 
