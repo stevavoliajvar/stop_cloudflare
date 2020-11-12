@@ -120,7 +120,7 @@ Acest depozit este o listă de site-uri web care se află în spatele „Marelui
 
 * [Citiți vocea altui utilizator și scrieți-vă gândurile.](../PEOPLE.md)
 
-* Căutați ceva: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Căutați ceva: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=ro) ([clearnet](https://crimeflare.eu.org/))
 
 * Actualizați lista de domenii: [Enumerați instrucțiunile](../INSTRUCTION.md).
 
