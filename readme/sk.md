@@ -120,7 +120,7 @@ Toto úložisko je zoznam webových stránok, ktoré sú za „Veľkou cloudovou
 
 * [Prečítajte si hlas iného používateľa a napíšte svoje myšlienky.](../PEOPLE.md)
 
-* Vyhľadajte niečo: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Vyhľadajte niečo: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=sk) ([clearnet](https://crimeflare.eu.org/))
 
 * Aktualizujte zoznam domén: [Zoznam pokynov](../INSTRUCTION.md).
 
