@@ -120,7 +120,7 @@
 
 * [អានសំលេងរបស់អ្នកប្រើផ្សេងទៀតហើយសរសេរគំនិតរបស់អ្នក។](../PEOPLE.md)
 
-* ស្វែងរកអ្វីមួយ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* ស្វែងរកអ្វីមួយ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=km) ([clearnet](https://crimeflare.eu.org/))
 
 * ធ្វើបច្ចុប្បន្នភាពបញ្ជីឈ្មោះដែន: [បញ្ជីការណែនាំ](../INSTRUCTION.md).
 
