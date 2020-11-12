@@ -120,7 +120,7 @@
 
 * [Διαβάστε τη φωνή του άλλου χρήστη και γράψτε τις σκέψεις σας.](../PEOPLE.md)
 
-* Αναζητήστε κάτι: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Αναζητήστε κάτι: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=el) ([clearnet](https://crimeflare.eu.org/))
 
 * Ενημερώστε τη λίστα τομέων: [Λίστα λιστών](../INSTRUCTION.md).
 
