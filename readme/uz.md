@@ -62,7 +62,7 @@
 ---
 
 
-##    Iltimos, keyingi sahifaga o'ting:  "[Cloudflare axloq qoidalari](en.ethics.md)"
+##    Iltimos, keyingi sahifaga o'ting:  "[Cloudflare axloq qoidalari](uz.ethics.md)"
 
 ---
 
