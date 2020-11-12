@@ -120,7 +120,7 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "The Great Cloudwall", ga
 
 * [Darllenwch lais defnyddiwr arall ac ysgrifennwch eich meddyliau.](../PEOPLE.md)
 
-* Chwilio rhywbeth: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* Chwilio rhywbeth: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=cy) ([clearnet](https://crimeflare.eu.org/))
 
 * Diweddarwch y rhestr parthau: [Rhestrwch gyfarwyddiadau](../INSTRUCTION.md).
 
