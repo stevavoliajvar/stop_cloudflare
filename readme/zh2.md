@@ -1,6 +1,6 @@
 # 大雲牆
 
-### 🤔 [汉语 / Simplified Chinese](zh.md)
+### 🤔 [汉语](zh.md)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
