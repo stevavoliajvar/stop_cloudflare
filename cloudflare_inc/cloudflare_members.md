@@ -83,7 +83,7 @@
 | Alice Yang | Employee |  |
 | Alison Baum | Special Projects |  |
 | Alissa Starzak | Public Policy, Washington DC |  |
-| Aliza Knox | Head of APAC, Singapore |  |
+| Aliza Knox | Head of Cloudflare Asia | https://twitter.com/alizaknox |
 | Aljona Tcherniavskaia | Marketing Globalization Strategist |  |
 | Allati El Henson | Lead Brand Designer |  |
 | Allen Lai | Head of Support |  |
@@ -244,7 +244,7 @@
 | Chaat Butsunturn | Customer Development |  |
 | Chad Schaefer | Customer Development |  |
 | Chad Skinner | Corporate Counsel |  |
-| Chad Toerien | Customer Development |  |
+| Chad Toerien | Account Executive | https://twitter.com/ChadToerien<br>https://www.instagram.com/chadtoerien/ |
 | Chandra Mohan Raju | Data Engineering |  |
 | Charlie Andrews | Systems Engineer |  |
 | Chase Robinson | Security Compliance Analyst |  |
@@ -326,13 +326,13 @@
 | Daniel Stinson-Diess | Security Engineer |  |
 | Daniel Weidman | Engineering Manager |  |
 | Daniel Wesonga | Customer Development |  |
-| Daniella Vallurupalli | Communications | daniella@cloudflare.com |
+| Daniella Vallurupalli | Communications | daniella@cloudflare.com<br>https://twitter.com/BellaTweetz |
 | Danielle Vanzura | Employee |  |
 | Dao Quang Minh | Employee |  |
 | Darwin D. Wu | Employee |  |
 | Dastagiri Reddy | Data Engineer |  |
 | Dave Jewell | Employee |  |
-| Dave Steer | Marketing |  |
+| Dave Steer | Marketing | https://twitter.com/davesteer |
 | David Conrad | Technical Staff |  |
 | David Fenton | Group, Australia |  |
 | David Fritsch | Web Engineer |  |
@@ -459,7 +459,6 @@
 | Gerry Dunn | Sales Leader |  |
 | Gideon Redelinghuys | Systems Reliability Engineer |  |
 | Gigi Chiu | Employee |  |
-| Gilberto Bertin | Systems Engineer |  |
 | Giuliana DeAngelis | Customer Success Manager |  |
 | Gloria Marcu | Support Engineer |  |
 | Grace Lin | Special Projects |  |
@@ -520,8 +519,7 @@
 | Jacob H. Haven | Systems Engineer |  |
 | Jacob Vincent | Customer Development |  |
 | Jacqueline Lim | Team Coordinator, Singapore |  |
-| Jade Q. Wang | Developer Relations |  |
-| Jade Wang | Employee | https://opencollective.com/jadewang<br>https://twitter.com/_devrel/status/1004055740808491008 |
+| Jade (Q.) Wang | Developer Relations | https://twitter.com/qiqing<br>https://opencollective.com/jadewang<br>http://blog.jadism.com/ |
 | Jaime Cochran | Security Analyst |  |
 | Jaime Sparr | Visual Designer |  |
 | Jake Anderson | Head of Marketing |  |
@@ -593,7 +591,7 @@
 | Jeremy Udit | Systems Reliability Engineer |  |
 | Jeremy Wagner-Kaiser | Systems Engineer |  |
 | Jerome Chen | Partner Engineer |  |
-| Jerome Fleury | Director of Network Engineering |  |
+| Jerome Fleury | Director of Network Engineering | jf@cloudflare.com<br>https://twitter.com/Jerome_UZ<br>https://fleury.net/<br>https://github.com/jejenone |
 | Jessamine Bailey | Data Center Operations |  |
 | Jesse Kipp | Systems Engineer |  |
 | Jesse Sapakie | Revenue Accountant |  |
@@ -620,7 +618,6 @@
 | Joery Van Druten | Marketing |  |
 | John Adams | Senior UX Designer |  |
 | John Arndt | Customer Development |  |
-| John B. Roberts | Platform Lead |  |
 | John Bauer | Systems Engineer |  |
 | John Esterline | Technical Support Engineer |  |
 | John Fawcett | Systems Engineer | +1-469-387-5077<br>jrf0110@gmail.com<br>5336 Krueger Ln. Austin, TX, 78723 |
@@ -655,7 +652,6 @@
 | Josh Enders | Operations Engineer |  |
 | Joshua Kroll | Systems Engineer |  |
 | Joshua Liebow-Feeser | Information Security Engineer |  |
-| Joshua Motta | Special Projects |  |
 | Joshua Watts | Business Development |  |
 | Jovi Zhangwei | Systems Engineer |  |
 | Ju Hyung Song | Business Development (APAC) |  |
@@ -681,7 +677,7 @@
 | Kalpana Ravinarayanan | Employee |  |
 | Kamilla Amirova | Solutions Engineer |  |
 | Kanika Rastogi | Employee |  |
-| Kari Linder | Designer |  |
+| Kari Linder | Designer | https://twitter.com/kkblinder<br>https://dribbble.com/karilinder |
 | Karim Dik | Employee |  |
 | Karl Ehr | Head of Technical Operations |  |
 | Karl Henrik Smith | Business Development |  |
@@ -711,7 +707,7 @@
 | Kenny Chan | Web Engineer |  |
 | Kenny Luong | Employee |  |
 | Kent Shultz | Systems Reliability Engineer |  |
-| Kenton Varda | Tech Lead for Cloudflare Workers | https://sandstorm.io/about |
+| Kenton Varda | Tech Lead for Cloudflare Workers | kenton@cloudflare.com<br>https://twitter.com/KentonVarda<br>https://www.linkedin.com/in/kenton-varda-5b96a2a4<br>https://github.com/kentonv<br>https://sandstorm.io/about |
 | Kevin Chen | Business Development |  |
 | Kevin Dompig | Technical Program Manager |  |
 | Kevin Gallagher | Systems Reliability Engineer |  |
@@ -719,7 +715,6 @@
 | Kevin Klapak | Technical Support Engineer |  |
 | Kevin Stinger | Security Channel Manager |  |
 | Kevin Wang | Product Manager |  |
-| Kevin Wilson | Visual Designer |  |
 | Kevin Xu | Employee |  |
 | Khaled AlSaleh | Employee |  |
 | Khanh Dao | Tax Manager |  |
@@ -803,7 +798,6 @@
 | Marek Majkowski | Systems Engineer | marek@cloudflare.com<br>https://twitter.com/majek04<br>https://idea.popcount.org/ |
 | Marek Vavrusa | Systems Engineer |  |
 | Margo Brown | Q1 Marketing Partner |  |
-| Maria Karaivanova | Business Development |  |
 | Marianna Ilagan | Internal Events Coordinator |  |
 | Marina Harper | HR Administrator |  |
 | Marina Jeon | Demand Generation Specialist |  |
@@ -815,7 +809,7 @@
 | Marshall Montana | Employee |  |
 | Marshall Portwood | Enterprise Account Executive |  |
 | Martijn Gonlag | Support Engineer |  |
-| Martin J. Levy | Network Strategy |  |
+| Martin J. Levy | Network Strategy | martin.levy@gmail.com<br>https://www.facebook.com/people/Martin-J-Levy/506131573<br>https://mahtin.com/<br>https://twitter.com/mahtin<br>PGP: 7EA139C40C1C842F9D41AAF94A34925D05172859 |
 | Martin Marks | Systems Engineer |  |
 | Marty Strong | Technical Support Engineer |  |
 | Mary Mac Williams | Event Coordinator |  |
@@ -920,7 +914,6 @@
 | Nicholas Allen | Employee |  |
 | Nicholas Comer | Systems Engineer |  |
 | Nicholas Platais | Business Development |  |
-| Nick Balestra-Foster | Frontend Platform Engineer |  |
 | Nick Gongorek | Channel Sales Leader |  |
 | Nick Jones | Protocols Team |  |
 | Nick Legger | Employee |  |
@@ -936,7 +929,7 @@
 | Nikole Phillips | Data Analyst |  |
 | Nikon Rasumov | Employee |  |
 | Nina Wang | Head of Tax |  |
-| Nitin Bantwal Rao | Special Projects |  |
+| Nitin (Bantwal) Rao | Special Projects | nitin.rao@sloan.mit.edu<br>https://twitter.com/NitinBRao<br>https://leverageddabbler.com/<br>http://www.linkedin.com/in/nitinrao<br>http://www.facebook.com/nitin.rao |
 | Noah Garrett Wallach | Network Engineer |  |
 | Noah Neuman | Enterprise Account Executive |  |
 | Norm Slaught | Customer Development |  |
@@ -964,7 +957,7 @@
 | Paul Southwell | Enterprise Sales |  |
 | Paul Taulborg | Employee |  |
 | Paul Underwood | Employee |  |
-| Pavel Odintsov | Systems Engineer |  |
+| Pavel Odintsov | DNS Engineer | https://twitter.com/odintsov_pavel<br>https://www.stableit.ru/ |
 | Pei Ching Lee | Employee |  |
 | Peng Zhang | Systems Engineer |  |
 | Pete Clayton | People Team |  |
@@ -1169,7 +1162,7 @@
 | Susan Lin | Lead Product Designer |  |
 | Susan Tran | Accountant |  |
 | Suyash Sharma | Customer Development |  |
-| Suzanne Aldrich | Solutions Engineer Team Lead | https://twitter.com/SuzanneAldrich |
+| Suzanne Aldrich | Solutions Engineer Team Lead | suzanne@sjaconsulting.com<br>projects@sjaconsulting.com<br>707-267-7752<br>https://www.sjaconsulting.com/<br>https://github.com/suzannealdrich<br>https://twitter.com/SuzanneAldrich |
 | Sven Sauleau | Developer | https://twitter.com/svensauleau<br>https://sauleau.com/<br>hello@sauleau.com<br>sven@sauleau.com<br>sven@cloudflare.com |
 | Swirvithan L. Gooding-Splatt | Intern |  |
 | Sydney Staff | Employee |  |
@@ -1212,7 +1205,7 @@
 | Timothy Polich | Systems Engineer |  |
 | Tingting (Teresa) Huang | Strategy and Development |  |
 | Tobias Rohrle | Solutions Engineer |  |
-| Tom Arnfeld | Systems Engineer |  |
+| Tom Arnfeld | Systems Engineer | https://twitter.com/tarnfeld<br>http://tarnfeld.com/<br>http://uk.linkedin.com/in/tarnfeld/<br>https://github.com/tarnfeld |
 | Tom Brightbill | Customer Success |  |
 | Tom Lam | Employee |  |
 | Tom Lianza | Engineering Manager | https://twitter.com/tlianza<br>https://www.linkedin.com/in/tlianza<br>btc:1BcB611ZvQ5Qkyeupc87ZFuw9crJ9ZbtcN |
@@ -1257,7 +1250,7 @@
 | Vinent Mugabo | Employee |  |
 | Visith Bou | Customer Development |  |
 | Vivek Ganti | Product Marketing |  |
-| Vlad Krasnov | Systems Engineer |  |
+| Vlad Krasnov | Systems Engineer | brendan@cloudflare.com<br>https://twitter.com/thecomp1ler<br>https://www.linkedin.com/in/vlad-krasnov-2a00a666<br>https://github.com/vkrasnov |
 | Vojtech Miksu | Front End Engineer |  |
 | Vu Long Tran | Customer Success, Singapore |  |
 | Wanda Chiu | Software Engineer |  |
@@ -1265,7 +1258,7 @@
 | Warren Nelson | Systems Engineer |  |
 | Warren Rickards | Customer Success |  |
 | Warren Robins | EMEA Customer Development |  |
-| Watson B. Ladd | Crypto Team |  |
+| Watson (B.) Ladd | Crypto Team | watson@cloudflare.com<br>https://twitter.com/WatsonLadd<br>https://kc2kdm.com/<br>https://github.com/wbl |
 | Welly Tandiono | Solutions Engineer |  |
 | Wenz Xing | Special Projects Intern |  |
 | Wesley Shi | Systems Engineer |  |
@@ -1316,9 +1309,18 @@
 
 | Name | Else |
 | --- | --- |
-Alex Vidal | https://twitter.com/aviddy<br>Austin, TX<br>alexvidal@khanacademy.org | 
-Tim Strazzere | https://twitter.com/timstrazz<br>https://rednaga.io/ | 
-Yichun Zhang (章亦春) | https://twitter.com/agentzh<br>agentzh@gmail.com<br>yichun@openresty.com | 
+| Alex Vidal | https://twitter.com/aviddy<br>Austin, TX<br>alexvidal@khanacademy.org |
+| Chris Joel | https://twitter.com/0xcda7a |
+| Gilberto Bertin | gilberto@isovalent.com<br>https://twitter.com/akajibi<br>https://github.com/jibi |
+| Joshua Motta | https://twitter.com/joshuamotta |
+| John B. Roberts | https://twitter.com/pencoyd<br>https://clock.pencoyd.com/  |
+| Kevin Wilson | https://twitter.com/entemper |
+| Maria Karaivanova | Business Development | https://twitter.com/mariakar<br>https://whylabs.ai/ |
+| Matt Bernhard | umbernhard@gmail.com<br>bernhard@voting.works<br>https://twitter.com/umbernhard<br>https://mbernhard.com/<br>https://github.com/umbernhard |
+| Nick Balestra-Foster | https://twitter.com/nickbalestra<br>https://nick.balestrafoster.com/ |
+| Sebastien Pahl | https://twitter.com/sebp |
+| Tim Strazzere | https://twitter.com/timstrazz<br>https://rednaga.io/ |
+| Yichun Zhang (章亦春) | https://twitter.com/agentzh<br>agentzh@gmail.com<br>yichun@openresty.com |
 
 
 
