@@ -14,3 +14,4 @@
 | pinterest.com | assets.pinterest.com CNAME to fastly.net |
 | privacytools.io | It took 3 years to convince him to move off Cloudflare. |
 | shkspr.mobi | https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data/ |
+| spreadprivacy.com | "Raising the standard of trust online." |
