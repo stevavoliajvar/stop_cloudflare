@@ -111,7 +111,6 @@
 | Andrei Aleksejevs | Business Development |  |
 | Andres H. Pimentel | Gtm Research & Development |  |
 | Andres de Fuenzalida | Employee |  |
-| Andrew Mitschke | SEO Lead | https://twitter.com/AndyMitty<br>https://www.linkedin.com/in/andrewmitschke |
 | Andrew A. Schafer | Writer |  |
 | Andrew Fitch | Developer | https://twitter.com/fitchaj |
 | Andrew Galloni | Front End Engineer |  |
@@ -119,6 +118,7 @@
 | Andrew Horton | Employee |  |
 | Andrew Kennedy | Web Developer |  |
 | Andrew Li | Employee |  |
+| Andrew Mitschke | SEO Lead | https://twitter.com/AndyMitty<br>https://www.linkedin.com/in/andrewmitschke |
 | Andrew Plunk | Systems Engineer |  |
 | Andrew Sharp | Software Engineer, Austin |  |
 | Andrew Shifflett | Account Executive |  |
@@ -205,8 +205,8 @@
 | Bo Li | Employee |  |
 | Bob Kuo | Systems Engineer |  |
 | Bob Zavala | Employee |  |
-| Bobby Lam | Customer Development |  |
 | Bobby Guhasarkar | Marketing | https://twitter.com/bguhasarkar |
+| Bobby Lam | Customer Development |  |
 | Boris Yanovsky | People Data Analyst |  |
 | Brad Carey | Account Executive |  |
 | Braden Ehrat | Systems Engineer |  |
@@ -654,11 +654,11 @@
 | Joshua Watts | Business Development |  |
 | Jovi Zhangwei | Systems Engineer |  |
 | Ju Hyung Song | Business Development (APAC) |  |
+| Juan M.(Miguel) Rodriguez | IT | https://twitter.com/juanmirodriguez<br>https://www.linkedin.com/in/jrodriguezestevez<br>https://blog.cloudflare.com/why-i-am-joining-cloudflare-as-its-first-cio/ |
 | Judy Ann Abbgy | Stock Plan Manager |  |
 | Judy Cheong | Recruiting Programs |  |
 | Judy Emma | Travel Manager |  |
 | Judy Hoctor | Executive Assistant |  |
-| Juan M.(Miguel) Rodriguez | IT | https://twitter.com/juanmirodriguez<br>https://www.linkedin.com/in/jrodriguezestevez<br>https://blog.cloudflare.com/why-i-am-joining-cloudflare-as-its-first-cio/ |
 | Julia Knight | Legal Intern |  |
 | Julian Hunt | EMEA Customer Development |  |
 | Julie Huchet | Product Designer | jhuchet@tradecrafted.com<br>tel:4157746933<br>https://twitter.com/huchet_julie<br>https://juliehuchet.com/<br>https://www.behance.net/JULIERV752d3e<br>https://www.linkedin.com/in/julie-huchet-112740b7 |
@@ -785,6 +785,7 @@
 | Maik Pietsch | Customer Development |  |
 | Maitane Zotes | Security Engineer |  |
 | Makoto Nishihara | Solutions Engineer. Singapore |  |
+| Malavika Balachandran Tadeusz | Product Manager | https://twitter.com/malavikabala<br>https://www.malavikabala.com/<br>https://www.linkedin.com/in/malavika-balachandran-6a313035<br>https://medium.com/@malavikabalatdz<br>https://github.com/malavikabala<br>http://instagram.com/malavikabalatdz |
 | Malcolm Bouza | Accountant |  |
 | Malgorzata Pack (Kacprzak) | Support Operations Engineer |  |
 | Manish Jindal | Customer Development |  |
@@ -813,8 +814,8 @@
 | Martin J. Levy | Network Strategy | martin.levy@gmail.com<br>https://www.facebook.com/people/Martin-J-Levy/506131573<br>https://mahtin.com/<br>https://twitter.com/mahtin<br>PGP: 7EA139C40C1C842F9D41AAF94A34925D05172859 |
 | Martin Marks | Systems Engineer |  |
 | Marty Strong | Technical Support Engineer |  |
+| Marwan Fayed | Research Lead | marwan.fayed@st-andrews.ac.uk<br>https://twitter.com/marwanfayed<br>https://scholar.google.co.uk/citations?user=dx8XiVwAAAAJ |
 | Mary Mac Williams | Event Coordinator |  |
-| Malavika Balachandran Tadeusz | Product Manager | https://twitter.com/malavikabala<br>https://www.malavikabala.com/<br>https://www.linkedin.com/in/malavika-balachandran-6a313035<br>https://medium.com/@malavikabalatdz<br>https://github.com/malavikabala<br>http://instagram.com/malavikabalatdz |
 | Mat Henley | Director of Security |  |
 | Matt Alberts | Employee |  |
 | Matt Allie | Solutions Engineer |  |
@@ -1233,7 +1234,6 @@
 | Ugo Piasentin | Employee |  |
 | Usman Muzaffar | VP of Engineering |  |
 | Uzma Ali | Business Development |  |
-| Marwan Fayed | Research Lead | marwan.fayed@st-andrews.ac.uk<br>https://twitter.com/marwanfayed<br>https://scholar.google.co.uk/citations?user=dx8XiVwAAAAJ |
 | Val Vesa | Community Manager | https://instagram.com/adspedia<br>https://twitter.com/adspedia |
 | Valentine Décamps | Customer Success Manager |  |
 | Vanessa Royle | Public Relations |  |
@@ -1316,11 +1316,11 @@
 | Chris Joel | https://twitter.com/0xcda7a |
 | Elenitsa (Eli) Staykova | Marketing | https://twitter.com/EliStaykova |
 | Gilberto Bertin | gilberto@isovalent.com<br>https://twitter.com/akajibi<br>https://github.com/jibi |
-| John Wineman | Partner Integration Engineer | https://twitter.com/johnwineman |
-| John B. Roberts | https://twitter.com/pencoyd<br>https://clock.pencoyd.com/  |
-| Joshua Motta | https://twitter.com/joshuamotta |
-| Josh Enders | https://twitter.com/joshenders |
 | Jimmy Crutchfield | https://twitter.com/crutchfieldj |
+| John B. Roberts | https://twitter.com/pencoyd<br>https://clock.pencoyd.com/  |
+| John Wineman | Partner Integration Engineer | https://twitter.com/johnwineman |
+| Josh Enders | https://twitter.com/joshenders |
+| Joshua Motta | https://twitter.com/joshuamotta |
 | Kevin Wilson | https://twitter.com/entemper |
 | Maria Karaivanova | Business Development | https://twitter.com/mariakar<br>https://whylabs.ai/ |
 | Matt Bernhard | umbernhard@gmail.com<br>bernhard@voting.works<br>https://twitter.com/umbernhard<br>https://mbernhard.com/<br>https://github.com/umbernhard |
