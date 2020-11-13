@@ -1,6 +1,6 @@
 # 大云墙
 
-### 🤔 我想换语言: [漢語](zh2.md)
+### 🤔 我想换语言: [漢語](zt.md)
 
 
 ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
