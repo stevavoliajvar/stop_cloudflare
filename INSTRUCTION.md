@@ -117,7 +117,9 @@ Z9 Fastly
 
 - Above is how Siteground-hosted([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
 
-Some websites combine other companies (e.g. Amazon AWS, Google Cloud) _with_ the Cloudflare business model.
+Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD) _with_ the Cloudflare business model.
+
+![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflare_with_ddosguard.jpg)
 
 </details>
 
