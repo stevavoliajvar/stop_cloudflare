@@ -1321,7 +1321,7 @@
 | Gilberto Bertin | gilberto@isovalent.com<br>https://twitter.com/akajibi<br>https://github.com/jibi |
 | Jimmy Crutchfield | https://twitter.com/crutchfieldj |
 | John B. Roberts | https://twitter.com/pencoyd<br>https://clock.pencoyd.com/  |
-| John Wineman | Partner Integration Engineer | https://twitter.com/johnwineman |
+| John Wineman | https://twitter.com/johnwineman |
 | Josh Enders | https://twitter.com/joshenders |
 | Joshua Motta | https://twitter.com/joshuamotta |
 | Kevin Wilson | https://twitter.com/entemper |
