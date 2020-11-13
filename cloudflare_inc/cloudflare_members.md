@@ -87,7 +87,7 @@
 | Aljona Tcherniavskaia | Marketing Globalization Strategist |  |
 | Allati El Henson | Lead Brand Designer |  |
 | Allen Lai | Head of Support |  |
-| Allen Rinehart | Security Risk Management |  |
+| Allen Rinehart | Security Risk Management | https://www.zoominfo.com/p/Allen-Rinehart/3217367198 |
 | Alon Gavrielov | Infrastructure |  |
 | Alonso Bustamante | Special Projects |  |
 | Alonso Quiroz Herrera | Employee |  |
@@ -175,7 +175,7 @@
 | Ashley Williams | Employee | ashley666ashley@gmail.com |
 | Aurora Lian Zhang | Supply Chain Operations Analyst |  |
 | Austin Cherry | Cloudflare |  |
-| Austin McKinley | Systems Engineer |  |
+| Austin McKinley | Systems Engineer | https://www.zoominfo.com/p/Austin-Mckinley/-2055432569 |
 | Austin Stanford | Employee |  |
 | Austin Urraca | Business Development |  |
 | Avery Harnish | Systems Engineer |  |
@@ -233,12 +233,14 @@
 | Candice Madruga Knoll | Customer Success Manager, LATAM |  |
 | Carl Garcia | Account Executive |  |
 | Caroline Greer | Public Policy |  |
+| Caroline Quick | Senior Director | https://www.linkedin.com/in/seacue<br>https://twitter.com/seacue |
 | Carson Andorf | Employee |  |
 | Cassy Olson | Account Executive |  |
 | Cate Danielson | Employee |  |
 | Catherine Flagler | Recruiter |  |
 | Cathy Hsu | Employee |  |
 | Cavin Kindsvogel | Product Strategy Manager |  |
+| Celso Martinho | Director Of Engineering in Lisbon | celso@cloudflare.com<br>hello@celso.io<br>https://celso.io/<br>https://www.linkedin.com/in/yizheng-huang<br>https://github.com/celso |
 | Chaat Butsunturn | Customer Development |  |
 | Chad Schaefer | Customer Development |  |
 | Chad Skinner | Corporate Counsel |  |
@@ -508,7 +510,7 @@
 | Irena Islam | Customer Success Engineer |  |
 | Irene Chang | Head of Expansion |  |
 | Isaac Specter | Product Strategy, Austin |  |
-| Ivan Babrou | Systems Engineer |  |
+| Ivan Babrou | Systems Engineer | mail@ivan.computer<br>https://twitter.com/ibobrik<br>https://github.com/bobrik<br>https://ivan.computer/ |
 | Ivan Balepin | Systems Engineer |  |
 | Ivan Chin | Customer Development, Singapore |  |
 | Ivan Nikulin | Employee |  |
@@ -530,7 +532,7 @@
 | Jake Serrano | IT Operations Engineer |  |
 | Jake Sinkey | Support Engineer |  |
 | Jakub Sitnicki | Employee |  |
-| James A. Allworth | Head of Innovation |  |
+| James (A.) Allworth | Head of Innovation | jaa@mac.com<br>https://twitter.com/jamesallworth<br>https://www.jamesallworth.com/<br>https://www.linkedin.com/in/jamesallworth<br>https://www.instagram.com/hype7/ |
 | James Askham | Solutions Engineer |  |
 | James Ball | Solutions Engineer |  |
 | James Berry | Customer Success Manager |  |
@@ -552,7 +554,7 @@
 | Jamie Robinson | Sales Operations |  |
 | Jamie Tomasello | Policy and Investigation |  |
 | Janae Frischer | Recruiting |  |
-| Janet Van Huysse | Head of People |  |
+| Janet Van Huysse | Head of people | https://twitter.com/janetvh<br>https://www.zoominfo.com/p/Janet-Van-huysse/967799664 |
 | Janette Camacho | Employee |  |
 | Janette Leyva | Employee |  |
 | Jansen Chiu | Network Infrastructure |  |
@@ -582,7 +584,7 @@
 | Jennifer Taylor | Head of Product |  |
 | Jenny Dee Brecheisen | Brand Designer |  |
 | Jensen Hussey | Web Developer |  |
-| Jensen Kuras | Programmer | https:/twitter.com/jensechu<br>jensen@cloudflare.com<br>https://www.instagram.com/accounts/sin.jen/ |
+| Jensen Kuras | Programmer | jensen@cloudflare.com<br>https://twitter.com/jensechu<br>https://www.instagram.com/accounts/sin.jen/ |
 | Jeppe Toustrup | Systems Reliability Engineer |  |
 | Jeremy Bernick | Intern |  |
 | Jeremy L. Pugh | Employee |  |
@@ -596,7 +598,7 @@
 | Jesse Kipp | Systems Engineer |  |
 | Jesse Sapakie | Revenue Accountant |  |
 | Jessica Iyer | Business Development |  |
-| Jessica Rosenberg | Marketing Design |  |
+| Jessica Rosenberg | Marketing Design | jessicarosenb@gmail.com<br>https://twitter.com/jessperate<br>http://www.hellomynameisjess.com/<br>https://www.facebook.com/4800723<br>https://medium.com/@jessperate<br>https://www.linkedin.com/in/jessicarosenb |
 | Jiale Zhi | Systems Engineer |  |
 | Jill Lewandosky | Employee |  |
 | Jim Gonzales | Employee |  |
@@ -929,7 +931,7 @@
 | Nick Wondra | Systems Engineer |  |
 | Nicky Semenza | Software Engineer |  |
 | Nicole Ellis | Office Coordinator |  |
-| Niels Hoven | Product Manager |  |
+| Niels Hoven | Product Manager | niels@nielshoven.com<br>https://twitter.com/NielsHoven<br>https://www.nielshoven.com/ |
 | Nikita Zolotarev | Business Development |  |
 | Nikole Phillips | Data Analyst |  |
 | Nikon Rasumov | Employee |  |
@@ -1003,7 +1005,7 @@
 | Rahul Deshmukh | Product Marketing |  |
 | Rahul Mahajan | Product Manager Partnerships |  |
 | Rajeev Sharma | Systems Engineer |  |
-| Rajesh Bhatia | Engineering, Internal Tools |  |
+| Rajesh Bhatia | Engineering, Internal Tools | https://www.zoominfo.com/p/Rajesh-Bhatia/2442227568 |
 | Raju Boyapati | Cloud Operations Engineer |  |
 | Ram Nadella | Web Developer |  |
 | Rami Aljamal | Director of HW Infrastructure |  |
@@ -1163,7 +1165,7 @@
 | Sunny Au | Employee |  |
 | Suphanat Chunhapanya | Crypto Team |  |
 | Susan Chiang | Employee |  |
-| Susan Hobbs | Chief of Staff |  |
+| Susan Hobbs | Chief of Staff | https://twitter.com/slh<br>https://instagram.com/susan<br>https://www.linkedin.com/in/susanhobbs<br>https://facebook.com/susanvk<br>https://snapchat.com/add/susanhobbs<br>https://angel.co/susan-hobbs |
 | Susan Lin | Lead Product Designer |  |
 | Susan Tran | Accountant |  |
 | Suyash Sharma | Customer Development |  |
@@ -1213,7 +1215,7 @@
 | Tom Arnfeld | Systems Engineer |  |
 | Tom Brightbill | Customer Success |  |
 | Tom Lam | Employee |  |
-| Tom Lianza | Engineering Manager | https://twitter.com/tlianza<br>btc:1BcB611ZvQ5Qkyeupc87ZFuw9crJ9ZbtcN |
+| Tom Lianza | Engineering Manager | https://twitter.com/tlianza<br>https://www.linkedin.com/in/tlianza<br>btc:1BcB611ZvQ5Qkyeupc87ZFuw9crJ9ZbtcN |
 | Tom Mann | Employee |  |
 | Tom Paseka | Network Engineer |  |
 | Tom Strickx | Network Software Engineer |  |
