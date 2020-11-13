@@ -1317,7 +1317,7 @@
 | Chris Joel | https://twitter.com/0xcda7a |
 | Conley Read | https://twitter.com/conleyread |
 | Eldridge Alexander | https://twitter.com/magiceldridge |
-| Elenitsa (Eli) Staykova | Marketing | https://twitter.com/EliStaykova |
+| Elenitsa (Eli) Staykova | https://twitter.com/EliStaykova |
 | Gilberto Bertin | gilberto@isovalent.com<br>https://twitter.com/akajibi<br>https://github.com/jibi |
 | Jimmy Crutchfield | https://twitter.com/crutchfieldj |
 | John B. Roberts | https://twitter.com/pencoyd<br>https://clock.pencoyd.com/  |
@@ -1325,12 +1325,12 @@
 | Josh Enders | https://twitter.com/joshenders |
 | Joshua Motta | https://twitter.com/joshuamotta |
 | Kevin Wilson | https://twitter.com/entemper |
-| Maria Karaivanova | Business Development | https://twitter.com/mariakar<br>https://whylabs.ai/ |
+| Maria Karaivanova | https://twitter.com/mariakar<br>https://whylabs.ai/ |
 | Matt Bernhard | umbernhard@gmail.com<br>bernhard@voting.works<br>https://twitter.com/umbernhard<br>https://mbernhard.com/<br>https://github.com/umbernhard |
 | Nick Balestra-Foster | https://twitter.com/nickbalestra<br>https://nick.balestrafoster.com/ |
-| Philina Fan | Product Design | https://twitter.com/skyeezfalling |
-| Remy Guercio | Product Marketing | https://twitter.com/remyguercio |
-| Salvatore D'Agostino | Web Engineer | https://twitter.com/gimli |
+| Philina Fan | https://twitter.com/skyeezfalling |
+| Remy Guercio | https://twitter.com/remyguercio |
+| Salvatore D'Agostino | https://twitter.com/gimli |
 | Sebastien Pahl | https://twitter.com/sebp |
 | Tim Strazzere | https://twitter.com/timstrazz<br>https://rednaga.io/ |
 | Yichun Zhang (章亦春) | https://twitter.com/agentzh<br>agentzh@gmail.com<br>yichun@openresty.com |
