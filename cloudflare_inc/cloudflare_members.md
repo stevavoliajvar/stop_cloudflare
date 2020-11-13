@@ -419,7 +419,7 @@
 | Ewa Klepaczewska | Employee |  |
 | Fabienne Semeria | Systems Engineer |  |
 | Fai Varinthorn | Singapore |  |
-| Faiz Azhar | Technical Support Engineer |  |
+| Faiz Azhar | Technical Support Engineer | faiz@cloudflare.com<br>https://github.com/gabanz<br>https://blog.faizazhar.com/<br>https://dev.to/gabanz<br>https://www.linkedin.com/in/faizazhar |
 | Fallon Blossom | Technical Content Designer |  |
 | Fay Lidan Dai | Product Intern |  |
 | Federico Fratucello | Employee |  |
@@ -952,7 +952,7 @@
 | Pablo E. Viera | Business Development |  |
 | Paddy Sheehan | Employee |  |
 | Pasha Kravtsov | Support Engineer |  |
-| Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue<br>pat@cloudflare.com |
+| Patrick (R.) Donahue | Director of Product Management | https://twitter.com/prdonahue<br>pat@cloudflare.com<br>https://github.com/prdonahue<br>https://blog.prdonahue.com/<br>https://www.zoominfo.com/p/Patrick-Donahue/1468312385 |
 | Patrick Lu | Web Engineer |  |
 | Patrick Meenan | Employee | https://twitter.com/patmeenan |
 | Patrick R. Donahue | Product Manager |  |
@@ -984,7 +984,7 @@
 | Piotr Sikora | Systems Engineer |  |
 | Popie Bastaki | People Team (EMEA) |  |
 | Pradeep BalleChandrasekharan | Newtork SRE |  |
-| Pradeep Chhetri | Systems Reliability Engineer |  |
+| Pradeep Chhetri | Systems Reliability Engineer | pchhetri@cloudflare.com<br>https://github.com/chhetripradeep |
 | Pramod Suvarna | Channel Sales Manager |  |
 | Pranab Sharma | Head of Pricing |  |
 | Prasad Pai | Technical Support Engineer, Singapore |  |
