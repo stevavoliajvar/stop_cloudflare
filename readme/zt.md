@@ -64,7 +64,7 @@
 ---
 
 
-##    請繼續下一頁:  "[Cloudflare倫理](zh2.ethics.md)"
+##    請繼續下一頁:  "[Cloudflare倫理](zt.ethics.md)"
 
 ---
 
@@ -122,7 +122,7 @@
 
 * [閱讀其他用戶的聲音並寫下您的想法。](../PEOPLE.md)
 
-* 搜索東西: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare 搜索](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=zh) ([clearnet](https://crimeflare.eu.org/))
+* 搜索東西: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare 搜索](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=zt) ([clearnet](https://crimeflare.eu.org/))
 
 * 更新域列表: [清單說明](../INSTRUCTION.md).
 
