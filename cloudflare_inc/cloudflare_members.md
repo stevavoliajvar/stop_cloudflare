@@ -6,15 +6,15 @@
 
 | Name | Title | Else |
 | --- | --- | --- |
+| Carl Ledbetter | Pelion Venture Partners |  |
+| Katrin Suder | Partner |  |
+| Lee Holloway | founder | https://twitter.com/icqheretic |
+| Maria Eitel | Partner | https://www.linkedin.com/in/maria-eitel-78baa868 |
+| Mark Anderson | Partner |  |
 | Matthew Prince | CEO | https://twitter.com/eastdakota<br>matthew@cloudflare.com |
 | Michelle Zatlyn | founder | https://twitter.com/zatlyn<br>https://www.linkedin.com/in/michellezatlyn |
-| Lee Holloway | founder | https://twitter.com/icqheretic |
-| Mark Anderson | Partner |  |
-| Maria Eitel | Partner | https://www.linkedin.com/in/maria-eitel-78baa868 |
-| Carl Ledbetter | Pelion Venture Partners |  |
-| Stan Meresman | Partner | https://www.linkedin.com/in/stanmeresman<br>stan@meresman.com<br>http://meresman.com/ |
 | Scott Sandell | New Enterprise Associates |  |
-| Katrin Suder | Partner |  |
+| Stan Meresman | Partner | https://www.linkedin.com/in/stanmeresman<br>stan@meresman.com<br>http://meresman.com/ |
 
 
 
@@ -34,7 +34,7 @@
 | Abby Carrales McNertney | Security Compliance |  |
 | Abby Morrill | Assistant Controller |  |
 | Abdulrahim Harara | Business Development |  |
-| Abida Ali | Delivery Manager |  |
+| Abida Ali | Delivery Manager | https://twitter.com/abida_aal |
 | Achiel van der Mandele | Product Manager | achiel@cloudflare.com |
 | Adam Chalmers | Systems Engineer, Austin |  |
 | Adam Chalmers‏ | Employee | https://twitter.com/adam_chal |
@@ -95,6 +95,7 @@
 | Alvin Lin | Growth Marketing Manager |  |
 | Alvin Tai | Enterprise Sales |  |
 | Alvis Duong | Employee | alvisduong@gmail.com<br>https://www.linkedin.com/in/alvisduong |
+| Aly Cabral | Product | https://twitter.com/Aly_Cabral |
 | Amin Fawzi | Business Development |  |
 | Amir Tahsini | Customer Development |  |
 | Amit Lift | Business Development |  |
@@ -115,6 +116,7 @@
 | Andrew Fitch | Developer | https://twitter.com/fitchaj |
 | Andrew Galloni | Front End Engineer |  |
 | Andrew Geiser | Account Executive |  |
+| Andrew Hauck | Systems Engineer | https://twitter.com/andrewhavck |
 | Andrew Horton | Employee |  |
 | Andrew Kennedy | Web Developer |  |
 | Andrew Li | Employee |  |
@@ -145,9 +147,8 @@
 | Anna-Maria Gyergyai | Engineer |  |
 | Annelise Dutcher | Business Development |  |
 | Annie Yichen Tang | Sales Operations Lead |  |
-| Annika Garbers | Product Management Intern |  |
+| Annika Garbers | Product Management | https://twitter.com/annikagarbers |
 | Anthony Chobanian | Employee |  |
-| Anthony Davanzo | Product Marketing |  |
 | Anthony Hatley | Employee |  |
 | Anthony Leong | Solutions Engineering |  |
 | Antonia Tran | R & D Solutions |  |
@@ -195,7 +196,7 @@
 | Benedikt Christoph Wolters | Systems Engineer |  |
 | Benjamin Cartwright-Cox | Support Engineer |  |
 | Beth Watson | Employee |  |
-| Bethany Sonefeld | Product Designer |  |
+| Bethany Sonefeld | Product Designer | https://twitter.com/bsonefeld |
 | Betsy Sedlak | Customer Success |  |
 | Bhavin Tailor | Technical Support Engineer |  |
 | Bill Phillips | Customer Development |  |
@@ -267,7 +268,7 @@
 | Chris Snook | Systems Engineer |  |
 | Chris Snowdon | Employee |  |
 | Chris Wang | Solutions Engineer, Singapore |  |
-| Chris Wong | Sales Operations |  |
+| Chris Wong | Sales Operations | https://twitter.com/ChrisWKWong |
 | Christian Antonow | Customer Success Manager |  |
 | Christian Elmerot | Employee |  |
 | Christian Elsen | Product Manager |  |
@@ -291,7 +292,6 @@
 | Colin Lim | Head of Sales, APAC and Japan |  |
 | Colin Murray | Solutions Engineer |  |
 | Colleen Noonan | Core SRE Manager |  |
-| Conley Read | Product Engineer |  |
 | Connor Peshek | Developer Relations |  |
 | Constance Kong | Customer Development |  |
 | Constantin Britcov | Engineering Manager |  |
@@ -326,7 +326,7 @@
 | Daniel Jones | Employee |  |
 | Daniel Morsing | Systems Engineer |  |
 | Daniel Polaske | Employee |  |
-| Daniel Stinson-Diess | Security Engineer |  |
+| Daniel Stinson(-Diess) | Security Engineer | https://twitter.com/shellcromancer |
 | Daniel Weidman | Engineering Manager |  |
 | Daniel Wesonga | Customer Development |  |
 | Daniella Vallurupalli | Communications | daniella@cloudflare.com<br>https://twitter.com/BellaTweetz |
@@ -335,13 +335,14 @@
 | Darwin D. Wu | Employee |  |
 | Dastagiri Reddy | Data Engineer |  |
 | Dave Jewell | Employee |  |
+| Dave Koston | Employee | https://twitter.com/davekoston |
 | Dave Steer | Marketing | https://twitter.com/davesteer |
 | David Conrad | Technical Staff |  |
 | David Fenton | Group, Australia |  |
 | David Fritsch | Web Engineer |  |
 | David Jewell | Customer Development | https://uk.linkedin.com/in/david-jewell-77701a59 |
 | David Kephart | Employee |  |
-| David Kitchen | Systems Engineer | david.kitchen@gmail.com<br>+44.7740949212 |
+| David Kitchen | Systems Engineer | david.kitchen@gmail.com<br>+44.7740949212<br>https://david.kitchen/<br>https://twitter.com/buro91 |
 | David Lallement | Account Executive |  |
 | David Layson | Customer Success |  |
 | David Li | Sales Operations and Strategy |  |
@@ -352,7 +353,7 @@
 | David Wragg | Engineer | https://twitter.com/dwragg<br>http://david.wragg.org/<br>https://github.com/dpw<br>david@wragg.org |
 | David Zakur | Employee |  |
 | Davide D'Amico | Systems Reliability Engineer |  |
-| Dawn Giusti | Relations Analyst |  |
+| Dawn Giusti | Relations Analyst | https://twitter.com/dawngiusti |
 | Dean Riskas | Customer Development |  |
 | Deanna Popolo | Account Executive, New York City |  |
 | Deborah McRoth | Employee |  |
@@ -362,7 +363,7 @@
 | Dennis Vavasis | Employee |  |
 | Deon Roos | Solutions Engineer |  |
 | Derek Gonyeo | Systems Engineer Intern |  |
-| Derek Yee | Product Marketing |  |
+| Derek Yee | Product Marketing | https://twitter.com/derek_yee |
 | Devin Davis | Employee |  |
 | Devin Miller | IT Support Technician |  |
 | Devin Shim | Marketing Intern |  |
@@ -394,7 +395,6 @@
 | Edith Germer | Business Development |  |
 | Edo Royker | Employee |  |
 | Edward Palmer | IT Services Analyst |  |
-| Eldridge Alexander | Global IT Lead |  |
 | Elijah Velasquez | Business Development |  |
 | Elina Todorov | Global Sales Strategy |  |
 | Elisa L. Durrette | Legal-Commercial Transactions |  |
@@ -417,7 +417,7 @@
 | Erica Fox | Public Policy |  |
 | Erika Gonzalez | Account Executive |  |
 | Erin Walk | Policy Analyst |  |
-| Etienne Labaume | Support Engineer |  |
+| Etienne (Étienne) Labaume | Support Engineer | https://twitter.com/etlabaume |
 | Eva Hoyer | Head of Supply Chain |  |
 | Evan J Johnson | Security Engineer | evan@cloudflare.com<br>e@ejj.io<br>https://twitter.com/ejcx_<br>https://ejj.io/<br>https://github.com/ejcx |
 | Ewa Klepaczewska | Employee |  |
@@ -630,7 +630,7 @@
 | Jon Levine | Product Manager |  |
 | Jon Murphy | Business Development |  |
 | Jon Rankin | Solutions Engineer |  |
-| Jon Rolfe | San Francisco Employee |  |
+| Jon Rolfe | San Francisco Employee | https://twitter.com/jrolfoid |
 | Jonathan Bruce | Product |  |
 | Jonathan Burling | Customer Success Manager |  |
 | Jonathan Ganz | Application Security Engineer |  |
@@ -751,6 +751,7 @@
 | Lee Diddy | London |  |
 | Lee Hiro | Business Development APAC |  |
 | Lee Sam | Recruiting |  |
+| Leigh Ann Benicewicz | Comms | https://www.linkedin.com/pub/leigh-benicewicz/14/a6/9b<br>https://twitter.com/LeighBenz |
 | Leland Garofalo | Employee |  |
 | Lesley Lurie | Employee |  |
 | Lex Broekmeulen | Employee |  |
@@ -848,7 +849,7 @@
 | Meghan Weinreich | Demand Generation | https://twitter.com/MegWeinreich |
 | Mia Hardy-Thompson | Business Development |  |
 | Mia Wang | Special Projects |  |
-| Micah Smurthwaite | Customer Development |  |
+| Micah Smurthwaite | Customer Development | https://twitter.com/Smurda |
 | Michael A. Daly | Engineering Manager | https://twitter.com/MichaelsCloud<br>https://blog.michaelscloud.uk/ |
 | Michael Aylward | Customer Development |  |
 | Michael Buasan | Sales Operations |  |
@@ -1069,7 +1070,6 @@
 | Saad Hameed | Growth and Marketing |  |
 | Sachin Fernandes | Systems Engineer |  |
 | Sadaf Rajabi | Suppy Chain Operations |  |
-| Salvatore D'Agostino | Web Engineer |  |
 | Sam Aued | Employee |  |
 | Sam Howson | Support Engineer |  |
 | Sam Mason de Caires | UX Engineer | sam.jbmason@gmail.com<br>https://twitter.com/samjbmason<br>https://masondecair.es/<br>https://github.com/samjbmason |
@@ -1088,7 +1088,7 @@
 | Scott Jones | LMS Administrator / eLearning Developer |  |
 | Scott Olivares | Conversion Rate Optimization Lead |  |
 | Scott Pearson | Technical Support Engineer |  |
-| Scott Tomtania | Head of Recruitment |  |
+| Scott Tomtania | Head of Recruitment | https://twitter.com/TALENTWIZ |
 | Sean Thompson | Account Executive |  |
 | Sebastian McKenzie | JavaScript Engineer |  |
 | Serena Satyasai | Marketing Lead |  |
@@ -1155,7 +1155,7 @@
 | Subhashni Balakrishnan | Systems Engineer |  |
 | Sue H.J. Lim | Customer Development, Singapore |  |
 | Suman Rayala | Regional Sales Manager |  |
-| Suman Talukdar | Sales Manager, India |  |
+| Suman Talukdar | Sales Manager, India | https://twitter.com/stswww |
 | Sunil Rathode | Big Data Engineer |  |
 | Sunny Au | Employee |  |
 | Suphanat Chunhapanya | Crypto Team |  |
@@ -1172,7 +1172,7 @@
 | Sylvia Kim | Human Resources Administrator |  |
 | Sylvia Kuyel | Customer Success Engineer |  |
 | Sylvie Cosgrove | Head of Information Technology |  |
-| Sze Chuen Tan | Systems Reliability Engineer |  |
+| Sze Chuen Tan | Systems Reliability Engineer | https://twitter.com/sctan |
 | Sébastien Pahl | Systems Reliability Engineer |  |
 | Taj Bhat | Employee |  |
 | Talea Seyed | Customer Success |  |
@@ -1236,7 +1236,7 @@
 | Uzma Ali | Business Development |  |
 | Val Vesa | Community Manager | https://instagram.com/adspedia<br>https://twitter.com/adspedia |
 | Valentine Décamps | Customer Success Manager |  |
-| Vanessa Royle | Public Relations |  |
+| Vanessa Royle | Public Relations | https://twitter.com/vcroyle |
 | Varun Mehta | Employee |  |
 | Vasco Asturiano | Front End Engineer | vastur@gmail.com<br>https://twitter.com/vastur<br>https://github.com/vasturiano |
 | Vasti Porter | Front Desk |  |
@@ -1265,7 +1265,7 @@
 | Welly Tandiono | Solutions Engineer |  |
 | Wenz Xing | Special Projects Intern |  |
 | Wesley Shi | Systems Engineer |  |
-| Wesley Soeters | Account Executive |  |
+| Wesley Soeters | Account Executive | https://twitter.com/WesleySoeters |
 | Will Buckner | Systems Engineer |  |
 | Will Clithero | Customer Development |  |
 | William Fisher | Systems Engineer |  |
@@ -1313,7 +1313,10 @@
 | Name | Else |
 | --- | --- |
 | Alex Vidal | https://twitter.com/aviddy<br>Austin, TX<br>alexvidal@khanacademy.org |
+| Anthony Davanzo | https://twitter.com/exclesium |
 | Chris Joel | https://twitter.com/0xcda7a |
+| Conley Read | https://twitter.com/conleyread |
+| Eldridge Alexander | https://twitter.com/magiceldridge |
 | Elenitsa (Eli) Staykova | Marketing | https://twitter.com/EliStaykova |
 | Gilberto Bertin | gilberto@isovalent.com<br>https://twitter.com/akajibi<br>https://github.com/jibi |
 | Jimmy Crutchfield | https://twitter.com/crutchfieldj |
@@ -1327,6 +1330,7 @@
 | Nick Balestra-Foster | https://twitter.com/nickbalestra<br>https://nick.balestrafoster.com/ |
 | Philina Fan | Product Design | https://twitter.com/skyeezfalling |
 | Remy Guercio | Product Marketing | https://twitter.com/remyguercio |
+| Salvatore D'Agostino | Web Engineer | https://twitter.com/gimli |
 | Sebastien Pahl | https://twitter.com/sebp |
 | Tim Strazzere | https://twitter.com/timstrazz<br>https://rednaga.io/ |
 | Yichun Zhang (章亦春) | https://twitter.com/agentzh<br>agentzh@gmail.com<br>yichun@openresty.com |
