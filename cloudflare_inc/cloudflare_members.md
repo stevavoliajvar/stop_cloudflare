@@ -69,7 +69,7 @@
 | Alex Krivit | Employee |  |
 | Alex Musgrove | Account Executive |  |
 | Alex Odagiu | Special Projects |  |
-| Alex Robinson | Systems Engineer |  |
+| Alex Robinson | Systems Engineer | arobinson@cloudflare.com<br>https://twitter.com/alexwritescode<br>https://www.linkedin.com/in/alexdrobinson<br>https://www.zoominfo.com/p/Alex-Robinson/1816533224<br>https://github.com/a-robinson |
 | Alex Ta | Accountant |  |
 | Alex Tasioulis | Support Engineer |  |
 | Alex Thiang | Relationship Manager |  |
@@ -223,7 +223,7 @@
 | Brian Mgrdichian | Solutions Engineer |  |
 | Brian Mitchell | Support Engineer |  |
 | Brittany (Byers) Fritsch | Product Manager |  |
-| Brittany Brown | Public Relations Associate |  |
+| Brittany Brown | Public Relations Associate | https://twitter.com/brittanymbrown |
 | Brittany Martell-Harris | Accountant |  |
 | Brittany Thai | Account Executive |  |
 | Bruce Li | Employee |  |
@@ -428,7 +428,7 @@
 | Fay Lidan Dai | Product Intern |  |
 | Federico Fratucello | Employee |  |
 | Felipe B. Flores | Customer Success Manager |  |
-| Felipe Tribaldos | Customer Development |  |
+| Felipe Tribaldos | Customer Development | https://twitter.com/ftribaldos<br>https://tribaldos.com/ |
 | Filipp Nisenzoun | Employee |  |
 | Filippo Valsorda | Employee | https://twitter.com/filosottile<br>https://github.com/FiloSottile<br>filippo@cloudflare.com |
 | Flaviu Lang | Account Executive |  |
@@ -531,7 +531,7 @@
 | Jake Riesterer | Software Engineer |  |
 | Jake Serrano | IT Operations Engineer |  |
 | Jake Sinkey | Support Engineer |  |
-| Jakub Sitnicki | Employee |  |
+| Jakub Sitnicki | Employee | jakub@cloudflare.com<br>http://codecave.cc/<br>https://twitter.com/jkbs0<br>https://github.com/jsitnicki |
 | James (A.) Allworth | Head of Innovation | jaa@mac.com<br>https://twitter.com/jamesallworth<br>https://www.jamesallworth.com/<br>https://www.linkedin.com/in/jamesallworth<br>https://www.instagram.com/hype7/ |
 | James Askham | Solutions Engineer |  |
 | James Ball | Solutions Engineer |  |
@@ -661,7 +661,7 @@
 | Juan M.(Miguel) Rodriguez | IT | https://twitter.com/juanmirodriguez<br>https://www.linkedin.com/in/jrodriguezestevez<br>https://blog.cloudflare.com/why-i-am-joining-cloudflare-as-its-first-cio/ |
 | Julia Knight | Legal Intern |  |
 | Julian Hunt | EMEA Customer Development |  |
-| Julie Huchet | Product Designer |  |
+| Julie Huchet | Product Designer | jhuchet@tradecrafted.com<br>tel:4157746933<br>https://twitter.com/huchet_julie<br>https://juliehuchet.com/<br>https://www.behance.net/JULIERV752d3e<br>https://www.linkedin.com/in/julie-huchet-112740b7 |
 | Julie Sparks | Security Intern |  |
 | Julien Desgats | Systems Engineer |  |
 | Julio Pescador | Sales Operations |  |
@@ -770,7 +770,7 @@
 | Lorene Pastore | Account Executive |  |
 | Lorenz Bauer | Employee |  |
 | Louis Grace | Business Development |  |
-| Louis Poinsignon | Network Engineer |  |
+| Louis Poinsignon | Network Engineer | https://twitter.com/lpoinsig |
 | Lucas Pardue | HTTP/2 and QUIC | https://twitter.com/simmervigor<br>admin@lucaspardue.com<br>lucas@cloudflare.com |
 | Luis Vasallo | Business Development |  |
 | Luisa Gobbo | Marketing and Events |  |
@@ -837,7 +837,7 @@
 | Matvey Arye | Employee |  |
 | Maurizio Monti | Partnerships |  |
 | Mauro Nogueira | Solutions Engineer |  |
-| Max Nystrom | Product Manager |  |
+| Max Nystrom | Product Manager | https://twitter.com/maxnystrom<br>https://maxnystrom.com/<br>https://github.com/maxnystrom |
 | Maxim Matskul | Employee |  |
 | Maxime Guerreiro | DoS Mitigations | https://uk.linkedin.com/in/maximeguerreiro<br>https://github.com/PunKeel<br>https://twitter.com/punkeel<br>https://vulnerable.af/ |
 | Maxwell Mitchell | Statistician |  |
@@ -848,7 +848,7 @@
 | Mia Hardy-Thompson | Business Development |  |
 | Mia Wang | Special Projects |  |
 | Micah Smurthwaite | Customer Development |  |
-| Michael A. Daly | Engineering Manager |  |
+| Michael A. Daly | Engineering Manager | https://twitter.com/MichaelsCloud<br>https://blog.michaelscloud.uk/ |
 | Michael Aylward | Customer Development |  |
 | Michael Buasan | Sales Operations |  |
 | Michael Cummins | Customer Development |  |
@@ -973,7 +973,6 @@
 | Peter Yoakum | Employee |  |
 | Petra Arts | EU public affairs | https://twitter.com/petra_arts |
 | Phi Nguyen | Account Executive |  |
-| Philina Fan | Product Design |  |
 | Philip Bjorkman | Business Development |  |
 | Pierce Buxton | Customer Development |  |
 | Pierce Few | Employee |  |
@@ -1093,7 +1092,7 @@
 | Sebastian McKenzie | JavaScript Engineer |  |
 | Serena Satyasai | Marketing Lead |  |
 | Sergey Nuzhdin | Data Engineer |  |
-| Sergi Isasi | Product Manager |  |
+| Sergi Isasi | Product Manager | sergi@cloudflare.com<br>https://twitter.com/sgisasi<br>https://linkedin.com/in/sisasi/ |
 | Sevki Hasirci | Software Engineer |  |
 | Shaffi Chogley | Customer Success Engineer |  |
 | Shahil Khan | Sales Operations |  |
@@ -1234,6 +1233,7 @@
 | Ugo Piasentin | Employee |  |
 | Usman Muzaffar | VP of Engineering |  |
 | Uzma Ali | Business Development |  |
+| Marwan Fayed | Research Lead | marwan.fayed@st-andrews.ac.uk<br>https://twitter.com/marwanfayed<br>https://scholar.google.co.uk/citations?user=dx8XiVwAAAAJ |
 | Val Vesa | Community Manager | https://instagram.com/adspedia<br>https://twitter.com/adspedia |
 | Valentine Décamps | Customer Success Manager |  |
 | Vanessa Royle | Public Relations |  |
@@ -1243,7 +1243,7 @@
 | Venkat Viswanathan | Employee |  |
 | Vera Tsai | Taiwan Sales Manager |  |
 | Vicky Shrestha | Systems Engineer |  |
-| Victoria Bernard | Customer Support, Austin |  |
+| Victoria Bernard | Customer Support, Austin | https://twitter.com/exvuma<br>https://victoriabernard.com/<br>https://www.linkedin.com/in/msvee22 |
 | Victoria Simons | Growth Marketing Manager |  |
 | Vidya Ramakrishnan | Human Resources |  |
 | Vignesh Ravichandran | Dabase Reliability Engineer |  |
@@ -1325,6 +1325,7 @@
 | Maria Karaivanova | Business Development | https://twitter.com/mariakar<br>https://whylabs.ai/ |
 | Matt Bernhard | umbernhard@gmail.com<br>bernhard@voting.works<br>https://twitter.com/umbernhard<br>https://mbernhard.com/<br>https://github.com/umbernhard |
 | Nick Balestra-Foster | https://twitter.com/nickbalestra<br>https://nick.balestrafoster.com/ |
+| Philina Fan | Product Design | https://twitter.com/skyeezfalling |
 | Remy Guercio | Product Marketing | https://twitter.com/remyguercio |
 | Sebastien Pahl | https://twitter.com/sebp |
 | Tim Strazzere | https://twitter.com/timstrazz<br>https://rednaga.io/ |
