@@ -16,7 +16,7 @@
 | List name | Description |
 | -------- | -------- |
 | /domain/cloudflare_?.txt     | Split files (base domain)     |
-| ex_cloudflare_users.txt     | Domains which used Cloudflare in the past, not anymore     |
+| ex_cloudflare_users.md     | Domains which used Cloudflare in the past, not anymore     |
 | cloudflare_supporter.txt | who is using Cloudflare or endorsing Cloudflare. (URL only) |
 
 
@@ -77,7 +77,7 @@ IMPORTANT: Please add only "Base Domain"
 
 **But the website X no longer using Cloudflare!**
 
-Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)".
+Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.md](cloudflare_users/ex_cloudflare_users.md)".
 
 </details>
 
@@ -333,7 +333,7 @@ cf-ray: XXXXXXXXXXX-YYY
 
 ```
 
-If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.txt](cloudflare_users/ex_cloudflare_users.txt)" - after checking `example.com` with online tool below.
+If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.md](cloudflare_users/ex_cloudflare_users.md)" - after checking `example.com` with online tool below.
 
 
 1. Open "`Is MITM?`" webpage.
@@ -342,8 +342,12 @@ If `the owner` moved away from `cloudflare` **completely**, you are welcome to a
 
 3. Click `test` for detailed scan.
 
-4. If you got `---Finish---`, the domain _might_ stopped using Cloudflare. We'll _investigate_ and remove it - or not.
-  - wait some days and scan again to see whether the domain is removed
+4. If you got `---Finish---`, the domain _might_ stopped using Cloudflare.
+
+We'll _investigate_ and remove it _if_ it is true.<br>
+You may prioritize your review request by contacting us if you are in a hurry.
+
+5. [Optional] Wait some days and scan again to see whether the domain is removed.
 
 
 `Only a few Cloudflare user leave Cloudflare. False positive is uncommon.`
