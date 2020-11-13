@@ -1,6 +1,8 @@
 # Ex-Cloudflare users
 
 
+_Thank you... thank you for removing CloudFlare!_
+
 ![](../image/apology.jpg)
 
 
