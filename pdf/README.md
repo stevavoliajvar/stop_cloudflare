@@ -44,7 +44,7 @@
 | 2017 | [USCourtCase 16 3976](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/pdf/2017-USCourtCase_16_3976.pdf) |
 | 2018 | [403 Forbidden A Global View of CDN Geoblocking](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/pdf/2018-403_Forbidden_A_Global_View_of_CDN_Geoblocking.pdf) |
 | 2018 | [Cloud Security Basics](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/pdf/2018-Cloud_Security_Basics.pdf) |
-| 2018 | [Robust Website Fingerprinting Through%20the Cache Occupancy Channel](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/pdf/2018-Robust_Website_Fingerprinting_Through%20the_Cache_Occupancy_Channel.pdf) |
+| 2018 | [Robust Website Fingerprinting Through the Cache Occupancy Channel](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/pdf/2018-Robust_Website_Fingerprinting_Through_the_Cache_Occupancy_Channel.pdf) |
 | 2018 | [The Death of Transit and the Future Internet](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/pdf/2018-The_Death_of_Transit_and_the_Future_Internet.pdf) |
 | 2019 | [Analyzing Chinas Blocking of Unpublished Tor Bridges](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/pdf/2019-Analyzing_Chinas_Blocking_of_Unpublished_Tor_Bridges.pdf) |
 | 2019 | [The Great Cloudwall](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/pdf/2019-The_Great_Cloudwall.pdf) |
