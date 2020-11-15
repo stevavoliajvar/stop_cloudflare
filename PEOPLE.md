@@ -26,29 +26,18 @@ Man-in-the-middle attack is a serious offense.
 If you′re using Cloudflare on your website, you won′t get first rank.
 You shouldn′t use it if you value visitor′s privacy.
 ```
- -- [Crimeflare #Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) (_aka_ Searxes)
+ -- [Searxes](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
 
 
 ```
-There have been many cases of cloudflare denying people access to a website
-without the website owner knowing.
-I'm a legitimate user increasing my security by using a VPN but Cloudflare mistakenly
-decides I'm a bot and denies access.
-There have also been cases where Cloudflare just stops allowing anyone to visit a website
-simply because they don't think anyone should be able to.
+I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
+Activism is a duty & ethics trumps netiquette.
 
-Regardless, that's not my main objection to Cloudflare.
-As a "man in the middle", they get access to all of my traffic.
-With the SSL certificates they provide, your connection is encrypted to Cloudflare then
-decrypted and sent to the server. The lock icon in your browser means absolutely nothing
-when a third party is literally getting all of your traffic when you connect to that site.
-Beyond that, with so many sites using Cloudflare, cross-site tracking becomes a problem.
-
-In addition, with so many websites behind Cloudflare, when it goes down, half the web is down.
-The internet was designed to be decentralised and Cloudflare is centralising it.
-Half of the internet relying on a single entity is dangerous.
+Posting original information exclusively on onion sites
+is like affirmative action for the repressed Tor community.
+Correcting the wrongs of CloudFlare entails some unfair discrimination against clearnet users.
 ```
--- [Amolith](https://social.nixnet.services/@Amolith)
+-- [Activist](https://activism.openworlds.info/@aktivismoEstasMiaLuo)
 
 
 ---
@@ -465,7 +454,7 @@ Half of the internet relying on a single entity is dangerous.
 - What are my options if a customer of yours added me to an e-mail list (spamming me) and the unsubscribe link is returning a server error and not working? ([leebennett](https://twitter.com/leebennett/status/1318961864525623297))
 - You do not see Cloudflare error status in screenshot? ([medvidekpu](https://twitter.com/Medvidekpu/status/1318944222033170434))
 - this isn't discord's error message. the overlay is showing cloudflare's error message which shows your IP. you should try letting cloudflare know instead. ([zapteryx](https://twitter.com/zapteryx/status/1318695269303681024))
-- Hey can you pls tell why this voting link is showing this kind of error ⬇️⬇️👇👇 Error 1020 Ray ID: 5e539b8afa25072a •2020-10-20 15:00:17 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ([_btsstanner](https://twitter.com/_btsstanner/status/1318568476412276736))
+- Hey can you pls tell why this voting link is showing this kind of error ⬇️⬇️👇👇 Error 1020 Ray ID: 5e539b8afa25072a •2020-10-20 15:00:17 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ([_btsstanner](https://twitter.com/_btsstanner/status/1318568476412276736))
 - my discord is being very fucking weird, is it just me? it's tossing me like a cloudflare error ([aethertides](https://twitter.com/aethertides/status/1318273596872138762))
 - your site down? getting ERROR 524 and 520 reported by your CDN (cloudflare) when logging in? ([thatsnonsense](https://twitter.com/thatsnonsense/status/1317823984604426244))
 - Hey playasia, your captcha is broke. I can't login from brave browser. Even when I complete the captcha flawlessly it still makes me do more. Get rid of fucking captcha and get cloudflare production like a fucking normal website. ([tenshi_feather](https://twitter.com/tenshi_feather/status/1318560858826510336))
