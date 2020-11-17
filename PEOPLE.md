@@ -187,6 +187,7 @@ Half of the internet relying on a single entity is dangerous.
 </summary>
 
 
+- ["When you fetch a page from a website that is served from CloudFlare, Javascript has been injected on-the-fly into that page by CloudFlare, and they also plant a cookie that brands your browser with a globally-unique ID."](https://www.reddit.com/r/privacy/comments/jd6dys/when_you_fetch_a_page_from_a_website_that_is/)
 - [Tor connectiong being MITMED by Cloudflare](https://www.reddit.com/r/tails/comments/ip0gg6/tor_connectiong_being_mitmed_by_cloudflare/)
 - [Cloudflare now controls a large portion of the internet with it's MiTM-style DDOS protection.](https://www.reddit.com/r/privacy/comments/iddxb2/are_we_seriously_going_to_live_in_a_googleowned/)
 - [Cloudflare fail - a dry run to closing down the internet?](https://www.reddit.com/r/conspiracyNOPOL/comments/ijk28z/cloudflare_fail_a_dry_run_to_closing_down_the/)
@@ -217,6 +218,7 @@ Half of the internet relying on a single entity is dangerous.
 - [Cloudflare is down again!](https://dev.lemmy.ml/post/37708)
 - [I'm free now.](https://www.reddit.com/r/FinlayDaG33k/comments/hthp0s/im_free_now/)
 - [How to stop and disable stupid Hcaptcha from our Cloudflare site?](https://community.cloudflare.com/t/how-to-stop-and-disable-stupid-hcaptcha-from-our-cloudflare-site/160194)
+- [Cloudflare: l'OPA silenziosa sul web](https://www.reddit.com/r/ItalyInformatica/comments/belhyu/cloudflare_lopa_silenziosa_sul_web/)
 - [STOP USING hCAPTCHA](https://community.cloudflare.com/t/stop-using-hcaptcha/158968)
 - [Cloudflare is down](https://www.reddit.com/r/CloudFlare/comments/ht4iz1/cloudflare_is_down/)
 - [hehe cloudflare ded](https://www.reddit.com/r/memes/comments/ht5fnc/hehe_cloudflare_ded/)
