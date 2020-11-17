@@ -457,6 +457,18 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Your Cloudflare for your site is setup badly configured - it is not allowing anyone to access your site - been on a revolving captcha / cloudflare / captcha for 15 minutes. You may want to have a look at it. ([jamjarchris1](https://twitter.com/JamJarChris1/status/1327575364382679040))
+- You've heard of captcha, but now get ready for triple captcha, because cloudflare is shit and sometimes makes me complete the captcha multiple times in a row ([bistupnsfw](https://twitter.com/BistupNSFW/status/1326240221067948039))
+- A typical night: CAPTCHA loops on . At least ReCAPTCHA actually got out of the way. ([tyteen4a03](https://twitter.com/tyteen4a03/status/1325209258594480134))
+- any chance you can reduce cloudflare bot detection now? I get captcha everytime I check the status page. Also I think you have a caching issue on one server as I often get the update for the 27th instead of 29th (keep force refreshing to see what I mean) ([afinzel](https://twitter.com/afinzel/status/1322110310623420417))
+- plz end all captcha? captcha has been a waste of human lifespan for a computers job supporting the Cloudflare business model makes that worse not better ([hubeit](https://twitter.com/hubeit/status/1321027266084823050))
+- I created a support ticket in the Forum, but upon submitting it, I got an error message that my IP has been blocked by CloudFlare. Help? How can I get support? Thank you!! ([mpeaglerdigital](https://twitter.com/MPeaglerDigital/status/1328414890667675651))
+- I'm getting a CloudFlare error when trying to view the ISC2 Congress events. Is something going on? ([temeculas](https://twitter.com/TemeculaS/status/1328374839145418753))
+- I can't access the website because cloudflare gives me an error 1020. I want to buy from the website but I can't. ([rgabbal](https://twitter.com/RGabbal/status/1328207967750029312))
+- - are you guys down right now or is it just me? I'm getting a Bad Gateway error from Cloudflare when I try to access site. ([persistenzapaga](https://twitter.com/PersistenzaPaga/status/1327507508810825733))
+- Your website isn’t working. I’m getting a Cloudflare error. ([vmoodley](https://twitter.com/vmoodley/status/1327486012558290944))
+- Is site down? Getting an Error 1020 (cloudflare) page when trying to access it... ([david_bogart](https://twitter.com/David_Bogart/status/1327469882619858944))
+- me: notices weird ssl error when visiting domain wtf cloudflare?? me: pings domain to see IP is off of cloudflare's network 😤😤 ([joeydotdev](https://twitter.com/joeydotdev/status/1327456406522503168))
 - Hi Paul, for maybe a month or so I’ve been unable to access jshowbiz and it just says access denied (error 1020). For what it’s worth my Cloudflare Ray ID is 5e95daebfba810b1. I’ve been using your site daily for years and would like to keep doing it but I can’t :/ ([eyeneedless](https://twitter.com/eyeneedless/status/1321482606094012417))
 - Error 1020 Ray ID: 5e95975dda2ac286 • 2020-10-28 15:11:46 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 5e95975dda2ac286 Your IP: 188.57.123.51 Performance & security by Cloudflare ([drshelleylbeer1](https://twitter.com/DrShelleyLBeer1/status/1321469797062901762))
 - I can´t use the dashboard, gives a cloudflare error. ([home3d](https://twitter.com/home3d/status/1321231391879811074))
