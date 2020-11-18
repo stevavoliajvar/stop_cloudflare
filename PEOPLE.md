@@ -459,6 +459,8 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Cloudflare thinks I'm a robot. Apparently their captcha and I disagree on what counts as a boat. ([jrobinette](https://twitter.com/jrobinette/status/1328814900643237888))
+- Hey Vishal, it looks like Cloudflare can't connect to your hosting account, which usually means the server your website is hosted on is down. If you're seeing it often and you want something much more reliable, drop a line - we can help! Hope that error goes away soon. ([skystracloud](https://twitter.com/skystracloud/status/1328754091103809537))
 - Your Cloudflare for your site is setup badly configured - it is not allowing anyone to access your site - been on a revolving captcha / cloudflare / captcha for 15 minutes. You may want to have a look at it. ([jamjarchris1](https://twitter.com/JamJarChris1/status/1327575364382679040))
 - You've heard of captcha, but now get ready for triple captcha, because cloudflare is shit and sometimes makes me complete the captcha multiple times in a row ([bistupnsfw](https://twitter.com/BistupNSFW/status/1326240221067948039))
 - A typical night: CAPTCHA loops on . At least ReCAPTCHA actually got out of the way. ([tyteen4a03](https://twitter.com/tyteen4a03/status/1325209258594480134))
