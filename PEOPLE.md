@@ -459,6 +459,7 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- Note that this extension can't prevent all CAPTCHAs. Website administrators can choose to disable the Cloudflare mechanism that enables this. You would also see a CAPTCHA over the Tor Browser in that case. ([testestesya](https://twitter.com/testestesya/status/1329030069382230017))
 - Cloudflare thinks I'm a robot. Apparently their captcha and I disagree on what counts as a boat. ([jrobinette](https://twitter.com/jrobinette/status/1328814900643237888))
 - Hey Vishal, it looks like Cloudflare can't connect to your hosting account, which usually means the server your website is hosted on is down. If you're seeing it often and you want something much more reliable, drop a line - we can help! Hope that error goes away soon. ([skystracloud](https://twitter.com/skystracloud/status/1328754091103809537))
 - Your Cloudflare for your site is setup badly configured - it is not allowing anyone to access your site - been on a revolving captcha / cloudflare / captcha for 15 minutes. You may want to have a look at it. ([jamjarchris1](https://twitter.com/JamJarChris1/status/1327575364382679040))
