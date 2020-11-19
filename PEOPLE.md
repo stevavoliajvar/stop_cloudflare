@@ -118,6 +118,7 @@ Half of the internet relying on a single entity is dangerous.
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+- [Personal post: I left Cloudflare](https://www.ethanyoo.com/cloudflare/)
 - [Crimeflare (Fuck Cloudflare) / bandcamp / music](https://polarisfm.bandcamp.com/releases)
 - [Cloudflare outage and the risk in today's Internet](https://www.garron.blog/posts/cloudflare-outage.html)
 - [Turns out half the internet has a Single-Point-of-Failure called “Cloudflare”](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
