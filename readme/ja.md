@@ -47,7 +47,7 @@
 |  クラウドフレアのhttpsは決してエンドツーエンドではありません。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
 |  あなたは本当にあなたのデータをクラウドフレア、そしてまた3文字の政府機関と共有したいですか？ | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
 |  インターネットユーザーのオンラインプロファイルは、政府や大手ハイテク企業が購入したい「製品」です。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
-|  米国国土安全保障省はかつてこう言った：:<br><br>「あなたが持っているデータがどれほど価値があるかについて、考えたことはありますか？そのデータを私たちに売ってもらえますか？」  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
+|  米国国土安全保障省はかつてこう言った:<br><br>「あなたが持っているデータがどれほど価値があるかについて、考えたことはありますか？そのデータを私たちに売ってもらえますか？」  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
 |  クラウドフレアは「クラウドフレアWarp」と呼ばれる無料のVPNサービスも提供しています。これを使用すると、すべてのスマートフォン（またはコンピューター）の接続がクラウドフレアサーバーに送信されます。クラウドフレアは、あなたが読んだWebサイト、投稿したコメント、誰と話したかなどを知っています。あなたはクラウドフレアにすべての情報を自発的に提供しています。「ご冗談を、クラウドフレアは安全です。」というのなら、VPNがどのように機能するかを学ぶべきです。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howvpnwork.jpg) |
 |  クラウドフレアは、VPNサービスによってインターネットが高速になると述べています。ただし、VPNを使用すると、インターネット接続が既存の接続よりも遅くなります。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/notfastervpn.jpg) |
 |  あなたはすでにPRISM事件について知っているかもしれません。AT＆TがNSAに監視のためにすべてのインターネットデータをコピーさせたのは事実です。 | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
@@ -62,7 +62,7 @@
 ---
 
 
-##    次のページに進んでください:  "[クラウドフレアの倫理](en.ethics.md)"
+##    次のページに進んでください:  "[クラウドフレアの倫理](ja.ethics.md)"
 
 ---
 
@@ -120,7 +120,7 @@
 
 * [他のユーザーの声を読んで、あなたの考えを書いてください。](../PEOPLE.md)
 
-* 何かを検索する: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://crimeflare.eu.org/))
+* 何かを検索する: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=ja) ([clearnet](https://crimeflare.eu.org/))
 
 * ドメインリストを更新する: [リストの説明](../INSTRUCTION.md).
 
