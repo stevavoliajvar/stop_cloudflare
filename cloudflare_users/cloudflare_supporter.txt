@@ -59,7 +59,7 @@ https://opencollective.com/cristian-bicheru
 https://opencollective.com/jadewang
 https://opencollective.com/junade
 https://opencollective.com/mabin
-https://openprivacy.ca/  (see https://codeberg.org/crimeflare/cloudflare-tor/issues/1#issuecomment-57325 )
+https://openprivacy.ca/  (see https://codeberg.org/crimeflare/stop_cloudflare/issues/1#issuecomment-57325 )
 https://resistance.social/
 https://social.avareborn.de/@nipos
 https://social.privacytools.io/@BurungHantu
