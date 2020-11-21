@@ -1,7 +1,7 @@
 # Etyske saken
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Stypje dit bedriuw net dat etysk is"
 
@@ -34,8 +34,8 @@ Hoe kinne wy ​​Cloudflare stopje sûnder Cloudflare te aktivearjen?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ As jo ​​in negatyf resinsje pleatse op elke beoordelingsside, sille se besyk
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ As jo ​​net wolle wurde pesten, oanfalle, swatte of fermoarde, bliuwst bette
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ It is heul skriklik dat in Amerikaanske korporaasje om goeddiedigens soe freegje
 As jo ​​graach wolle blokkearje of tiid fan oaren fergrieme, wolle jo miskien wat pizza's bestelle foar meiwurkers fan Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Wat sille jo dwaan as jo side ynienen sakket?
 D'r binne rapporten dat Cloudflare de konfiguraasje fan de brûker wisket of tsjinst stopt sûnder warskôging, stil.
 Wy riede oan dat jo in bettere leveransier fine.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare jout foarkarbehandeling oan dyjingen dy't Firefox brûke, wylst se fi
 Tor-brûkers fan dy't mei rjocht wegerje net-fergees javascript út te fieren, krije ek fijannige behanneling.
 Dizze tagongs ongelikens is in netwurkneutraliteit misbrûk en in misbrûk fan macht.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Lofts: Tor Browser, rjochts: Chrome. Itselde IP-adres.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Lofts: Tor Browser Javascript útskeakele, koekje ynskeakele
 - Rjochts: Chrome Javascript ynskeakele, koekje útskeakele
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (minor browser) sûnder Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Tink derom dat papierregistraasje Cloudflare net omearmet, om't de sekretaris fa
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org is in ferneamde webside foar it sammeljen fan stimmen en aksje te nimmen.
 “minsken begjinne oeral kampanjes, mobilisearje supporters en wurkje mei beslútjouwers om oplossingen te stjoeren.”
@@ -200,7 +200,7 @@ In oare net-cloudflared platfoarm brûke, lykas OpenPetition, helpt it probleem 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare's "Atheenske projekt" biedt fergese beskerming op ûndernimmingsnivo oan steats- en lokale ferkiezingswebsides.
 Se seine "har kiezers kinne tagong krije ta ferkiezingsynformaasje en kiezerregistraasje", mar dit is in leagen, om't in protte minsken gewoanwei de side net kinne blêdzje.
@@ -220,7 +220,7 @@ As jo ​​der foar ôfkarre, ferwachtsje jo dat jo der gjin e-post oer krije.
 Cloudflare negearje de foarkar fan brûker en diele gegevens mei korporaasjes fan tredden sûnder tastimming fan klanten.
 As jo ​​har fergese plan brûke, stjoere se soms e-post nei jo om te freegjen om alle moannen abonnemint te keapjen.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Hy neamde ek dat it privacybelied fan Cloudflare der net oer neamt.
 Harren nije privacybelied makket gjin melding fan behâlden fan gegevens foar in jier.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Hoe kinne jo Cloudflare fertrouwe as har privacybelied in LIE is?
 
@@ -276,7 +276,7 @@ Jo moatte gjin domeinen of kredytkaarten hawwe ferbûn oan jo akkount foardat jo
 
 Jo sille dizze befêstigings-e-post krije.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Wy binne begon jo ferwideringsoanfraach te ferwurkjen" mar "Wy sille trochgean mei opslaan fan jo persoanlike ynformaasje".
 
@@ -297,5 +297,5 @@ Kinst dit "fertrouwe"?
 
 ## Trochgean asjebleaft nei folgjende pagina:   [Wolkenflaterstimmen](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
