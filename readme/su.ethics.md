@@ -1,7 +1,7 @@
 # Masalah Étika
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Tong ngadukung perusahaan ieu anu teu aya étika"
 
@@ -34,8 +34,8 @@ Kumaha cara urang ngeureunkeun Cloudflare tanpa ngaktipkeun Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Upami anjeun pasang ulasan négatip dina situs naon waé, aranjeunna bakal nyobi
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Upami anjeun henteu kéngingkeun diganggu, nyerang, digeret atanapi dibunuh, anj
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare naroskeun sumbangan amal.
 Upami anjeun resep ngahalangan jalma atanapi miceun waktos jalma sanés, anjeun panginten badé mesen sababaraha pizza kanggo karyawan Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Naon anu anjeun bakal laksanakeun upami situs anjeun turun?
 Aya laporan yén Cloudflare ngahapus konfigurasi pangguna atanapi layanan lirén tanpa peringatan, cicingeun.
 Kami nyarankeun anjeun panyadia anu langkung saé.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare masihan perawatan langkung milih kanggo anu ngagunakeun Firefox bari 
 Pamaké Tor anu leres-leres nolak pikeun ngaéksekusi javascript henteu gratis ogé nampi perlakuan anu dimusuhan.
 Kasaruaan aksés ieu mangrupikeun panyiksa nétralitas jaringan sareng nyiksa kakuatan.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Kénca: Tor Browser, Bener: Chrome. Alamat IP anu sami.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Kénca: Tor Browser Javascript Disable, Cookie Enased
 - Katuhu: Diaktipkeun Javascript Chrome, Cookie Pareum
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (browser minor) tanpa Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Catetan yén pendaptaran kertas henteu ngaganggu Cloudflare sabab sekretaris kar
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org mangrupikeun halaman wéb anu kasohor pikeun ngumpul sora sareng nyandak tindakan.
 “masarakat dimana-mana anu ngamimitian kampanye, nguatkeun pendukung, sareng gawé bareng produsén kaputusan pikeun ngajalankeun solusi.”
@@ -200,7 +200,7 @@ Nganggo platform non-Cloudflared séjén sapertos OpenPetition ngabantuan ngarob
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare's "Athenian Project" nawiskeun perlindungan tingkat perusahaan bebas pikeun situs web pamilihan umum sareng lokal.
 Saur aranjeunna "konstituénna tiasa ngaksés inpormasi pamilihan sareng pendaptaran pamilih" tapi ieu bohong kusabab seueur jalma ngan saukur henteu tiasa ngotéktak dina situs sanés.
@@ -220,7 +220,7 @@ Upami anjeun milih-milih hiji hal, anjeun ngarepkeun yén anjeun nampi email hen
 Cloudflare teu malire leuwih sering milih pangguna sareng ngabagi data sareng perusahaan pihak katilu tanpa idin ti nasabah.
 Upami anjeun nganggo rencana bébasna, aranjeunna kadang-kadang ngirim email ka anjeun anu mésér mésér langganan bulanan.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Anjeunna ogé nyebatkeun yén kabijakan privasi Cloudflare henteu nyebut ngeunaa
 Kawijakan privasi anyarna henteu nganggo nyebut ngaropéa data sataun.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Kumaha anjeun tiasa percanten Cloudflare upami kabijakan privasi maranéhanana nyaéta LIE?
 
@@ -276,7 +276,7 @@ Anjeun kedah henteu ngagaduhan domain atanapi kartu kiridit anu napel kana akun 
 
 Anjeun bakal nampa email konfirmasi ieu.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Kami parantos ngolah panyabutan hapusan anjeun" tapi "Kami bakal tetep nyimpen inpormasi pribadi anjeun".
 
@@ -297,5 +297,5 @@ Naha anjeun tiasa "percanten" ieu?
 
 ## Mangga neruskeun halaman hareup:   [Cloudflare Suara](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
