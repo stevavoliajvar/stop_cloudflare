@@ -1,7 +1,7 @@
 # Etik konular
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Etik olmayan bu şirketi desteklemeyin"
 
@@ -34,8 +34,8 @@ Cloudflare'yi etkinleştirmeden Cloudflare'yi nasıl durdurabiliriz?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Herhangi bir inceleme sitesinde olumsuz bir inceleme gönderirseniz, onu sansür
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Tacize uğramak, saldırıya uğramak, dövülmek veya öldürülmek istemiyorsa
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Bir Amerikan şirketinin, iyi nedenleri olan kar amacı gütmeyen kuruluşların
 İnsanları engellemeyi veya başkalarının zamanını boşa harcamayı seviyorsanız, Cloudflare çalışanları için pizza sipariş etmek isteyebilirsiniz.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Siteniz aniden kapanırsa ne yapacaksınız?
 Cloudflare'nin kullanıcının yapılandırmasını sildiğine veya herhangi bir uyarı vermeden, sessizce hizmeti durdurduğuna dair raporlar var.
 Daha iyi bir sağlayıcı bulmanızı öneririz.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare, Firefox kullananlara Tor üzerinden Tor-Tarayıcı olmayan kullanıc
 Özgür olmayan javascript çalıştırmayı haklı olarak reddeden Tor kullanıcıları da düşmanca muamele görürler.
 Bu erişim eşitsizliği, ağ tarafsızlığının kötüye kullanılması ve gücün kötüye kullanılmasıdır.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Sol: Tor Tarayıcı, Sağ: Chrome. Aynı IP adresi.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Sol: Tor Tarayıcı Javascript Devre Dışı, Çerez Etkin
 - Sağ: Chrome Javascript Etkin, Çerez Devre Dışı
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - Tor (Clearnet IP) olmadan QuteBrowser (küçük tarayıcı)
 
@@ -190,7 +190,7 @@ Devlet veri girişi sekreteri personel çalışanları, verileri girmek için b�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org, oy toplamak ve harekete geçmek için ünlü bir web sitesidir.
 “her yerdeki insanlar kampanyalar başlatıyor, destekçileri harekete geçiriyor ve çözümlere yön vermek için karar vericilerle çalışıyor.”
@@ -200,7 +200,7 @@ OpenPetition gibi diğer bulut içermeyen platformların kullanılması sorunun 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare'nin "Atina Projesi", eyalet ve yerel seçim web sitelerine kurumsal düzeyde ücretsiz koruma sağlar.
 "Seçmenleri seçim bilgilerine ve seçmen kayıtlarına erişebilir" dediler, ancak bu bir yalan çünkü birçok kişi siteye hiç göz atamıyor.
@@ -220,7 +220,7 @@ Bir şeyi devre dışı bırakırsanız, bununla ilgili hiçbir e-posta almamay�
 Cloudflare, kullanıcının tercihini görmezden gelir ve verileri müşterinin izni olmadan üçüncü taraf şirketlerle paylaşır.
 Ücretsiz planlarını kullanıyorsanız, bazen size aylık abonelik satın almanızı isteyen e-posta gönderirler.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Ayrıca Cloudflare'nın gizlilik politikasının bundan bahsetmediğini de belir
 Yeni gizlilik politikaları, verilerin bir yıl boyunca saklanmasından bahsetmiyor.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Gizlilik politikaları bir YALAN ise Cloudflare'ye nasıl güvenebilirsiniz?
 
@@ -276,7 +276,7 @@ Silme talebinde bulunmadan önce hesabınıza hiçbir etki alanı veya kredi kar
 
 Bu onay e-postasını alacaksınız.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Silme talebinizi işleme koymaya başladık" ancak "Kişisel bilgilerinizi saklamaya devam edeceğiz".
 
@@ -297,5 +297,5 @@ Buna "güvenebilir misin"?
 
 ## Lütfen sonraki sayfaya devam edin:   [Cloudflare Sesleri](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
