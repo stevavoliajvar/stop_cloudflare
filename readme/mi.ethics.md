@@ -1,7 +1,7 @@
 # Nga Take Huinga
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Kaua e tautoko i tenei kamupene kaore i te matatika"
 
@@ -34,8 +34,8 @@ Me pehea e aukati ai i a Cloudflare me te kore e whakahohe i a Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Mena ka whakairi e koe he arotake kino ki runga i tetahi papaanga arotake, ka ng
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Mena kaore koe e hiahia ki te whakawehi, whakaekea, whakangaromia, mate ranei, p
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Kei te tino miharo kei te hiahia tetahi roopu o Amerika ki te tono aroha me nga 
 Mena kei te pirangi koe ki te aukati i nga taangata ki te tarai i te waa o etahi atu ranei, ka hiahia pea koe ki te tono i etahi pihi mo nga kaimahi Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Ka ahatia e koe mena ka heke ohorere to papaanga?
 He ripoata kei a Cloudflare te whakakore i te whirihoranga a te kaiwhakamahi ki te aukati ratonga ranei ma te kore e whakatupato.
 Ka kii atu maau kia pai ake taau kaiwhakarato.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ Ka tukuna e CloudFlare nga maimoatanga pai ki te hunga e whakamahi ana i a Firef
 Ko nga kaiwhakamahi Tor o te hunga e kore e pai ki te mahi i nga javascript kore-kore e whakawhiwhia ano ki te maimoatanga whakaharahara.
 Ko te whakaurunga ki te whakauru i tenei mahi he kohinga korekore whakahoahoa me te whakakino i te mana.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Tau maui: Tor Pūtirotiro, Matau: Chrome. He rite te Wāhitau IP.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Kei maui: Tor he Torotuhi Javascript Torotiti, Pihikete Whakahohe
 - Tika: Kua whakahohea te Javascript Chrome, Monokia Haurangi
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (kaitirotiro iti) kaore he Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Kia mahara kaore te rehitatanga o te pepa e haehae ki a Cloudflare na te mea ko 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - He paetukutuku rongonui a Change.org mo te kohikohi pooti me te mahi.
 “kei te tiimata nga tangata ki nga waahi katoa, ki te whakaihiihi i nga kaitautoko, me te mahi tahi me nga kaihanga whakatau ki te whakaputa otinga.”
@@ -200,7 +200,7 @@ Ma te whakamahi i etahi atu papanga kaore-kapua pērā i OpenPournement e awhina
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Ko te "Athenian Project" a Cloudflare e tuku ana i te tiakitanga ki te taumata-hinonga koreutu ki nga paetukutuku pooti a rohe me te rohe.
 I kii ratou "ka uru o raatau rangatira ki nga korero pooti me te rehitatanga o nga pooti" engari he korero teka tenei na te mea kaore e taea e te tini te tiro i te papaanga.
@@ -220,7 +220,7 @@ Mena ka tohua e koe tetahi mea, ka whakaaro koe kaore koe i te imeera mo runga.
 Kei warewarehia e Cloudflare te hiahia o te kaiwhakamahi me te tiri i nga raraunga ki nga umanga tuatoru kaore i whakaae nga kaihoko.
 Mena kei te whakamahi koe i ta raatau mahere koreutu, ka tukuna e ratou etahi imeera ki a koe kia tono koe ki te hoko i te ohaurunga marama.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ I kii ano ia ko te kaupapa here a Cloudflare kaore e kii mo taua mea.
 Kaore a ratau kaupapa here hou e whakahua i te pupuri raraunga mo te tau.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Me pehea e whakawhirinaki ai koe ki a Cloudflare mena he KOREUTU o a raatau kaupapa here tūmataiti?
 
@@ -276,7 +276,7 @@ Kaua e whai hea whenua, kāri nama ranei ka piri ki to putea i mua i te tono kia
 
 Ka whiwhi koe i tenei imeera whakaū.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Kua tiimata matou ki te tukatuka i to tono mukua" engari "Ka whakapumautia e matou ki te rokiroki i o korero whaiaro"
 
@@ -297,5 +297,5 @@ Ka taea e koe "whakawhirinaki" tenei?
 
 ## Tonu ki muri panui:   [Nga Manu Korero](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
