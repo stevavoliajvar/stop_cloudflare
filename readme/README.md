@@ -1,6 +1,6 @@
-# [How to help translate cloudflare-tor](translateData/instructions.md)
+# [How to help translate stop_cloudflare](translateData/instructions.md)
 
 
 ---
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
