@@ -29,7 +29,7 @@ $VERSION = "20201110";
 
     #	Special thanks to: "eo, tsaavik"
     authors     => "Anonymous",
-    contact     => 'anonymous@cloudflare-tor.nab',
+    contact     => 'anonymous@stop_cloudflare.nab',
     name        => "irssi_cf_alturl.pl",
     description => "Cloudflare URL replacer",
     license     => "WTFPL",
