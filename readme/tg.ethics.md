@@ -1,7 +1,7 @@
 # Масъалаҳои ахлоқӣ
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Ин ширкатро, ки аз ахлоқ дур нест, дастгирӣ накунед"
 
@@ -34,8 +34,8 @@ Cloudflare гуфт, ки истифодаи хидматҳои онҳо мет�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare гуфт, ки истифодаи хидматҳои онҳо мет�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare маълумоти шахсии онҳое, ки аз сайтҳои 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare аз саҳмияҳои хайрия дархост менамояд.
 Агар шумо бастани одамон ё вақти ғами одамони дигарро маъқул кунед, шумо метавонед барои кормандони Cloudflare баъзе пиццаҳоро фармоиш диҳед.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare аз саҳмияҳои хайрия дархост менамояд.
 Гузоришҳое ҳастанд, ки Cloudflare конфигуратсияи корбарро қатъ мекунад ё хидматро бидуни ҳеҷ гуна огоҳӣ хомӯш мекунад.
 Мо пешниҳод менамоем, ки шумо провайдери беҳтареро пайдо кунед.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare ба онҳое, ки Firefox-ро истифода мебаранд,
 Корбарони Tor, ки ба таври қонунӣ аз иҷрои javascript-и ройгӣ даст мекашанд, муомилаи душманона доранд.
 Ин нобаробарии дастрасӣ сӯиистифода дар бетарафии шабакавӣ ва сӯиистифода аз қудрат аст.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Аз чап: браузери Tor, рост: Chrome. Суроғаи IP ҳамон.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Аз чап: Tor Browser Javascript хомӯш аст, куки фаъол аст
 - Аз рост: Chrome Javascript фаъол аст, куки ғайрифаъол аст
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (браузери ноболиғ) бе Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ CloudFlare ба онҳое, ки Firefox-ро истифода мебаранд,
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org вебсайти машҳурест барои ҷамъоварии овозҳо ва андешидани чораҳо.
 “дар ҳама ҷо одамон маъракаҳоро оғоз мекунанд, ҷонибдоронро сафарбар мекунанд ва бо тасмимгирандагон оид ба ҳалли масъала кор мекунанд.”
@@ -200,7 +200,7 @@ CloudFlare ба онҳое, ки Firefox-ро истифода мебаранд,
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - "Лоиҳаи Афина" Cloudflare барои вебсайтҳои давлатӣ ва маҳаллӣ дар сатҳи интихобот ройгон дар сатҳи корхонаҳо пешниҳод мекунад.
 Онҳо гуфтанд, "интихобкунандагони онҳо метавонанд ба иттилоот дар бораи интихобот ва сабти овоздиҳандагон дастрасӣ дошта бошанд", аммо ин дурӯғ аст, зеро аксари мардум сайтро тамоман дида наметавонанд.
@@ -220,7 +220,7 @@ CloudFlare ба онҳое, ки Firefox-ро истифода мебаранд,
 Cloudflare афзалияти корбарро нодида мегирад ва маълумотро бо корпоратсияҳои шахсони сеюм бидуни розигии муштарӣ мубодила мекунад.
 Агар шумо нақшаи ройгони худро истифода баред, онҳо баъзан ба шумо паёми электронӣ мефиристанд, ки обунаи ҳармоҳаро харед.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Cloudflare дар бораи калимаи "хориҷ" намедониста�
 Сиёсати нави махфияти онҳо дар бораи нигоҳ доштани маълумот дар давоми як сол чизе намегӯяд.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Шумо ба Cloudflare чӣ гуна боварӣ дошта метавонед, агар сиёсати махфияти онҳо LIE бошад?
 
@@ -276,7 +276,7 @@ Cloudflare дар бораи калимаи "хориҷ" намедониста�
 
 Шумо ин имейлро тасдиқ мекунед.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Мо ба коркарди дархости ҳазфи шумо шурӯъ кардем" аммо "Мо нигоҳ доштани маълумоти шахсии шуморо идома хоҳем дод".
 
@@ -297,5 +297,5 @@ Cloudflare дар бораи калимаи "хориҷ" намедониста�
 
 ## Лутфан ба саҳифаи оянда идома диҳед:   [Овозҳои Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
