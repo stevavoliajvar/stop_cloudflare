@@ -1,7 +1,7 @@
 # नैतिक मुद्दाहरू
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "यस कम्पनीलाई समर्थन नगर्नुहोस् जुन नैतिकता शून्य छ"
 
@@ -34,8 +34,8 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@
 यदि तपाईं मानिसहरूलाई ब्लक गर्न वा अन्य व्यक्तिको समय बर्बाद गर्न मनपराउनुहुन्छ भने, तपाईं क्लाउडफ्लेयर कर्मचारीहरूका लागि केहि पिज्जा अर्डर गर्न सक्नुहुन्छ।
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@
 त्यहाँ रिपोर्टहरू छन् कि क्लाउडफ्लेयरले प्रयोगकर्ताको कन्फिगरेसन मेटाइरहेको छ वा कुनै चेतावनी बिना चुपचाप सेवा बन्द गर्दैछ।
 हामी सुझाव दिन्छौं कि तपाईले राम्रो प्रदायक खोज्नुहोस्।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@
 Tor प्रयोगकर्ताहरू जसले गैरकानुनी जाभास्क्रिप्ट कार्यान्वयन गर्न इन्कार गर्दछन् शत्रुतापूर्ण उपचार पनि पाउँछन्।
 यो पहुँच असमानता एक नेटवर्क तटस्थता दुरुपयोग र शक्तिको दुरुपयोग हो।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - बाँया: टोर ब्राउजर, दायाँ: क्रोम। उही आईपी ठेगाना।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - बाँया: टोर ब्राउजर जाभास्क्रिप्ट अक्षम, कुकी सक्षम पारियो
 - दाँया: क्रोम जाभास्क्रिप्ट सक्षम, कुकी अक्षम
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - क्युटब्रोउजर (सानो ब्राउजर) टोर बिना (क्लेरनेट आईपी)
 
@@ -190,7 +190,7 @@ Tor प्रयोगकर्ताहरू जसले गैरकान�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org मतहरू जम्मा गर्न र कार्य गर्नको लागि प्रसिद्ध वेबसाइट हो।
 “मानिसहरू जताततै अभियानहरू सुरू गरिरहेका छन्, समर्थकहरूलाई परिचालन गर्दैछन, र निर्णय ड्राइभरहरूसँग समाधानका लागि काम गरिरहेका छन्।”
@@ -200,7 +200,7 @@ Tor प्रयोगकर्ताहरू जसले गैरकान�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - क्लाउडफ्लेयरको "एथेन्सियन प्रोजेक्ट" ले राज्य र स्थानीय निर्वाचन वेबसाइटहरूलाई नि: शुल्क उद्यम-स्तर सुरक्षा प्रदान गर्दछ।
 उनीहरूले भने कि "उनीहरूका घटकहरूले निर्वाचन सूचना र मतदाता रेजिष्ट्रेसन पहुँच गर्न सक्दछन्" तर यो झुठो कुरा हो किनकि धेरै व्यक्तिहरूले केवल साइट ब्राउज गर्न सक्दैनन्।
@@ -220,7 +220,7 @@ Tor प्रयोगकर्ताहरू जसले गैरकान�
 क्लाउडफ्लेयरले प्रयोगकर्ताको प्राथमिकतालाई बेवास्ता गर्दछ र तेस्रो-पार्टी निगमहरूको ग्राहकको स्वीकृति बिना डाटा साझेदारी गर्दछ।
 यदि तपाईं तिनीहरूको नि: शुल्क योजना प्रयोग गर्दै हुनुहुन्छ भने, तिनीहरू कहिलेकाँही तपाईंलाई ईमेल पठाउँछन् मासिक सदस्यता किन्नको लागि।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Tor प्रयोगकर्ताहरू जसले गैरकान�
 तिनीहरूको नयाँ गोपनीयता नीतिले एक बर्षको लागि डाटा कायम राख्नको बारे कुनै उल्लेख गर्दैन।
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 यदि तपाईं क्लाउडफ्लेयरलाई कसरी विश्वास गर्न सक्नुहुन्छ यदि तिनीहरूको गोपनीयता नीति एक LIE हो?
 
@@ -276,7 +276,7 @@ Tor प्रयोगकर्ताहरू जसले गैरकान�
 
 तपाईंले यो पुष्टिकरण ईमेल प्राप्त गर्नुहुनेछ।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "हामीले तपाईंको मेटाउने अनुरोधलाई प्रक्रिया गर्न थालिसकेका छौं" तर "हामी तपाइँको व्यक्तिगत जानकारी भण्डारण गर्न जारी राख्छौं"।
 
@@ -297,5 +297,5 @@ Tor प्रयोगकर्ताहरू जसले गैरकान�
 
 ## कृपया अर्को पृष्ठमा जारी राख्नुहोस्:   [क्लाउडफ्लेयर आवाजहरू](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
