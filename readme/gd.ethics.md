@@ -1,7 +1,7 @@
 # Cùisean beusanta
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Na cuir taic ris a ’chompanaidh seo a tha falamh bho bheusachd"
 
@@ -34,8 +34,8 @@ Ciamar as urrainn dhuinn stad a chuir air Cloudflare gun Cloudflare a ghnìomhac
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Ma chuireas tu lèirmheas àicheil air làrach ath-bhreithneachaidh sam bith, fe
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Mura h-eil thu airson do shàrachadh, ionnsaigh, swat no marbhadh, is fheàrr dh
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Tha e uamhasach uamhasach gum biodh corporra Ameireaganach ag iarraidh carthanna
 Ma tha thu a ’còrdadh riut a bhith a’ cur bacadh air daoine no a ’caitheamh ùine dhaoine eile, is dòcha gum biodh tu airson cuid de pizzas òrdachadh airson luchd-obrach Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Dè a nì thu ma thèid an làrach agad sìos gu h-obann?
 Tha aithrisean ann gu bheil Cloudflare a ’cuir às do rèiteachadh an neach-cleachdaidh no a’ stad seirbheis gun rabhadh sam bith, gu sàmhach.
 Tha sinn a ’moladh gun lorg thu solaraiche nas fheàrr.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ Bidh CloudFlare a ’toirt làimhseachadh fàbharach dhaibhsan a tha a’ cleach
 Bidh luchd-cleachdaidh Tor a dhiùltas gu ceart javascript neo-saor a chuir an gnìomh cuideachd a ’faighinn làimhseachadh nàimhdeil.
 Tha an neo-ionannachd ruigsinneachd seo na ana-cleachdadh neodrachd lìonra agus ana-cleachdadh cumhachd.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Clì: Brabhsair Tor, Deas: Chrome. An aon seòladh IP.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Clì: Tor Browser Javascript Ciorramach, Comasachadh Cookie
 - Deas: Chrome Javascript air a chomasachadh, briosgaid ciorramach
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (mion-bhrobhsair) às aonais Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Thoir fa-near nach eil clàradh pàipeir a ’dol timcheall air Cloudflare oir i
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Tha Change.org na làrach-lìn ainmeil airson a bhith a ’tional bhòtaichean agus a’ dol an gnìomh.
 “tha daoine anns a h-uile àite a ’tòiseachadh iomairtean, a’ gluasad luchd-taic, agus ag obair le luchd-co-dhùnaidh gus fuasglaidhean a stiùireadh.”
@@ -200,7 +200,7 @@ Bidh a bhith a ’cleachdadh àrd-ùrlar neo-sgòthan eile leithid OpenPetition 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Tha “Pròiseact Athenian” Cloudflare a ’tabhann dìon aig ìre iomairt an-asgaidh do làraich-lìn taghaidh stàite agus ionadail.
 Thuirt iad “gum faigh na buill-phàrlamaid aca cothrom air fiosrachadh taghaidh agus clàradh luchd-bhòtaidh” ach is e breug a tha seo leis nach urrainn dha mòran dhaoine sùil a thoirt air an làrach idir.
@@ -220,7 +220,7 @@ Ma roghnaicheas tu rudeigin, tha dùil agad nach fhaigh thu post-d mu dheidhinn.
 Bidh Cloudflare a ’seachnadh roghainn an neach-cleachdaidh agus a’ roinn dàta le corporaidean treas-phàrtaidh às aonais cead an neach-ceannach.
 Ma tha thu a ’cleachdadh am plana an-asgaidh aca, bidh iad uaireannan a’ cur post-d thugad ag iarraidh fo-sgrìobhadh mìosail a cheannach.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Thuirt e cuideachd nach eil poileasaidh prìobhaideachd Cloudflare a ’toirt io
 Chan eil am poileasaidh prìobhaideachd ùr aca a ’toirt iomradh sam bith air cumail dàta airson bliadhna.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Ciamar as urrainn dhut earbsa a chur ann an Cloudflare ma tha am poileasaidh prìobhaideachd aca mar LIE?
 
@@ -276,7 +276,7 @@ Chan fhaod raointean no cairtean creideis a bhith agad ris a ’chunntas agad mu
 
 Gheibh thu am post-d dearbhaidh seo.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 “Tha sinn air tòiseachadh air an iarrtas cuir às agad a phròiseasadh” ach “Cumaidh sinn oirnn a’ stòradh d ’fhiosrachadh pearsanta”.
 
@@ -297,5 +297,5 @@ An urrainn dhut "earbsa" a dhèanamh air seo?
 
 ## Feuch an lean thu air adhart chun ath dhuilleag:   [Guthan Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
