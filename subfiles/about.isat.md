@@ -20,7 +20,7 @@ This add-on never send other information.
 [1] How to use offline database
 	1. Open add-on's option page and select "Use Offline Local Database".
 	2. Click "Database" link.
-	3. Create a new text file[2] (or download text file from cloudflare-tor)
+	3. Create a new text file[2] (or download text file from stop_cloudflare)
 	4. Click "Import Database" and select your text file.
 	5. Wait until the message appear.
 
@@ -39,5 +39,5 @@ This add-on never send other information.
  
 
 Download add-on
-- From Crimeflare (_Recommend_): [Firefox ESR / Chromium](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
-- From Gitea (Delay Sync): [FirefoxESR](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/addons/releases/isat.xpi) / [Chromium](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/addons/releases/isat.crx)
+- From Crimeflare (_Recommend_): [Firefox ESR / Chromium](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
+- From Gitea (Delay Sync): [FirefoxESR](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/addons/releases/isat.xpi) / [Chromium](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/addons/releases/isat.crx)
