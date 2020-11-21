@@ -1,7 +1,7 @@
 # Kev Teeb Meem
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Tsis txhob txhawb nqa lub tuam txhab no uas yog qhov tsis lees paub ntawm kev coj zoo"
 
@@ -34,8 +34,8 @@ Peb tuaj yeem nres Cloudflare yam tsis muaj kev ua kom Cloudflare zoo li cas?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Yog tias koj tso qhov kev ntsuas tsis zoo ntawm ib qho chaw tshuaj xyuas, lawv y
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Yog tias koj tsis xav tau kev ua phem, ua phem rau, kev ua kom sib luag lossis t
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Nws yog qhov txaus ntshai heev uas ib lub koom haum Asmeskas yuav thov kom muaj 
 Yog tias koj nyiam txhaws cov neeg lossis nkim lwm tus neeg lub sijhawm, koj tuaj yeem xav xaj qee lub pizzas rau Cloudflare cov neeg ua haujlwm.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Koj yuav ua li cas yog tias koj lub xaib nqis qis dua?
 Muaj cov ntaub ntawv qhia tias Cloudflare yog lwv tus neeg siv lub teeb tsa lossis nres kev pabcuam yam tsis muaj kev ceebtoom, ntsiag to.
 Peb xav kom koj nrhiav cov kws kho mob zoo dua.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare muab kev nyiam rau cov uas siv Firefox thaum muab kev kho mob tsis zo
 Tor cov neeg siv uas tsis kam lees ua qhov kev txiav txim tsis siv javascript kuj tau txais kev kho mob tsis zoo.
 Qhov kev nkag mus ntawm qhov tsis sib xws yog kev sib koom tes hauv kev sib koom tes thiab kev tsim txom ntawm lub zog.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Sab laug: Tor Browser, Txoj Cai: Chrome. Tib IP chaw nyob.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Sab laug: Tor Browser Javascript xiam oob khab, Cookie Enabled
 - Txoj Cai: Chrome Javascript Ua Haujlwm, Cov Ncuav Qab Zib Ua Tsis Taus
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (me browser) tsis muaj Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Nco ntsoov tias daim ntawv sau npe tsis dhau Cloudflare vim tias tus tuav ntaub 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org yog lub vas sab npe nrov rau kev sib sau ua ke thiab pov npav.
 “cov neeg nyob txhua qhov chaw pib phiaj los nqis tes, nrhiav cov neeg txhawb nqa, thiab ua haujlwm nrog cov neeg txiav txim siab los tsav cov kev daws teeb meem.”
@@ -200,7 +200,7 @@ Siv lwm lub platform uas tsis yog huab xws li OpenPetition pab kho qhov teeb mee
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare's "Athenian Project" muaj kev tiv thaiv kev lag luam dawb-qib rau lub xeev thiab lub nroog kev xaiv tsa cov vev xaib.
 Lawv tau hais tias "lawv cov neeg tawm suab tuaj yeem nkag mus saib tau cov ntaub ntawv pov ntawv xaiv tsa thiab cov ntaub ntawv pov npav xaiv tsa" tab sis qhov no yog qhov dag vim hais tias ntau tus neeg tsuas tuaj yeem tshawb tsis tau lub chaw.
@@ -220,7 +220,7 @@ Yog tias koj xaiv tawm ib yam dab tsi, koj xav tias koj yuav tsis tau txais emai
 Cloudflare tsis quav ntsej cov neeg siv khoom lub siab nyiam thiab sib qhia cov ntaub ntawv nrog lub tuam txhab thib peb yam tsis tau txais kev pom zoo ntawm cov neeg siv khoom.
 Yog tias koj tab tom siv lawv cov phiaj xwm dawb, qee zaum lawv xa email rau koj hais kom xav yuav ib qho nyiaj hli them txhua hli.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Nws kuj tau hais tias Cloudflare cov cai ntiag tug tsis hais txog nws.
 Lawv txoj cai ntiag tug tshiab tsis suav txog kev khaws cov ntaub ntawv rau ib xyoos.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Koj tuaj yeem ntseeg Cloudflare li cas yog lawv txoj cai ntiag tug yog LIE?
 
@@ -276,7 +276,7 @@ Koj yuav tsum tsis muaj kev sau npe lossis credit card uas txuas nrog koj tus le
 
 Koj yuav tau txais email kabke no.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Peb tau pib ua tiav qhov koj thov kom tshem tawm" tab sis "Peb yuav txuas ntxiv khaws koj cov ntaub ntawv ntiag tug".
 
@@ -297,5 +297,5 @@ Koj puas tuaj yeem "ntseeg" no?
 
 ## Thov txuas mus rau nplooj ntawv tom ntej:   [Cloudflare Cov Suab Mloog](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
