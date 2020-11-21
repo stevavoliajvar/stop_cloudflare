@@ -19,5 +19,5 @@ Your domain collection is yours.
 
 
 Download add-on
-- From Crimeflare (_Recommend_): [Firefox ESR / Chromium](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
-- From Gitea (Delay Sync): [FirefoxESR](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/addons/releases/urjm.xpi) / [Chromium](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/addons/releases/urjm.crx)
+- From Crimeflare (_Recommend_): [Firefox ESR / Chromium](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
+- From Gitea (Delay Sync): [FirefoxESR](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/addons/releases/urjm.xpi) / [Chromium](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/addons/releases/urjm.crx)
