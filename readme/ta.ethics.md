@@ -1,7 +1,7 @@
 # ஒழுக்கநெறி பிரச்சினைகள்
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "நெறிமுறைகள் இல்லாத இந்த நிறுவனத்தை ஆதரிக்க வேண்டாம்"
 
@@ -34,8 +34,8 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@
 நீங்கள் மக்களைத் தடுக்க அல்லது பிறரின் நேரத்தை வீணடிக்க விரும்பினால், கிளவுட்ஃப்ளேர் ஊழியர்களுக்கு சில பீஸ்ஸாக்களை ஆர்டர் செய்ய விரும்பலாம்.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@
 கிளவுட்ஃப்ளேர் பயனரின் உள்ளமைவை நீக்குகிறது அல்லது சேவையை எந்த எச்சரிக்கையும் இல்லாமல் அமைதியாக நிறுத்துகிறது என்று தகவல்கள் உள்ளன.
 சிறந்த வழங்குநரைக் கண்டுபிடிக்க நாங்கள் பரிந்துரைக்கிறோம்.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@
 இலவசமில்லாத ஜாவாஸ்கிரிப்டை இயக்க சரியாக மறுக்கும் டோர் பயனர்களும் விரோத சிகிச்சையைப் பெறுகிறார்கள்.
 இந்த அணுகல் சமத்துவமின்மை ஒரு பிணைய நடுநிலைமை துஷ்பிரயோகம் மற்றும் அதிகார துஷ்பிரயோகம் ஆகும்.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - இடது: டோர் உலாவி, வலது: குரோம். அதே ஐபி முகவரி.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - இடது: டோர் உலாவி ஜாவாஸ்கிரிப்ட் முடக்கப்பட்டது, குக்கீ இயக்கப்பட்டது
 - வலது: குரோம் ஜாவாஸ்கிரிப்ட் இயக்கப்பட்டது, குக்கீ முடக்கப்பட்டது
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - டோர் (க்ளியர்நெட் ஐபி) இல்லாமல் QuteBrowser (சிறிய உலாவி)
 
@@ -190,7 +190,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org என்பது வாக்குகளை சேகரிப்பதற்கும் நடவடிக்கை எடுப்பதற்கும் ஒரு பிரபலமான வலைத்தளம்.
 “எல்லா இடங்களிலும் உள்ளவர்கள் பிரச்சாரங்களைத் தொடங்குகிறார்கள், ஆதரவாளர்களை அணிதிரட்டுகிறார்கள், தீர்வுகளை எடுக்க முடிவெடுப்பவர்களுடன் இணைந்து செயல்படுகிறார்கள்.”
@@ -200,7 +200,7 @@ OpenPetition போன்ற பிற மேகக்கணி அல்லா�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - கிளவுட்ஃப்ளேரின் "ஏதெனியன் திட்டம்" மாநில மற்றும் உள்ளூர் தேர்தல் வலைத்தளங்களுக்கு இலவச நிறுவன அளவிலான பாதுகாப்பை வழங்குகிறது.
 "தங்கள் தொகுதிகள் தேர்தல் தகவல்களையும் வாக்காளர் பதிவையும் அணுக முடியும்" என்று அவர்கள் கூறினர், ஆனால் இது ஒரு பொய், ஏனென்றால் பலர் தளத்தை உலாவ முடியாது.
@@ -220,7 +220,7 @@ OpenPetition போன்ற பிற மேகக்கணி அல்லா�
 கிளவுட்ஃப்ளேர் பயனரின் விருப்பத்தை புறக்கணித்து வாடிக்கையாளரின் அனுமதியின்றி மூன்றாம் தரப்பு நிறுவனங்களுடன் தரவைப் பகிரவும்.
 நீங்கள் அவர்களின் இலவச திட்டத்தைப் பயன்படுத்துகிறீர்கள் என்றால், சில நேரங்களில் மாதாந்திர சந்தாவை வாங்கும்படி அவர்கள் உங்களுக்கு மின்னஞ்சல் அனுப்புவார்கள்.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ OpenPetition போன்ற பிற மேகக்கணி அல்லா�
 அவர்களின் புதிய தனியுரிமைக் கொள்கை ஒரு வருடத்திற்கான தரவைத் தக்கவைத்துக்கொள்வது பற்றி எதுவும் குறிப்பிடவில்லை.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 கிளவுட்ஃப்ளேரின் தனியுரிமைக் கொள்கை ஒரு பொய் என்றால் நீங்கள் எவ்வாறு நம்பலாம்?
 
@@ -276,7 +276,7 @@ OpenPetition போன்ற பிற மேகக்கணி அல்லா�
 
 இந்த உறுதிப்படுத்தல் மின்னஞ்சலைப் பெறுவீர்கள்.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "உங்கள் நீக்குதல் கோரிக்கையை நாங்கள் செயல்படுத்தத் தொடங்கினோம்" ஆனால் "உங்கள் தனிப்பட்ட தகவல்களை நாங்கள் தொடர்ந்து சேமிப்போம்".
 
@@ -297,5 +297,5 @@ OpenPetition போன்ற பிற மேகக்கணி அல்லா�
 
 ## அடுத்த பக்கத்திற்குத் தொடரவும்:   [கிளவுட்ஃப்ளேர் குரல்கள்](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
