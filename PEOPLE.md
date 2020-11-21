@@ -460,6 +460,9 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- hi Jeph. I'm having trouble connecting to QC in the UK. Getting a Cloudflare error. Just thought I'd let you know x ([malphaswats](https://twitter.com/MalphasWats/status/1329873534290694144))
+- Hello there! I am unable to access hackforums cuz I received this error from Cloudflare: Error reference number: 1020 ([antrung12](https://twitter.com/AnTrung12/status/1329783736246837250))
+- May we have a screenshot shared here (for 3090) ? I can't access your website due to a recurrent cloudflare error😅 ([sta_sty](https://twitter.com/sta_sty/status/1329728731338977283))
 - Note that this extension can't prevent all CAPTCHAs. Website administrators can choose to disable the Cloudflare mechanism that enables this. You would also see a CAPTCHA over the Tor Browser in that case. ([testestesya](https://twitter.com/testestesya/status/1329030069382230017))
 - Cloudflare thinks I'm a robot. Apparently their captcha and I disagree on what counts as a boat. ([jrobinette](https://twitter.com/jrobinette/status/1328814900643237888))
 - Hey Vishal, it looks like Cloudflare can't connect to your hosting account, which usually means the server your website is hosted on is down. If you're seeing it often and you want something much more reliable, drop a line - we can help! Hope that error goes away soon. ([skystracloud](https://twitter.com/skystracloud/status/1328754091103809537))
