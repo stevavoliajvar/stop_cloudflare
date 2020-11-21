@@ -1,7 +1,7 @@
 # Etiki meseleler
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Etika ýok bu kompaniýany goldamaň"
 
@@ -34,8 +34,8 @@ Bu ýönekeý. Emma “Cloudflare” gyzyklanmaýar.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Islendik syn sahypasynda negatiw syn goýsaňyz, senzura etmäge synanyşarlar.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Azar bermek, hüjüm etmek, aldamak ýa-da öldürmek islemeýän bolsaňyz, “
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Amerikan korporasiýasynyň oňat sebäpleri bolan telekeçilik däl guramalar b
 Adamlary petiklemek ýa-da başga adamlaryň wagtyny ýitirmek isleseňiz, “Cloudflare” -iň işgärleri üçin käbir pizzalary sargyt edip bilersiňiz.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Sahypaňyz birden ýykylsa näme ederdiňiz?
 “Cloudflare” ulanyjynyň konfigurasiýasyny pozýar ýa-da hiç hili duýduryş bermezden hyzmaty duruzýar.
 Has gowy üpjün ediji tapmagyňyzy maslahat berýäris.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ Has gowy üpjün ediji tapmagyňyzy maslahat berýäris.
 Mugt däl javascript-i ýerine ýetirmekden ýüz öwürýän tor ulanyjylary hem duşmançylykly çemeleşýärler.
 Bu elýeterlilik deňsizligi, tor bitaraplygyndan hyýanatçylykly peýdalanmak we ygtyýarlykdan hyýanatçylykly peýdalanmak.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Çepden: Tor brauzeri, sagda: Chrome. Birmeňzeş IP adresi.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Çepden: Tor brauzeri Javascript ýapyk, Cookie açyk
 - Sagda: Chrome Javascript açyk, gutapjyk ýapyk
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - Tor (Clearnet IP) bolmasa QuteBrowser (kiçi brauzer)
 
@@ -190,7 +190,7 @@ Kagyzlaryň hasaba alynmagy “Cloudflare” -den geçmeýär, sebäbi maglumatl
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org ses ýygnamak we çäre görmek üçin meşhur web sahypasydyr.
 “hemme ýerdäki adamlar kampaniýalara başlaýarlar, goldawçylary ýygnaýarlar we çözgüt tapmak üçin karar berýänler bilen işleşýärler.”
@@ -200,7 +200,7 @@ Olara haýyşnama gol çekmek gadagan edilýär, şeýlelik bilen olary demokrat
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - “Cloudflare” -niň “Afiny taslamasy” döwlet we ýerli saýlaw web sahypalaryna mugt kärhana derejesinde gorag hödürleýär.
 "Saýlawçylary saýlaw maglumatlaryna we saýlawçylary bellige alyp bilerler" diýdiler, ýöne bu ýalan, sebäbi köp adam sahypa asla seredip bilmeýär.
@@ -220,7 +220,7 @@ Bir zady ret etseňiz, bu hakda e-poçta almajakdygyňyza garaşýarsyňyz.
 “Cloudflare” ulanyjynyň islegini äsgermezlik edýär we müşderiniň razylygy bolmazdan üçünji tarap korporasiýalary bilen maglumatlary paýlaşýar.
 Mugt meýilnamasyny ulanýan bolsaňyz, käwagt abuna ýazylmagyny haýyş edip size e-poçta iberýärler.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Eger hakykatdanam aýyrylan bolsa, näme üçin bu öňki müşderi e-poçta ald
 Täze gizlinlik syýasaty, bir ýyllap maglumatlary saklamak barada hiç zat aýtmaýar.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Gizlinlik syýasaty LIE bolsa, “Cloudflare” nädip ynanyp bilersiňiz?
 
@@ -276,7 +276,7 @@ we habar bölüminde hasabyň öçürilmegini haýyş ediň.
 
 Bu tassyklama e-poçta alarsyňyz.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Öçürmek haýyşyňyzy gaýtadan işläp başladyk" ýöne "Şahsy maglumatlaryňyzy saklamagy dowam etdireris".
 
@@ -297,5 +297,5 @@ Muňa "ynanyp" bilersiňizmi?
 
 ## Indiki sahypa dowam etmegiňizi haýyş edýäris:   [Bulut sesleri](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
