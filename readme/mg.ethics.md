@@ -1,7 +1,7 @@
 # Laharana etika
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Aza manohana ity orinasa ity izay tsy misy etika"
 
@@ -34,8 +34,8 @@ Ahoana no ahafahantsika manakana ny Cloudflare nefa tsy manetsika ny Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Raha mandefa valin-kevitra ratsy ianao any amin'ny tranokala momba ny famerenana
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Raha tsy te-hikorontana ianao, hanafika, hamonoana na hamono, dia aleo lavitra n
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Mahagaga ahy fa ny orinasam-pirenena amerikana iray dia hangataka fiantrana miar
 Raha tianao ny manakana ny olona na handany andro amin'ny olon-kafa, dia mety handidy pisa ho an'ny mpiasa Cloudflare ianao.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Inona no hataonao raha midina tampoka ny tranokalanao?
 Misy ny tatitra fa ny Cloudflare dia mamafa ny fifandrindran'ny mpampiasa na ny fampiatoana serivisy tsy misy fampandrenesana, mangina.
 Manoro hevitra izahay hahita anao mpamatsy tsara kokoa.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare dia manome fitsaboana tsara kokoa ho an'ireo izay mampiasa Firefox re
 Ireo mpampiasa Tor izay mandà tsy hanaiky ny javascript tsy misy fetra dia mahazo fitsaboana mankahala.
 Ity tsy fitoviana ity dia fanararaotana tsy fanarahan-dalàna amin'ny tambajotra ary fanararaotam-pahefana.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Ankavia: Tor Browser, havanana: Chrome. Adiresy IP mitovy.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Ankavia: Tsy manan-tsofina Javascript Tor Browser, Voasazy Cookie
 - Ankavanana: Nahazoana ny Javascript Chrome, kilasy Cookie
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (navigateur kely) tsy misy Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Marihina fa tsy mihodidina ny Cloudflare ny fanoratana taratasy satria mety hias
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org dia tranonkala malaza amin'ny fanangonana fifidianana ary handraisana andraikitra.
 “manomboka ny fanentanana ny olona na aiza na aiza dia manentana ireo mpanohana ary miara-miasa amin'ireo mpanapa-kevitra mitondra vahaolana.”
@@ -200,7 +200,7 @@ Ny fampiasana sehatra tsy misy rahona hafa toy ny OpenPetition dia manampy amin'
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Ny "Athenian Project" Cloudflare dia manome fiarovana amin'ny sehatry ny sehatra malalaka amin'ny tranokala an'ny fanjakana sy eo an-toerana.
 Nolazain'izy ireo fa "afaka mahazo ny mombamomba ny fifidianana sy ny fisoratana anarana ny mpifidy" ny mpirehareha "saingy mandainga izany satria maro ny olona tsy afaka mijery an'ity tranonkala ity mihitsy.
@@ -220,7 +220,7 @@ Raha mifidy zavatra ianao, dia manantena fa tsy mahazo mailaka momba izany ianao
 Ny Cloudflare tsy miraharaha ny filan'ny mpampiasa ary mizara angon-drakitra amin'ny orinasam-pifandraisana tsy misy ny faneken'ny mpanjifa.
 Raha mampiasa ny drafitra maimaimpoana ianao dia mandefa mailaka aminao izy ireo indraindray rehefa mangataka hividy famandrihana isam-bolana.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Nolazainy ihany koa fa ny politikan'ny tsiambaratelo Cloudflare dia tsy miresaka
 Ny politikany vaovao manokana dia tsy voamarika ny fitazonana ny angona mandritra ny herintaona.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Ahoana no ahafahanao matoky ny Cloudflare raha LIE ny politikany?
 
@@ -276,7 +276,7 @@ Tsy mila manana takona na carte de crédit mipetaka amin'ny kaontinao ianao aloh
 
 Ho azonao ny mailaka fanamafisana.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Izahay dia nanomboka nanamboatra ny fangatahana fanafoanana" fa "hanohy hitahiry ny mombamomba anao manokana izahay".
 
@@ -297,5 +297,5 @@ Azonao atao ve ny "matoky" azy?
 
 ## Azafady tohizo ny pejy manaraka:   [Feon'ny Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
