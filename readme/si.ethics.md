@@ -1,7 +1,7 @@
 # සදාචාරාත්මක ගැටළු
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "ආචාර ධර්ම වලින් තොර මෙම සමාගමට සහාය නොදක්වන්න"
 
@@ -34,8 +34,8 @@ Cloudflare සක්‍රිය නොකර Cloudflare නැවැත්ව�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare වාරණය සෘණ සමාලෝචන.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare හි විශාල හිරිහැර කිරීමේ ග�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare පුණ්‍යාධාර ඉල්ලා සිටී.
 ඔබ මිනිසුන් අවහිර කිරීමට හෝ වෙනත් පුද්ගලයින්ගේ කාලය නාස්ති කිරීමට කැමති නම්, ඔබට ක්ලවුඩ්ෆ්ලේර් සේවකයින් සඳහා පීසා කිහිපයක් ඇණවුම් කිරීමට අවශ්‍ය විය හැකිය.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare පුණ්‍යාධාර ඉල්ලා සිටී.
 Cloudflare කිසිදු අනතුරු ඇඟවීමකින් තොරව නිහ ly ව පරිශීලකයාගේ වින්‍යාසය මකා දැමීම හෝ සේවාව නැවැත්වීම පිළිබඳ වාර්තා තිබේ.
 වඩා හොඳ සැපයුම්කරුවෙකු සොයා ගැනීමට අපි ඔබට යෝජනා කරමු.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ Cloudflare කිසිදු අනතුරු ඇඟවීමකින් ත
 නිදහස් නොවන ජාවාස්ක්‍රිප්ට් ක්‍රියාත්මක කිරීම නිවැරදිව ප්‍රතික්ෂේප කරන ටෝර් භාවිතා කරන්නන්ට ද සතුරු ප්‍රතිකාර ලැබේ.
 මෙම ප්‍රවේශ අසමානතාවය ජාල මධ්‍යස්ථභාවය අනිසි ලෙස භාවිතා කිරීම සහ බලය අයුතු ලෙස භාවිතා කිරීමකි.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - වමේ: ටෝර් බ්‍රව්සරය, දකුණ: ක්‍රෝම්. එකම IP ලිපිනය.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - වමේ: ටෝර් බ්‍රව්සර් ජාවාස්ක්‍රිප්ට් අක්‍රීය, කුකී සක්‍රීය කර ඇත
 - දකුණ: ක්‍රෝම් ජාවාස්ක්‍රිප්ට් සක්‍රීය, කුකී අක්‍රීය කර ඇත
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - ටෝර් (ක්ලියර්නෙට් අයිපී) නොමැතිව QuteBrowser (සුළු බ්‍රව්සරය)
 
@@ -190,7 +190,7 @@ Cloudflare කිසිදු අනතුරු ඇඟවීමකින් ත
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org යනු ඡන්ද රැස් කිරීම සහ පියවර ගැනීම සඳහා ප්‍රසිද්ධ වෙබ් අඩවියකි.
 “සෑම තැනකම සිටින ජනයා උද් s ෝෂන ආරම්භ කිරීම, ආධාරකරුවන් බලමුලු ගැන්වීම සහ විසඳුම් ලබා ගැනීම සඳහා තීරණ ගන්නන් සමඟ කටයුතු කිරීම.”
@@ -200,7 +200,7 @@ OpenPetition වැනි වලාකුළු රහිත වේදිකා�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - ක්ලවුඩ්ෆ්ලෙයාර් හි “ඇතීනියානු ව්‍යාපෘතිය” රාජ්‍ය හා පළාත් පාලන මැතිවරණ වෙබ් අඩවි සඳහා නොමිලේ ව්‍යවසාය මට්ටමේ ආරක්ෂාවක් සපයයි.
 "ඔවුන්ගේ සං ents ටකයන්ට මැතිවරණ තොරතුරු සහ ඡන්ද දායකයින් ලියාපදිංචි කිරීම සඳහා ප්‍රවේශ විය හැකිය" යනුවෙන් ඔවුන් පැවසූ නමුත් මෙය බොරුවකි, මන්ද බොහෝ දෙනෙකුට වෙබ් අඩවිය පිරික්සීමට නොහැකි බැවිනි.
@@ -220,7 +220,7 @@ OpenPetition වැනි වලාකුළු රහිත වේදිකා�
 Cloudflare පරිශීලකයාගේ මනාපය නොසලකා හරින අතර ගනුදෙනුකරුවන්ගේ අවසරයකින් තොරව තෙවන පාර්ශවීය සමාගම් සමඟ දත්ත බෙදා ගනී.
 ඔබ ඔවුන්ගේ නොමිලේ සැලැස්ම භාවිතා කරන්නේ නම්, ඔවුන් සමහර විට මාසික දායකත්වයක් මිලදී ගැනීමට ඉල්ලමින් ඔබට විද්‍යුත් තැපෑලක් යවයි.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Cloudflare පරිශීලකයාගේ මනාපය නොසලකා 
 ඔවුන්ගේ නව රහස්‍යතා ප්‍රතිපත්තිය වසරක් සඳහා දත්ත රඳවා තබා ගැනීම ගැන කිසිදු සඳහනක් නොකරයි.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Cloudflare හි රහස්‍යතා ප්‍රතිපත්තිය LIE නම් ඔබ විශ්වාස කරන්නේ කෙසේද?
 
@@ -276,7 +276,7 @@ Cloudflare ගිණුම මකා දැමීම දුෂ්කර මට�
 
 ඔබට මෙම තහවුරු කිරීමේ විද්‍යුත් තැපෑල ලැබෙනු ඇත.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "අපි ඔබගේ මකාදැමීමේ ඉල්ලීම ක්‍රියාවට නැංවීමට පටන් ගෙන ඇත්තෙමු" නමුත් "අපි ඔබේ පුද්ගලික තොරතුරු දිගටම ගබඩා කරන්නෙමු".
 
@@ -297,5 +297,5 @@ Cloudflare ගිණුම මකා දැමීම දුෂ්කර මට�
 
 ## කරුණාකර ඊළඟ පිටුවට යන්න:   [වලාකුළු හ o](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
