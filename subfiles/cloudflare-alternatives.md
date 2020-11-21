@@ -27,7 +27,7 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
 | BunnyCDN | ? | $0.01+ | https://bunnycdn.com/ |
 | Codeberg pages    | no custom domain support; tor hostility | Free | https://pages.codeberg.org/ |
 | Gitee pages | must understand Chinese | Free | https://gitee.com/help/articles/4136 |
-| Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
+| Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/stop_cloudflare) by Github) |
 | Level 3 | ? | Enterprise | https://www.centurylink.com/ |
 | PerimeterX        | not gratis                        | ? | - |
 | Sharktech DDoS Solutions | ? | ? | https://sharktech.net/ |
