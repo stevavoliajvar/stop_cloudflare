@@ -1,7 +1,7 @@
 # 倫理道德問題
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "不要支持這家缺乏道德的公司"
 
@@ -34,8 +34,8 @@ Cloudflare表示，使用他們的服務可以阻止所有垃圾郵件發送者�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare審查員負面評論。
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare分享那些抱怨託管站點的人的個人信息。
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare要求慈善捐款。
 如果您喜歡阻止別人或浪費別人的時間，則可能需要為Cloudflare員工訂購一些比薩餅。
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare要求慈善捐款。
 有報導稱，Cloudflare正在默默地刪除用戶的配置或在沒有任​​何警告的情況下停止服務。
 我們建議您找到更好的提供商。
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@ CloudFlare為使用Firefox的用戶提供了優先待遇，同時對非Tor瀏覽
 有權拒絕執行非免費javascript的Tor用戶也將受到敵對待遇。
 這種訪問不平等是網絡中立性濫用和權力濫用。
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - 左：Tor瀏覽器，右：Chrome。相同的IP地址。
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - 左：Tor瀏覽器Javascript已禁用，Cookie已啟用
 - 右：啟用Chrome Javascript，禁用Cookie
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser（小型瀏覽器），不帶Tor（Clearnet IP）
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@ Cloudflare對Tor用戶的敵視態度，其MITM作為全球集中監視點的位
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org是一個著名的網站，用於收集選票並採取行動。
 “各地的人們都在發起運動，動員支持者，並與決策者合作以尋求解決方案。”
@@ -205,7 +205,7 @@ Cloudflare對Tor用戶的敵視態度，其MITM作為全球集中監視點的位
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare的“雅典計劃”為州和地方選舉網站提供免費的企業級保護。
 他們說“他們的選民可以訪問選舉信息和選民登記表”，但這是一個謊言，因為許多人根本無法瀏覽該網站。
@@ -225,7 +225,7 @@ Cloudflare對Tor用戶的敵視態度，其MITM作為全球集中監視點的位
 Cloudflare會忽略用戶的偏好，並在未經客戶同意的情況下與第三方公司共享數據。
 如果您使用他們的免費計劃，他們有時會向您發送電子郵件，要求購買每月訂閱。
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@ Cloudflare不了解“刪除”一詞。
 他們的新隱私權政策沒有提及保留一年的數據。
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 如果Cloudflare的隱私政策是LIE，您如何信任他們？
 
@@ -283,7 +283,7 @@ Cloudflare不了解“刪除”一詞。
 
 您將收到此確認電子郵件。
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 “我們已開始處理您的刪除請求”，但“我們將繼續存儲您的個人信息”。
 
@@ -319,5 +319,5 @@ Cloudflare不了解“刪除”一詞。
 
 ## 請繼續下一頁:   [Cloudflare聲音](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
