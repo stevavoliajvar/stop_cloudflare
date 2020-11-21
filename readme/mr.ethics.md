@@ -1,7 +1,7 @@
 # नैतिक समस्या
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "नीतिशास्त्र अमान्य असलेल्या या कंपनीचे समर्थन करू नका"
 
@@ -34,8 +34,8 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@
 आपण लोकांना अवरोधित करणे किंवा इतर लोकांचा वेळ वाया घालविणे आवडत असल्यास आपणास क्लाउडफ्लेअर कर्मचार्‍यांसाठी काही पिझ्झा मागवावा लागेल.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@
 असे अहवाल आहेत की क्लाउडफ्लेअर शांततेने वापरकर्त्याचे कॉन्फिगरेशन हटवित आहे किंवा कोणत्याही चेतावणीशिवाय सेवा थांबवित आहे.
 आम्ही सुचवितो की आपणास उत्तम प्रदाता शोधा.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@
 टोर वापरकर्त्यांनो, जे विना-रहित जावास्क्रिप्ट चालविण्यास नकार दर्शवित आहेत त्यांना देखील प्रतिकूल उपचार मिळतात.
 ही प्रवेश असमानता नेटवर्क तटस्थता दुरुपयोग आणि शक्तीचा गैरवापर आहे.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - डावा: टॉर ब्राउझर, उजवा: क्रोम. समान आयपी पत्ता.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - डावा: टॉर ब्राउझर जावास्क्रिप्ट अक्षम, कुकी सक्षम
 - उजवा: Chrome Javascript सक्षम, कुकी अक्षम
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - टोर (क्लेरनेट आयपी) शिवाय क्यूटब्रोझर (किरकोळ ब्राउझर)
 
@@ -190,7 +190,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - मते एकत्रित करण्यासाठी आणि कारवाई करण्यासाठी चेंज डॉट कॉम ही एक प्रसिद्ध वेबसाइट आहे.
 “सर्वत्र लोक मोहिम सुरू करीत आहेत, समर्थकांची जमवाजमव करीत आहेत आणि निराकरण करण्यासाठी निर्णय घेणाrs्यांसह कार्य करीत आहेत.”
@@ -200,7 +200,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - क्लाउडफ्लेअरचा "अ‍ॅथेनियन प्रोजेक्ट" राज्य आणि स्थानिक निवडणूक वेबसाइटना स्वतंत्र एंटरप्राइझ-स्तरीय संरक्षण प्रदान करते.
 ते म्हणाले की "त्यांचे घटक निवडणूक माहिती आणि मतदार नोंदणीमध्ये प्रवेश करू शकतात" परंतु हे खोटे आहे कारण बरेच लोक फक्त साइट ब्राउझ करू शकत नाहीत.
@@ -220,7 +220,7 @@
 क्लाऊडफ्लेअर वापरकर्त्याच्या पसंतीकडे दुर्लक्ष करा आणि ग्राहकांच्या संमतीविना तृतीय-पक्षाच्या कंपन्यांसह डेटा सामायिक करा.
 आपण त्यांची विनामूल्य योजना वापरत असल्यास, ते कधीकधी आपल्याला मासिक सदस्यता खरेदी करण्यास ईमेल पाठवतात.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@
 त्यांचे नवीन गोपनीयता धोरण एका वर्षासाठी डेटा टिकवून ठेवण्याचा कोणताही उल्लेख करत नाही.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 जर त्यांचे गोपनीयता धोरण एलआयई असेल तर आपण क्लाउडफ्लेअरवर कसा विश्वास ठेवू शकता?
 
@@ -276,7 +276,7 @@
 
 आपल्याला हे पुष्टीकरण ईमेल प्राप्त होईल.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "आम्ही आपल्या हटविण्याच्या विनंतीवर प्रक्रिया करण्यास सुरवात केली आहे" परंतु "आम्ही आपली वैयक्तिक माहिती संग्रहित ठेवू".
 
@@ -297,5 +297,5 @@
 
 ## कृपया पुढील पानावर सुरू ठेवा:   [क्लाउडफ्लेअर व्हॉईस](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
