@@ -9,7 +9,7 @@ It is also meant to evolve into an experimental distributed asynchronous wiki fa
 
 Nodes can come and go, and network topology only depends on the peers entries in the nodes' config files. Changes that are merged by one's peers propagate by diffusion.
 
-The official repository can be found at https://codeberg.org/crimeflare/cloudflare-tor
+The official repository can be found at https://codeberg.org/crimeflare/stop_cloudflare
 
 ## Usage
 
