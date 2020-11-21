@@ -1,7 +1,7 @@
 # Materion Moesegol
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Peidiwch â chefnogi'r cwmni hwn sy'n ddi-rym o foeseg"
 
@@ -34,8 +34,8 @@ Sut allwn ni atal Cloudflare heb actifadu Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Os byddwch yn postio adolygiad negyddol ar unrhyw safle adolygu, byddant yn ceis
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Os nad ydych chi am gael eich aflonyddu, ymosod arnoch chi, swatio neu ladd, mae
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Mae'n warthus iawn y byddai corfforaeth Americanaidd yn gofyn am elusen ochr yn 
 Os ydych chi'n hoffi blocio pobl neu wastraffu amser pobl eraill, efallai yr hoffech chi archebu rhai pitsas ar gyfer gweithwyr Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Beth fyddwch chi'n ei wneud os bydd eich gwefan yn mynd i lawr yn sydyn?
 Mae adroddiadau bod Cloudflare yn dileu cyfluniad defnyddiwr neu'n stopio gwasanaeth heb unrhyw rybudd, yn dawel.
 Rydym yn awgrymu eich bod yn dod o hyd i ddarparwr gwell.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ Mae CloudFlare yn rhoi triniaeth ffafriol i'r rhai sy'n defnyddio Firefox wrth r
 Mae defnyddwyr Tor o bobl sy'n gwrthod gweithredu javascript di-rydd yn haeddiannol hefyd yn derbyn triniaeth elyniaethus.
 Mae'r anghydraddoldeb mynediad hwn yn gam-drin niwtraliaeth rhwydwaith ac yn gamddefnydd o bŵer.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Chwith: Porwr Tor, Dde: Chrome. Yr un cyfeiriad IP.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Chwith: Tor Browser Javascript Anabl, Galluogi Cwci
 - Dde: Chrome Javascript Enabled, Cookie Disabled
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (mân borwr) heb Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Sylwch nad yw cofrestru papur yn osgoi Cloudflare oherwydd bydd ysgrifennydd gwe
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Mae Change.org yn wefan enwog ar gyfer casglu pleidleisiau a gweithredu.
 “mae pobl ym mhobman yn cychwyn ymgyrchoedd, yn annog cefnogwyr, ac yn gweithio gyda'r rhai sy'n gwneud penderfyniadau i yrru atebion.”
@@ -200,7 +200,7 @@ Mae defnyddio platfform arall heb gymylau fel OpenPetition yn helpu i ddatrys y 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Mae "Athenian Project" Cloudflare yn cynnig amddiffyniad ar lefel menter am ddim i wefannau etholiadau gwladol a lleol.
 Dywedon nhw "gall eu hetholwyr gael gafael ar wybodaeth etholiad a chofrestru pleidleiswyr" ond mae hyn yn gelwydd oherwydd nid yw llawer o bobl yn gallu pori'r wefan o gwbl.
@@ -220,7 +220,7 @@ Os ydych chi'n optio allan o rywbeth, rydych chi'n disgwyl na fyddwch chi'n derb
 Mae Cloudflare yn anwybyddu dewis y defnyddiwr ac yn rhannu data â chorfforaethau trydydd parti heb gydsyniad y cwsmer.
 Os ydych chi'n defnyddio eu cynllun rhad ac am ddim, weithiau maen nhw'n anfon e-bost atoch yn gofyn am brynu tanysgrifiad misol.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Soniodd hefyd nad yw polisi preifatrwydd Cloudflare yn sôn amdano.
 Nid yw eu polisi preifatrwydd newydd yn crybwyll cadw data am flwyddyn.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Sut allwch chi ymddiried yn Cloudflare os yw eu polisi preifatrwydd yn LIE?
 
@@ -276,7 +276,7 @@ Rhaid i chi beidio â chael unrhyw barthau na chardiau credyd ynghlwm â'ch cyfr
 
 Byddwch yn derbyn yr e-bost cadarnhau hwn.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Rydym wedi dechrau prosesu'ch cais dileu" ond "Byddwn yn parhau i storio'ch gwybodaeth bersonol".
 
@@ -297,5 +297,5 @@ Allwch chi "ymddiried" yn hyn?
 
 ## Parhewch i'r dudalen nesaf:   [Lleisiau Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
