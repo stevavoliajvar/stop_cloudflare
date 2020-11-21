@@ -1,7 +1,7 @@
 # ประเด็นทางจริยธรรม
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "อย่าสนับสนุน บริษัท นี้ที่ไร้จริยธรรม"
 
@@ -34,8 +34,8 @@ Cloudflare กล่าวว่าการใช้บริการของ
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare เซ็นเซอร์บทวิจารณ์เชิงล
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare แบ่งปันข้อมูลส่วนบุคคลข
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare กำลังขอเงินบริจาคเพื่อก
 หากคุณชอบปิดกั้นผู้คนหรือเสียเวลาของคนอื่นคุณอาจต้องการสั่งพิซซ่าสำหรับพนักงาน Cloudflare
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare กำลังขอเงินบริจาคเพื่อก
 มีรายงานว่า Cloudflare กำลังลบการกำหนดค่าของผู้ใช้หรือหยุดบริการโดยไม่มีการเตือนใด ๆ
 เราขอแนะนำให้คุณค้นหาผู้ให้บริการที่ดีกว่า
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@ CloudFlare ให้การปฏิบัติที่ดีกว่าส
 ผู้ใช้ Tor ที่ปฏิเสธอย่างถูกต้องที่จะเรียกใช้งานจาวาสคริปต์ที่ไม่ใช้ฟรีจะได้รับการปฏิบัติที่ไม่เป็นมิตรเช่นกัน
 ความไม่เท่าเทียมในการเข้าถึงนี้เป็นการละเมิดความเป็นกลางของเครือข่ายและการใช้อำนาจในทางที่ผิด
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - ซ้าย: Tor Browser ขวา: Chrome ที่อยู่ IP เดียวกัน
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - ซ้าย: Tor Browser Javascript Disabled, Cookie Enabled
 - ขวา: Chrome Javascript Enabled, Cookie Disabled
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (เบราว์เซอร์รอง) ที่ไม่มี Tor (Clearnet IP)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@ CloudFlare ให้การปฏิบัติที่ดีกว่าส
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org เป็นเว็บไซต์ที่มีชื่อเสียงในการรวบรวมคะแนนเสียงและดำเนินการ
 “ผู้คนทุกหนทุกแห่งเริ่มต้นแคมเปญระดมผู้สนับสนุนและทำงานร่วมกับผู้มีอำนาจตัดสินใจในการขับเคลื่อนโซลูชัน”
@@ -205,7 +205,7 @@ CloudFlare ให้การปฏิบัติที่ดีกว่าส
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - "โครงการ Athenian" ของ Cloudflare ให้การป้องกันระดับองค์กรฟรีสำหรับเว็บไซต์การเลือกตั้งระดับรัฐและระดับท้องถิ่น
 พวกเขากล่าวว่า "ผู้มีสิทธิเลือกตั้งสามารถเข้าถึงข้อมูลการเลือกตั้งและการลงทะเบียนผู้มีสิทธิเลือกตั้งได้" แต่นี่เป็นเรื่องโกหกเพราะหลายคนไม่สามารถเรียกดูไซต์ได้เลย
@@ -225,7 +225,7 @@ CloudFlare ให้การปฏิบัติที่ดีกว่าส
 Cloudflare ละเว้นการตั้งค่าของผู้ใช้และแบ่งปันข้อมูลกับ บริษัท บุคคลที่สามโดยไม่ได้รับความยินยอมจากลูกค้า
 หากคุณใช้แผนบริการฟรีบางครั้งพวกเขาจะส่งอีเมลถึงคุณเพื่อขอซื้อการสมัครสมาชิกรายเดือน
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@ Cloudflare ไม่รู้เกี่ยวกับคำว่า "ลบ"
 นโยบายความเป็นส่วนตัวใหม่ของพวกเขาไม่ได้กล่าวถึงการเก็บรักษาข้อมูลเป็นเวลาหนึ่งปี
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 คุณจะเชื่อถือ Cloudflare ได้อย่างไรหากนโยบายความเป็นส่วนตัวเป็น LIE
 
@@ -283,7 +283,7 @@ Cloudflare ไม่รู้เกี่ยวกับคำว่า "ลบ"
 
 คุณจะได้รับอีเมลยืนยันนี้
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "เราได้เริ่มดำเนินการตามคำขอลบของคุณแล้ว" แต่ "เราจะจัดเก็บข้อมูลส่วนบุคคลของคุณต่อไป"
 
@@ -319,5 +319,5 @@ Cloudflare ไม่รู้เกี่ยวกับคำว่า "ลบ"
 
 ## โปรดไปที่หน้าถัดไป:   [เสียง Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
