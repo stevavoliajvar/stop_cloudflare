@@ -1,7 +1,7 @@
 # ئەخلاق مەسىلىسى
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "ئەخلاقسىز بۇ شىركەتنى قوللىماڭ"
 
@@ -34,8 +34,8 @@ Cloudflare نى ئاكتىپلىماي تۇرۇپ قانداق قىلىپ Cloudf
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare سېنزور سەلبىي باھا.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare ساھىبخانلىق تور بېكەتلەردىن ئاغرىنىد
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare خەير-ساخاۋەت ئىشلىرىنى تەلەپ قىلماقت�
 ئەگەر سىز كىشىلەرنى توسۇشنى ياكى باشقىلارنىڭ ۋاقتىنى ئىسراپ قىلىشنى ياقتۇرسىڭىز ، Cloudflare خىزمەتچىلىرىگە بىر قىسىم پىسا زاكاز قىلسىڭىز بولىدۇ.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare خەير-ساخاۋەت ئىشلىرىنى تەلەپ قىلماقت�
 Cloudflare ئابونتلارنىڭ سەپلىمىسىنى ئۆچۈرۈۋېتىدىغانلىقى ياكى ھېچقانداق ئاگاھلاندۇرۇش بەرمەي مۇلازىمەتنى توختىتىۋاتقانلىقى توغرىسىدا خەۋەرلەر بار.
 تېخىمۇ ياخشى تەمىنلىگۈچى تېپىشىڭىزنى تەۋسىيە قىلىمىز.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare توردىن باشقا تور كۆرگۈسىز تورداشلارغ�
 ھەقسىز javascript ئىجرا قىلىشنى توغرا رەت قىلغان تور ئىشلەتكۈچىلىرىمۇ دۈشمەن مۇئامىلىگە ئۇچرايدۇ.
 بۇ باراۋەرسىزلىك تور بىتەرەپلىكىنى قالايمىقان ئىشلىتىش ۋە ھوقۇقنى قالايمىقان ئىشلىتىش.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - سول تەرەپتە: توركۆرگۈ ، ئوڭ: Chrome. ئوخشاش IP ئادرېس.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - سول تەرەپتە: توركۆرگۈ Javascript چەكلەنگەن ، Cookie قوزغىتىلغان
 - ئوڭدا: Chrome Javascript قوزغىتىلغان ، ساقلانما چەكلەنگەن
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - Tor (Clearnet IP) بولمىغان QuteBrowser (كىچىك توركۆرگۈچ)
 
@@ -190,7 +190,7 @@ Cloudflare نىڭ تور ئابونتلىرىغا بولغان دۈشمەنلى�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org بېلەت توپلاش ۋە ھەرىكەت قوللىنىدىغان داڭلىق تور بېكەت.
 “ھەممە يەردىكى كىشىلەر تەشۋىقاتنى باشلىدى ، قوللىغۇچىلارنى سەپەرۋەر قىلدى ۋە قارار چىقارغۇچىلار بىلەن ھەمكارلىشىپ ھەل قىلىش چارىسىنى باشلىدى.”
@@ -200,7 +200,7 @@ OpenPetition غا ئوخشاش باشقا بۇلۇتسىز سۇپىلارنى ئ
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare نىڭ «ئافىنا تۈرى» شىتات ۋە يەرلىك سايلام تور بېكەتلىرىنى ھەقسىز كارخانا دەرىجىلىك قوغداش بىلەن تەمىنلەيدۇ.
 ئۇلار «سايلىغۇچىلار سايلام ئۇچۇرى ۋە سايلىغۇچىلارنى تىزىمغا ئالدۇرالايدۇ» دېدى ، ئەمما بۇ يالغان ، چۈنكى نۇرغۇن كىشىلەر تور بېكەتنى پۈتۈنلەي كۆرەلمەيدۇ.
@@ -220,7 +220,7 @@ OpenPetition غا ئوخشاش باشقا بۇلۇتسىز سۇپىلارنى ئ
 Cloudflare ئابونتلارنىڭ ياقتۇرۇشىغا پەرۋا قىلمايدۇ ھەمدە خېرىدارلارنىڭ رۇخسىتىسىز ئۈچىنچى تەرەپ شىركەتلىرى بىلەن سانلىق مەلۇماتلارنى ھەمبەھىرلەيدۇ.
 ئەگەر ئۇلارنىڭ ھەقسىز پىلانىنى ئىشلىتىۋاتقان بولسىڭىز ، ئۇلار بەزىدە سىزگە ئېلېكترونلۇق خەت ئەۋەتىپ ئايلىق مۇشتەرى بولۇشنى تەلەپ قىلىدۇ.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Cloudflare «ئۆچۈرۈش» دېگەن سۆزنى بىلمەيتتى.
 ئۇلارنىڭ يېڭى مەخپىيەتلىك تۈزۈمىدە بىر يىل سانلىق مەلۇماتنى ساقلاپ قېلىش تىلغا ئېلىنمايدۇ.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 ئەگەر ئۇلارنىڭ مەخپىيەتلىك سىياسىتى يالغان بولسا ، Cloudflare غا قانداقمۇ ئىشىنىسىز؟
 
@@ -276,7 +276,7 @@ Cloudflare ھېساباتىنى ئۆچۈرۈش قىيىن.
 
 بۇ جەزملەشتۈرۈش ئېلخېتىنى تاپشۇرۇۋالىسىز.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 «ئۆچۈرۈش تەلىپىڭىزنى بىر تەرەپ قىلىشقا باشلىدۇق» ئەمما «شەخسىي ئۇچۇرلىرىڭىزنى داۋاملىق ساقلايمىز».
 
@@ -297,5 +297,5 @@ Cloudflare ھېساباتىنى ئۆچۈرۈش قىيىن.
 
 ## كېيىنكى بەتنى داۋاملاشتۇرۇڭ:   [Cloudflare Voices](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
