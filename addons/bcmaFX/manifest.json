@@ -2,8 +2,8 @@
    "manifest_version": 2,
    "name": "Bloku Cloudflaron MITM-Atakon",
    "description": "Submetiĝu al tutmonda gvatado aŭ rezistu",
-   "version": "1.0.4.6",
-   "homepage_url": "https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/",
+   "version": "1.0.4.7",
+   "homepage_url": "https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/",
    "author": "Crimeflare",
    "permissions": [
       "<all_urls>",
