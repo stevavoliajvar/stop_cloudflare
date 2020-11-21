@@ -1,7 +1,7 @@
 # Pirsgirêkên Etîkî
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Piştgiriya vê pargîdaniya ku exlaqê wenda nebe"
 
@@ -34,8 +34,8 @@ Howawa em dikarin Cloudflare rawestînin bêyî Cloudflare çalak bikin?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Heke hûn li ser malpera ku nirxandinek neyînî bişînin, ew ê hewl bidin ku 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Heke hûn naxwazin zordarî, êrîşkirin, şuştin an kuştin werin, hûn çêt
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Ev tirsnak e ku pargîdaniyek Amerîkî dê ligel rêxistinên nefermî yên sed
 Heke hûn dixwazin mirovan asteng bikin an wextê kesên din wenda bikin, dibe ku hûn bixwazin ji bo karmendên Cloudflare hin pizzas ferman bikin.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Hûn ê çi bikin ku ger malpera we ji nişkê ve hilweşe?
 Rapor hene ku Cloudflare şîfreyên bikarhêner hilweşand an karûbarê bêyî hişyariyê rawestîne, bêdeng.
 Em pêşniyar dikin ku we peydakir çêtir bibîne.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare gava ku dermankirina dijminane dide bikarhênerên ne-Tor-Browser ên
 Bikarhênerên Tor ên ku bi mafî dardakirina JavaScript-ne-belaş red dikin jî tedawiya dijminatî distînin.
 Vê gihîştina newekheviyê xirabûnek tirumbêl a torgilokê ye û xerabûna hêzê ye.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Eftep: Browser Tor, rast: Chrome. Navnîşana heman IP-ê.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Eftep: Tor Browser Javascript Bêkêşkêşkirî, Cookie Enabled
 - Rast: Chrome Javascript-ê Vebijêrk, Cookie Neçalak
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (gerokek piçûk) bêyî Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Têbînî ku qeydkirina kaxezê li Cloudflare nagire ji ber ku sekreterê xebatk
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org malperek navdar e ji bo berhevkirina deng û çalakiyan.
 “Mirov li her deverê dest bi kampanyayê dikin, alîgiran sepandin, û bi biryargeran re dixebitin ku çareseriyan bimeşînin.”
@@ -200,7 +200,7 @@ Bikaranîna platforma din ya bê cloud, wekî OpenPetition alîkariya çareserki
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare "Projeya Athenian" ji bo parastina malperên hilbijartinê yên dewlet û herêmî belaş-asta-pargîdanîya pargîdanî pêşkêş dike.
 Wan got "nûnerên wan dikarin bigihîjin agahdariya hilbijartinê û qeydkirina dengderan" lê ev derewek e ji ber ku gelek kes bi hêsanî nikarin li malperê seyr bikin.
@@ -220,7 +220,7 @@ Ger hûn tiştek hilbijêrin, hûn li bendê ne ku hûn di derheqê wê de e-nam
 Cloudflare pêşnîyara bikarhêner berçav dike û daneyên bi pargîdaniyên sêyemîn bêyî razîbûna kirrûbirra parve dike.
 Heke hûn nexşeya wan a belaş bikar tînin, ew carinan ji we re e-name ji we re dişînin ku ji we dipirsin ku hûn aboneya mehane bikirin.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Wî her wiha destnîşan kir ku polîtîkaya nepenîtiya Cloudflare di derbarê 
 Polîtîkaya nepenîtiya wan a nû nahêle daneyên danûstendina salekê berdewam bike.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Heke hûn polîtîkaya nepenîtiya wan LIE ye, hûn dikarin çawa bi Cloudflare bawer bikin?
 
@@ -276,7 +276,7 @@ Berî ku hûn betalkirinê daxwaz bikin divê hûn nebin domen û qertên krediy
 
 Hûn ê e-nameya pejirandinê bistînin.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Me dest pê kir ku hûn doza betalkirina we pêvajoyê bikin" lê "Em ê bidomînin agahdariya kesane ya we hilanîn".
 
@@ -297,5 +297,5 @@ Hûn dikarin vê "bawer bikin"?
 
 ## Ji kerema xwe heya rûpelê din berdewam bikin:   [Dengên Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
