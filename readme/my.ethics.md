@@ -1,7 +1,7 @@
 # ကျင့်ဝတ်ဆိုင်ရာပြuesနာများ
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "ကျင့်ဝတ်ကင်းမဲ့သောဤကုမ္ပဏီကိုမထောက်ပံ့ပါနှင့်"
 
@@ -34,8 +34,8 @@ Cloudflare ကိုမဖွင့်ဘဲ Cloudflare ကိုဘယ်လိ
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare အနုတ်လက္ခဏာပြန်လည်သုံးသ
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare သည်လက်ခံထားသောဆိုဒ်များ
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare သည်ကုသိုလ်ဖြစ်ပံ့ပိုးမှ
 အကယ်၍ သင်သည်လူများအားပိတ်ဆို့ခြင်းသို့မဟုတ်အခြားသူများ၏အချိန်ဖြုန်းခြင်းကိုနှစ်သက်ပါက Cloudflare ၀ န်ထမ်းများအတွက်ပီဇာအချို့ကိုမှာယူနိုင်သည်။
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare သည်ကုသိုလ်ဖြစ်ပံ့ပိုးမှ
 Cloudflare သည်အသုံးပြုသူ၏ဖွဲ့စည်းပုံကိုဖျက်ခြင်းသို့မဟုတ် ၀ န်ဆောင်မှုကိုသတိပေးစရာမလိုဘဲရပ်တန့်နေသည်ဟူသောသတင်းများရှိသည်။
 ပိုကောင်းတဲ့ပံ့ပိုးပေးသူကိုရှာပေးပါ့မယ်။
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@ CloudFlare သည် Tor မှမဟုတ်သော Tor-Browser အသုံ
 အခမဲ့မဟုတ်သော JavaScript ကိုမှန်ကန်စွာငြင်းဆိုရန် Tor အသုံးပြုသူများသည်ရန်လိုသောကုသမှုကိုခံယူကြသည်။
 ဤဝင်ရောက်ခွင့်မညီမျှမှုသည်ကွန်ရက်ကြားနေရေးဝါဒအလွဲသုံးစားမှုနှင့်အာဏာအလွဲသုံးစားမှုဖြစ်သည်။
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - ဘယ်ဘက် - Tor Browser၊ ညာ - ခရုမ်း။ တူညီသော IP လိပ်စာ။
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - ဘယ်ဘက် - Tor Browser Javascript ကိုပိတ်ထား၊ Cookie Enabled
 - ညာ - Chrome Javascript ကိုဖွင့်ပြီး Cookie Disabled
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - Tor မပါဘဲ QuteBrowser (အသေးစား browser) (Clearnet IP)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/lynx_cloudflare.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@ Cloudflare ၏ Tor အသုံးပြုသူများကိုရန်�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org သည်မဲစုဆောင်းခြင်းနှင့်အရေးယူခြင်းများအတွက်ကျော်ကြားသောဝက်ဘ်ဆိုက်ဖြစ်သည်။
 “နေရာတိုင်းရှိလူများသည်စည်းရုံးလှုံ့ဆော်မှုများစတင်ခြင်း၊ ထောက်ခံသူများကိုစည်းရုံးခြင်းနှင့်ဖြေရှင်းချက်များကိုမောင်းနှင်ရန်ဆုံးဖြတ်ချက်ချသူများနှင့်အတူလုပ်ဆောင်ခြင်းများပြုလုပ်သည်။”
@@ -205,7 +205,7 @@ OpenPetition ကဲ့သို့သော cloudflared မဟုတ်သော
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare ၏ "Athenian Project" သည်ပြည်နယ်နှင့်ဒေသဆိုင်ရာရွေးကောက်ပွဲ ၀ ဘ်ဆိုဒ်များအတွက်စီးပွားရေးလုပ်ငန်းများကိုအခမဲ့အကာအကွယ်ပေးသည်။
 မဲဆန္ဒရှင်များအနေဖြင့်မဲဆန္ဒရှင်များအနေဖြင့်ရွေးကောက်ပွဲဆိုင်ရာသတင်းအချက်အလက်နှင့်မဲဆန္ဒရှင်များကိုမှတ်ပုံတင်ခွင့်ရရှိနိုင်ကြောင်းပြောကြားခဲ့သည်။
@@ -225,7 +225,7 @@ OpenPetition ကဲ့သို့သော cloudflared မဟုတ်သော
 Cloudflare သည်အသုံးပြုသူ၏အကြိုက်ကိုလျစ်လျူရှုပြီးဖောက်သည်၏ခွင့်ပြုချက်မရဘဲတတိယပါတီကော်ပိုရေးရှင်းများနှင့်အချက်အလက်များကိုမျှဝေသည်။
 သင်သည်သူတို့၏အခမဲ့အစီအစဉ်ကိုအသုံးပြုနေပါကသူတို့သည်တစ်ခါတစ်ရံလစဉ်ကြေးပေးသွင်းရန် ၀ ယ်ရန်တောင်းဆိုသည့်အီးမေးလ်များကိုတစ်ခါတစ်ရံသင့်ထံပို့ပေးသည်
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@ Cloudflare သည် "ဖယ်ရှားခြင်း" ဟူသောစ�
 သူတို့၏သီးသန့်တည်ရှိမှုမူဝါဒအသစ်သည်အချက်အလက်များကိုတစ်နှစ်ထားရှိမည်ဟုမဖော်ပြထားပါ။
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Cloudflare ကိုသူတို့ privacy policy သည် LIE ဆိုပါကမည်သို့ယုံကြည်မည်နည်း။
 
@@ -283,7 +283,7 @@ Cloudflare အကောင့်ကိုဖျက်ပစ်ခြင်းသ
 
 သင်ဤအတည်ပြုအီးမေးလ်ကိုလက်ခံရရှိလိမ့်မည်။
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "သင်၏ဖျက်မှုကိုကျွန်ုပ်တို့စတင်တောင်းခံခဲ့သည်။ သို့သော်သင်၏ကိုယ်ရေးကိုယ်တာအချက်အလက်များကိုကျွန်ုပ်တို့ဆက်လက်သိမ်းဆည်းထားမည်"
 
@@ -319,5 +319,5 @@ Cloudflare အကောင့်ကိုဖျက်ပစ်ခြင်းသ
 
 ## ကျေးဇူးပြု၍ နောက်စာမျက်နှာသို့ဆက်သွားပါ:   [Cloudflare အသံ](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
