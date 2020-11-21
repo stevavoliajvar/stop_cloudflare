@@ -1,7 +1,7 @@
 # Etikos klausimai
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Nepalaikykite šios įmonės, kurioje nėra etikos"
 
@@ -34,8 +34,8 @@ Kaip sustabdyti „Cloudflare“ neįjungę „Cloudflare“?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Jei paskelbiate neigiamą atsiliepimą bet kurioje peržiūros svetainėje, jie 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Jei nenorite priekabiauti, užpulti, praryti ar nužudyti, geriau atsiribokite n
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Labai pasibaisėtina, kad amerikiečių korporacija paprašys labdaros kartu su 
 Jei jums patinka blokuoti žmones ar eikvoti kitų žmonių laiką, galbūt norėsite užsisakyti picas „Cloudflare“ darbuotojams.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Ką darysi, jei svetainė staiga sumažės?
 Yra pranešimų, kad „Cloudflare“ be jokio perspėjimo tyliai ištrina vartotojo konfigūraciją arba nutraukia paslaugų teikimą.
 Siūlome rasti geresnį paslaugų teikėją.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ Siūlome rasti geresnį paslaugų teikėją.
 „Tor“ vartotojai, kurie teisėtai atsisako vykdyti nemokamą „Java“ scenarijų, taip pat elgiasi priešiškai.
 Ši prieigos nelygybė yra tinklo neutralumo ir piktnaudžiavimo galia.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Kairėje: „Tor“ naršyklė, dešinėje: „Chrome“. Tas pats IP adresas.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Kairėje: „Tor“ naršyklės „Java“ scenarijus išjungtas, slapukas įjungtas
 - Dešinė: „Chrome Javascript“ įgalinta, Slapukas neleidžiamas
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - „QuteBrowser“ (nepilna naršyklė) be „Tor“ („Clearnet IP“)
 
@@ -190,7 +190,7 @@ Atminkite, kad registracija popieriuje nepanaikina „Cloudflare“, nes valstyb
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org yra garsi svetainė, skirta rinkti balsus ir imtis veiksmų.
 “žmonės visur pradeda kampanijas, telkia rėmėjus ir bendradarbiauja su sprendimų priėmėjais, siekdami sprendimų.”
@@ -200,7 +200,7 @@ Problemos pašalinimą gali padėti naudoti kita, be debesų naudojama platforma
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - „Cloudflare“ „Atėnų projektas“ siūlo nemokamą apsaugą įmonės lygiu valstybinių ir vietos rinkimų svetainėse.
 Jie teigė, kad „jų rinkėjai gali gauti informaciją apie rinkimus ir rinkėjų registraciją“, tačiau tai melas, nes daugelis žmonių tiesiog negali naršyti šioje svetainėje.
@@ -220,7 +220,7 @@ Jei kažko atsisakote, tikitės, kad negaunate apie tai el. Laiško.
 „Cloudflare“ nepaiso vartotojo pasirinkimo ir dalijasi duomenimis su trečiųjų šalių korporacijomis be kliento sutikimo.
 Jei naudojate jų nemokamą planą, jie kartais jums siunčia el. Laišką, prašydami įsigyti mėnesinę prenumeratą.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Jis taip pat paminėjo, kad „Cloudflare“ privatumo politikoje apie tai neuž
 Naujojoje jų privatumo politikoje neminimas duomenų saugojimas metus.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Kaip galite pasitikėti „Cloudflare“, jei jų privatumo politika yra LIE?
 
@@ -276,7 +276,7 @@ Prieš pateikdami prašymą ištrinti, prie paskyros neturite pridėti domenų a
 
 Gausite šį patvirtinimo el. Laišką.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 „Mes pradėjome tvarkyti jūsų prašymą ištrinti“, bet „Mes ir toliau kaupsime jūsų asmeninę informaciją“.
 
@@ -297,5 +297,5 @@ Ar galite tuo „pasitikėti“?
 
 ## Prašau tęsti kitą puslapį:   [Debesų debesų balsai](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
