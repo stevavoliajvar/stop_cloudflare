@@ -1,8 +1,8 @@
 # Cloudwall Besar
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 ---
 
@@ -12,51 +12,51 @@
 
 |  🖹  |  🖼 |
 | --- | --- |
-|  “The Great Cloudwall” adalah Cloudflare Inc., perusahaan AS.Ini menyediakan layanan CDN (jaringan pengiriman konten), mitigasi DDoS, keamanan Internet, dan layanan DNS (server nama domain) terdistribusi.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflaredearuser.jpg) |
-|  Cloudflare adalah proxy MITM terbesar di dunia (proxy terbalik).Cloudflare memiliki lebih dari 80% pangsa pasar CDN dan jumlah pengguna cloudflare terus bertambah setiap hari.Mereka telah memperluas jaringannya ke lebih dari 100 negara.Cloudflare melayani lebih banyak lalu lintas web daripada gabungan Twitter, Amazon, Apple, Instagram, Bing & Wikipedia.Cloudflare menawarkan paket gratis dan banyak orang menggunakannya alih-alih mengonfigurasi server mereka dengan benar.Mereka memperdagangkan privasi daripada kenyamanan.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfmarketshare.jpg)  |
-|  Cloudflare berada di antara Anda dan server web asal, bertindak seperti agen patroli perbatasan.Anda tidak dapat terhubung ke tujuan yang Anda pilih.Anda terhubung ke Cloudflare dan semua informasi Anda sedang didekripsi dan diserahkan dengan cepat. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/border_patrol.jpg)  |
-|  Administrator server web asal mengizinkan agen - Cloudflare - untuk memutuskan siapa yang dapat mengakses "properti web" mereka dan menentukan "area terlarang".  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/usershoulddecide.jpg)  |
-|  Lihatlah gambar yang tepat.Anda akan berpikir Cloudflare hanya memblokir orang jahat.Anda akan berpikir Cloudflare selalu online (tidak pernah turun).Anda akan mengira bot dan perayap yang sah dapat mengindeks situs web Anda.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howcfwork.jpg)  |
-|  Namun itu tidak benar sama sekali.Cloudflare memblokir orang yang tidak bersalah tanpa alasan.Cloudflare bisa turun.Cloudflare memblokir bot yang sah.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdowncfcom.jpg)  |
-|  Sama seperti layanan hosting lainnya, Cloudflare tidaklah sempurna.Anda akan melihat layar ini meskipun server asal berfungsi dengan baik.  |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdown2019.jpg) |
-|  Apakah menurut Anda Cloudflare memiliki waktu aktif 100%?Anda tidak tahu berapa kali Cloudflare turun.Jika Cloudflare turun, pelanggan Anda tidak dapat mengakses situs web Anda. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareinternalerror.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflareoutage-2020.jpg) |
-|  Disebut demikian sehubungan dengan Tembok Api Besar China yang melakukan pekerjaan serupa dalam menyaring banyak manusia agar tidak melihat konten web (yaitu semua orang di China daratan dan orang-orang di luar).Sementara pada saat yang sama mereka yang tidak terpengaruh melihat web yang sangat berbeda, web yang bebas sensor seperti gambar “tank man” dan sejarah “protes Lapangan Tiananmen”. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cloudflarechina.jpg)  |
-|  Cloudflare memiliki kekuatan yang besar.Dalam arti tertentu, mereka mengontrol apa yang akhirnya dilihat oleh pengguna akhir.Anda dicegah menjelajahi situs web karena Cloudflare. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/onemorestep.jpg) |
-|  Cloudflare dapat digunakan untuk penyensoran. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/accdenied.jpg) |
-|  Anda tidak dapat melihat situs web cloudflared jika Anda menggunakan browser kecil yang menurut Cloudflare adalah bot (karena tidak banyak orang yang menggunakannya). | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfublock.jpg) |
-|  Anda tidak dapat melewati "pemeriksaan browser" invasif ini tanpa mengaktifkan Javascript.Ini hanya membuang lima (atau lebih) detik hidup Anda yang berharga. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsjsck.jpg) |
-|  Cloudflare juga secara otomatis memblokir robot / perayap yang sah seperti klien Google, Yandex, Yacy, dan API.Cloudflare secara aktif memantau komunitas "bypass cloudflare" dengan maksud untuk merusak bot penelitian yang sah. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftestgoogle.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/htmlalertcloudflare2.jpg) |
-|  Cloudflare juga mencegah banyak orang yang memiliki konektivitas internet yang buruk untuk mengakses situs web di belakangnya (misalnya, mereka mungkin berada di belakang 7+ lapisan NAT atau berbagi IP yang sama, misalnya Wifi publik) kecuali mereka menyelesaikan beberapa CAPTCHA gambar.Dalam beberapa kasus, ini akan memakan waktu 10 hingga 30 menit untuk memuaskan Google. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/googlerecaptcha.jpg) |
-|  Pada tahun 2020 Cloudflare dialihkan dari Recaptcha Google ke hCaptcha karena Google bermaksud untuk mengenakan biaya atas penggunaannya.Cloudflare memberi tahu Anda bahwa mereka peduli dengan privasi Anda ("ini membantu mengatasi masalah privasi") tetapi ini jelas bohong.Ini semua tentang uang.“HCaptcha memungkinkan situs web menghasilkan uang dengan melayani permintaan ini sambil memblokir bot dan bentuk penyalahgunaan lainnya” | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fedup_fucking_hcaptcha.jpg) |
-|  Dari sudut pandang pengguna, ini tidak banyak berubah. Anda dipaksa untuk menyelesaikannya. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/hcaptcha_abrv.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/hcaptcha_chrome.jpg) |
-|  Banyak manusia dan perangkat lunak diblokir oleh Cloudflare setiap hari. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsnote.jpg) |
-|  Cloudflare mengganggu banyak orang di seluruh dunia.Lihat daftarnya dan pikirkan apakah mengadopsi Cloudflare di situs Anda baik untuk pengalaman pengguna. |  ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsstream.jpg) |
-|  Apa tujuan internet jika Anda tidak dapat melakukan apa yang Anda inginkan?Kebanyakan orang yang mengunjungi situs web Anda hanya akan mencari halaman lain jika mereka tidak dapat memuat halaman web.Anda mungkin tidak secara aktif memblokir pengunjung mana pun, tetapi firewall default Cloudflare cukup ketat untuk memblokir banyak orang. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsdroid.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsappl.jpg) |
-|  Tidak ada cara untuk menyelesaikan captcha tanpa mengaktifkan Javascript dan Cookies.Cloudflare menggunakannya untuk membuat tanda tangan browser untuk mengidentifikasi Anda.Cloudflare perlu mengetahui identitas Anda untuk memutuskan apakah Anda memenuhi syarat untuk terus menjelajahi situs. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1010bsig.jpg) |
-|  Pengguna Tor dan pengguna VPN juga menjadi korban Cloudflare.Kedua solusi tersebut digunakan oleh banyak orang yang tidak mampu membeli internet tanpa sensor karena kebijakan negara / perusahaan / jaringan mereka atau yang ingin menambahkan lapisan ekstra untuk melindungi privasi mereka.Cloudflare tanpa malu-malu menyerang orang-orang itu, memaksa mereka untuk mematikan solusi proxy mereka. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn2.jpg) |
-|  Jika Anda belum mencoba Tor hingga saat ini, kami mendorong Anda untuk mengunduh Tor Browser dan mengunjungi situs web favorit Anda.Kami menyarankan Anda untuk tidak login ke situs bank Anda atau halaman web pemerintah atau mereka akan menandai akun Anda. Gunakan VPN untuk situs web tersebut. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/banvpn.jpg) |
-|  Anda mungkin ingin mengatakan “Tor ilegal! Pengguna Tor adalah kriminal! Tor buruk! ". Tidak.Anda mungkin mengetahui tentang Tor dari televisi, mengatakan Tor dapat digunakan untuk menelusuri darknet dan menukar senjata, narkoba, atau pornografi anak.Meskipun pernyataan di atas benar bahwa ada banyak situs pasar tempat Anda dapat membeli barang-barang semacam itu, situs-situs tersebut juga sering muncul di clearnet.  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whousetor.jpg) |
-|  Tor dikembangkan oleh Angkatan Darat AS, tetapi Tor saat ini dikembangkan oleh proyek Tor.Ada banyak orang dan organisasi yang menggunakan Tor termasuk teman masa depan Anda.Jadi, jika Anda menggunakan Cloudflare di situs web Anda, Anda memblokir manusia nyata.Anda akan kehilangan potensi persahabatan dan kesepakatan bisnis. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iusetor_alith.jpg) |
-|  Dan layanan DNS mereka, 1.1.1.1, juga menyaring pengguna dari mengunjungi situs web dengan mengembalikan alamat IP palsu yang dimiliki oleh Cloudflare, IP localhost seperti "127.0.0.x", atau tidak mengembalikan apa-apa. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cferr1016sp.jpg) |
-|  Cloudflare DNS juga merusak perangkat lunak online dari aplikasi smartphone ke game komputer karena jawaban DNS palsu mereka.Cloudflare DNS tidak dapat meminta beberapa situs web bank. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dnsfailtest.jpg) |
-|  Dan di sini Anda mungkin berpikir,<br>Saya tidak menggunakan Tor atau VPN, mengapa saya harus peduli?<br>Saya mempercayai pemasaran Cloudflare, mengapa saya harus peduli<br>Situs web saya https mengapa saya harus peduli | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/annoyed.jpg) |
-|  Jika Anda mengunjungi situs web yang menggunakan Cloudflare, Anda membagikan informasi Anda tidak hanya kepada pemilik situs web tetapi juga Cloudflare.Beginilah cara kerja reverse proxy. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prism_gfe.jpg) |
-|  Tidak mungkin menganalisis tanpa mendekripsi lalu lintas TLS. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelp204144518.jpg) |
-|  Cloudflare mengetahui semua data Anda seperti kata sandi mentah. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfhelpforum.jpg) |
-|  Cloudbeed bisa terjadi kapan saja. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfbloghtmledit.jpg) |
-|  Https Cloudflare tidak pernah ujung ke ujung. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/sniff2.gif) |
-|  Apakah Anda benar-benar ingin membagikan data Anda dengan Cloudflare, dan juga agensi 3 huruf? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfstrengthdata.jpg) |
-|  Profil online pengguna internet adalah "produk" yang ingin dibeli oleh pemerintah dan perusahaan teknologi besar. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/federalinterest.jpg) |
-|  Kata Departemen Keamanan Dalam Negeri AS:<br><br>Apakah Anda tahu betapa berharganya data yang Anda miliki? Adakah cara untuk menjual data itu kepada kami?  | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/dhssaid.jpg) |
-|  Cloudflare juga menawarkan layanan VPN GRATIS yang disebut "Cloudflare Warp".Jika Anda menggunakannya, semua koneksi ponsel cerdas Anda (atau komputer Anda) dikirim ke server Cloudflare.Cloudflare dapat mengetahui situs web mana yang telah Anda baca, komentar apa yang Anda poskan, dengan siapa Anda berbicara, dll.Anda secara sukarela memberikan semua informasi Anda ke Cloudflare.Jika Anda berpikir “Apakah Anda bercanda? Cloudflare aman. " maka Anda perlu mempelajari cara kerja VPN. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/howvpnwork.jpg) |
-|  Cloudflare mengatakan layanan VPN mereka membuat internet Anda cepat.Tetapi VPN membuat koneksi internet Anda lebih lambat dari koneksi Anda yang sudah ada. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/notfastervpn.jpg) |
-|  Anda mungkin sudah tahu tentang skandal PRISM.Benar bahwa AT&T mengizinkan NSA menyalin semua data internet untuk pengawasan. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/prismattnsa.jpg) |
-|  Misalkan Anda bekerja di NSA, dan Anda menginginkan profil internet setiap warga negara.Anda tahu kebanyakan dari mereka secara membabi buta mempercayai Cloudflare dan menggunakannya - hanya satu gateway terpusat - untuk mem-proxy koneksi server perusahaan mereka (SSH / RDP), situs web pribadi, situs web obrolan, situs web forum, situs web bank, situs web asuransi, mesin pencari, anggota rahasia -hanya situs web, situs web lelang, belanja, situs web video, situs web NSFW, dan situs web ilegal.Anda juga tahu bahwa mereka menggunakan layanan DNS Cloudflare ("1.1.1.1") dan layanan VPN ("Cloudflare Warp") untuk "Aman! Lebih cepat! Lebih baik!" pengalaman internet.Menggabungkannya dengan alamat IP pengguna, sidik jari browser, cookie, dan RAY-ID akan berguna untuk membangun profil online target. | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/edw_snow.jpg) |
-|  Anda menginginkan data mereka. Apa yang akan kamu lakukan? | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/nsaslide_prismcorp.gif) |
-|  **Cloudflare adalah honeypot.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/honeypot.gif) |
-|  **Madu gratis untuk semua orang. Beberapa pamrih.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/iminurtls.jpg) |
-|  **Jangan gunakan Cloudflare.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/shadycloudflare.jpg) |
-|  **Desentralisasi internet.** | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg) |
+|  “The Great Cloudwall” adalah Cloudflare Inc., perusahaan AS.Ini menyediakan layanan CDN (jaringan pengiriman konten), mitigasi DDoS, keamanan Internet, dan layanan DNS (server nama domain) terdistribusi.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflaredearuser.jpg) |
+|  Cloudflare adalah proxy MITM terbesar di dunia (proxy terbalik).Cloudflare memiliki lebih dari 80% pangsa pasar CDN dan jumlah pengguna cloudflare terus bertambah setiap hari.Mereka telah memperluas jaringannya ke lebih dari 100 negara.Cloudflare melayani lebih banyak lalu lintas web daripada gabungan Twitter, Amazon, Apple, Instagram, Bing & Wikipedia.Cloudflare menawarkan paket gratis dan banyak orang menggunakannya alih-alih mengonfigurasi server mereka dengan benar.Mereka memperdagangkan privasi daripada kenyamanan.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfmarketshare.jpg)  |
+|  Cloudflare berada di antara Anda dan server web asal, bertindak seperti agen patroli perbatasan.Anda tidak dapat terhubung ke tujuan yang Anda pilih.Anda terhubung ke Cloudflare dan semua informasi Anda sedang didekripsi dan diserahkan dengan cepat. |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/border_patrol.jpg)  |
+|  Administrator server web asal mengizinkan agen - Cloudflare - untuk memutuskan siapa yang dapat mengakses "properti web" mereka dan menentukan "area terlarang".  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/usershoulddecide.jpg)  |
+|  Lihatlah gambar yang tepat.Anda akan berpikir Cloudflare hanya memblokir orang jahat.Anda akan berpikir Cloudflare selalu online (tidak pernah turun).Anda akan mengira bot dan perayap yang sah dapat mengindeks situs web Anda.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howcfwork.jpg)  |
+|  Namun itu tidak benar sama sekali.Cloudflare memblokir orang yang tidak bersalah tanpa alasan.Cloudflare bisa turun.Cloudflare memblokir bot yang sah.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdowncfcom.jpg)  |
+|  Sama seperti layanan hosting lainnya, Cloudflare tidaklah sempurna.Anda akan melihat layar ini meskipun server asal berfungsi dengan baik.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdown2019.jpg) |
+|  Apakah menurut Anda Cloudflare memiliki waktu aktif 100%?Anda tidak tahu berapa kali Cloudflare turun.Jika Cloudflare turun, pelanggan Anda tidak dapat mengakses situs web Anda. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflareinternalerror.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflareoutage-2020.jpg) |
+|  Disebut demikian sehubungan dengan Tembok Api Besar China yang melakukan pekerjaan serupa dalam menyaring banyak manusia agar tidak melihat konten web (yaitu semua orang di China daratan dan orang-orang di luar).Sementara pada saat yang sama mereka yang tidak terpengaruh melihat web yang sangat berbeda, web yang bebas sensor seperti gambar “tank man” dan sejarah “protes Lapangan Tiananmen”. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflarechina.jpg)  |
+|  Cloudflare memiliki kekuatan yang besar.Dalam arti tertentu, mereka mengontrol apa yang akhirnya dilihat oleh pengguna akhir.Anda dicegah menjelajahi situs web karena Cloudflare. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/onemorestep.jpg) |
+|  Cloudflare dapat digunakan untuk penyensoran. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/accdenied.jpg) |
+|  Anda tidak dapat melihat situs web cloudflared jika Anda menggunakan browser kecil yang menurut Cloudflare adalah bot (karena tidak banyak orang yang menggunakannya). | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfublock.jpg) |
+|  Anda tidak dapat melewati "pemeriksaan browser" invasif ini tanpa mengaktifkan Javascript.Ini hanya membuang lima (atau lebih) detik hidup Anda yang berharga. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsjsck.jpg) |
+|  Cloudflare juga secara otomatis memblokir robot / perayap yang sah seperti klien Google, Yandex, Yacy, dan API.Cloudflare secara aktif memantau komunitas "bypass cloudflare" dengan maksud untuk merusak bot penelitian yang sah. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftestgoogle.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/htmlalertcloudflare2.jpg) |
+|  Cloudflare juga mencegah banyak orang yang memiliki konektivitas internet yang buruk untuk mengakses situs web di belakangnya (misalnya, mereka mungkin berada di belakang 7+ lapisan NAT atau berbagi IP yang sama, misalnya Wifi publik) kecuali mereka menyelesaikan beberapa CAPTCHA gambar.Dalam beberapa kasus, ini akan memakan waktu 10 hingga 30 menit untuk memuaskan Google. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/googlerecaptcha.jpg) |
+|  Pada tahun 2020 Cloudflare dialihkan dari Recaptcha Google ke hCaptcha karena Google bermaksud untuk mengenakan biaya atas penggunaannya.Cloudflare memberi tahu Anda bahwa mereka peduli dengan privasi Anda ("ini membantu mengatasi masalah privasi") tetapi ini jelas bohong.Ini semua tentang uang.“HCaptcha memungkinkan situs web menghasilkan uang dengan melayani permintaan ini sambil memblokir bot dan bentuk penyalahgunaan lainnya” | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/fedup_fucking_hcaptcha.jpg) |
+|  Dari sudut pandang pengguna, ini tidak banyak berubah. Anda dipaksa untuk menyelesaikannya. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/hcaptcha_abrv.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/hcaptcha_chrome.jpg) |
+|  Banyak manusia dan perangkat lunak diblokir oleh Cloudflare setiap hari. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsnote.jpg) |
+|  Cloudflare mengganggu banyak orang di seluruh dunia.Lihat daftarnya dan pikirkan apakah mengadopsi Cloudflare di situs Anda baik untuk pengalaman pengguna. |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsstream.jpg) |
+|  Apa tujuan internet jika Anda tidak dapat melakukan apa yang Anda inginkan?Kebanyakan orang yang mengunjungi situs web Anda hanya akan mencari halaman lain jika mereka tidak dapat memuat halaman web.Anda mungkin tidak secara aktif memblokir pengunjung mana pun, tetapi firewall default Cloudflare cukup ketat untuk memblokir banyak orang. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsdroid.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsappl.jpg) |
+|  Tidak ada cara untuk menyelesaikan captcha tanpa mengaktifkan Javascript dan Cookies.Cloudflare menggunakannya untuk membuat tanda tangan browser untuk mengidentifikasi Anda.Cloudflare perlu mengetahui identitas Anda untuk memutuskan apakah Anda memenuhi syarat untuk terus menjelajahi situs. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cferr1010bsig.jpg) |
+|  Pengguna Tor dan pengguna VPN juga menjadi korban Cloudflare.Kedua solusi tersebut digunakan oleh banyak orang yang tidak mampu membeli internet tanpa sensor karena kebijakan negara / perusahaan / jaringan mereka atau yang ingin menambahkan lapisan ekstra untuk melindungi privasi mereka.Cloudflare tanpa malu-malu menyerang orang-orang itu, memaksa mereka untuk mematikan solusi proxy mereka. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/banvpn2.jpg) |
+|  Jika Anda belum mencoba Tor hingga saat ini, kami mendorong Anda untuk mengunduh Tor Browser dan mengunjungi situs web favorit Anda.Kami menyarankan Anda untuk tidak login ke situs bank Anda atau halaman web pemerintah atau mereka akan menandai akun Anda. Gunakan VPN untuk situs web tersebut. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/banvpn.jpg) |
+|  Anda mungkin ingin mengatakan “Tor ilegal! Pengguna Tor adalah kriminal! Tor buruk! ". Tidak.Anda mungkin mengetahui tentang Tor dari televisi, mengatakan Tor dapat digunakan untuk menelusuri darknet dan menukar senjata, narkoba, atau pornografi anak.Meskipun pernyataan di atas benar bahwa ada banyak situs pasar tempat Anda dapat membeli barang-barang semacam itu, situs-situs tersebut juga sering muncul di clearnet.  | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/whousetor.jpg) |
+|  Tor dikembangkan oleh Angkatan Darat AS, tetapi Tor saat ini dikembangkan oleh proyek Tor.Ada banyak orang dan organisasi yang menggunakan Tor termasuk teman masa depan Anda.Jadi, jika Anda menggunakan Cloudflare di situs web Anda, Anda memblokir manusia nyata.Anda akan kehilangan potensi persahabatan dan kesepakatan bisnis. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iusetor_alith.jpg) |
+|  Dan layanan DNS mereka, 1.1.1.1, juga menyaring pengguna dari mengunjungi situs web dengan mengembalikan alamat IP palsu yang dimiliki oleh Cloudflare, IP localhost seperti "127.0.0.x", atau tidak mengembalikan apa-apa. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cferr1016sp.jpg) |
+|  Cloudflare DNS juga merusak perangkat lunak online dari aplikasi smartphone ke game komputer karena jawaban DNS palsu mereka.Cloudflare DNS tidak dapat meminta beberapa situs web bank. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/dnsfailtest.jpg) |
+|  Dan di sini Anda mungkin berpikir,<br>Saya tidak menggunakan Tor atau VPN, mengapa saya harus peduli?<br>Saya mempercayai pemasaran Cloudflare, mengapa saya harus peduli<br>Situs web saya https mengapa saya harus peduli | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/annoyed.jpg) |
+|  Jika Anda mengunjungi situs web yang menggunakan Cloudflare, Anda membagikan informasi Anda tidak hanya kepada pemilik situs web tetapi juga Cloudflare.Beginilah cara kerja reverse proxy. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prism_gfe.jpg) |
+|  Tidak mungkin menganalisis tanpa mendekripsi lalu lintas TLS. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfhelp204144518.jpg) |
+|  Cloudflare mengetahui semua data Anda seperti kata sandi mentah. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfhelpforum.jpg) |
+|  Cloudbeed bisa terjadi kapan saja. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfbloghtmledit.jpg) |
+|  Https Cloudflare tidak pernah ujung ke ujung. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/sniff2.gif) |
+|  Apakah Anda benar-benar ingin membagikan data Anda dengan Cloudflare, dan juga agensi 3 huruf? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfstrengthdata.jpg) |
+|  Profil online pengguna internet adalah "produk" yang ingin dibeli oleh pemerintah dan perusahaan teknologi besar. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/federalinterest.jpg) |
+|  Kata Departemen Keamanan Dalam Negeri AS:<br><br>Apakah Anda tahu betapa berharganya data yang Anda miliki? Adakah cara untuk menjual data itu kepada kami?  | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/dhssaid.jpg) |
+|  Cloudflare juga menawarkan layanan VPN GRATIS yang disebut "Cloudflare Warp".Jika Anda menggunakannya, semua koneksi ponsel cerdas Anda (atau komputer Anda) dikirim ke server Cloudflare.Cloudflare dapat mengetahui situs web mana yang telah Anda baca, komentar apa yang Anda poskan, dengan siapa Anda berbicara, dll.Anda secara sukarela memberikan semua informasi Anda ke Cloudflare.Jika Anda berpikir “Apakah Anda bercanda? Cloudflare aman. " maka Anda perlu mempelajari cara kerja VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
+|  Cloudflare mengatakan layanan VPN mereka membuat internet Anda cepat.Tetapi VPN membuat koneksi internet Anda lebih lambat dari koneksi Anda yang sudah ada. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
+|  Anda mungkin sudah tahu tentang skandal PRISM.Benar bahwa AT&T mengizinkan NSA menyalin semua data internet untuk pengawasan. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
+|  Misalkan Anda bekerja di NSA, dan Anda menginginkan profil internet setiap warga negara.Anda tahu kebanyakan dari mereka secara membabi buta mempercayai Cloudflare dan menggunakannya - hanya satu gateway terpusat - untuk mem-proxy koneksi server perusahaan mereka (SSH / RDP), situs web pribadi, situs web obrolan, situs web forum, situs web bank, situs web asuransi, mesin pencari, anggota rahasia -hanya situs web, situs web lelang, belanja, situs web video, situs web NSFW, dan situs web ilegal.Anda juga tahu bahwa mereka menggunakan layanan DNS Cloudflare ("1.1.1.1") dan layanan VPN ("Cloudflare Warp") untuk "Aman! Lebih cepat! Lebih baik!" pengalaman internet.Menggabungkannya dengan alamat IP pengguna, sidik jari browser, cookie, dan RAY-ID akan berguna untuk membangun profil online target. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Anda menginginkan data mereka. Apa yang akan kamu lakukan? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
+|  **Cloudflare adalah honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
+|  **Madu gratis untuk semua orang. Beberapa pamrih.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
+|  **Jangan gunakan Cloudflare.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/shadycloudflare.jpg) |
+|  **Desentralisasi internet.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg) |
 
 
 ---
@@ -84,7 +84,7 @@ Repositori ini adalah daftar situs web yang berada di belakang "The Great Cloudw
 * [Pengguna Anti-Tor](../anti-tor_users/)
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/goodorbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/goodorbad.jpg)
 
 
 **Informasi Lebih Lanjut**
@@ -103,7 +103,7 @@ Repositori ini adalah daftar situs web yang berada di belakang "The Great Cloudw
 * [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
 * [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/watcloudflare.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
 
 </details>
@@ -120,7 +120,7 @@ Repositori ini adalah daftar situs web yang berada di belakang "The Great Cloudw
 
 * [Baca suara pengguna lain dan tulis pemikiran Anda.](../PEOPLE.md)
 
-* Cari sesuatu: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://cfe.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=id) ([clearnet](https://crimeflare.eu.org/))
+* Cari sesuatu: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=id) ([clearnet](https://crimeflare.eu.org/))
 
 * Perbarui daftar domain: [Buat daftar instruksi](../INSTRUCTION.md).
 
@@ -130,7 +130,7 @@ Repositori ini adalah daftar situs web yang berada di belakang "The Great Cloudw
 
 * [Berikut beberapa PDF / ePUB untuk dibaca.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate stop_cloudflare](translateData/instructions.md)
 
 
 ---
@@ -155,27 +155,27 @@ Kami tidak pernah menanyakan media sosial Anda.**
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/wtfcf.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl2.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/omsirl.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/whydoihavetosolveacaptcha.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/fixthedamn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/imnotarobot.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/wtfcf.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsirl2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsirl.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/whydoihavetosolveacaptcha.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/fixthedamn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/imnotarobot.jpg) |
 
 </details>
 
 ---
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_lb.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_lb.jpg)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_dz.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_dz.jpg)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_jb.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_jb.jpg)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_ial.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_ial.jpg)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/twe_eptg.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_eptg.jpg)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/eastdakota_1273277839102656515.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/stopcf.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/peopledonotthink.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
