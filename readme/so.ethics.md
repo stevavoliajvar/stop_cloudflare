@@ -1,7 +1,7 @@
 # Arimaha Anshaxa
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Ha taageerin shirkaddan anshax xumo ka tahay"
 
@@ -34,8 +34,8 @@ Sideen u joojin karnaa Cloudflare anaga oo aan dhaqaajin Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Haddii aad ku dhajiso faallooyinka xun bog kasta oo dib u eegis ah, waxay isku d
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Haddii aadan dooneynin in lagu kadeedo, lagu weeraro, wareejiyo ama la dilo, wax
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Waa wax laga naxo in shirkad Mareykan ah ay weydiisato hay'ad samafal oo ay wehe
 Haddii aad jeceshahay inaad dadka xayirto ama lumiso waqtiga dadka kale, waxaad ubaahnaan kartaa inaad ku amarto xoogaa pizzas qaar ka mid ah shaqaalaha Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Maxaad samayn doontaa haddii boggaagu si kedis ah hoos ugu dhaco?
 Waxaa jira warbixino sheegaya in Cloudflare uu tirtirayo qaabeynta isticmaalaha ama joojinta adeegga bilaa digniin, aamusnaan.
 Waxaan kugula talineynaa inaad heshid adeeg bixiye wanaagsan.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare waxay siineysaa daaweyn laxiriira kuwa isticmaalaya Firefox halka ay 
 Isticmaalayaasha Tor ee si sax ah u diida inay dilaan javascript-ka bilaashka ah sidoo kale waxay helaan daaweyn cadaawad leh.
 Sinnaan-helitaankan ayaa ah xad-gudub dhexdhexaadnimo shabakadeed iyo ku takri-fal awoodeed.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Bidix: Tor Browser, Midig: Chrome. Cinwaan IP isku mid ah.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Bidix: Tor Browser Javascript Naafoobay, Kuki waa kartibay
 - Midig: Chrome Javascript karti u leeyahay, cookie naafo ah
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (biraawsar yar) oo aan lahayn Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Ogsoonow in diiwaangelinta waraaqu aysan wax u dhimeynin Cloudflare maxaa yeelay
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org waa degel caan ah oo aruurinta codadka isla markaana wax ka qabta.
 “dadka meelkasta waxay bilaabayaan ololeyaal, abaabulayaan taageerayaal, iyo kala shaqeynta go'aanada si ay u xalliyaan xalka.”
@@ -200,7 +200,7 @@ Adeegsiga madal kale oo aan daruur lahayn sida OpenPetition ayaa ka caawiya haga
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare's "Mashruuca Athenian" wuxuu siiyaa difaac heer-caalami ah shabakadaha doorashada ee heer gobol iyo degmo.
 Waxay yiraahdeen "xubnahooda ayaa marin u heli kara macluumaadka doorashada iyo diiwaangelinta codbixiyeyaasha" laakiin tani waa been sababtoo ah dad badan ayaan kaliya ka dhex karin karin goobta.
@@ -220,7 +220,7 @@ Haddii aad ka baxdo wax, waxaad filanaysaa inaadan helin emayl ku saabsan.
 Cloudflare waxay iska indhatiraysaa doorbidista isticmaaleyaasha waxayna la wadaagaan xogta shirkadaha shirkadaha saddexaad iyada oo aan rukhsad laga helin macaamiisha.
 Haddii aad isticmaaleyso qorshahooda bilaashka ah, waxay mararka qaarkood kuu soo diraan emayl iyagoo ku weydiinaya inaad iibsato rukummada billaha ah.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Wuxuu sidoo kale xusay in siyaasada gaarka ee Cloudflare aysan xusin arintaas.
 Siyaasadooda cusub ee asturnaanta ma xusaan wax macluumaad ah oo laga haynayo muddo sannad ah.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Sideed ku kalsoonaan kartaa Cloudflare haddii siyaasadooda qaaska ay tahay LIE?
 
@@ -276,7 +276,7 @@ Waa inaadan lahayn domains ama kaararka deynta ee koontadaada kahor intaadan dal
 
 Waxaad heli doontaa emaylkan xaqiijinta.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Waxaan bilownay inaanu ka baaraandegno codsigaaga tirtirka" laakiin "Waxaan sii wadaynaa inaanu kaydinno macluumaadkaaga shakhsiyeed".
 
@@ -297,5 +297,5 @@ Miyaad "aamini kartaa" tan?
 
 ## Fadlan ku sii wad bogga xiga:   [Codadka Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
