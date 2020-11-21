@@ -1,7 +1,7 @@
 # Kwistjonijiet etiċi
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "M'għandekx tappoġġja din il-kumpanija li hija nulla ta 'etika"
 
@@ -34,8 +34,8 @@ Kif nistgħu nwaqqfu Cloudflare mingħajr ma nattivaw Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Jekk tibgħat reviżjoni negattiva fuq kwalunkwe sit ta 'reviżjoni, huma jippru
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Jekk ma tridx tkun iffastidjat, attakkat, swatted jew maqtul, aħjar tibqa 'l bo
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Huwa pjuttost tal-waħx li korporazzjoni Amerikana titlob għall-karità flimkie
 Jekk inti tixtieq li timblokka nies jew taħli l-ħin ta 'nies oħra, inti tista' tkun trid tordna xi pizza għall-impjegati ta 'Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ X'se tagħmel jekk is-sit tiegħek jinżel f'daqqa?
 Hemm rapporti li Cloudflare qed tħassar il-konfigurazzjoni tal-utent jew twaqqaf is-servizz mingħajr ebda twissija, skiet.
 Nissuġġerixxu li ssib fornitur aħjar.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare jagħti trattament preferenzjali lil dawk li jużaw Firefox waqt li j
 L-utenti tat-Tor li bi dritt jirrifjutaw li jeżegwixxu javascript bla ħlas jirċievu wkoll trattament ostili.
 Din l-inugwaljanza fl-aċċess hija abbuż tan-newtralità tan-netwerk u abbuż ta 'poter.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Xellug: Tor Browser, lemin: Chrome. L-istess indirizz IP.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Xellug: Tor Browser Javascript Disabled, Cookie Enabled
 - Dritt: Chrome Javascript Attivat, Cookie b'Diżabilità
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (browser minuri) mingħajr Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Innota li r-reġistrazzjoni tal-karta ma tevitax Cloudflare għaliex is-segretar
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org hija websajt famuża biex tiġbor il-voti u tieħu azzjoni.
 “in-nies kullimkien qed jibdew kampanji, jimmobilizzaw il-partitarji, u jaħdmu ma ’dawk li jieħdu d-deċiżjonijiet biex imexxu soluzzjonijiet.”
@@ -200,7 +200,7 @@ L-użu ta 'pjattaforma oħra mhux cloudflared bħal OpenPetition jgħin biex jir
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Il-"Proġett Athenian" ta 'Cloudflare joffri protezzjoni b'xejn fuq livell ta' intrapriża għall-websajts tal-istat u l-elezzjoni lokali.
 Huma qalu li "l-kostitwenti tagħhom jistgħu jaċċessaw l-informazzjoni elettorali u r-reġistrazzjoni tal-votanti" iżda din hija gidba għax ħafna nies sempliċement ma jistgħux jibbrawżjaw is-sit.
@@ -220,7 +220,7 @@ Jekk ma tagħtix xi ħaġa, tistenna li ma tirċievi l-ebda email dwarha.
 Cloudflare jinjora l-preferenza tal-utent u jaqsam dejta ma ’korporazzjonijiet ta’ partijiet terzi mingħajr il-kunsens tal-klijent.
 Jekk qed tuża l-pjan liberu tagħhom, huma xi kultant jibagħtulek email biex titlob li tixtri abbonament fix-xahar.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Huwa semma wkoll li l-politika ta ’privatezza ta’ Cloudflare ma ssemmix dwar
 Il-politika l-ġdida tagħhom ta 'privatezza ma tagħmel l-ebda aċċenn dwar iż-żamma tad-dejta għal sena.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Kif tista 'tafda Cloudflare jekk il-politika ta' privatezza tagħhom hija LIE?
 
@@ -276,7 +276,7 @@ Ma għandu jkollok l-ebda dominju jew karti ta 'kreditu mehmuża mal-kont tiegħ
 
 Int tirċievi din l-email ta 'konferma.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Bdejna nipproċessaw it-talba tat-tħassir tiegħek" iżda "Aħna se nkomplu naħżnu l-informazzjoni personali tiegħek".
 
@@ -297,5 +297,5 @@ Tista '"tafda" dan?
 
 ## Jekk jogħġbok kompli l-paġna li jmiss:   [Cloudflare Voices](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
