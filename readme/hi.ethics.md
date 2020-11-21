@@ -1,7 +1,7 @@
 # नैतिक मुद्दों
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "इस कंपनी का समर्थन न करें जो नैतिकता से शून्य है"
 
@@ -34,8 +34,8 @@ Cloudflare ने कहा कि उनकी सेवा का उपयो
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare सेंसर नकारात्मक समीक्षा।
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare उन लोगों की व्यक्तिगत जान�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare धर्मार्थ योगदान के लिए पू�
 यदि आप लोगों को ब्लॉक करना पसंद करते हैं या अन्य लोगों का समय बर्बाद कर रहे हैं, तो आप Cloudflare कर्मचारियों के लिए कुछ पिज्जा ऑर्डर करना चाह सकते हैं।
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare धर्मार्थ योगदान के लिए पू�
 ऐसी खबरें हैं कि Cloudflare उपयोगकर्ता की कॉन्फ़िगरेशन को हटा रहा है या बिना किसी चेतावनी के चुपचाप सेवा को रोक रहा है।
 हमारा सुझाव है कि आप बेहतर प्रदाता खोजें।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare Tor पर नॉन-टोर-ब्राउज़र के उप
 गैर-मुक्त जावास्क्रिप्ट को निष्पादित करने से इनकार करने वाले टोर उपयोगकर्ता भी शत्रुतापूर्ण उपचार प्राप्त करते हैं।
 यह पहुंच असमानता एक नेटवर्क तटस्थता दुरुपयोग और शक्ति का दुरुपयोग है।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - वाम: टोर ब्राउज़र, राइट: क्रोम। एक ही आईपी पता।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - बायाँ: टो ब्राउज़र जावास्क्रिप्ट विकलांग, कुकी सक्षम
 - सही: क्रोम जावास्क्रिप्ट सक्षम, कुकी अक्षम
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - Tor (Clearnet IP) के बिना QuteBrowser (मामूली ब्राउज़र)
 
@@ -190,7 +190,7 @@ CloudFlare Tor पर नॉन-टोर-ब्राउज़र के उप
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org वोट इकट्ठा करने और कार्रवाई करने के लिए एक प्रसिद्ध वेबसाइट है।
 “हर जगह लोग अभियान शुरू कर रहे हैं, समर्थकों को जुटा रहे हैं, और समाधान बनाने के लिए निर्णय निर्माताओं के साथ काम कर रहे हैं।”
@@ -200,7 +200,7 @@ CloudFlare Tor पर नॉन-टोर-ब्राउज़र के उप
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare की "Athenian Project" राज्य और स्थानीय चुनाव वेबसाइटों को मुफ्त उद्यम-स्तर की सुरक्षा प्रदान करती है।
 उन्होंने कहा "उनके घटक चुनाव सूचना और मतदाता पंजीकरण तक पहुँच सकते हैं" लेकिन यह एक झूठ है क्योंकि बहुत से लोग अभी साइट को ब्राउज़ नहीं कर सकते हैं।
@@ -220,7 +220,7 @@ CloudFlare Tor पर नॉन-टोर-ब्राउज़र के उप
 क्लाउडफ्लेयर उपयोगकर्ता की वरीयता को अनदेखा करता है और ग्राहकों की सहमति के बिना तीसरे पक्ष के निगमों के साथ डेटा साझा करता है।
 यदि आप उनकी मुफ्त योजना का उपयोग कर रहे हैं, तो वे कभी-कभी आपको मासिक सदस्यता खरीदने के लिए ईमेल भेजते हैं।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Cloudflare शब्द "Remove" के बारे में नहीं ज�
 उनकी नई गोपनीयता नीति में एक वर्ष के लिए डेटा को बनाए रखने का कोई उल्लेख नहीं है।
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 अगर उनकी गोपनीयता नीति एक LIE है तो आप Cloudflare पर कैसे भरोसा कर सकते हैं?
 
@@ -276,7 +276,7 @@ Cloudflare खाता हटाना कठिन स्तर है।
 
 आपको यह पुष्टिकरण ईमेल प्राप्त होगा।
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "हमने आपके विलोपन अनुरोध को संसाधित करना शुरू कर दिया है" लेकिन "हम आपकी व्यक्तिगत जानकारी संग्रहीत करना जारी रखेंगे"।
 
@@ -297,5 +297,5 @@ Cloudflare खाता हटाना कठिन स्तर है।
 
 ## कृपया अगले पृष्ठ पर जारी रखें:   [बादलों की आवाज](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
