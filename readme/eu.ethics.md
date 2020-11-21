@@ -1,7 +1,7 @@
 # Gai etikoak
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Ez ezazu onartzen etikaren hutsik dagoen enpresa hau"
 
@@ -34,8 +34,8 @@ Nola gelditu dezakegu Cloudflare Cloudflare aktibatu gabe?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Iritzi negatiboen edozein iruzkinetan argitaratzen baduzu, zentsuratzen saiatuko
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Jazarpena, erasoa, hiltzea edo hiltzea nahi ez baduzu, hobe Cloudflared webgunee
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Nahiko zoragarria da amerikar korporazio batek kausa onak eskatzea arrazoi onak 
 Jendea blokeatzea gustatzen bazaizu edo beste batzuen denbora alferrik galtzen baduzu, agian pizzak batzuk eska ditzakezu Cloudflareko langileei.
 
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfdonate.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Zer egingo duzu zure gunea bat-batean jaisten bada?
 Badira txostenak Cloudflare erabiltzailearen konfigurazioa edo zerbitzua geldiarazten ari dela inolako abisurik gabe ezabatzen ari direla.
 Hornitzaile hobea aurkitzea gomendatzen dizugu.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cftmnt.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare-k lehentasunezko tratamendua ematen die Firefox erabiltzen dutenei To
 Doakoak ez diren Javascript exekutatzearen zuzenek ez duten erabiltzaileek ere tratamendu etsaiak jasotzen dituzte.
 Sarbide desberdintasuna sareko neutraltasun gehiegikeria eta botere gehiegikeria da.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browdifftbcx.gif)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
 
 - Ezkerrean: Tor arakatzailea, eskuinean: Chrome. IP helbide bera.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/browserdiff.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
 
 - Ezker: Tor Arakatzailea Javascript desgaituta, Cookie gaituta
 - Eskuinean: Chrome Javascript gaituta, Cookie desgaituta
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfsiryoublocked.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
 
 - QuteBrowser (arakatzaile txikia) Tor gabe (Clearnet IP)
 
@@ -190,7 +190,7 @@ Kontuan izan paperak erregistratzeak ez duela Cloudflare saihesten, izan ere, da
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfvotm_02.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
 
 - Change.org webgune ospetsua da botoak bildu eta neurriak hartzeko.
 “Nonahi ari da jendea kanpainak egiten, aldekoak mobilizatzen eta erabaki arduradunekin lan egiten irtenbideak bultzatzeko.”
@@ -200,7 +200,7 @@ OpenPetition esaterako hodeirik gabeko beste plataforma batzuk erabiltzeak arazo
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/changeorgtor.jpg) |
+| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
 
 - Cloudflare-ren "Athenian Project" enpresak doako enpresentzako babesa eskaintzen die estatuko eta tokiko hauteskundeetako webguneei.
 "Hautesleek informazioa eta hautesleen erregistroa sar dezakete" esan dute, baina hori gezurra da jende askok ezin du inolaz ere arakatu gunea.
@@ -220,7 +220,7 @@ Zerbait desaktibatzen baduzu, horren inguruko mezu elektronikorik ez jasotzea es
 Cloudflare-k erabiltzailearen lehentasuna baztertu eta datuak hirugarrenen korporazioekin partekatu bezeroaren baimenik gabe.
 Doako plana erabiltzen ari bazara, batzuetan mezu elektronikoa bidaltzen dizute hileroko harpidetza erosteko.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_tp.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Gainera, Cloudflare-ren pribatutasun politikak ez duela aipatzen aipatu du.
 Pribatutasun politika berriak ez du inolako aipamenik egiten urte bateko datuak gordetzeaz.
 ```
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfviopl_notdel.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
 
 Nola fidatu dezakezu Cloudflare haien pribatutasun politika Gezurrezkoa bada?
 
@@ -276,7 +276,7 @@ Ezabatu aurretik eskatu behar duzu ez dagoela domeinurik edo kreditu txartelik a
 
 Baieztapen elektroniko hau jasoko duzu.
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cf_deleteandkeep.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
 
 "Ezabatzeko eskaera prozesatzen hasi gara" baina "Zure informazio pertsonala gordetzen jarraituko dugu".
 
@@ -297,5 +297,5 @@ Hau "konfiantza" al dezakezu?
 
 ## Mesedez, jarraitu hurrengo orrialdera:   [Cloudflare Ahotsak](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/cloudflare-tor/media/branch/master/image/cfisnotanoption.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
+![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
