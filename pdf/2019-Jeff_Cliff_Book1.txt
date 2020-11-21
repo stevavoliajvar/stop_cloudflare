@@ -298,11 +298,11 @@ References
 [33] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24351#comment:52
 [34] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24351#comment:60
 [35] nullius. Block Global Active Adversary Cloudflare.  https://trac.torproject.org/projects/tor/ticket/24321#comment:13
-[36] Anonymous. Cloudflare philosophy.  https://codeberg.org/crimeflare/cloudflare-tor/src/master/cloudflare-philosophy.md
+[36] Anonymous. Cloudflare philosophy.  https://codeberg.org/crimeflare/stop_cloudflare/src/master/cloudflare-philosophy.md
 [37] Peter O'Shaughnessy. Screen Reader User Survey Results #7.  https://toot.cafe/@peter/99398584471715976
 [39] ungeich. A new feature in Firefox  https://blog.ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/
 [40] Yasha Levine. iSucker: Big Brother Internet Culture  http://exiledonline.com/isucker-big-brother-internet-culture/
-[41] Anonymous. The Great Cloudwall.  http://codeberg.org/crimeflare/cloudflare-tor
+[41] Anonymous. The Great Cloudwall.  http://codeberg.org/crimeflare/stop_cloudflare
 [42] lesswrong wiki. Unfriendly artificial intelligence  https://wiki.lesswrong.com/wiki/Unfriendly_artificial_intelligence
 [43] Ben Harack. What is an existential risk?  https://www.visionofearth.org/future-of-humanity/existential-risks/what-is-an-existential-risk/
 [44] Nick Szabo. Twitter  http://twitter.com/nickszabo4
