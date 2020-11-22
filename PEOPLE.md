@@ -460,6 +460,7 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
+- It’s worse when the main site works fine but images (or other content) is CDN and then you can’t even fill out the captcha to make it work... ([coxy](https://twitter.com/coxy/status/1330215691413295105))
 - hi Jeph. I'm having trouble connecting to QC in the UK. Getting a Cloudflare error. Just thought I'd let you know x ([malphaswats](https://twitter.com/MalphasWats/status/1329873534290694144))
 - Hello there! I am unable to access hackforums cuz I received this error from Cloudflare: Error reference number: 1020 ([antrung12](https://twitter.com/AnTrung12/status/1329783736246837250))
 - May we have a screenshot shared here (for 3090) ? I can't access your website due to a recurrent cloudflare error😅 ([sta_sty](https://twitter.com/sta_sty/status/1329728731338977283))
