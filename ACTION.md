@@ -301,17 +301,6 @@ There is no 100% secure nor 100% private on the internet and technology.
   - Note that the Tor project [don't like this](https://support.torproject.org/tbb/tbb-9/). Use `Tor Browser` if you are able to do so.
 - [How to use Chromium with Tor](subfiles/chromium_tor.md)
 
-- It may be possible to use "Tor Browser" without Tor:
-
-> **How?**
-> 1. Download [Tor Browser](https://www.torproject.org/) and launch it.
-> 2. Open Add-ons Manager (about:addons) and *disable* EVERYTHING but "*Torbutton*". **Do NOT *remove* them**.
-> 3. Open about:config and search "*extensions.torbutton.use_nontor_proxy*". Set it to "*true*".
-> 4. Create new boolean "*extensions.torlauncher.start_tor*". Set it to "*false*".
-> 5. Close Tor Browser.
-> 
-> Other guide is [here](https://www.whonix.org/wiki/Tor_Browser_without_Tor#Disabling_Tor).
-
 
 Let's talk about _other software's privacy_...
 
@@ -325,11 +314,11 @@ Let's talk about _other software's privacy_...
 
 - Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618) and they [have](https://www.reddit.com/r/linux/comments/9hh3gc/to_unsuspecting_admins_firefox_continues_to_send/) / [too](https://mashable.com/2017/12/16/mr-robot-looking-glass-mozilla-firefox-backlash/) / [many](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) / [problems](https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/comment-page-6/#comment-226187). Want more? [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/ghost/mozilla.html).
 
-- Firefox Focus/Firefox Klar [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743). They promised to turn off telemetry but they [changed it](https://github.com/mozilla-mobile/focus-android/issues/4210).
+- Firefox Focus(Firefox Klar) [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743). They promised to turn off telemetry but they [changed it](https://github.com/mozilla-mobile/focus-android/issues/4210).
 
 - PaleMoon/Basilisk developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097). Pale Moon's Archive Server [hacked and spread malware for 18 Months](https://www.reddit.com/r/privacytoolsIO/comments/cc808y/pale_moons_archive_server_hacked_and_spread/). He also hate Tor users - "[Let it be hostile towards Tor. I think most sites should be hostile towards Tor considering its extremely high abuse factor.](https://github.com/yacy/yacy_search_server/issues/314#issuecomment-565932097)". (abuse rate over Tor is NOT "extremely high". there's a study about it)
 
-- Waterfox actively using [Cloudflare on their servers](https://www.digwebinterface.com/?hostnames=www.waterfoxproject.org&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=) and their software have [severe "phones home" problem](https://spyware.neocities.org/articles/waterfox.html).
+- Waterfox have [severe "phones home" problem](https://spyware.neocities.org/articles/waterfox.html).
 
 - Google Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html). Google [profiles your activity](https://spyware.neocities.org/articles/chrome.html).
 
@@ -344,7 +333,7 @@ Let's talk about _other software's privacy_...
 
 - Opera spyware level: [Extremely High](https://spyware.neocities.org/articles/opera.html)
 
-- Don't use any browser on Apple iOS. This is because you shouldn't be using iOS at all, mainly because it is [malware](https://www.gnu.org/proprietary/malware-apple.html).
+- Apple iOS: you shouldn't be using iOS at all, mainly because it is [malware](https://www.gnu.org/proprietary/malware-apple.html).
 
 Therefore we recommend above table only. _Nothing else_.
 
