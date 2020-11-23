@@ -25,6 +25,7 @@
 | 2012 | [TorScan Tracing Long-lived Connections and Differential Scanning Attacks](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2012-TorScan_Tracing_Long-lived_Connections_and_Differential_Scanning_Attacks.pdf) |
 | 2013 | [Trawling for Tor Hidden Services Detection Measurement Deanonymization](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2013-Trawling_for_Tor_Hidden_Services_Detection_Measurement_Deanonymization.pdf) |
 | 2013 | [Users Get Routed Traffic Correlation on Tor by Realistic Adversaries](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2013-Users_Get_Routed_Traffic_Correlation_on_Tor_by_Realistic_Adversaries.pdf) |
+| 2014 | [EU WP216 Article 29 Data Protection Working Party](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2014-euWP216_Article_29_Data_Protection_Working_Party.pdf) |
 | 2014 | [Effective Attacks and Provable Defenses for Website Fingerprinting](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2014-Effective_Attacks_and_Provable_Defenses_for_Website_Fingerprinting.pdf) |
 | 2014 | [Identity Theft Threat and Mitigations](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2014-Identity_Theft_Threat_and_Mitigations.pdf) |
 | 2014 | [InTeRneT SpyIng In SAn FRAnCISCo](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2014-InTeRneT_SpyIng_In_SAn_FRAnCISCo.pdf) |
