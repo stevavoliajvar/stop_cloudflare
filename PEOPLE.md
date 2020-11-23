@@ -2,7 +2,7 @@
 
 
 - This is a list of voices. Thank you for sharing your opinion.
-- **Disclaimer**: This page contains external links to third party websites. These sites are subject to the liability of the respective website operators.
+- *Disclaimer*: This page contains external links to third party websites. These sites are subject to the liability of the respective website operators.
 
 
 | 🖼 | 🖼 |
