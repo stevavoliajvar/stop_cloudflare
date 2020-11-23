@@ -28,11 +28,11 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
 | Codeberg pages    | no custom domain support; tor hostility | Free | https://pages.codeberg.org/ |
 | DDoS-GUARD | just like CloudFlare | Free | https://ddos-guard.net/ |
 | Gitee pages | must understand Chinese | Free | https://gitee.com/help/articles/4136 |
-| Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/stop_cloudflare) by Github) |
+| Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
 | Level 3 | ? | Enterprise | https://www.centurylink.com/ |
 | PerimeterX        | not gratis                        | ? | - |
 | Sharktech DDoS Solutions | ? | ? | https://sharktech.net/ |
-| Surge.sh      | uses custom servers           | Free | https://surge.sh/ |
+| Surge.sh      | Modifies *.surge.sh/robots.txt response           | Free | https://surge.sh/ |
 | Voxility | ? | ? | https://www.voxility.com/ |
 | eQualitie | not gratis | gratis during COVID19 | https://equalit.ie/ |
 | neoCities | static pages | Free | https://neocities.org/ |
