@@ -40,27 +40,6 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 -- [Activist](https://activism.openworlds.info/@aktivismoEstasMiaLuo)
 
 
-```
-There have been many cases of cloudflare denying people access to a website
-without the website owner knowing.
-I'm a legitimate user increasing my security by using a VPN but Cloudflare mistakenly
-decides I'm a bot and denies access.
-There have also been cases where Cloudflare just stops allowing anyone to visit a website
-simply because they don't think anyone should be able to.
-
-Regardless, that's not my main objection to Cloudflare.
-As a "man in the middle", they get access to all of my traffic.
-With the SSL certificates they provide, your connection is encrypted to Cloudflare then
-decrypted and sent to the server. The lock icon in your browser means absolutely nothing
-when a third party is literally getting all of your traffic when you connect to that site.
-Beyond that, with so many sites using Cloudflare, cross-site tracking becomes a problem.
-
-In addition, with so many websites behind Cloudflare, when it goes down, half the web is down.
-The internet was designed to be decentralised and Cloudflare is centralising it.
-Half of the internet relying on a single entity is dangerous.
-```
--- [Amolith](https://social.nixnet.services/@Amolith)
-
 
 ---
 
