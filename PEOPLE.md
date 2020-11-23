@@ -460,7 +460,6 @@ Half of the internet relying on a single entity is dangerous.
 
 
 
-- I have tried entering every combination of my UK phone number I can think of. The field still has a red border. If I copy your example number in the field it is accepted, but then on submit I get a general error message with no details.. Come on guys, do better.. ([alan_torbay](https://twitter.com/Alan_Torbay/status/1330656581504086017))
 - It’s worse when the main site works fine but images (or other content) is CDN and then you can’t even fill out the captcha to make it work... ([coxy](https://twitter.com/coxy/status/1330215691413295105))
 - hi Jeph. I'm having trouble connecting to QC in the UK. Getting a Cloudflare error. Just thought I'd let you know x ([malphaswats](https://twitter.com/MalphasWats/status/1329873534290694144))
 - Hello there! I am unable to access hackforums cuz I received this error from Cloudflare: Error reference number: 1020 ([antrung12](https://twitter.com/AnTrung12/status/1329783736246837250))
