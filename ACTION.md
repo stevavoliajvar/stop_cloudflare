@@ -319,18 +319,19 @@ Let's talk about _other software's privacy_...
   - [Firefox - Spyware Watchdog](https://spyware.neocities.org/articles/firefox.html)
   - [Firefox rejects free speech, bans free speech](https://web.archive.org/web/20200423010026/https://reclaimthenet.org/firefox-rejects-free-speech-bans-free-speech-commenting-plugin-dissenter-from-its-extensions-gallery/)
   - ["100+ downvotes. It seems like asking a software company to stick to... software is just too much these days."](https://old.reddit.com/r/firefox/comments/gutdiw/weve_got_work_to_do_the_mozilla_blog/fslbbb6/)
+  - [Uh, why is Firefox showing me sponsored links in my URL bar?](https://www.reddit.com/r/firefox/comments/jybx2w/uh_why_is_firefox_showing_me_sponsored_links_in/)
 
-- Remember, Mozilla is [using Cloudflare service](https://www.robtex.com/dns-lookup/www.mozilla.org). They're also using [Cloudflare's DNS service on their product](https://www.theregister.co.uk/2018/03/21/mozilla_testing_dns_encryption/) D'oh!
+- Remember, Mozilla is [using Cloudflare service](https://www.robtex.com/dns-lookup/www.mozilla.org). They're also using [Cloudflare's DNS service](https://www.theregister.co.uk/2018/03/21/mozilla_testing_dns_encryption/) on their product D'oh!
 
 - Mozilla officially [rejected this ticket](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618) and they [have](https://www.reddit.com/r/linux/comments/9hh3gc/to_unsuspecting_admins_firefox_continues_to_send/) / [too](https://mashable.com/2017/12/16/mr-robot-looking-glass-mozilla-firefox-backlash/) / [many](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/) / [problems](https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/comment-page-6/#comment-226187). Want more? [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/ghost/mozilla.html).
 
-- "Firefox Focus/Firefox Klar [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743). They promised to turn off telemetry but they [changed it](https://github.com/mozilla-mobile/focus-android/issues/4210).
+- Firefox Focus/Firefox Klar [is a joke](https://github.com/mozilla-mobile/focus-android/issues/1743). They promised to turn off telemetry but they [changed it](https://github.com/mozilla-mobile/focus-android/issues/4210).
 
-- PaleMoon(Basilisk) developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097). Pale Moon's Archive Server [hacked and spread malware for 18 Months](https://www.reddit.com/r/privacytoolsIO/comments/cc808y/pale_moons_archive_server_hacked_and_spread/). He also hate Tor users - "[Let it be hostile towards Tor. I think most sites should be hostile towards Tor considering its extremely high abuse factor.](https://github.com/yacy/yacy_search_server/issues/314#issuecomment-565932097)". (abuse rate over Tor is NOT "extremely high". there's a study about it)
+- PaleMoon/Basilisk developer [loves Cloudflare](https://github.com/mozilla-mobile/focus-android/issues/1743#issuecomment-345993097). Pale Moon's Archive Server [hacked and spread malware for 18 Months](https://www.reddit.com/r/privacytoolsIO/comments/cc808y/pale_moons_archive_server_hacked_and_spread/). He also hate Tor users - "[Let it be hostile towards Tor. I think most sites should be hostile towards Tor considering its extremely high abuse factor.](https://github.com/yacy/yacy_search_server/issues/314#issuecomment-565932097)". (abuse rate over Tor is NOT "extremely high". there's a study about it)
 
 - Waterfox actively using [Cloudflare on their servers](https://www.digwebinterface.com/?hostnames=www.waterfoxproject.org&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=) and their software have [severe "phones home" problem](https://spyware.neocities.org/articles/waterfox.html).
 
-- Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html). Google [profiles your activity](https://spyware.neocities.org/articles/chrome.html).
+- Google Chrome is a [spyware](https://www.gnu.org/proprietary/malware-google.en.html). Google [profiles your activity](https://spyware.neocities.org/articles/chrome.html).
 
 - SRWare Iron make too many [phones home connection](https://spyware.neocities.org/articles/iron.html). It also connect to google domains.
 
@@ -358,7 +359,7 @@ Therefore we recommend above table only. _Nothing else_.
 </summary>
 
 
-- Don't use Firefox Nightly. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
+- Don't use Firefox *Nightly*. It will send debug-level information to Mozilla servers without opt-out method. Mozilla servers are [behing Cloudflare](https://www.digwebinterface.com/?hostnames=www.mozilla.org%0D%0Amozilla.cloudflare-dns.com&type=&ns=resolver&useresolver=8.8.4.4&nameservers=).
 
 - It is possible to prohibit Firefox to connect to Mozilla servers. Create a file "`/distribution/policies.json`". Mozilla's [policy-templates guide](https://github.com/mozilla/policy-templates/blob/master/README.md). Keep in mind this trick might stop working in later version because Mozilla likes to whitelist themselves. Use firewall and DNS filter to block them completely.
 
