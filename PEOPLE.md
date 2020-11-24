@@ -439,6 +439,18 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Tbh with any new launch (Just like the Nvidia Launch, And Ryzen launch) the sites struggle. Maybe they need better hosting ;). But indeed the captcha is horrible, even on non launch days it's been a PITA for me. ([ryanteck](https://twitter.com/ryanteck/status/1329069258643390464))
+- Fuck cloudflare. You show me a captcha just to browse your site, and I take my business elsewhere. ([featherornot](https://twitter.com/FeatherOrNot/status/1328732726548107266))
+- Yeah but, you gotta think about what people care about. I'll bet Google VPN doesn't make you do CAPTCHA Bet it's not blocked by CloudFlare Bet it's not blocked by Hulu/Netflix either People don't care about privacy. They just want the gibbs ([extraspecialk1](https://twitter.com/ExtraSpecialK1/status/1327898873616945152))
+- Cloudflare Security/Firewall system is very bad. They block people who use shared IP address and ask humans to prove they are humans.. but it's worst than Google's CAPTCHA. Still I don't know how FREE CDN works, even Google is not offering something like that.That is why I say NO ([openspeedtest](https://twitter.com/openspeedtest/status/1326118476495220736))
+- Can't get through on the website again, same Cloudflare error. Hopefully up soon so I can finish my order! Thanks ([nickpresley](https://twitter.com/nickpresley/status/1330332180229222400))
+- The error message I'm getting form your site kinda looks like you forgot to pay for your site hosting. Just saying. ([socialistsalas](https://twitter.com/SocialistSalas/status/1330309859418513412))
+- Using www prefix returns 522 error from cloudflare ([tspventurer](https://twitter.com/tspventurer/status/1330168457183301635))
+- hey! i dunno if someone's brought it up to you yet but it looks like the qc site is down rn? i went to go catch up for the week but it's givin a cloudflare error ([hexapodelion](https://twitter.com/hexapodelion/status/1329960492937441284))
+- Hey Users are reporting lots of random issues over the past few days and currently. Including serving of error pages that were changed several months ago and seem to have been cached, and other access problems. ([pygame_org](https://twitter.com/pygame_org/status/1329404462079815680))
+- And I can’t update my PS4 system. It shows DNS error. I’m using Cloudflare DoH on my router. Change it back to the ISP default fixed the issue. ([nsmvytwg](https://twitter.com/nsmvytwg/status/1329057479397834756))
+- I tried logging into my account and got an error 1006, saying my IP has been banned courtesy of Cloudflare. Pls can you guys resolve this issue??? ([olasupojoshua7](https://twitter.com/OlasupoJoshua7/status/1329045687170965504))
+- Hey guys, I'm getting an Access Denied 1020 error while visiting your website, by CloudFlare. Could you please look into it. I cannot share my IP. If needed, I can share it on DM. ([sskameshtwit](https://twitter.com/sskameshtwit/status/1328786736759984128))
 - It’s worse when the main site works fine but images (or other content) is CDN and then you can’t even fill out the captcha to make it work... ([coxy](https://twitter.com/coxy/status/1330215691413295105))
 - hi Jeph. I'm having trouble connecting to QC in the UK. Getting a Cloudflare error. Just thought I'd let you know x ([malphaswats](https://twitter.com/MalphasWats/status/1329873534290694144))
 - Hello there! I am unable to access hackforums cuz I received this error from Cloudflare: Error reference number: 1020 ([antrung12](https://twitter.com/AnTrung12/status/1329783736246837250))
