@@ -19,14 +19,12 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
   - Just drop the excessive connection.
 
 
-
 ## Alternatives
 | Alternative       | Drawback                          | Price | Link |
 | ----------------- | --------------------------------- | ------ | ---- |
 | Akamai | can be used to block Tor | ? | https://akamai.net/ |
 | BunnyCDN | ? | $0.01+ | https://bunnycdn.com/ |
 | Codeberg pages    | no custom domain support; tor hostility | Free | https://pages.codeberg.org/ |
-| DDoS-GUARD | just like CloudFlare | Free | https://ddos-guard.net/ |
 | Gitee pages | must understand Chinese | Free | https://gitee.com/help/articles/4136 |
 | Github pages      | uses Microsoft servers            | Free | https://pages.github.com/ (WARNING: Tor/VPN users will get their [account blocked automatically](https://github.com/crimeflare/cloudflare-tor) by Github) |
 | Level 3 | ? | Enterprise | https://www.centurylink.com/ |
@@ -38,18 +36,23 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
 | neoCities | static pages | Free | https://neocities.org/ |
 | sucuri | not gratis; tor hostility at ~3.483% | $200+ | https://sucuri.net/|
 
+
 ## Not researched yet
 - CDNJS: sponsored by Cloudflare. It might use it in the background.
+
 
 ## Why X is not included
 | X       | Reason |
 | ------- | ------ |
 | Cloudflare Argo | Uses Cloudflare. |
+| DDoS-GUARD | just like CloudFlare. |
 | Gitlab pages      | GitLab is now Cloudflared |
 | Imperva | Uses Cloudflare. |
+| jsDelivr | Uses Cloudflare, see their [network page](https://www.jsdelivr.com/network) |
 | Netlify | Uses Amazon AWS which is also a content delivery network. It would be hypocritical to include it. |
 | Siteground | Tor-hostile people. |
-| jsDelivr | Uses Cloudflare, see their [network page](https://www.jsdelivr.com/network) |
+
 
 ## History
 Sucuri and eQualitie have a history of CloudFlare patronage, but no longer.
+
