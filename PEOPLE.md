@@ -439,6 +439,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- So private that I can't even access my wallet :/ 403 error in the app (Lite and full) 502 on CloudFlare ([mc85904926](https://twitter.com/MC85904926/status/1331239758278889481))
 - Tbh with any new launch (Just like the Nvidia Launch, And Ryzen launch) the sites struggle. Maybe they need better hosting ;). But indeed the captcha is horrible, even on non launch days it's been a PITA for me. ([ryanteck](https://twitter.com/ryanteck/status/1329069258643390464))
 - Fuck cloudflare. You show me a captcha just to browse your site, and I take my business elsewhere. ([featherornot](https://twitter.com/FeatherOrNot/status/1328732726548107266))
 - Yeah but, you gotta think about what people care about. I'll bet Google VPN doesn't make you do CAPTCHA Bet it's not blocked by CloudFlare Bet it's not blocked by Hulu/Netflix either People don't care about privacy. They just want the gibbs ([extraspecialk1](https://twitter.com/ExtraSpecialK1/status/1327898873616945152))
