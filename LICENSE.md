@@ -1,3 +1,6 @@
+`https://codeberg.org/crimeflare/stop_cloudflare`
+
+
 ### Permesilo
 
 * /addons/* -- [MIT](https://eo.wikipedia.org/wiki/MIT-permesilo)
