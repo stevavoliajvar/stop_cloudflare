@@ -53,7 +53,7 @@
 |  تقدم Cloudflare أيضًا خدمة VPN مجانية تسمى "Cloudflare Warp".إذا كنت تستخدمه ، فسيتم إرسال جميع اتصالات هاتفك الذكي (أو جهاز الكمبيوتر الخاص بك) إلى خوادم Cloudflare.يمكن لـ Cloudflare معرفة موقع الويب الذي قرأته والتعليق الذي نشرته ومن تحدثت إليه وما إلى ذلك.أنت تطوعي بتقديم جميع معلوماتك إلى Cloudflare.إذا كنت تعتقد "هل تمزح؟ Cloudflare آمن. " فأنت بحاجة إلى معرفة كيفية عمل VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  قالت Cloudflare إن خدمة VPN الخاصة بهم تجعل الإنترنت لديك سريعًا.لكن VPN تجعل اتصالك بالإنترنت أبطأ من اتصالك الحالي. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  قد تكون على علم بالفعل بفضيحة PRISM.صحيح أن AT&T تتيح لوكالة الأمن القومي نسخ جميع بيانات الإنترنت للمراقبة. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  لنفترض أنك تعمل في وكالة الأمن القومي وتريد ملفًا شخصيًا على الإنترنت لكل مواطن.أنت تعرف أن معظمهم يثقون بشكل أعمى في Cloudflare ويستخدمونها - بوابة مركزية واحدة فقط - لتوكيل اتصال خادم الشركة (SSH / RDP) ، وموقع الويب الشخصي ، وموقع الدردشة ، وموقع المنتدى ، وموقع البنك ، وموقع التأمين ، ومحرك البحث ، والعضو السري -الموقع الإلكتروني فقط ، وموقع المزاد ، والتسوق ، وموقع الفيديو ، وموقع NSFW ، والموقع غير القانوني.أنت تعلم أيضًا أنهم يستخدمون خدمة DNS الخاصة بـ Cloudflare ("1.1.1.1") وخدمة VPN ("Cloudflare Warp") من أجل "Secure! بسرعة! أفضل!" تجربة الإنترنت.سيكون الجمع بينها وبين عنوان IP الخاص بالمستخدم وبصمة المتصفح وملفات تعريف الارتباط ومعرف RAY مفيدًا لبناء الملف الشخصي للهدف عبر الإنترنت. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  لنفترض أنك تعمل في وكالة الأمن القومي وتريد ملفًا شخصيًا على الإنترنت لكل مواطن.أنت تعرف أن معظمهم يثقون بشكل أعمى في Cloudflare ويستخدمونها - بوابة مركزية واحدة فقط - لتوكيل اتصال خادم الشركة (SSH / RDP) ، وموقع الويب الشخصي ، وموقع الدردشة ، وموقع المنتدى ، وموقع البنك ، وموقع التأمين ، ومحرك البحث ، والعضو السري -الموقع الإلكتروني فقط ، وموقع المزاد ، والتسوق ، وموقع الفيديو ، وموقع NSFW ، والموقع غير القانوني.أنت تعلم أيضًا أنهم يستخدمون خدمة DNS الخاصة بـ Cloudflare ("1.1.1.1") وخدمة VPN ("Cloudflare Warp") من أجل "Secure! بسرعة! أفضل!" تجربة الإنترنت.سيكون الجمع بينها وبين عنوان IP الخاص بالمستخدم وبصمة المتصفح وملفات تعريف الارتباط ومعرف RAY مفيدًا لبناء الملف الشخصي للهدف عبر الإنترنت. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  تريد بياناتهم. ماذا ستفعل؟ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare هو موضع جذب.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **عسل مجاني للجميع. بعض الخيوط المرفقة.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -99,11 +99,9 @@
   * تم تخريب التذكرة عدة مرات.
   * [تم الحذف بواسطة مشروع Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [انظر التذكرة 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [آخر تذكرة أرشفة 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -180,6 +178,5 @@
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
 
 </div>
