@@ -51,7 +51,7 @@
 |  Cloudflare erbjuder också GRATIS VPN-tjänst som kallas “Cloudflare Warp”.Om du använder den skickas alla dina smarttelefonanslutningar (eller din dator) till Cloudflare-servrar.Cloudflare kan veta vilken webbplats du har läst, vilken kommentar du har lagt ut, vem du har pratat med etc.Du ger frivilligt all din information till Cloudflare.Om du tänker "Skämtar du? Cloudflare är säkert. ” då måste du lära dig hur VPN fungerar. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare sa att deras VPN-tjänst gör ditt internet snabbt.Men VPN gör din internetanslutning långsammare än din befintliga anslutning. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Du kanske redan känner till PRISM-skandalen.Det är sant att AT&T låter NSA kopiera all internetdata för övervakning. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Låt oss säga att du arbetar på NSA, och du vill att alla medborgares internetprofil.Du vet att de flesta av dem litar tillförlitligt på Cloudflare och använder det - bara en centraliserad gateway - för att proxy deras företagsserveranslutning (SSH / RDP), personlig webbplats, chattwebbplats, forumwebbplats, bankwebbplats, försäkringswebbplats, sökmotor, hemlig medlem -enlig webbplats, auktionswebbplats, shopping, videowebbplats, NSFW-webbplats och olaglig webbplats.Du vet också att de använder Cloudflares DNS-tjänst ("1.1.1.1") och VPN-tjänst ("Cloudflare Warp") för "Secure! Snabbare! Bättre!" internetupplevelse.Att kombinera dem med användarens IP-adress, webbläsarens fingeravtryck, kakor och RAY-ID kommer att vara användbart för att bygga måls online-profil. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Låt oss säga att du arbetar på NSA, och du vill att alla medborgares internetprofil.Du vet att de flesta av dem litar tillförlitligt på Cloudflare och använder det - bara en centraliserad gateway - för att proxy deras företagsserveranslutning (SSH / RDP), personlig webbplats, chattwebbplats, forumwebbplats, bankwebbplats, försäkringswebbplats, sökmotor, hemlig medlem -enlig webbplats, auktionswebbplats, shopping, videowebbplats, NSFW-webbplats och olaglig webbplats.Du vet också att de använder Cloudflares DNS-tjänst ("1.1.1.1") och VPN-tjänst ("Cloudflare Warp") för "Secure! Snabbare! Bättre!" internetupplevelse.Att kombinera dem med användarens IP-adress, webbläsarens fingeravtryck, kakor och RAY-ID kommer att vara användbart för att bygga måls online-profil. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Du vill ha deras data. Vad kommer du göra? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare är en honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Gratis honung för alla. Några strängar fästa.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Detta förvar är en lista över webbplatser som ligger bakom "The Great Cloudwa
   * Biljetten vandaliserades så många gånger.
   * [Raderas av Tor-projektet.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Se biljett 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Sista arkivbiljett 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -178,7 +176,6 @@ Vi frågar aldrig dina sociala medier.**
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
 
 
 [//]: # (not override/imported @prograde)
