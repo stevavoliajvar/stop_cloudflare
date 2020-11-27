@@ -51,7 +51,7 @@
 |  Cloudflare také nabízí bezplatnou službu VPN s názvem „Cloudflare Warp“.Pokud ji používáte, všechna připojení smartphonu (nebo vašeho počítače) se odesílají na servery Cloudflare.Cloudflare může vědět, na jakém webu jste si přečetli, jaký komentář jste zveřejnili, s kým jste mluvili atd.Dobrovolně předáváte všechny své informace společnosti Cloudflare.Pokud si myslíte: „Děláš si srandu? Cloudflare je bezpečná. “ pak se musíte naučit, jak funguje VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare uvedla, že jejich služba VPN zrychlí váš internet.VPN však vaše připojení k internetu pomalejší než vaše stávající připojení. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Možná už víte o skandálu PRISM.Je pravda, že AT&T umožňuje NSA kopírovat všechna internetová data pro dohled. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Řekněme, že pracujete v NSA a chcete internetový profil každého občana.Víte, že většina z nich slepě důvěřuje Cloudflare a používá jej - pouze jednu centralizovanou bránu - k proxy serveru pro připojení k firemnímu serveru (SSH / RDP), osobní webové stránky, chatovací webové stránky, webové stránky fóra, bankovní stránky, pojišťovací webové stránky, vyhledávače, tajný člen - pouze web, aukční web, nakupování, web pro video, web NSFW a nelegální web.Také víte, že používají službu DNS Cloudflare („1.1.1.1“) a službu VPN („Cloudflare Warp“) pro „Zabezpečeno! Rychleji! Lepší!" internetový zážitek.Jejich kombinace s IP adresou uživatele, otiskem prstu prohlížeče, cookies a RAY-ID bude užitečné při vytváření online profilu cíle. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Řekněme, že pracujete v NSA a chcete internetový profil každého občana.Víte, že většina z nich slepě důvěřuje Cloudflare a používá jej - pouze jednu centralizovanou bránu - k proxy serveru pro připojení k firemnímu serveru (SSH / RDP), osobní webové stránky, chatovací webové stránky, webové stránky fóra, bankovní stránky, pojišťovací webové stránky, vyhledávače, tajný člen - pouze web, aukční web, nakupování, web pro video, web NSFW a nelegální web.Také víte, že používají službu DNS Cloudflare („1.1.1.1“) a službu VPN („Cloudflare Warp“) pro „Zabezpečeno! Rychleji! Lepší!" internetový zážitek.Jejich kombinace s IP adresou uživatele, otiskem prstu prohlížeče, cookies a RAY-ID bude užitečné při vytváření online profilu cíle. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Chcete jejich data. Co budeš dělat? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare je honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Med zdarma pro všechny. Některé řetězce připojeny.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Toto úložiště je seznam webových stránek, které jsou za „Velkým cloude
   * Vstupenka byla tolikrát vandalizována.
   * [Vypuštěno projektem Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Viz tiket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Poslední archiv 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Nikdy se vás nezeptáme na vaše sociální média.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
