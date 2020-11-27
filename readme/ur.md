@@ -53,7 +53,7 @@
 |  کلاؤڈ فلایر مفت کلاؤڈ فلایر سروس بھی پیش کرتا ہے جسے "کلاؤڈ فلائر وارپ" کہا جاتا ہے۔اگر آپ اسے استعمال کرتے ہیں تو ، آپ کے تمام اسمارٹ فون (یا آپ کا کمپیوٹر) کنکشن کلاؤڈ فلاla سرورز پر بھیجے جاتے ہیں۔کلاؤڈ فلایر جان سکتا ہے کہ آپ نے کس ویب سائٹ کو پڑھا ہے ، آپ نے کیا تبصرہ کیا ہے ، کس سے بات کی ہے وغیرہ۔آپ اپنی تمام معلومات کلاؤڈ فلایر کو رضاکارانہ طور پر دے رہے ہیں۔اگر آپ کو لگتا ہے کہ "کیا آپ مذاق کر رہے ہیں؟ کلاؤڈ فلایر محفوظ ہے۔ تب آپ کو یہ سیکھنے کی ضرورت ہوگی کہ وی پی این کیسے کام کرتا ہے۔ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  کلاؤڈ فلائر نے کہا کہ ان کی وی پی این سروس آپ کے انٹرنیٹ کو تیز تر بناتی ہے۔لیکن وی پی این آپ کے موجودہ کنیکشن سے آپ کا انٹرنیٹ کنیکشن سست بناتا ہے۔ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  آپ شاید PRISM اسکینڈل کے بارے میں جان چکے ہوں گے۔یہ سچ ہے کہ اے ٹی اینڈ ٹی این ایس اے کو نگرانی کے لئے تمام انٹرنیٹ ڈیٹا کاپی کرنے کی اجازت دیتا ہے۔ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  ہم کہتے ہیں کہ آپ NSA پر کام کر رہے ہیں ، اور آپ ہر شہری کا انٹرنیٹ پروفائل چاہتے ہیں۔آپ جانتے ہیں کہ ان میں سے بیشتر آنکھیں بند کرکے کلاؤڈ فلایر پر بھروسہ کررہے ہیں اور اسے استعمال کررہے ہیں - صرف ایک مرکزی گیٹ وے - اپنی کمپنی سرور کنیکشن (ایس ایس ایچ / آر ڈی پی) ، ذاتی ویب سائٹ ، چیٹ ویب سائٹ ، فورم ویب سائٹ ، بینک ویب سائٹ ، انشورنس ویب سائٹ ، سرچ انجن ، خفیہ ممبر صرف ویب سائٹ ، نیلامی کی ویب سائٹ ، خریداری ، ویڈیو ویب سائٹ ، NSFW ویب سائٹ ، اور غیر قانونی ویب سائٹ۔آپ یہ بھی جانتے ہیں کہ وہ کلاؤڈ فلایر کی ڈی این ایس سروس ("1.1.1.1") اور VPN سروس ("کلاؤڈ فلائر وارپ") کو "سیکیور!" کے لئے استعمال کرتے ہیں۔ تیز! بہتر! " انٹرنیٹ کا تجربہ۔ان کا صارف کے IP ایڈریس ، براؤزر فنگر پرنٹ ، کوکیز اور RAY-ID کے ساتھ جوڑنا ہدف کے آن لائن پروفائل کی تعمیر کے ل useful مفید ہوگا۔ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  ہم کہتے ہیں کہ آپ NSA پر کام کر رہے ہیں ، اور آپ ہر شہری کا انٹرنیٹ پروفائل چاہتے ہیں۔آپ جانتے ہیں کہ ان میں سے بیشتر آنکھیں بند کرکے کلاؤڈ فلایر پر بھروسہ کررہے ہیں اور اسے استعمال کررہے ہیں - صرف ایک مرکزی گیٹ وے - اپنی کمپنی سرور کنیکشن (ایس ایس ایچ / آر ڈی پی) ، ذاتی ویب سائٹ ، چیٹ ویب سائٹ ، فورم ویب سائٹ ، بینک ویب سائٹ ، انشورنس ویب سائٹ ، سرچ انجن ، خفیہ ممبر صرف ویب سائٹ ، نیلامی کی ویب سائٹ ، خریداری ، ویڈیو ویب سائٹ ، NSFW ویب سائٹ ، اور غیر قانونی ویب سائٹ۔آپ یہ بھی جانتے ہیں کہ وہ کلاؤڈ فلایر کی ڈی این ایس سروس ("1.1.1.1") اور VPN سروس ("کلاؤڈ فلائر وارپ") کو "سیکیور!" کے لئے استعمال کرتے ہیں۔ تیز! بہتر! " انٹرنیٹ کا تجربہ۔ان کا صارف کے IP ایڈریس ، براؤزر فنگر پرنٹ ، کوکیز اور RAY-ID کے ساتھ جوڑنا ہدف کے آن لائن پروفائل کی تعمیر کے ل useful مفید ہوگا۔ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  آپ ان کا ڈیٹا چاہتے ہیں۔ آپ کیا کریں گے؟ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **کلاؤڈ فلایر ایک ہنی پاٹ ہے۔** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **سب کے لئے مفت شہد۔ کچھ ڈور منسلک۔** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -99,11 +99,9 @@
   * اتنے بار ٹکٹ کی توڑ پھوڑ کی گئی۔
   * [ٹور پروجیکٹ کے ذریعہ حذف ہوگیا۔](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ٹکٹ 34175 دیکھیں۔](https://trac.torproject.org/projects/tor/ticket/34175)
   * [آخری محفوظ شدہ دستاویزات کا ٹکٹ 24351۔](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -180,6 +178,5 @@
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
 
 </div>
