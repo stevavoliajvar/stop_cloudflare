@@ -51,7 +51,7 @@
 |  Cloudflare offre ancu un serviziu VPN GRATUITU chjamatu "Cloudflare Warp".Se l'usu, tutte e cunnessione di u vostru smartphone (o di u vostru urdinatore) sò mandati à i servitori Cloudflare.Cloudflare pò sapè chì situ web avete lettu, quale cumentu avete postatu, cù quale avete parlatu, etc.Hè vuluntaria di dà tutte e vostre infurmazione à Cloudflare.Se pensate "Sò in broma? Cloudflare hè sicuru. " allura avete bisognu à amparà cumu u VPN funziona. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare hà dettu chì u so serviziu VPN rende u vostru internet veloce.Ma VPN rende a vostra cunnessione internet più lenta cà a vostra cunnessione esistente. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Puderia digià sapè u scandalu PRISM.Hè veru chì AT&T permette à l'NSA di copià tutte e dati d'internet per a vigilazione. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Cunsintemu chì site di travaglià à l'NSA è chì vulete chì u vostru prufilu d'Internet di ogni citadinu.Sapete chì a maiò parte di elli sò fiduciamente nuvola in Cloudflare è l'utilizanu - solu un gateway centralizatu - per proxy a so cunnessione di servitore di cumpagnia (SSH / RDP), situ web persunale, situ di chat, situ web di forum, situ web di banca, situ di assicurazione, motore di ricerca, membru segrettu -un solu situ web, site d'asta, shopping, situ video, situ NSFW, è situ illegale.Sapete ancu chì usanu u serviziu DNS di Cloudflare ("1.1.1.1") è u serviziu VPN ("Cloudflare Warp") per "Secure! Più prestu! Megliu! " sperienza in Internet.Cumminendu cun l'indirizzu IP di l'utilizatore, l'emprente digitale di i navigatori, i cookies è RAY-ID seranu utili per custruisce u profilu in ligna di u destinatu. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Cunsintemu chì site di travaglià à l'NSA è chì vulete chì u vostru prufilu d'Internet di ogni citadinu.Sapete chì a maiò parte di elli sò fiduciamente nuvola in Cloudflare è l'utilizanu - solu un gateway centralizatu - per proxy a so cunnessione di servitore di cumpagnia (SSH / RDP), situ web persunale, situ di chat, situ web di forum, situ web di banca, situ di assicurazione, motore di ricerca, membru segrettu -un solu situ web, site d'asta, shopping, situ video, situ NSFW, è situ illegale.Sapete ancu chì usanu u serviziu DNS di Cloudflare ("1.1.1.1") è u serviziu VPN ("Cloudflare Warp") per "Secure! Più prestu! Megliu! " sperienza in Internet.Cumminendu cun l'indirizzu IP di l'utilizatore, l'emprente digitale di i navigatori, i cookies è RAY-ID seranu utili per custruisce u profilu in ligna di u destinatu. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Vulete e so dati. Chì farete? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare hè un tonu di mele.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Meli gratuiti per tutti. Certi fili sò attaccati.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
   * U bigliettu hè statu vandalizatu tante volte.
   * [Eliminatu da u Prughjettu Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Vede u bigliettu 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Ultimu bigliettu d'archiviu 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Crimeflare cunnosce l'esistenza di conti falsi chì impegnanu i nostri canali uf
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
