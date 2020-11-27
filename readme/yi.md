@@ -51,7 +51,7 @@
 |  קלאָודפלאַרע אויך פאָרשלאָגן פריי וופּן דינסט גערופֿן “קלאָודפלאַרע וואַרפּ”.אויב איר נוצן עס, אַלע דיין סמאַרטפאָנעס (אָדער דיין קאָמפּיוטער) קאַנעקשאַנז זענען געשיקט צו קלאָודפלאַרע סערווערס.קלאָודפלאַרע קענען וויסן וואָס וועבזייטל איר האָט לייענען, וואָס באַמערקונג איר האָט אַרייַנגעשיקט, מיט וועמען איר האָט גערעדט, עטק.איר זענט וואַלאַנטערי געבן אַלע דיין אינפֿאָרמאַציע צו קלאָודפלאַרע.אויב איר טראַכטן "ביסט איר וויץ? קלאָודפלאַרע איז זיכער. ” דעמאָלט איר דאַרפֿן צו לערנען ווי וופּן אַרבעט. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  קלאָודפלאַרע האט זייער וופּן דינסט מאַכן דיין אינטערנעט געשווינד.אָבער וופּן מאַכן דיין אינטערנעט פֿאַרבינדונג סלאָוער ווי דיין יגזיסטינג קשר. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  איר קען שוין וויסן וועגן דעם פּריסם סקאַנדאַל.עס איז אמת אַז AT&T לעץ NSA צו נאָכמאַכן אַלע אינטערנעט דאַטן פֿאַר סערוויילאַנס. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  לאמיר זאגן אז איר ארבעט ביי די NSA, און איר ווילט אז דער בירגער'ס אינטערנעץ פראפיל.איר וויסן אַז רובֿ פון זיי בליינדלי צוטרוי קלאָודפלאַרע און נוצן עס - בלויז איין סענטראַלייזד טויער - צו פּראַקסי זייער פירמע סערווער קשר (SSH / RDP), פערזענלעכע וועבזייטל, שמועסן וועבזייטל, פאָרום וועבזייטל, באַנק וועבזייטל, פאַרזיכערונג וועבזייטל, זוכן מאָטאָר, סוד מיטגליד בלויז וועבזייטל, ליציטאַציע וועבזייטל, שאַפּינג, ווידעא וועבזייטל, NSFW וועבזייטל און ומלעגאַל וועבזייטל.איר אויך וויסן אַז זיי נוצן Cloudflare ס דנס דינסט ("1.1.1.1") און VPN דינסט ("Cloudflare Warp") פֿאַר "זיכער! פאַסטער! בעסער! ” אינטערנעט דערפאַרונג.צו פאַרבינדן די IP אַדרעס פון די באַניצער, פינגערפּרינט פון דעם בלעטערער, ​​קיכלעך און RAY-ID וועט זיין נוציק צו בויען די אָנליין פּראָפיל פון די ציל. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  לאמיר זאגן אז איר ארבעט ביי די NSA, און איר ווילט אז דער בירגער'ס אינטערנעץ פראפיל.איר וויסן אַז רובֿ פון זיי בליינדלי צוטרוי קלאָודפלאַרע און נוצן עס - בלויז איין סענטראַלייזד טויער - צו פּראַקסי זייער פירמע סערווער קשר (SSH / RDP), פערזענלעכע וועבזייטל, שמועסן וועבזייטל, פאָרום וועבזייטל, באַנק וועבזייטל, פאַרזיכערונג וועבזייטל, זוכן מאָטאָר, סוד מיטגליד בלויז וועבזייטל, ליציטאַציע וועבזייטל, שאַפּינג, ווידעא וועבזייטל, NSFW וועבזייטל און ומלעגאַל וועבזייטל.איר אויך וויסן אַז זיי נוצן Cloudflare ס דנס דינסט ("1.1.1.1") און VPN דינסט ("Cloudflare Warp") פֿאַר "זיכער! פאַסטער! בעסער! ” אינטערנעט דערפאַרונג.צו פאַרבינדן די IP אַדרעס פון די באַניצער, פינגערפּרינט פון דעם בלעטערער, ​​קיכלעך און RAY-ID וועט זיין נוציק צו בויען די אָנליין פּראָפיל פון די ציל. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  איר ווילן זייער דאַטן. וואס גייסטו טוהן? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **קלאָודפלאַרע איז אַ האָנעפּאָט.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **פריי האָניק פֿאַר אַלעמען. עטלעכע סטרינגס אַטאַטשט.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * דער בילעט איז אַזוי וואַנדאַלייזד אַזוי פילע מאָל.
   * [אויסגעמעקט דורך די Tor Project.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [זעט טיקעט 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [לעצטע אַרקייוו בילעט 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Crimeflare וויסן וועגן די עקזיסטענץ פון שווינדל �
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
