@@ -51,7 +51,7 @@
 |  Cloudflare ofri tou GRATIS sèvis vpn yo rele "Cloudflare Warp".Si ou itilize li, tout smartphone ou (oswa òdinatè w lan) koneksyon yo voye nan serveurs Cloudflare.Cloudflare ka konnen ki sit entènèt ou te li, ki sa kòmantè ou te afiche, ki moun ou te pale, elatriye.Ou se volontè bay tout enfòmasyon ou a Cloudflare.Si ou panse "Èske w ap jwe li?" Cloudflare an sekirite. ” Lè sa a, ou bezwen aprann kijan VPN travay. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare di sèvis vpn yo fè entènèt ou vit.Men, vpn fè koneksyon entènèt ou pi dousman pase koneksyon ki egziste deja ou. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Ou ta ka deja konnen sou eskandal lan prism.Se vre ke AT & T pèmèt NSA kopye tout done entènèt pou siveyans. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Ann di ke ou ap travay nan NSA a, epi ou vle tout pwofil entènèt sitwayen an.Ou konnen pi fò nan yo ap fèmen konfyans Cloudflare ak lè l sèvi avèk li - sèlman yon sèl pòtay santralize - nan prokurasyon koneksyon sèvè konpayi yo (SSH / RDP), sit entènèt pèsonèl, sit entènèt chat, sit entènèt fowòm, sit entènèt labank, sit entènèt asirans, motè rechèch, sekrè manm sèlman sit entènèt, sit entènèt vann piblik, fè makèt, sit entènèt videyo, sit entènèt NSFW, ak sit entènèt ilegal.Ou konnen tou yo itilize sèvis dns Cloudflare a ("1.1.1.1") ak sèvis vpn ("Cloudflare warp") pou “Tache! Pi vit! Pi bon! " eksperyans entènèt.Konbine yo ak adrès IP itilizatè, anprent navigatè, bonbon ak RAY-ID pral itil nan bati pwofil sou entènèt sib la. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Ann di ke ou ap travay nan NSA a, epi ou vle tout pwofil entènèt sitwayen an.Ou konnen pi fò nan yo ap fèmen konfyans Cloudflare ak lè l sèvi avèk li - sèlman yon sèl pòtay santralize - nan prokurasyon koneksyon sèvè konpayi yo (SSH / RDP), sit entènèt pèsonèl, sit entènèt chat, sit entènèt fowòm, sit entènèt labank, sit entènèt asirans, motè rechèch, sekrè manm sèlman sit entènèt, sit entènèt vann piblik, fè makèt, sit entènèt videyo, sit entènèt NSFW, ak sit entènèt ilegal.Ou konnen tou yo itilize sèvis dns Cloudflare a ("1.1.1.1") ak sèvis vpn ("Cloudflare warp") pou “Tache! Pi vit! Pi bon! " eksperyans entènèt.Konbine yo ak adrès IP itilizatè, anprent navigatè, bonbon ak RAY-ID pral itil nan bati pwofil sou entènèt sib la. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Ou vle done yo. Kisa ou pral fe? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare se yon honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Gratis siwo myèl pou tout moun. Gen kèk strings tache.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "Great Cloudwall la", blok
   * Tikè a te kraze anpil fwa.
   * [Efase pa Pwojè a Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Gade tikè 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tikè achiv dènye 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Nou pa janm mande medya sosyal ou.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
