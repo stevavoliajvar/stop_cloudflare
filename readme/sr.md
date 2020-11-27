@@ -51,7 +51,7 @@
 |  Цлоудфларе такође нуди БЕСПЛАТНУ ВПН услугу под називом "Цлоудфларе Варп".Ако га користите, све везе вашег паметног телефона (или рачунара) шаљу се на Цлоудфларе сервере.Цлоудфларе може знати коју сте веб локацију прочитали, који коментар сте објавили, са ким сте разговарали итд.Све своје податке добровољно дајете Цлоудфларе-у.Ако мислите „да ли се шалиш? Цлоудфларе је сигуран. " онда морате да научите како функционише ВПН. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Цлоудфларе је рекао да њихова ВПН услуга убрзава ваш интернет.Али ВПН чине да ваша интернетска веза буде спорија од ваше постојеће. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Можда већ знате за скандал са ПРИЗМОМ.Тачно је да АТ&Т дозвољава НСА-у да копира све податке на интернету ради надзора. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Рецимо да радите у НСА и желите да имате Интернет профил сваког грађанина.Знате да већина њих слепо верује Цлоудфларе-у и користе га - само један централизовани пролаз - да посредује везу свог послужитељског предузећа (ССХ / РДП), личну веб локацију, веб локацију за цхат, веб страницу форума, веб локацију банке, веб страницу осигурања, претраживача, тајног члана - веб локација, веб локација аукције, куповина, веб локација, веб локација НСФВ и илегална веб локација.Такође знате да користе Цлоудфларе-ову ДНС услугу ("1.1.1.1") и ВПН услугу ("Цлоудфларе Варп") за "Сигурно! Брже! Боље! “ интернет искуство.Комбиновање њих са корисничком ИП адресом, отиском прста претраживача, колачићима и РАИ-ИД-ом ће бити корисно за изградњу мрежног профила циља. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Рецимо да радите у НСА и желите да имате Интернет профил сваког грађанина.Знате да већина њих слепо верује Цлоудфларе-у и користе га - само један централизовани пролаз - да посредује везу свог послужитељског предузећа (ССХ / РДП), личну веб локацију, веб локацију за цхат, веб страницу форума, веб локацију банке, веб страницу осигурања, претраживача, тајног члана - веб локација, веб локација аукције, куповина, веб локација, веб локација НСФВ и илегална веб локација.Такође знате да користе Цлоудфларе-ову ДНС услугу ("1.1.1.1") и ВПН услугу ("Цлоудфларе Варп") за "Сигурно! Брже! Боље! “ интернет искуство.Комбиновање њих са корисничком ИП адресом, отиском прста претраживача, колачићима и РАИ-ИД-ом ће бити корисно за изградњу мрежног профила циља. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Ви желите њихове податке. Шта ћеш ти урадити? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Цлоудфларе је медница.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Бесплатан мед за све. Неке жице су у прилогу.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * Улазница је вандализована толико пута.
   * [Избрисао је Тор пројекат.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Погледајте карту 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Последња архивска карта 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
