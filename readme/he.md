@@ -53,7 +53,7 @@
 |  Cloudflare מציעים גם שירות VPN בחינם הנקרא "Cloudflare Warp".אם אתה משתמש בו, כל חיבורי הטלפון החכם (או המחשב שלך) נשלחים לשרתי Cloudflare.Cloudflare יכול לדעת איזה אתר קראת, איזו תגובה פרסמת, עם מי דיברת וכו '.אתה מרצון למסור את כל המידע שלך ל- Cloudflare.אם אתה חושב "אתה מתבדח? Cloudflare מאובטח. " אז אתה צריך ללמוד כיצד VPN עובד. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare אמר כי שירות ה- VPN שלהם הופך את האינטרנט שלך למהיר.אבל VPN הופך את חיבור האינטרנט לאיטי יותר מהקשר שלך הקיים. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  אולי כבר ידעת על שערוריית ה- PRISM.נכון AT&T מאפשר ל- NSA להעתיק את כל נתוני האינטרנט למעקב. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  נניח שאתה עובד ב- NSA, ואתה מעוניין בפרופיל האינטרנט של כל אזרח.אתה יודע שרובם סומכים באופן עיוור על Cloudflare ומשתמשים בו - רק שער מרכזי אחד - כדי לפרוק את חיבור שרת החברה שלהם (SSH / RDP), אתר אישי, אתר צ'אט, אתר פורום, אתר בנק, אתר ביטוח, מנוע חיפוש, חבר סודי אתר אינטרנט בלבד, מכירה פומבית, קניות, אתר וידאו, אתר NSFW ואתר לא חוקי.אתה גם יודע שהם משתמשים בשירות ה- DNS של Cloudflare ("1.1.1.1") ובשירות VPN ("עיוות Cloudflare") לצורך "מאובטח! מהר יותר! טוב יותר!" חווית אינטרנט.שילובם עם כתובת ה- IP של המשתמש, טביעת אצבע של הדפדפן, קובצי Cookie ומזהה RAY יעיל לבניית פרופיל המקוון של היעד. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  נניח שאתה עובד ב- NSA, ואתה מעוניין בפרופיל האינטרנט של כל אזרח.אתה יודע שרובם סומכים באופן עיוור על Cloudflare ומשתמשים בו - רק שער מרכזי אחד - כדי לפרוק את חיבור שרת החברה שלהם (SSH / RDP), אתר אישי, אתר צ'אט, אתר פורום, אתר בנק, אתר ביטוח, מנוע חיפוש, חבר סודי אתר אינטרנט בלבד, מכירה פומבית, קניות, אתר וידאו, אתר NSFW ואתר לא חוקי.אתה גם יודע שהם משתמשים בשירות ה- DNS של Cloudflare ("1.1.1.1") ובשירות VPN ("עיוות Cloudflare") לצורך "מאובטח! מהר יותר! טוב יותר!" חווית אינטרנט.שילובם עם כתובת ה- IP של המשתמש, טביעת אצבע של הדפדפן, קובצי Cookie ומזהה RAY יעיל לבניית פרופיל המקוון של היעד. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  אתה רוצה את הנתונים שלהם. מה תעשה? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare הוא דבש.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **דבש חינם לכולם. כמה מיתרים צמודים.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -99,11 +99,9 @@
   * הכרטיס הושחת כל כך הרבה פעמים.
   * [נמחק על ידי פרויקט טור.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ראו כרטיס 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [כרטיס ארכיב אחרון 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -180,6 +178,5 @@ Crimeflare יודע על קיומם של חשבונות מזויפים המתח�
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
 
 </div>
