@@ -51,7 +51,7 @@
 |  क्लाउडफ्लेयरले नि: शुल्क वीपीएन सेवा प्रदान गर्दछ "क्लाउडफ्लेयर वार्प"।यदि तपाईं यसलाई प्रयोग गर्नुहुन्छ भने, तपाईंको सबै स्मार्टफोन (वा तपाईंको कम्प्युटर) जडानहरू क्लाउडफ्लेयर सर्भरहरूमा पठाइन्छ।क्लाउडफ्लेयरले जान्न सक्छ कि कुन वेबसाइट तपाईंले पढ्नुभयो, कस्तो टिप्पणी तपाईंले पोष्ट गर्नुभयो, कससँग कुरा गर्नुभयो आदि।तपाई स्वेच्छाले तपाईको सबै जानकारी क्लाउडफ्लेयरलाई दिदै हुनुहुन्छ।यदि तपाईंलाई लाग्छ "के तपाईं ठट्टा गर्दै हुनुहुन्छ? क्लाउडफ्लेयर सुरक्षित छ। " त्यसोभए तपाईले VPN कसरी काम गर्छ भनेर जान्नु आवश्यक छ। | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  क्लाउडफ्लेयरले भने कि उनीहरुका VPN सेवाले तपाईको इन्टरनेट छिटो बनाउँदछ।तर VPN ले तपाइँको अवस्थित जडान भन्दा तपाइँको इन्टर्नेट जडान सुस्त बनाउँछ। | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  तपाइँ पहिले नै PRISM कांड को बारे मा थाहा हुन सक्छ।यो सत्य हो कि AT&T ले NSA लाई निगरानीका लागि सबै इन्टरनेट डेटा प्रतिलिपि गर्न अनुमति दिन्छ। | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  मानिलिनुहोस् तपाईं एनएसएमा काम गर्दै हुनुहुन्छ, र तपाईं प्रत्येक नागरिकको इन्टर्नेट प्रोफाइल चाहनुहुन्छ।तपाइँलाई थाहा छ तिनीहरू मध्ये धेरैले अन्धाधुन्ध रूपमा क्लाउडफ्लेयरलाई विश्वास गर्दै छन् र केवल एक केन्द्रीकृत गेटवे - आफ्नो कम्पनी सर्भर जडान (एसएसएच / आरडीपी), व्यक्तिगत वेबसाइट, च्याट वेबसाइट, फोरम वेबसाइट, बैंक वेबसाइट, बीमा वेबसाइट, सर्च इञ्जिन, गोप्य सदस्य केवल वेबसाइट, लिलामी वेबसाइट, शपिंग, भिडियो वेबसाइट, NSFW वेबसाइट, र अवैध वेबसाइट।तपाइँलाई थाहा छ उनीहरूले क्लाउडफ्लेयरको DNS सेवा ("१.१.१.१") र VPN सेवा ("क्लाउडफ्लेयर ताना") "सुरक्षितको लागि" प्रयोग गर्छन्। छिटो! अझ राम्रो! ” इन्टरनेट अनुभव।तिनीहरूलाई प्रयोगकर्ताको आईपी ठेगाना, ब्राउजर फिंगरप्रिन्ट, कुकिज र RAY-ID का साथ संयोजन लक्ष्यको अनलाइन प्रोफाइल बनाउन उपयोगी हुनेछ। | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  मानिलिनुहोस् तपाईं एनएसएमा काम गर्दै हुनुहुन्छ, र तपाईं प्रत्येक नागरिकको इन्टर्नेट प्रोफाइल चाहनुहुन्छ।तपाइँलाई थाहा छ तिनीहरू मध्ये धेरैले अन्धाधुन्ध रूपमा क्लाउडफ्लेयरलाई विश्वास गर्दै छन् र केवल एक केन्द्रीकृत गेटवे - आफ्नो कम्पनी सर्भर जडान (एसएसएच / आरडीपी), व्यक्तिगत वेबसाइट, च्याट वेबसाइट, फोरम वेबसाइट, बैंक वेबसाइट, बीमा वेबसाइट, सर्च इञ्जिन, गोप्य सदस्य केवल वेबसाइट, लिलामी वेबसाइट, शपिंग, भिडियो वेबसाइट, NSFW वेबसाइट, र अवैध वेबसाइट।तपाइँलाई थाहा छ उनीहरूले क्लाउडफ्लेयरको DNS सेवा ("१.१.१.१") र VPN सेवा ("क्लाउडफ्लेयर ताना") "सुरक्षितको लागि" प्रयोग गर्छन्। छिटो! अझ राम्रो! ” इन्टरनेट अनुभव।तिनीहरूलाई प्रयोगकर्ताको आईपी ठेगाना, ब्राउजर फिंगरप्रिन्ट, कुकिज र RAY-ID का साथ संयोजन लक्ष्यको अनलाइन प्रोफाइल बनाउन उपयोगी हुनेछ। | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  तपाईं तिनीहरूको डाटा चाहनुहुन्छ। अब तिमि के गर्छाै? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **क्लाउडफ्लेयर एक हनीपोट हो।** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **सबैको लागि निःशुल्क मह। केहि तारहरू जोडिएको छ।** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * टिकट धेरै पटक तोडफोड गरियो।
   * [टोर प्रोजेक्ट द्वारा हटाइएको।](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [टिकट 1 34१75। हेर्नुहोस्।](https://trac.torproject.org/projects/tor/ticket/34175)
   * [अन्तिम संग्रह टिकट २353535१।](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
