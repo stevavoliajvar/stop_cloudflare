@@ -51,7 +51,7 @@
 |  Cloudflare uga nawakake layanan VPN FREE sing diarani "Cloudflare Warp".Yen sampeyan nggunakake, kabeh smartphone (utawa komputer) sambungan dikirim menyang server Cloudflare.Cloudflare bisa ngerti situs web sing wis sampeyan baca, komentar apa sing wis dikirim, sing wis dikandhani, lsp.Sampeyan sengaja menehi kabeh informasi menyang Cloudflare.Yen sampeyan mikir "Apa sampeyan guyon? Cloudflare aman. " mula, sampeyan kudu sinau babagan cara VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare ujar layanan VPN nggawe internet sampeyan cepet.Nanging VPN nggawe sambungan internet luwih alon tinimbang sambungan sing wis ana. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Sampeyan bisa uga wis ngerti babagan skandal PRISM.Pancen AT&T ngidini NSA nyalin kabeh data internet kanggo ndjogo. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Ayo ujar sampeyan lagi kerja ing NSA, lan sampeyan pengin profil internet saben warga.Sampeyan ngerti sing paling akeh dipercaya karo Cloudflare kanthi wuta lan nggunakake - mung siji gateway terpusat - kanggo proxy sambungan server perusahaan (SSH / RDP), situs web pribadi, situs web obrolan, situs web forum, situs web bank, situs web asuransi, mesin telusuran, anggota rahasia Situs web sing apik, situs lelang, blanja, situs web video, situs web NSFW, lan situs web sing ilegal.Sampeyan uga ngerti manawa nggunakake layanan DNS Cloudflare ("1.1.1.1") lan layanan VPN ("Cloudflare Warp") kanggo "Aman! Luwih cepet! Luwih apik! " pengalaman internet.Nggabungake karo alamat IP pangguna, sidik driji browser, cookie lan RAY-ID bakal migunani kanggo nggawe profil online target. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Ayo ujar sampeyan lagi kerja ing NSA, lan sampeyan pengin profil internet saben warga.Sampeyan ngerti sing paling akeh dipercaya karo Cloudflare kanthi wuta lan nggunakake - mung siji gateway terpusat - kanggo proxy sambungan server perusahaan (SSH / RDP), situs web pribadi, situs web obrolan, situs web forum, situs web bank, situs web asuransi, mesin telusuran, anggota rahasia Situs web sing apik, situs lelang, blanja, situs web video, situs web NSFW, lan situs web sing ilegal.Sampeyan uga ngerti manawa nggunakake layanan DNS Cloudflare ("1.1.1.1") lan layanan VPN ("Cloudflare Warp") kanggo "Aman! Luwih cepet! Luwih apik! " pengalaman internet.Nggabungake karo alamat IP pangguna, sidik driji browser, cookie lan RAY-ID bakal migunani kanggo nggawe profil online target. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Sampeyan pengin data dheweke. Apa sing bakal ditindakake? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare minangka honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Madu gratis kanggo kabeh wong. Sawetara senar dipasang.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
   * Tiket kasebut dirusak kaping pirang-pirang.
   * [Dibusak dening Projek Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Waca tiket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tiket arsip pungkasan 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Kita ora nate takon media sosial sampeyan.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
