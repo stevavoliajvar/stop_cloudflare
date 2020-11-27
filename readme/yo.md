@@ -51,7 +51,7 @@
 |  Cloudflare tun nfunni ni iṣẹ VPN ọfẹ kan ti a pe ni "Cloudflare Warp".Ti o ba lo, gbogbo awọn asopọ foonu (tabi kọnputa rẹ) ni a firanṣẹ si awọn olupin Cloudflare.Cloudflare le mọ iru oju opo wẹẹbu ti o ti ka, ọrọ wo ti o firanṣẹ, tani o ti sọrọ si, ati bẹbẹ lọO ṣe atinuwa fifun gbogbo alaye rẹ si Cloudflare.Ti o ba ro “Ṣe o n ṣe ẹlẹfẹ? Cloudflare wa ni aabo. ” lẹhinna o nilo lati kọ ẹkọ bi VPN ṣe n ṣiṣẹ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare sọ pe iṣẹ VPN wọn jẹ ki intanẹẹti rẹ yara.Ṣugbọn VPN jẹ ki asopọ intanẹẹti rẹ lọra ju isopọ to wa lọwọ rẹ lọ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  O le ti mọ tẹlẹ nipa itanjẹ PRISM.Otitọ ni pe AT&T jẹ ki NSA ṣe ẹda gbogbo data intanẹẹti fun eto iwo-kakiri. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Jẹ ki a sọ pe o n ṣiṣẹ ni NSA, ati pe o fẹ profaili gbogbo ilu ti gbogbo ara ilu.O mọ pe pupọ ninu wọn ni igboya ni igbẹkẹle Cloudflare ati lilo rẹ - ẹnu-bode centralized kan nikan - lati ṣe aṣoju isopọmọ olupin ile-iṣẹ wọn (SSH / RDP), oju opo wẹẹbu ti ara ẹni, oju opo wẹẹbu iwiregbe, oju opo wẹẹbu aaye, banki aaye ayelujara, aaye ayelujara iṣeduro, ẹrọ wiwa, ọmọ ẹgbẹ aṣiri Oju opo wẹẹbu, oju opo wẹẹbu titaja, riraja, oju opo wẹẹbu fidio, oju opo wẹẹbu NSFW, ati oju opo wẹẹbu arufin.O tun mọ pe wọn lo iṣẹ DNS ti Cloudflare ("1.1.1.1") ati iṣẹ VPN ("Cloudflare Warp") fun “Aabo! Yara ju! Dara julọ! ” iriri ayelujara.Darapọ wọn pẹlu adiresi IP adiresi olumulo, itẹka aṣàwákiri, awọn kuki ati IDAY-ID yoo wulo lati kọ profaili ori ayelujara. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Jẹ ki a sọ pe o n ṣiṣẹ ni NSA, ati pe o fẹ profaili gbogbo ilu ti gbogbo ara ilu.O mọ pe pupọ ninu wọn ni igboya ni igbẹkẹle Cloudflare ati lilo rẹ - ẹnu-bode centralized kan nikan - lati ṣe aṣoju isopọmọ olupin ile-iṣẹ wọn (SSH / RDP), oju opo wẹẹbu ti ara ẹni, oju opo wẹẹbu iwiregbe, oju opo wẹẹbu aaye, banki aaye ayelujara, aaye ayelujara iṣeduro, ẹrọ wiwa, ọmọ ẹgbẹ aṣiri Oju opo wẹẹbu, oju opo wẹẹbu titaja, riraja, oju opo wẹẹbu fidio, oju opo wẹẹbu NSFW, ati oju opo wẹẹbu arufin.O tun mọ pe wọn lo iṣẹ DNS ti Cloudflare ("1.1.1.1") ati iṣẹ VPN ("Cloudflare Warp") fun “Aabo! Yara ju! Dara julọ! ” iriri ayelujara.Darapọ wọn pẹlu adiresi IP adiresi olumulo, itẹka aṣàwákiri, awọn kuki ati IDAY-ID yoo wulo lati kọ profaili ori ayelujara. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  O fẹ data wọn. Kini iwọ yoo ṣe? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare jẹ ibi ifun oyin.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Oyin didi fun gbogbo eniyan. Diẹ ninu awọn gbolohun ọrọ so.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Ibi ipamọ yii jẹ atokọ ti awọn oju opo wẹẹbu ti o wa lẹhin "The Cl
   * Tiketi ti bajẹ ni ọpọlọpọ awọn akoko.
   * [Ti paarẹ nipasẹ Tor Project.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Wo tiketi 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tiketi ti idile to kẹhin 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ A ko beere fun media rẹ.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
