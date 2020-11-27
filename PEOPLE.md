@@ -439,6 +439,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Lol - yesterday i tested this type of captcha for the first time. Didn't get a single one right (without guessing + on mobile). "Privacy first" is cool and all, but i wouldn't trust my contact forms / shopping carts with this provider atm. 😑 ([der_abro](https://twitter.com/der_abro/status/1331931870125301761))
 - So private that I can't even access my wallet :/ 403 error in the app (Lite and full) 502 on CloudFlare ([mc85904926](https://twitter.com/MC85904926/status/1331239758278889481))
 - Tbh with any new launch (Just like the Nvidia Launch, And Ryzen launch) the sites struggle. Maybe they need better hosting ;). But indeed the captcha is horrible, even on non launch days it's been a PITA for me. ([ryanteck](https://twitter.com/ryanteck/status/1329069258643390464))
 - Fuck cloudflare. You show me a captcha just to browse your site, and I take my business elsewhere. ([featherornot](https://twitter.com/FeatherOrNot/status/1328732726548107266))
