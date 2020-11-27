@@ -51,7 +51,7 @@
 |  Et offer FREE Cloudflare VPN ministerium vocatur "Cloudflare Warrior".Si uti, omnia Mauris quis felis (vel computatrum tuum) hospites sunt ad Cloudflare servers.Cloudflare scire potest quod Pagina quam legitur: Qua tu missae qui loquebatur ad te, etc.Omnibus dare notitia ut vos voluntariis Cloudflare.Quod si putatis 'Tu es ludens loqui? Cloudflare est secure. " tunc vos postulo scire quomodo, ut VPN operatur. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Ut in servitio tuo penitus VPN Cloudflare dicitur ieiunium.Sed VPN tui faciunt nexum penitus iunctio existentium tardius tua. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Iam ut vos scire, quo Prisma circa partialis.AT & T est vera lets NSA ut effingo omnium Penitus enim notitia annotata. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Lets 'narro vos erant' opus in NSA et vis omnis civis profile scriptor penitus.Tu nosti omnium ex illis sunt caeca confidens Cloudflare et per id - modo unum centralized porta - Proxy in comitatu servo nexu (ssh / RDP), personalis website, chat website, forum website, ripae website, assecurationis website, quaerere engine, secretum membrum, tantum website, auction website, shopping, video website, NSFW website, et illegal website.Tu quoque nosti de Vesci Cloudflare uti servitium ( "1.1.1.1 ') et VPN servitium (" Cloudflare Warrior') pro "Salva! Citius! Melius est! " Penitus experientia.Combining IP oratio eorum in user scriptor, pasco fingerprints, crustula et influentia, id utile esse target scriptor online profile facere. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Lets 'narro vos erant' opus in NSA et vis omnis civis profile scriptor penitus.Tu nosti omnium ex illis sunt caeca confidens Cloudflare et per id - modo unum centralized porta - Proxy in comitatu servo nexu (ssh / RDP), personalis website, chat website, forum website, ripae website, assecurationis website, quaerere engine, secretum membrum, tantum website, auction website, shopping, video website, NSFW website, et illegal website.Tu quoque nosti de Vesci Cloudflare uti servitium ( "1.1.1.1 ') et VPN servitium (" Cloudflare Warrior') pro "Salva! Citius! Melius est! " Penitus experientia.Combining IP oratio eorum in user scriptor, pasco fingerprints, crustula et influentia, id utile esse target scriptor online profile facere. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Tibi vis in data. Quid facies? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare Honeypot est.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Mel, quia omnes libera. Quidam cordis attachiatus.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
   * Cum tot laesis tessera.
   * [Kessinger Project deletum est.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Vide tessera (XXXIV)CLXXV.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Last archive tessera (XXIV)CCCLI.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Nos numquam quaeritur te socialis instrumentis.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
