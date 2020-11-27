@@ -51,7 +51,7 @@
 |  A Cloudflare INGYENES, „Cloudflare Warp” nevű VPN szolgáltatást is kínál.Ha használja, az összes okostelefon (vagy a számítógép) kapcsolata a Cloudflare szerverekre kerül.A Cloudflare tudja, hogy melyik weboldalt olvasott, milyen megjegyzést tett közzé, kikkel beszélt stb.Ön önként megadja az összes információt a Cloudflare-nak.Ha azt gondolod, hogy „viccelsz? A felhő tükröződése biztonságos. akkor meg kell tanulnia a VPN működését. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  A Cloudflare szerint a VPN-szolgáltatásuk gyorsítja az internetet.De a VPN lecsökkenti az internetkapcsolatot, mint a meglévő. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Lehet, hogy már tudott a PRISM-botrányról.Igaz, hogy az AT&T lehetővé teszi az NSA számára, hogy megfigyelés céljából másolja az összes internetes adatot. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Tegyük fel, hogy az NSA-nál dolgozik, és minden polgár internetes profilját szeretné.Tudja, hogy többségük vakon bízik a Cloudflare-ban, és csak egy központosított átjárót használ a vállalati szerver kapcsolat (SSH / RDP), személyes webhely, csevegő, fórum, bank, biztosítási webhely, keresőmotor, titkos tag proxyjára. - kizárólag weboldal, aukciós webhely, bevásárló, video webhely, NSFW webhely és illegális webhely.Ön is tudja, hogy a Cloudflare DNS szolgáltatását ("1.1.1.1") és a VPN szolgáltatást ("Cloudflare Warp") használják a “Biztonságos! Gyorsabb! Jobb!" internetes élmény.A felhasználó IP-címével, a böngésző ujjlenyomatával, a sütikkel és a RAY-ID-vel kombinálva hasznos lehet a cél online profiljának felépítéséhez. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Tegyük fel, hogy az NSA-nál dolgozik, és minden polgár internetes profilját szeretné.Tudja, hogy többségük vakon bízik a Cloudflare-ban, és csak egy központosított átjárót használ a vállalati szerver kapcsolat (SSH / RDP), személyes webhely, csevegő, fórum, bank, biztosítási webhely, keresőmotor, titkos tag proxyjára. - kizárólag weboldal, aukciós webhely, bevásárló, video webhely, NSFW webhely és illegális webhely.Ön is tudja, hogy a Cloudflare DNS szolgáltatását ("1.1.1.1") és a VPN szolgáltatást ("Cloudflare Warp") használják a “Biztonságos! Gyorsabb! Jobb!" internetes élmény.A felhasználó IP-címével, a böngésző ujjlenyomatával, a sütikkel és a RAY-ID-vel kombinálva hasznos lehet a cél online profiljának felépítéséhez. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Szeretnéd az adataikat. Mit fogsz csinálni? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **A Cloudflare egy mézeskanál.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Ingyenes méz mindenkinek. Néhány húr csatlakozik.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Ez a lerakat azon webhelyek listája, amelyek a "Nagy felhőfal" mögött állna
   * A jegyet oly sokszor vandalizálták.
   * [A Tor projekt törölte.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Lásd a 34175 jegyet.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Utolsó archív jegy 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Soha nem kérdezzük a közösségi médiától.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
