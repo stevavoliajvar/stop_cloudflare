@@ -53,7 +53,7 @@
 |  Cloudflare还提供称为“ Cloudflare Warp”的免费VPN服务。如果使用它，则所有智能手机（或计算机）连接都将发送到Cloudflare服务器。Cloudflare可以知道您阅读了哪个网站，发表了哪些评论，与谁进行了交谈等。您自愿将所有信息提供给Cloudflare。如果您认为“您在开玩笑吗？ Cloudflare是安全的。”那么您需要了解VPN的工作原理。 | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare表示，他们的VPN服务可让您快速上网。但是VPN使您的Internet连接速度比现有连接速度慢。 | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  您可能已经知道PRISM丑闻。AT＆T确实允许NSA复制所有互联网数据以进行监视。 | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  假设您在国家安全局（NSA）工作，并且想要每个公民的互联网个人资料。您知道他们中的大多数人都盲目地信任Cloudflare并使用它-仅一个集中式网关-代理其公司服务器连接（SSH / RDP），个人网站，聊天网站，论坛网站，银行网站，保险网站，搜索引擎，秘密成员仅限网站，拍卖网站，购物，视频网站，NSFW网站和非法网站。您还知道他们将Cloudflare的DNS服务（“ 1.1.1.1”）和VPN服务（“ Cloudflare Warp”）用于“安全！快点！更好！”互联网体验。将它们与用户的IP地址，浏览器指纹，Cookie和RAY-ID结合使用，将有助于建立目标的在线个人资料。 | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  假设您在国家安全局（NSA）工作，并且想要每个公民的互联网个人资料。您知道他们中的大多数人都盲目地信任Cloudflare并使用它-仅一个集中式网关-代理其公司服务器连接（SSH / RDP），个人网站，聊天网站，论坛网站，银行网站，保险网站，搜索引擎，秘密成员仅限网站，拍卖网站，购物，视频网站，NSFW网站和非法网站。您还知道他们将Cloudflare的DNS服务（“ 1.1.1.1”）和VPN服务（“ Cloudflare Warp”）用于“安全！快点！更好！”互联网体验。将它们与用户的IP地址，浏览器指纹，Cookie和RAY-ID结合使用，将有助于建立目标的在线个人资料。 | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  您需要他们的数据。你会怎么做？ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare是一个蜜罐。** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **免费给大家蜂蜜。一些附加的字符串。** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -99,11 +99,9 @@
   * 这张票被破坏了很多次。
   * [由Tor项目删除。](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [参见票号34175。](https://trac.torproject.org/projects/tor/ticket/34175)
   * [最后存档票证24351。](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -179,5 +177,3 @@ Crimeflare了解假冒帐户的存在，这些假冒帐户可以假冒我们的�
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
