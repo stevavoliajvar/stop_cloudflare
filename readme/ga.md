@@ -51,7 +51,7 @@
 |  Tairgeann Cloudflare seirbhís VPN SAOR IN AISCE ar a dtugtar “Cloudflare Warp”.Má úsáideann tú é, seoltar gach nasc d’fhón cliste (nó do ríomhaire) chuig freastalaithe Cloudflare.Is féidir le Cloudflare a bheith ar an eolas faoin suíomh Gréasáin atá léite agat, cén trácht a chuir tú sa phost, cé leis ar labhair tú, srl.Tá tú deonach ag tabhairt do chuid faisnéise go léir do Cloudflare.Má cheapann tú “An bhfuil tú ag magadh? Tá Cloudflare slán. " ansin ní mór duit foghlaim conas a oibríonn VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Dúirt Cloudflare go ndéanann a seirbhís VPN do idirlíon go tapa.Ach déanann VPN do nasc idirlín níos moille ná an nasc atá agat cheana. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  B’fhéidir go mbeadh eolas agat cheana faoi scannal PRISM.Is fíor go ligeann AT&T don NSA na sonraí idirlín go léir a chóipeáil le haghaidh faireachais. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Abair go bhfuil tú ag obair ag an NSA, agus teastaíonn próifíl idirlín gach saoránach uait.Tá a fhios agat go bhfuil muinín dall ag an gcuid is mó acu as Cloudflare agus go n-úsáideann siad é - geata láraithe amháin - chun seachfhreastalaí a nasc cuideachta (SSH / RDP), suíomh Gréasáin pearsanta, suíomh Gréasáin comhrá, suíomh Gréasáin fóraim, suíomh Gréasáin bainc, suíomh Gréasáin árachais, inneall cuardaigh, ball rúnda - suíomh Gréasáin amháin, suíomh Gréasáin ceant, siopadóireacht, suíomh Gréasáin físe, suíomh Gréasáin NSFW, agus suíomh Gréasáin mídhleathach.Tá a fhios agat freisin go n-úsáideann siad seirbhís DNS Cloudflare ("1.1.1.1") agus seirbhís VPN ("Cloudflare Warp") le haghaidh "Secure! Níos tapúla! Níos fearr! ” taithí idirlín.Beidh sé úsáideach iad a chomhcheangal le seoladh IP an úsáideora, méarlorg an bhrabhsálaí, na fianáin agus RAY-ID chun próifíl ar líne an sprioc a thógáil. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Abair go bhfuil tú ag obair ag an NSA, agus teastaíonn próifíl idirlín gach saoránach uait.Tá a fhios agat go bhfuil muinín dall ag an gcuid is mó acu as Cloudflare agus go n-úsáideann siad é - geata láraithe amháin - chun seachfhreastalaí a nasc cuideachta (SSH / RDP), suíomh Gréasáin pearsanta, suíomh Gréasáin comhrá, suíomh Gréasáin fóraim, suíomh Gréasáin bainc, suíomh Gréasáin árachais, inneall cuardaigh, ball rúnda - suíomh Gréasáin amháin, suíomh Gréasáin ceant, siopadóireacht, suíomh Gréasáin físe, suíomh Gréasáin NSFW, agus suíomh Gréasáin mídhleathach.Tá a fhios agat freisin go n-úsáideann siad seirbhís DNS Cloudflare ("1.1.1.1") agus seirbhís VPN ("Cloudflare Warp") le haghaidh "Secure! Níos tapúla! Níos fearr! ” taithí idirlín.Beidh sé úsáideach iad a chomhcheangal le seoladh IP an úsáideora, méarlorg an bhrabhsálaí, na fianáin agus RAY-ID chun próifíl ar líne an sprioc a thógáil. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Ba mhaith leat a gcuid sonraí. Cad a dhéanfaidh tú? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Is pota meala é Cloudflare.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Mil saor in aisce do gach duine. Roinnt teaghráin ceangailte.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de "The Gr
   * Rinneadh loitiméireacht ar an ticéad an oiread sin uaireanta.
   * [Scriosta ag Tionscadal Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Féach ticéad 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Ticéad cartlainne deireanach 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Ní iarraimid riamh ar do mheáin shóisialta.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
