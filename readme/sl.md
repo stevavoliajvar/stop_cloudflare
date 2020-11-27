@@ -51,7 +51,7 @@
 |  Cloudflare ponuja tudi BREZPLAČNO VPN storitev, imenovano "Cloudflare Warp".Če ga uporabljate, se vse povezave vašega pametnega telefona (ali računalnika) pošljejo strežnikom Cloudflare.Cloudflare lahko ve, katero spletno mesto ste prebrali, kakšen komentar ste objavili, s kom ste govorili itd.Vse svoje podatke prostovoljno pošljete Cloudflareu.Če mislite, "se šalite? Cloudflare je varen. " potem se morate naučiti, kako deluje VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare je dejal, da njihova storitev VPN omogoča hiter internet.Toda prek omrežja VPN je vaša internetna povezava počasnejša od obstoječe. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Morda že veste za škandal z PRISM.Res je, da AT&T dovoljuje agenciji NSA, da kopira vse internetne podatke za nadzor. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Recimo, da delate pri NSA in želite imeti internetni profil vsakega državljana.Veste, da večina njih slepo zaupa Cloudflare-ju in uporablja le - en sam centraliziran prehod - za posredovanje povezave s svojim podjetniškim strežnikom (SSH / RDP), osebnim spletnim mestom, spletnim mestom za klepete, spletnim mestom na forumu, bančnim spletnim mestom, zavarovalnim mestom, iskalnikom, tajnim članom samo spletna stran, spletna stran za dražbe, nakupovanje, video spletna stran, spletna stran NSFW in nezakonita spletna stran.Prav tako veste, da uporabljajo storitev DNS Cloudflare ("1.1.1.1)" in storitev VPN ("Cloudflare Warp") za "Varno! Hitreje! Bolje! " internetna izkušnja.Če jih sestavite z uporabnikovim IP-naslovom, prstnim odtisom brskalnika, piškotki in ID-jem RAY-ja, bo koristno za izdelavo spletnega profila cilja. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Recimo, da delate pri NSA in želite imeti internetni profil vsakega državljana.Veste, da večina njih slepo zaupa Cloudflare-ju in uporablja le - en sam centraliziran prehod - za posredovanje povezave s svojim podjetniškim strežnikom (SSH / RDP), osebnim spletnim mestom, spletnim mestom za klepete, spletnim mestom na forumu, bančnim spletnim mestom, zavarovalnim mestom, iskalnikom, tajnim članom samo spletna stran, spletna stran za dražbe, nakupovanje, video spletna stran, spletna stran NSFW in nezakonita spletna stran.Prav tako veste, da uporabljajo storitev DNS Cloudflare ("1.1.1.1)" in storitev VPN ("Cloudflare Warp") za "Varno! Hitreje! Bolje! " internetna izkušnja.Če jih sestavite z uporabnikovim IP-naslovom, prstnim odtisom brskalnika, piškotki in ID-jem RAY-ja, bo koristno za izdelavo spletnega profila cilja. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Želiš njihove podatke. Kaj boš naredil? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare je satje.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Brezplačen med za vse. Nekaj ​​strun je pripetih.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ To skladišče je seznam spletnih mest, ki stojijo za "Great Cloudwall" in bloki
   * Vstopnica je bila tolikokrat vandalizirana.
   * [Izbrisal projekt Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Glej vozovnico 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Zadnja arhivska vozovnica 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Nikoli ne vprašamo vaših socialnih medijev.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
