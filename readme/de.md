@@ -51,7 +51,7 @@
 |  Cloudflare bietet auch einen KOSTENLOSEN VPN-Dienst namens "Cloudflare Warp" an.Wenn Sie es verwenden, werden alle Verbindungen Ihres Smartphones (oder Ihres Computers) an Cloudflare-Server gesendet.Cloudflare kann wissen, welche Website Sie gelesen haben, welchen Kommentar Sie gepostet haben, mit wem Sie gesprochen haben usw.Sie geben freiwillig alle Ihre Informationen an Cloudflare weiter.Wenn Sie denken: „Machst du Witze? Cloudflare ist sicher. “ Dann müssen Sie lernen, wie VPN funktioniert. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare sagte, dass ihr VPN-Dienst Ihr Internet schnell macht.Durch VPN wird Ihre Internetverbindung jedoch langsamer als Ihre bestehende Verbindung. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Vielleicht kennen Sie den PRISM-Skandal bereits.Es ist richtig, dass AT & T es der NSA ermöglicht, alle Internetdaten zur Überwachung zu kopieren. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Nehmen wir an, Sie arbeiten bei der NSA und möchten das Internetprofil jedes Bürgers.Sie wissen, dass die meisten von ihnen Cloudflare blind vertrauen und es - nur ein zentrales Gateway - verwenden, um ihre Unternehmensserververbindung (SSH / RDP), persönliche Website, Chat-Website, Forum-Website, Bank-Website, Versicherungs-Website, Suchmaschine, geheimes Mitglied zu vertreten -nur Website, Auktionswebsite, Shopping, Video-Website, NSFW-Website und illegale Website.Sie wissen auch, dass sie den DNS-Dienst von Cloudflare ("1.1.1.1") und den VPN-Dienst ("Cloudflare Warp") für "Sicher! Schneller! Besser!" Interneterfahrung.Die Kombination mit der IP-Adresse des Benutzers, dem Browser-Fingerabdruck, Cookies und der RAY-ID ist hilfreich, um das Online-Profil des Ziels zu erstellen. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Nehmen wir an, Sie arbeiten bei der NSA und möchten das Internetprofil jedes Bürgers.Sie wissen, dass die meisten von ihnen Cloudflare blind vertrauen und es - nur ein zentrales Gateway - verwenden, um ihre Unternehmensserververbindung (SSH / RDP), persönliche Website, Chat-Website, Forum-Website, Bank-Website, Versicherungs-Website, Suchmaschine, geheimes Mitglied zu vertreten -nur Website, Auktionswebsite, Shopping, Video-Website, NSFW-Website und illegale Website.Sie wissen auch, dass sie den DNS-Dienst von Cloudflare ("1.1.1.1") und den VPN-Dienst ("Cloudflare Warp") für "Sicher! Schneller! Besser!" Interneterfahrung.Die Kombination mit der IP-Adresse des Benutzers, dem Browser-Fingerabdruck, Cookies und der RAY-ID ist hilfreich, um das Online-Profil des Ziels zu erstellen. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Sie wollen ihre Daten. Was wirst du machen? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare ist ein Honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Kostenloser Honig für alle. Einige Zeichenfolgen angebracht.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
   * Das Ticket wurde so oft zerstört.
   * [Vom Tor-Projekt gelöscht.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Siehe Ticket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Letztes Archivticket 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Wir fragen niemals Ihre sozialen Medien.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
