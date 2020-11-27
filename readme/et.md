@@ -51,7 +51,7 @@
 |  Cloudflare pakub ka TASUTA VPN-teenust nimega “Cloudflare Warp”.Kui kasutate seda, saadetakse kõik nutitelefoni (või arvuti) ühendused Cloudflare'i serveritesse.Cloudflare saab teada, millist veebisaiti olete lugenud, millise kommentaari olete postitanud, kellega olete rääkinud jne.Edastate vabatahtlikult kogu teabe Cloudflare'ile.Kui arvate: “Nalja teete? Pilvetulekahju on turvaline. ” siis peate õppima, kuidas VPN töötab. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare ütles, et nende VPN-teenus muudab teie Interneti kiireks.Kuid VPN muudab teie Interneti-ühenduse aeglasemaks kui teie olemasolev ühendus. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Võite juba teada PRISMi skandaalist.On tõsi, et AT&T laseb NSA-l jäljendamiseks kogu Interneti-andmed kopeerida. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Oletame, et töötate NSA-s ja soovite iga kodaniku Interneti-profiili.Teate, et enamik neist usaldab pimesi Cloudflare'i ja kasutab seda - ainult ühte tsentraliseeritud lüüsi - oma ettevõtte serveri ühenduse (SSH / RDP), isikliku veebisaidi, vestluste veebisaidi, foorumi veebisaidi, panga veebisaidi, kindlustuse veebisaidi, otsimootori, salajase liikme proxy jaoks Ainult veebisait, oksjonisait, ostlemine, videoveebisait, NSFW veebisait ja ebaseaduslik veebisait.Samuti teate, et nad kasutavad Cloudflare'i DNS-teenust ("1.1.1.1") ja VPN-teenust ("Cloudflare Warp") funktsiooni „Turvaline! Kiiremini! Parem! ” Interneti-kogemus.Nende ühendamine kasutaja IP-aadressi, brauseri sõrmejälgede, küpsiste ja RAY-ID-ga on kasulik eesmärgi veebiprofiili loomiseks. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Oletame, et töötate NSA-s ja soovite iga kodaniku Interneti-profiili.Teate, et enamik neist usaldab pimesi Cloudflare'i ja kasutab seda - ainult ühte tsentraliseeritud lüüsi - oma ettevõtte serveri ühenduse (SSH / RDP), isikliku veebisaidi, vestluste veebisaidi, foorumi veebisaidi, panga veebisaidi, kindlustuse veebisaidi, otsimootori, salajase liikme proxy jaoks Ainult veebisait, oksjonisait, ostlemine, videoveebisait, NSFW veebisait ja ebaseaduslik veebisait.Samuti teate, et nad kasutavad Cloudflare'i DNS-teenust ("1.1.1.1") ja VPN-teenust ("Cloudflare Warp") funktsiooni „Turvaline! Kiiremini! Parem! ” Interneti-kogemus.Nende ühendamine kasutaja IP-aadressi, brauseri sõrmejälgede, küpsiste ja RAY-ID-ga on kasulik eesmärgi veebiprofiili loomiseks. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Sa tahad nende andmeid. Mida sa teed? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Pilvvalgus on kärgpott.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Kõigile tasuta mesi. Mõned stringid lisatud.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ See hoidla on loetelu veebisaitidest, mis asuvad "Suure pilvaseina" taga, blokee
   * Pilet vandaalitseti nii mitu korda.
   * [Kustutatud Tor-projekti poolt.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Vaata piletit 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Viimane arhiivipilet 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Me ei küsi kunagi teie sotsiaalmeedialt.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
