@@ -51,7 +51,7 @@
 |  Cloudflare-k, gainera, "Cloudflare Warp" izeneko DOAKO VPN zerbitzua eskaintzen du.Erabiliz gero, zure telefonoaren (edo ordenagailuaren) konexio guztiak Cloudflare zerbitzarietara bidaltzen dira.Cloudflare-k jakin dezake zein webgune irakurri duzun, zer iruzkin argitaratu dituzun, norekin hitz egin duzun, etab.Zure informazio guztia Cloudflare-ri ematen ari zara."Txantxetan ari zara?" Cloudflare segurua da. " orduan VPN funtzionatzen ikasi behar duzu. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflarek esan du bere VPN zerbitzuak zure internet azkar egiten duela.Baina VPN-k zure konexioa lehendik duzun konexioa baino motelagoa bihurtu du. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Baliteke dagoeneko ezagutu PRISM eskandalua.Egia da AT&T-k NSA-k Interneteko datu guztiak kopiatzeko aukera ematen duela zaintzarako. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Esan dezagun NSAn lan egiten duzula eta herritarren Interneteko profil bakoitza nahi duzula.Badakizu gehienok Cloudflare-n konfiantzaz erabiltzen dutela eta bakarrik erabiltzen dutela - atebide zentralizatu bakarra - beren enpresako zerbitzariaren konexioa proxy (SSH / RDP), webgune pertsonala, txat-webgunea, foroaren webgunea, bankuko webgunea, aseguruen webgunea, bilatzailea, kide sekretua -Egun webgunea, enkanteen webgunea, erosketak, bideoak, NSFW webgunea eta legez kanpoko webgunea.Badakizu Cloudflare-ren DNS zerbitzua ("1.1.1.1") eta VPN zerbitzua ("Cloudflare Warp") erabiltzen dituztela "Seguru!" Azkarrago! Hobe! " Interneteko esperientzia.Erabiltzailearen IP helbidea, arakatzailearen aztarna digitala, cookieak eta RAY-ID konbinatzea erabilgarria izango da helburuaren lineako profila sortzeko. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Esan dezagun NSAn lan egiten duzula eta herritarren Interneteko profil bakoitza nahi duzula.Badakizu gehienok Cloudflare-n konfiantzaz erabiltzen dutela eta bakarrik erabiltzen dutela - atebide zentralizatu bakarra - beren enpresako zerbitzariaren konexioa proxy (SSH / RDP), webgune pertsonala, txat-webgunea, foroaren webgunea, bankuko webgunea, aseguruen webgunea, bilatzailea, kide sekretua -Egun webgunea, enkanteen webgunea, erosketak, bideoak, NSFW webgunea eta legez kanpoko webgunea.Badakizu Cloudflare-ren DNS zerbitzua ("1.1.1.1") eta VPN zerbitzua ("Cloudflare Warp") erabiltzen dituztela "Seguru!" Azkarrago! Hobe! " Interneteko esperientzia.Erabiltzailearen IP helbidea, arakatzailearen aztarna digitala, cookieak eta RAY-ID konbinatzea erabilgarria izango da helburuaren lineako profila sortzeko. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Haien datuak nahi dituzu. Zer egingo duzu? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare eztia da.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Doako eztia guztiontzat. Kate batzuk erantsita.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
   * Sarrerak hainbat aldiz bandalizatu ziren.
   * [Tor Proiektuak ezabatu du.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Ikusi 34175 txartela.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Azken artxiboko txartela 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Inoiz ez diogu zure sare sozialetan galdetu.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
