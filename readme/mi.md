@@ -51,7 +51,7 @@
 |  Ka tukuna hoki e Cloudflare te ratonga VPN FREE ka kiia ko "Cloudflare Warp".Mena ka whakamahi koe, ka tukuna to hononga atamai katoa (me to rorohiko) ranei ki nga kaitoro a Cloudflare.Ma te Cloudflare e mohio ki nga paetukutuku kua panuitia e koe, he aha te korero i tukuna e koe, i korero koe, me era atuHe takoha koe ki te tuku i o korero katoa ki Cloudflare.Ki te whakaaro koe "Kei te tawai koe?" Kei te haumaru a Cloudflare. " katahi ka hiahia koe ki te ako me pehea te mahi a VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  I kii a Cloudflare i a raatau ratonga VPN he tere to ipurangi.Engari ka ngawari te hononga o to ipurangi ki to hononga hononga. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Kei te mohio pea koe mo te kohinga PRISM.He tika kei te AT&T te tuku ki te NSA ki te kape i nga raraunga ipurangi katoa hei tirotiro. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Me ki atu kei te mahi koe i te NSA, a kei te hiahia koe ki nga korero ipurangi a nga tangata.E mohio ana koe ko te nuinga o ratou e whakawhirinaki ana ki a Cloudflare me te whakamahi - kotahi noa te tomokanga - ki te whakauru i a raatau hononga tūmau kamupene (SSH / RDP), paetukutuku whaiaro, paetukutuku korerorero, paetukutuku paetukutuku, paetukutuku peeke, paetukutuku inihua, search engine, mema huna -Te paetukutuku, paetukutuku hokohoko, hokohoko, paetukutuku ataata, paetukutuku NSFW, me te paetukutuku aitua.Kei te mohio ano koe kei te whakamahi i te ratonga DNS a Cloudflare ("1.1.1.1") me te ratonga VPN ("Cloudflare Warp") mo te "Haumaru! Ka tere! He pai! " wheako ipurangi.Ko te whakakotahi i a raatau me te Wāhitau IP a te kaiwhakamahi, te tohu tohi tirotiro, pihikete me te RAY-ID ka whai hua ki te hanga i te kōtaha tuunga a te hunga whaainga | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Me ki atu kei te mahi koe i te NSA, a kei te hiahia koe ki nga korero ipurangi a nga tangata.E mohio ana koe ko te nuinga o ratou e whakawhirinaki ana ki a Cloudflare me te whakamahi - kotahi noa te tomokanga - ki te whakauru i a raatau hononga tūmau kamupene (SSH / RDP), paetukutuku whaiaro, paetukutuku korerorero, paetukutuku paetukutuku, paetukutuku peeke, paetukutuku inihua, search engine, mema huna -Te paetukutuku, paetukutuku hokohoko, hokohoko, paetukutuku ataata, paetukutuku NSFW, me te paetukutuku aitua.Kei te mohio ano koe kei te whakamahi i te ratonga DNS a Cloudflare ("1.1.1.1") me te ratonga VPN ("Cloudflare Warp") mo te "Haumaru! Ka tere! He pai! " wheako ipurangi.Ko te whakakotahi i a raatau me te Wāhitau IP a te kaiwhakamahi, te tohu tohi tirotiro, pihikete me te RAY-ID ka whai hua ki te hanga i te kōtaha tuunga a te hunga whaainga | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Kei te hiahia koe ki a raatau raraunga. Ka aha koe? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Ko te Cloudflare he honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Honi koretake mo te katoa. Ko etahi aho e piri ana.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Ko tenei kohinga tetahi raarangi o nga paetukutuku kei muri i te "The Cloudwall 
   * I whiua te tikiti maha nga waa.
   * [Kua Mohia e te Kaupapa Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Tirohia te tikiti 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [He tikiti mo te reti 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Kaore ano matou e tono ki o pāpori pāpori.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
