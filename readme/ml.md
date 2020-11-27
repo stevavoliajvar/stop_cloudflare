@@ -51,7 +51,7 @@
 |  ക്ലൗഡ്ഫ്ലെയർ “ക്ലൗഡ്ഫ്ലെയർ വാർപ്പ്” എന്ന് വിളിക്കുന്ന സ V ജന്യ വിപിഎൻ സേവനവും വാഗ്ദാനം ചെയ്യുന്നു.നിങ്ങൾ ഇത് ഉപയോഗിക്കുകയാണെങ്കിൽ, നിങ്ങളുടെ എല്ലാ സ്മാർട്ട്‌ഫോൺ (അല്ലെങ്കിൽ നിങ്ങളുടെ കമ്പ്യൂട്ടർ) കണക്ഷനുകളും ക്ലൗഡ്ഫ്ലെയർ സെർവറുകളിലേക്ക് അയയ്‌ക്കും.ഏത് വെബ്‌സൈറ്റാണ് നിങ്ങൾ വായിച്ചതെന്നും എന്ത് അഭിപ്രായമാണ് പോസ്റ്റുചെയ്‌തതെന്നും ആരുമായി സംസാരിച്ചുവെന്നും ക്ലൗഡ്ഫ്ലേറിന് അറിയാൻ കഴിയും.നിങ്ങളുടെ എല്ലാ വിവരങ്ങളും ക്ലൗഡ്ഫ്ലേറിന് സ്വമേധയാ നൽകുന്നു.“നിങ്ങൾ തമാശ പറയുകയാണോ? ക്ലൗഡ്ഫ്ലെയർ സുരക്ഷിതമാണ്. ” VPN എങ്ങനെ പ്രവർത്തിക്കുന്നുവെന്ന് നിങ്ങൾ പഠിക്കേണ്ടതുണ്ട്. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  അവരുടെ VPN സേവനം നിങ്ങളുടെ ഇന്റർനെറ്റിനെ വേഗത്തിലാക്കുന്നുവെന്ന് ക്ലൗഡ്ഫ്ലെയർ പറഞ്ഞു.എന്നാൽ വിപിഎൻ നിങ്ങളുടെ ഇന്റർനെറ്റ് കണക്ഷനെ നിലവിലുള്ള കണക്ഷനേക്കാൾ മന്ദഗതിയിലാക്കുന്നു. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  പ്രിസ്എം അഴിമതിയെക്കുറിച്ച് നിങ്ങൾക്ക് ഇതിനകം തന്നെ അറിയാം.എല്ലാ ഇന്റർനെറ്റ് ഡാറ്റയും നിരീക്ഷണത്തിനായി പകർത്താൻ എടി ആൻഡ് ടി എൻ‌എസ്‌എയെ അനുവദിക്കുന്നുവെന്നത് ശരിയാണ്. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  നിങ്ങൾ എൻ‌എസ്‌എയിൽ ജോലി ചെയ്യുന്നുവെന്ന് പറയട്ടെ, നിങ്ങൾക്ക് ഓരോ പൗരന്റെയും ഇന്റർനെറ്റ് പ്രൊഫൈൽ ആവശ്യമാണ്.അവരുടെ കമ്പനി സെർവർ കണക്ഷൻ (എസ്എസ്എച്ച് / ആർ‌ഡി‌പി), പേഴ്‌സണൽ വെബ്‌സൈറ്റ്, ചാറ്റ് വെബ്‌സൈറ്റ്, ഫോറം വെബ്‌സൈറ്റ്, ബാങ്ക് വെബ്‌സൈറ്റ്, ഇൻഷുറൻസ് വെബ്‌സൈറ്റ്, സെർച്ച് എഞ്ചിൻ, രഹസ്യ അംഗം -ഒരു വെബ്‌സൈറ്റ്, ലേല വെബ്‌സൈറ്റ്, ഷോപ്പിംഗ്, വീഡിയോ വെബ്‌സൈറ്റ്, എൻ‌എസ്‌എഫ്‌ഡബ്ല്യു വെബ്‌സൈറ്റ്, നിയമവിരുദ്ധ വെബ്‌സൈറ്റ്.“സുരക്ഷിതം! വേഗത്തിൽ! നല്ലത്! ” ഇന്റർനെറ്റ് അനുഭവം.ടാർഗെറ്റിന്റെ ഓൺലൈൻ പ്രൊഫൈൽ നിർമ്മിക്കുന്നതിന് ഉപയോക്താവിന്റെ ഐപി വിലാസം, ബ്ര browser സർ ഫിംഗർപ്രിന്റ്, കുക്കികൾ, റേ-ഐഡി എന്നിവയുമായി അവ സംയോജിപ്പിക്കുന്നത് ഉപയോഗപ്രദമാകും. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  നിങ്ങൾ എൻ‌എസ്‌എയിൽ ജോലി ചെയ്യുന്നുവെന്ന് പറയട്ടെ, നിങ്ങൾക്ക് ഓരോ പൗരന്റെയും ഇന്റർനെറ്റ് പ്രൊഫൈൽ ആവശ്യമാണ്.അവരുടെ കമ്പനി സെർവർ കണക്ഷൻ (എസ്എസ്എച്ച് / ആർ‌ഡി‌പി), പേഴ്‌സണൽ വെബ്‌സൈറ്റ്, ചാറ്റ് വെബ്‌സൈറ്റ്, ഫോറം വെബ്‌സൈറ്റ്, ബാങ്ക് വെബ്‌സൈറ്റ്, ഇൻഷുറൻസ് വെബ്‌സൈറ്റ്, സെർച്ച് എഞ്ചിൻ, രഹസ്യ അംഗം -ഒരു വെബ്‌സൈറ്റ്, ലേല വെബ്‌സൈറ്റ്, ഷോപ്പിംഗ്, വീഡിയോ വെബ്‌സൈറ്റ്, എൻ‌എസ്‌എഫ്‌ഡബ്ല്യു വെബ്‌സൈറ്റ്, നിയമവിരുദ്ധ വെബ്‌സൈറ്റ്.“സുരക്ഷിതം! വേഗത്തിൽ! നല്ലത്! ” ഇന്റർനെറ്റ് അനുഭവം.ടാർഗെറ്റിന്റെ ഓൺലൈൻ പ്രൊഫൈൽ നിർമ്മിക്കുന്നതിന് ഉപയോക്താവിന്റെ ഐപി വിലാസം, ബ്ര browser സർ ഫിംഗർപ്രിന്റ്, കുക്കികൾ, റേ-ഐഡി എന്നിവയുമായി അവ സംയോജിപ്പിക്കുന്നത് ഉപയോഗപ്രദമാകും. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  നിങ്ങൾക്ക് അവരുടെ ഡാറ്റ ആവശ്യമാണ്. നിങ്ങൾ എന്തുചെയ്യും? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **ക്ലൗഡ്ഫ്ലെയർ ഒരു ഹണിപോട്ടാണ്.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **എല്ലാവർക്കും സൗജന്യ തേൻ. ചില സ്ട്രിംഗുകൾ അറ്റാച്ചുചെയ്‌തു.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * ടിക്കറ്റ് നിരവധി തവണ നശിപ്പിച്ചു.
   * [ടോർ പ്രോജക്റ്റ് ഇല്ലാതാക്കി.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ടിക്കറ്റ് 34175 കാണുക.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [അവസാന ആർക്കൈവ് ടിക്കറ്റ് 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
