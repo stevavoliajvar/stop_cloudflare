@@ -33,3 +33,8 @@ id	varchar(40) UNIQUE
 fqdn	varchar(200) INDEX
 ym	int(6) INDEX
 ```
+
+
+### Live demo
+
+If you want to see this in action: [Onion](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
