@@ -51,7 +51,7 @@
 |  Cloudflare ასევე გთავაზობთ უფასო VPN მომსახურებას, სახელწოდებით "Cloudflare Warp".თუ მას იყენებთ, თქვენი სმარტფონის (ან თქვენი კომპიუტერის) კავშირი იგზავნება Cloudflare სერვერებზე.Cloudflare- ს შეუძლია იცოდეს რომელ ვებსაიტზე გაქვთ წაკითხული, რა კომენტარი გამოაქვეყნეთ, ვისთან გაქვთ საუბარი და ა.შ.ნებაყოფლობით აძლევთ ყველა თქვენს ინფორმაციას Cloudflare- ს.თუ ფიქრობთ „ხუმრობთ? Cloudflare უსაფრთხოა. ” შემდეგ უნდა გაიგოთ როგორ მუშაობს VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare– მა თქვა, რომ მათი VPN სერვისი თქვენს ინტერნეტს სწრაფად ავითარებს.მაგრამ VPN გახდის თქვენს ინტერნეტ კავშირს უფრო ნელა, ვიდრე არსებულ კავშირზე. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  თქვენ შეიძლება უკვე იცოდეთ PRISM სკანდალის შესახებ.მართალია, AT&T საშუალებას აძლევს NSA- ს კოპირება განახორციელოს ინტერნეტში ყველა მონაცემის მეთვალყურეობისთვის. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  ვთქვათ, რომ თქვენ მუშაობთ NSA- ში და გინდათ ყველა მოქალაქის ინტერნეტი.თქვენ იცით, რომ მათი უმრავლესობა ბრმად ენდობა Cloudflare- ს და იყენებს მას - მხოლოდ ერთი ცენტრალიზებული კარიბჭე - მათი კომპანიის სერვერის კავშირის (SSH / RDP) მარიონეტულობის, პირად ვებსაიტზე, ჩატის ვებსაიტზე, ფორუმის ვებსაიტზე, ბანკის ვებსაიტზე, სადაზღვევო ვებსაიტზე, საძიებო სისტემაზე, საიდუმლო წევრზე. ერთ ვებსაიტზე, აუქციონის ვებსაიტზე, საყიდლებზე, ვიდეო ვებსაიტზე, NSFW ვებსაიტზე და არალეგალურ ვებსაიტზე.თქვენ ასევე იცით, რომ ისინი იყენებენ Cloudflare- ს DNS მომსახურებას ("1.1.1.1") და VPN მომსახურებას ("Cloudflare Warp") "უსაფრთხო! უფრო სწრაფად! Უკეთესი!" ინტერნეტის გამოცდილება.მათი კომბინაცია მომხმარებლის IP მისამართთან, ბრაუზერის თითის ანაბეჭდთან, ქუქი – ფაილებთან და RAY-ID– ით სასარგებლო იქნება სამიზნე ონლაინ პროფილის შესაქმნელად. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  ვთქვათ, რომ თქვენ მუშაობთ NSA- ში და გინდათ ყველა მოქალაქის ინტერნეტი.თქვენ იცით, რომ მათი უმრავლესობა ბრმად ენდობა Cloudflare- ს და იყენებს მას - მხოლოდ ერთი ცენტრალიზებული კარიბჭე - მათი კომპანიის სერვერის კავშირის (SSH / RDP) მარიონეტულობის, პირად ვებსაიტზე, ჩატის ვებსაიტზე, ფორუმის ვებსაიტზე, ბანკის ვებსაიტზე, სადაზღვევო ვებსაიტზე, საძიებო სისტემაზე, საიდუმლო წევრზე. ერთ ვებსაიტზე, აუქციონის ვებსაიტზე, საყიდლებზე, ვიდეო ვებსაიტზე, NSFW ვებსაიტზე და არალეგალურ ვებსაიტზე.თქვენ ასევე იცით, რომ ისინი იყენებენ Cloudflare- ს DNS მომსახურებას ("1.1.1.1") და VPN მომსახურებას ("Cloudflare Warp") "უსაფრთხო! უფრო სწრაფად! Უკეთესი!" ინტერნეტის გამოცდილება.მათი კომბინაცია მომხმარებლის IP მისამართთან, ბრაუზერის თითის ანაბეჭდთან, ქუქი – ფაილებთან და RAY-ID– ით სასარგებლო იქნება სამიზნე ონლაინ პროფილის შესაქმნელად. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  გსურთ მათი მონაცემები. Რას იზავ? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare არის honpot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **ყველასთვის უფასო თაფლი. რამდენიმე სტრიქონი ერთვის.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * ბილეთი ბევრჯერ იქნა ვანდალიზებული.
   * [ამოღებულია Tor Project– ით.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [იხილეთ ბილეთი 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [ბოლო საარქივო ბილეთი 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Crimeflare იცოდეთ ყალბი ანგარიშების 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
