@@ -51,7 +51,7 @@
 |  Cloudflare itanga kandi serivisi ya VPN KUBUNTU yitwa "Cloudflare Warp".Niba uyikoresha, ama terefone yawe yose (cyangwa mudasobwa yawe) yoherejwe kuri seriveri ya Cloudflare.Cloudflare irashobora kumenya urubuga wasomye, igitekerezo washyizeho, uwo waganiriye, nibindi.Urimo gutanga kubushake amakuru yawe yose kuri Cloudflare.Niba utekereza “Urasetsa? Igicu gifite umutekano. ” noneho ugomba kwiga uko VPN ikora. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare yavuze ko serivisi zabo za VPN zituma interineti yawe yihuta.Ariko VPN ituma umurongo wa enterineti utinda kurenza aho uhurira. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Urashobora kuba usanzwe uzi ibya PRISM scandal.Nukuri ko AT&T ireka NSA ikoporora amakuru yose ya enterineti kugirango ikurikiranwe. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Reka tuvuge ko ukorera muri NSA, kandi ushaka umwirondoro wa interineti wa buri muturage.Urabizi ko benshi muribo bizeye buhumyi Cloudflare kandi barayikoresha - irembo rimwe gusa ryibanze - kugirango bahagararire seriveri yabo ya seriveri (SSH / RDP), urubuga rwumuntu, urubuga rwibiganiro, urubuga rwihuriro, urubuga rwa banki, urubuga rwubwishingizi, moteri ishakisha, umunyamuryango wibanga -urubuga gusa, urubuga rwa cyamunara, guhaha, urubuga rwa videwo, urubuga rwa NSFW, nurubuga rutemewe.Uzi kandi ko bakoresha serivise ya DNS ya Cloudflare ("1.1.1.1") na serivisi ya VPN ("Cloudflare Warp") kuri "Umutekano! Byihuta! Ibyiza! ” uburambe bwa interineti.Kubahuza hamwe na aderesi ya IP yumukoresha, igikumwe cya mushakisha, kuki na RAY-ID bizagira akamaro mukubaka intego kumurongo. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Reka tuvuge ko ukorera muri NSA, kandi ushaka umwirondoro wa interineti wa buri muturage.Urabizi ko benshi muribo bizeye buhumyi Cloudflare kandi barayikoresha - irembo rimwe gusa ryibanze - kugirango bahagararire seriveri yabo ya seriveri (SSH / RDP), urubuga rwumuntu, urubuga rwibiganiro, urubuga rwihuriro, urubuga rwa banki, urubuga rwubwishingizi, moteri ishakisha, umunyamuryango wibanga -urubuga gusa, urubuga rwa cyamunara, guhaha, urubuga rwa videwo, urubuga rwa NSFW, nurubuga rutemewe.Uzi kandi ko bakoresha serivise ya DNS ya Cloudflare ("1.1.1.1") na serivisi ya VPN ("Cloudflare Warp") kuri "Umutekano! Byihuta! Ibyiza! ” uburambe bwa interineti.Kubahuza hamwe na aderesi ya IP yumukoresha, igikumwe cya mushakisha, kuki na RAY-ID bizagira akamaro mukubaka intego kumurongo. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Urashaka amakuru yabo. Uzakora iki? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare ni ubuki.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Ubuki bwubusa kuri buri wese. Imirongo imwe ifatanye.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Ububiko ni urutonde rwurubuga ruri inyuma ya "The Great Cloudwall", rukumira aba
   * Itike yangiritse inshuro nyinshi.
   * [Byasibwe numushinga wa Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Reba itike 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Amatike yanyuma yububiko 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Ntabwo twigera tubaza imbuga nkoranyambaga.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
