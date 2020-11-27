@@ -51,7 +51,7 @@
 |  Mae Cloudflare hefyd yn cynnig gwasanaeth VPN AM DDIM o'r enw “Cloudflare Warp".Os ydych chi'n ei ddefnyddio, anfonir eich holl gysylltiadau ffôn clyfar (neu'ch cyfrifiadur) at weinyddion Cloudflare.Gall Cloudflare wybod pa wefan rydych chi wedi'i darllen, pa sylw rydych chi wedi'i bostio, gyda phwy rydych chi wedi siarad, ac ati.Rydych chi'n wirfoddol yn rhoi eich holl wybodaeth i Cloudflare.Os ydych chi'n meddwl “Ydych chi'n cellwair? Mae Cloudflare yn ddiogel. ” yna mae angen i chi ddysgu sut mae VPN yn gweithio. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Dywedodd Cloudflare bod eu gwasanaeth VPN yn gwneud eich rhyngrwyd yn gyflym.Ond mae VPN yn gwneud eich cysylltiad rhyngrwyd yn arafach na'r cysylltiad presennol. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Efallai eich bod eisoes yn gwybod am y sgandal PRISM.Mae'n wir bod AT&T yn gadael i'r NSA gopïo'r holl ddata rhyngrwyd ar gyfer gwyliadwriaeth. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Gadewch i ni ddweud eich bod chi'n gweithio yn yr NSA, ac rydych chi eisiau proffil rhyngrwyd pob dinesydd.Rydych chi'n gwybod bod y mwyafrif ohonyn nhw'n ymddiried yn ddall yn Cloudflare ac yn ei ddefnyddio - dim ond un porth canolog - i ddirprwyo eu cysylltiad gweinydd cwmni (SSH / RDP), gwefan bersonol, gwefan sgwrsio, gwefan fforwm, gwefan banc, gwefan yswiriant, peiriant chwilio, aelod cudd - gwefan yn unig, gwefan ocsiwn, siopa, gwefan fideo, gwefan NSFW, a gwefan anghyfreithlon.Rydych hefyd yn gwybod eu bod yn defnyddio gwasanaeth DNS Cloudflare ("1.1.1.1") a gwasanaeth VPN ("Cloudflare Warp") ar gyfer "Secure! Yn gyflymach! Gwell! ” profiad rhyngrwyd.Bydd eu cyfuno â chyfeiriad IP y defnyddiwr, olion bysedd y porwr, cwcis ac RAY-ID yn ddefnyddiol i adeiladu proffil ar-lein y targed. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Gadewch i ni ddweud eich bod chi'n gweithio yn yr NSA, ac rydych chi eisiau proffil rhyngrwyd pob dinesydd.Rydych chi'n gwybod bod y mwyafrif ohonyn nhw'n ymddiried yn ddall yn Cloudflare ac yn ei ddefnyddio - dim ond un porth canolog - i ddirprwyo eu cysylltiad gweinydd cwmni (SSH / RDP), gwefan bersonol, gwefan sgwrsio, gwefan fforwm, gwefan banc, gwefan yswiriant, peiriant chwilio, aelod cudd - gwefan yn unig, gwefan ocsiwn, siopa, gwefan fideo, gwefan NSFW, a gwefan anghyfreithlon.Rydych hefyd yn gwybod eu bod yn defnyddio gwasanaeth DNS Cloudflare ("1.1.1.1") a gwasanaeth VPN ("Cloudflare Warp") ar gyfer "Secure! Yn gyflymach! Gwell! ” profiad rhyngrwyd.Bydd eu cyfuno â chyfeiriad IP y defnyddiwr, olion bysedd y porwr, cwcis ac RAY-ID yn ddefnyddiol i adeiladu proffil ar-lein y targed. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Rydych chi eisiau eu data. Beth fyddwch chi'n ei wneud? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Potyn mêl yw Cloudflare.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Mêl am ddim i bawb. Rhai llinynnau ynghlwm.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "The Great Cloudwall", ga
   * Cafodd y tocyn ei fandaleiddio gymaint o weithiau.
   * [Wedi'i ddileu gan Brosiect Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Gweler tocyn 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tocyn archif olaf 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Nid ydym byth yn gofyn i'ch cyfryngau cymdeithasol.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
