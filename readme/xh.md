@@ -51,7 +51,7 @@
 |  I-Cloudflare ikwabonelela ngenkonzo yasimahla ye-VPN ebizwa ngokuba yi "Cloudflare Warp".Ukuba uyayisebenzisa, yonke i-smartphone yakho (okanye ikhompyuter yakho) iqhagamshelwe kwiiseva ze-Cloudflare.I-Cloudflare iyakwazi ukuba yeyiphi iwebhusayithi oyifundileyo, uluvo luni oyithumileyo, othethe naye, njl njl.Ngokuzithandela unikezela lonke ulwazi lwakho kwi-Cloudflare.Ukuba ucinga “Ngaba uyaqhula? I-Cloudflare ikhuselekile. ” emva koko kufuneka ufunde ukuba isebenza njani i-VPN | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  I-Cloudflare ithe inkonzo yabo yeVPN yenza i-intanethi yakho ikhawuleze.Kodwa i-VPN yenza uqhagamshelo lwakho lwe-Intanethi kancinci kancinci kunonxibelelwano lwakho olukhoyo. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Unokuba sele uyazi malunga ne-PRISM yokukhwaza.Kuyinyani ukuba i-AT & T ivumela i-NSA ukuba ikope yonke idatha ye-Intanethi ukuze ihlolwe. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Masithi usebenza eNSA, kwaye ufuna yonke iprofayili yabasebenzi be-Intanethi.Uyazi uninzi lwabo luthembele ku-Cloudflare kwaye luzisebenzisa-kuphela isango elinye elingumbindi - ukumisela uqhagamshelo lweseva yabo yenkampani (SSH / RDP), iwebhusayithi yobuqu, iwebhusayithi yokuncokola, iwebhusayithi yeforam, iwebhusayithi ye-intanethi, i-inshurensi iwebhusayithi, i-injini yokukhangela, ilungu eliyimfihlo. Iwebhusayithi-enye, iwebhusayithi yeefandesi, iivenkile, ividiyo yevidiyo, iwebhusayithi yeNSFW, kunye newebhusayithi engekho mthethweni.Uyazi ukuba basebenzisa inkonzo ye-DNS ye-Cloudflare ("1.1.1.1") kunye nenkonzo ye-VPN ("Cloudflare Warp") ngo “Khuselekile! Ngesantya! Ngcono! ” amava e-intanethi.Ukuzidibanisa nedilesi ye-IP yomsebenzisi, i-browserprint zeminwe, iicokies kunye ne-RAY-ID ziya kuba luncedo ekwakheni iprofayile ye-intanethi. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Masithi usebenza eNSA, kwaye ufuna yonke iprofayili yabasebenzi be-Intanethi.Uyazi uninzi lwabo luthembele ku-Cloudflare kwaye luzisebenzisa-kuphela isango elinye elingumbindi - ukumisela uqhagamshelo lweseva yabo yenkampani (SSH / RDP), iwebhusayithi yobuqu, iwebhusayithi yokuncokola, iwebhusayithi yeforam, iwebhusayithi ye-intanethi, i-inshurensi iwebhusayithi, i-injini yokukhangela, ilungu eliyimfihlo. Iwebhusayithi-enye, iwebhusayithi yeefandesi, iivenkile, ividiyo yevidiyo, iwebhusayithi yeNSFW, kunye newebhusayithi engekho mthethweni.Uyazi ukuba basebenzisa inkonzo ye-DNS ye-Cloudflare ("1.1.1.1") kunye nenkonzo ye-VPN ("Cloudflare Warp") ngo “Khuselekile! Ngesantya! Ngcono! ” amava e-intanethi.Ukuzidibanisa nedilesi ye-IP yomsebenzisi, i-browserprint zeminwe, iicokies kunye ne-RAY-ID ziya kuba luncedo ekwakheni iprofayile ye-intanethi. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Ufuna idatha yabo. Uza kwenza ntoni? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **I-Cloudflare yidosi yobusi.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Ubusi basimahla kumntu wonke. Imitya ethile iqhotyoshelwe.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Olu luhlu luluhlu lwewebhusayithi ezingasemva "kweyona Cloudwall", ezithintela a
   * Itikiti lonakaliswa kaninzi.
   * [Icinyiwe yiProjekti yeTor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Jonga itikiti 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Itikiti lokugcina eligcinwe ngo-24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Soze sibuze kwimidiya yakho yoluntu.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
