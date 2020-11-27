@@ -51,7 +51,7 @@
 |  Cloudflare waxay kaloo bixisaa adeeg VPN bilaash ah oo loo yaqaan "Cloudflare Warp".Hadaad isticmaasho, dhamaan xiriiradaada casrigaaga ah (ama kumbuyuutarkaaga) waxaa loo diraa adeegaha Cloudflare.Cloudflare wuu garan karaa websaydhka aad akhriday, faallooyinka aad dhejisay, cidda aad la hadashay, iwm.Si tabaruc ah ayaad u siineysaa macluumaadkaaga oo dhan Cloudflare.Haddii aad u malaynayso “Ma kaftamaysaa? Cloudflare waa amaan. markaa waxaad u baahan tahay inaad baratid sida VPN u shaqeyso. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare wuxuu sheegay in adeeggooda VPN ay internet-ka ka dhigayaan mid dhaqso badan.Laakiin VPN waxay ka dhigtaa iskuxirkaaga internetka mid ka gaabiyey xiriirka aad hadda ku leedihiin. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Waxaa laga yaabaa inaad hore u ogtahay fadeexada PRISM.Waa run in AT&T ay NSA u oggolaanayso inay nuqul ka sameysato dhammaan macluumaadka internet-ka ee la socoshada. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Aynu sheegnaa inaad ka shaqeyneyso NSA, oo aad rabto qof walba oo muwaadin internet ah.Waad ogtahay in badankood ay si indho la’aan ah u aaminaan Cloudflare oo ay adeegsadaan - hal albaab oo xarun dhexe ah - si ay wakiil uga dhigaan xiriirkooda shirkad (SSH / RDP), websaydhka shaqsiyadeed, websaydhka sheekaysiga, websaydhka bangiga, bogga caymiska, mashiinka raadinta, xubin qarsoodi ah - kaliya shabakad, bogga xaraashka, dukaamaysiga, degelka fiidiyowga, websaydhka NSFW, iyo degel sharci darro ah.Waxaad sidoo kale ogtahay inay u isticmaalaan adeegga 'Cloudflare's DNS service' ("1.1.1.1") iyo adeegga VPN ("Cloudflare Warp") ee loogu talagalay "Ammaan ah! Degdeg! Kafiican! waayo-aragnimada internetka.Iyaga oo lagu darayo cinwaanka 'IP' ee cinwaanka, sawirka faraha, sawirada cookie-ka iyo RAY-ID ayaa faa iido u yeelan doona in lagu dhiso barta internetka bartilmaameedka. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Aynu sheegnaa inaad ka shaqeyneyso NSA, oo aad rabto qof walba oo muwaadin internet ah.Waad ogtahay in badankood ay si indho la’aan ah u aaminaan Cloudflare oo ay adeegsadaan - hal albaab oo xarun dhexe ah - si ay wakiil uga dhigaan xiriirkooda shirkad (SSH / RDP), websaydhka shaqsiyadeed, websaydhka sheekaysiga, websaydhka bangiga, bogga caymiska, mashiinka raadinta, xubin qarsoodi ah - kaliya shabakad, bogga xaraashka, dukaamaysiga, degelka fiidiyowga, websaydhka NSFW, iyo degel sharci darro ah.Waxaad sidoo kale ogtahay inay u isticmaalaan adeegga 'Cloudflare's DNS service' ("1.1.1.1") iyo adeegga VPN ("Cloudflare Warp") ee loogu talagalay "Ammaan ah! Degdeg! Kafiican! waayo-aragnimada internetka.Iyaga oo lagu darayo cinwaanka 'IP' ee cinwaanka, sawirka faraha, sawirada cookie-ka iyo RAY-ID ayaa faa iido u yeelan doona in lagu dhiso barta internetka bartilmaameedka. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Waxaad dooneysaa xogtooda. Maxaad sameyn doontaa | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare waa malab malab.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Malab bilaash ah qof walba. Xargaha qaar baa ku lifaaqan.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xan
   * Tigidhada ayaa marar badan la jebiyey.
   * [Tirtirey Mashruuca Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Eeg tigidhada 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tigidhada ugu dambeysa ee diiwaan gelinta 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Marna kuma weydiinay warbaahintaada bulshada.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
