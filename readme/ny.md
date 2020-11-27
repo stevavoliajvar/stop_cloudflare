@@ -51,7 +51,7 @@
 |  Cloudflare imaperekanso ntchito yaulere ya VPN yotchedwa "Cloudflare Warp".Ngati mungagwiritse ntchito, kulumikizana kwanu konse kwa ma smartphone (kapena kompyuta yanu) kumatumizidwa ku Cloudflare seva.Cloudflare imatha kudziwa tsamba lomwe mwawerengera, zomwe mudalemba, omwe mwalankhula naye ndi zina zambiri.Mukupereka mwakufuna kwanu ku Cloudflare.Ngati mukuganiza kuti "Mukunena nthabwala? Cloudflare ndiotetezeka. ” ndiye muyenera kuphunzira momwe VPN imagwirira ntchito. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare adati ntchito yawo ya VPN imapangitsa intaneti yanu kukhala yachangu.Koma VPN imapangitsa kulumikizana kwanu kwaintaneti kukhala kochepera kuposa kulumikizidwa kwanu. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Mutha kudziwa kale za vuto la PRISM.Ndizowona kuti AT&T imalola NSA kuti ikope zonse zapaintaneti kuti ziwonetsedwe. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Tinene kuti mukugwira ntchito ku NSA, ndipo mukufuna mbiri yapa nzika iliyonse.Mukudziwa kuti ambiri amakhulupirira Cloudflare mosazindikira ndipo amagwiritsa ntchito - khomo limodzi lokhalo - kutsimikizira kulumikizana kwa seva ya kampani yawo (SSH / RDP), tsamba lanu, tsamba lawebusayiti, tsamba la webusayiti, tsamba la webusayiti, tsamba la webusayiti, tsamba la inshuwaransi, osaka zobisika - Webusayiti yokhayo, tsamba la malonda, kugula zinthu, tsamba lamavidiyo, NSFW, tsamba lawebusayiti.Mukudziwanso kuti amagwiritsa ntchito ntchito ya Cloudflare's DNS ("1.1.1.1") ndi ntchito ya VPN ("Cloudflare Warp") ya "Otetezeka! Mofulumirirako! Bwino! " intaneti.Kuphatikiza ndi adilesi ya IP ya ogwiritsa, zala zakusakatuli, ma cookie ndi RAY-ID ndizothandiza popanga mbiri ya intaneti. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Tinene kuti mukugwira ntchito ku NSA, ndipo mukufuna mbiri yapa nzika iliyonse.Mukudziwa kuti ambiri amakhulupirira Cloudflare mosazindikira ndipo amagwiritsa ntchito - khomo limodzi lokhalo - kutsimikizira kulumikizana kwa seva ya kampani yawo (SSH / RDP), tsamba lanu, tsamba lawebusayiti, tsamba la webusayiti, tsamba la webusayiti, tsamba la webusayiti, tsamba la inshuwaransi, osaka zobisika - Webusayiti yokhayo, tsamba la malonda, kugula zinthu, tsamba lamavidiyo, NSFW, tsamba lawebusayiti.Mukudziwanso kuti amagwiritsa ntchito ntchito ya Cloudflare's DNS ("1.1.1.1") ndi ntchito ya VPN ("Cloudflare Warp") ya "Otetezeka! Mofulumirirako! Bwino! " intaneti.Kuphatikiza ndi adilesi ya IP ya ogwiritsa, zala zakusakatuli, ma cookie ndi RAY-ID ndizothandiza popanga mbiri ya intaneti. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Mukufuna zambiri. Mutani? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare ndi chisa cha uchi.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Uchi waulere kwa aliyense. Zingwe zina zomata.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "The Cloudwall", akuts
   * Tikiti idawonongedwa kambiri.
   * [Yachotsedwa ndi Tor Pro.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Onani tikiti 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tikiti yomaliza yosungiramo 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Sitikufunsani muma TV anu.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
