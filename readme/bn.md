@@ -51,7 +51,7 @@
 |  ক্লাউডফ্লেয়ার এছাড়াও "ক্লাউডফ্লেয়ার ওয়ার্প" নামে নিখরচায় ভিপিএন পরিষেবা সরবরাহ করে।আপনি যদি এটি ব্যবহার করেন তবে আপনার সমস্ত স্মার্টফোন (বা আপনার কম্পিউটার) সংযোগগুলি ক্লাউডফ্লেয়ার সার্ভারে প্রেরণ করা হবে।ক্লাউডফ্লেয়ার জানতে পারে আপনি কোন ওয়েবসাইটটি পড়েছেন, কোন মন্তব্য আপনি পোস্ট করেছেন, কার সাথে কথা বলেছেন ইত্যাদি canআপনি স্বেচ্ছায় আপনার সমস্ত তথ্য ক্লাউডফ্লেয়ারকে দিচ্ছেন।আপনি যদি মনে করেন “আপনি কি রসিকতা করছেন? ক্লাউডফ্লেয়ার নিরাপদ। তারপরে আপনার ভিপিএন কীভাবে কাজ করে তা শিখতে হবে। | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  ক্লাউডফ্লেয়ার তাদের ভিপিএন পরিষেবা আপনার ইন্টারনেট দ্রুততর করে বলেছে।তবে ভিপিএন আপনার ইন্টারনেট সংযোগটিকে আপনার বিদ্যমান সংযোগের চেয়ে ধীর করে তোলে। | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  PRISM কেলেঙ্কারী সম্পর্কে আপনি ইতিমধ্যে জেনে থাকতে পারেন।এটি সত্য যে এটিএন্ডটি এনএসএকে নজরদারি করার জন্য সমস্ত ইন্টারনেট ডেটা অনুলিপি করতে দেয়। | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  ধরা যাক আপনি এনএসএ-এ কাজ করছেন এবং আপনি প্রতিটি নাগরিকের ইন্টারনেট প্রোফাইল চান।আপনি জানেন যে তাদের মধ্যে বেশিরভাগ অন্ধভাবে ক্লাউডফ্লেয়ারকে বিশ্বাস করছেন এবং তাদের সংস্থার সার্ভার সংযোগ (এসএসএইচ / আরডিপি), ব্যক্তিগত ওয়েবসাইট, চ্যাট ওয়েবসাইট, ফোরাম ওয়েবসাইট, ব্যাঙ্ক ওয়েবসাইট, বীমা ওয়েবসাইট, অনুসন্ধান ইঞ্জিন, গোপন সদস্য হিসাবে প্রক্সি দেওয়ার জন্য এটি ব্যবহার করছেন - কেবলমাত্র একটি কেন্দ্রিয় গেটওয়ে using কেবলমাত্র ওয়েবসাইট, নিলাম ওয়েবসাইট, শপিং, ভিডিও ওয়েবসাইট, এনএসএফডাব্লু ওয়েবসাইট এবং অবৈধ ওয়েবসাইট।আপনি এও জানেন যে তারা "সুরক্ষার জন্য ক্লাউডফ্লেয়ারের ডিএনএস পরিষেবা (" 1.1.1.1 ") এবং ভিপিএন পরিষেবা (" ক্লাউডফ্লেয়ার ওয়ার্প ") ব্যবহার করে! দ্রুত! উত্তম!" ইন্টারনেট অভিজ্ঞতা।ব্যবহারকারীর আইপি ঠিকানা, ব্রাউজারের ফিঙ্গারপ্রিন্ট, কুকিজ এবং RAY-ID এর সাথে তাদের সংমিশ্রণ লক্ষ্যমাত্রার অনলাইন প্রোফাইল তৈরি করতে কার্যকর হবে। | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  ধরা যাক আপনি এনএসএ-এ কাজ করছেন এবং আপনি প্রতিটি নাগরিকের ইন্টারনেট প্রোফাইল চান।আপনি জানেন যে তাদের মধ্যে বেশিরভাগ অন্ধভাবে ক্লাউডফ্লেয়ারকে বিশ্বাস করছেন এবং তাদের সংস্থার সার্ভার সংযোগ (এসএসএইচ / আরডিপি), ব্যক্তিগত ওয়েবসাইট, চ্যাট ওয়েবসাইট, ফোরাম ওয়েবসাইট, ব্যাঙ্ক ওয়েবসাইট, বীমা ওয়েবসাইট, অনুসন্ধান ইঞ্জিন, গোপন সদস্য হিসাবে প্রক্সি দেওয়ার জন্য এটি ব্যবহার করছেন - কেবলমাত্র একটি কেন্দ্রিয় গেটওয়ে using কেবলমাত্র ওয়েবসাইট, নিলাম ওয়েবসাইট, শপিং, ভিডিও ওয়েবসাইট, এনএসএফডাব্লু ওয়েবসাইট এবং অবৈধ ওয়েবসাইট।আপনি এও জানেন যে তারা "সুরক্ষার জন্য ক্লাউডফ্লেয়ারের ডিএনএস পরিষেবা (" 1.1.1.1 ") এবং ভিপিএন পরিষেবা (" ক্লাউডফ্লেয়ার ওয়ার্প ") ব্যবহার করে! দ্রুত! উত্তম!" ইন্টারনেট অভিজ্ঞতা।ব্যবহারকারীর আইপি ঠিকানা, ব্রাউজারের ফিঙ্গারপ্রিন্ট, কুকিজ এবং RAY-ID এর সাথে তাদের সংমিশ্রণ লক্ষ্যমাত্রার অনলাইন প্রোফাইল তৈরি করতে কার্যকর হবে। | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  আপনি তাদের ডেটা চান। তুমি কি করবে? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **ক্লাউডফ্লেয়ার হনিপোট।** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **প্রত্যেকের জন্য বিনামূল্যে মধু। কিছু স্ট্রিং সংযুক্ত।** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * টিকিট এতবার ভাঙচুর হয়েছিল।
   * [টোর প্রকল্প দ্বারা মোছা।](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [টিকিট দেখুন 34175।](https://trac.torproject.org/projects/tor/ticket/34175)
   * [শেষ সংরক্ষণাগার টিকিট 24351।](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
