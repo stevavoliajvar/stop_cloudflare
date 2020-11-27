@@ -51,7 +51,7 @@
 |  Cloudflare həmçinin "Cloudflare Warp" adlı PULSUZ VPN xidmətini təklif edir.Onu istifadə etsəniz, bütün smartfon (və ya kompüteriniz) bağlantılar Cloudflare serverlərinə göndərilir.Cloudflare hansı veb saytı oxuduğunuzu, hansı şərh yazdığınız, kiminlə danışdığınız və s. Bilə bilər.Cloudflare-yə bütün məlumatlarınızı könüllü olaraq verirsiniz."Zarafat edirsən?" Buludlar təhlükəsizdir. " sonra VPN-nin necə işlədiyini öyrənməlisiniz. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare, VPN xidmətinin internetinizi sürətli etdiyini söylədi.Ancaq VPN internet bağlantınızızı mövcud bağlantınızdan daha yavaş edir. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  PRİZM qalmaqalı haqqında artıq bilə bilərsən.Düzdür, AT&T NSA-ya bütün internet məlumatlarını nəzarət üçün kopyalamağa imkan verir. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Deyək ki, NSA-da işləyirsiniz və hər bir vətəndaşın internet profilini istəyirsiniz.Onların əksəriyyətinin Cloudflare-ya kor-koranə güvəndiyini və bundan istifadə etdiyini - yalnız bir mərkəzləşdirilmiş şlüz - şirkətlərinin server bağlantısını (SSH / RDP), şəxsi veb saytını, söhbət saytını, forum veb saytını, bank veb saytını, sığorta veb saytını, axtarış motorunu, gizli üzvünü proksi etmək üçün istifadə etdiyini bilirsiniz. - yalnız veb sayt, auksion veb saytı, alış-veriş, video veb sayt, NSFW veb saytı və qanunsuz veb sayt.Cloudflare'nin DNS xidmətindən ("1.1.1.1") və VPN xidmətindən ("Cloudflare Warp") "Təhlükəsiz! Daha sürətli! Daha yaxşı! ” internet təcrübəsi.Onları istifadəçinin IP ünvanı, brauzerin barmaq izi, peçenye və RAY-ID ilə birləşdirmək hədəf onlayn profil yaratmaq üçün faydalı olacaqdır. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Deyək ki, NSA-da işləyirsiniz və hər bir vətəndaşın internet profilini istəyirsiniz.Onların əksəriyyətinin Cloudflare-ya kor-koranə güvəndiyini və bundan istifadə etdiyini - yalnız bir mərkəzləşdirilmiş şlüz - şirkətlərinin server bağlantısını (SSH / RDP), şəxsi veb saytını, söhbət saytını, forum veb saytını, bank veb saytını, sığorta veb saytını, axtarış motorunu, gizli üzvünü proksi etmək üçün istifadə etdiyini bilirsiniz. - yalnız veb sayt, auksion veb saytı, alış-veriş, video veb sayt, NSFW veb saytı və qanunsuz veb sayt.Cloudflare'nin DNS xidmətindən ("1.1.1.1") və VPN xidmətindən ("Cloudflare Warp") "Təhlükəsiz! Daha sürətli! Daha yaxşı! ” internet təcrübəsi.Onları istifadəçinin IP ünvanı, brauzerin barmaq izi, peçenye və RAY-ID ilə birləşdirmək hədəf onlayn profil yaratmaq üçün faydalı olacaqdır. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Onların məlumatlarını istəyirsən. Nə edəcəksən? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare bir bal qabıdır.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Hər kəs üçün pulsuz bal. Bəzi iplər bağlandı.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Bulud" a
   * Bilet dəfələrlə vandalizasiya edildi.
   * [Tor Layihəsi tərəfindən silinmişdir.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [34175 biletinə baxın.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Son arxiv bileti 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Heç vaxt sosial mediadan soruşmuruq.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
