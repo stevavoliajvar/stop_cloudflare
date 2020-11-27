@@ -51,7 +51,7 @@
 |  Cloudflare tseem pub dawb VPN kev pab hu ua “Cloudflare Warp”.Yog tias koj siv nws, tag nrho koj lub smartphone (lossis koj lub computer) sib txuas tau xa mus rau Cloudflare servers.Cloudflare tuaj yeem paub lub website uas koj tau nyeem, cov lus koj tau tshaj tawm, leej twg koj tau nrog tham, thiab lwm yam.Koj zoo siab muab tag nrho koj cov ntaub ntawv rau Cloudflare.Yog koj xav tias “Koj tso dag? Cloudflare tau txais kev nyab xeeb. ” tom qab ntawd koj yuav tsum kawm paub txog VPN ua haujlwm li cas. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare tau hais tias lawv cov kev pabcuam VPN ua rau koj lub vev xaib ceev.Tab sis VPN ua rau koj txoj kev sib txuas hauv internet qeeb qeeb dua li koj qhov kev twb kev txuas. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Tej zaum koj twb paub txog PRISM kev txaj muag.Nws yog qhov tseeb tias AT&T cia NSA theej txhua cov ntaub ntawv hauv internet rau kev soj ntsuam. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Cia li hais tias koj tab tom ua haujlwm ntawm NSA, thiab koj xav tau txhua tus pej xeem cov ntaub ntawv hauv Is Taws Nem.Koj paub feem ntau ntawm lawv qhov muag tsis pom kev ntseeg Cloudflare thiab siv nws - tsuas yog ib lub hauv nruab nrab ntawm lub rooj vag - txhawm rau ua lawv lub tuam txhab server sib txuas (SSH / RDP), tus kheej lub vev xaib, sib tham lub vev xaib, lub vev xaib txhab nyiaj, lub vev xaib txhab nyiaj, lub vev xaib tshawb nrhiav, tus tswvcuab zais cia -only website, muag khoom lub vev xaib, khw muag khoom, vev xaib vev xaib, NSFW lub vev xaib, thiab lub vev xaib tsis raug cai.Koj tseem paub tias lawv siv Cloudflare's DNS kev pabcuam ("1.1.1.1") thiab VPN pabcuam ("Cloudflare Warp") rau "Zoo! Sai! Zoo dua! ” kev paub hauv internet.Muab sib txuas nrog tus neeg siv IP chaw nyob, browser hneev tes, cookies thiab RAY-ID yuav siv tau los ua lub phiaj xwm online. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Cia li hais tias koj tab tom ua haujlwm ntawm NSA, thiab koj xav tau txhua tus pej xeem cov ntaub ntawv hauv Is Taws Nem.Koj paub feem ntau ntawm lawv qhov muag tsis pom kev ntseeg Cloudflare thiab siv nws - tsuas yog ib lub hauv nruab nrab ntawm lub rooj vag - txhawm rau ua lawv lub tuam txhab server sib txuas (SSH / RDP), tus kheej lub vev xaib, sib tham lub vev xaib, lub vev xaib txhab nyiaj, lub vev xaib txhab nyiaj, lub vev xaib tshawb nrhiav, tus tswvcuab zais cia -only website, muag khoom lub vev xaib, khw muag khoom, vev xaib vev xaib, NSFW lub vev xaib, thiab lub vev xaib tsis raug cai.Koj tseem paub tias lawv siv Cloudflare's DNS kev pabcuam ("1.1.1.1") thiab VPN pabcuam ("Cloudflare Warp") rau "Zoo! Sai! Zoo dua! ” kev paub hauv internet.Muab sib txuas nrog tus neeg siv IP chaw nyob, browser hneev tes, cookies thiab RAY-ID yuav siv tau los ua lub phiaj xwm online. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Koj xav tau lawv cov ntaub ntawv. Koj yuav ua li cas? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare yog lub honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Zib ntab pub dawb rau txhua tus. Qee cov hlua txuas.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Qhov chaw cia no yog ib daim ntawv teev npe ntawm lub vev xaib uas nyob tom qab 
   * Daim pib tau vandalized li ntau zaus.
   * [Tshem tawm los ntawm Tor Project.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Saib daim pib 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Xeem daim pib yais 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Peb yeej tsis nug koj tus social media.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
