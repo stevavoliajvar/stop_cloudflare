@@ -51,7 +51,7 @@
 |  Cloudflare tarjoaa myös ILMAISEN VPN-palvelun nimeltään “Cloudflare Warp”.Jos käytät sitä, kaikki älypuhelimesi (tai tietokoneesi) yhteydet lähetetään Cloudflare-palvelimille.Cloudflare voi tietää minkä verkkosivuston olet lukenut, minkä kommentin olet lähettänyt, kenen kanssa olet puhunut jne.Annoit vapaaehtoisesti kaikki tietosi Cloudflarelle.Jos luulet “vitsailetko? Pilvipallo on turvallinen. ” sitten sinun on opittava, kuinka VPN toimii. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare sanoi, että heidän VPN-palvelunsa tekee Internetistäsi nopean.Mutta VPN tekee Internet-yhteytestäsi hitaampaa kuin nykyinen yhteys. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Saatat jo tietää PRISM-skandaalista.On totta, että AT&T antaa NSA: lle kopioida kaikki Internet-tiedot seurantaa varten. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Oletetaan, että työskentelet NSA: ssa ja haluat jokaisen kansalaisen Internet-profiilin.Tiedät, että useimmat heistä luottavat sokeasti Cloudflareen ja käyttävät sitä - vain yhtä keskitettyä yhdyskäytävää - välittääkseen yrityksen palvelinyhteyttä (SSH / RDP), henkilökohtaista verkkosivustoa, chat-verkkosivustoa, foorumin verkkosivustoa, pankin verkkosivustoa, vakuutussivustoa, hakukonetta, salaa jäsentä - vain verkkosivusto, huutokauppasivusto, ostokset, video-, NSFW- ja laiton verkkosivusto.Tiedät myös, että he käyttävät Cloudflaren DNS-palvelua ("1.1.1.1") ja VPN-palvelua ("Cloudflare Warp") "Suojattu! Nopeammin! Paremmin!" Internet-kokemus.Niiden yhdistäminen käyttäjän IP-osoitteeseen, selaimen sormenjälkeen, evästeisiin ja RAY-ID: hen on hyödyllistä rakentaa kohteen online-profiilia. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Oletetaan, että työskentelet NSA: ssa ja haluat jokaisen kansalaisen Internet-profiilin.Tiedät, että useimmat heistä luottavat sokeasti Cloudflareen ja käyttävät sitä - vain yhtä keskitettyä yhdyskäytävää - välittääkseen yrityksen palvelinyhteyttä (SSH / RDP), henkilökohtaista verkkosivustoa, chat-verkkosivustoa, foorumin verkkosivustoa, pankin verkkosivustoa, vakuutussivustoa, hakukonetta, salaa jäsentä - vain verkkosivusto, huutokauppasivusto, ostokset, video-, NSFW- ja laiton verkkosivusto.Tiedät myös, että he käyttävät Cloudflaren DNS-palvelua ("1.1.1.1") ja VPN-palvelua ("Cloudflare Warp") "Suojattu! Nopeammin! Paremmin!" Internet-kokemus.Niiden yhdistäminen käyttäjän IP-osoitteeseen, selaimen sormenjälkeen, evästeisiin ja RAY-ID: hen on hyödyllistä rakentaa kohteen online-profiilia. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Haluat heidän tietojaan. Mitä aiot tehdä? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare on hunajapotti.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Ilmainen kulta kaikille. Jotkut jouset kiinnitetty.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Tämä säilytystila on luettelo verkkosivustoista, jotka ovat "Suuren pilvasein
   * Lippu vandaalisti niin monta kertaa.
   * [Poistanut Tor-projekti.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Katso lippu 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Viimeinen arkistolippu 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Emme koskaan kysy sosiaalista mediaasi.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
