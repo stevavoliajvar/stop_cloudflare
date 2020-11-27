@@ -51,7 +51,7 @@
 |  Hāʻawi ʻo Cloudflare i ka lawelawe VPN MANUAHI i kapa ʻia ʻo "Cloudflare Warp".Inā ʻoe e hoʻohana, hoʻouna ʻia kāu mau pilina āpau (a i ʻole kāu kamepiula) i nā kikowaena Cloudflare.Hiki iā Cloudflare ke ʻike i kahi pūnaewele āu i heluhelu ai, he aha kāu ʻōlelo i kau ai, nā mea āu i kamaʻilio ai, etc.Ke hāʻawi manawaleʻa nei ʻoe i kāu ʻike āpau iā Cloudflare.Inā ʻoe e noʻonoʻo “Ke hoʻohenehene nei ʻoe? Palekana ʻo Cloudflare. ” a laila pono ʻoe e aʻo pehea e hana ai VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  ʻ saidlelo ʻo Cloudflare i kā lākou lawelawe VPN hana wikiwiki i kāu pūnaewele.Akā VPN e hoʻolohi i kāu pili pūnaewele ma mua o kāu pili e kū nei. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Ua ʻike paha ʻoe e pili ana i ka hōʻino PRISM.He ʻoiaʻiʻo e ʻae ʻo AT&T iā NSA e kope i nā ʻikepili pūnaewele no ka nānā ʻana. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  E ʻōlelo mākou e hana ana ʻoe ma ka NSA, a makemake ʻoe i ka ʻikepili pūnaewele o kēlā me kēia kamaʻāina.ʻIke ʻoe i ka hapanui o lākou e hilinaʻi makapō nei iā Cloudflare a hoʻohana iā ia - hoʻokahi wale nō ʻīpuka kikowaena - e hoʻolauna i kā lākou hui kikowaena pūnaewele (SSH / RDP), pūnaewele pilikino, pūnaewele kūkākūkā, pūnaewele pūnaewele, pūnaewele pūnaewele, pūnaewele ʻinikua, ʻenekini huli, lālā lālā -ʻo ka pūnaewele wale nō, pūnaewele kudala, kūʻai, pūnaewele wikiō, pūnaewele NSFW, a me ka pūnaewele kūpono ʻole.ʻIke pū ʻoe hoʻohana lākou i ka lawelawe DNS a Cloudflare ("1.1.1.1") a me ka lawelawe VPN ("Cloudflare Warp") no "Secure! ʻOi aku ka wikiwiki! ʻOi aku ka maikaʻi! ” ʻike pūnaewele.Ke hoʻohui nei iā lākou me ka IP address a ka mea hoʻohana, ka manamana lima o ka polokalamu kele pūnaewele, nā kuki a me ka RAY-ID e pono ai e kūkulu i ka ʻikepili pūnaewele o ka target. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  E ʻōlelo mākou e hana ana ʻoe ma ka NSA, a makemake ʻoe i ka ʻikepili pūnaewele o kēlā me kēia kamaʻāina.ʻIke ʻoe i ka hapanui o lākou e hilinaʻi makapō nei iā Cloudflare a hoʻohana iā ia - hoʻokahi wale nō ʻīpuka kikowaena - e hoʻolauna i kā lākou hui kikowaena pūnaewele (SSH / RDP), pūnaewele pilikino, pūnaewele kūkākūkā, pūnaewele pūnaewele, pūnaewele pūnaewele, pūnaewele ʻinikua, ʻenekini huli, lālā lālā -ʻo ka pūnaewele wale nō, pūnaewele kudala, kūʻai, pūnaewele wikiō, pūnaewele NSFW, a me ka pūnaewele kūpono ʻole.ʻIke pū ʻoe hoʻohana lākou i ka lawelawe DNS a Cloudflare ("1.1.1.1") a me ka lawelawe VPN ("Cloudflare Warp") no "Secure! ʻOi aku ka wikiwiki! ʻOi aku ka maikaʻi! ” ʻike pūnaewele.Ke hoʻohui nei iā lākou me ka IP address a ka mea hoʻohana, ka manamana lima o ka polokalamu kele pūnaewele, nā kuki a me ka RAY-ID e pono ai e kūkulu i ka ʻikepili pūnaewele o ka target. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Makemake ʻoe i kā lākou ʻikepili. He aha kāu e hana ai? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **ʻO Cloudflare kahi honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Mea meli manuahi no nā mea āpau. Hoʻopili ʻia kekahi mau kaula.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * Ua hōʻino ʻia ka likiki i nā manawa he nui.
   * [Holoi ʻia e ka papahana Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [E ʻike i ka likiki 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [ʻO ka likiki waihona hope loa 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
