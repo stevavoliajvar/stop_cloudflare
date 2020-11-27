@@ -51,7 +51,7 @@
 |  Cloudflare විසින් “Cloudflare Warp” නමින් නොමිලේ VPN සේවාවක් ලබා දෙයි.ඔබ එය භාවිතා කරන්නේ නම්, ඔබගේ සියලුම ස්මාර්ට්ෆෝන් (හෝ ඔබේ පරිගණකය) සම්බන්ධතා Cloudflare සේවාදායක වෙත යවනු ලැබේ.Cloudflare හට ඔබ කියවූ වෙබ් අඩවිය, ඔබ පළ කළ අදහස්, ඔබ කතා කළේ කා සමඟද යන්න දැනගත හැකිය.ඔබ ස්වේච්ඡාවෙන් ඔබගේ සියලු තොරතුරු Cloudflare වෙත ලබා දෙයි.ඔබ සිතන්නේ නම් “ඔබ විහිළු කරනවාද? Cloudflare ආරක්ෂිතයි. ” VPN ක්‍රියා කරන ආකාරය ඔබ ඉගෙන ගත යුතුය. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare පැවසුවේ ඔවුන්ගේ VPN සේවාව ඔබේ අන්තර්ජාලය වේගවත් කරන බවයි.නමුත් VPN ඔබගේ අන්තර්ජාල සම්බන්ධතාවය ඔබගේ පවතින සම්බන්ධතාවයට වඩා මන්දගාමී කරයි. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  ප්‍රිස්ම් වංචාව ගැන ඔබ දැනටමත් දැන සිටිය හැකිය.AT&T සියළුම අන්තර්ජාල දත්ත නිරීක්ෂණ සඳහා පිටපත් කිරීමට NSA ට ඉඩ දෙන බව සත්‍යයකි. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  ඔබ එන්එස්ඒ හි වැඩ කරන බව කියමු, ඔබට සෑම පුරවැසියෙකුගේම අන්තර්ජාල පැතිකඩක් අවශ්‍ය වේ.ඔබ ඔවුන්ගෙන් බොහෝ දෙනෙක් අන්ධ ලෙස ක්ලවුඩ්ෆ්ලෙයාර් විශ්වාස කරන අතර එය භාවිතා කරන්නේ - එක් මධ්‍යගත ද්වාරයක් පමණි - ඔවුන්ගේ සමාගම් සේවාදායක සම්බන්ධතාවය (එස්එස්එච් / ආර්ඩීපී), පුද්ගලික වෙබ් අඩවිය, චැට් වෙබ් අඩවිය, සංසද වෙබ් අඩවිය, බැංකු වෙබ් අඩවිය, රක්ෂණ වෙබ් අඩවිය, සෙවුම් යන්ත්‍රය, රහස් සාමාජිකයා පමණක් වෙබ් අඩවිය, වෙන්දේසි වෙබ් අඩවිය, සාප්පු සවාරි, වීඩියෝ වෙබ් අඩවිය, එන්එස්එෆ්ඩබ්ලිව් වෙබ් අඩවිය සහ නීති විරෝධී වෙබ් අඩවිය.“ආරක්‍ෂිත!” සඳහා ඔවුන් Cloudflare හි DNS සේවාව ("1.1.1.1") සහ VPN සේවාව ("Cloudflare Warp") භාවිතා කරන බව ඔබ දනී. ඉක්මනින්! වඩා හොඳ!" අන්තර්ජාල අත්දැකීම්.පරිශීලකයාගේ IP ලිපිනය, බ්‍රව්සර් ඇඟිලි සලකුණු, කුකීස් සහ RAY-ID සමඟ ඒවා ඒකාබද්ධ කිරීම ඉලක්කයේ සබැඳි පැතිකඩ ගොඩනැගීමට ප්‍රයෝජනවත් වේ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  ඔබ එන්එස්ඒ හි වැඩ කරන බව කියමු, ඔබට සෑම පුරවැසියෙකුගේම අන්තර්ජාල පැතිකඩක් අවශ්‍ය වේ.ඔබ ඔවුන්ගෙන් බොහෝ දෙනෙක් අන්ධ ලෙස ක්ලවුඩ්ෆ්ලෙයාර් විශ්වාස කරන අතර එය භාවිතා කරන්නේ - එක් මධ්‍යගත ද්වාරයක් පමණි - ඔවුන්ගේ සමාගම් සේවාදායක සම්බන්ධතාවය (එස්එස්එච් / ආර්ඩීපී), පුද්ගලික වෙබ් අඩවිය, චැට් වෙබ් අඩවිය, සංසද වෙබ් අඩවිය, බැංකු වෙබ් අඩවිය, රක්ෂණ වෙබ් අඩවිය, සෙවුම් යන්ත්‍රය, රහස් සාමාජිකයා පමණක් වෙබ් අඩවිය, වෙන්දේසි වෙබ් අඩවිය, සාප්පු සවාරි, වීඩියෝ වෙබ් අඩවිය, එන්එස්එෆ්ඩබ්ලිව් වෙබ් අඩවිය සහ නීති විරෝධී වෙබ් අඩවිය.“ආරක්‍ෂිත!” සඳහා ඔවුන් Cloudflare හි DNS සේවාව ("1.1.1.1") සහ VPN සේවාව ("Cloudflare Warp") භාවිතා කරන බව ඔබ දනී. ඉක්මනින්! වඩා හොඳ!" අන්තර්ජාල අත්දැකීම්.පරිශීලකයාගේ IP ලිපිනය, බ්‍රව්සර් ඇඟිලි සලකුණු, කුකීස් සහ RAY-ID සමඟ ඒවා ඒකාබද්ධ කිරීම ඉලක්කයේ සබැඳි පැතිකඩ ගොඩනැගීමට ප්‍රයෝජනවත් වේ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  ඔබට ඔවුන්ගේ දත්ත අවශ්‍යයි. ඔයා කුමක් කරනු ඇත් ද? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare යනු පැණි බඳුනකි.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **සෑම කෙනෙකුටම නොමිලේ මී පැණි. සමහර නූල් අමුණා ඇත.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * ටිකට් පත බොහෝ වාරයක් විනාශ විය.
   * [ටෝර් ව්‍යාපෘතිය මගින් මකා දමන ලදි.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ටිකට් 34175 බලන්න.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [අවසාන සංරක්ෂිත ටිකට්පත 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
