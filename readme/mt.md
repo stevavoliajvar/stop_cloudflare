@@ -51,7 +51,7 @@
 |  Cloudflare joffri wkoll servizz VPN B'XEJN imsejjaħ "Cloudflare Warp".Jekk tużah, il-konnessjonijiet kollha tal-smartphone tiegħek (jew tal-kompjuter tiegħek) jintbagħtu lis-servers Cloudflare.Cloudflare tista 'tkun taf liema websajt qrajt, liema kumment stazzjonajt, ma' min tkellimt, eċċ.Int volontarju li tagħti l-informazzjoni kollha tiegħek lil Cloudflare.Jekk taħseb "Int qed tiċċajta? Cloudflare huwa sigur. " mela trid titgħallem kif taħdem il-VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare qal li s-servizz VPN tagħhom jagħmel l-internet tiegħek malajr.Imma VPN tagħmel il-konnessjoni tal-internet tiegħek aktar bil-mod mill-konnessjoni eżistenti tiegħek. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Inti tista 'tkun taf diġà dwar l-iskandlu tal-PRISM.Huwa veru li AT&T iħallik lill-NSA tikkopja d-dejta kollha tal-internet għas-sorveljanza. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Ejja ngħidu li qed taħdem fl-NSA u li trid il-profil tal-internet ta 'kull ċittadin.Taf li ħafna minnhom qed jafdaw bl-addoċċ Cloudflare u jużawha - gateway ċentralizzat wieħed biss - biex jip prokuraw il-konnessjoni tas-server tal-kumpanija tagħhom (SSH / RDP), websajt personali, websajt taċ-chat, websajt tal-forum, websajt tal-bank, websajt tal-assigurazzjoni, magna tat-tiftix, membru sigriet websajt unika, websajt tal-irkant, xiri, websajt tal-vidjow, websajt NSFW, u websajt illegali.Int taf ukoll li jużaw is-servizz DNS ta 'Cloudflare ("1.1.1.1") u s-servizz VPN ("Cloudflare Warp") għal "Sikura! Aktar mgħaġġel! Aħjar! " Esperjenza fl-internet.L-għaqda tagħhom mal-indirizz IP tal-utent, il-marki tas-swaba tal-browser, il-cookies u l-ID RAY se jkunu utli biex jinbena l-profil onlajn tal-mira. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Ejja ngħidu li qed taħdem fl-NSA u li trid il-profil tal-internet ta 'kull ċittadin.Taf li ħafna minnhom qed jafdaw bl-addoċċ Cloudflare u jużawha - gateway ċentralizzat wieħed biss - biex jip prokuraw il-konnessjoni tas-server tal-kumpanija tagħhom (SSH / RDP), websajt personali, websajt taċ-chat, websajt tal-forum, websajt tal-bank, websajt tal-assigurazzjoni, magna tat-tiftix, membru sigriet websajt unika, websajt tal-irkant, xiri, websajt tal-vidjow, websajt NSFW, u websajt illegali.Int taf ukoll li jużaw is-servizz DNS ta 'Cloudflare ("1.1.1.1") u s-servizz VPN ("Cloudflare Warp") għal "Sikura! Aktar mgħaġġel! Aħjar! " Esperjenza fl-internet.L-għaqda tagħhom mal-indirizz IP tal-utent, il-marki tas-swaba tal-browser, il-cookies u l-ID RAY se jkunu utli biex jinbena l-profil onlajn tal-mira. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Int trid id-dejta tagħhom. X'ser taghmel? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare huwa pot tal-għasel.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Għasel b'xejn għal kulħadd. Xi kordi mehmuża.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "Il-Great Cloudwall", l
   * Il-biljett kien vandalizzat tant drabi.
   * [Imħassar mill-Proġett Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Ara l-biljett 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [L-aħħar biljett tal-arkivju 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Aħna qatt ma nitolbu l-midja soċjali tiegħek.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
