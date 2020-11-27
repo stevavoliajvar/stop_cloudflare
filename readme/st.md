@@ -51,7 +51,7 @@
 |  Cloudflare e boetse e fana ka tšebeletso ea MAHALA ea VPN e bitsoang "Cloudflare Warp".Haeba u e sebelisa, lihokela tsohle tsa hau tsa smartphone (kapa khomphutha ea hau) li romelloa ho li-server tsa Cloudflare.Cloudflare e ka tseba hore na u se balile webosaete efe, u behile maikutlo afe, le bao u buisaneng le bona, jj.U fana ka tlhahisoleseling eohle ea hau ho Cloudflare.Haeba u nahana “oa soasoa? Cloudflare e sireletsehile. ” ka nako eo o hloka ho ithuta hore na VPN e sebetsa joang. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare e re tšebeletso ea bona ea VPN e etsa hore marang-rang a hau a potlake.Empa VPN e etsa hore khokelo ea hau ea inthanete e liehe ho feta khokahano ea hau e teng. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Mohlomong u se u ntse u tseba ka seratsoana sa PRISM.Ke nnete hore AT&T e lumella NSA ho kopitsa data eohle ea inthanete hore e hlahlojoe. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Ha re re u sebetsa ho NSA, 'me u batla lebitso le leng le le leng la inthanete la baahi.Ua tseba boholo ba bona ba ts'epa Cloudflare ka bofofu 'me ba e sebelisa - e le' ngoe feela e kenang kahare - ho etsa bonnete ba khokahano ea seva ea k'hamphani (SSH / RDP), sebaka sa marang-rang, sebaka sa moqoqo, sebaka sa marang-rang, banka ea webosaete, webosaete ea inshorense, enjine ea ho batla, setho sa lekunutu Sebaka sa marang-rang, sebaka sa marang-rang sa mabenkele, mabenkele, marang-rang a video, sebaka sa NSFW le sebaka sa marang-rang se seng molaong.Hape oa tseba hore ba sebelisa tšebeletso ea Cloudflare's DNS ("1.1.1.1") le tšebeletso ea VPN ("Cloudflare Warp") bakeng sa "Sireletsehile! Kapele! Ho betere! ” boiphihlelo ba inthanete.Ho li kopanya le aterese ea IP ea mosebelisi, menoana ea li-browser, li-cookies le RAY-ID li tla ba molemo ho haha ​​profilete ea sepheo sa hau. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Ha re re u sebetsa ho NSA, 'me u batla lebitso le leng le le leng la inthanete la baahi.Ua tseba boholo ba bona ba ts'epa Cloudflare ka bofofu 'me ba e sebelisa - e le' ngoe feela e kenang kahare - ho etsa bonnete ba khokahano ea seva ea k'hamphani (SSH / RDP), sebaka sa marang-rang, sebaka sa moqoqo, sebaka sa marang-rang, banka ea webosaete, webosaete ea inshorense, enjine ea ho batla, setho sa lekunutu Sebaka sa marang-rang, sebaka sa marang-rang sa mabenkele, mabenkele, marang-rang a video, sebaka sa NSFW le sebaka sa marang-rang se seng molaong.Hape oa tseba hore ba sebelisa tšebeletso ea Cloudflare's DNS ("1.1.1.1") le tšebeletso ea VPN ("Cloudflare Warp") bakeng sa "Sireletsehile! Kapele! Ho betere! ” boiphihlelo ba inthanete.Ho li kopanya le aterese ea IP ea mosebelisi, menoana ea li-browser, li-cookies le RAY-ID li tla ba molemo ho haha ​​profilete ea sepheo sa hau. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  O batla ya bona ya data. U tla etsa Eng? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare ke pokello ea mahe a linotsi.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Mahe a linotsi a mahala bakeng sa motho e mong le e mong. Likhoele tse ling li khangoe.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "The Cloudwall"
   * Tekete e ile ea senyeha hangata.
   * [E felisitsoe ke Morero oa Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Bona tekete ea 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tekete ea ho boloka polokelong ea litheko 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Ha ho mohla re botsa mecha ea litaba ea sechaba.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
