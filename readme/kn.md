@@ -51,7 +51,7 @@
 |  ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ “ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ವಾರ್ಪ್” ಎಂಬ ಉಚಿತ ವಿಪಿಎನ್ ಸೇವೆಯನ್ನು ಸಹ ನೀಡುತ್ತದೆ.ನೀವು ಅದನ್ನು ಬಳಸಿದರೆ, ನಿಮ್ಮ ಎಲ್ಲಾ ಸ್ಮಾರ್ಟ್‌ಫೋನ್ (ಅಥವಾ ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್) ಸಂಪರ್ಕಗಳನ್ನು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಸರ್ವರ್‌ಗಳಿಗೆ ಕಳುಹಿಸಲಾಗುತ್ತದೆ.ನೀವು ಯಾವ ವೆಬ್‌ಸೈಟ್ ಓದಿದ್ದೀರಿ, ನೀವು ಯಾವ ಕಾಮೆಂಟ್ ಪೋಸ್ಟ್ ಮಾಡಿದ್ದೀರಿ, ಯಾರೊಂದಿಗೆ ಮಾತನಾಡಿದ್ದೀರಿ ಇತ್ಯಾದಿಗಳನ್ನು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ತಿಳಿಯಬಹುದು.ನಿಮ್ಮ ಎಲ್ಲಾ ಮಾಹಿತಿಯನ್ನು ನೀವು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್‌ಗೆ ಸ್ವಯಂಪ್ರೇರಣೆಯಿಂದ ನೀಡುತ್ತಿರುವಿರಿ.ನೀವು ಯೋಚಿಸಿದರೆ “ನೀವು ತಮಾಷೆ ಮಾಡುತ್ತಿದ್ದೀರಾ? ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಸುರಕ್ಷಿತವಾಗಿದೆ. ” ನಂತರ ನೀವು ವಿಪಿಎನ್ ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಕಲಿಯಬೇಕು. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಅವರ ವಿಪಿಎನ್ ಸೇವೆಯು ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಅನ್ನು ವೇಗವಾಗಿ ಮಾಡುತ್ತದೆ ಎಂದು ಹೇಳಿದರು.ಆದರೆ ವಿಪಿಎನ್ ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ನಿಮ್ಮ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಸಂಪರ್ಕಕ್ಕಿಂತ ನಿಧಾನಗೊಳಿಸುತ್ತದೆ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  ಪ್ರಿಸ್ಮ್ ಹಗರಣದ ಬಗ್ಗೆ ನಿಮಗೆ ಈಗಾಗಲೇ ತಿಳಿದಿರಬಹುದು.ಎಲ್ಲಾ ಇಂಟರ್ನೆಟ್ ಡೇಟಾವನ್ನು ಕಣ್ಗಾವಲುಗಾಗಿ ನಕಲಿಸಲು ಎಟಿ ಮತ್ತು ಟಿ ಎನ್ಎಸ್ಎಗೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ ಎಂಬುದು ನಿಜ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  ನೀವು ಎನ್ಎಸ್ಎಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೀರಿ ಎಂದು ಹೇಳೋಣ ಮತ್ತು ಪ್ರತಿಯೊಬ್ಬ ನಾಗರಿಕರ ಇಂಟರ್ನೆಟ್ ಪ್ರೊಫೈಲ್ ಅನ್ನು ನೀವು ಬಯಸುತ್ತೀರಿ.ಅವರಲ್ಲಿ ಹೆಚ್ಚಿನವರು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಅನ್ನು ಕುರುಡಾಗಿ ನಂಬುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಅದನ್ನು ಬಳಸುತ್ತಿದ್ದಾರೆ - ಕೇವಲ ಒಂದು ಕೇಂದ್ರೀಕೃತ ಗೇಟ್‌ವೇ - ತಮ್ಮ ಕಂಪನಿ ಸರ್ವರ್ ಸಂಪರ್ಕವನ್ನು (ಎಸ್‌ಎಸ್‌ಹೆಚ್ / ಆರ್‌ಡಿಪಿ), ವೈಯಕ್ತಿಕ ವೆಬ್‌ಸೈಟ್, ಚಾಟ್ ವೆಬ್‌ಸೈಟ್, ಫೋರಮ್ ವೆಬ್‌ಸೈಟ್, ಬ್ಯಾಂಕ್ ವೆಬ್‌ಸೈಟ್, ವಿಮಾ ವೆಬ್‌ಸೈಟ್, ಸರ್ಚ್ ಎಂಜಿನ್, ರಹಸ್ಯ ಸದಸ್ಯರನ್ನು ಪ್ರಾಕ್ಸಿ ಮಾಡಲು -ಒಂದು ವೆಬ್‌ಸೈಟ್, ಹರಾಜು ವೆಬ್‌ಸೈಟ್, ಶಾಪಿಂಗ್, ವಿಡಿಯೋ ವೆಬ್‌ಸೈಟ್, ಎನ್‌ಎಸ್‌ಎಫ್‌ಡಬ್ಲ್ಯೂ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು ಅಕ್ರಮ ವೆಬ್‌ಸೈಟ್.ಅವರು “ಸುರಕ್ಷಿತ!” ಗಾಗಿ ಕ್ಲೌಡ್‌ಫ್ಲೇರ್‌ನ ಡಿಎನ್ಎಸ್ ಸೇವೆ ("1.1.1.1") ಮತ್ತು ವಿಪಿಎನ್ ಸೇವೆ ("ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ವಾರ್ಪ್") ಅನ್ನು ಬಳಸುತ್ತಾರೆ ಎಂಬುದು ನಿಮಗೆ ತಿಳಿದಿದೆ. ವೇಗವಾಗಿ! ಉತ್ತಮ! ” ಇಂಟರ್ನೆಟ್ ಅನುಭವ.ಬಳಕೆದಾರರ ಐಪಿ ವಿಳಾಸ, ಬ್ರೌಸರ್ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್, ಕುಕೀಸ್ ಮತ್ತು ರೇ-ಐಡಿಯೊಂದಿಗೆ ಅವುಗಳನ್ನು ಸಂಯೋಜಿಸುವುದು ಗುರಿಯ ಆನ್‌ಲೈನ್ ಪ್ರೊಫೈಲ್ ಅನ್ನು ನಿರ್ಮಿಸಲು ಉಪಯುಕ್ತವಾಗಿರುತ್ತದೆ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  ನೀವು ಎನ್ಎಸ್ಎಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೀರಿ ಎಂದು ಹೇಳೋಣ ಮತ್ತು ಪ್ರತಿಯೊಬ್ಬ ನಾಗರಿಕರ ಇಂಟರ್ನೆಟ್ ಪ್ರೊಫೈಲ್ ಅನ್ನು ನೀವು ಬಯಸುತ್ತೀರಿ.ಅವರಲ್ಲಿ ಹೆಚ್ಚಿನವರು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಅನ್ನು ಕುರುಡಾಗಿ ನಂಬುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಅದನ್ನು ಬಳಸುತ್ತಿದ್ದಾರೆ - ಕೇವಲ ಒಂದು ಕೇಂದ್ರೀಕೃತ ಗೇಟ್‌ವೇ - ತಮ್ಮ ಕಂಪನಿ ಸರ್ವರ್ ಸಂಪರ್ಕವನ್ನು (ಎಸ್‌ಎಸ್‌ಹೆಚ್ / ಆರ್‌ಡಿಪಿ), ವೈಯಕ್ತಿಕ ವೆಬ್‌ಸೈಟ್, ಚಾಟ್ ವೆಬ್‌ಸೈಟ್, ಫೋರಮ್ ವೆಬ್‌ಸೈಟ್, ಬ್ಯಾಂಕ್ ವೆಬ್‌ಸೈಟ್, ವಿಮಾ ವೆಬ್‌ಸೈಟ್, ಸರ್ಚ್ ಎಂಜಿನ್, ರಹಸ್ಯ ಸದಸ್ಯರನ್ನು ಪ್ರಾಕ್ಸಿ ಮಾಡಲು -ಒಂದು ವೆಬ್‌ಸೈಟ್, ಹರಾಜು ವೆಬ್‌ಸೈಟ್, ಶಾಪಿಂಗ್, ವಿಡಿಯೋ ವೆಬ್‌ಸೈಟ್, ಎನ್‌ಎಸ್‌ಎಫ್‌ಡಬ್ಲ್ಯೂ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು ಅಕ್ರಮ ವೆಬ್‌ಸೈಟ್.ಅವರು “ಸುರಕ್ಷಿತ!” ಗಾಗಿ ಕ್ಲೌಡ್‌ಫ್ಲೇರ್‌ನ ಡಿಎನ್ಎಸ್ ಸೇವೆ ("1.1.1.1") ಮತ್ತು ವಿಪಿಎನ್ ಸೇವೆ ("ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ವಾರ್ಪ್") ಅನ್ನು ಬಳಸುತ್ತಾರೆ ಎಂಬುದು ನಿಮಗೆ ತಿಳಿದಿದೆ. ವೇಗವಾಗಿ! ಉತ್ತಮ! ” ಇಂಟರ್ನೆಟ್ ಅನುಭವ.ಬಳಕೆದಾರರ ಐಪಿ ವಿಳಾಸ, ಬ್ರೌಸರ್ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್, ಕುಕೀಸ್ ಮತ್ತು ರೇ-ಐಡಿಯೊಂದಿಗೆ ಅವುಗಳನ್ನು ಸಂಯೋಜಿಸುವುದು ಗುರಿಯ ಆನ್‌ಲೈನ್ ಪ್ರೊಫೈಲ್ ಅನ್ನು ನಿರ್ಮಿಸಲು ಉಪಯುಕ್ತವಾಗಿರುತ್ತದೆ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  ನೀವು ಅವರ ಡೇಟಾವನ್ನು ಬಯಸುತ್ತೀರಿ. ನೀನೇನು ಮಡುವೆ? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಒಂದು ಹನಿಪಾಟ್ ಆಗಿದೆ.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **ಎಲ್ಲರಿಗೂ ಉಚಿತ ಜೇನುತುಪ್ಪ. ಕೆಲವು ತಂತಿಗಳನ್ನು ಜೋಡಿಸಲಾಗಿದೆ.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * ಟಿಕೆಟ್ ಅನ್ನು ಹಲವು ಬಾರಿ ಧ್ವಂಸಗೊಳಿಸಲಾಯಿತು.
   * [ಟಾರ್ ಪ್ರಾಜೆಕ್ಟ್ನಿಂದ ಅಳಿಸಲಾಗಿದೆ.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ಟಿಕೆಟ್ 34175 ನೋಡಿ.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [ಕೊನೆಯ ಆರ್ಕೈವ್ ಟಿಕೆಟ್ 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
