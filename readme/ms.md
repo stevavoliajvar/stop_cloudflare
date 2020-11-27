@@ -51,7 +51,7 @@
 |  Cloudflare juga menawarkan perkhidmatan VPN PERCUMA yang disebut "Cloudflare Warp".Sekiranya anda menggunakannya, semua sambungan telefon pintar (atau komputer anda) dihantar ke pelayan Cloudflare.Cloudflare dapat mengetahui laman web mana yang telah anda baca, komen apa yang telah anda siarkan, dengan siapa anda telah berbicara, dll.Anda secara sukarela memberikan semua maklumat anda kepada Cloudflare.Sekiranya anda berfikir “Adakah anda bergurau? Cloudflare selamat. " maka anda perlu belajar bagaimana VPN berfungsi. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare mengatakan bahawa perkhidmatan VPN mereka menjadikan internet anda pantas.Tetapi VPN menjadikan sambungan internet anda lebih perlahan daripada sambungan yang ada. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Anda mungkin sudah tahu mengenai skandal PRISM.Memang benar bahawa AT&T membolehkan NSA menyalin semua data internet untuk pengawasan. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Katakan anda bekerja di NSA, dan anda mahukan profil internet setiap warganegara.Anda tahu kebanyakan mereka mempercayai Cloudflare secara membabi buta dan menggunakannya - hanya satu pintu masuk terpusat - untuk memproksi sambungan pelayan syarikat mereka (SSH / RDP), laman web peribadi, laman web sembang, laman web forum, laman web bank, laman web insurans, enjin carian, ahli rahsia -hanya laman web, laman web lelong, belanja, laman web video, laman web NSFW, dan laman web haram.Anda juga tahu bahawa mereka menggunakan perkhidmatan DNS Cloudflare ("1.1.1.1") dan perkhidmatan VPN ("Cloudflare Warp") untuk "Selamat! Lebih pantas! Lebih baik! " pengalaman internet.Menggabungkannya dengan alamat IP pengguna, cap jari penyemak imbas, kuki dan RAY-ID akan berguna untuk membina profil dalam talian sasaran. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Katakan anda bekerja di NSA, dan anda mahukan profil internet setiap warganegara.Anda tahu kebanyakan mereka mempercayai Cloudflare secara membabi buta dan menggunakannya - hanya satu pintu masuk terpusat - untuk memproksi sambungan pelayan syarikat mereka (SSH / RDP), laman web peribadi, laman web sembang, laman web forum, laman web bank, laman web insurans, enjin carian, ahli rahsia -hanya laman web, laman web lelong, belanja, laman web video, laman web NSFW, dan laman web haram.Anda juga tahu bahawa mereka menggunakan perkhidmatan DNS Cloudflare ("1.1.1.1") dan perkhidmatan VPN ("Cloudflare Warp") untuk "Selamat! Lebih pantas! Lebih baik! " pengalaman internet.Menggabungkannya dengan alamat IP pengguna, cap jari penyemak imbas, kuki dan RAY-ID akan berguna untuk membina profil dalam talian sasaran. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Anda mahukan data mereka. Apa yang akan kamu lakukan? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare adalah honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Madu percuma untuk semua orang. Beberapa tali dilampirkan.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Repositori ini adalah senarai laman web yang berada di belakang "The Great Cloud
   * Tiket itu dirampas berkali-kali.
   * [Dipadamkan oleh Projek Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Lihat tiket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tiket arkib terakhir 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Kami tidak pernah meminta media sosial anda.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
