@@ -51,7 +51,7 @@
 |  Cloudflare latou te ofoina atu foi le auaunaga VPN e taua ole "Cloudflare Warp".Afai e te faʻaaogaina, o au telefoni (po o lau komipiuta) fesoʻotaʻiga e lafoina i Cloudflare servers.E mafai e le Cloudflare ona ia iloa poo fea le upega tafaʻilagi na e faitauina, poʻo a ni manatu na e lafoina, pe o ai na e talanoa ai, ma isi.O oe e te ofoina atu lau lafo uma au faamatalaga ia Cloudflare.Afai e te manatu “E te tausua? Ua malu le Cloudflare. ” ona e manaʻomia ona aʻoaʻo le auala galue VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare fai mai latou VPN auaunaga faia lau initaneti vave.Ae VPN le faia o lau initaneti initaneti lemu nai lo lau i ai nei. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Atonu ua e iloa e uiga ile PRISM scandal.E moni e AT&T faʻataga NSA e kopi uma Initaneti faʻamaumauga mo mataituina. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Faʻapea o loʻo e galue i le NSA, ma e te manaʻo i le initaneti tagata uma a latou laiga.E te iloa o le toʻatele o loʻo faʻatuatuaina ma le faʻaua le Cloudflare ma faʻaaoga - naʻo le tasi o le faitotoʻa tutotonu - e sui ai le latou kamupani server Connection (SSH / RDP), luga o le upega tafailagi, talanoaga i luga o le upega tafailagi, fono i luga o le upega tafailagi, faletupe uepisaite, inisiua 'upega tafaʻilagi, sailiga afi, tagata lilo -o le laiga 'upega tafaʻilagi, faʻatautuʻi' upega tafaʻilagi, faʻatau, vitio o le 'upega tafaʻilagi, NSFW' upega tafaʻilagi, ma le tulaga faʻaletonu 'upega tafaʻilagi.E te iloa foʻi latou te faʻaaogaina le Cloudflare's DNS service ("1.1.1.1") ma VPN service ("Cloudflare Warp") mo le "Secure! Televave Sili atu! ” initaneti.O le tuʻufaʻatasia o latou ma le tuatusi IP a tagata e faʻaaogaina, sapalai tamaʻilima sipela, kuki ma le RAY-ID o le a aoga e fausia ai le faʻamoemoe o le initaneti. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Faʻapea o loʻo e galue i le NSA, ma e te manaʻo i le initaneti tagata uma a latou laiga.E te iloa o le toʻatele o loʻo faʻatuatuaina ma le faʻaua le Cloudflare ma faʻaaoga - naʻo le tasi o le faitotoʻa tutotonu - e sui ai le latou kamupani server Connection (SSH / RDP), luga o le upega tafailagi, talanoaga i luga o le upega tafailagi, fono i luga o le upega tafailagi, faletupe uepisaite, inisiua 'upega tafaʻilagi, sailiga afi, tagata lilo -o le laiga 'upega tafaʻilagi, faʻatautuʻi' upega tafaʻilagi, faʻatau, vitio o le 'upega tafaʻilagi, NSFW' upega tafaʻilagi, ma le tulaga faʻaletonu 'upega tafaʻilagi.E te iloa foʻi latou te faʻaaogaina le Cloudflare's DNS service ("1.1.1.1") ma VPN service ("Cloudflare Warp") mo le "Secure! Televave Sili atu! ” initaneti.O le tuʻufaʻatasia o latou ma le tuatusi IP a tagata e faʻaaogaina, sapalai tamaʻilima sipela, kuki ma le RAY-ID o le a aoga e fausia ai le faʻamoemoe o le initaneti. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Oe manaʻo i latou faʻamaumauga. O le a lau mea e fai? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare o le honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Talofa fua i tagata uma. O nisi manoa ua faapipii.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ O lenei fale teu oloa o se lisi o uepisaite o loʻo i tua o le "The Great Cloudw
   * Sa faʻaleagaina le pepa i le tele o taimi.
   * [Aveesea e le Tor Project.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Silasila i le pepa ulufale 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tiketi faʻamaumauga mulimuli 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Matou te le fesiligia le ala o faasalalauga lautele.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
