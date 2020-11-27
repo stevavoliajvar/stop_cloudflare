@@ -51,7 +51,7 @@
 |  Cloudflare таксама прапануе бясплатную паслугу VPN пад назвай "Cloudflare Warp".Калі вы выкарыстоўваеце яго, усе злучэнні вашага смартфона (ці кампутара) адпраўляюцца на серверы Cloudflare.Cloudflare можа ведаць, які вэб-сайт вы чыталі, які каментарый вы размясцілі, з кім вы размаўлялі і г.д.Вы добраахвотна перадайце ўсю сваю інфармацыю Cloudflare.Калі вы думаеце, "Вы жартуеце? Cloudflare - гэта бяспека. " тады вам трэба даведацца, як працуе VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare сказаў, што іх паслуга VPN хутка зробіць ваш Інтэрнэт.Але VPN робіць ваш інтэрнэт-сувязь павольней, чым наяўнае ў вас. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Вы ўжо можаце ведаць пра скандал з ПРЫЗАМ.Гэта праўда, што AT&T дазваляе NSA капіяваць усе дадзеныя ў Інтэрнэце для назірання. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Скажам, вы працуеце ў АНБ і хочаце атрымаць інтэрнэт-профіль кожнага грамадзяніна.Вы ведаеце, што большасць з іх даверліва давяраюць Cloudflare і выкарыстоўваюць яго - толькі адзін цэнтралізаваны шлюз - праксіміраваць падключэнне да сервера сваёй кампаніі (SSH / RDP), асабісты сайт, чат-сайт, вэб-сайт форума, вэб-сайт банка, страхавы сайт, пошукавік, сакрэтны член -толькі сайт, аўкцыённы сайт, крамы, відэа-сайт, сайт NSFW і нелегальны сайт.Вы таксама ведаеце, што яны выкарыстоўваюць службу DNS Cloudflare ("1.1.1.1") і VPN ("Cloudflare Warp") для "Бяспечнай! Хутчэй! Лепш! " Інтэрнэт-досвед.Спалучэнне іх з IP-адрасамі карыстальніка, адбіткам пальцаў, кукі і RAY-ідэнтыфікатарам будзе карысна для стварэння анлайн-профілю мэтавай. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Скажам, вы працуеце ў АНБ і хочаце атрымаць інтэрнэт-профіль кожнага грамадзяніна.Вы ведаеце, што большасць з іх даверліва давяраюць Cloudflare і выкарыстоўваюць яго - толькі адзін цэнтралізаваны шлюз - праксіміраваць падключэнне да сервера сваёй кампаніі (SSH / RDP), асабісты сайт, чат-сайт, вэб-сайт форума, вэб-сайт банка, страхавы сайт, пошукавік, сакрэтны член -толькі сайт, аўкцыённы сайт, крамы, відэа-сайт, сайт NSFW і нелегальны сайт.Вы таксама ведаеце, што яны выкарыстоўваюць службу DNS Cloudflare ("1.1.1.1") і VPN ("Cloudflare Warp") для "Бяспечнай! Хутчэй! Лепш! " Інтэрнэт-досвед.Спалучэнне іх з IP-адрасамі карыстальніка, адбіткам пальцаў, кукі і RAY-ідэнтыфікатарам будзе карысна для стварэння анлайн-профілю мэтавай. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Вы хочаце, каб іх дадзеныя. Што ты будзеш рабіць? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare - гэта мядовы кашаль.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Бясплатны мёд для ўсіх. Некаторыя радкі далучаны.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * Квіток шмат разоў прапагандыраваўся.
   * [Выдалены праектам Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Глядзіце білет 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Апошні архіўны білет 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
