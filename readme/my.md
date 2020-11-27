@@ -51,7 +51,7 @@
 |  Cloudflare သည်“ Cloudflare အတိုင်” ဟုခေါ်သည့်အခမဲ့ VPN ဝန်ဆောင်မှုကိုလည်းပေးသည်။၎င်းကိုသင်အသုံးပြုပါကသင်၏စမတ်ဖုန်း (သို့မဟုတ်သင့်ကွန်ပျူတာ) ဆက်သွယ်မှုအားလုံးကို Cloudflare ဆာဗာများသို့ပေးပို့သည်။Cloudflare သည်သင်ဖတ်ထားသောမည်သည့်ဝက်ဘ်ဆိုက်၊ သင်တင်လိုက်သောမှတ်ချက်၊ မည်သူစကားပြောခဲ့သည်စသည်တို့ကိုသိနိုင်သည်။သင်၏အချက်အလက်အားလုံးကို Cloudflare သို့သင်ဆန္ဒအလျောက်ပေးသည်။“ မင်းနောက်နေတာလား? Cloudflare လုံခြုံသည်။ " ထို့နောက်သင် VPN မည်သို့အလုပ်လုပ်သည်ကိုလေ့လာရန်လိုအပ်သည်။ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare ကသူတို့၏ VPN ၀ န်ဆောင်မှုသည်သင်၏အင်တာနက်ကိုမြန်စေသည်ဟုပြောကြားခဲ့သည်။သို့သော် VPN သည်သင်၏လက်ရှိဆက်သွယ်မှုထက်သင်၏အင်တာနက်ဆက်သွယ်မှုကိုနှေးစေသည်။ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  PRISM အရှုပ်တော်ပုံအကြောင်းကိုသင်သိပြီးဖြစ်လိမ့်မယ်။အမှန်မှာ AT&T သည် NSA အားအင်တာနက်အချက်အလက်အားလုံးကိုစောင့်ကြည့်ရန်ခွင့်ပြုသည်။ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  မင်းက NSA မှာအလုပ်လုပ်နေတယ်ဆိုပါစို့၊ နိုင်ငံသားတိုင်းရဲ့ internet profile ကိုလိုချင်တယ်။၎င်းတို့အများစုသည် Cloudflare ကိုဆင်ခြင်တုံတရားနှင့်ယုံကြည်မှုရှိပြီး ၄ င်းတို့၏ကုမ္ပဏီဆာဗာဆက်သွယ်မှု (SSH / RDP)၊ ကိုယ်ပိုင်ဝက်ဘ်ဆိုက်၊ စကားဝိုင်းဝက်ဘ်ဆိုက်၊ ဖိုရမ်ဝက်ဘ်ဆိုက်၊ ဘဏ်ဝက်ဘ်၊ အာမခံဝက်ဘ်ဆိုက်၊ ၀ က်ဘ်ဆိုက်တစ်ခုတည်း၊ လေလံတင်ခြင်းဝက်ဘ်ဆိုက်၊ စျေးဝယ်ခြင်း၊ ဗီဒီယို ၀ က်ဘ်ဆိုက်၊ NSFW ဝက်ဘ်ဆိုက်နှင့်တရားမ ၀ င် ၀ ဘ်ဆိုဒ်များသာရှိသည်။၎င်းတို့သည်“ လုံခြုံသော!” အတွက် Cloudflare ၏ DNS ၀ န်ဆောင်မှု ("1.1.1.1") နှင့် VPN ဝန်ဆောင်မှု ("Cloudflare Warp") ကိုအသုံးပြုသည်ကိုသင်လည်းသိသည်။ မြန်မြန်! ကောင်းပြီ!” အင်တာနက်အတွေ့အကြုံသူတို့ကိုအသုံးပြုသူ၏ IP လိပ်စာ၊ browser fingerprint, cookies နှင့် RAY-ID တို့ဖြင့်ပေါင်းခြင်းဖြင့် target ၏ online profile ကိုတည်ဆောက်ရန်အသုံးဝင်ပါလိမ့်မည်။ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  မင်းက NSA မှာအလုပ်လုပ်နေတယ်ဆိုပါစို့၊ နိုင်ငံသားတိုင်းရဲ့ internet profile ကိုလိုချင်တယ်။၎င်းတို့အများစုသည် Cloudflare ကိုဆင်ခြင်တုံတရားနှင့်ယုံကြည်မှုရှိပြီး ၄ င်းတို့၏ကုမ္ပဏီဆာဗာဆက်သွယ်မှု (SSH / RDP)၊ ကိုယ်ပိုင်ဝက်ဘ်ဆိုက်၊ စကားဝိုင်းဝက်ဘ်ဆိုက်၊ ဖိုရမ်ဝက်ဘ်ဆိုက်၊ ဘဏ်ဝက်ဘ်၊ အာမခံဝက်ဘ်ဆိုက်၊ ၀ က်ဘ်ဆိုက်တစ်ခုတည်း၊ လေလံတင်ခြင်းဝက်ဘ်ဆိုက်၊ စျေးဝယ်ခြင်း၊ ဗီဒီယို ၀ က်ဘ်ဆိုက်၊ NSFW ဝက်ဘ်ဆိုက်နှင့်တရားမ ၀ င် ၀ ဘ်ဆိုဒ်များသာရှိသည်။၎င်းတို့သည်“ လုံခြုံသော!” အတွက် Cloudflare ၏ DNS ၀ န်ဆောင်မှု ("1.1.1.1") နှင့် VPN ဝန်ဆောင်မှု ("Cloudflare Warp") ကိုအသုံးပြုသည်ကိုသင်လည်းသိသည်။ မြန်မြန်! ကောင်းပြီ!” အင်တာနက်အတွေ့အကြုံသူတို့ကိုအသုံးပြုသူ၏ IP လိပ်စာ၊ browser fingerprint, cookies နှင့် RAY-ID တို့ဖြင့်ပေါင်းခြင်းဖြင့် target ၏ online profile ကိုတည်ဆောက်ရန်အသုံးဝင်ပါလိမ့်မည်။ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  သင်သည်သူတို့၏အချက်အလက်များကိုလိုချင်သည်။ မင်းဘာလုပ်မှာလဲ? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare သည်ပျားရည်ဆမ်းခရီးဖြစ်သည်။** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **လူတိုင်းအတွက်အခမဲ့ပျားရည် ကြိုးအချို့** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * အဆိုပါလက်မှတ်ဤမျှလောက်အကြိမ်ပေါင်းများစွာဖျက်ဆီးခံခဲ့ရသည်။
   * [Tor Project မှဖျက်သိမ်းသည်။](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [လက်မှတ် 34175 ကိုကြည့်ပါ။](https://trac.torproject.org/projects/tor/ticket/34175)
   * [နောက်ဆုံး archive ကိုလက်မှတ် 24351 ။](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Twitter, Facebook, Patreon, OpenCollective, Villages စသည့်ကျွန
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
