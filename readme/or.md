@@ -51,7 +51,7 @@
 |  କ୍ଲାଉଡଫ୍ଲେର୍ “କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ୱାର୍” ନାମକ ମାଗଣା VPN ସେବା ମଧ୍ୟ ପ୍ରଦାନ କରେ |ଯଦି ଆପଣ ଏହାକୁ ବ୍ୟବହାର କରନ୍ତି, ଆପଣଙ୍କର ସମସ୍ତ ସ୍ମାର୍ଟଫୋନ୍ (କିମ୍ବା ଆପଣଙ୍କ କମ୍ପ୍ୟୁଟର) ସଂଯୋଗ କ୍ଲାଉଡଫ୍ଲେର୍ ସର୍ଭରକୁ ପଠାଯାଏ |ଆପଣ କେଉଁ ୱେବସାଇଟ୍ ପ read ିଛନ୍ତି, ଆପଣ କେଉଁ ମନ୍ତବ୍ୟ ପୋଷ୍ଟ କରିଛନ୍ତି, କାହା ସହିତ କଥା ହୋଇଛନ୍ତି ଇତ୍ୟାଦି କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ଜାଣିପାରିବ |ଆପଣ ସ୍ volunt େଚ୍ଛାକୃତ ଭାବରେ ଆପଣଙ୍କର ସମସ୍ତ ସୂଚନା କ୍ଲାଉଡ୍ ଫ୍ଲାର୍କୁ ଦେଉଛନ୍ତି |ଯଦି ତୁମେ ଭାବୁଛ “ତୁମେ ଥଟ୍ଟା କରୁଛ? କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ସୁରକ୍ଷିତ ଅଛି। ” ତାପରେ ଆପଣ VPN କିପରି କାମ କରେ ତାହା ଶିଖିବା ଆବଶ୍ୟକ | | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ କହିଛନ୍ତି ଯେ ସେମାନଙ୍କର VPN ସେବା ଆପଣଙ୍କ ଇଣ୍ଟରନେଟ୍ କୁ ଶୀଘ୍ର କରିଥାଏ |କିନ୍ତୁ VPN ଆପଣଙ୍କର ଇଣ୍ଟରନେଟ୍ ସଂଯୋଗକୁ ଆପଣଙ୍କର ବିଦ୍ୟମାନ ସଂଯୋଗ ଅପେକ୍ଷା ମନ୍ଥର କରିଥାଏ | | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  PRISM ଦୁର୍ନୀତି ବିଷୟରେ ଆପଣ ହୁଏତ ଜାଣିଥିବେ |ଏହା ସତ୍ୟ ଯେ AT&T NSA କୁ ତଦାରଖ ପାଇଁ ସମସ୍ତ ଇଣ୍ଟରନେଟ୍ ତଥ୍ୟ କପି କରିବାକୁ ଦେଇଥାଏ | | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  ଧରାଯାଉ ତୁମେ NSA ରେ କାମ କରୁଛ, ଏବଂ ତୁମେ ପ୍ରତ୍ୟେକ ନାଗରିକଙ୍କ ଇଣ୍ଟରନେଟ୍ ପ୍ରୋଫାଇଲ୍ ଚାହୁଁଛ |ଆପଣ ଜାଣନ୍ତି ଯେ ସେମାନଙ୍କ ମଧ୍ୟରୁ ଅଧିକାଂଶ ଅନ୍ଧ ଭାବରେ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ଉପରେ ବିଶ୍ trust ାସ କରୁଛନ୍ତି ଏବଂ ଏହାକୁ ବ୍ୟବହାର କରୁଛନ୍ତି - କେବଳ ଗୋଟିଏ କେନ୍ଦ୍ରୀଭୂତ ଗେଟୱେ - ସେମାନଙ୍କ କମ୍ପାନୀ ସର୍ଭର ସଂଯୋଗ (SSH / RDP), ବ୍ୟକ୍ତିଗତ ୱେବସାଇଟ୍, ଚାଟ୍ ୱେବସାଇଟ୍, ଫୋରମ୍ ୱେବସାଇଟ୍, ବ୍ୟାଙ୍କ ୱେବସାଇଟ୍, ବୀମା ୱେବସାଇଟ୍, ସର୍ଚ୍ଚ ଇଞ୍ଜିନ୍, ଗୁପ୍ତ ସଦସ୍ୟ | କେବଳ ୱେବସାଇଟ୍, ନିଲାମ ୱେବସାଇଟ୍, ସପିଂ, ଭିଡିଓ ୱେବସାଇଟ୍, NSFW ୱେବସାଇଟ୍ ଏବଂ ବେଆଇନ ୱେବସାଇଟ୍ |ଆପଣ ଜାଣନ୍ତି ଯେ ସେମାନେ “ସୁରକ୍ଷିତ” ପାଇଁ କ୍ଲାଉଡଫ୍ଲେୟାରର DNS ସେବା ("1.1.1.1") ଏବଂ VPN ସେବା ("କ୍ଲାଉଡଫ୍ଲେର୍ ୱାର୍ପ") ବ୍ୟବହାର କରନ୍ତି! ଶୀଘ୍ର! ଭଲ! ” ଇଣ୍ଟରନେଟ୍ ଅଭିଜ୍ଞତା |ସେମାନଙ୍କୁ ବ୍ୟବହାରକାରୀଙ୍କ IP ଠିକଣା, ବ୍ରାଉଜର୍ ଫିଙ୍ଗର ପ୍ରିଣ୍ଟ, କୁକିଜ୍ ଏବଂ RAY-ID ସହିତ ମିଶାଇ ଟାର୍ଗେଟର ଅନଲାଇନ୍ ପ୍ରୋଫାଇଲ୍ ନିର୍ମାଣ କରିବାରେ ଉପଯୋଗୀ ହେବ | | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  ଧରାଯାଉ ତୁମେ NSA ରେ କାମ କରୁଛ, ଏବଂ ତୁମେ ପ୍ରତ୍ୟେକ ନାଗରିକଙ୍କ ଇଣ୍ଟରନେଟ୍ ପ୍ରୋଫାଇଲ୍ ଚାହୁଁଛ |ଆପଣ ଜାଣନ୍ତି ଯେ ସେମାନଙ୍କ ମଧ୍ୟରୁ ଅଧିକାଂଶ ଅନ୍ଧ ଭାବରେ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ଉପରେ ବିଶ୍ trust ାସ କରୁଛନ୍ତି ଏବଂ ଏହାକୁ ବ୍ୟବହାର କରୁଛନ୍ତି - କେବଳ ଗୋଟିଏ କେନ୍ଦ୍ରୀଭୂତ ଗେଟୱେ - ସେମାନଙ୍କ କମ୍ପାନୀ ସର୍ଭର ସଂଯୋଗ (SSH / RDP), ବ୍ୟକ୍ତିଗତ ୱେବସାଇଟ୍, ଚାଟ୍ ୱେବସାଇଟ୍, ଫୋରମ୍ ୱେବସାଇଟ୍, ବ୍ୟାଙ୍କ ୱେବସାଇଟ୍, ବୀମା ୱେବସାଇଟ୍, ସର୍ଚ୍ଚ ଇଞ୍ଜିନ୍, ଗୁପ୍ତ ସଦସ୍ୟ | କେବଳ ୱେବସାଇଟ୍, ନିଲାମ ୱେବସାଇଟ୍, ସପିଂ, ଭିଡିଓ ୱେବସାଇଟ୍, NSFW ୱେବସାଇଟ୍ ଏବଂ ବେଆଇନ ୱେବସାଇଟ୍ |ଆପଣ ଜାଣନ୍ତି ଯେ ସେମାନେ “ସୁରକ୍ଷିତ” ପାଇଁ କ୍ଲାଉଡଫ୍ଲେୟାରର DNS ସେବା ("1.1.1.1") ଏବଂ VPN ସେବା ("କ୍ଲାଉଡଫ୍ଲେର୍ ୱାର୍ପ") ବ୍ୟବହାର କରନ୍ତି! ଶୀଘ୍ର! ଭଲ! ” ଇଣ୍ଟରନେଟ୍ ଅଭିଜ୍ଞତା |ସେମାନଙ୍କୁ ବ୍ୟବହାରକାରୀଙ୍କ IP ଠିକଣା, ବ୍ରାଉଜର୍ ଫିଙ୍ଗର ପ୍ରିଣ୍ଟ, କୁକିଜ୍ ଏବଂ RAY-ID ସହିତ ମିଶାଇ ଟାର୍ଗେଟର ଅନଲାଇନ୍ ପ୍ରୋଫାଇଲ୍ ନିର୍ମାଣ କରିବାରେ ଉପଯୋଗୀ ହେବ | | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  ଆପଣ ସେମାନଙ୍କର ତଥ୍ୟ ଚାହୁଁଛନ୍ତି | ତୁମେ କଣ କରିବ? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ହେଉଛି ଏକ ହନିପଟ୍ |** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **ସମସ୍ତଙ୍କ ପାଇଁ ମାଗଣା ମହୁ | କିଛି ଷ୍ଟ୍ରିଙ୍ଗ୍ ସଂଲଗ୍ନ ହୋଇଛି |** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * ଟିକେଟ୍ ଏତେଥର ଭଙ୍ଗାରୁଜା କରାଯାଇଥିଲା।
   * [ଟୋର ପ୍ରୋଜେକ୍ଟ ଦ୍ୱାରା ଡିଲିଟ୍ ହୋଇଛି |](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ଟିକେଟ୍ 34175 ଦେଖନ୍ତୁ |](https://trac.torproject.org/projects/tor/ticket/34175)
   * [ଶେଷ ଅଭିଲେଖାଗାର ଟିକେଟ୍ 24351 |](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
