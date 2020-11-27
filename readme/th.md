@@ -51,7 +51,7 @@
 |  Cloudflare ยังมีบริการ VPN ฟรีที่เรียกว่า“ Cloudflare Warp”หากคุณใช้งานการเชื่อมต่อสมาร์ทโฟน (หรือคอมพิวเตอร์ของคุณ) ทั้งหมดจะถูกส่งไปยังเซิร์ฟเวอร์ CloudflareCloudflare สามารถรู้ได้ว่าคุณอ่านเว็บไซต์ไหนแสดงความคิดเห็นอะไรคุณเคยคุยกับใคร ฯลฯคุณสมัครใจที่จะให้ข้อมูลทั้งหมดของคุณแก่ Cloudflareถ้าคุณคิดว่า "คุณล้อเล่น? Cloudflare ปลอดภัย” คุณต้องเรียนรู้ว่า VPN ทำงานอย่างไร | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare กล่าวว่าบริการ VPN ของพวกเขาทำให้อินเทอร์เน็ตของคุณเร็วแต่ VPN ทำให้การเชื่อมต่ออินเทอร์เน็ตของคุณช้ากว่าการเชื่อมต่อที่มีอยู่ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  คุณอาจทราบแล้วเกี่ยวกับเรื่องอื้อฉาว PRISMเป็นความจริงที่ AT&T อนุญาตให้ NSA คัดลอกข้อมูลอินเทอร์เน็ตทั้งหมดเพื่อเฝ้าระวัง | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  สมมติว่าคุณทำงานที่ NSA และคุณต้องการโปรไฟล์อินเทอร์เน็ตของพลเมืองทุกคนคุณรู้ว่าพวกเขาส่วนใหญ่ไว้วางใจ Cloudflare แบบสุ่มสี่สุ่มห้าและใช้เพียงเกตเวย์ส่วนกลางเดียว - เพื่อพร็อกซีการเชื่อมต่อเซิร์ฟเวอร์ของ บริษัท (SSH / RDP) เว็บไซต์ส่วนตัวเว็บไซต์แชทเว็บไซต์ฟอรัมเว็บไซต์ธนาคารเว็บไซต์ประกันภัยเครื่องมือค้นหาสมาชิกลับ - เฉพาะเว็บไซต์เว็บไซต์ประมูลช็อปปิ้งเว็บไซต์วิดีโอเว็บไซต์ NSFW และเว็บไซต์ที่ผิดกฎหมายคุณยังรู้ด้วยว่าพวกเขาใช้บริการ DNS ของ Cloudflare ("1.1.1.1") และบริการ VPN ("Cloudflare Warp") สำหรับ "Secure! เร็วขึ้น! ดีกว่า!” ประสบการณ์อินเทอร์เน็ตการรวมเข้ากับที่อยู่ IP ของผู้ใช้ลายนิ้วมือของเบราว์เซอร์คุกกี้และ RAY-ID จะเป็นประโยชน์ในการสร้างโปรไฟล์ออนไลน์ของเป้าหมาย | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  สมมติว่าคุณทำงานที่ NSA และคุณต้องการโปรไฟล์อินเทอร์เน็ตของพลเมืองทุกคนคุณรู้ว่าพวกเขาส่วนใหญ่ไว้วางใจ Cloudflare แบบสุ่มสี่สุ่มห้าและใช้เพียงเกตเวย์ส่วนกลางเดียว - เพื่อพร็อกซีการเชื่อมต่อเซิร์ฟเวอร์ของ บริษัท (SSH / RDP) เว็บไซต์ส่วนตัวเว็บไซต์แชทเว็บไซต์ฟอรัมเว็บไซต์ธนาคารเว็บไซต์ประกันภัยเครื่องมือค้นหาสมาชิกลับ - เฉพาะเว็บไซต์เว็บไซต์ประมูลช็อปปิ้งเว็บไซต์วิดีโอเว็บไซต์ NSFW และเว็บไซต์ที่ผิดกฎหมายคุณยังรู้ด้วยว่าพวกเขาใช้บริการ DNS ของ Cloudflare ("1.1.1.1") และบริการ VPN ("Cloudflare Warp") สำหรับ "Secure! เร็วขึ้น! ดีกว่า!” ประสบการณ์อินเทอร์เน็ตการรวมเข้ากับที่อยู่ IP ของผู้ใช้ลายนิ้วมือของเบราว์เซอร์คุกกี้และ RAY-ID จะเป็นประโยชน์ในการสร้างโปรไฟล์ออนไลน์ของเป้าหมาย | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  คุณต้องการข้อมูลของพวกเขา คุณจะทำอะไร? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare เป็นหม้อน้ำผึ้ง** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **น้ำผึ้งฟรีสำหรับทุกคน บางสายที่แนบมา** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * ตั๋วถูกทำลายหลายครั้ง
   * [ถูกลบโดยโครงการ Tor](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ดูตั๋ว 34175](https://trac.torproject.org/projects/tor/ticket/34175)
   * [ตั๋วที่เก็บล่าสุด 24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Crimeflare รู้เกี่ยวกับการมีอยู่ขอ
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
