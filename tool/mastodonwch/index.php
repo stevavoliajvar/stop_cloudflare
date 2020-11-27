@@ -36,11 +36,11 @@ $count_waitask = number_format($count_waitask);
 $lastuptime = humanTiming(filemtime('/onion/sseeccrreett/data/mastodon.toot.scan'));
 $var_who = htmlspecialchars($_GET['who'], ENT_QUOTES);
 $resultHTML = '';
-if (strpos($var_who, '--') !== false)
+if (write_this_block_yourself)
 {
     $var_who = '';
 }
-if (preg_match("/write_here_yourself/", $var_who))
+if (preg_match("/write_this_block_yourself/", $var_who))
 {
     $resultHTML .= '<br><table border=1>';
     $person_a = 0;
