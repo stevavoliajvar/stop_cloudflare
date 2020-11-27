@@ -51,7 +51,7 @@
 |  கிளவுட்ஃப்ளேர் “கிளவுட்ஃப்ளேர் வார்ப்” எனப்படும் இலவச விபிஎன் சேவையையும் வழங்குகிறது.நீங்கள் அதைப் பயன்படுத்தினால், உங்கள் ஸ்மார்ட்போன் (அல்லது உங்கள் கணினி) இணைப்புகள் அனைத்தும் கிளவுட்ஃப்ளேர் சேவையகங்களுக்கு அனுப்பப்படும்.நீங்கள் எந்த வலைத்தளத்தைப் படித்தீர்கள், எந்த கருத்தை இடுகையிட்டீர்கள், யாருடன் பேசினீர்கள் போன்றவற்றை கிளவுட்ஃப்ளேர் அறிய முடியும்.உங்கள் எல்லா தகவல்களையும் கிளவுட்ஃப்ளேருக்கு தானாக முன்வந்து கொடுக்கிறீர்கள்.நீங்கள் நினைத்தால் “நீங்கள் கேலி செய்கிறீர்களா? கிளவுட்ஃப்ளேர் பாதுகாப்பானது. ” VPN எவ்வாறு செயல்படுகிறது என்பதை நீங்கள் கற்றுக் கொள்ள வேண்டும். | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  கிளவுட்ஃப்ளேர் அவர்களின் VPN சேவை உங்கள் இணையத்தை வேகமாக ஆக்குகிறது என்றார்.ஆனால் VPN உங்கள் இணைய இணைப்பை உங்கள் தற்போதைய இணைப்பை விட மெதுவாக்குகிறது. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  PRISM ஊழல் பற்றி நீங்கள் ஏற்கனவே அறிந்திருக்கலாம்.அனைத்து இணைய தரவுகளையும் கண்காணிப்புக்காக நகலெடுக்க AT&T NSA ஐ அனுமதிக்கிறது என்பது உண்மைதான். | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  நீங்கள் NSA இல் பணிபுரிகிறீர்கள் என்று சொல்லலாம், மேலும் ஒவ்வொரு குடிமகனின் இணைய சுயவிவரத்தையும் விரும்புகிறீர்கள்.அவர்களில் பெரும்பாலோர் கிளவுட்ஃப்ளேரை கண்மூடித்தனமாக நம்புகிறார்கள் மற்றும் அதைப் பயன்படுத்துகிறார்கள் - ஒரே ஒரு மையப்படுத்தப்பட்ட நுழைவாயில் - தங்கள் நிறுவனத்தின் சேவையக இணைப்பு (எஸ்எஸ்ஹெச் / ஆர்.டி.பி), தனிப்பட்ட வலைத்தளம், அரட்டை வலைத்தளம், மன்ற வலைத்தளம், வங்கி வலைத்தளம், காப்பீட்டு வலைத்தளம், தேடுபொறி, ரகசிய உறுப்பினர் -ஒரு வலைத்தளம், ஏல வலைத்தளம், ஷாப்பிங், வீடியோ வலைத்தளம், என்.எஸ்.எஃப்.டபிள்யூ வலைத்தளம் மற்றும் சட்டவிரோத வலைத்தளம்.அவர்கள் கிளவுட்ஃப்ளேரின் டிஎன்எஸ் சேவை ("1.1.1.1") மற்றும் விபிஎன் சேவை ("கிளவுட்ஃப்ளேர் வார்ப்") ஆகியவற்றை "பாதுகாப்பான!" வேகமாக! சிறந்தது! ” இணைய அனுபவம்.பயனரின் ஐபி முகவரி, உலாவி கைரேகை, குக்கீகள் மற்றும் ரே-ஐடி ஆகியவற்றுடன் அவற்றை இணைப்பது இலக்கின் ஆன்லைன் சுயவிவரத்தை உருவாக்க பயனுள்ளதாக இருக்கும். | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  நீங்கள் NSA இல் பணிபுரிகிறீர்கள் என்று சொல்லலாம், மேலும் ஒவ்வொரு குடிமகனின் இணைய சுயவிவரத்தையும் விரும்புகிறீர்கள்.அவர்களில் பெரும்பாலோர் கிளவுட்ஃப்ளேரை கண்மூடித்தனமாக நம்புகிறார்கள் மற்றும் அதைப் பயன்படுத்துகிறார்கள் - ஒரே ஒரு மையப்படுத்தப்பட்ட நுழைவாயில் - தங்கள் நிறுவனத்தின் சேவையக இணைப்பு (எஸ்எஸ்ஹெச் / ஆர்.டி.பி), தனிப்பட்ட வலைத்தளம், அரட்டை வலைத்தளம், மன்ற வலைத்தளம், வங்கி வலைத்தளம், காப்பீட்டு வலைத்தளம், தேடுபொறி, ரகசிய உறுப்பினர் -ஒரு வலைத்தளம், ஏல வலைத்தளம், ஷாப்பிங், வீடியோ வலைத்தளம், என்.எஸ்.எஃப்.டபிள்யூ வலைத்தளம் மற்றும் சட்டவிரோத வலைத்தளம்.அவர்கள் கிளவுட்ஃப்ளேரின் டிஎன்எஸ் சேவை ("1.1.1.1") மற்றும் விபிஎன் சேவை ("கிளவுட்ஃப்ளேர் வார்ப்") ஆகியவற்றை "பாதுகாப்பான!" வேகமாக! சிறந்தது! ” இணைய அனுபவம்.பயனரின் ஐபி முகவரி, உலாவி கைரேகை, குக்கீகள் மற்றும் ரே-ஐடி ஆகியவற்றுடன் அவற்றை இணைப்பது இலக்கின் ஆன்லைன் சுயவிவரத்தை உருவாக்க பயனுள்ளதாக இருக்கும். | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  அவற்றின் தரவு உங்களுக்கு வேண்டும். நீ என்ன செய்வாய்? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **கிளவுட்ஃப்ளேர் ஒரு ஹனிபாட்.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **அனைவருக்கும் இலவச தேன். சில சரங்கள் இணைக்கப்பட்டுள்ளன.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * டிக்கெட் பல முறை அழிக்கப்பட்டது.
   * [டோர் திட்டத்தால் நீக்கப்பட்டது.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [டிக்கெட் 34175 ஐக் காண்க.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [கடைசி காப்பக டிக்கெட் 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
