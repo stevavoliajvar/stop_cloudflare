@@ -51,7 +51,7 @@
 |  Cloudflare na-enyekwa ọrụ VPN efu na-akpọ "Cloudflare Warp".Ọ bụrụ n’iji ya, a na-eziga ekwentị gị niile (ma ọ bụ kọmputa gị) na sava Cloudflare.Cloudflare nwere ike ịmara webusaịsaịtị ị gụrụ, ihe ị depụtara, onye ị gwara okwu, wdg.Na-eji afọ ofufo enye Cloudflare ozi gị niile.Ọ bụrụ n’uche “Are na-achị ọchị? Cloudflare dị nchebe. ” mgbe ahụ ikwesiri imuta otu VPN si aru oru. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare kwuru na ọrụ VPN ha na-eme ka ịntanetị gị dị ngwa.Mana VPN mee ka njikọ ịntanetị gị dị nwayọ karịa njikọ gị dị. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  O nwere ike ịbụ na ị marala gbasara asịrị PRISM.Ọ bụ eziokwu na AT&T na-ahapụ NSA i copyomi data ntanetị niile maka onyunyo. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Ka anyị kwuo na ị na-arụ ọrụ na NSA, ịchọrọ profaịlụ ịntanetị nke nwa amaala ọ bụla.Knowmara na ọtụtụ n’ime ha na-atụkwasị obi Cloudflare na-eji ìsì na-eji ya eme ihe - naanị otu ọnụ ụzọ etiti - iji zighachi njikọ sava ụlọ ọrụ ha (SSH / RDP), webụsaịtị nke onwe ha, websaiti nkata, websaiti web, webụsaịtị web insurance, injin inyocha, onye otu nzuzo. webụsaịtị, websaịtị azụmaahịa, ịzụ ahịa, ebe nrụọrụ weebụ vidiyo, webụsaịtị NSFW, na weebụsaịtị na ezighi ezi.Also makwa na ha na-eji ọrụ DNS Cloudflare ("1.1.1.1") yana ọrụ VPN ("Cloudflare Warp") maka "urenọ na Nche! Ọsọ ọsọ! Nke ka mma! ” ahụmịhe intaneti.Jikọta ha na adreesị IP nke onye ọrụ, akara mkpịsị aka nyocha, kuki na RAY-ID ga-aba uru iji wuo profaịlụ nke ntanetị nke iche. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Ka anyị kwuo na ị na-arụ ọrụ na NSA, ịchọrọ profaịlụ ịntanetị nke nwa amaala ọ bụla.Knowmara na ọtụtụ n’ime ha na-atụkwasị obi Cloudflare na-eji ìsì na-eji ya eme ihe - naanị otu ọnụ ụzọ etiti - iji zighachi njikọ sava ụlọ ọrụ ha (SSH / RDP), webụsaịtị nke onwe ha, websaiti nkata, websaiti web, webụsaịtị web insurance, injin inyocha, onye otu nzuzo. webụsaịtị, websaịtị azụmaahịa, ịzụ ahịa, ebe nrụọrụ weebụ vidiyo, webụsaịtị NSFW, na weebụsaịtị na ezighi ezi.Also makwa na ha na-eji ọrụ DNS Cloudflare ("1.1.1.1") yana ọrụ VPN ("Cloudflare Warp") maka "urenọ na Nche! Ọsọ ọsọ! Nke ka mma! ” ahụmịhe intaneti.Jikọta ha na adreesị IP nke onye ọrụ, akara mkpịsị aka nyocha, kuki na RAY-ID ga-aba uru iji wuo profaịlụ nke ntanetị nke iche. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Chọrọ data ha. Kedu ihe ị ga-eme? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare bụ mmanụ a honeyụ.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Mmanụ a honeyụ na-akwụghị ụgwọ maka mmadụ niile. Stfọdụ eriri.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Ebe a bụ ndepụta nke weebụsaịtị dị n'azụ "The Great Cloudwall", na
   * Tiketi tiketi ahụ mebiri ọtụtụ oge.
   * [Ndi Tor Torhapụrụ ya.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Lee tiketi 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tiketi ebe nde azụ 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Anyị anaghị ajụ ndị mgbasa ozi na-elekọta gị.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
