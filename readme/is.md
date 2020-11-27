@@ -51,7 +51,7 @@
 |  Cloudflare býður einnig upp á ÓKEYPIS VPN þjónustu sem kallast „Cloudflare Warp“.Ef þú notar það eru allar snjallsímatengingar þínar (eða tölvurnar þínar) sendar til Cloudflare netþjóna.Cloudflare getur vitað hvaða vefsíðu þú hefur lesið, hvaða athugasemd þú hefur sent frá, hver þú hefur talað við o.s.frv.Þú ert sjálfviljugur og gefur allar upplýsingar þínar til Cloudflare.Ef þú hugsar „Ertu að grínast? Cloudflare er öruggt. “ þá þarftu að læra hvernig VPN virkar. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare sagði VPN þjónustu sína gera internetið þitt hratt.En VPN gerir internet tenginguna þína hægari en núverandi tenging. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Þú gætir nú þegar vitað um PRISM hneykslið.Það er rétt að AT&T lætur NSA afrita öll internetgögn til eftirlits. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Segjum sem svo að þú sért að vinna hjá NSA og þú viljir netsnið hvers borgara.Þú veist að flestir treysta Cloudblare í blindni og nota það - aðeins ein miðlæg hlið - til að umboð fyrirtækjamiðlara tengingu þeirra (SSH / RDP), persónuleg vefsíða, spjallvefsíða, spjallvefsíða, bankavefsíða, tryggingarvefsíða, leitarvél, leynilegur félagi -eina vefsíðu, uppboðsvef, verslun, vídeóvef, NSFW vefsíða og ólögleg vefsíða.Þú veist líka að þeir nota DNS-þjónustu Cloudflare („1.1.1.1“) og VPN-þjónustu („Cloudflare Warp“) fyrir „Secure! Hraðari! Betra! “ internetupplifun.Samsetning þeirra með IP-tölu notandans, fingrafar vafra, smákökur og RAY-ID mun vera gagnlegt til að búa til netsnið markmiðsins. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Segjum sem svo að þú sért að vinna hjá NSA og þú viljir netsnið hvers borgara.Þú veist að flestir treysta Cloudblare í blindni og nota það - aðeins ein miðlæg hlið - til að umboð fyrirtækjamiðlara tengingu þeirra (SSH / RDP), persónuleg vefsíða, spjallvefsíða, spjallvefsíða, bankavefsíða, tryggingarvefsíða, leitarvél, leynilegur félagi -eina vefsíðu, uppboðsvef, verslun, vídeóvef, NSFW vefsíða og ólögleg vefsíða.Þú veist líka að þeir nota DNS-þjónustu Cloudflare („1.1.1.1“) og VPN-þjónustu („Cloudflare Warp“) fyrir „Secure! Hraðari! Betra! “ internetupplifun.Samsetning þeirra með IP-tölu notandans, fingrafar vafra, smákökur og RAY-ID mun vera gagnlegt til að búa til netsnið markmiðsins. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Þú vilt fá gögn þeirra. Hvað muntu gera? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare er honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Ókeypis elskan fyrir alla. Nokkrir strengir fylgja.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * Miðinn var skemmdur svo oft.
   * [Eytt af Tor verkefninu.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Sjá miða 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Síðasti skjalasafn 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Við spyrjum aldrei samfélagsmiðla þína.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
