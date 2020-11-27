@@ -51,7 +51,7 @@
 |  クラウドフレアは「クラウドフレアWarp」と呼ばれる無料のVPNサービスも提供しています。これを使用すると、すべてのスマートフォン（またはコンピューター）の接続がクラウドフレアサーバーに送信されます。クラウドフレアは、あなたが読んだWebサイト、投稿したコメント、誰と話したかなどを知っています。あなたはクラウドフレアにすべての情報を自発的に提供しています。「ご冗談を、クラウドフレアは安全です。」というのなら、VPNがどのように機能するかを学ぶべきです。 | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  クラウドフレアは、VPNサービスによってインターネットが高速になると述べています。ただし、VPNを使用すると、インターネット接続が既存の接続よりも遅くなります。 | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  あなたはすでにPRISM事件について知っているかもしれません。AT＆TがNSAに監視のためにすべてのインターネットデータをコピーさせたのは事実です。 | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  ここであなたがNSAで働いていて、すべての市民のインターネットプロファイルが欲しいと思ったとします。あなたは彼らのほとんどがクラウドフレアを盲目的に信頼し、それを使用して、個人のウェブサイト、チャットサイト、フォーラムサイト、銀行のウェブサイト、保険のウェブサイト、検索エンジン、秘密のメンバー専用サイト、オークションウェブサイト、ショッピング、ビデオサイト、１８禁ウェブサイト、違法ウェブサイトなどを読んでいることを知っています。また、クラウドフレアのDNSサービス（「1.1.1.1」）とVPNサービス（「クラウドフレアWarp」）を「Secure！もっと早く！より良い！」インターネット体験のために使っていることも知っています。それらをユーザーのIPアドレス、ブラウザの指紋、Cookie、およびRAY-IDと組み合わせることは、ターゲットのオンラインプロファイルを構築するのにとても役立ちそうです。 | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  ここであなたがNSAで働いていて、すべての市民のインターネットプロファイルが欲しいと思ったとします。あなたは彼らのほとんどがクラウドフレアを盲目的に信頼し、それを使用して、個人のウェブサイト、チャットサイト、フォーラムサイト、銀行のウェブサイト、保険のウェブサイト、検索エンジン、秘密のメンバー専用サイト、オークションウェブサイト、ショッピング、ビデオサイト、１８禁ウェブサイト、違法ウェブサイトなどを読んでいることを知っています。また、クラウドフレアのDNSサービス（「1.1.1.1」）とVPNサービス（「クラウドフレアWarp」）を「Secure！もっと早く！より良い！」インターネット体験のために使っていることも知っています。それらをユーザーのIPアドレス、ブラウザの指紋、Cookie、およびRAY-IDと組み合わせることは、ターゲットのオンラインプロファイルを構築するのにとても役立ちそうです。 | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  あなたは彼らのデータが欲しいと思いました。さて、何をしますか？ | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **クラウドフレアはハニーポットです。** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **みんなに無料の蜂蜜を。いくつか条件が付いています。** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * チケットは何度も荒らしによって妨害されました。
   * [Torプロジェクトによって削除されました。](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [チケット34175を参照してください。](https://trac.torproject.org/projects/tor/ticket/34175)
   * [最後のアーカイブチケット24351。](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Crimeflareは、Twitter、Facebook、Patreon、OpenCollective、Villagesなど�
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
