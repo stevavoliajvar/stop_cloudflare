@@ -51,7 +51,7 @@
 |  క్లౌడ్‌ఫ్లేర్ “క్లౌడ్‌ఫ్లేర్ వార్ప్” అని పిలువబడే ఉచిత VPN సేవను కూడా అందిస్తుంది.మీరు దీన్ని ఉపయోగిస్తే, మీ అన్ని స్మార్ట్‌ఫోన్ (లేదా మీ కంప్యూటర్) కనెక్షన్‌లు క్లౌడ్‌ఫ్లేర్ సర్వర్‌లకు పంపబడతాయి.క్లౌడ్‌ఫ్లేర్ మీరు ఏ వెబ్‌సైట్ చదివారు, మీరు ఏ వ్యాఖ్యను పోస్ట్ చేసారు, ఎవరితో మాట్లాడారు మొదలైనవాటిని తెలుసుకోవచ్చు.మీరు మీ సమాచారాన్ని క్లౌడ్‌ఫ్లేర్‌కు స్వచ్ఛందంగా ఇస్తున్నారు.మీరు అనుకుంటే “మీరు హాస్యమాడుతున్నారా? క్లౌడ్‌ఫ్లేర్ సురక్షితం. ” VPN ఎలా పనిచేస్తుందో మీరు నేర్చుకోవాలి. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  క్లౌడ్‌ఫ్లేర్ వారి VPN సేవ మీ ఇంటర్నెట్‌ను వేగంగా చేస్తుంది అన్నారు.కానీ VPN మీ ఇంటర్నెట్ కనెక్షన్‌ను మీ ప్రస్తుత కనెక్షన్ కంటే నెమ్మదిగా చేస్తుంది. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  ప్రిస్మ్ కుంభకోణం గురించి మీకు ఇప్పటికే తెలిసి ఉండవచ్చు.AT&T నిఘా కోసం అన్ని ఇంటర్నెట్ డేటాను కాపీ చేయడానికి NSA ని అనుమతిస్తుంది. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  మీరు NSA లో పనిచేస్తున్నారని చెప్పండి మరియు ప్రతి పౌరుడి ఇంటర్నెట్ ప్రొఫైల్ మీకు కావాలి.వారి కంపెనీ సర్వర్ కనెక్షన్ (ఎస్‌ఎస్‌హెచ్ / ఆర్డిపి), వ్యక్తిగత వెబ్‌సైట్, చాట్ వెబ్‌సైట్, ఫోరమ్ వెబ్‌సైట్, బ్యాంక్ వెబ్‌సైట్, ఇన్సూరెన్స్ వెబ్‌సైట్, సెర్చ్ ఇంజన్, సీక్రెట్ మెంబర్ -ఒక వెబ్‌సైట్, వేలం వెబ్‌సైట్, షాపింగ్, వీడియో వెబ్‌సైట్, ఎన్‌ఎస్‌ఎఫ్‌డబ్ల్యు వెబ్‌సైట్ మరియు అక్రమ వెబ్‌సైట్.వారు “సురక్షితం!” కోసం క్లౌడ్‌ఫ్లేర్ యొక్క DNS సేవ ("1.1.1.1") మరియు VPN సేవ ("క్లౌడ్‌ఫ్లేర్ వార్ప్") ను ఉపయోగిస్తున్నారని మీకు తెలుసు. వేగంగా! మంచి!" ఇంటర్నెట్ అనుభవం.వినియోగదారు యొక్క IP చిరునామా, బ్రౌజర్ వేలిముద్ర, కుకీలు మరియు RAY-ID లతో వాటిని కలపడం లక్ష్యం యొక్క ఆన్‌లైన్ ప్రొఫైల్‌ను రూపొందించడానికి ఉపయోగపడుతుంది. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  మీరు NSA లో పనిచేస్తున్నారని చెప్పండి మరియు ప్రతి పౌరుడి ఇంటర్నెట్ ప్రొఫైల్ మీకు కావాలి.వారి కంపెనీ సర్వర్ కనెక్షన్ (ఎస్‌ఎస్‌హెచ్ / ఆర్డిపి), వ్యక్తిగత వెబ్‌సైట్, చాట్ వెబ్‌సైట్, ఫోరమ్ వెబ్‌సైట్, బ్యాంక్ వెబ్‌సైట్, ఇన్సూరెన్స్ వెబ్‌సైట్, సెర్చ్ ఇంజన్, సీక్రెట్ మెంబర్ -ఒక వెబ్‌సైట్, వేలం వెబ్‌సైట్, షాపింగ్, వీడియో వెబ్‌సైట్, ఎన్‌ఎస్‌ఎఫ్‌డబ్ల్యు వెబ్‌సైట్ మరియు అక్రమ వెబ్‌సైట్.వారు “సురక్షితం!” కోసం క్లౌడ్‌ఫ్లేర్ యొక్క DNS సేవ ("1.1.1.1") మరియు VPN సేవ ("క్లౌడ్‌ఫ్లేర్ వార్ప్") ను ఉపయోగిస్తున్నారని మీకు తెలుసు. వేగంగా! మంచి!" ఇంటర్నెట్ అనుభవం.వినియోగదారు యొక్క IP చిరునామా, బ్రౌజర్ వేలిముద్ర, కుకీలు మరియు RAY-ID లతో వాటిని కలపడం లక్ష్యం యొక్క ఆన్‌లైన్ ప్రొఫైల్‌ను రూపొందించడానికి ఉపయోగపడుతుంది. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  మీకు వారి డేటా కావాలి. నువ్వు ఏమి చేస్తావు? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **క్లౌడ్‌ఫ్లేర్ ఒక హనీపాట్.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **అందరికీ ఉచిత తేనె. కొన్ని తీగలను జత చేశారు.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * టికెట్ చాలాసార్లు ధ్వంసం చేయబడింది.
   * [టోర్ ప్రాజెక్ట్ చేత తొలగించబడింది.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [టికెట్ 34175 చూడండి.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [చివరి ఆర్కైవ్ టికెట్ 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
