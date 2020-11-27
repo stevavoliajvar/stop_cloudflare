@@ -51,7 +51,7 @@
 |  Cloudflare pia hutoa huduma ya BURE ya VPN inayoitwa "Cloudflare Warp".Ikiwa utatumia, unganisho lako wote (au kompyuta yako) hutumwa kwa seva za Cloudflare.Cloudflare anaweza kujua ni tovuti gani uliyosoma, ni maoni gani ambayo umechapisha, ambaye umezungumza naye, nk.Unajitolea kutoa habari yako yote kwa Cloudflare.Ikiwa unafikiria "Je! Wewe ni utani? Cloudflare iko salama. " basi unahitaji kujifunza jinsi VPN inavyofanya kazi. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare alisema huduma yao ya VPN hufanya mtandao wako haraka.Lakini VPN hufanya muunganisho wako wa mtandao polepole kuliko muunganisho wako uliopo. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Unaweza kuwa tayari unajua juu ya kashfa ya PRISM.Ni kweli kwamba AT&T inaruhusu NSA kunakili data zote za mtandao za uchunguzi. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Acha tuseme unafanya kazi katika NSA, na unataka wasifu wa mtandao wa kila raia.Unajua wengi wao wanaiamini kwa upofu Cloudflare na kuitumia - lango moja tu la kati - kuwakubali muunganisho wa seva ya kampuni yao (SSH / RDP), tovuti ya kibinafsi, tovuti ya mazungumzo, tovuti ya jukwaa, wavuti ya benki, wavuti ya bima, injini ya utaftaji, mjumbe wa siri Tovuti pekee, tovuti ya mnada, ununuzi, tovuti ya video, tovuti ya NSFW, na wavuti haramu.Unajua pia kutumia huduma ya Cloudflare's DNS ("1.1.1.1") na huduma ya VPN ("Cloudflare Warp") kwa "Salama! Haraka! Afadhali! " uzoefu wa mtandao.Kuwaunganisha na anwani ya IP ya mtumiaji, vidole vya vidakuzi, kuki na kitambulisho cha RAY itakuwa muhimu kujenga wasifu wa mkondoni wa lengo. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Acha tuseme unafanya kazi katika NSA, na unataka wasifu wa mtandao wa kila raia.Unajua wengi wao wanaiamini kwa upofu Cloudflare na kuitumia - lango moja tu la kati - kuwakubali muunganisho wa seva ya kampuni yao (SSH / RDP), tovuti ya kibinafsi, tovuti ya mazungumzo, tovuti ya jukwaa, wavuti ya benki, wavuti ya bima, injini ya utaftaji, mjumbe wa siri Tovuti pekee, tovuti ya mnada, ununuzi, tovuti ya video, tovuti ya NSFW, na wavuti haramu.Unajua pia kutumia huduma ya Cloudflare's DNS ("1.1.1.1") na huduma ya VPN ("Cloudflare Warp") kwa "Salama! Haraka! Afadhali! " uzoefu wa mtandao.Kuwaunganisha na anwani ya IP ya mtumiaji, vidole vya vidakuzi, kuki na kitambulisho cha RAY itakuwa muhimu kujenga wasifu wa mkondoni wa lengo. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Unataka data zao. Utafanya nini? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare ni supu ya asali.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Asali ya bure kwa kila mtu. Kamba kadhaa zilizowekwa.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "Cloudwall Kubwa", zinazuia wa
   * Tikiti iliharibiwa mara nyingi.
   * [Imefutwa na Mradi wa Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Tazama tikiti 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tikiti ya mwisho ya jalada 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Hatuwahi kuuliza media yako ya kijamii.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
