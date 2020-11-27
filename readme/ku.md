@@ -51,7 +51,7 @@
 |  Cloudflare di heman demê de karûbarê VPN FELAV bi navê "Cloudflare Warp" pêşkêşî dike.Heke hûn wê bikar tînin, hemî pêwendiyên smartphone (an komputera we) ji bo serverên Cloudflare têne şandin.Cloudflare dikare bi kîjan malperê hûn bixwînin, bi kîjan şîroveya ku we şand, hûn bi kî re bi wan re axaftin, hwd zanibin.Hûn dilxwazî ​​hemî agahdariya xwe ji Cloudflare re didin.Heke hûn difikirin “Ma hûn şok dikin? Cloudflare ewle ye. " hingê hûn hewce ne ku fêr bibin ka VPN çawa dixebite. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare got ku karûbarê wan VPN zûtirîn înternetê dike.Lê VPN têkiliya xwe ya înternetê ji ya girêdana weya heyî hêdî hêdî dike. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Dibe ku hûn berê di derbarê skandala PRISM de dizanin.Rast e ku AT&T dihêle NSA ku hemî daneyên internetnternetê ji bo çavdêriyê kopî bike. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Ka em bêjin hûn li NSA kar dikin, û hûn profîla internetnternetê ya her welatî dixwazin.Hûn dizanin piraniya wan bi Cloudflare-yê bawer dikin û ew bikar tînin - tenê yek deriyek navendî - ji bo girêdana serverê ya pargîdaniya wan (SSH / RDP), malperê kesane, malpera chat, malpera forumê, malperê bankê, malperê bîmeyê, motora lêgerînê, endamê veşartî. Malpera yekane, malpera ankand, kirînê, malpera vîdyoyê, malpera NSFW, û malpera neqanûnî.Hûn jî dizanin ku ew karûbarê DNS ya Cloudflare ("1.1.1.1") û karûbarê VPN ("Cloudflare Warp") ji bo "Ewlehî! Zûtir! Baştir!" ezmûna înternetê.Bihevxistina wan bi navnîşana IP-ya bikarhêner, şîfreya tilikê, cookies û RAY-ID dê ji bo avakirina profîla serhêl a kêrhatî be. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Ka em bêjin hûn li NSA kar dikin, û hûn profîla internetnternetê ya her welatî dixwazin.Hûn dizanin piraniya wan bi Cloudflare-yê bawer dikin û ew bikar tînin - tenê yek deriyek navendî - ji bo girêdana serverê ya pargîdaniya wan (SSH / RDP), malperê kesane, malpera chat, malpera forumê, malperê bankê, malperê bîmeyê, motora lêgerînê, endamê veşartî. Malpera yekane, malpera ankand, kirînê, malpera vîdyoyê, malpera NSFW, û malpera neqanûnî.Hûn jî dizanin ku ew karûbarê DNS ya Cloudflare ("1.1.1.1") û karûbarê VPN ("Cloudflare Warp") ji bo "Ewlehî! Zûtir! Baştir!" ezmûna înternetê.Bihevxistina wan bi navnîşana IP-ya bikarhêner, şîfreya tilikê, cookies û RAY-ID dê ji bo avakirina profîla serhêl a kêrhatî be. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Hûn daneyên wan dixwazin. Tu ê çi bikî? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare honandî ye.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Belaş ji bo herkesî. Hin stûnên pêve çêdibin.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Vê repoya navnîşek malperên ku li paş "The Cloudwall mezin" in, rawestandin
   * Bilêt çend car hate taloqkirin.
   * [Ji hêla Projeya Tor ve hate jêbirin.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Bilêtê 34175 binihêrin.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Bilêta arşîvê ya paşîn 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Em tu carî ji medyaya civakî ya we dipirsin.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
