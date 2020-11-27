@@ -51,7 +51,7 @@
 |  Cloudflare biedt ek FERGESE VPN-tsjinst neamd "Cloudflare Warp".As jo ​​it brûke, wurde al jo smartphone (as jo kompjûter) ferbinings stjoerd nei Cloudflare-servers.Cloudflare kin witte hokker webside jo hawwe lêzen, hokker kommentaar jo hawwe pleatst, mei wa't jo hawwe praat, ensfh.Jo binne frijwillich it jaan fan al jo ynformaasje oan Cloudflare.As jo ​​tinke "Binne jo grapke? Cloudflare is feilich. ” dan moatte jo leare hoe't VPN wurket. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare sei dat har VPN-tsjinst jo ynternet snel makket.Mar VPN meitsje jo ynternetferbining stadiger dan jo besteande ferbining. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Jo kinne miskien al witte oer it PRISM-skandaal.It is wier dat AT&T NSA alle ynternetgegevens kopieart foar tafersjoch. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Litte we sizze dat jo wurkje by de NSA, en jo wolle it ynternetprofyl fan elke boarger hawwe.Jo wite dat de measte fan harren blyn Cloudflare fertrouwe en it brûke - mar ien sintralisearre gateway - om har bedriuwsserverferbining (SSH / RDP) te proxy, persoanlike webside, petearwebside, forumwebsite, bankwebside, fersekeringswebside, sykmasjine, geheime lid -only website, Auction website, shopping, video website, NSFW website, en yllegale webside.Jo wite ek dat se de DNS-tsjinst fan Cloudflare ("1.1.1.1") en VPN-tsjinst ("Cloudflare Warp") brûke foar "Feilich! Faster! Better!" ynternetûnderfining.Kombinearje se mei it IP-adres fan 'e brûker, fingeravdruk fan' e browser, cookies en RAY-ID sil nuttich wêze om it online profyl fan it doel te bouwen. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Litte we sizze dat jo wurkje by de NSA, en jo wolle it ynternetprofyl fan elke boarger hawwe.Jo wite dat de measte fan harren blyn Cloudflare fertrouwe en it brûke - mar ien sintralisearre gateway - om har bedriuwsserverferbining (SSH / RDP) te proxy, persoanlike webside, petearwebside, forumwebsite, bankwebside, fersekeringswebside, sykmasjine, geheime lid -only website, Auction website, shopping, video website, NSFW website, en yllegale webside.Jo wite ek dat se de DNS-tsjinst fan Cloudflare ("1.1.1.1") en VPN-tsjinst ("Cloudflare Warp") brûke foar "Feilich! Faster! Better!" ynternetûnderfining.Kombinearje se mei it IP-adres fan 'e brûker, fingeravdruk fan' e browser, cookies en RAY-ID sil nuttich wêze om it online profyl fan it doel te bouwen. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Jo wolle har gegevens. Wat silst dwaan? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare is in honeypot.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Fergees huning foar elkenien. Guon snaren taheakke.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
   * It kaartsje waard safolle kearen fandaliseare.
   * [Ferwidere troch it Tor-projekt.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Sjoch ticket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Lêste argyfkaart 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Wy freegje jo sosjale media noait.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
