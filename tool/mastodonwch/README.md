@@ -1,6 +1,9 @@
 ### Shared on Mastodon
 
-Who is sharing most Cloudflare links to other people? Please stop it already.
+Who is sharing most Cloudflare links to other people?
+Oh, it's you?
+
+Congratulations, you are ranked in the top 50 of...
 
 
 ### Database
