@@ -51,7 +51,7 @@
 |  Cloudflare kuma suna ba da sabis na VPN kyauta wanda ake kira "Cloudflare Warp".Idan kun yi amfani da shi, duk haɗin wayar ku (ko kwamfutarka) ana aika su zuwa sabbin Cloudflare.Cloudflare na iya sanin gidan yanar gizon da ka karanta, wane bayani aka ɗora, wanda ka yi magana da shi, da dai sauransu.Kuna da yardar rai ne ku ba da duk bayananku don Cloudflare.Idan kunyi tunanin "Shin kuna dariya? Cloudflare amintacce ne. ” sannan kuna buƙatar koyon yadda VPN ke aiki. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare ya ce hidimarsu ta VPN ta sa intanet dinku da sauri.Amma VPN sa haɗin intanet dinku a hankali fiye da haɗin haɗin ku. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Wataƙila kun riga kun san labarin abin kunya na PRISM.Gaskiya ne cewa AT&T yana ba NSA damar kwafa duk bayanan intanet don sa ido. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Bari mu ce kuna aiki a NSA, kuma kuna son duk bayanan intanet na kowane ɗan ƙasa.Ka san mafi yawansu suna makanta da Cloudflare da makanta kuma suna amfani da shi - ƙwararrun ƙofa guda ɗaya - don wakili haɗin haɗin uwar garken kamfanin su (SSH / RDP), gidan yanar gizon sirri, gidan yanar gizon tattaunawa, gidan yanar gizon dandalin banki, gidan yanar gizon inshora, injin bincike, membobin asirin -nikan yanar gizo, gidan yanar gizo na tallace-tallace, sayayya, gidan yanar gizon bidiyo, gidan yanar gizon NSFW, da yanar gizo ba bisa ƙa'ida ba.Hakanan ka san cewa suna amfani da sabis ɗin DNS na Cloudflare ("1.1.1.1") da sabis na VPN ("Cloudflare Warp") don "Amintaccen! Yayi sauri! Mafi kyau! ” kwarewar intanet.Haɗa su da adireshin IP na mai amfani, sawun yatsa, kukis da RAY-ID za su kasance da amfani don gina bayanin martaba na kan layi. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Bari mu ce kuna aiki a NSA, kuma kuna son duk bayanan intanet na kowane ɗan ƙasa.Ka san mafi yawansu suna makanta da Cloudflare da makanta kuma suna amfani da shi - ƙwararrun ƙofa guda ɗaya - don wakili haɗin haɗin uwar garken kamfanin su (SSH / RDP), gidan yanar gizon sirri, gidan yanar gizon tattaunawa, gidan yanar gizon dandalin banki, gidan yanar gizon inshora, injin bincike, membobin asirin -nikan yanar gizo, gidan yanar gizo na tallace-tallace, sayayya, gidan yanar gizon bidiyo, gidan yanar gizon NSFW, da yanar gizo ba bisa ƙa'ida ba.Hakanan ka san cewa suna amfani da sabis ɗin DNS na Cloudflare ("1.1.1.1") da sabis na VPN ("Cloudflare Warp") don "Amintaccen! Yayi sauri! Mafi kyau! ” kwarewar intanet.Haɗa su da adireshin IP na mai amfani, sawun yatsa, kukis da RAY-ID za su kasance da amfani don gina bayanin martaba na kan layi. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Kuna son bayanan su. Me za ki yi? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare shine giyar zuma.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Free zuma ga kowa. Wasu kirtani a haɗe.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Wannan wurin ajiyar kaya akwai jerin rukunin yanar gizon da ke bayan "Babban Clo
   * An lalata tikiti sau da yawa.
   * [Rage aikin Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Duba tikiti 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tikitin tarihi na ƙarshe 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Ba mu taɓa tambayar kafofin watsa labarunku ba.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
