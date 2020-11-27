@@ -51,7 +51,7 @@
 |  Cloudflare també ofereix un servei de VPN GRATU calledT, anomenat "Cloudflare Warp".Si l’utilitzeu, totes les connexions del vostre telèfon intel·ligent (o del vostre ordinador) s’envien als servidors de Cloudflare.Cloudflare pot saber en quin lloc web heu llegit, quin comentari heu publicat, amb qui heu parlat, etc.Esteu donant voluntàriament tota la vostra informació a Cloudflare.Si penses “estàs fent broma? Cloudflare és segur. " llavors heu d’aprendre com funciona la VPN. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare va dir que el seu servei VPN fa que la vostra xarxa sigui ràpida.Però la VPN fa que la vostra connexió a Internet sigui més lenta que la vostra connexió existent. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  Potser ja sabreu sobre l’escàndol PRISM.És cert que AT&T permet a NSA copiar totes les dades d’internet per a la seva vigilància. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Diguem que treballes a l’NSA i que desitges el perfil d’internet de cada ciutadà.Sabeu que la majoria d’ells confien cegament en Cloudflare i l’utilitzen (només una passarel·la centralitzada) per fer referència a la connexió del servidor de la seva empresa (SSH / RDP), lloc web personal, lloc web de xat, lloc web del fòrum, lloc web del banc, lloc web d’assegurances, motor de cerca, membre secret -un lloc web únic, lloc web de subhastes, compres, lloc web de vídeos, lloc web NSFW i lloc web il·legals.També sabeu que utilitzen el servei DNS de Cloudflare ("1.1.1.1") i el servei VPN ("Cloudflare Warp") per a "Secure! Més ràpid! Millor!" experiència a Internet.Si es combinen amb l’adreça IP de l’usuari, l’empremta digital del navegador, les cookies i el RAY-ID, serà útil per crear el perfil en línia del destinatari. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  Diguem que treballes a l’NSA i que desitges el perfil d’internet de cada ciutadà.Sabeu que la majoria d’ells confien cegament en Cloudflare i l’utilitzen (només una passarel·la centralitzada) per fer referència a la connexió del servidor de la seva empresa (SSH / RDP), lloc web personal, lloc web de xat, lloc web del fòrum, lloc web del banc, lloc web d’assegurances, motor de cerca, membre secret -un lloc web únic, lloc web de subhastes, compres, lloc web de vídeos, lloc web NSFW i lloc web il·legals.També sabeu que utilitzen el servei DNS de Cloudflare ("1.1.1.1") i el servei VPN ("Cloudflare Warp") per a "Secure! Més ràpid! Millor!" experiència a Internet.Si es combinen amb l’adreça IP de l’usuari, l’empremta digital del navegador, les cookies i el RAY-ID, serà útil per crear el perfil en línia del destinatari. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  Vostè vol les seves dades. Què faràs? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare és un punt mel.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **Mel gratis per a tothom. Algunes cadenes enganxades.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
   * El bitllet va ser vandalitzat tantes vegades.
   * [Suprimit pel Projecte Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Veure el bitllet 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Últim bitllet d’arxiu 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Mai preguntem als vostres mitjans de comunicació social.**
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
