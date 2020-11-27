@@ -51,7 +51,7 @@
 |  Cloudflare ຍັງໃຫ້ບໍລິການ VPN ຟຣີທີ່ເອີ້ນວ່າ“ Cloudflare Warp”.ຖ້າທ່ານໃຊ້ມັນ, ການເຊື່ອມຕໍ່ໂທລະສັບສະຫຼາດທັງ ໝົດ (ຫລືຄອມພິວເຕີ້ຂອງທ່ານ) ຈະຖືກສົ່ງໄປຫາເຄື່ອງແມ່ຂ່າຍ Cloudflare.Cloudflare ສາມາດຮູ້ວ່າເວບໄຊທ໌ໃດທີ່ທ່ານໄດ້ອ່ານ, ທ່ານໄດ້ລົງໂຄສະນາ ຄຳ ເຫັນຫຍັງ, ໃຜທີ່ທ່ານໄດ້ລົມ ນຳ, ແລະອື່ນໆ.ທ່ານມີຄວາມສະ ໝັກ ໃຈໃຫ້ຂໍ້ມູນທັງ ໝົດ ຂອງທ່ານໃຫ້ Cloudflare.ຖ້າເຈົ້າຄິດວ່າ“ ເຈົ້າເວົ້າຕະຫລົກບໍ? Cloudflare ແມ່ນປອດໄພ.” ຫຼັງຈາກນັ້ນທ່ານ ຈຳ ເປັນຕ້ອງຮຽນຮູ້ວ່າ VPN ເຮັດວຽກແນວໃດ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  Cloudflare ກ່າວວ່າການບໍລິການ VPN ຂອງພວກເຂົາເຮັດໃຫ້ອິນເຕີເນັດຂອງທ່ານໄວ.ແຕ່ VPN ເຮັດໃຫ້ການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານຊ້າກ່ວາການເຊື່ອມຕໍ່ທີ່ມີຢູ່ຂອງທ່ານ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  ທ່ານອາດຈະຮູ້ແລ້ວກ່ຽວກັບກະທູ້ PRISM.ມັນເປັນຄວາມຈິງທີ່ວ່າ AT&T ສາມາດເຮັດໃຫ້ NSA ຄັດລອກຂໍ້ມູນອິນເຕີເນັດທັງ ໝົດ ເພື່ອການເຝົ້າລະວັງ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  ໃຫ້ເວົ້າວ່າທ່ານ ກຳ ລັງເຮັດວຽກຢູ່ NSA, ແລະທ່ານຕ້ອງການຂໍ້ມູນອິນເຕີເນັດຂອງພົນລະເມືອງທຸກຄົນ.ທ່ານຮູ້ບໍ່ວ່າພວກເຂົາສ່ວນໃຫຍ່ແມ່ນມີຄວາມໄວ້ວາງໃຈໃນ Cloudflare ແລະໃຊ້ມັນ - ມີພຽງປະຕູດຽວທີ່ເປັນສູນກາງ - ເພື່ອເປັນຕົວແທນການເຊື່ອມຕໍ່ເຊີຟເວີຂອງບໍລິສັດຂອງພວກເຂົາ (SSH / RDP), ເວບໄຊທ໌ສ່ວນຕົວ, ເວບໄຊທ໌ສົນທະນາ, ເວບໄຊທ໌ເວບໄຊທ໌, ເວບໄຊທ໌ທະນາຄານ, ເວັບໄຊທ໌ປະກັນໄພ, ເຄື່ອງຈັກຊອກຫາ, ສະມາຊິກລັບ - ເວບໄຊທ໌ດຽວ, ເວບໄຊທ໌ການປະມູນ, ການຄ້າ, ເວບໄຊທ໌ວິດີໂອ, ເວບໄຊທ໌ NSFW, ແລະເວບໄຊທ໌ທີ່ຜິດກົດ ໝາຍ.ທ່ານຍັງຮູ້ອີກວ່າພວກເຂົາໃຊ້ບໍລິການ DNS ຂອງ Cloudflare ("1.1.1.1") ແລະບໍລິການ VPN ("Cloudflare Warp") ສຳ ລັບ "ປອດໄພ! ໄວກວ່າ! ດີກວ່າ!” ປະສົບການທາງອິນເຕີເນັດ.ການສົມທົບພວກມັນກັບທີ່ຢູ່ IP ຂອງຜູ້ໃຊ້, ລາຍນິ້ວມືຂອງໂປແກຼມທ່ອງເວັບ, cookies ແລະ RAY-ID ຈະເປັນປະໂຫຍດໃນການສ້າງໂປຼໄຟລ໌ online ຂອງເປົ້າ ໝາຍ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  ໃຫ້ເວົ້າວ່າທ່ານ ກຳ ລັງເຮັດວຽກຢູ່ NSA, ແລະທ່ານຕ້ອງການຂໍ້ມູນອິນເຕີເນັດຂອງພົນລະເມືອງທຸກຄົນ.ທ່ານຮູ້ບໍ່ວ່າພວກເຂົາສ່ວນໃຫຍ່ແມ່ນມີຄວາມໄວ້ວາງໃຈໃນ Cloudflare ແລະໃຊ້ມັນ - ມີພຽງປະຕູດຽວທີ່ເປັນສູນກາງ - ເພື່ອເປັນຕົວແທນການເຊື່ອມຕໍ່ເຊີຟເວີຂອງບໍລິສັດຂອງພວກເຂົາ (SSH / RDP), ເວບໄຊທ໌ສ່ວນຕົວ, ເວບໄຊທ໌ສົນທະນາ, ເວບໄຊທ໌ເວບໄຊທ໌, ເວບໄຊທ໌ທະນາຄານ, ເວັບໄຊທ໌ປະກັນໄພ, ເຄື່ອງຈັກຊອກຫາ, ສະມາຊິກລັບ - ເວບໄຊທ໌ດຽວ, ເວບໄຊທ໌ການປະມູນ, ການຄ້າ, ເວບໄຊທ໌ວິດີໂອ, ເວບໄຊທ໌ NSFW, ແລະເວບໄຊທ໌ທີ່ຜິດກົດ ໝາຍ.ທ່ານຍັງຮູ້ອີກວ່າພວກເຂົາໃຊ້ບໍລິການ DNS ຂອງ Cloudflare ("1.1.1.1") ແລະບໍລິການ VPN ("Cloudflare Warp") ສຳ ລັບ "ປອດໄພ! ໄວກວ່າ! ດີກວ່າ!” ປະສົບການທາງອິນເຕີເນັດ.ການສົມທົບພວກມັນກັບທີ່ຢູ່ IP ຂອງຜູ້ໃຊ້, ລາຍນິ້ວມືຂອງໂປແກຼມທ່ອງເວັບ, cookies ແລະ RAY-ID ຈະເປັນປະໂຫຍດໃນການສ້າງໂປຼໄຟລ໌ online ຂອງເປົ້າ ໝາຍ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  ທ່ານຕ້ອງການຂໍ້ມູນຂອງພວກເຂົາ. ເຈົ້າ​ຈະ​ເຮັດ​ຫຍັງ? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **Cloudflare ແມ່ນນໍ້າເຜິ້ງ.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **ນໍ້າເຜິ້ງຟຣີ ສຳ ລັບທຸກຄົນ. ສາຍເຊືອກບາງສາຍຕິດ.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * ປີ້ໄດ້ຖືກ vandalized ນັ້ນຫຼາຍເທື່ອ.
   * [ລຶບໂດຍໂຄງການ Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ເບິ່ງປີ້ 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [ປີ້ເກັບຮວບຮວມສຸດທ້າຍ 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@ Crimeflare ຮູ້ກ່ຽວກັບຄວາມເປັນຢູ່ຂອ
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
