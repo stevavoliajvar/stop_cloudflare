@@ -51,7 +51,7 @@
 |  ਕਲਾਉਡਫਲੇਅਰ "ਕਲਾਉਡਫਲੇਅਰ ਵਾਰਪ" ਨਾਮਕ ਮੁਫਤ ਵੀਪੀਐਨ ਸੇਵਾ ਵੀ ਪੇਸ਼ ਕਰਦੇ ਹਨ.ਜੇ ਤੁਸੀਂ ਇਸਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਡੇ ਸਾਰੇ ਸਮਾਰਟਫੋਨ (ਜਾਂ ਤੁਹਾਡੇ ਕੰਪਿ computerਟਰ) ਕੁਨੈਕਸ਼ਨ ਕਲਾਉਡਫਲੇਅਰ ਸਰਵਰਾਂ ਤੇ ਭੇਜੇ ਗਏ ਹਨ.ਕਲਾਉਡਫਲੇਅਰ ਜਾਣ ਸਕਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕਿਸ ਵੈਬਸਾਈਟ ਨੂੰ ਪੜ੍ਹਿਆ ਹੈ, ਕਿਹੜੀ ਟਿੱਪਣੀ ਤੁਸੀਂ ਪੋਸਟ ਕੀਤੀ ਹੈ, ਕਿਸ ਨਾਲ ਗੱਲ ਕੀਤੀ ਹੈ, ਆਦਿ.ਤੁਸੀਂ ਆਪਣੀ ਸਾਰੀ ਜਾਣਕਾਰੀ ਕਲਾਉਡਫਲੇਅਰ ਨੂੰ ਸਵੈਇੱਛਤ ਤੌਰ ਤੇ ਦੇ ਰਹੇ ਹੋ.ਜੇ ਤੁਸੀਂ ਸੋਚਦੇ ਹੋ “ਕੀ ਤੁਸੀਂ ਮਜ਼ਾਕ ਕਰ ਰਹੇ ਹੋ? ਕਲਾਉਡਫਲੇਅਰ ਸੁਰੱਖਿਅਤ ਹੈ। ” ਫਿਰ ਤੁਹਾਨੂੰ ਇਹ ਸਿੱਖਣ ਦੀ ਜ਼ਰੂਰਤ ਹੈ ਕਿ VPN ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
 |  ਕਲਾਉਡਫਲੇਅਰ ਨੇ ਕਿਹਾ ਕਿ ਉਨ੍ਹਾਂ ਦੀ VPN ਸੇਵਾ ਤੁਹਾਡੇ ਇੰਟਰਨੈਟ ਨੂੰ ਤੇਜ਼ ਬਣਾਉਂਦੀ ਹੈ.ਪਰ ਵੀਪੀਐਨ ਤੁਹਾਡੇ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਨੂੰ ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਕਨੈਕਸ਼ਨ ਨਾਲੋਂ ਹੌਲੀ ਬਣਾਉਂਦਾ ਹੈ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
 |  ਸ਼ਾਇਦ ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ ਪ੍ਰਿਸਮ ਘੁਟਾਲੇ ਬਾਰੇ ਜਾਣਦੇ ਹੋਵੋਗੇ.ਇਹ ਸੱਚ ਹੈ ਕਿ ਏਟੀ ਐਂਡ ਟੀ ਐਨਐਸਏ ਨੂੰ ਨਿਗਰਾਨੀ ਲਈ ਸਾਰੇ ਇੰਟਰਨੈਟ ਡੇਟਾ ਦੀ ਨਕਲ ਕਰਨ ਦਿੰਦਾ ਹੈ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  ਮੰਨ ਲਓ ਕਿ ਤੁਸੀਂ ਐਨਐਸਏ ਤੇ ਕੰਮ ਕਰ ਰਹੇ ਹੋ, ਅਤੇ ਤੁਸੀਂ ਹਰ ਨਾਗਰਿਕ ਦਾ ਇੰਟਰਨੈਟ ਪ੍ਰੋਫਾਈਲ ਚਾਹੁੰਦੇ ਹੋ.ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਉਨ੍ਹਾਂ ਵਿਚੋਂ ਬਹੁਤ ਸਾਰੇ ਕਲਾਉਡਫਲੇਅਰ 'ਤੇ ਅੰਨ੍ਹੇਵਾਹ ਵਿਸ਼ਵਾਸ ਕਰ ਰਹੇ ਹਨ ਅਤੇ ਇਸਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹਨ - ਸਿਰਫ ਇਕ ਕੇਂਦਰੀ ਗੇਟਵੇ - ਆਪਣੀ ਕੰਪਨੀ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨ (ਐਸਐਸਐਚ / ਆਰਡੀਪੀ), ਨਿੱਜੀ ਵੈਬਸਾਈਟ, ਚੈਟ ਵੈਬਸਾਈਟ, ਬੈਂਕ ਵੈਬਸਾਈਟ, ਬੀਮਾ ਵੈਬਸਾਈਟ, ਸਰਚ ਇੰਜਨ, ਗੁਪਤ ਮੈਂਬਰ ਸਿਰਫ ਵੈਬਸਾਈਟ, ਨਿਲਾਮੀ ਵੈਬਸਾਈਟ, ਖਰੀਦਦਾਰੀ, ਵੀਡੀਓ ਵੈਬਸਾਈਟ, ਐਨਐਸਐਫਡਬਲਯੂ ਵੈਬਸਾਈਟ, ਅਤੇ ਗੈਰਕਾਨੂੰਨੀ ਵੈਬਸਾਈਟ.ਤੁਸੀਂ ਇਹ ਵੀ ਜਾਣਦੇ ਹੋ ਕਿ ਉਹ ਕਲਾਉਡਫਲੇਅਰ ਦੀ ਡੀਐਨਐਸ ਸੇਵਾ ("1.1.1.1") ਅਤੇ ਵੀਪੀਐਨ ਸੇਵਾ ("ਕਲਾਉਡਫਲੇਅਰ ਵਾਰਪ") ਦੀ ਵਰਤੋਂ “ਸੁਰੱਖਿਅਤ! ਹੋਰ ਤੇਜ਼! ਬਿਹਤਰ! ” ਇੰਟਰਨੈੱਟ ਦਾ ਤਜਰਬਾ.ਉਨ੍ਹਾਂ ਨੂੰ ਉਪਭੋਗਤਾ ਦੇ ਆਈਪੀ ਐਡਰੈੱਸ, ਬ੍ਰਾ browserਜ਼ਰ ਫਿੰਗਰਪ੍ਰਿੰਟ, ਕੂਕੀਜ਼ ਅਤੇ ਰੇ-ਆਈਡੀ ਨਾਲ ਜੋੜਨਾ ਟੀਚੇ ਦੇ onlineਨਲਾਈਨ ਪ੍ਰੋਫਾਈਲ ਨੂੰ ਬਣਾਉਣ ਲਈ ਲਾਭਦਾਇਕ ਹੋਵੇਗਾ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg) |
+|  ਮੰਨ ਲਓ ਕਿ ਤੁਸੀਂ ਐਨਐਸਏ ਤੇ ਕੰਮ ਕਰ ਰਹੇ ਹੋ, ਅਤੇ ਤੁਸੀਂ ਹਰ ਨਾਗਰਿਕ ਦਾ ਇੰਟਰਨੈਟ ਪ੍ਰੋਫਾਈਲ ਚਾਹੁੰਦੇ ਹੋ.ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਉਨ੍ਹਾਂ ਵਿਚੋਂ ਬਹੁਤ ਸਾਰੇ ਕਲਾਉਡਫਲੇਅਰ 'ਤੇ ਅੰਨ੍ਹੇਵਾਹ ਵਿਸ਼ਵਾਸ ਕਰ ਰਹੇ ਹਨ ਅਤੇ ਇਸਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹਨ - ਸਿਰਫ ਇਕ ਕੇਂਦਰੀ ਗੇਟਵੇ - ਆਪਣੀ ਕੰਪਨੀ ਸਰਵਰ ਕੁਨੈਕਸ਼ਨ (ਐਸਐਸਐਚ / ਆਰਡੀਪੀ), ਨਿੱਜੀ ਵੈਬਸਾਈਟ, ਚੈਟ ਵੈਬਸਾਈਟ, ਬੈਂਕ ਵੈਬਸਾਈਟ, ਬੀਮਾ ਵੈਬਸਾਈਟ, ਸਰਚ ਇੰਜਨ, ਗੁਪਤ ਮੈਂਬਰ ਸਿਰਫ ਵੈਬਸਾਈਟ, ਨਿਲਾਮੀ ਵੈਬਸਾਈਟ, ਖਰੀਦਦਾਰੀ, ਵੀਡੀਓ ਵੈਬਸਾਈਟ, ਐਨਐਸਐਫਡਬਲਯੂ ਵੈਬਸਾਈਟ, ਅਤੇ ਗੈਰਕਾਨੂੰਨੀ ਵੈਬਸਾਈਟ.ਤੁਸੀਂ ਇਹ ਵੀ ਜਾਣਦੇ ਹੋ ਕਿ ਉਹ ਕਲਾਉਡਫਲੇਅਰ ਦੀ ਡੀਐਨਐਸ ਸੇਵਾ ("1.1.1.1") ਅਤੇ ਵੀਪੀਐਨ ਸੇਵਾ ("ਕਲਾਉਡਫਲੇਅਰ ਵਾਰਪ") ਦੀ ਵਰਤੋਂ “ਸੁਰੱਖਿਅਤ! ਹੋਰ ਤੇਜ਼! ਬਿਹਤਰ! ” ਇੰਟਰਨੈੱਟ ਦਾ ਤਜਰਬਾ.ਉਨ੍ਹਾਂ ਨੂੰ ਉਪਭੋਗਤਾ ਦੇ ਆਈਪੀ ਐਡਰੈੱਸ, ਬ੍ਰਾ browserਜ਼ਰ ਫਿੰਗਰਪ੍ਰਿੰਟ, ਕੂਕੀਜ਼ ਅਤੇ ਰੇ-ਆਈਡੀ ਨਾਲ ਜੋੜਨਾ ਟੀਚੇ ਦੇ onlineਨਲਾਈਨ ਪ੍ਰੋਫਾਈਲ ਨੂੰ ਬਣਾਉਣ ਲਈ ਲਾਭਦਾਇਕ ਹੋਵੇਗਾ. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
 |  ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਦਾ ਡੇਟਾ ਚਾਹੁੰਦੇ ਹੋ. ਤੁਸੀਂ ਕੀ ਕਰੋਗੇ? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
 |  **ਕਲਾਉਡਫਲੇਅਰ ਇਕ ਹਨੀਪੋਟ ਹੈ.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
 |  **ਹਰੇਕ ਲਈ ਮੁਫਤ ਸ਼ਹਿਦ. ਕੁਝ ਤਾਰ ਜੁੜੇ ਹੋਏ ਹਨ.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
@@ -97,11 +97,9 @@
   * ਕਈ ਵਾਰ ਟਿਕਟ ਦੀ ਭੰਨਤੋੜ ਕੀਤੀ ਗਈ.
   * [ਟੋਰ ਪ੍ਰੋਜੈਕਟ ਦੁਆਰਾ ਮਿਟਾਇਆ ਗਿਆ.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ਟਿਕਟ ਵੇਖੋ 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [ਆਖਰੀ ਪੁਰਾਲੇਖ ਦੀ ਟਿਕਟ 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [The problem with Cloudflare](https://neoreddit.horobets.me/post/43), stopCloudflare
+* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
-* [Another landmark day in the war to control, centralize and censor the internet.](https://www.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/), TheGoldenGoose8888
-* [Disadvantage of relying on only one service](https://twitter.com/w3Nicolas/status/1134529316904153089) ([DO is CF](https://www.digwebinterface.com/?hostnames=ns1.digitalocean.com%0D%0Ans2.digitalocean.com%0D%0Ans3.digitalocean.com%0D%0Awww.digitalocean.com&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=))
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
 
@@ -177,5 +175,3 @@
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
 
 ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
-
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg)
