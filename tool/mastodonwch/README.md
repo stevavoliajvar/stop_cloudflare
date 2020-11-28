@@ -44,14 +44,6 @@ so the bot is appreciated.
 -- [Thufie](https://social.pixie.town/@thufie)
 
 
-```
-I don't like the passive-agressive tone but the idea is nice
-considering it's become nearly impossible to access cloudflare
-websites with Tor Browser
-```
--- [Chatte-laine](https://eldritch.cafe/@Nocta)
-
-
 
 ### Code
 
