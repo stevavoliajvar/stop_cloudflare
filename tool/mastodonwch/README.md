@@ -44,7 +44,6 @@ so the bot is appreciated.
 -- [Thufie](https://social.pixie.town/@thufie)
 
 
-
 ### Code
 
 - [index.php](index.php): Main website to show the result
