@@ -5,6 +5,20 @@ Oh, it's you?
 
 Congratulations, you are ranked in the top 50 of...
 
+![](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/image/clapclapclap.gif)
+
+(_Sarcasm? Yes. Stop sharing CF links already_)
+
+
+### Some public reaction
+
+[wip]
+
+### Code
+
+- [index.php](index.php): Main website to show the result
+- [cron.php](cron.php): Use it with your cronjob
+
 
 ### Database
 
