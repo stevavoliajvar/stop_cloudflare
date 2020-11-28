@@ -1,6 +1,6 @@
 <?php
 ignore_user_abort(true);
-set_time_limit(180);
+set_time_limit(120);
 $toots = [];
 $mastodon_servers = ['your.server.fqdn' => 'https://your.server.fqdn/write_this_block_yourself', 'yours2.fqdn' => 'https://...'];
 shuffle_assoc($mastodon_servers);
