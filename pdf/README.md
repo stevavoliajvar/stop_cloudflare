@@ -52,6 +52,7 @@
 | 2019 | [Thirteen Years of Tor Attacks](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2019-Thirteen_Years_of_Tor_Attacks.pdf) |
 | 2019 | [Tor Censorship Arms Race](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2019-Tor_Censorship_Arms_Race.pdf) |
 | 2019 | [Watching You Watch The Tracking Ecosystem of Over-the-Top TV Streaming Devices](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2019-Watching_You_Watch_The_Tracking_Ecosystem_of_Over-the-Top_TV_Streaming_Devices.pdf) |
+| 2019 | [A First Look at References from the Dark to Surface Web World](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2019-A_First_Look_at_References_from_the_Dark_to_Surface_Web_World.pdf) |
 | 2020 | [JosephSullivan CSO](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2020-JosephSullivan_CSO.pdf) |
 | 2020 | [Website Fingerprinting with Website Oracles](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2020-Website_Fingerprinting_with_Website_Oracles.pdf) |
 | 2020 | [Why We Still Cant Browse in Peace On the Uniqueness and Reidentifiability of Web Browsing Histories](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/pdf/2020-Why_We_Still_Cant_Browse_in_Peace_On_the_Uniqueness_and_Reidentifiability_of_Web_Browsing_Histories.pdf) |
