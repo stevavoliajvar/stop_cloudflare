@@ -439,6 +439,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I've accessed at home and at the office today and each time I get cloudflare's captcha. Can someone explain why I'm getting this captcha when accessing TryHackme? ([happy_sec](https://twitter.com/happy_sec/status/1333860260604497924))
+- I haven't been able to refresh your site for two weeks. It alternates Cloudflare error pages and server errors. What's up? ([sweasel](https://twitter.com/sweasel/status/1333764009682751489))
 - They do have "at least some protection" - that's why you're getting the Cloudflare error page in the first place. ([aliothfox](https://twitter.com/AliothFox/status/1332727468172644355))
 - Lol - yesterday i tested this type of captcha for the first time. Didn't get a single one right (without guessing + on mobile). "Privacy first" is cool and all, but i wouldn't trust my contact forms / shopping carts with this provider atm. 😑 ([der_abro](https://twitter.com/der_abro/status/1331931870125301761))
 - So private that I can't even access my wallet :/ 403 error in the app (Lite and full) 502 on CloudFlare ([mc85904926](https://twitter.com/MC85904926/status/1331239758278889481))
