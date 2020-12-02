@@ -85,3 +85,20 @@ ym	int(6) INDEX
 ### Live demo
 
 If you want to see this in action: [Onion](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
+
+
+
+### API
+
+`http://(onion)/mastodon/?who=a&json`
+
+`who`:
+- `a`, Show Top 100 (Shared any links)
+- `c`, Show Top 100 (Shared Cloudflare links)
+- `f`, Show Top 100 (Shared FQDN)
+- `u`, About Mastodon Users
+
+Example:
+`curl -x socks5h://127.0.0.1:9050 -G -H "Authorization: Basic c3RvcGNsb3VkZmxhcmU6" "http://-----.onion/mastodon/" -d "who=c" -d "json"`
+
+> `[{"rank":1,"who":"xxx","toots":"xxx"},{"rank":2,...`
