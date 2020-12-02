@@ -88,7 +88,7 @@ If you want to see this in action: [Onion](http://stopcloudflare@avrynpc2q7pknqa
 
 
 
-### API
+### Live API
 
 `http://(onion)/mastodon/?who=a&json`
 
