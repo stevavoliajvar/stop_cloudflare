@@ -44,8 +44,11 @@ This add-on never send other information.
 	You can select which API service you want to use.
 
 ```
- 
 
-Download add-on
-- From Crimeflare (_Recommend_): [Firefox ESR / Chromium](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
-- From Gitea (Delay Sync): [FirefoxESR](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/addons/releases/ismm.xpi) / [Chromium](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/addons/releases/ismm.crx)
+
+- Code
+  - [Firefox](https://codeberg.org/crimeflare/stop_cloudflare/src/branch/master/addons/ismitmlinkFX)
+  - [Chrome](https://codeberg.org/crimeflare/stop_cloudflare/src/branch/master/addons/ismitmlinkCR)
+- Download add-on
+  - From Crimeflare (_Recommend_): [Firefox ESR / Chromium](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
+  - From Gitea (Delay Sync): [FirefoxESR](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/addons/releases/ismm.xpi) / [Chromium](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/addons/releases/ismm.crx)
