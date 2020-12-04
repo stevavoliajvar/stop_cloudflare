@@ -6,6 +6,7 @@
 * /addons/* -- [MIT](https://eo.wikipedia.org/wiki/MIT-permesilo)
 * /pdf/* -- Nekonata (Vi povas trovi ekzempleron ĉie. Dankon al aŭtoroj.)
 * /tool/globalist/* (Globalist) -- [GNU GPLv3](https://eo.wikipedia.org/wiki/%C4%9Cenerala_Publika_Permesilo_de_GNU)
+* /tool/block_cloudflare_mitm_fx/* -- [MIT](https://eo.wikipedia.org/wiki/MIT-permesilo)
 * Else -- [PUBLIKA DOMINO (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
 
@@ -23,6 +24,7 @@ CC0-permesilo permesas uzi tiujn dosierojn por iu ajn uzo, eĉ en manieroj, kiuj
 * /addons/* -- [MIT](https://en.wikipedia.org/wiki/MIT_License)
 * /pdf/* -- Unknown (You can find a copy everywhere. Thanks to authors)
 * /tool/globalist/* (Globalist) -- [GNU GPLv3](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+* /tool/block_cloudflare_mitm_fx/* -- [MIT](https://en.wikipedia.org/wiki/MIT_License)
 * Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
 
