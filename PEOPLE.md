@@ -439,6 +439,15 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Hi, I just failed cloudflare’s “are you a human” captcha bullshit 6 times in a row. Apparently I’m not human. So, if you’re following me or I’m following you, I’m clearly a bot. Or maybe cloudflare’s captcha has such shitty pictures that I can’t discern what the fuck it is. ([xenophage](https://twitter.com/XenoPhage/status/1334630205080662016))
+- What does Cloudflare actually do when it's doing that, anyway? What is it checking? Why does it take so long? And why does it then make you do a captcha on top of waiting? Piss off with that. Just delete your website instead, assholes. ([catovitch](https://twitter.com/catovitch/status/1332091154825928712))
+- why is the website showing error 1020..... Plz tell me how to open it.... It just shows access denied 😠 ([kaustubhhancha1](https://twitter.com/KaustubhHancha1/status/1334320432166518784))
+- Website down? Seeing HTTP 502 error page for what looks like cloudflare. ([amdelamar](https://twitter.com/amdelamar/status/1334260389819760640))
+- websites love flexing cloudflare protection then giving me a 503 error eight seconds later ([pyrexscholar](https://twitter.com/PYREXSCHOLAR/status/1333826699062984705))
+- After three hours of unsuccessful registration. Now this: Error 1020 Access Denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare ([whoissaying](https://twitter.com/whoissaying/status/1333733870340960256))
+- I keep trying to access octubretv and keep getting this page: access denied Error 1020 What happened?This website is using a security service to protect itself from online attacks.Performance security by Cloudflare I can get to it in google translate and cached, but can't use it ([antitwttier](https://twitter.com/antitwttier/status/1332803685513125892))
+- I keep trying to access octubretv and keep getting this page: access denied Error 1020 What happened?This website is using a security service to protect itself from online attacks.Performance security by Cloudflare I can get to it in google translate and cached, but can't use it ([antitwttier](https://twitter.com/antitwttier/status/1332802261135863808))
+- yo what's up with the site 522 error, cloudflare showing host problems ([alphapuppy1](https://twitter.com/alphapuppy1/status/1332705305252290560))
 - Any cloudflare protected site will ask you for a captcha tho. When using the tor browser, that is not the case. ([kavin1337](https://twitter.com/kavin1337/status/1334537150713499650))
 - Still getting this shit hours later. What's the deal? Why am I getting captcha just to browse the site ([sephirothws](https://twitter.com/SephirothWS/status/1334202703304478720))
 - Is this showing to you after you complete the Captcha for Cloudflare? ([cryptosfaucets](https://twitter.com/cryptosfaucets/status/1334053693570904064))
