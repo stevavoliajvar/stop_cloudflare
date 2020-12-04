@@ -439,6 +439,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Any cloudflare protected site will ask you for a captcha tho. When using the tor browser, that is not the case. ([kavin1337](https://twitter.com/kavin1337/status/1334537150713499650))
 - Still getting this shit hours later. What's the deal? Why am I getting captcha just to browse the site ([sephirothws](https://twitter.com/SephirothWS/status/1334202703304478720))
 - Is this showing to you after you complete the Captcha for Cloudflare? ([cryptosfaucets](https://twitter.com/cryptosfaucets/status/1334053693570904064))
 - I've accessed at home and at the office today and each time I get cloudflare's captcha. Can someone explain why I'm getting this captcha when accessing TryHackme? ([happy_sec](https://twitter.com/happy_sec/status/1333860260604497924))
