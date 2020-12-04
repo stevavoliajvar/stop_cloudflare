@@ -470,3 +470,5 @@
 
 [//]: # (do not edit this line end)
 
+
+![](../image/mastodoncf.jpg)
