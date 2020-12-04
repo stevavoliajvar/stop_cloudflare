@@ -7,7 +7,7 @@
   - [Top 100 - Shared Cloudflare links](shared_on_mastodon.md#top-100-shared-cloudflare-links)
   - [Top 100 - Shared FQDN](shared_on_mastodon.md#top-100-shared-fqdn)
   - [About Mastodon Users](shared_on_mastodon.md#about-mastodon-users)
-  - About ???????? ??????? _WIP!_
+  - [About Mastodon Servers](shared_on_mastodon.md#about-mastodon-servers)
 
 
 
@@ -355,6 +355,18 @@
 | &#11169;  who NEVER shared Cloudflare link | 6,699 (70.93%) |
 | &#11169;  who shared BOTH links | 1,703 (18.03%) |
 | &#127785;  **Mastodon Users who shared Cloudflare link** | **2,746 (29.07%)** |
+
+
+[//]: # (do not edit this line end)
+
+
+### About Mastodon Servers
+
+[//]: # (do not edit this line start; t5)
+
+| # | Server | [Cloudflare](../cloudflare_users/domains) | Users |
+| --- | --- | --- | --- |
+| sync | sync | sync | sync |
 
 
 [//]: # (do not edit this line end)
