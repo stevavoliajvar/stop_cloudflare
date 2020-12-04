@@ -98,7 +98,7 @@
   * La bileto estis vandaligita tiom multajn fojojn.
   * Forigita de la [Projekto Tor](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). Vidu bileton [34175](https://trac.torproject.org/projects/tor/ticket/34175).
   * Lasta arkiva bileto [24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Shared on Mastodon](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
+* [Shared on Mastodon](../subfiles/shared_on_mastodon.md)
 * [Observejo Cloudflare](http://www.crimeflare.org:82/)
 * [Kritiko kaj polemikoj](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) de Vikipedio
 
