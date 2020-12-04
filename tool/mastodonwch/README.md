@@ -97,6 +97,7 @@ If you want to see this in action: [Onion](http://stopcloudflare@avrynpc2q7pknqa
 - `c`, Show Top 100 (Shared Cloudflare links)
 - `f`, Show Top 100 (Shared FQDN)
 - `u`, About Mastodon Users
+- `s`, About Mastodon Servers
 
 Example:
 `curl -x socks5h://127.0.0.1:9050 -G -H "Authorization: Basic c3RvcGNsb3VkZmxhcmU6" "http://-----.onion/mastodon/" -d "who=c" -d "json"`
