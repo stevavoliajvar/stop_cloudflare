@@ -6,7 +6,7 @@
 * /addons/* -- [MIT](https://eo.wikipedia.org/wiki/MIT-permesilo)
 * /pdf/* -- Nekonata (Vi povas trovi ekzempleron ĉie. Dankon al aŭtoroj.)
 * /tool/globalist/* (Globalist) -- [GNU GPLv3](https://eo.wikipedia.org/wiki/%C4%9Cenerala_Publika_Permesilo_de_GNU)
-* /tool/block_cloudflare_mitm_fx/* -- [MIT](https://eo.wikipedia.org/wiki/MIT-permesilo)
+* /tool/block_cloudflare_mitm_fx/* -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
 * Else -- [PUBLIKA DOMINO (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
 
@@ -24,7 +24,7 @@ CC0-permesilo permesas uzi tiujn dosierojn por iu ajn uzo, eĉ en manieroj, kiuj
 * /addons/* -- [MIT](https://en.wikipedia.org/wiki/MIT_License)
 * /pdf/* -- Unknown (You can find a copy everywhere. Thanks to authors)
 * /tool/globalist/* (Globalist) -- [GNU GPLv3](https://en.wikipedia.org/wiki/GNU_General_Public_License)
-* /tool/block_cloudflare_mitm_fx/* -- [MIT](https://en.wikipedia.org/wiki/MIT_License)
+* /tool/block_cloudflare_mitm_fx/* -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
 * Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
 
@@ -32,4 +32,4 @@ This repository was created anonymously, in public, for the use of the world to 
   
 Contributors who have anonymously contributed (including in [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)) have since come forward to give this project their blessing. 
 
-CC0 license allow you to use those files for any purpose, even in ways we may find distasteful or objectionable. You can also make money off our work and you are not required to give credit to us.
+CC0 license allow you to use those files for any purpose, even in ways we may find distasteful or objectionable. You can also make money off our work and you are not required to give profit to us.
