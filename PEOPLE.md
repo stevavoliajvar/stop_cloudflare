@@ -439,6 +439,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I tried to reach out to customer service for a web store to let them know their captcha was broken. The only way to contact them was via a form that required captcha. ([jdonavan](https://twitter.com/JDonavan/status/1334882500682846210))
 - Hi, I just failed cloudflare’s “are you a human” captcha bullshit 6 times in a row. Apparently I’m not human. So, if you’re following me or I’m following you, I’m clearly a bot. Or maybe cloudflare’s captcha has such shitty pictures that I can’t discern what the fuck it is. ([xenophage](https://twitter.com/XenoPhage/status/1334630205080662016))
 - What does Cloudflare actually do when it's doing that, anyway? What is it checking? Why does it take so long? And why does it then make you do a captcha on top of waiting? Piss off with that. Just delete your website instead, assholes. ([catovitch](https://twitter.com/catovitch/status/1332091154825928712))
 - why is the website showing error 1020..... Plz tell me how to open it.... It just shows access denied 😠 ([kaustubhhancha1](https://twitter.com/KaustubhHancha1/status/1334320432166518784))
