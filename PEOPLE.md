@@ -439,6 +439,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Hey why do I need to complete an obnoxious captcha every time I log in. ([mrkmcknz](https://twitter.com/MrkMcknz/status/1335708036636307456))
 - Shame on you for having your Cloudflare firewall mode in Nazi mode so I have to compelte a Captcha to visit your site... ([donaldlekgwathi](https://twitter.com/DonaldLekgwathi/status/1335217749086224384))
 - your store website is a giant pile of shit. Nothing but 500 errors from cloudflare and constant captcha failures due to timeouts because your page loads take too long to respond. Sells computer parts, can’t build site out of computers to sell computer parts. Joke company ([realmenhavefabs](https://twitter.com/RealMenHaveFabs/status/1335087800853598209))
 - I tried to reach out to customer service for a web store to let them know their captcha was broken. The only way to contact them was via a form that required captcha. ([jdonavan](https://twitter.com/JDonavan/status/1334882500682846210))
