@@ -30,4 +30,4 @@ This repository was created anonymously, in public, for the use of the world to 
   
 Contributors who have anonymously contributed (including in [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)) have since come forward to give this project their blessing. 
 
-CC0 license allow you to use those files for any purpose, even in ways we may find distasteful or objectionable. You can also make money off our work and you are not required to give profit to us.
+CC0 license allow you to use those files for any purpose, even in ways we may find distasteful or objectionable. You can also make money off our work and you are not required to give credit to us.
