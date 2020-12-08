@@ -439,6 +439,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- minor heart attack just now. buang 300 dns record dlm cloudflare, nk import balik dpt error. nasib ada workaround. damn u cloudflare ([buyoq](https://twitter.com/buyoq/status/1335816430223151105))
 - Hey why do I need to complete an obnoxious captcha every time I log in. ([mrkmcknz](https://twitter.com/MrkMcknz/status/1335708036636307456))
 - Shame on you for having your Cloudflare firewall mode in Nazi mode so I have to compelte a Captcha to visit your site... ([donaldlekgwathi](https://twitter.com/DonaldLekgwathi/status/1335217749086224384))
 - your store website is a giant pile of shit. Nothing but 500 errors from cloudflare and constant captcha failures due to timeouts because your page loads take too long to respond. Sells computer parts, can’t build site out of computers to sell computer parts. Joke company ([realmenhavefabs](https://twitter.com/RealMenHaveFabs/status/1335087800853598209))
