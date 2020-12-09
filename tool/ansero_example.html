@@ -24,14 +24,14 @@ a[onclick] {
       <script>
 
 // read API document
-let apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/ansero.php';
-let favurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/favicon.php?f=';
-let mylang = 'en-US';
-let hide_domain = []; // e.g. 'google.com'
-let hide_fqdn = []; // e.g. 'en.wikipedia.org'
+let apiurl = 'https://(API)/_/ansero.php';
+let favurl = 'https://(API)/_/favicon.php?f=';
+let mylang = 'en-US'; // e.g. 'fr'
+let hide_domain = []; // e.g. ['google.com', 'google.fr']
+let hide_fqdn = []; // e.g. ['en.wikipedia.org']
 let removeMITMsites = false;
 
-function searchfor(key) {
+function searchFor(key) {
 	document.getElementById('what').value = key;
 	search();
 }
@@ -59,8 +59,13 @@ function search() {
 		if (r.sgst.length > 0) {
 			answer += '<span class="srch_sect">Search other: <br>';
 			r.sgst.forEach(x => {
-				answer += '[<a class="srch_link" onclick="searchfor(\'' + x + '\');return false;">' + x + '</a>]<br>';
+				answer += '[<a class="srch_link" onclick="searchFor(\'' + x + '\');return false;">' + x + '</a>]<br>';
 			});
+			answer += '</span><br><br>';
+		}
+		if (r.crct.length > 0) {
+			answer += '<span class="srch_sect">Maybe: ';
+			answer += '[<a class="srch_link" onclick="searchFor(\'' + r.crct[0] + '\');return false;">' + r.crct[0] + '</a>]<br>';
 			answer += '</span><br><br>';
 		}
 		r.res.forEach(x => {
