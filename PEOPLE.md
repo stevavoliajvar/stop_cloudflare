@@ -439,6 +439,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- got this error message trying to access a page on your site using an iPad Ray ID: 5fe52baa4aa43fd2 Your IP address: 45.58.219.49 Error reference number: 522 Cloudflare Location: Toronto ::ALWAYSONLINENOCOPYBOX:: ::IMUNDERATTACKBOX:: ::CAPTCHABOX:: ([mig30m6](https://twitter.com/mig30m6/status/1336229474585763842))
+- There seem to be some issues connecting. Check Legacy 485 and 932. Getting an error stating cloudflare may be having issues. ([herxies](https://twitter.com/Herxies/status/1336324946717339650))
 - minor heart attack just now. buang 300 dns record dlm cloudflare, nk import balik dpt error. nasib ada workaround. damn u cloudflare ([buyoq](https://twitter.com/buyoq/status/1335816430223151105))
 - Hey why do I need to complete an obnoxious captcha every time I log in. ([mrkmcknz](https://twitter.com/MrkMcknz/status/1335708036636307456))
 - Shame on you for having your Cloudflare firewall mode in Nazi mode so I have to compelte a Captcha to visit your site... ([donaldlekgwathi](https://twitter.com/DonaldLekgwathi/status/1335217749086224384))
