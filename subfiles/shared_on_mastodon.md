@@ -15,8 +15,8 @@
 
 | About |   |
 | --- | --- |
-| Toots has links | 222,688 toots |
-| Toots has Cloudflare link | 35,595 toots  (15.98%) |
+| Toots has links | 222,688 |
+| Toots has Cloudflare link | 35,595 (15.98%) |
 | Active Mastodon Servers | 1,536 |
 
 
