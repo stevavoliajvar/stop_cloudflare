@@ -11,6 +11,12 @@
 
 ----
 
+
+- [View latest information](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/)
+- `Toots has links`: tweet has any link
+- `Toots has Cloudflare link`: tweet has cloudflare link
+- `Active Mastodon Servers`: has users who shared any link
+
 [//]: # (do not edit this line start; t0)
 
 | About |   |
@@ -25,6 +31,8 @@
 
 ### Top 100 - Shared any links
 - [View latest information](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=a)
+- `Who`: Mastodon user
+- `Toots`: tweet has any link
 
 [//]: # (do not edit this line start; t1)
 
@@ -137,6 +145,8 @@
 
 ### Top 100 - Shared Cloudflare links
 - [View latest information](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=c)
+- `Who`: Mastodon user
+- `Toots`: tweet has cloudflare link
 
 [//]: # (do not edit this line start; t2)
 
@@ -249,6 +259,9 @@
 
 ### Top 100 - Shared FQDN
 - [View latest information](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=f)
+- `Cloudflare`: is listed as cloudflare user
+- `Anti-Tor`: is listed as anti-tor user
+- `Found in toots`: linked from these tweets
 
 [//]: # (do not edit this line start; t3)
 
@@ -378,6 +391,9 @@
 
 ### About Mastodon Servers
 - [View latest information](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=s)
+- `Cloudflare`: is listed as cloudflare user
+- `All Toots`: tweets which has any links sent from this server
+- `CF Toots`: tweets which has cloudflare links sent from this server
 
 [//]: # (do not edit this line start; t5)
 
