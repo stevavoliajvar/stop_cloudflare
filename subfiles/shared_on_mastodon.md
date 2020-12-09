@@ -9,6 +9,17 @@
   - [About Mastodon Users](shared_on_mastodon.md#about-mastodon-users)
   - [About Mastodon Servers](shared_on_mastodon.md#about-mastodon-servers)
 
+----
+
+[//]: # (do not edit this line start; t0)
+
+| About | - |
+| --- | --- |
+| Toots has links | sync |
+| Toots has Cloudflare link | sync |
+| Active Mastodon Servers | sync |
+
+[//]: # (do not edit this line end)
 
 
 ### Top 100 - Shared any links
@@ -369,111 +380,13 @@
 
 [//]: # (do not edit this line start; t5)
 
-| # | Server | [Cloudflare](../cloudflare_users/domains) | Toots |
-| --- | --- | --- | --- |
-| 1 | mastodon.social | &#127785; | 16,827 |
-| 2 | pawoo.net |   | 16,689 |
-| 3 | botsin.space |   | 15,346 |
-| 4 | newsbots.eu |   | 13,949 |
-| 5 | mstdn.foxfam.club |   | 13,034 |
-| 6 | societal.co | &#127785; | 8,987 |
-| 7 | friendica.chilemasto.casa |   | 6,630 |
-| 8 | dajiaweibo.com |   | 6,312 |
-| 9 | mamot.fr |   | 5,270 |
-| 10 | squeet.me |   | 4,407 |
-| 11 | pokemon.men | &#127785; | 3,359 |
-| 12 | social.quodverum.com |   | 2,997 |
-| 13 | toot-lab.reclaim.technology |   | 2,769 |
-| 14 | mastodon.cloud | &#127785; | 2,765 |
-| 15 | brighteon.social |   | 2,481 |
-| 16 | my.dirtyhobby.xyz |   | 2,394 |
-| 17 | framapiaf.org |   | 2,368 |
-| 18 | loma.ml |   | 2,231 |
-| 19 | schleuss.online |   | 2,126 |
-| 20 | mhc.social |   | 2,100 |
-| 21 | noagendasocial.com | &#127785; | 2,064 |
-| 22 | mastodont.cat |   | 2,015 |
-| 23 | mstdn.jp | &#127785; | 1,943 |
-| 24 | mastodon.chotto.moe |   | 1,748 |
-| 25 | mstdn.social |   | 1,748 |
-| 26 | phreedom.tk |   | 1,593 |
-| 27 | sinblr.com | &#127785; | 1,585 |
-| 28 | friendica.produnis.de |   | 1,544 |
-| 29 | mstdn.maud.io | &#127785; | 1,371 |
-| 30 | die-partei.social |   | 1,287 |
-| 31 | mastodon.bida.im |   | 1,240 |
-| 32 | chaos.social |   | 1,181 |
-| 33 | switter.at |   | 1,109 |
-| 34 | mastodon.internot.no |   | 1,027 |
-| 35 | social.lansky.name |   | 965 |
-| 36 | pomdon.work |   | 953 |
-| 37 | social.tchncs.de |   | 949 |
-| 38 | chaosphere.hostdon.jp |   | 925 |
-| 39 | masthead.social | &#127785; | 858 |
-| 40 | mastodon.in.th |   | 835 |
-| 41 | libranet.de |   | 820 |
-| 42 | social.beachcom.org |   | 814 |
-| 43 | mastodon.online |   | 813 |
-| 44 | fedibird.com | &#127785; | 812 |
-| 45 | mastodon.sk |   | 795 |
-| 46 | mastodon.smwa.me |   | 770 |
-| 47 | opensocial.at |   | 740 |
-| 48 | mastodon.crazynewworld.net | &#127785; | 703 |
-| 49 | best-friends.chat |   | 700 |
-| 50 | equestria.social |   | 692 |
-| 51 | qoto.org |   | 671 |
-| 52 | mstdn.guru |   | 648 |
-| 53 | 9kb.me |   | 633 |
-| 54 | fediverse.network |   | 625 |
-| 55 | todon.nl |   | 621 |
-| 56 | mastodon.xyz |   | 618 |
-| 57 | imastodon.net |   | 585 |
-| 58 | social.yl.ms |   | 551 |
-| 59 | sociale.network |   | 537 |
-| 60 | pleroma.site |   | 533 |
-| 61 | octodon.social | &#127785; | 519 |
-| 62 | twitter.1d4.us | &#127785; | 516 |
-| 63 | fosstodon.org |   | 512 |
-| 64 | blob.cat |   | 485 |
-| 65 | shitposter.club | &#127785; | 484 |
-| 66 | social.pmj.rocks |   | 481 |
-| 67 | misskey.io | &#127785; | 476 |
-| 68 | mastodon.derveni.org |   | 457 |
-| 69 | mstdn.io | &#127785; | 446 |
-| 70 | mas.to |   | 443 |
-| 71 | hostux.social |   | 443 |
-| 72 | bitcoinhackers.org | &#127785; | 442 |
-| 73 | propulse.club |   | 426 |
-| 74 | mstdn.fr |   | 424 |
-| 75 | hello.2heng.xin | &#127785; | 423 |
-| 76 | qiitadon.com |   | 410 |
-| 77 | mstdn.kemono-friends.info | &#127785; | 395 |
-| 78 | rebel.iero.org |   | 395 |
-| 79 | kolektiva.social |   | 392 |
-| 80 | freespeechextremist.com |   | 392 |
-| 81 | social.politicaconciencia.org |   | 390 |
-| 82 | mstdn.beer |   | 378 |
-| 83 | kartoffel.cafe |   | 378 |
-| 84 | soc.cattube.org |   | 369 |
-| 85 | aus.social |   | 360 |
-| 86 | mstdn.nere9.help |   | 355 |
-| 87 | liberdon.com |   | 354 |
-| 88 | aleph.land |   | 333 |
-| 89 | social.mikutter.hachune.net |   | 332 |
-| 90 | k-shiigi-136.masto.host |   | 328 |
-| 91 | soc1.leftic.club |   | 327 |
-| 92 | mastodon.technology |   | 321 |
-| 93 | g0v.social |   | 314 |
-| 94 | pullopen.xyz |   | 302 |
-| 95 | merveilles.town |   | 284 |
-| 96 | floss.social |   | 279 |
-| 97 | baraag.net | &#127785; | 277 |
-| 98 | nederland.social |   | 276 |
-| 99 | mastodon.art |   | 269 |
-| 100 | vocalodon.net |   | 264 |
+| # | Server | [Cloudflare](../cloudflare_users/domains) | All Toots | CF Toots | CF % |
+| --- | --- | --- | --- | --- | --- |
+| sync | sync | sync | sync | sync | sync |
 
 
 [//]: # (do not edit this line end)
 
+----
 
 ![](../image/mastodoncf.jpg)
