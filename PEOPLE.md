@@ -439,6 +439,10 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Replying to I was going to buy the $850 bundle. However the site locked up during the payment part. Then it never let me back in, Cloudflare error. Good job Antonline!!!! Third time trying to buy from them. ([lacrolx1](https://twitter.com/lacrolx1/status/1336785273817067521))
+- Connection timed out The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed. Ray ID: 5ff18d125a2b186f Your IP address: 2600:1700:4df9:10:586 Error reference number: 522 Cloudflare Location: Atlanta ([themerchandise](https://twitter.com/themerchandise/status/1336773638163472386))
+- this is what i get from antonline lol Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. ([dimitri4g94](https://twitter.com/Dimitri4G94/status/1336768869361352706))
+- Connection timed out The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed. Ray ID: 5fe934ff6d0dcaa8 Your IP address: 45.58.219.49 Error reference number: 522 Cloudflare Location: Toronto ([mig30m6](https://twitter.com/mig30m6/status/1336409694638891015))
 - got this error message trying to access a page on your site using an iPad Ray ID: 5fe52baa4aa43fd2 Your IP address: 45.58.219.49 Error reference number: 522 Cloudflare Location: Toronto ::ALWAYSONLINENOCOPYBOX:: ::IMUNDERATTACKBOX:: ::CAPTCHABOX:: ([mig30m6](https://twitter.com/mig30m6/status/1336229474585763842))
 - There seem to be some issues connecting. Check Legacy 485 and 932. Getting an error stating cloudflare may be having issues. ([herxies](https://twitter.com/Herxies/status/1336324946717339650))
 - minor heart attack just now. buang 300 dns record dlm cloudflare, nk import balik dpt error. nasib ada workaround. damn u cloudflare ([buyoq](https://twitter.com/buyoq/status/1335816430223151105))
