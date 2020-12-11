@@ -1,8 +1,8 @@
 # Hodei Handia
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 ---
 
@@ -12,51 +12,51 @@
 
 |  🖹  |  🖼 |
 | --- | --- |
-|  "Hodei Handia" Cloudflare Inc., AEBetako enpresa da.CDN (edukiak bidaltzeko sarea) zerbitzuak eskaintzen ditu, DDoS arintzea, Interneteko segurtasuna eta banatutako DNS (domeinu izenen zerbitzaria) zerbitzuak eskaintzen ditu.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflaredearuser.jpg) |
-|  Cloudflare munduko MITM proxy handiena da (alderantzizko proxy).Cloudflare CDN merkatuaren kuotaren% 80 baino gehiagoren jabe da eta hodei askoren erabiltzaile kopurua gero eta handiagoa da.Sarea 100 herrialde baino gehiagotara zabaldu dute.Cloudflarek Twitter, Amazon, Apple, Instagram, Bing eta Wikipedia konbinatuek baino web trafiko gehiago eskaintzen du.Cloudflare doako plana eskaintzen ari da eta jende asko erabiltzen ari da zerbitzariak behar bezala konfiguratu beharrean.Pribatutasuna erosotasunagatik negoziatzen zuten.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfmarketshare.jpg)  |
-|  Cloudflare zure eta jatorriaren webgune zerbitzariaren artean kokatzen da, mugako patruila-agente gisa jokatuz.Ezin zara zure aukeratutako helmugara konektatu.Cloudflare-ra konektatzen ari zara eta zure informazio guztia deskriptatu eta helarazten ari da. |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/border_patrol.jpg)  |
-|  Jatorrizko webgune zerbitzariaren administratzaileak agenteari - Cloudflare - agintari nor bere "web jabetza" sar dezakeen erabakitzeko eta "eremu mugatua" zehazteko baimena eman zion.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/usershoulddecide.jpg)  |
-|  Begiratu eskuineko irudiari.Cloudflare blokeatzen duten gaiztoak soilik blokeatuko dituzula uste duzu.Cloudflare beti sarean dagoela pentsatuko duzu (inoiz ez behera).Botik legitimoek eta arakatzaileek zure webgunea indexatu dezaketela uste duzu.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howcfwork.jpg)  |
-|  Hala ere, horiek ez dira batere egia.Cloudflare-k jende errugabeak arrazoirik gabe blokeatzen ditu.Hodei-beherak behera egin dezake.Cloudflare blokeatzen du legez kanpoko botak.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdowncfcom.jpg)  |
-|  Hostoetako edozein zerbitzu bezala, Cloudflare ez da perfektua.Pantaila hau ikusiko duzu jatorrizko zerbitzaria ondo funtzionatzen badu ere.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdown2019.jpg) |
-|  Benetan uste duzu Cloudflare-k% 100 uptime dituela?Ez dakizu Cloudflare zenbat aldiz jaisten den.Cloudflare jaisten bada zure bezeroak ezin du zure webgunera sartu. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflareinternalerror.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflareoutage-2020.jpg) |
-|  Txinako Suhiltzaile Handiari egiten zaio erreferentzia, eta, beraz, gizaki askok web edukiak ikustea (hau da, Txina penintsulako eta kanpoko jendeak) iragazteko antzeko lana egiten du.Aldi berean, kratikoki desberdina den web bat ikustean kaltetuta ez zegoen bitartean, zentsurarik gabeko web bat, hala nola "depositu gizonaren" irudia eta "Tiananmen plazako protesten historia". | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflarechina.jpg)  |
-|  Cloudflare-k indar handia du.Nolabait esateko, azken erabiltzaileak azken finean ikusten duena kontrolatzen dute.Webgunea Cloudflare dela eta nabigatzea eragotzi duzu. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/onemorestep.jpg) |
-|  Cloudflare zentsurarako erabil daiteke. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/accdenied.jpg) |
-|  Ezin duzu cloudflared webgunea ikusi Cloudflare bot-a dela pentsa dezakeen arakatzaile txikia erabiltzen ari bazara (jende askok ez duelako erabiltzen). | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfublock.jpg) |
-|  Ezin duzu "arakatzaileen egiaztapen" inbaditzaile hau Javascript gaitu gabe.Zure bizitza baliotsuaren bost segundo (edo gehiago) galtzea da. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsjsck.jpg) |
-|  Cloudflare-k automatikoki ere blokeatzen ditu Google, Yandex, Yacy eta API bezero bezalako robot / arakatzaile legitimoak.Cloudflare aktiboki kontrolatzen ari da "saihestu cloudflare" komunitatea kontrolik gabeko ikerketa botak apurtzeko asmoz. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftestgoogle.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/htmlalertcloudflare2.jpg) |
-|  Cloudflarek era berean galarazten du Interneteko konektibitate eskasa duten pertsona asko atzean dauden webguneetara sartzea (adibidez, NAT 7+ geruzaren atzean egon litezke edo IP bera partekatzen dutenak, adibidez Wifi publikoak), irudi CAPTCHA anitz konpondu ezean.Zenbait kasutan, 10-30 minutu beharko dira Google asetzeko. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/googlerecaptcha.jpg) |
-|  2020. urtean Cloudflare Google-ren Recaptcha-tik hCaptcha-ra pasatu zen Google-k bere erabilera kobratzeko asmoa zuen moduan.Cloudflarek zure pribatutasuna zaintzen dutela esan du ("pribatutasun kezka zuzentzen laguntzen du") baina hori gezurra da.Diruari buruzkoa da."HCaptcha-k webguneek eskaerari erantzuteko dirua irabazteko aukera ematen du bot-ak eta bestelako tratu txarrak blokeatzen dituzten bitartean" | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/fedup_fucking_hcaptcha.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/hcaptchablockchain.jpg) |
-|  Erabiltzailearen ikuspegitik, horrek ez du asko aldatzen. Konpondu beharrean zaude. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/hcaptcha_abrv.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/hcaptcha_chrome.jpg) |
-|  Gizakiak eta software asko Cloudflare-k blokeatuta daude egunero. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsnote.jpg) |
-|  Cloudflarek mundu osoko jende asko haserretzen du.Begiratu zerrenda eta pentsatu zure webgunean Cloudflare onartzea erabiltzaileentzako esperientzia ona den ala ez. |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsstream.jpg) |
-|  Zein da Interneten zer nahi duzun ezin baduzu egin?Zure webgunea bisitatzen duten gehienek beste orrialde batzuk besterik ez dituzte bilatzen web orria kargatzen ez badute.Baliteke bisitariak ez aktiboki blokeatzea, baina Cloudflareren suebaki lehenetsia jende asko blokeatzeko nahikoa zorrotza da. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsdroid.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsappl.jpg) |
-|  Ez dago captcha konpontzeko modurik Javascript eta Cookieak gaitu gabe.Cloudflare erabiltzen ari da arakatzaileko sinadura zure identifikatzeko.Cloudflare-k zure identitatea ezagutu behar du webgunean arakatzen jarraitzeko gai zaren ala ez erabakitzeko. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cferr1010bsig.jpg) |
-|  Tor erabiltzaileak eta VPN erabiltzaileak ere Cloudflareren biktima dira.Bi konponbideak herrialdeko / korporazioko / sareko politika dela eta, zure pribatutasuna babesteko geruza gehigarririk nahi ez duten hainbat pertsona erabiltzen ari dira.Cloudflare lotsagabe ari da pertsona hauei erasotzen, proxy irtenbidea itzaltzera behartzen. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/banvpn2.jpg) |
-|  Oraingoz Tor saiatu ez bazenuen, Tor Browser deskargatzera eta gogoko webguneetara joaten zaitugu animatzen zaituztegu.Zure bankuko webgunean edo gobernuaren web orrian ez sartzea gomendatzen dizugu edo zure kontua markatuko dute. Erabili VPN webgune horietarako. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/banvpn.jpg) |
-|  Baliteke "Tor legez kanpokoa dela" esan nahi izatea. Tor erabiltzaileak kriminalak dira! Tor txarra da! ". Ez.Tor-i buruz telebistari buruz jakin zenuke, Tor-ek darknet-a arakatzeko eta pistolak, drogak edo porno porno saltzeko erabil daitekeela esanez.Aurreko adierazpena egia bada ere, merkatuan webgune ugari dago horrelako elementuak erosi ahal izateko, gune horiek clearnet-ean ere agertzen dira.  | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/whousetor.jpg) |
-|  Tor AEBetako Armadak garatu zuen, baina Tor Tor-ek proiektuaren bidez garatzen da.Tor erabiltzen duten pertsona eta erakunde ugari daude zure etorkizuneko lagunak barne.Beraz, Cloudflare zure webgunean erabiltzen ari bazara, benetako gizakiak blokeatzen ari zara.Adiskidetasun eta negozio akordio potentziala galduko duzu. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iusetor_alith.jpg) |
-|  Eta euren DNS zerbitzua, 1.1.1.1, erabiltzaileek webgunera bisitatzen dituzten erabiltzaileak iragazten ari dira Cloudflare-ren jabetzakoa den IP helbide faltsua itzuliz, esaterako "127.0.0.x", edo, besterik gabe, ezer ez itzultzeko. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cferr1016sp.jpg) |
-|  Cloudflare DNS-k ere lineako softwarea apurtzen du smartphone aplikaziotik ordenagailu jokoetara, DNS erantzun faltsua delako.Cloudflare DNS-k ezin ditu bankuko webgune batzuk kontsultatu. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/dnsfailtest.jpg) |
-|  Eta hemen pentsa dezakezu<br>Ez naiz Tor edo VPN erabiltzen ari, zergatik zaindu behar dut?<br>Cloudflare marketinean konfiantza dut, zergatik zaindu behar dut<br>Nire webgunea https da zergatik zaindu behar dudan | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/annoyed.jpg) |
-|  Cloudflare erabiltzen duten webguneak bisitatzen badituzu, informazioa zure webgunearen jabeaz gain Cloudflare ere partekatzen ari zara.Horrela funtzionatzen du alderantzizko proxyak. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prism_gfe.jpg) |
-|  Ezinezkoa da analizatzea TLS trafikoa deszifratu gabe. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfhelp204144518.jpg) |
-|  Cloudflare-k zure datu guztiak ezagutzen ditu, hala nola, pasahitz gordinak. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfhelpforum.jpg) |
-|  Cloudbeed noiznahi gerta daiteke. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfbloghtmledit.jpg) |
-|  Cloudflareren https ez da inoiz amaitzen. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/sniff2.gif) |
-|  Nahi al duzu zure datuak Cloudflare-rekin partekatu eta, gainera, 3 gutun-agentziarekin? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfstrengthdata.jpg) |
-|  Interneteko erabiltzaileen lineako profila gobernuak eta teknologia konpainia handiek erosi nahi duten "produktua" da. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/federalinterest.jpg) |
-|  Esan zuen AEBetako Barne Segurtasun Sailak:<br><br>Baduzu ideiarik baliotsuak dituzun datuak? Ba al dago modurik datu horiek salduko zenizkigunean?  | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/dhssaid.jpg) |
-|  Cloudflare-k, gainera, "Cloudflare Warp" izeneko DOAKO VPN zerbitzua eskaintzen du.Erabiliz gero, zure telefonoaren (edo ordenagailuaren) konexio guztiak Cloudflare zerbitzarietara bidaltzen dira.Cloudflare-k jakin dezake zein webgune irakurri duzun, zer iruzkin argitaratu dituzun, norekin hitz egin duzun, etab.Zure informazio guztia Cloudflare-ri ematen ari zara."Txantxetan ari zara?" Cloudflare segurua da. " orduan VPN funtzionatzen ikasi behar duzu. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
-|  Cloudflarek esan du bere VPN zerbitzuak zure internet azkar egiten duela.Baina VPN-k zure konexioa lehendik duzun konexioa baino motelagoa bihurtu du. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
-|  Baliteke dagoeneko ezagutu PRISM eskandalua.Egia da AT&T-k NSA-k Interneteko datu guztiak kopiatzeko aukera ematen duela zaintzarako. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  Esan dezagun NSAn lan egiten duzula eta herritarren Interneteko profil bakoitza nahi duzula.Badakizu gehienok Cloudflare-n konfiantzaz erabiltzen dutela eta bakarrik erabiltzen dutela - atebide zentralizatu bakarra - beren enpresako zerbitzariaren konexioa proxy (SSH / RDP), webgune pertsonala, txat-webgunea, foroaren webgunea, bankuko webgunea, aseguruen webgunea, bilatzailea, kide sekretua -Egun webgunea, enkanteen webgunea, erosketak, bideoak, NSFW webgunea eta legez kanpoko webgunea.Badakizu Cloudflare-ren DNS zerbitzua ("1.1.1.1") eta VPN zerbitzua ("Cloudflare Warp") erabiltzen dituztela "Seguru!" Azkarrago! Hobe! " Interneteko esperientzia.Erabiltzailearen IP helbidea, arakatzailearen aztarna digitala, cookieak eta RAY-ID konbinatzea erabilgarria izango da helburuaren lineako profila sortzeko. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
-|  Haien datuak nahi dituzu. Zer egingo duzu? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
-|  **Cloudflare eztia da.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
-|  **Doako eztia guztiontzat. Kate batzuk erantsita.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
-|  **Ez erabili Cloudflare.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/shadycloudflare.jpg) |
-|  **Internet deszentralizatu.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg) |
+|  "Hodei Handia" Cloudflare Inc., AEBetako enpresa da.CDN (edukiak bidaltzeko sarea) zerbitzuak eskaintzen ditu, DDoS arintzea, Interneteko segurtasuna eta banatutako DNS (domeinu izenen zerbitzaria) zerbitzuak eskaintzen ditu.  |  ![](../image/cloudflaredearuser.jpg) |
+|  Cloudflare munduko MITM proxy handiena da (alderantzizko proxy).Cloudflare CDN merkatuaren kuotaren% 80 baino gehiagoren jabe da eta hodei askoren erabiltzaile kopurua gero eta handiagoa da.Sarea 100 herrialde baino gehiagotara zabaldu dute.Cloudflarek Twitter, Amazon, Apple, Instagram, Bing eta Wikipedia konbinatuek baino web trafiko gehiago eskaintzen du.Cloudflare doako plana eskaintzen ari da eta jende asko erabiltzen ari da zerbitzariak behar bezala konfiguratu beharrean.Pribatutasuna erosotasunagatik negoziatzen zuten.  |  ![](../image/cfmarketshare.jpg)  |
+|  Cloudflare zure eta jatorriaren webgune zerbitzariaren artean kokatzen da, mugako patruila-agente gisa jokatuz.Ezin zara zure aukeratutako helmugara konektatu.Cloudflare-ra konektatzen ari zara eta zure informazio guztia deskriptatu eta helarazten ari da. |  ![](../image/border_patrol.jpg)  |
+|  Jatorrizko webgune zerbitzariaren administratzaileak agenteari - Cloudflare - agintari nor bere "web jabetza" sar dezakeen erabakitzeko eta "eremu mugatua" zehazteko baimena eman zion.  |  ![](../image/usershoulddecide.jpg)  |
+|  Begiratu eskuineko irudiari.Cloudflare blokeatzen duten gaiztoak soilik blokeatuko dituzula uste duzu.Cloudflare beti sarean dagoela pentsatuko duzu (inoiz ez behera).Botik legitimoek eta arakatzaileek zure webgunea indexatu dezaketela uste duzu.  |  ![](../image/howcfwork.jpg)  |
+|  Hala ere, horiek ez dira batere egia.Cloudflare-k jende errugabeak arrazoirik gabe blokeatzen ditu.Hodei-beherak behera egin dezake.Cloudflare blokeatzen du legez kanpoko botak.  |  ![](../image/cfdowncfcom.jpg)  |
+|  Hostoetako edozein zerbitzu bezala, Cloudflare ez da perfektua.Pantaila hau ikusiko duzu jatorrizko zerbitzaria ondo funtzionatzen badu ere.  |  ![](../image/cfdown2019.jpg) |
+|  Benetan uste duzu Cloudflare-k% 100 uptime dituela?Ez dakizu Cloudflare zenbat aldiz jaisten den.Cloudflare jaisten bada zure bezeroak ezin du zure webgunera sartu. | ![](../image/cloudflareinternalerror.jpg)<br>![](../image/cloudflareoutage-2020.jpg) |
+|  Txinako Suhiltzaile Handiari egiten zaio erreferentzia, eta, beraz, gizaki askok web edukiak ikustea (hau da, Txina penintsulako eta kanpoko jendeak) iragazteko antzeko lana egiten du.Aldi berean, kratikoki desberdina den web bat ikustean kaltetuta ez zegoen bitartean, zentsurarik gabeko web bat, hala nola "depositu gizonaren" irudia eta "Tiananmen plazako protesten historia". | ![](../image/cloudflarechina.jpg)  |
+|  Cloudflare-k indar handia du.Nolabait esateko, azken erabiltzaileak azken finean ikusten duena kontrolatzen dute.Webgunea Cloudflare dela eta nabigatzea eragotzi duzu. | ![](../image/onemorestep.jpg) |
+|  Cloudflare zentsurarako erabil daiteke. | ![](../image/accdenied.jpg) |
+|  Ezin duzu cloudflared webgunea ikusi Cloudflare bot-a dela pentsa dezakeen arakatzaile txikia erabiltzen ari bazara (jende askok ez duelako erabiltzen). | ![](../image/cfublock.jpg) |
+|  Ezin duzu "arakatzaileen egiaztapen" inbaditzaile hau Javascript gaitu gabe.Zure bizitza baliotsuaren bost segundo (edo gehiago) galtzea da. | ![](../image/omsjsck.jpg) |
+|  Cloudflare-k automatikoki ere blokeatzen ditu Google, Yandex, Yacy eta API bezero bezalako robot / arakatzaile legitimoak.Cloudflare aktiboki kontrolatzen ari da "saihestu cloudflare" komunitatea kontrolik gabeko ikerketa botak apurtzeko asmoz. | ![](../image/cftestgoogle.jpg)<br>![](../image/htmlalertcloudflare2.jpg) |
+|  Cloudflarek era berean galarazten du Interneteko konektibitate eskasa duten pertsona asko atzean dauden webguneetara sartzea (adibidez, NAT 7+ geruzaren atzean egon litezke edo IP bera partekatzen dutenak, adibidez Wifi publikoak), irudi CAPTCHA anitz konpondu ezean.Zenbait kasutan, 10-30 minutu beharko dira Google asetzeko. | ![](../image/googlerecaptcha.jpg) |
+|  2020. urtean Cloudflare Google-ren Recaptcha-tik hCaptcha-ra pasatu zen Google-k bere erabilera kobratzeko asmoa zuen moduan.Cloudflarek zure pribatutasuna zaintzen dutela esan du ("pribatutasun kezka zuzentzen laguntzen du") baina hori gezurra da.Diruari buruzkoa da."HCaptcha-k webguneek eskaerari erantzuteko dirua irabazteko aukera ematen du bot-ak eta bestelako tratu txarrak blokeatzen dituzten bitartean" | ![](../image/fedup_fucking_hcaptcha.jpg)<br>![](../image/hcaptchablockchain.jpg) |
+|  Erabiltzailearen ikuspegitik, horrek ez du asko aldatzen. Konpondu beharrean zaude. | ![](../image/hcaptcha_abrv.jpg)<br>![](../image/hcaptcha_chrome.jpg) |
+|  Gizakiak eta software asko Cloudflare-k blokeatuta daude egunero. | ![](../image/omsnote.jpg) |
+|  Cloudflarek mundu osoko jende asko haserretzen du.Begiratu zerrenda eta pentsatu zure webgunean Cloudflare onartzea erabiltzaileentzako esperientzia ona den ala ez. |  ![](../image/omsstream.jpg) |
+|  Zein da Interneten zer nahi duzun ezin baduzu egin?Zure webgunea bisitatzen duten gehienek beste orrialde batzuk besterik ez dituzte bilatzen web orria kargatzen ez badute.Baliteke bisitariak ez aktiboki blokeatzea, baina Cloudflareren suebaki lehenetsia jende asko blokeatzeko nahikoa zorrotza da. | ![](../image/omsdroid.jpg)<br>![](../image/omsappl.jpg) |
+|  Ez dago captcha konpontzeko modurik Javascript eta Cookieak gaitu gabe.Cloudflare erabiltzen ari da arakatzaileko sinadura zure identifikatzeko.Cloudflare-k zure identitatea ezagutu behar du webgunean arakatzen jarraitzeko gai zaren ala ez erabakitzeko. | ![](../image/cferr1010bsig.jpg) |
+|  Tor erabiltzaileak eta VPN erabiltzaileak ere Cloudflareren biktima dira.Bi konponbideak herrialdeko / korporazioko / sareko politika dela eta, zure pribatutasuna babesteko geruza gehigarririk nahi ez duten hainbat pertsona erabiltzen ari dira.Cloudflare lotsagabe ari da pertsona hauei erasotzen, proxy irtenbidea itzaltzera behartzen. | ![](../image/banvpn2.jpg) |
+|  Oraingoz Tor saiatu ez bazenuen, Tor Browser deskargatzera eta gogoko webguneetara joaten zaitugu animatzen zaituztegu.Zure bankuko webgunean edo gobernuaren web orrian ez sartzea gomendatzen dizugu edo zure kontua markatuko dute. Erabili VPN webgune horietarako. | ![](../image/banvpn.jpg) |
+|  Baliteke "Tor legez kanpokoa dela" esan nahi izatea. Tor erabiltzaileak kriminalak dira! Tor txarra da! ". Ez.Tor-i buruz telebistari buruz jakin zenuke, Tor-ek darknet-a arakatzeko eta pistolak, drogak edo porno porno saltzeko erabil daitekeela esanez.Aurreko adierazpena egia bada ere, merkatuan webgune ugari dago horrelako elementuak erosi ahal izateko, gune horiek clearnet-ean ere agertzen dira.  | ![](../image/whousetor.jpg) |
+|  Tor AEBetako Armadak garatu zuen, baina Tor Tor-ek proiektuaren bidez garatzen da.Tor erabiltzen duten pertsona eta erakunde ugari daude zure etorkizuneko lagunak barne.Beraz, Cloudflare zure webgunean erabiltzen ari bazara, benetako gizakiak blokeatzen ari zara.Adiskidetasun eta negozio akordio potentziala galduko duzu. | ![](../image/iusetor_alith.jpg) |
+|  Eta euren DNS zerbitzua, 1.1.1.1, erabiltzaileek webgunera bisitatzen dituzten erabiltzaileak iragazten ari dira Cloudflare-ren jabetzakoa den IP helbide faltsua itzuliz, esaterako "127.0.0.x", edo, besterik gabe, ezer ez itzultzeko. | ![](../image/cferr1016.jpg)<br>![](../image/cferr1016sp.jpg) |
+|  Cloudflare DNS-k ere lineako softwarea apurtzen du smartphone aplikaziotik ordenagailu jokoetara, DNS erantzun faltsua delako.Cloudflare DNS-k ezin ditu bankuko webgune batzuk kontsultatu. | ![](../image/cfdnsprob.jpg)<br>![](../image/dnsfailtest.jpg) |
+|  Eta hemen pentsa dezakezu<br>Ez naiz Tor edo VPN erabiltzen ari, zergatik zaindu behar dut?<br>Cloudflare marketinean konfiantza dut, zergatik zaindu behar dut<br>Nire webgunea https da zergatik zaindu behar dudan | ![](../image/annoyed.jpg) |
+|  Cloudflare erabiltzen duten webguneak bisitatzen badituzu, informazioa zure webgunearen jabeaz gain Cloudflare ere partekatzen ari zara.Horrela funtzionatzen du alderantzizko proxyak. | ![](../image/prism_gfe.jpg) |
+|  Ezinezkoa da analizatzea TLS trafikoa deszifratu gabe. | ![](../image/cfhelp204144518.jpg) |
+|  Cloudflare-k zure datu guztiak ezagutzen ditu, hala nola, pasahitz gordinak. | ![](../image/cfhelpforum.jpg) |
+|  Cloudbeed noiznahi gerta daiteke. | ![](../image/cfbloghtmledit.jpg) |
+|  Cloudflareren https ez da inoiz amaitzen. | ![](../image/sniff2.gif) |
+|  Nahi al duzu zure datuak Cloudflare-rekin partekatu eta, gainera, 3 gutun-agentziarekin? | ![](../image/cfstrengthdata.jpg) |
+|  Interneteko erabiltzaileen lineako profila gobernuak eta teknologia konpainia handiek erosi nahi duten "produktua" da. | ![](../image/federalinterest.jpg) |
+|  Esan zuen AEBetako Barne Segurtasun Sailak:<br><br>Baduzu ideiarik baliotsuak dituzun datuak? Ba al dago modurik datu horiek salduko zenizkigunean?  | ![](../image/dhssaid.jpg) |
+|  Cloudflare-k, gainera, "Cloudflare Warp" izeneko DOAKO VPN zerbitzua eskaintzen du.Erabiliz gero, zure telefonoaren (edo ordenagailuaren) konexio guztiak Cloudflare zerbitzarietara bidaltzen dira.Cloudflare-k jakin dezake zein webgune irakurri duzun, zer iruzkin argitaratu dituzun, norekin hitz egin duzun, etab.Zure informazio guztia Cloudflare-ri ematen ari zara."Txantxetan ari zara?" Cloudflare segurua da. " orduan VPN funtzionatzen ikasi behar duzu. | ![](../image/howvpnwork.jpg) |
+|  Cloudflarek esan du bere VPN zerbitzuak zure internet azkar egiten duela.Baina VPN-k zure konexioa lehendik duzun konexioa baino motelagoa bihurtu du. | ![](../image/notfastervpn.jpg) |
+|  Baliteke dagoeneko ezagutu PRISM eskandalua.Egia da AT&T-k NSA-k Interneteko datu guztiak kopiatzeko aukera ematen duela zaintzarako. | ![](../image/prismattnsa.jpg) |
+|  Esan dezagun NSAn lan egiten duzula eta herritarren Interneteko profil bakoitza nahi duzula.Badakizu gehienok Cloudflare-n konfiantzaz erabiltzen dutela eta bakarrik erabiltzen dutela - atebide zentralizatu bakarra - beren enpresako zerbitzariaren konexioa proxy (SSH / RDP), webgune pertsonala, txat-webgunea, foroaren webgunea, bankuko webgunea, aseguruen webgunea, bilatzailea, kide sekretua -Egun webgunea, enkanteen webgunea, erosketak, bideoak, NSFW webgunea eta legez kanpoko webgunea.Badakizu Cloudflare-ren DNS zerbitzua ("1.1.1.1") eta VPN zerbitzua ("Cloudflare Warp") erabiltzen dituztela "Seguru!" Azkarrago! Hobe! " Interneteko esperientzia.Erabiltzailearen IP helbidea, arakatzailearen aztarna digitala, cookieak eta RAY-ID konbinatzea erabilgarria izango da helburuaren lineako profila sortzeko. | ![](../image/edw_snow.jpg)<br>![](../image/peopledonotthink.jpg) |
+|  Haien datuak nahi dituzu. Zer egingo duzu? | ![](../image/nsaslide_prismcorp.gif) |
+|  **Cloudflare eztia da.** | ![](../image/honeypot.gif) |
+|  **Doako eztia guztiontzat. Kate batzuk erantsita.** | ![](../image/iminurtls.jpg) |
+|  **Ez erabili Cloudflare.** | ![](../image/shadycloudflare.jpg) |
+|  **Internet deszentralizatu.** | ![](../image/cfisnotanoption.jpg) |
 
 
 ---
@@ -84,7 +84,7 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
 * [Torrearen aurkako erabiltzaileak](../anti-tor_users/)
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/goodorbad.jpg)
+![](../image/goodorbad.jpg)
 
 
 **Informazio gehiago**
@@ -101,7 +101,7 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
+![](../image/watcloudflare.jpg)
 
 
 </details>
@@ -118,7 +118,7 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
 
 * [Irakurri beste erabiltzailearen ahotsa eta idatzi zure pentsamenduak.](../PEOPLE.md)
 
-* Zerbait bilatu: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=eu) ([clearnet](https://crimeflare.eu.org/))
+* Zerbait bilatu: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=eu) ([clearnet](https://sercxi.eu.org/))
 
 * Eguneratu domeinuen zerrenda: [Zerrendatu argibideak](../INSTRUCTION.md).
 
@@ -153,25 +153,25 @@ Inoiz ez diogu zure sare sozialetan galdetu.**
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/wtfcf.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsirl2.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsirl.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/whydoihavetosolveacaptcha.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/fixthedamn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/imnotarobot.jpg) |
+| ![](../image/wtfcf.jpg) | ![](../image/omsirl2.jpg) |
+| ![](../image/omsirl.jpg) | ![](../image/whydoihavetosolveacaptcha.jpg) |
+| ![](../image/fixthedamn.jpg) | ![](../image/imnotarobot.jpg) |
 
 </details>
 
 ---
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_lb.jpg)
+![](../image/twe_lb.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_dz.jpg)
+![](../image/twe_dz.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_jb.jpg)
+![](../image/twe_jb.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_ial.jpg)
+![](../image/twe_ial.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_eptg.jpg)
+![](../image/twe_eptg.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
+![](../image/eastdakota_1273277839102656515.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
+![](../image/stopcf.jpg)
