@@ -1,7 +1,7 @@
 # Masuala ya Maadili
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Usiunga mkono kampuni hii ambayo ni batili ya maadili"
 
@@ -34,8 +34,8 @@ Je! Tunawezaje kuzima Cloudflare bila kuamsha Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Ikiwa utachapisha hakiki mbaya kwenye wavuti yoyote ya ukaguzi, watajaribu kuipu
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Ikiwa hutaki kunyanyaswa, kushambuliwa, kushonwa au kuuawa, ni bora ukae mbali n
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Inasikitisha kabisa kwamba shirika la Amerika litauliza misaada kando na mashiri
 Ikiwa unapenda kuzuia watu au kupoteza wakati wa watu wengine, unaweza kutaka kuagiza pesa kwa wafanyikazi wa Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Je! Utafanya nini ikiwa tovuti yako itaanguka ghafla?
 Kuna taarifa kwamba Cloudflare inafuta usanidi wa mtumiaji au kuzuia huduma bila onyo lolote, kimya.
 Tunashauri utafute mtoaji bora.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare inapeana upendeleo kwa wale wanaotumia Firefox wakati wanapeana mates
 Watumiaji wa Tor ambao ambao wanakataa kutekeleza jalada lisilo la bure pia wanapata matibabu mabaya.
 Ukosefu huu wa upatikanaji ni unyanyasaji wa kutokubalika kwa mtandao na utumiaji mbaya wa madaraka.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Kushoto: Kivinjari cha Tor, kulia: Chrome. Anwani hiyo hiyo ya IP.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Kushoto: Jalascript ya Kivinjari Imewashwa, Kuki imewezeshwa
 - Kulia: Javascript ya Google Imewashwa, Kichukiza Walemavu
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (kivinjari kidogo) bila Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Kumbuka kuwa usajili wa karatasi hauzuilii Cloudflare kwa sababu katibu wa wafan
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org ni tovuti maarufu ya kukusanya kura na kuchukua hatua.
 “watu kila mahali wanaanza kampeni, kuhamasisha wafuasi, na kufanya kazi na watoa maamuzi kutoa suluhisho.”
@@ -200,7 +200,7 @@ Kutumia jukwaa lingine lisilo na wingu kama vile CloudPback kunasaidia kurekebis
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - "Mradi wa Athene" wa Cloudflare "inatoa kiwango cha biashara cha bure kwa tovuti za uchaguzi za serikali za mitaa na za mitaa.
 Walisema "watu wao wanaweza kupata habari za uchaguzi na usajili wa wapigakura" lakini huu ni uwongo kwa sababu watu wengi hawawezi kuvinjari tovuti kabisa.
@@ -220,7 +220,7 @@ Ikiwa utachagua kitu, unatarajia kwamba hautapokea barua pepe kuhusu hilo.
 Cloudflare hupuuza upendeleo wa watumiaji na kushiriki data na mashirika ya mtu wa tatu bila idhini ya mteja.
 Ikiwa unatumia mpango wao wa bure, wakati mwingine wanakutumia barua pepe wakikuuliza kununua usajili wa kila mwezi.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Alisema pia kwamba sera ya faragha ya Cloudflare haitaja kuhusu hilo.
 Sera yao mpya ya faragha haileti yoyote ya kutunza data kwa mwaka.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Unawezaje kuamini Cloudflare ikiwa sera zao za faragha ni LIE?
 
@@ -276,7 +276,7 @@ Lazima usiwe na vikoa au kadi za mkopo zilizowekwa kwenye akaunti yako kabla ya 
 
 Utapokea barua pepe hii ya uthibitisho.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Tumeanza kuchakata ombi lako la kufuta" lakini "Tutaendelea kuhifadhi habari yako ya kibinafsi".
 
@@ -297,5 +297,5 @@ Je! Unaweza "kuamini" hii?
 
 ## Tafadhali endelea kwa ukurasa unaofuata:   [Sauti za Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
