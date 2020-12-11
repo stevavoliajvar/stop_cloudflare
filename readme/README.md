@@ -3,4 +3,4 @@
 
 ---
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/cfisnotanoption.jpg)
