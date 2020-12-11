@@ -1,8 +1,8 @@
 # {%maintitle1%}
 
 
-![](../../image/itsreallythatbad.jpg)
-![](../../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 ---
 
@@ -12,51 +12,51 @@
 
 |  🖹  |  🖼 |
 | --- | --- |
-|  {%mainx0n00001%}{%mainx0n00002%}  |  ![](../../image/cloudflaredearuser.jpg) |
-|  {%mainx0n00003%}{%mainx0n00004%}{%mainx0n00005%}{%mainx0n00006%}{%mainx0n00007%}{%mainx0n00008%}  |  ![](../../image/cfmarketshare.jpg)  |
-|  {%mainx0n00009%}{%mainx0n00010%}{%mainx0n00011%} |  ![](../../image/border_patrol.jpg)  |
-|  {%mainx0n00012%}  |  ![](../../image/usershoulddecide.jpg)  |
-|  {%mainx0n00013%}{%mainx0n00014%}{%mainx0n00015%}{%mainx0n00016%}  |  ![](../../image/howcfwork.jpg)  |
-|  {%mainx0n00017%}{%mainx0n00018%}{%mainx0n00019%}{%mainx0n00020%}  |  ![](../../image/cfdowncfcom.jpg)  |
-|  {%mainx0n00021%}{%mainx0n00022%}  |  ![](../../image/cfdown2019.jpg) |
-|  {%mainx0n00023%}{%mainx0n00024%}{%mainx0n00025%} | ![](../../image/cloudflareinternalerror.jpg)<br>![](../../image/cloudflareoutage-2020.jpg) |
-|  {%mainx0n00026%}{%mainx0n00027%} | ![](../../image/cloudflarechina.jpg)  |
-|  {%mainx0n00028%}{%mainx0n00029%}{%mainx0n00030%} | ![](../../image/onemorestep.jpg) |
-|  {%mainx0n00031%} | ![](../../image/accdenied.jpg) |
-|  {%mainx0n00032%} | ![](../../image/cfublock.jpg) |
-|  {%mainx0n00033%}{%mainx0n00034%} | ![](../../image/omsjsck.jpg) |
-|  {%mainx0n00035%}{%mainx0n00036%} | ![](../../image/cftestgoogle.jpg)<br>![](../../image/htmlalertcloudflare2.jpg) |
-|  {%mainx0n00037%}{%mainx0n00038%} | ![](../../image/googlerecaptcha.jpg) |
-|  {%mainx0n00039%}{%mainx0n00040%}{%mainx0n00041%}{%mainx0n00042%} | ![](../../image/fedup_fucking_hcaptcha.jpg)<br>![](../../image/hcaptchablockchain.jpg) |
-|  {%mainx0n00043%} | ![](../../image/hcaptcha_abrv.jpg)<br>![](../../image/hcaptcha_chrome.jpg) |
-|  {%mainx0n00044%} | ![](../../image/omsnote.jpg) |
-|  {%mainx0n00045%}{%mainx0n00046%} |  ![](../../image/omsstream.jpg) |
-|  {%mainx0n00047%}{%mainx0n00048%}{%mainx0n00049%} | ![](../../image/omsdroid.jpg)<br>![](../../image/omsappl.jpg) |
-|  {%mainx0n00050%}{%mainx0n00051%}{%mainx0n00052%} | ![](../../image/cferr1010bsig.jpg) |
-|  {%mainx0n00053%}{%mainx0n00054%}{%mainx0n00055%} | ![](../../image/banvpn2.jpg) |
-|  {%mainx0n00056%}{%mainx0n00057%} | ![](../../image/banvpn.jpg) |
-|  {%mainx0n00058%}{%mainx0n00059%}{%mainx0n00060%}  | ![](../../image/whousetor.jpg) |
-|  {%mainx0n00061%}{%mainx0n00062%}{%mainx0n00063%}{%mainx0n00064%} | ![](../../image/iusetor_alith.jpg) |
-|  {%mainx0n00065%} | ![](../../image/cferr1016.jpg)<br>![](../../image/cferr1016sp.jpg) |
-|  {%mainx0n00066%}{%mainx0n00067%} | ![](../../image/cfdnsprob.jpg)<br>![](../../image/dnsfailtest.jpg) |
-|  {%mainx0n00068%}<br>{%mainx0n00069%}<br>{%mainx0n00070%}<br>{%mainx0n00071%} | ![](../../image/annoyed.jpg) |
-|  {%mainx0n00072%}{%mainx0n00073%} | ![](../../image/prism_gfe.jpg) |
-|  {%mainx0n00074%} | ![](../../image/cfhelp204144518.jpg) |
-|  {%mainx0n00075%} | ![](../../image/cfhelpforum.jpg) |
-|  {%mainx0n00076%} | ![](../../image/cfbloghtmledit.jpg) |
-|  {%mainx0n00077%} | ![](../../image/sniff2.gif) |
-|  {%mainx0n00078%} | ![](../../image/cfstrengthdata.jpg) |
-|  {%mainx0n00079%} | ![](../../image/federalinterest.jpg) |
-|  {%mainx0n00080%}:<br><br>{%mainx0n00081%}  | ![](../../image/dhssaid.jpg) |
-|  {%mainx0n00082%}{%mainx0n00083%}{%mainx0n00084%}{%mainx0n00085%}{%mainx0n00086%} | ![](../../image/howvpnwork.jpg) |
-|  {%mainx0n00087%}{%mainx0n00088%} | ![](../../image/notfastervpn.jpg) |
-|  {%mainx0n00089%}{%mainx0n00090%} | ![](../../image/prismattnsa.jpg) |
-|  {%mainx0n00091%}{%mainx0n00092%}{%mainx0n00093%}{%mainx0n00094%} | ![](../../image/edw_snow.jpg)<br>![](../../image/peopledonotthink.jpg) |
-|  {%mainx0n00095%} | ![](../../image/nsaslide_prismcorp.gif) |
-|  **{%mainx0n00096%}** | ![](../../image/honeypot.gif) |
-|  **{%mainx0n00097%}** | ![](../../image/iminurtls.jpg) |
-|  **{%mainx0n00098%}** | ![](../../image/shadycloudflare.jpg) |
-|  **{%mainx0n00099%}** | ![](../../image/cfisnotanoption.jpg) |
+|  {%mainx0n00001%}{%mainx0n00002%}  |  ![](../image/cloudflaredearuser.jpg) |
+|  {%mainx0n00003%}{%mainx0n00004%}{%mainx0n00005%}{%mainx0n00006%}{%mainx0n00007%}{%mainx0n00008%}  |  ![](../image/cfmarketshare.jpg)  |
+|  {%mainx0n00009%}{%mainx0n00010%}{%mainx0n00011%} |  ![](../image/border_patrol.jpg)  |
+|  {%mainx0n00012%}  |  ![](../image/usershoulddecide.jpg)  |
+|  {%mainx0n00013%}{%mainx0n00014%}{%mainx0n00015%}{%mainx0n00016%}  |  ![](../image/howcfwork.jpg)  |
+|  {%mainx0n00017%}{%mainx0n00018%}{%mainx0n00019%}{%mainx0n00020%}  |  ![](../image/cfdowncfcom.jpg)  |
+|  {%mainx0n00021%}{%mainx0n00022%}  |  ![](../image/cfdown2019.jpg) |
+|  {%mainx0n00023%}{%mainx0n00024%}{%mainx0n00025%} | ![](../image/cloudflareinternalerror.jpg)<br>![](../image/cloudflareoutage-2020.jpg) |
+|  {%mainx0n00026%}{%mainx0n00027%} | ![](../image/cloudflarechina.jpg)  |
+|  {%mainx0n00028%}{%mainx0n00029%}{%mainx0n00030%} | ![](../image/onemorestep.jpg) |
+|  {%mainx0n00031%} | ![](../image/accdenied.jpg) |
+|  {%mainx0n00032%} | ![](../image/cfublock.jpg) |
+|  {%mainx0n00033%}{%mainx0n00034%} | ![](../image/omsjsck.jpg) |
+|  {%mainx0n00035%}{%mainx0n00036%} | ![](../image/cftestgoogle.jpg)<br>![](../image/htmlalertcloudflare2.jpg) |
+|  {%mainx0n00037%}{%mainx0n00038%} | ![](../image/googlerecaptcha.jpg) |
+|  {%mainx0n00039%}{%mainx0n00040%}{%mainx0n00041%}{%mainx0n00042%} | ![](../image/fedup_fucking_hcaptcha.jpg)<br>![](../image/hcaptchablockchain.jpg) |
+|  {%mainx0n00043%} | ![](../image/hcaptcha_abrv.jpg)<br>![](../image/hcaptcha_chrome.jpg) |
+|  {%mainx0n00044%} | ![](../image/omsnote.jpg) |
+|  {%mainx0n00045%}{%mainx0n00046%} |  ![](../image/omsstream.jpg) |
+|  {%mainx0n00047%}{%mainx0n00048%}{%mainx0n00049%} | ![](../image/omsdroid.jpg)<br>![](../image/omsappl.jpg) |
+|  {%mainx0n00050%}{%mainx0n00051%}{%mainx0n00052%} | ![](../image/cferr1010bsig.jpg) |
+|  {%mainx0n00053%}{%mainx0n00054%}{%mainx0n00055%} | ![](../image/banvpn2.jpg) |
+|  {%mainx0n00056%}{%mainx0n00057%} | ![](../image/banvpn.jpg) |
+|  {%mainx0n00058%}{%mainx0n00059%}{%mainx0n00060%}  | ![](../image/whousetor.jpg) |
+|  {%mainx0n00061%}{%mainx0n00062%}{%mainx0n00063%}{%mainx0n00064%} | ![](../image/iusetor_alith.jpg) |
+|  {%mainx0n00065%} | ![](../image/cferr1016.jpg)<br>![](../image/cferr1016sp.jpg) |
+|  {%mainx0n00066%}{%mainx0n00067%} | ![](../image/cfdnsprob.jpg)<br>![](../image/dnsfailtest.jpg) |
+|  {%mainx0n00068%}<br>{%mainx0n00069%}<br>{%mainx0n00070%}<br>{%mainx0n00071%} | ![](../image/annoyed.jpg) |
+|  {%mainx0n00072%}{%mainx0n00073%} | ![](../image/prism_gfe.jpg) |
+|  {%mainx0n00074%} | ![](../image/cfhelp204144518.jpg) |
+|  {%mainx0n00075%} | ![](../image/cfhelpforum.jpg) |
+|  {%mainx0n00076%} | ![](../image/cfbloghtmledit.jpg) |
+|  {%mainx0n00077%} | ![](../image/sniff2.gif) |
+|  {%mainx0n00078%} | ![](../image/cfstrengthdata.jpg) |
+|  {%mainx0n00079%} | ![](../image/federalinterest.jpg) |
+|  {%mainx0n00080%}:<br><br>{%mainx0n00081%}  | ![](../image/dhssaid.jpg) |
+|  {%mainx0n00082%}{%mainx0n00083%}{%mainx0n00084%}{%mainx0n00085%}{%mainx0n00086%} | ![](../image/howvpnwork.jpg) |
+|  {%mainx0n00087%}{%mainx0n00088%} | ![](../image/notfastervpn.jpg) |
+|  {%mainx0n00089%}{%mainx0n00090%} | ![](../image/prismattnsa.jpg) |
+|  {%mainx0n00091%}{%mainx0n00092%}{%mainx0n00093%}{%mainx0n00094%} | ![](../image/edw_snow.jpg)<br>![](../image/peopledonotthink.jpg) |
+|  {%mainx0n00095%} | ![](../image/nsaslide_prismcorp.gif) |
+|  **{%mainx0n00096%}** | ![](../image/honeypot.gif) |
+|  **{%mainx0n00097%}** | ![](../image/iminurtls.jpg) |
+|  **{%mainx0n00098%}** | ![](../image/shadycloudflare.jpg) |
+|  **{%mainx0n00099%}** | ![](../image/cfisnotanoption.jpg) |
 
 
 ---
@@ -84,7 +84,7 @@
 * [{%mainx3n0007%}](../anti-tor_users/)
 
 
-![](../../image/goodorbad.jpg)
+![](../image/goodorbad.jpg)
 
 
 **{%mainx3n0008%}**
@@ -101,7 +101,7 @@
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
-![](../../image/watcloudflare.jpg)
+![](../image/watcloudflare.jpg)
 
 
 </details>
@@ -153,25 +153,25 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](../../image/wtfcf.jpg) | ![](../../image/omsirl2.jpg) |
-| ![](../../image/omsirl.jpg) | ![](../../image/whydoihavetosolveacaptcha.jpg) |
-| ![](../../image/fixthedamn.jpg) | ![](../../image/imnotarobot.jpg) |
+| ![](../image/wtfcf.jpg) | ![](../image/omsirl2.jpg) |
+| ![](../image/omsirl.jpg) | ![](../image/whydoihavetosolveacaptcha.jpg) |
+| ![](../image/fixthedamn.jpg) | ![](../image/imnotarobot.jpg) |
 
 </details>
 
 ---
 
 
-![](../../image/twe_lb.jpg)
+![](../image/twe_lb.jpg)
 
-![](../../image/twe_dz.jpg)
+![](../image/twe_dz.jpg)
 
-![](../../image/twe_jb.jpg)
+![](../image/twe_jb.jpg)
 
-![](../../image/twe_ial.jpg)
+![](../image/twe_ial.jpg)
 
-![](../../image/twe_eptg.jpg)
+![](../image/twe_eptg.jpg)
 
-![](../../image/eastdakota_1273277839102656515.jpg)
+![](../image/eastdakota_1273277839102656515.jpg)
 
-![](../../image/stopcf.jpg)
+![](../image/stopcf.jpg)
