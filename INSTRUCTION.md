@@ -235,7 +235,7 @@ Your contribution will be pushed to Codeberg automatically within a week.
 </summary>
 
 
-This procedure will give you a stop_cloudflare fork with a privacy-respecting configuration to do pushes with SSH over Tor using codeberg.org("CDB").
+This procedure will give you a stop_cloudflare fork with a privacy-respecting configuration to do pushes with SSH over Tor using `git.fuwafuwa.moe`.
 Below procedure is designed for _Linux_.
 The first step covers Windows too, but these instructions probably
 need more adaptations for Windows and other platforms.
@@ -245,13 +245,13 @@ need more adaptations for Windows and other platforms.
 - Windows: Download `PortableGit` from [Github](https://github.com/git-for-windows/) & run `git-bash.exe`
 
 1. Install Git, SSH(Not Windows), and Tor (if you haven't already)
-1. Create a `codeberg.org` account (username "snowden" will be used for this example)
+1. Create a `git.fuwafuwa.moe` account (username "snowden" will be used for this example)
   - **NOTICE**: Codeberg is blocking temporary email services and some minor email providers(not temporary email).
 1. Create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_mrsnowden`
 1. Edit `$HOME/.ssh/config`:
 ```
-    host codeberg.org
-         hostname     codeberg.org
+    host git.fuwafuwa.moe
+         hostname     git.fuwafuwa.moe
          ForwardX11   no
          ProxyCommand connect -4 -S 127.0.0.1:9050 $(tor-resolve %h 127.0.0.1:9050) %p
     host mrsnowden
@@ -259,7 +259,7 @@ need more adaptations for Windows and other platforms.
 ```
 
 1. copy `"$HOME"/.ssh/id_rsa_mrsnowden.pub` to clipboard
-1. codeberg.org > settings > SSH/GPG Keys > add key (paste from clipboard)
+1. git.fuwafuwa.moe > settings > SSH/GPG Keys > add key (paste from clipboard)
 1. $ `firefox https://git.fuwafuwa.moe/you/stop_cloudflare`
 1. fork it (top right corner)
 1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
