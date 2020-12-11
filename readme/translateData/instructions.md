@@ -16,8 +16,8 @@
 1. [Fork](https://git.fuwafuwa.moe/you/stop_cloudflare/forks) stop_cloudflare.
 
 2. Copy `/readme/translateData/TEMPLATE.main.tab` to `/readme/translateData/override/zz.main.tab`.
-  - /readme/translateData/TEMPLATE.main.tab > /readme/translateData/override/zz.main.tab
-  - /readme/translateData/TEMPLATE.ethics.tab > /readme/translateData/override/zz.ethics.tab
+  - cp /readme/translateData/TEMPLATE.main.tab /readme/translateData/override/_zz_.main.tab
+  - cp /readme/translateData/TEMPLATE.ethics.tab /readme/translateData/override/_zz_.ethics.tab
 
 3. Remove all lines but keep what you want to fix. (you can translate all lines if you wish)
   - e.g `mainx0n00013	Take a look at the right image.`
@@ -30,11 +30,6 @@
 5. Make a pull request.
 
 6. We'll regenerate MD file using your override file later.
-
-
-### I don't want to create an account on Codeberg.
-
-You can send edited "tab" files to us, or submit it to upstream.
 
 
 ### Why should I help you?
