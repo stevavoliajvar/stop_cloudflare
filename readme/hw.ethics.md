@@ -1,7 +1,7 @@
 # Nā Kumuhana Ethical
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Mai kākoʻo i kēia ʻoihana ʻole o ka loina"
 
@@ -34,8 +34,8 @@ Pehea mākou e hōʻoki ai iā Cloudflare me ka ʻole o Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Inā kau ʻoe i kahi loiloi maikaʻi ʻole ma kekahi pūnaewele nānā, e hoʻā
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Inā ʻaʻole ʻoe makemake e hoʻomāinoino ʻia, hōʻeha ʻia, pepehi ʻia a 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ He mea weliweli loa ia e noi ana kahi hui ʻAmelika no ke aloha ma ka ʻaoʻao o
 Inā makemake ʻoe i ka pale ʻana i ka poʻe a i ʻole ka hoʻonele ʻana i ka manawa o nā poʻe ʻē aʻe, makemake paha ʻoe e ʻoka i kekahi mau pizza no nā limahana ʻo Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ He aha kāu e hana ai inā e iho koke kāu pūnaewele?
 Aia kekahi mau hōʻike e holoi nei ʻo Cloudflare i ka hoʻonohonoho a ka mea hoʻohana a kū paha i ka lawelawe me ka ʻole o kahi ʻōlelo aʻoaʻo, me ka leo ʻole.
 Paipai mākou iā ʻoe e ʻike i ka mea hāʻawi ʻoi aku ka maikaʻi.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@ Hāʻawi ʻo CloudFlare i ka mālama makemake ʻia i ka poʻe e hoʻohana nei i�
 ʻO nā mea hoʻohana Tor o ka poʻe e hōʻole pono ʻole e hoʻokō i ka javascript ʻole manuahi e loaʻa ka mālama ʻino.
 ʻO kēia kūpono ʻole ke komo i ka hana ʻino neutrality a me ka hōʻino ʻana i ka mana.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Hema: Pūnaewele Tor, Kākau: Chrome. Wahi IP kūlike.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Hema: Hoʻokauā ka Tor Pūnaewele ʻo Javascript Tor, Hana Kuki
 - Kākau: Hana ʻia ʻo Javascript Chrome, ʻAihue Kuki
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (polokalamu kele pūnaewele liʻiliʻi) me ka ʻole Tor (Clearnet IP)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/lynx_cloudflare.gif)
+![](../image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@ E hoʻomaopopo i ka hoʻopili ʻole ʻana o ka hoʻopaʻa inoa pepa ʻana iā Cl
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - He punaewele kaulana ʻo Change.org no ka ʻohiʻohi ʻana i nā balota a hana i ka hana.
 “ke hoʻomaka nei ka poʻe i nā wahi a pau, e hoʻākoakoa i nā mea kākoʻo, a e hana pū ana me nā mea hoʻoholo e hoʻokele i nā hopena.”
@@ -205,7 +205,7 @@ Ke ālai ʻia nei lākou mai ke kau inoa ʻana i ka palapala noi, no laila ke k�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Hāʻawi ʻo Cloudflare "Athenian Project" i ka pale ʻana i ka pae ʻoihana manuahi i nā pūnaewele koho balota a mokuʻāina a kūloko hoʻi.
 ʻLelo lākou "hiki i kā lākou mea koho ke kiʻi i ka ʻike o ke koho balota a me ke kau inoa balota" akā he wahaheʻe kēia no ka mea ʻaʻole hiki i ka poʻe he nui ke mākaʻikaʻi i ka pūnaewele.
@@ -225,7 +225,7 @@ Inā koho ʻoe i kekahi mea, manaʻo ʻoe ʻaʻole ʻoe e loaʻa i kahi leka uil
 Mālama ʻo Cloudflare i ka makemake o ka mea hoʻohana a kaʻana like i ka ʻikepili me nā ʻoihana ʻaoʻao ʻekolu me ka ʻae ʻole o ka mea kūʻai.
 Inā ʻoe e hoʻohana nei i kā lākou hoʻolālā manuahi, hoʻouna lākou i kekahi manawa i ka leka uila iā ʻoe e noi ana e kūʻai i ka kau inoa o kēlā me kēia mahina.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@ Ua ʻōlelo pū ʻo ia ʻaʻole kā Cloudflare kulekele pilikino e haʻi e pili 
 ʻAʻole hōʻike kā lākou kulekele pilikino pilikino i ka mālama ʻana i ka ʻikepili no hoʻokahi makahiki.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Pehea ʻoe e hilinaʻi ai iā Cloudflare inā he LIE kā lākou kulekele pilikino?
 
@@ -283,7 +283,7 @@ a noi i ka holoi ʻana i ka waihona i ka kino leka.
 
 E loaʻa iā ʻoe kēia hōʻoia leka uila.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Ua hoʻomaka mākou e hana i kāu noi holoi" akā "E hoʻomau mākou e mālama i kāu ʻike pilikino".
 
@@ -319,5 +319,5 @@ Hiki iā ʻoe ke "hilinaʻi" i kēia?
 
 ## E ʻoluʻolu e hoʻomau i ka ʻaoʻao aʻe:   [Leo Leo](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
