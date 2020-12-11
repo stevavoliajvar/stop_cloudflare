@@ -1,7 +1,7 @@
 # Этикалық мәселелер
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Бұл компанияны этикаға қайшы деп санамаңыз"
 
@@ -34,8 +34,8 @@ Cloudflare-ді іске қоспай-ақ қалай тоқтата аламы�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare цензурасы теріс пікірлер.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare орналастырылған сайттарға шағымдана�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare қайырымдылық жарналарын сұрайды.
 Егер сіз адамдарға тосқауыл қоюды немесе басқа адамдардың уақытын ысырап етуді ұнататын болсаңыз, Cloudflare қызметкерлеріне пиццаларға тапсырыс бергіңіз келуі мүмкін.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare қайырымдылық жарналарын сұрайды.
 Cloudflare пайдаланушының конфигурациясын жойып жатыр немесе ешқандай қызметті ескертусіз тоқтатады деген ақпараттар бар.
 Жақсы провайдер табуға кеңес береміз.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare Firefox-ті пайдаланатындарға Tor-браузерд�
 Ақысыз javascript-ті орындаудан заңды түрде бас тартатын Tor қолданушылары да қастықпен қарайды.
 Бұл қол жетімділік теңсіздігі желілік бейтараптықты бұзу және билікті теріс пайдалану болып табылады.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Сол жақта: Tor браузері, оң жақта: Chrome. Сол IP мекен-жайы.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Сол жақта: Tor шолғышында Javascript өшірілген, куки қосылған
 - Оң жақта: Javascript қосылған, Cookie өшірілген
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - Tor (Clearnet IP) жоқ QuteBrowser (қосымша шолғыш)
 
@@ -190,7 +190,7 @@ Cloudflare компаниясының Tor пайдаланушыларына қ�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org - дауыстарды жинап, шаралар қабылдауға арналған танымал сайт.
 “барлық жерде адамдар науқанды бастайды, қолдаушыларды жұмылдырады және шешім қабылдау үшін шешім қабылдаушылармен жұмыс істейді.”
@@ -200,7 +200,7 @@ Cloudflare компаниясының Tor пайдаланушыларына қ�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare-дің «Афиниялық жоба» мемлекеттік және жергілікті сайлау сайттарына кәсіпорын деңгейінде тегін қорғауды ұсынады.
 Олар «өздерінің сайлаушылары сайлау туралы ақпаратқа және сайлаушыларды тіркеуге қол жеткізе алады» деді, бірақ бұл жалған, өйткені көптеген адамдар сайтты мүлде қарай алмайды.
@@ -220,7 +220,7 @@ Cloudflare компаниясының Tor пайдаланушыларына қ�
 Cloudflare пайдаланушының қалауын елемейді және тұтынушының келісімінсіз үшінші тарап корпорацияларымен бөліседі.
 Егер сіз олардың тегін жоспарын пайдалансаңыз, олар кейде сізге ай сайынғы жазылымды сатып алуды сұрайтын электрондық поштаны жібереді.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Cloudflare «алып тастау» сөзі туралы білмеді.
 Олардың жаңа құпиялылық саясаты бір жыл ішінде деректерді сақтау туралы ештеңе айтпайды.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Cloudflare-ге, егер олардың құпиялылық саясаты LIE болса, оған қалай сенуге болады?
 
@@ -276,7 +276,7 @@ Cloudflare есептік жазбасын жою қиын емес.
 
 Сізге бұл растау туралы хабарлама келеді.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 «Біз сіздің сұрауыңызды өңдеуді бастадық», бірақ «біз сіздің жеке мәліметтеріңізді сақтауды жалғастырамыз».
 
@@ -297,5 +297,5 @@ Cloudflare есептік жазбасын жою қиын емес.
 
 ## Келесі бетке өтіңіз:   [Бұлттар үні](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
