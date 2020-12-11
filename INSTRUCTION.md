@@ -247,33 +247,33 @@ need more adaptations for Windows and other platforms.
 1. Install Git, SSH(Not Windows), and Tor (if you haven't already)
 1. Create a `codeberg.org` account (username "snowden" will be used for this example)
   - **NOTICE**: Codeberg is blocking temporary email services and some minor email providers(not temporary email).
-1. Create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_codeberg-snowden`
+1. Create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_mrsnowden`
 1. Edit `$HOME/.ssh/config`:
 ```
     host codeberg.org
          hostname     codeberg.org
          ForwardX11   no
          ProxyCommand connect -4 -S 127.0.0.1:9050 $(tor-resolve %h 127.0.0.1:9050) %p
-    host codeberg-snowden
-         IdentityFile /home/user/.ssh/id_rsa_codeberg-snowden
+    host mrsnowden
+         IdentityFile /home/user/.ssh/id_rsa_mrsnowden
 ```
 
-1. copy `"$HOME"/.ssh/id_rsa_codeberg-snowden.pub` to clipboard
+1. copy `"$HOME"/.ssh/id_rsa_mrsnowden.pub` to clipboard
 1. codeberg.org > settings > SSH/GPG Keys > add key (paste from clipboard)
 1. $ `firefox https://git.fuwafuwa.moe/you/stop_cloudflare`
 1. fork it (top right corner)
 1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
-1. anonymously download your fork: $ `git clone git@codeberg-snowden:crimeflare/stop_cloudflare.git`
+1. anonymously download your fork: $ `git clone git@mrsnowden:crimeflare/stop_cloudflare.git`
 1. edit `$project_root/stop_cloudflare/.git/config` to include the account name and email address that will be on every commit, as well as the URL:
 ```
 [user]
         email = BM-yadayadayada6fgnLfybVnCcWf25AGZcgg@bitmessage.ch
         name = snowden
 [remote "origin"]
-        url = git@codeberg-snowden:snowden/stop_cloudflare.git
+        url = git@mrsnowden:snowden/stop_cloudflare.git
      	fetch = +refs/heads/*:refs/remotes/origin/*
 [remote "upstream"]
-        url = git@codeberg-snowden:crimeflare/stop_cloudflare.git
+        url = git@mrsnowden:crimeflare/stop_cloudflare.git
      	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
@@ -294,7 +294,19 @@ need more adaptations for Windows and other platforms.
 Whenever git operates on the stop_cloudflare project, all connections
 to codeberg are automatically over Tor with this configuration
 (because the `url` in `.git/config` references the virtual host
-`codeberg-snowden` in `~/.ssh/config`).
+`mrsnowden` in `~/.ssh/config`).
+
+</details>
+
+------
+
+<details>
+<summary>_click me_
+
+## How to edit files without account
+</summary>
+
+It is possible to edit any files on this repository using shared editor. If you wish to collaborate anonymously, contact and show us how much activism you have done. You'll need a computer.
 
 </details>
 
@@ -342,7 +354,7 @@ If `the owner` moved away from `cloudflare` **completely**, you are welcome to a
 
 3. Click `test` for detailed scan.
 
-4. If you got `---Finish---`, the domain _might_ stopped using Cloudflare.
+4. If you got `--- Finish ---`, the domain _might_ stopped using Cloudflare.
 
 We'll _investigate_ and remove it _if_ it is true.<br>
 You may prioritize your review request by contacting us if you are in a hurry.
@@ -356,4 +368,4 @@ You may prioritize your review request by contacting us if you are in a hurry.
 
 ---
 
-!["Cloudflare is not an option."](image/cfisnotanoption.jpg)
+![](image/cfisnotanoption.jpg)
