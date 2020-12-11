@@ -1,7 +1,7 @@
 # Axloqiy masalalar
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Axloq qoidalari bekor qilingan ushbu kompaniyani qo'llab-quvvatlamang"
 
@@ -34,8 +34,8 @@ Cloudflare-ni faollashtirmasdan qanday qilib Cloudflare-ni to'xtatishimiz mumkin
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Agar siz biron bir sharh saytida salbiy sharh joylashtirsangiz, ular buni senzur
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Agar sizni ta'qib qilish, hujum qilish, o'ldirish yoki o'ldirishni xohlamasangiz
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Amerika korporatsiyasi yaxshi sabablarga ega bo'lgan notijorat tashkilotlari bil
 Agar siz odamlarni blokirovka qilishni yoki boshqalarning vaqtini behuda o'tkazishni yaxshi ko'rsangiz, Cloudflare xodimlari uchun pitssalarga buyurtma berishingiz mumkin.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Agar saytingiz to'satdan tushib qolsa nima qilasiz?
 Cloudflare foydalanuvchi konfiguratsiyasini o'chirayotgani yoki xizmatni to'xtatib qo'ygani haqida hech qanday ogohlantirishsiz jimgina xabarlar mavjud.
 Sizga yaxshiroq provayder topishingizni maslahat beramiz.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@ CloudFlare Tor-brauzerdan tashqari Tor-ga qarshi foydalanuvchilarga dushmanlik m
 Bepul bo'lmagan JavaScript-ni bajarishdan haqli ravishda voz kechgan Tor foydalanuvchilari ham dushmanona munosabatda bo'lishadi.
 Ushbu kirish tengsizligi tarmoq betarafligini suiiste'mol qilish va vakolatni suiiste'mol qilishdir.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Chapda: Tor brauzeri, o'ngda: Chrome. Xuddi shu IP-manzil.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Chapda: Tor brauzeri Javascript o'chirilgan, Cookie-fayl yoqilgan
 - O'ngda: Chrome Javascript yoqilgan, Cookie-fayl o'chirilgan
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - Tor (Clearnet IP) holda QuteBrowser (kichik brauzer)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/lynx_cloudflare.gif)
+![](../image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@ Shuni esda tutingki, qog'ozni ro'yxatdan o'tkazish Cloudflare-ni chetlab o'tmayd
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org - ovoz to'plash va harakatlarni amalga oshirish uchun mashhur veb-sayt.
 “hamma joyda odamlar kampaniyalarni boshlashmoqda, tarafdorlarini safarbar qilishmoqda va qaror qabul qiluvchilar bilan echimlarni topish uchun ishlashmoqda.”
@@ -205,7 +205,7 @@ OpenPetition kabi bulutli bo'lmagan boshqa platformadan foydalanish muammoni hal
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare-ning "Afina loyihasi" davlat va mahalliy saylov veb-saytlariga bepul korxona darajasida himoyani taqdim etadi.
 Ularning so'zlariga ko'ra, "o'z saylovchilari saylov to'g'risidagi ma'lumotlar va saylovchilarni ro'yxatdan o'tkazishlari mumkin", ammo bu yolg'on, chunki ko'p odamlar saytni umuman ko'rib chiqa olmaydilar.
@@ -225,7 +225,7 @@ Agar biror narsani rad qilsangiz, bu haqda sizga elektron pochta xabarlari kelma
 Cloudflare foydalanuvchining afzalliklarini inobatga olmaydi va mijozning roziligisiz uchinchi tomon korporatsiyalari bilan ma'lumotlarni almashadi.
 Agar siz ularning bepul rejasidan foydalansangiz, ular ba'zida sizga oylik obuna sotib olishni so'rab elektron pochta xabarlarini yuborishadi.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@ Shuningdek, u Cloudflare-ning maxfiylik siyosatida bu haqda hech narsa aytilmaga
 Ularning yangi maxfiylik siyosatida bir yil davomida ma'lumotlarni saqlash haqida hech narsa aytilmagan.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Agar ularning maxfiylik siyosati yolg'on bo'lsa, qanday qilib Cloudflare-ga ishonishingiz mumkin?
 
@@ -283,7 +283,7 @@ O'chirishni talab qilishdan oldin sizning hisobingizda hech qanday domen yoki kr
 
 Sizga ushbu tasdiqlash xati keladi.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Biz sizning o'chirish so'rovingizni ko'rib chiqishni boshladik", lekin "biz sizning shaxsiy ma'lumotlaringizni saqlashda davom etamiz".
 
@@ -319,5 +319,5 @@ Bunga "ishonishingiz" mumkinmi?
 
 ## Iltimos, keyingi sahifaga o'ting:   [Cloudflare Voices](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
