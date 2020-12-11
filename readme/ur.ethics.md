@@ -2,8 +2,8 @@
 
 # اخلاقی مسائل
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "اس کمپنی کی حمایت نہ کریں جو اخلاقیات سے باطل ہے"
 
@@ -36,8 +36,8 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -57,7 +57,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -78,9 +78,9 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -98,7 +98,7 @@
 اگر آپ لوگوں کو مسدود کرنا یا دوسرے لوگوں کا وقت ضائع کرنا پسند کرتے ہیں تو ، آپ کلاؤڈ فلائر ملازمین کے لئے کچھ پیزا منگوانا چاہتے ہیں۔
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -115,7 +115,7 @@
 ایسی اطلاعات ہیں کہ کلاؤڈ فلایر خاموشی سے ، کسی انتباہ کے بغیر صارف کی تشکیل حذف کررہا ہے یا سروس بند کر رہا ہے۔
 ہم تجویز کرتے ہیں کہ آپ کو بہتر فراہم کنندہ تلاش کریں۔
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -132,16 +132,16 @@
 ٹور استعمال کرنے والوں کو جو مفت میں جاوا اسکرپٹ کا استعمال کرنے سے بجا طور پر انکار کرتے ہیں وہ بھی معاندانہ سلوک کرتے ہیں۔
 یہ رسائ کی عدم مساوات ایک نیٹ ورک کی غیر جانبداری کا غلط استعمال اور طاقت کا غلط استعمال ہے۔
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - بائیں: ٹور براؤزر ، دائیں: کروم۔ ایک ہی IP ایڈریس۔
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - بائیں: ٹور براؤزر جاوا اسکرپٹ غیر فعال ، کوکی قابل بنائی گئی
 - ٹھیک ہے: کروم جاوا اسکرپٹ کو قابل بنایا گیا ، کوکی غیر فعال ہے
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - ٹور (کلیارنیٹ IP) کے بغیر QuteBrowser (معمولی براؤزر)
 
@@ -192,7 +192,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - چینج ڈاٹ آر ووٹ جمع کرنے اور کارروائی کرنے کے لئے مشہور ویب سائٹ ہے۔
 “ہر جگہ لوگ مہمات کا آغاز کررہے ہیں ، حامیوں کو متحرک کررہے ہیں ، اور فیصلہ سازوں کے ساتھ مل کر کام حل کررہے ہیں۔”
@@ -202,7 +202,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - کلاؤڈ فلائر کا "ایتھنین پروجیکٹ" ریاست اور مقامی انتخابی ویب سائٹوں کو انٹرپرائز سطح کا مفت تحفظ فراہم کرتا ہے۔
 انہوں نے کہا کہ "ان کے حلقے انتخابی معلومات اور ووٹروں کے اندراج تک رسائی حاصل کرسکتے ہیں" لیکن یہ جھوٹ ہے کیونکہ بہت سے لوگ صرف سائٹ کو براؤز نہیں کرسکتے ہیں۔
@@ -222,7 +222,7 @@
 کلاؤڈ فلایر صارف کی ترجیح کو نظر انداز کرتے ہیں اور صارفین کی رضامندی کے بغیر تیسری پارٹی کے کارپوریشنوں کے ساتھ ڈیٹا کا اشتراک کرتے ہیں۔
 اگر آپ ان کا مفت منصوبہ استعمال کررہے ہیں تو ، وہ کبھی کبھی آپ کو ماہانہ رکنیت خریدنے کے لئے ای میل بھیجتے ہیں۔
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -253,7 +253,7 @@
 ان کی نجی رازداری کی پالیسی میں ایک سال تک اعداد و شمار کو برقرار رکھنے کا کوئی ذکر نہیں ہے۔
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 اگر کلاؤڈ فلایر پر ان کی رازداری کی پالیسی LIE ہے تو آپ کس طرح اعتماد کرسکتے ہیں؟
 
@@ -278,7 +278,7 @@
 
 آپ کو یہ تصدیقی ای میل موصول ہوگا۔
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "ہم نے آپ کی حذف کرنے کی درخواست پر کارروائی شروع کردی ہے" لیکن "ہم آپ کی ذاتی معلومات کو محفوظ رکھنا جاری رکھیں گے"۔
 
@@ -299,7 +299,7 @@
 
 ## براہ کرم اگلے صفحے پر جاری رکھیں:   [کلاؤڈ فلایر وائسز](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
 
 </div>
