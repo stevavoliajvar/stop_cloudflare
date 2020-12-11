@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/matthew_prince.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/blockedbymatthewprince.jpg) |
+| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/whoismp.jpg)
+![](image/whoismp.jpg)
 
 ---
 
@@ -39,19 +39,19 @@ specific services or sites that you run into issue with and share your experienc
 
 If you don't [ask for it](PEOPLE.md), website owner *never* know this problem.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/liberapay.jpg)
+![](image/liberapay.jpg)
 
 [Successful example](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 You have a problem? [Raise your voice now](https://github.com/maraoz/maraoz.github.io/issues/1). Example below.
 
 ```
 You are just helping corporate censorship and mass surveillance.
-https://codeberg.org/crimeflare/stop_cloudflare/src/branch/master/README.md
+https://git.fuwafuwa.moe/you/stop_cloudflare/src/branch/master/README.md
 ```
 
 ```
 Your web page is in the privacy-abusing private walled-garden of CloudFlare.
-See https://codeberg.org/crimeflare/stop_cloudflare/
+See https://git.fuwafuwa.moe/you/stop_cloudflare/
 ```
 
 - Take some time to read website's privacy policy.
@@ -64,12 +64,12 @@ An _acceptable_ privacy policy example is [here](https://archive.is/bDlTz) (look
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
 I refuse to share data with you if you continue to feed my data to Cloudflare.
-See https://codeberg.org/crimeflare/stop_cloudflare/
+See https://git.fuwafuwa.moe/you/stop_cloudflare/
 ```
 
 For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfwontobey.jpg)
+![](image/cfwontobey.jpg)
 
 ... is not going to happen.
 Cloudflare have their own "privacy policy", and there's no way to hear customer's privacy policy needs.
@@ -89,7 +89,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 
 - Try not to use their service. Remember you are being watched by Cloudflare.
-  - [I'm in your TLS, sniffin' your passworz](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg)
+  - [I'm in your TLS, sniffin' your passworz](image/iminurtls.jpg)
 
 - Search for other website. There are alternatives and opportunites on the internet!
 
@@ -113,10 +113,10 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 | Name | Developer | Support | Can Block | Can Notify | support Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | Crimeflare #Addon | [Link](https://codeberg.org/crimeflare/stop_cloudflare/issues) | **Yes**     | **Yes**     |  **Yes** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | Crimeflare #Addon | [Link](https://codeberg.org/crimeflare/stop_cloudflare/issues) | No     | **Yes**     |  **Yes** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | Crimeflare #Addon | [Link](https://codeberg.org/crimeflare/stop_cloudflare/issues) | No     | **Yes**     |  **Yes** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [Link](tool/block_cloudflare_mitm_fx), [Link](https://codeberg.org/crimeflare/stop_cloudflare/issues) | **Yes**     | **Yes**     |  No |
+| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [Link](README.md) | **Yes**     | **Yes**     |  **Yes** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [Link](README.md) | No     | **Yes**     |  **Yes** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [Link](README.md) | No     | **Yes**     |  **Yes** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [Link](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Yes**     | **Yes**     |  No |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [Link](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Yes**     | **Yes**     |  No |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [Link](https://github.com/traktofon/cf-detect) | No     | **Yes**     |  No |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [Link](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Yes**     |  No |
@@ -138,28 +138,28 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 </summary>
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/word_cloudflarefree.jpg)
+![](image/word_cloudflarefree.jpg)
 
 - Do not use Cloudflare solution, Period.
   - You can do better than that, *right*? Here's how to [remove Cloudflare subscriptions, plans, domains, or accounts](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts).
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/htmlalertcloudflare.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/htmlalertcloudflare2.jpg) |
+| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
 
 - Want more customers? You know what to do. Hint is "_above line_".
   - Hello, you wrote "[We take your privacy seriously](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously)" but I got "_Error 403 Forbidden Anonymous Proxy Not Allowed_". Why are you blocking Tor? Or VPN?
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/anonexist.jpg)
+![](image/anonexist.jpg)
 
 - Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down *or Cloudflare is down*. Did you really think [Cloudflare never go down](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008)? [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflareinternalerror.jpg)
+![](image/cloudflareinternalerror.jpg)
 
 - Using Cloudflare to proxy your "API service", "Client(software) [update server](https://forums.clamwin.com/viewtopic.php?t=4915)" or "RSS feed" will harm your customer. A customer called you and said "_I can't use your API anymore_", and you have no idea what is going on. Cloudflare can [silently block your customer](PEOPLE.md). [Do you think it is okay](https://twitter.com/Skyfusion89/status/1101596592426151937)?
   - There are many RSS reader client and RSS reader online service. Why are you publishing RSS feed if you're not allowing people to subscribe?
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/rssfeedovercf.jpg)
+![](image/rssfeedovercf.jpg)
 
 - Do you need HTTPS certificate? Use "[Let's Encrypt](https://letsencrypt.org/)" or just buy it from CA company.
 
@@ -252,7 +252,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/stop_cloudflare for more information.<br />
+Please read https://git.fuwafuwa.moe/you/stop_cloudflare for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -370,10 +370,10 @@ Therefore we recommend above table only. _Nothing else_.
 - To disable DoH, enter *about:config?filter=network.trr* in the address bar then set "*network.trr.mode*" to 5 to completely disable it. The value "5" [means "Off by choice"](https://gist.github.com/bagder/5e29101079e9ac78920ba2fc718aceec).
   - [Change default DNS provider of firefox](subfiles/change-firefox-dns.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/firefoxdns.jpg)
+![](image/firefoxdns.jpg)
 
 - If you would like to use non-ISP DNS, consider using [OpenNIC Tier2 DNS service](https://wiki.opennic.org/start)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/opennic.jpg) or any of non-Cloudflare DNS services.
+![](image/opennic.jpg) or any of non-Cloudflare DNS services.
 
 - You can use Tor as DNS resolver. If you're not Tor expert, [ask question here](https://tor.stackexchange.com/).
 
@@ -454,4 +454,4 @@ There isn't anything futuristic about this. We have already lost.
 ### Now, what did you do today?
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
+![](image/stopcf.jpg)
