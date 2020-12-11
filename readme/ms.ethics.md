@@ -1,7 +1,7 @@
 # Isu etika
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Jangan menyokong syarikat ini yang tidak mempunyai etika"
 
@@ -34,8 +34,8 @@ Bagaimana kita boleh menghentikan Cloudflare tanpa mengaktifkan Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Sekiranya anda menyiarkan ulasan negatif di mana-mana laman web ulasan, mereka a
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Sekiranya anda tidak mahu diganggu, diserang, disapu atau dibunuh, lebih baik an
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Amat mengerikan bahawa sebuah syarikat Amerika akan meminta amal bersama dengan 
 Sekiranya anda suka menyekat orang atau membuang masa orang lain, anda mungkin ingin memesan beberapa pizza untuk pekerja Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Apa yang akan anda lakukan sekiranya laman web anda hilang secara tiba-tiba?
 Terdapat laporan bahawa Cloudflare menghapus konfigurasi pengguna atau menghentikan perkhidmatan tanpa sebarang amaran, secara senyap.
 Kami mencadangkan anda mencari pembekal yang lebih baik.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare memberikan perlakuan istimewa kepada mereka yang menggunakan Firefox 
 Pengguna Tor yang dengan betul menolak untuk melaksanakan javascript bebas juga menerima perlakuan bermusuhan.
 Ketidaksamaan akses ini adalah penyalahgunaan netraliti rangkaian dan penyalahgunaan kuasa.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Kiri: Penyemak Imbas Tor, Kanan: Chrome. Alamat IP yang sama.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Kiri: Javascript Penyemak Imbas Dinyahdayakan, Kuki Diaktifkan
 - Kanan: Javascript Chrome Diaktifkan, Kuki Dinyahaktifkan
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (penyemak imbas kecil) tanpa Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Perhatikan bahawa pendaftaran kertas tidak melanggar Cloudflare kerana pekerja k
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org adalah laman web terkenal untuk mengumpulkan undi dan mengambil tindakan.
 “orang di mana sahaja memulakan kempen, menggerakkan penyokong, dan bekerjasama dengan pembuat keputusan untuk mencari jalan keluar.”
@@ -200,7 +200,7 @@ Menggunakan platform non-cloudflared lain seperti OpenPetition membantu menyeles
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - "Athenian Project" Cloudflare menawarkan perlindungan peringkat perusahaan percuma ke laman web pilihan raya negeri dan tempatan.
 Mereka mengatakan "konstituen mereka dapat mengakses maklumat pilihan raya dan pendaftaran pemilih" tetapi ini adalah pembohongan kerana banyak orang tidak dapat melayari laman web ini sama sekali.
@@ -220,7 +220,7 @@ Sekiranya anda memilih untuk tidak memilih sesuatu, anda tidak akan menerima e-m
 Cloudflare mengabaikan pilihan pengguna dan berkongsi data dengan syarikat pihak ketiga tanpa persetujuan pelanggan.
 Sekiranya anda menggunakan pelan percuma mereka, kadangkala mereka akan menghantar e-mel kepada anda yang meminta untuk membeli langganan bulanan.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Dia juga menyebut bahawa dasar privasi Cloudflare tidak menyebut tentangnya.
 Dasar privasi baru mereka tidak menyebut tentang menyimpan data selama setahun.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Bagaimana anda boleh mempercayai Cloudflare jika dasar privasi mereka adalah LIE?
 
@@ -276,7 +276,7 @@ Anda mesti tidak mempunyai domain atau kad kredit yang dilampirkan ke akaun anda
 
 Anda akan menerima e-mel pengesahan ini.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Kami telah mulai memproses permintaan penghapusan anda" tetapi "Kami akan terus menyimpan maklumat peribadi anda".
 
@@ -297,5 +297,5 @@ Bolehkah anda "mempercayai" ini?
 
 ## Sila terus ke halaman seterusnya:   [Cloudflare Suara](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
