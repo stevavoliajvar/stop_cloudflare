@@ -2,8 +2,8 @@
 
 # اخلاقي مسلې
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "د دې شرکت ملاتړ مه کوئ چې د اخالق څخه باطل وي"
 
@@ -36,8 +36,8 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -57,7 +57,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -78,9 +78,9 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -98,7 +98,7 @@ CloudFlare د خیریه ونډې غوښتنه کوي.
 که تاسو د خلکو مخنیوی یا د نورو خلکو وخت ضایع کول غواړئ ، نو تاسو ممکن د کلاوډ فلایر کارمندانو لپاره ځینې پیزا غوښتنه کړئ.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -115,7 +115,7 @@ CloudFlare د خیریه ونډې غوښتنه کوي.
 داسې راپورونه شتون لري چې کلاوډ فلایر د کارونکي تنظیمات حذف کوي یا پرته له خبرتیا پرته خدمت ودروي ، په خاموش ډول.
 موږ وړاندیز کوو چې تاسو غوره چمتو کونکي ومومئ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -132,16 +132,16 @@ CloudFlare د خیریه ونډې غوښتنه کوي.
 د تور کارونکي څوک چې په سمه توګه د غیر وړیا جاواسکریپټ له عملي کولو څخه ډډه کوي د دښمنۍ درملنه هم کوي.
 د لاسرسي نابرابرۍ د شبکې بې پرې والي او د ځواک ناوړه ګټه اخیستنه ده.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - کيft لاس: تور براوزر ، ښي: کروم. ورته IP پته.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - کيft لاس: د تور براوزر جاواسکریپټ نافع شوی ، کوکی فعال شوی
 - سمه: د کروم جاواسکریپټ فعال ، کوکی ناتوان شوی
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - کوټ براوزر (کوچنی براوزر) پرته له تور (کلارنیټ IP)
 
@@ -192,7 +192,7 @@ CloudFlare د خیریه ونډې غوښتنه کوي.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - بدلون.org د رایو راغونډولو او اقدام کولو لپاره مشهوره ویب پا .ه ده.
 “خلک هرچیرې کمپاینونه پیل کوي ، ملاتړ کونکي هڅوي ، او د پریکړو جوړونکو سره کار کوي ترڅو د حل لاره ومومي.”
@@ -202,7 +202,7 @@ CloudFlare د خیریه ونډې غوښتنه کوي.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - د کلاوډ فلایر "اتینین پروژه" ایالتي او محلي ټاکنو ویب پا toو ته د تشب کچې وړیا محافظت وړاندې کوي.
 دوی وویل "د دوی انتخاباتي حوزې کولی شي د ټاکنو معلوماتو او د رایې ورکوونکو راجسټریشن ته لاسرسی ولري" مګر دا دروغ دی ځکه چې ډیری خلک یوازې دا سایټ نشي لیدلی.
@@ -222,7 +222,7 @@ CloudFlare د خیریه ونډې غوښتنه کوي.
 کلاوډ فلایر د پیرودونکي غوره توب سترګې پټوي او د پیرودونکي رضایت پرته د دریمې ډلې کارپوریشنونو سره معلومات شریکوي.
 که تاسو د دوی وړیا پلان کار کوئ ، دوی ځینې وختونه تاسو ته بریښنالیک لیږي چې د میاشتنۍ ګډون اخیستلو غوښتنه کوي.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -253,7 +253,7 @@ CloudFlare د خیریه ونډې غوښتنه کوي.
 د دوی د محرمیت نوی پالیسي د یو کال لپاره د معلوماتو ساتلو کومه یادونه نه کوي.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 تاسو څنګه په کلاوډ فلیر باور کولی شئ که چیرې د دوی د محرمیت تګلاره LIE وي؟
 
@@ -278,7 +278,7 @@ CloudFlare د خیریه ونډې غوښتنه کوي.
 
 تاسو به د دې تایید بریښنالیک ترلاسه کړئ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "موږ ستاسو د حذف کولو پروسې پیل کړې" مګر "موږ به ستاسو شخصي معلوماتو زیرمه کړو".
 
@@ -299,7 +299,7 @@ CloudFlare د خیریه ونډې غوښتنه کوي.
 
 ## مهرباني وکړئ بل پا toې ته دوام ورکړئ:   [د کلاوډ فلایر غږونه](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
 
 </div>
