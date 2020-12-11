@@ -1,7 +1,7 @@
 # Этычныя праблемы
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Не падтрымлівайце гэтую кампанію, якая пазбаўлена этыкі"
 
@@ -34,8 +34,8 @@ Cloudflare сказаў, што выкарыстанне іх паслуг мо�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare сказаў, што выкарыстанне іх паслуг мо�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare дзеліцца асабістай інфармацыяй тых, х
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare просіць дабрачынных узносаў.
 Калі вам падабаецца блакаваць людзей альбо марнаваць час іншых людзей, вы можаце замовіць піцу для супрацоўнікаў Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare просіць дабрачынных узносаў.
 Ёсць паведамленні, што Cloudflare выдаляе канфігурацыю карыстальніка альбо спыняе службу без папярэджання, бясшумна.
 Мы прапануем вам знайсці лепшага пастаўшчыка.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@ CloudFlare прадастаўляе льготны рэжым тым, хто в�
 Карыстальнікі Tor, якія па праве адмаўляюцца выконваць несвабодны javascript, таксама атрымліваюць варожае стаўленне.
 Гэта няроўнасць доступу - злоўжыванне нейтралітэтам сеткі і злоўжыванне ўладай.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Злева: Tor Browser, справа: Chrome. Той самы IP-адрас.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Злева: Tor Browser Javascript адключаны, cookie ўключаны
 - Справа: Chrome Javascript уключаны, Cookie адключаны
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (другасны браўзэр) без Tor (Clearnet IP)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/lynx_cloudflare.gif)
+![](../image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@ CloudFlare прадастаўляе льготны рэжым тым, хто в�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org - гэта вядомы сайт для збору галасоў і прыняцця мер.
 “людзі ўсюды пачынаюць кампаніі, мабілізуюць прыхільнікаў і працуюць з тымі, хто прымае рашэнні, для пошуку рашэнняў.”
@@ -205,7 +205,7 @@ CloudFlare прадастаўляе льготны рэжым тым, хто в�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - "Афінскі праект" Cloudflare прапануе бясплатную абарону на ўзроўні прадпрыемстваў для дзяржаўных і мясцовых сайтаў па выбарах.
 Яны сказалі, што "іх выбаршчыкі могуць атрымаць доступ да інфармацыі аб выбарах і рэгістрацыі выбаршчыкаў", але гэта хлусня, бо многія людзі наогул не могуць праглядаць сайт.
@@ -225,7 +225,7 @@ CloudFlare прадастаўляе льготны рэжым тым, хто в�
 Cloudflare ігнаруе перавагі карыстальніка і абменьваецца дадзенымі са староннімі карпарацыямі без згоды кліента.
 Калі вы карыстаецеся іх бясплатным тарыфам, яны часам адпраўляюць вам ліст з просьбай набыць штомесячную падпіску.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@ Cloudflare не ведаў пра слова "выдаліць".
 У іх новай палітыцы прыватнасці не ўзгадваецца захаванне дадзеных на працягу года.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Як вы можаце давяраць Cloudflare, калі іх палітыка прыватнасці ХЛУПАЕ?
 
@@ -283,7 +283,7 @@ Cloudflare не ведаў пра слова "выдаліць".
 
 Вы атрымаеце гэтае паведамленне па электроннай пошце.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Мы пачалі апрацоўваць ваш запыт на выдаленне", але "Мы будзем працягваць захоўваць вашу асабістую інфармацыю".
 
@@ -319,5 +319,5 @@ Cloudflare не ведаў пра слова "выдаліць".
 
 ## Перайдзіце на наступную старонку:   [Cloudflare галасы](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
