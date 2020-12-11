@@ -1,7 +1,7 @@
 # اخلاقي مسئلا
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "هن ڪمپني جي مدد نه ڪريو جيڪو اخلاقيات کان پاڪ آهي"
 
@@ -34,8 +34,8 @@ Cloudflare کي چالو ڪرڻ کان بغير اسان Cloudflare کي ڪيئ�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare سينسر منفي تبصرا.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare انهن معلومات جي حصيداري ڪندو آهي جيڪي 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare خيراتي مدد لاءِ پڇندي آهي.
 جيڪڏهن توهان ماڻهن کي بلاڪ ڪرڻ يا ٻين ماڻهن جو وقت ضايع ڪرڻ پسند ڪندا ، توهان شايد ڪلائوڊ فليئر ملازمن لاءِ ڪجهه پيزا آرڊر ڪرڻ چاهيندا.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare خيراتي مدد لاءِ پڇندي آهي.
 اهي رپورٽون آهن ته Cloudflare خاموشي سان صارف جي تشڪيل کي ختم ڪري رهي آهي يا بغير ڪنهن وارننگ جي سروس بند ڪري رهي آهي.
 اسان صلاح ڏيو ته توهان بهتر فراهم ڪندڙ ڳولي.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare فائر برائوز استعمال ڪرڻ وارن کي ترجيح 
 Tor صارف جن جا صحيح طور تي غير مفت جاوا اسڪرپٽ تي عمل ڪرڻ کان انڪار ڪن ٿا انهن کي دشمني وارو علاج به ملي ٿو.
 هن رسائي جي اڻ برابري هڪ نيٽورڪ غير جانبداري جو غلط استعمال ۽ طاقت جو غلط استعمال آهي.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - کاٻو: تور برائوزر ، سا Rightي: ڪروم. ساڳيو IP پتو.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - کاٻي: تور برائوزر جاوا اسڪرپٽ کي معذور ، ڪوڪي کي فعال ڪيو ويو
 - سا Rightو: ڪروم جاوا اسڪرپٽ فعال ، ڪوڪي معذور
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (بغير برائوزر) جي تور (Clearnet IP)
 
@@ -190,7 +190,7 @@ Cloudflare جي تور استعمال ڪندڙن جي ميزباني علاج ،
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org ووٽن کي گڏ ڪرڻ ۽ ڪم وٺڻ لاءِ هڪ مشهور ويبسائيٽ آهي.
 “ماڻهو هر جاءِ تي مهم شروع ڪري رهيا آهن ، حمايت ڪندڙن کي متحرڪ ڪري رهيا آهن ، ۽ فيصلن تي عمل ڪرڻ لاءِ فيصلا ڪرڻ وارا حل ڪرڻ”
@@ -200,7 +200,7 @@ Cloudflare جي تور استعمال ڪندڙن جي ميزباني علاج ،
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare جو "ايٿينين پروجيڪٽ" رياست ۽ مڪاني چونڊ ويب سائيٽن کي مفت انٽرنيشنل سطح تحفظ فراهم ڪري ٿو.
 انهن چيو ته ”انهن جا حلقا چونڊ جي accessاڻ ۽ ووٽر رجسٽريشن تائين رسائي ڪري سگهن ٿا“ پر اهو ڪوڙ آهي ڇاڪاڻ ته ڪيترائي ماڻهو صرف سائيٽ کي برائوز نٿا ڪري سگهن.
@@ -220,7 +220,7 @@ Cloudflare جي تور استعمال ڪندڙن جي ميزباني علاج ،
 Cloudflare صارف جي ترجيح کي نظرانداز ڪيو ۽ ڪسٽمر جي رضامندي کان بغير ٽئين پارٽي ڪارپوريشنن سان ڊيٽا شيئر ڪري.
 جيڪڏهن توهان انهن جو مفت منصوبو استعمال ڪري رهيا آهيو ، اهي ڪڏهن ڪڏهن توهان کي م ميلون سبسڪرپشن خريد ڪرڻ لاءِ پڇنديا آهن.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Cloudflare لفظ "هٽايو" بابت نه didn'tاڻيو هو.
 انهن جي نئين رازداري واري پاليسي سال ۾ ڊيٽا کي برقرار رکڻ جو ڪو ذڪر ناهي.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Cloudflare تي توهان ڪيئن اعتماد ڪري سگهو ٿا جيڪڏهن انهن جي رازداري پاليسي LIE آهي؟
 
@@ -276,7 +276,7 @@ Cloudflare اڪائونٽ کي ختم ڪرڻ سخت سطح آهي.
 
 توهان کي اها تصديق واري اي ميل ملي ويندي.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 ”اسان توهان جي خارج ٿيڻ جي درخواست تي عمل ڪرڻ شروع ڪيو آهي“ پر ”اسان توهان جي ذاتي معلومات جاري رکنداسين“.
 
@@ -297,5 +297,5 @@ Cloudflare اڪائونٽ کي ختم ڪرڻ سخت سطح آهي.
 
 ## مهرباني ڪري اڳين صفحي ڏانهن و continueو:   [ڪلائوڊ فليئر وائسز](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
