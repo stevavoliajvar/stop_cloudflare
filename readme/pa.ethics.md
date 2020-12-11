@@ -1,7 +1,7 @@
 # ਨੈਤਿਕ ਮੁੱਦੇ
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "ਇਸ ਕੰਪਨੀ ਦਾ ਸਮਰਥਨ ਨਾ ਕਰੋ ਜੋ ਨੈਤਿਕਤਾ ਦੀ ਉਲੰਘਣਾ ਹੈ"
 
@@ -34,8 +34,8 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@
 ਜੇ ਤੁਸੀਂ ਲੋਕਾਂ ਨੂੰ ਰੋਕਣਾ ਜਾਂ ਹੋਰ ਲੋਕਾਂ ਦਾ ਸਮਾਂ ਬਰਬਾਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਕਲਾਉਡਫਲੇਅਰ ਕਰਮਚਾਰੀਆਂ ਲਈ ਕੁਝ ਪੀਜ਼ਾ ਮੰਗਵਾ ਸਕਦੇ ਹੋ.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@
 ਅਜਿਹੀਆਂ ਖ਼ਬਰਾਂ ਹਨ ਕਿ ਕਲਾਉਡਫਲੇਅਰ ਉਪਭੋਗਤਾ ਦੀ ਕੌਂਫਿਗਰੇਸ਼ਨ ਨੂੰ ਮਿਟਾ ਰਿਹਾ ਹੈ ਜਾਂ ਬਿਨਾਂ ਕਿਸੇ ਚਿਤਾਵਨੀ ਦੇ, ਸੇਵਾ ਨੂੰ ਚੁੱਪ ਕਰ ਰਿਹਾ ਹੈ.
 ਅਸੀਂ ਤੁਹਾਨੂੰ ਵਧੀਆ ਪ੍ਰਦਾਤਾ ਲੱਭਣ ਦਾ ਸੁਝਾਅ ਦਿੰਦੇ ਹਾਂ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@
 ਟੋਰ ਉਪਭੋਗਤਾ ਜੋ ਸਹੀ nonੰਗ ਨਾਲ ਗੈਰ-ਮੁਕਤ ਜਾਵਾਸਕ੍ਰਿਪਟ ਨੂੰ ਚਲਾਉਣ ਤੋਂ ਇਨਕਾਰ ਕਰਦੇ ਹਨ ਉਹ ਵੀ ਵਿਰੋਧਤਾਈ ਇਲਾਜ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹਨ.
 ਇਹ ਪਹੁੰਚ ਅਸਮਾਨਤਾ ਇੱਕ ਨੈਟਵਰਕ ਨਿਰਪੱਖਤਾ ਦੀ ਦੁਰਵਰਤੋਂ ਅਤੇ ਸ਼ਕਤੀ ਦੀ ਦੁਰਵਰਤੋਂ ਹੈ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - ਖੱਬਾ: ਟੋਰ ਬਰਾserਜ਼ਰ, ਸੱਜਾ: ਕਰੋਮ. ਇੱਕੋ IP ਐਡਰੈੱਸ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - ਖੱਬਾ: ਟੋਰ ਬਰਾserਜ਼ਰ ਜਾਵਾਸਕ੍ਰਿਪਟ ਅਸਮਰਥਿਤ, ਕੂਕੀ ਯੋਗ
 - ਸੱਜਾ: ਕਰੋਮ ਜਾਵਾਸਕ੍ਰਿਪਟ ਸਮਰੱਥ, ਕੂਕੀ ਅਯੋਗ
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - ਟੂ (ਕਲੀਅਰਨੈੱਟ ਆਈ.ਪੀ.) ਤੋਂ ਬਿਨਾਂ ਕਯੂਟਬ੍ਰਾਉਜ਼ਰ (ਛੋਟਾ ਬਰਾ browserਜ਼ਰ)
 
@@ -190,7 +190,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - ਚੇਨਜ਼ ਆਰਗੇਨਾਈਜ਼ੇਸ਼ਨ ਵੋਟ ਇਕੱਤਰ ਕਰਨ ਅਤੇ ਕਾਰਵਾਈ ਕਰਨ ਲਈ ਇੱਕ ਮਸ਼ਹੂਰ ਵੈਬਸਾਈਟ ਹੈ.
 “ਹਰ ਜਗ੍ਹਾ ਲੋਕ ਮੁਹਿੰਮਾਂ ਦੀ ਸ਼ੁਰੂਆਤ ਕਰ ਰਹੇ ਹਨ, ਸਮਰਥਕਾਂ ਨੂੰ ਇਕੱਤਰ ਕਰ ਰਹੇ ਹਨ, ਅਤੇ ਹੱਲ ਕੱ driveਣ ਲਈ ਫੈਸਲਾ ਲੈਣ ਵਾਲਿਆਂ ਨਾਲ ਕੰਮ ਕਰ ਰਹੇ ਹਨ.”
@@ -200,7 +200,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - ਕਲਾਉਡਫਲੇਅਰ ਦਾ "ਐਥੀਨੀਅਨ ਪ੍ਰੋਜੈਕਟ" ਰਾਜ ਅਤੇ ਸਥਾਨਕ ਚੋਣ ਵੈਬਸਾਈਟਾਂ ਨੂੰ ਮੁਫਤ ਉੱਦਮ-ਪੱਧਰ ਦੀ ਸੁਰੱਖਿਆ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦਾ ਹੈ.
 ਉਨ੍ਹਾਂ ਨੇ ਕਿਹਾ "ਉਨ੍ਹਾਂ ਦੇ ਹਲਕੇ ਚੋਣ ਜਾਣਕਾਰੀ ਅਤੇ ਵੋਟਰ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਤੱਕ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹਨ" ਪਰ ਇਹ ਝੂਠ ਹੈ ਕਿਉਂਕਿ ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਸਾਈਟ ਨੂੰ ਬਿਲਕੁਲ ਵੀ ਵੇਖ ਨਹੀਂ ਸਕਦੇ।
@@ -220,7 +220,7 @@
 ਕਲਾਉਡਫਲੇਅਰ ਉਪਭੋਗਤਾ ਦੀ ਪਸੰਦ ਨੂੰ ਨਜ਼ਰਅੰਦਾਜ਼ ਕਰਦਾ ਹੈ ਅਤੇ ਗਾਹਕ ਦੀ ਸਹਿਮਤੀ ਤੋਂ ਬਿਨਾਂ ਤੀਜੀ ਧਿਰ ਕਾਰਪੋਰੇਸ਼ਨਾਂ ਨਾਲ ਡਾਟਾ ਸਾਂਝਾ ਕਰਦਾ ਹੈ.
 ਜੇ ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਦੀ ਮੁਫਤ ਯੋਜਨਾ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਉਹ ਕਈ ਵਾਰ ਤੁਹਾਨੂੰ ਈਮੇਲ ਭੇਜਦੇ ਹਨ ਜੋ ਤੁਹਾਨੂੰ ਮਾਸਿਕ ਗਾਹਕੀ ਖਰੀਦਣ ਲਈ ਆਖਦੇ ਹਨ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@
 ਉਨ੍ਹਾਂ ਦੀ ਨਵੀਂ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਵਿੱਚ ਇੱਕ ਸਾਲ ਲਈ ਅੰਕੜੇ ਬਰਕਰਾਰ ਰੱਖਣ ਦਾ ਕੋਈ ਜ਼ਿਕਰ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 ਜੇ ਤੁਸੀਂ ਕਲਾਉਡਫਲੇਅਰ 'ਤੇ ਭਰੋਸਾ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਉਨ੍ਹਾਂ ਦੀ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਇੱਕ LIE ਹੈ?
 
@@ -276,7 +276,7 @@
 
 ਤੁਹਾਨੂੰ ਇਹ ਪੁਸ਼ਟੀਕਰਣ ਈਮੇਲ ਪ੍ਰਾਪਤ ਹੋਏਗੀ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "ਅਸੀਂ ਤੁਹਾਡੀ ਹਟਾਉਣ ਦੀ ਬੇਨਤੀ 'ਤੇ ਕਾਰਵਾਈ ਸ਼ੁਰੂ ਕਰ ਦਿੱਤੀ ਹੈ" ਪਰ "ਅਸੀਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸਟੋਰ ਕਰਨਾ ਜਾਰੀ ਰੱਖਾਂਗੇ"।
 
@@ -297,5 +297,5 @@
 
 ## ਕਿਰਪਾ ਕਰਕੇ ਅਗਲੇ ਪੰਨੇ ਤੇ ਜਾਰੀ ਰੱਖੋ:   [ਕਲਾਉਡਫਲੇਅਰ ਆਵਾਜ਼ਾਂ](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
