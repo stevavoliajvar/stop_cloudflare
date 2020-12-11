@@ -1,7 +1,7 @@
 # Bayanan Al'adu
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Kada ku goyi bayan wannan kamfani wanda ba shi da da'a"
 
@@ -34,8 +34,8 @@ Ta yaya za mu dakatar da Cloudflare ba tare da kunna Cloudflare ba?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Idan kayi post mara kyau a kowane shafi na bita, zasuyi kokarin toshe shi.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Idan baku so a matsa muku lamba, kai hari, kashe shi ko kashe shi ba, zai fi kya
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Abin ba in ciki da damuwa ne cewa kamfani na Amurka zai nemi gudummawa tare da �
 Idan kuna son toshe mutane ko ɓata lokacin wasu mutane, zaku so yin odar wasu pizzas ga ma'aikatan Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Me za ku yi idan rukunin gidanku ba zato ba tsammani?
 Akwai rahoto cewa Cloudflare yana share tsarin mai amfani ko sabis na dakatarwa ba tare da wani gargadi ba, a hankali.
 Muna ba da shawarar ku sami mafi kyawun mai bayarwa.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare yana ba da fifiko ga waɗanda suke amfani da Firefox yayin ba da kula
 Masu amfani da Tor wadanda suka ki yarda su aiwatar da javascript ba tare da izini ba suma suna karban rashin lafiya.
 Wannan rashin daidaituwa na amfani da rashin daidaituwa na hanyar sadarwa da cin zarafin iko.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Hagu: Tor Browser, Dama: Chrome. Adireshin IP iri ɗaya.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Hagu: An cire Tor Browser Javascript, An kunna Kukis
 - Dama: An kunna Javascript Java, An kunna Kukis
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (karamin mai bincike) ba tare da Tor ba (Clearnet IP)
 
@@ -190,7 +190,7 @@ Ka lura cewa rajistar takarda ba ta murƙushe Cloudflare saboda sakataren ma’a
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org shahararren gidan yanar gizo ne don tara kuri'un da daukar mataki.
 “mutane ko'ina suna fara kamfen, suna tattara supportersan tallafi, kuma suna aiki tare da masu yanke shawara don tinkarar mafita.”
@@ -200,7 +200,7 @@ Yin amfani da wasu dandamali mara amfani kamar girgije mai kwakwalwa kamar OpenP
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare's "Athenian Project" yana ba da kariya ga matakin kasuwanci kyauta ga yanar gizo da zaben kananan hukumomi.
 Sun ce "mazabunsu na iya samun damar yin amfani da bayanan zaben da rajistar masu jefa kuri'a" amma wannan karya ce saboda mutane da yawa ba za su iya yin amfani da shafin ba kwata-kwata.
@@ -220,7 +220,7 @@ Idan ka daina wani abu, kuna tsammanin kar ku sami imel game da hakan.
 Cloudflare watsi da fifikon mai amfani da raba bayanai tare da kamfanoni na ɓangare na uku ba tare da yardar abokin ciniki ba.
 Idan kana amfani da shirinsu na kyauta, wani lokacin sukan aiko maka da imel zuwa ga tambayar sayan kowane wata.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Ya kuma ambata cewa manufofin sirri na Cloudflare bai ambata ba.
 Sabuwar manufar su ta sirri ba ta ambaci bayanan riƙe bayanai har shekara guda.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Ta yaya zaka iya amincewa da Cloudflare idan manufofin sirrin su ne LIE?
 
@@ -276,7 +276,7 @@ Dole ne ku sami yanki ko katin kuɗi a haɗe a asusarku kafin neman sharewa.
 
 Za ku sami wannan imel ɗin tabbatarwa.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Mun fara aiwatar da tambayar goge ku" amma "Za mu ci gaba da adana bayanan ku".
 
@@ -297,5 +297,5 @@ Shin zaka iya "amincewa" wannan?
 
 ## Da fatan za a ci gaba zuwa shafi na gaba:   [Muryar Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
