@@ -1,7 +1,7 @@
 # ನೈತಿಕ ಸಮಸ್ಯೆಗಳು
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "ನೈತಿಕತೆಯಿಲ್ಲದ ಈ ಕಂಪನಿಯನ್ನು ಬೆಂಬಲಿಸಬೇಡಿ"
 
@@ -34,8 +34,8 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@
 ನೀವು ಜನರನ್ನು ನಿರ್ಬಂಧಿಸಲು ಅಥವಾ ಇತರ ಜನರ ಸಮಯವನ್ನು ವ್ಯರ್ಥ ಮಾಡಲು ಬಯಸಿದರೆ, ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಉದ್ಯೋಗಿಗಳಿಗೆ ನೀವು ಕೆಲವು ಪಿಜ್ಜಾಗಳನ್ನು ಆದೇಶಿಸಲು ಬಯಸಬಹುದು.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@
 ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಯಾವುದೇ ಎಚ್ಚರಿಕೆ ಇಲ್ಲದೆ, ಮೌನವಾಗಿ ಬಳಕೆದಾರರ ಸಂರಚನೆಯನ್ನು ಅಳಿಸುತ್ತಿದೆ ಅಥವಾ ಸೇವೆಯನ್ನು ನಿಲ್ಲಿಸುತ್ತಿದೆ ಎಂಬ ವರದಿಗಳಿವೆ.
 ಉತ್ತಮ ಪೂರೈಕೆದಾರರನ್ನು ಹುಡುಕಲು ನಾವು ನಿಮಗೆ ಸೂಚಿಸುತ್ತೇವೆ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@
 ಉಚಿತವಲ್ಲದ ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ಅನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸಲು ನಿರಾಕರಿಸುವ ಟಾರ್ ಬಳಕೆದಾರರು ಸಹ ಪ್ರತಿಕೂಲ ಚಿಕಿತ್ಸೆಯನ್ನು ಪಡೆಯುತ್ತಾರೆ.
 ಈ ಪ್ರವೇಶ ಅಸಮಾನತೆಯು ನೆಟ್‌ವರ್ಕ್ ತಟಸ್ಥತೆಯ ದುರುಪಯೋಗ ಮತ್ತು ಅಧಿಕಾರದ ದುರುಪಯೋಗವಾಗಿದೆ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - ಎಡ: ಟಾರ್ ಬ್ರೌಸರ್, ಬಲ: ಕ್ರೋಮ್. ಅದೇ ಐಪಿ ವಿಳಾಸ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - ಎಡ: ಟಾರ್ ಬ್ರೌಸರ್ ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, ಕುಕಿ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
 - ಬಲ: ಕ್ರೋಮ್ ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, ಕುಕಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - ಟಾರ್ (ಕ್ಲಿಯರ್ನೆಟ್ ಐಪಿ) ಇಲ್ಲದೆ ಕ್ಯೂಟ್ ಬ್ರೌಸರ್ (ಸಣ್ಣ ಬ್ರೌಸರ್)
 
@@ -190,7 +190,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - ಚೇಂಜ್.ಆರ್ಗ್ ಮತಗಳನ್ನು ಸಂಗ್ರಹಿಸಲು ಮತ್ತು ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳಲು ಪ್ರಸಿದ್ಧ ವೆಬ್‌ಸೈಟ್ ಆಗಿದೆ.
 “ಎಲ್ಲೆಡೆ ಜನರು ಅಭಿಯಾನಗಳನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತಿದ್ದಾರೆ, ಬೆಂಬಲಿಗರನ್ನು ಸಜ್ಜುಗೊಳಿಸುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಪರಿಹಾರಗಳನ್ನು ನೀಡಲು ನಿರ್ಧಾರ ತೆಗೆದುಕೊಳ್ಳುವವರೊಂದಿಗೆ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ.”
@@ -200,7 +200,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - ಕ್ಲೌಡ್‌ಫ್ಲೇರ್‌ನ "ಅಥೇನಿಯನ್ ಪ್ರಾಜೆಕ್ಟ್" ರಾಜ್ಯ ಮತ್ತು ಸ್ಥಳೀಯ ಚುನಾವಣಾ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ ಉಚಿತ ಉದ್ಯಮ ಮಟ್ಟದ ರಕ್ಷಣೆಯನ್ನು ನೀಡುತ್ತದೆ.
 "ತಮ್ಮ ಘಟಕಗಳು ಚುನಾವಣಾ ಮಾಹಿತಿ ಮತ್ತು ಮತದಾರರ ನೋಂದಣಿಯನ್ನು ಪ್ರವೇಶಿಸಬಹುದು" ಎಂದು ಅವರು ಹೇಳಿದರು ಆದರೆ ಇದು ಸುಳ್ಳು ಏಕೆಂದರೆ ಅನೇಕ ಜನರು ಸೈಟ್ ಅನ್ನು ಬ್ರೌಸ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ.
@@ -220,7 +220,7 @@
 ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಬಳಕೆದಾರರ ಆದ್ಯತೆಯನ್ನು ನಿರ್ಲಕ್ಷಿಸುತ್ತದೆ ಮತ್ತು ಗ್ರಾಹಕರ ಒಪ್ಪಿಗೆಯಿಲ್ಲದೆ ಡೇಟಾವನ್ನು ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಸಂಸ್ಥೆಗಳೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ.
 ನೀವು ಅವರ ಉಚಿತ ಯೋಜನೆಯನ್ನು ಬಳಸುತ್ತಿದ್ದರೆ, ಅವರು ಕೆಲವೊಮ್ಮೆ ನಿಮಗೆ ಮಾಸಿಕ ಚಂದಾದಾರಿಕೆಯನ್ನು ಖರೀದಿಸಲು ಇಮೇಲ್ ಕಳುಹಿಸುತ್ತಾರೆ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@
 ಅವರ ಹೊಸ ಗೌಪ್ಯತೆ ನೀತಿಯು ಒಂದು ವರ್ಷದವರೆಗೆ ಡೇಟಾವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವ ಬಗ್ಗೆ ಯಾವುದೇ ಉಲ್ಲೇಖವನ್ನು ನೀಡುವುದಿಲ್ಲ.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 ಅವರ ಗೌಪ್ಯತೆ ನೀತಿ LIE ಆಗಿದ್ದರೆ ನೀವು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಅನ್ನು ಹೇಗೆ ನಂಬಬಹುದು?
 
@@ -276,7 +276,7 @@
 
 ನೀವು ಈ ದೃ mation ೀಕರಣ ಇಮೇಲ್ ಅನ್ನು ಸ್ವೀಕರಿಸುತ್ತೀರಿ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "ನಿಮ್ಮ ಅಳಿಸುವಿಕೆಯ ವಿನಂತಿಯನ್ನು ನಾವು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲು ಪ್ರಾರಂಭಿಸಿದ್ದೇವೆ" ಆದರೆ "ನಾವು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸುವುದನ್ನು ಮುಂದುವರಿಸುತ್ತೇವೆ".
 
@@ -297,5 +297,5 @@
 
 ## ದಯವಿಟ್ಟು ಮುಂದಿನ ಪುಟಕ್ಕೆ ಮುಂದುವರಿಯಿರಿ:   [ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಧ್ವನಿಗಳು](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
