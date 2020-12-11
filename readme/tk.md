@@ -1,8 +1,8 @@
 # Uly bulut
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 ---
 
@@ -12,51 +12,51 @@
 
 |  🖹  |  🖼 |
 | --- | --- |
-|  “The Great Cloudwall” ABŞ-nyň “Cloudflare Inc.” kompaniýasydyr.CDN (mazmun gowşuryş ulgamy) hyzmatlaryny, DDoS azaltmak, internet howpsuzlygy we paýlanan DNS (domen ady serweri) hyzmatlaryny hödürleýär.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflaredearuser.jpg) |
-|  “Cloudflare” dünýädäki iň uly MITM proksi (ters proksi).“Cloudflare” CDN bazaryndaky paýynyň 80% -den gowragyna eýelik edýär we bulutdan peýdalanýanlaryň sany günsaýyn artýar.Torlaryny 100-den gowrak ýurda ýaýratdylar.“Cloudflare” “Twitter”, “Amazon”, “Apple”, “Instagram”, “Bing” we “Wikipedia” -dan has köp web traffigine hyzmat edýär.“Cloudflare” mugt meýilnama hödürleýär we serwerlerini dogry sazlamagyň ýerine köp adam ony ulanýar.Amatlylykdan gizlinlik söwdasy etdiler.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfmarketshare.jpg)  |
-|  “Cloudflare” serhet gözegçilik gullugy ýaly hereket edip, gelip çykyş web serweriniň arasynda otyr.Saýlanan ýeriňize birigip bilmersiňiz.“Cloudflare” -e birikýärsiňiz we ähli maglumatlaryňyz şifrlenýär we uçuşda berilýär. |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/border_patrol.jpg)  |
-|  Gelip çykyş web serwer dolandyryjysy, "Cloudflare" agentine "web eýeçiligine" kimiň girip biljekdigini we "çäklendirilen meýdany" kesgitläp biljekdigini kesgitlemäge rugsat berdi.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/usershoulddecide.jpg)  |
-|  Dogry surata göz aýlaň.“Cloudflare” diňe erbet adamlary bloklaýar diýip pikir edersiňiz.“Cloudflare” elmydama onlaýn (hiç haçan aşak düşmäň) diýip pikir edersiňiz.Kanuny botlar we gözlegçiler web sahypaňyzy indeksläp biler diýip pikir edersiňiz.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howcfwork.jpg)  |
-|  Emma bu asla dogry däl.“Cloudflare” bigünä adamlary sebäpsiz petikleýär.“Cloudflare” aşak düşüp biler.“Cloudflare” kanuny botlary bloklaýar.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdowncfcom.jpg)  |
-|  Islendik hosting hyzmaty ýaly, “Cloudflare” hem kämil däl.Gelip çykyş serweri gowy işlese-de bu ekrany görersiňiz.  |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdown2019.jpg) |
-|  “Cloudflare” -iň 100% iş wagty bar diýip pikir edýärsiňizmi?“Cloudflare” -iň näçe gezek aşak düşýändigini bilmeýärsiňiz.“Cloudflare” aşak düşse, müşderiňiz web sahypaňyza girip bilmez. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflareinternalerror.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflareoutage-2020.jpg) |
-|  Bu, köp adamy web mazmunyny görmekden (ýagny Hytaýyň materiginde ýaşaýanlaryň hemmesi we daşyndaky adamlar) filtrlemek üçin deňeşdirip boljak bir işi ýerine ýetirýän Hytaýyň Beýik Firewall-yna degişlidir.Şol bir wagtyň özünde düýpgöter başga bir web görmäge täsir etmedikler, “tank adamynyň” şekili we “Týananmen meýdanyndaky protestleriň” taryhy ýaly senzurasyz web. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflarechina.jpg)  |
-|  “Cloudflare” uly güýje eýe.Bir nukdaýnazardan, ahyrky ulanyjynyň ahyrky görýän zatlaryna gözegçilik edýärler.“Cloudflare” sebäpli web sahypasyna girmegiňiz gadagan edilýär. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/onemorestep.jpg) |
-|  “Cloudflare” senzura üçin ulanylyp bilner. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/accdenied.jpg) |
-|  “Cloudflare” -iň bot diýip pikir edip biljek kiçijik brauzerini ulanýan bolsaňyz, “bulutly” web sahypasyny görüp bilmersiňiz (sebäbi köp adam ulanmaýar). | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfublock.jpg) |
-|  Javascript-i açmazdan, bu çozýan “brauzer barlagyndan” geçip bilmersiňiz.Bu gymmatly ömrüňiziň bäş (ýa-da has köp) sekuntyny ýitirmekdir. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsjsck.jpg) |
-|  “Cloudflare”, Google, Yandex, Yacy we API müşderileri ýaly kanuny robotlary / gözlegçileri awtomatiki usulda bloklaýar.“Cloudflare” kanuny gözleg botlaryny döwmek niýeti bilen “aýlanyp geçýän bulutlar” jemgyýetine işjeň gözegçilik edýär. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftestgoogle.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/htmlalertcloudflare2.jpg) |
-|  “Cloudflare”, internet birikmesi pes bolan köp adamyň arkasyndaky web sahypalaryna girmeginiň öňüni alýar (mysal üçin, 7+ gatlak NAT gatlagynyň arkasynda bolup biler ýa-da birmeňzeş IP paýlaşyp biler, mysal üçin köpçülige açyk Wifi) CAPTCHA-lary çözmese.Käbir ýagdaýlarda Google-ny kanagatlandyrmak üçin 10-30 minut gerek bolar. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/googlerecaptcha.jpg) |
-|  “Cloudflare” 2020-nji ýylda “Google” -yň “Recaptcha” -dan “haptaptcha” geçdi, sebäbi Google ulanmak üçin töleg almak isleýär.“Cloudflare” size gizlinligiňize üns berýändiklerini aýtdy (“bu gizlinlik meselesini çözmäge kömek edýär”), ýöne bu ýalan.Bularyň hemmesi pul hakda."HCaptcha web sahypalaryna botlary we beýleki hyýanatçylykly ýollary petiklemek bilen bu islege hyzmat edip pul gazanmaga mümkinçilik berýär" | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/fedup_fucking_hcaptcha.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/hcaptchablockchain.jpg) |
-|  Ulanyjynyň nukdaýnazaryndan bu kän bir üýtgemez. Siz muny çözmäge mejbur bolýarsyňyz. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/hcaptcha_abrv.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/hcaptcha_chrome.jpg) |
-|  “Cloudflare” tarapyndan her gün köp adam we programma üpjünçiligi petiklenýär. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsnote.jpg) |
-|  “Cloudflare” dünýädäki köp adamy gaharlandyrýar.Sanawa göz aýlaň we sahypaňyzda “Cloudflare” -ni kabul etmegiň ulanyjy tejribesi üçin peýdalydygyny pikir ediň. |  ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsstream.jpg) |
-|  Islän zadyňyzy edip bilmeýän bolsaňyz, internetiň maksady näme?Web sahypaňyza girýänleriň köpüsi, web sahypasyny ýükläp bilmese, başga sahypalary gözlär.Islänleriňize işjeň päsgel bermeýän bolmagyňyz mümkin, emma “Cloudflare” -niň deslapky gorag diwary köp adamy petiklemek üçin ýeterlikdir. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsdroid.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsappl.jpg) |
-|  Javascript we Cookies-i açmazdan, kapçany çözmegiň hiç hili usuly ýok.“Cloudflare” sizi tanamak üçin brauzere gol çekmek üçin ulanýar.“Cloudflare”, sahypa göz aýlamagy dowam etdirip biljekdigiňizi kesgitlemek üçin şahsyýetiňizi bilmelidir. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cferr1010bsig.jpg) |
-|  Tor ulanyjylary we VPN ulanyjylary hem “Cloudflare” -iň pidasy.Iki çözgüt hem öz ýurdy / korporasiýasy / tor syýasaty sebäpli senzurasyz interneti alyp bilmeýän ýa-da şahsy durmuşyny goramak üçin goşmaça gatlak goşmak isleýän köp adam tarapyndan ulanylýar.“Cloudflare” şol adamlara utançsyz hüjüm edýär, proksi çözgüdini öçürmäge mejbur edýär. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/banvpn2.jpg) |
-|  Şu wagta çenli Tor synap görmedik bolsaňyz, Tor brauzerini göçürip alyp, halaýan web sahypalaryňyza girmegiňizi maslahat berýäris.Bank web sahypaňyza ýa-da hökümet web sahypasyna girmezligiňizi maslahat berýäris, ýogsam hasabyňyzy bellärler. Şol web sahypalary üçin VPN ulanyň. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/banvpn.jpg) |
-|  “Tor bikanun! Tor ulanyjylary jenaýatçy! Tor erbet! ". No.ok.Tor hakda telewizorda öwrenip bilersiňiz, Tor garaňky torlara göz aýlamak we ýarag, neşe ýa-da pornografiýa söwdasy üçin ulanylyp bilner.Aboveokardaky aýdylanlar, şeýle zatlary satyn alyp boljak bazar web sahypasynyň köpdügine garamazdan, bu saýtlar köplenç klarnetde-de görünýär.  | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/whousetor.jpg) |
-|  Tor ABŞ goşuny tarapyndan işlenip düzüldi, ýöne häzirki Tor Tor taslamasy tarapyndan işlenip düzüldi.Tor ulanýan geljekki dostlaryňyzy goşmak bilen köp adam we guramalar bar.Şeýlelik bilen, web sahypaňyzda “Cloudflare” ulanýan bolsaňyz, hakyky adamlary petikleýärsiňiz.Potensial dostlugy we işewürlik şertnamasyny ýitirersiňiz. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iusetor_alith.jpg) |
-|  Şeýle hem, olaryň DNS hyzmaty, 1.1.1.1, ulanyjylary “Cloudflare” -niň eýeçiligindäki galp IP adresi, “127.0.0.x” ýaly ýerlihost IP-lerini yzyna gaýtarmak ýa-da hiç zat yzyna gaýtarmak arkaly ulanyjylary web sahypasyna girmekden süzýär. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cferr1016.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cferr1016sp.jpg) |
-|  “Cloudflare DNS”, ýasama DNS jogaplary sebäpli smartfon programmasyndan kompýuter oýnuna onlaýn programma üpjünçiligini hem döwýär.“Cloudflare DNS” käbir bank web sahypalaryny sorap bilmeýär. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdnsprob.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/dnsfailtest.jpg) |
-|  Ine, şu ýerde pikir edip bilersiňiz,<br>Tor ýa-da VPN ulanamok, näme üçin alada etmeli?<br>“Cloudflare” marketingine ynanýaryn, näme üçin alada etmeli?<br>Meniň web sahypam https, näme üçin alada etmeli? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/annoyed.jpg) |
-|  “Cloudflare” ulanýan web sahypasyna girseňiz, maglumatlaryňyzy diňe web sahypasynyň eýesine däl, “Cloudflare” -e hem paýlaşýarsyňyz.Ters proksi şeýle işleýär. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prism_gfe.jpg) |
-|  TLS traffigini açarsyz seljermek mümkin däl. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfhelp204144518.jpg) |
-|  “Cloudflare” çig parol ýaly ähli maglumatlaryňyzy bilýär. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfhelpforum.jpg) |
-|  “Cloudbeed” islendik wagt bolup biler. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfbloghtmledit.jpg) |
-|  “Cloudflare” -iň https-i hiç wagt soňy däl. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/sniff2.gif) |
-|  “Cloudflare” we 3 harply agentlik bilen hakykatdanam maglumatlaryňyzy paýlaşmak isleýärsiňizmi? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfstrengthdata.jpg) |
-|  Internet ulanyjysynyň onlaýn tertibi hökümetiň we uly tehnologiýa kompaniýalarynyň satyn almak isleýän “önümi”. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/federalinterest.jpg) |
-|  ABŞ-nyň Içeri howpsuzlyk ministrligi aýtdy:<br><br>Maglumatlaryňyzyň näderejede gymmatlydygy barada pikiriňiz barmy? Bize şol maglumatlary satmagyň ýoly barmy?  | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/dhssaid.jpg) |
-|  “Cloudflare” şeýle hem “Cloudflare Warp” atly mugt VPN hyzmatyny hödürleýär.Ony ulansaňyz, ähli smartfonyňyz (ýa-da kompýuteriňiz) birikmeleri “Cloudflare” serwerlerine iberilýär.“Cloudflare” haýsy web sahypasyny okandygyňyzy, haýsy teswir ýazandygyňyzy, kim bilen gürleşendigiňizi we ş.m. bilip biler.“Cloudflare” -e ähli maglumatlaryňyzy meýletin berýärsiňiz.“Degişýärsiňizmi? “Cloudflare” howpsuz. ” soň VPN-iň nähili işleýändigini öwrenmeli. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/howvpnwork.jpg) |
-|  Cloudflare, VPN hyzmatynyň internetiňizi çaltlaşdyrýandygyny aýtdy.Vöne VPN internet birikmäňizi bar bolan birikmäňizden haýal edýär. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/notfastervpn.jpg) |
-|  PRISM skandaly hakda eýýäm bilýän bolmagyňyz mümkin.“AT&T” NSA-a gözegçilik üçin ähli internet maglumatlaryny göçürmäge mümkinçilik berýär. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/prismattnsa.jpg) |
-|  NSA-da işleýärsiňiz diýeliň we her bir raýatyň internet profilini isleýärsiňiz.Olaryň köpüsiniň “Cloudflare” -e kör ynanýandyklaryny we kompaniýanyň serwer birikmesine (SSH / RDP), şahsy web sahypasyna, söhbetdeşlik web sahypasyna, forum web sahypasyna, bank web sahypasyna, ätiýaçlandyryş web sahypasyna, gözleg motoryna, gizlin agzasyna proksi etmek üçin diňe bir merkezleşdirilen şlýuzdan peýdalanýandygyny bilýärsiňiz. - diňe web sahypasy, auksion web sahypasy, söwda, wideo web sahypasy, NSFW web sahypasy we bikanun web sahypasy.Şeýle hem, “Howpsuz” üçin Cloudflare-iň DNS hyzmatyny ("1.1.1.1") we VPN hyzmatyny ("Cloudflare Warp") ulanýandygyny bilýärsiňiz! Çalt! Has gowusy! ” internet tejribesi.Ulanyjynyň IP adresi, brauzer barmak yzy, gutapjyklar we RAY-ID bilen birleşdirmek, nyşanyň onlaýn profilini döretmek üçin peýdaly bolar. | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/edw_snow.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/peopledonotthink.jpg) |
-|  Olaryň maglumatlaryny isleýärsiňiz. Näme ederdiň? | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/nsaslide_prismcorp.gif) |
-|  **“Cloudflare” bal balydyr.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/honeypot.gif) |
-|  **Hemmeler üçin mugt bal. Käbir setirler birikdirildi.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/iminurtls.jpg) |
-|  **“Cloudflare” ulanmaň.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/shadycloudflare.jpg) |
-|  **Interneti merkezden daşlaşdyrmak.** | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg) |
+|  “The Great Cloudwall” ABŞ-nyň “Cloudflare Inc.” kompaniýasydyr.CDN (mazmun gowşuryş ulgamy) hyzmatlaryny, DDoS azaltmak, internet howpsuzlygy we paýlanan DNS (domen ady serweri) hyzmatlaryny hödürleýär.  |  ![](../image/cloudflaredearuser.jpg) |
+|  “Cloudflare” dünýädäki iň uly MITM proksi (ters proksi).“Cloudflare” CDN bazaryndaky paýynyň 80% -den gowragyna eýelik edýär we bulutdan peýdalanýanlaryň sany günsaýyn artýar.Torlaryny 100-den gowrak ýurda ýaýratdylar.“Cloudflare” “Twitter”, “Amazon”, “Apple”, “Instagram”, “Bing” we “Wikipedia” -dan has köp web traffigine hyzmat edýär.“Cloudflare” mugt meýilnama hödürleýär we serwerlerini dogry sazlamagyň ýerine köp adam ony ulanýar.Amatlylykdan gizlinlik söwdasy etdiler.  |  ![](../image/cfmarketshare.jpg)  |
+|  “Cloudflare” serhet gözegçilik gullugy ýaly hereket edip, gelip çykyş web serweriniň arasynda otyr.Saýlanan ýeriňize birigip bilmersiňiz.“Cloudflare” -e birikýärsiňiz we ähli maglumatlaryňyz şifrlenýär we uçuşda berilýär. |  ![](../image/border_patrol.jpg)  |
+|  Gelip çykyş web serwer dolandyryjysy, "Cloudflare" agentine "web eýeçiligine" kimiň girip biljekdigini we "çäklendirilen meýdany" kesgitläp biljekdigini kesgitlemäge rugsat berdi.  |  ![](../image/usershoulddecide.jpg)  |
+|  Dogry surata göz aýlaň.“Cloudflare” diňe erbet adamlary bloklaýar diýip pikir edersiňiz.“Cloudflare” elmydama onlaýn (hiç haçan aşak düşmäň) diýip pikir edersiňiz.Kanuny botlar we gözlegçiler web sahypaňyzy indeksläp biler diýip pikir edersiňiz.  |  ![](../image/howcfwork.jpg)  |
+|  Emma bu asla dogry däl.“Cloudflare” bigünä adamlary sebäpsiz petikleýär.“Cloudflare” aşak düşüp biler.“Cloudflare” kanuny botlary bloklaýar.  |  ![](../image/cfdowncfcom.jpg)  |
+|  Islendik hosting hyzmaty ýaly, “Cloudflare” hem kämil däl.Gelip çykyş serweri gowy işlese-de bu ekrany görersiňiz.  |  ![](../image/cfdown2019.jpg) |
+|  “Cloudflare” -iň 100% iş wagty bar diýip pikir edýärsiňizmi?“Cloudflare” -iň näçe gezek aşak düşýändigini bilmeýärsiňiz.“Cloudflare” aşak düşse, müşderiňiz web sahypaňyza girip bilmez. | ![](../image/cloudflareinternalerror.jpg)<br>![](../image/cloudflareoutage-2020.jpg) |
+|  Bu, köp adamy web mazmunyny görmekden (ýagny Hytaýyň materiginde ýaşaýanlaryň hemmesi we daşyndaky adamlar) filtrlemek üçin deňeşdirip boljak bir işi ýerine ýetirýän Hytaýyň Beýik Firewall-yna degişlidir.Şol bir wagtyň özünde düýpgöter başga bir web görmäge täsir etmedikler, “tank adamynyň” şekili we “Týananmen meýdanyndaky protestleriň” taryhy ýaly senzurasyz web. | ![](../image/cloudflarechina.jpg)  |
+|  “Cloudflare” uly güýje eýe.Bir nukdaýnazardan, ahyrky ulanyjynyň ahyrky görýän zatlaryna gözegçilik edýärler.“Cloudflare” sebäpli web sahypasyna girmegiňiz gadagan edilýär. | ![](../image/onemorestep.jpg) |
+|  “Cloudflare” senzura üçin ulanylyp bilner. | ![](../image/accdenied.jpg) |
+|  “Cloudflare” -iň bot diýip pikir edip biljek kiçijik brauzerini ulanýan bolsaňyz, “bulutly” web sahypasyny görüp bilmersiňiz (sebäbi köp adam ulanmaýar). | ![](../image/cfublock.jpg) |
+|  Javascript-i açmazdan, bu çozýan “brauzer barlagyndan” geçip bilmersiňiz.Bu gymmatly ömrüňiziň bäş (ýa-da has köp) sekuntyny ýitirmekdir. | ![](../image/omsjsck.jpg) |
+|  “Cloudflare”, Google, Yandex, Yacy we API müşderileri ýaly kanuny robotlary / gözlegçileri awtomatiki usulda bloklaýar.“Cloudflare” kanuny gözleg botlaryny döwmek niýeti bilen “aýlanyp geçýän bulutlar” jemgyýetine işjeň gözegçilik edýär. | ![](../image/cftestgoogle.jpg)<br>![](../image/htmlalertcloudflare2.jpg) |
+|  “Cloudflare”, internet birikmesi pes bolan köp adamyň arkasyndaky web sahypalaryna girmeginiň öňüni alýar (mysal üçin, 7+ gatlak NAT gatlagynyň arkasynda bolup biler ýa-da birmeňzeş IP paýlaşyp biler, mysal üçin köpçülige açyk Wifi) CAPTCHA-lary çözmese.Käbir ýagdaýlarda Google-ny kanagatlandyrmak üçin 10-30 minut gerek bolar. | ![](../image/googlerecaptcha.jpg) |
+|  “Cloudflare” 2020-nji ýylda “Google” -yň “Recaptcha” -dan “haptaptcha” geçdi, sebäbi Google ulanmak üçin töleg almak isleýär.“Cloudflare” size gizlinligiňize üns berýändiklerini aýtdy (“bu gizlinlik meselesini çözmäge kömek edýär”), ýöne bu ýalan.Bularyň hemmesi pul hakda."HCaptcha web sahypalaryna botlary we beýleki hyýanatçylykly ýollary petiklemek bilen bu islege hyzmat edip pul gazanmaga mümkinçilik berýär" | ![](../image/fedup_fucking_hcaptcha.jpg)<br>![](../image/hcaptchablockchain.jpg) |
+|  Ulanyjynyň nukdaýnazaryndan bu kän bir üýtgemez. Siz muny çözmäge mejbur bolýarsyňyz. | ![](../image/hcaptcha_abrv.jpg)<br>![](../image/hcaptcha_chrome.jpg) |
+|  “Cloudflare” tarapyndan her gün köp adam we programma üpjünçiligi petiklenýär. | ![](../image/omsnote.jpg) |
+|  “Cloudflare” dünýädäki köp adamy gaharlandyrýar.Sanawa göz aýlaň we sahypaňyzda “Cloudflare” -ni kabul etmegiň ulanyjy tejribesi üçin peýdalydygyny pikir ediň. |  ![](../image/omsstream.jpg) |
+|  Islän zadyňyzy edip bilmeýän bolsaňyz, internetiň maksady näme?Web sahypaňyza girýänleriň köpüsi, web sahypasyny ýükläp bilmese, başga sahypalary gözlär.Islänleriňize işjeň päsgel bermeýän bolmagyňyz mümkin, emma “Cloudflare” -niň deslapky gorag diwary köp adamy petiklemek üçin ýeterlikdir. | ![](../image/omsdroid.jpg)<br>![](../image/omsappl.jpg) |
+|  Javascript we Cookies-i açmazdan, kapçany çözmegiň hiç hili usuly ýok.“Cloudflare” sizi tanamak üçin brauzere gol çekmek üçin ulanýar.“Cloudflare”, sahypa göz aýlamagy dowam etdirip biljekdigiňizi kesgitlemek üçin şahsyýetiňizi bilmelidir. | ![](../image/cferr1010bsig.jpg) |
+|  Tor ulanyjylary we VPN ulanyjylary hem “Cloudflare” -iň pidasy.Iki çözgüt hem öz ýurdy / korporasiýasy / tor syýasaty sebäpli senzurasyz interneti alyp bilmeýän ýa-da şahsy durmuşyny goramak üçin goşmaça gatlak goşmak isleýän köp adam tarapyndan ulanylýar.“Cloudflare” şol adamlara utançsyz hüjüm edýär, proksi çözgüdini öçürmäge mejbur edýär. | ![](../image/banvpn2.jpg) |
+|  Şu wagta çenli Tor synap görmedik bolsaňyz, Tor brauzerini göçürip alyp, halaýan web sahypalaryňyza girmegiňizi maslahat berýäris.Bank web sahypaňyza ýa-da hökümet web sahypasyna girmezligiňizi maslahat berýäris, ýogsam hasabyňyzy bellärler. Şol web sahypalary üçin VPN ulanyň. | ![](../image/banvpn.jpg) |
+|  “Tor bikanun! Tor ulanyjylary jenaýatçy! Tor erbet! ". No.ok.Tor hakda telewizorda öwrenip bilersiňiz, Tor garaňky torlara göz aýlamak we ýarag, neşe ýa-da pornografiýa söwdasy üçin ulanylyp bilner.Aboveokardaky aýdylanlar, şeýle zatlary satyn alyp boljak bazar web sahypasynyň köpdügine garamazdan, bu saýtlar köplenç klarnetde-de görünýär.  | ![](../image/whousetor.jpg) |
+|  Tor ABŞ goşuny tarapyndan işlenip düzüldi, ýöne häzirki Tor Tor taslamasy tarapyndan işlenip düzüldi.Tor ulanýan geljekki dostlaryňyzy goşmak bilen köp adam we guramalar bar.Şeýlelik bilen, web sahypaňyzda “Cloudflare” ulanýan bolsaňyz, hakyky adamlary petikleýärsiňiz.Potensial dostlugy we işewürlik şertnamasyny ýitirersiňiz. | ![](../image/iusetor_alith.jpg) |
+|  Şeýle hem, olaryň DNS hyzmaty, 1.1.1.1, ulanyjylary “Cloudflare” -niň eýeçiligindäki galp IP adresi, “127.0.0.x” ýaly ýerlihost IP-lerini yzyna gaýtarmak ýa-da hiç zat yzyna gaýtarmak arkaly ulanyjylary web sahypasyna girmekden süzýär. | ![](../image/cferr1016.jpg)<br>![](../image/cferr1016sp.jpg) |
+|  “Cloudflare DNS”, ýasama DNS jogaplary sebäpli smartfon programmasyndan kompýuter oýnuna onlaýn programma üpjünçiligini hem döwýär.“Cloudflare DNS” käbir bank web sahypalaryny sorap bilmeýär. | ![](../image/cfdnsprob.jpg)<br>![](../image/dnsfailtest.jpg) |
+|  Ine, şu ýerde pikir edip bilersiňiz,<br>Tor ýa-da VPN ulanamok, näme üçin alada etmeli?<br>“Cloudflare” marketingine ynanýaryn, näme üçin alada etmeli?<br>Meniň web sahypam https, näme üçin alada etmeli? | ![](../image/annoyed.jpg) |
+|  “Cloudflare” ulanýan web sahypasyna girseňiz, maglumatlaryňyzy diňe web sahypasynyň eýesine däl, “Cloudflare” -e hem paýlaşýarsyňyz.Ters proksi şeýle işleýär. | ![](../image/prism_gfe.jpg) |
+|  TLS traffigini açarsyz seljermek mümkin däl. | ![](../image/cfhelp204144518.jpg) |
+|  “Cloudflare” çig parol ýaly ähli maglumatlaryňyzy bilýär. | ![](../image/cfhelpforum.jpg) |
+|  “Cloudbeed” islendik wagt bolup biler. | ![](../image/cfbloghtmledit.jpg) |
+|  “Cloudflare” -iň https-i hiç wagt soňy däl. | ![](../image/sniff2.gif) |
+|  “Cloudflare” we 3 harply agentlik bilen hakykatdanam maglumatlaryňyzy paýlaşmak isleýärsiňizmi? | ![](../image/cfstrengthdata.jpg) |
+|  Internet ulanyjysynyň onlaýn tertibi hökümetiň we uly tehnologiýa kompaniýalarynyň satyn almak isleýän “önümi”. | ![](../image/federalinterest.jpg) |
+|  ABŞ-nyň Içeri howpsuzlyk ministrligi aýtdy:<br><br>Maglumatlaryňyzyň näderejede gymmatlydygy barada pikiriňiz barmy? Bize şol maglumatlary satmagyň ýoly barmy?  | ![](../image/dhssaid.jpg) |
+|  “Cloudflare” şeýle hem “Cloudflare Warp” atly mugt VPN hyzmatyny hödürleýär.Ony ulansaňyz, ähli smartfonyňyz (ýa-da kompýuteriňiz) birikmeleri “Cloudflare” serwerlerine iberilýär.“Cloudflare” haýsy web sahypasyny okandygyňyzy, haýsy teswir ýazandygyňyzy, kim bilen gürleşendigiňizi we ş.m. bilip biler.“Cloudflare” -e ähli maglumatlaryňyzy meýletin berýärsiňiz.“Degişýärsiňizmi? “Cloudflare” howpsuz. ” soň VPN-iň nähili işleýändigini öwrenmeli. | ![](../image/howvpnwork.jpg) |
+|  Cloudflare, VPN hyzmatynyň internetiňizi çaltlaşdyrýandygyny aýtdy.Vöne VPN internet birikmäňizi bar bolan birikmäňizden haýal edýär. | ![](../image/notfastervpn.jpg) |
+|  PRISM skandaly hakda eýýäm bilýän bolmagyňyz mümkin.“AT&T” NSA-a gözegçilik üçin ähli internet maglumatlaryny göçürmäge mümkinçilik berýär. | ![](../image/prismattnsa.jpg) |
+|  NSA-da işleýärsiňiz diýeliň we her bir raýatyň internet profilini isleýärsiňiz.Olaryň köpüsiniň “Cloudflare” -e kör ynanýandyklaryny we kompaniýanyň serwer birikmesine (SSH / RDP), şahsy web sahypasyna, söhbetdeşlik web sahypasyna, forum web sahypasyna, bank web sahypasyna, ätiýaçlandyryş web sahypasyna, gözleg motoryna, gizlin agzasyna proksi etmek üçin diňe bir merkezleşdirilen şlýuzdan peýdalanýandygyny bilýärsiňiz. - diňe web sahypasy, auksion web sahypasy, söwda, wideo web sahypasy, NSFW web sahypasy we bikanun web sahypasy.Şeýle hem, “Howpsuz” üçin Cloudflare-iň DNS hyzmatyny ("1.1.1.1") we VPN hyzmatyny ("Cloudflare Warp") ulanýandygyny bilýärsiňiz! Çalt! Has gowusy! ” internet tejribesi.Ulanyjynyň IP adresi, brauzer barmak yzy, gutapjyklar we RAY-ID bilen birleşdirmek, nyşanyň onlaýn profilini döretmek üçin peýdaly bolar. | ![](../image/edw_snow.jpg)<br>![](../image/peopledonotthink.jpg) |
+|  Olaryň maglumatlaryny isleýärsiňiz. Näme ederdiň? | ![](../image/nsaslide_prismcorp.gif) |
+|  **“Cloudflare” bal balydyr.** | ![](../image/honeypot.gif) |
+|  **Hemmeler üçin mugt bal. Käbir setirler birikdirildi.** | ![](../image/iminurtls.jpg) |
+|  **“Cloudflare” ulanmaň.** | ![](../image/shadycloudflare.jpg) |
+|  **Interneti merkezden daşlaşdyrmak.** | ![](../image/cfisnotanoption.jpg) |
 
 
 ---
@@ -84,7 +84,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "The Great Cloudwall
 * [Anti-Tor ulanyjylary](../anti-tor_users/)
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/goodorbad.jpg)
+![](../image/goodorbad.jpg)
 
 
 **Köp maglumat**
@@ -101,7 +101,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "The Great Cloudwall
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/watcloudflare.jpg)
+![](../image/watcloudflare.jpg)
 
 
 </details>
@@ -118,7 +118,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "The Great Cloudwall
 
 * [Beýleki ulanyjynyň sesini okaň we pikirleriňizi ýazyň.](../PEOPLE.md)
 
-* Bir zady gözläň: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=tk) ([clearnet](https://crimeflare.eu.org/))
+* Bir zady gözläň: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=tk) ([clearnet](https://sercxi.eu.org/))
 
 * Domen sanawyny täzeläň: [Görkezmeleri sanaň](../INSTRUCTION.md).
 
@@ -153,25 +153,25 @@ Sosial mediýaňyzdan hiç haçan soramaýarys.**
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/wtfcf.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsirl2.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsirl.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/whydoihavetosolveacaptcha.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/fixthedamn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/imnotarobot.jpg) |
+| ![](../image/wtfcf.jpg) | ![](../image/omsirl2.jpg) |
+| ![](../image/omsirl.jpg) | ![](../image/whydoihavetosolveacaptcha.jpg) |
+| ![](../image/fixthedamn.jpg) | ![](../image/imnotarobot.jpg) |
 
 </details>
 
 ---
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_lb.jpg)
+![](../image/twe_lb.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_dz.jpg)
+![](../image/twe_dz.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_jb.jpg)
+![](../image/twe_jb.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_ial.jpg)
+![](../image/twe_ial.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/twe_eptg.jpg)
+![](../image/twe_eptg.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg)
+![](../image/eastdakota_1273277839102656515.jpg)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/stopcf.jpg)
+![](../image/stopcf.jpg)
