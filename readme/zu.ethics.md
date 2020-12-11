@@ -1,7 +1,7 @@
 # Izingqinamba Zokuziphatha
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Ungasekeli le nkampani engenalutho lokuziphatha"
 
@@ -34,8 +34,8 @@ Singayimisa kanjani iCloudflare ngaphandle kokusebenzisa iCloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Uma uthumela isibuyekezo esingesihle kunoma isiphi isayithi lokubuyekezwa, bazoz
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Uma ungafuni ukuhlukunyezwa, ukuhlaselwa, ukushintshwa noma ukubulawa, kungcono 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Kuyamangaza impela ukuthi inkampani yaseMelika icele izinhlangano ezinikela ngez
 Uma uthanda ukuvimba abantu noma ukuchitha isikhathi sabanye abantu, ungahle ufune uku-oda ezinye iziza zabasebenzi be-Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Uyokwenzenjani uma isiza sakho sehla ngokungazelelwe?
 Kunemibiko yokuthi iCloudflare isusa ukucushwa komsebenzisi noma inkonzo yokumisa ngaphandle kwesixwayiso, buthule.
 Siphakamisa ukuthi uthole umhlinzeki ongcono.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ I-CloudFlare inikela ukuphathwa okukhethekile kulabo abasebenzisa iFirefox ngenk
 Abasebenzisi be-Tor abenqaba ilungelo lokukhipha i-javascript engeyona mahhala nabo bathola ukuphathwa ngonya.
 Lokhu kungalingani kokufinyelela ukuhlukunyezwa kokungathathi hlangothi nokusebenzisa kabi amandla.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Kwesobunxele: Isiphequluli seTor, kwesokudla: i-Chrome. Ikheli elifanayo le-IP.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Kwesobunxele: I-Tor Browser Javascript Ikhubazekile, Ikhukhi Inikwe amandla
 - Kwesokudla: I-Chrome Javascript Inikwe amandla, Ikhukhi Ikhutshaziwe
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - I-QuteBrowser (isiphequluli esincane) ngaphandle kweTor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Qaphela ukuthi ukubhaliswa kwamaphepha akuvimbi i-Cloudflare ngoba unobhala waba
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - I-Change.org iwebhusayithi eyaziwayo yokuqoqa amavoti bese ithatha izinyathelo.
 “abantu yonke indawo baqala imikhankaso, bahlanganisa abasekeli, futhi basebenze nabenzi bezinqumo ukushayela izixazululo.”
@@ -200,7 +200,7 @@ Kusetshenziswa enye ipulatifomu engafakwanga njenge-OpenPback kusiza ukulungisa 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - "I-Athenian Project" ye-Cloudflare inikela ngamazinga webhizinisi wokuvikela mahhala kumawebhusayithi okhetho asekhaya nawasekhaya.
 Bathe "izifunda zabo zingafinyelela ulwazi lokhetho nokubhaliswa kwabavoti" kepha lokhu kungamanga ngoba abantu abaningi abakwazi nje ukubheka isiza nhlobo.
@@ -220,7 +220,7 @@ Uma ukhetha ukuphuma okuthile, ulindele ukuthi ungatholi i-imeyili ngakho.
 I-Cloudflare ayinaki okuthandwa ngumsebenzisi futhi yabelana ngemininingwane nezinhlangano zezinkampani zangaphandle ngaphandle kwemvume yekhasimende.
 Uma usebenzisa uhlelo lwabo lwamahhala, kwesinye isikhathi bakuthumela i-imeyili becela ukuthenga okubhaliselwe njalo ngenyanga.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Ubuye waveza nokuthi nenqubomgomo yobumfihlo ye-Cloudflare ayisho lutho ngayo.
 Umgomo wabo omusha wobumfihlo awasho lutho ngokugcina idatha unyaka.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Ungayethemba kanjani iCloudflare uma inqubomgomo yabo yobumfihlo iyi-LIE?
 
@@ -276,7 +276,7 @@ Akumele ube nezizinda noma amakhadi wesikweletu afakwe kwi-akhawunti yakho ngaph
 
 Uzothola le imeyili yokuqinisekisa.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Sesiqalile ukucubungula isicelo sakho sokususa" kepha "Sizoqhubeka nokugcina imininingwane yakho".
 
@@ -297,5 +297,5 @@ Ungakwazi "ukwethemba" lokhu?
 
 ## Sicela uqhubeke ekhasini elilandelayo:   [Ama-Cloudflare Voices](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
