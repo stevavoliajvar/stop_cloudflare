@@ -1,7 +1,7 @@
 # Awọn Oran Iwa
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Maṣe ṣe atilẹyin ile-iṣẹ yii ti o jẹ ofo ti awọn ilana iṣe"
 
@@ -34,8 +34,8 @@ Bawo ni a ṣe le da awọsanma duro laisi ṣiṣẹ Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Ti o ba fi atunyẹwo odi kan sori aaye eyikeyi atunyẹwo, wọn yoo gbiyanju l
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Ti o ko ba fẹ lati ni ipọnju, ni ikọlu, swati tabi pa, o dara ki o jinna s
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ O jẹ ohun ibanujẹ pupọ pe ile-iṣẹ Amẹrika yoo beere fun ifẹ lẹgb
 Ti o ba fẹran didena eniyan tabi jafara akoko awọn eniyan miiran, o le fẹ lati paṣẹ diẹ ninu awọn pizzas fun awọn oṣiṣẹ Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Kini iwọ yoo ṣe ti aaye rẹ ba lọ silẹ lojiji?
 Awọn iroyin wa ti Cloudflare n paarẹ iṣeto olumulo tabi iṣẹ idaduro laisi ikilọ eyikeyi, ni ipalọlọ.
 A daba pe ki o wa olupese ti o dara julọ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@ CloudFlare n fun itọju ti o dara ju fun awọn ti nlo Firefox lakoko ti o funn
 Awọn olumulo Tor ti ẹtọ ti o kọ lati ṣiṣẹ JavaScript ti kii ṣe ọfẹ tun gba itọju ọta.
 Aidogba iraye si yii jẹ ilokulo didoju nẹtiwọọki ati ilokulo agbara kan.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Osi: Tor Browser, Ọtun: Chrome. Adirẹsi IP kanna.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Osi: Alaabo Javascript Tor Browser, Ti Ṣiṣẹ Kuki
 - Ọtun: Ti mu JavaScript ṣiṣẹ, Alaabo kukisi
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (aṣàwákiri kekere) laisi Tor (Clearnet IP)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/lynx_cloudflare.gif)
+![](../image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@ Akiyesi pe iforukọsilẹ iwe ko ni yika Cloudflare nitori akọwe ti awọn o�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org jẹ oju opo wẹẹbu olokiki fun ikojọpọ awọn ibo ati ṣe igbese.
 “eniyan nibi gbogbo n bẹrẹ awọn kampeeni, koriya awọn olufowosi, ati ṣiṣẹ pẹlu awọn oluṣe ipinnu lati ṣe awakọ awọn iṣeduro.”
@@ -205,7 +205,7 @@ Lilo pẹpẹ ti kii ṣe awọsanma miiran bii OpenPetition ṣe iranlọwọ a
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare's "Athenian Project" nfunni ni aabo ipele-iṣẹ iṣowo ọfẹ si awọn aaye ayelujara idibo ati ti agbegbe.
 Wọn sọ pe “awọn olugbe wọn le wọle si alaye idibo ati iforukọsilẹ awọn oludibo” ṣugbọn eyi jẹ irọ nitori ọpọlọpọ eniyan ko kan le lọ kiri lori aaye naa rara.
@@ -225,7 +225,7 @@ Ti o ba jade kuro ni nkan, o nireti pe o ko gba imeeli kankan nipa rẹ.
 Cloudflare foju ayanfẹ ti olumulo ati pin data pẹlu awọn ile-iṣẹ ẹnikẹta laisi igbanilaaye alabara.
 Ti o ba nlo ero ọfẹ wọn, nigbamiran wọn fi imeeli ranṣẹ si ọ ni ibeere lati ra ṣiṣe alabapin oṣooṣu.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@ O tun mẹnuba pe ilana aṣiri Cloudflare ko darukọ nipa rẹ.
 Eto imulo aṣiri tuntun wọn ko ṣe darukọ eyikeyi data idaduro fun ọdun kan.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Bawo ni o ṣe le gbẹkẹle Cloudflare ti ilana aṣiri wọn jẹ IKU?
 
@@ -283,7 +283,7 @@ O ko gbọdọ ni awọn ibugbe tabi awọn kaadi kirẹditi ti o so mọ akọ�
 
 Iwọ yoo gba imeeli ijẹrisi yii.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "A ti bẹrẹ lati ṣe ibere ibeere piparẹ rẹ" ṣugbọn "A yoo tẹsiwaju lati tọju alaye ti ara ẹni rẹ".
 
@@ -319,5 +319,5 @@ Njẹ o le “gbẹkẹle” eyi?
 
 ## Jọwọ tẹsiwaju si oju-iwe ti o tẹle:   [Awọn ohun awọsanma](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
