@@ -1,7 +1,7 @@
 # បញ្ហា​សីលធម៌
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "កុំគាំទ្រក្រុមហ៊ុននេះដែលគ្មានសុជីវធម៌"
 
@@ -34,8 +34,8 @@ Cloudflare បាននិយាយថាការប្រើប្រាស់
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare បាននិយាយថាការប្រើប្រាស់
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare ចែករំលែកព័ត៌មានផ្ទាល់ខ្
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare កំពុងស្នើសុំវិភាគទានសប្
 ប្រសិនបើអ្នកចូលចិត្តរារាំងមនុស្សឬខ្ជះខ្ជាយពេលវេលារបស់អ្នកដទៃអ្នកប្រហែលជាចង់បញ្ជាទិញភីហ្សាមួយចំនួនសម្រាប់និយោជិក Cloudflare ។
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare កំពុងស្នើសុំវិភាគទានសប្
 មានរបាយការណ៍ថា Cloudflare កំពុងលុបចោលការកំណត់របស់អ្នកប្រើប្រាស់ឬបញ្ឈប់សេវាកម្មដោយគ្មានការព្រមានអ្វីទាំងអស់ដោយស្ងាត់ស្ងៀម។
 យើងស្នើឱ្យអ្នកស្វែងរកអ្នកផ្តល់សេវាល្អជាង។
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare ផ្តល់នូវការអនុគ្រោះដល់អ
 អ្នកប្រើតោរបស់អ្នកដែលបដិសេធក្នុងការប្រតិបត្តិសៀវភៅដោយឥតគិតថ្លៃក៏ទទួលការព្យាបាលដោយអរិភាពដែរ។
 វិសមភាពក្នុងការចូលប្រើនេះគឺជាការបំពានអព្យាក្រឹតភាពបណ្តាញនិងការរំលោភអំណាច។
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - ខាងឆ្វេង: Tor Browser, ស្តាំ: Chrome ។ អាសយដ្ឋាន IP ដូចគ្នា។
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - ខាងឆ្វេង: Tor Browser Javascript បានបិទដំណើរការខូឃីបានបើកដំណើរការ
 - សិទ្ធិ៖ Chrome Javascript បានបើកដំណើរការខូឃីបានបិទ
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (កម្មវិធីរុករកតូច) ដោយគ្មាន Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ CloudFlare ផ្តល់នូវការអនុគ្រោះដល់អ
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org គឺជាគេហទំព័រដ៏ល្បីល្បាញមួយសម្រាប់ការប្រមូលសន្លឹកឆ្នោតនិងចាត់វិធានការ។
 “ប្រជាជនគ្រប់ទីកន្លែងកំពុងចាប់ផ្តើមយុទ្ធនាការប្រមូលផ្តុំអ្នកគាំទ្រនិងធ្វើការជាមួយអ្នកធ្វើការសម្រេចចិត្តដើម្បីជំរុញដំណោះស្រាយ។”
@@ -200,7 +200,7 @@ CloudFlare ផ្តល់នូវការអនុគ្រោះដល់អ
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - “ Athenian Project” របស់ Cloudflare ផ្តល់នូវការការពារកម្រិតសហគ្រាសដោយឥតគិតថ្លៃដល់គេហទំព័របោះឆ្នោតក្នុងរដ្ឋនិងមូលដ្ឋាន។
 ពួកគេបាននិយាយថា“ អ្នកចូលរួមរបស់ពួកគេអាចទទួលបានព័ត៌មានអំពីការបោះឆ្នោតនិងការចុះឈ្មោះបោះឆ្នោត” ប៉ុន្តែនេះគឺជាការកុហកពីព្រោះមនុស្សជាច្រើនមិនអាចរកមើលគេហទំព័របានទាល់តែសោះ។
@@ -220,7 +220,7 @@ CloudFlare ផ្តល់នូវការអនុគ្រោះដល់អ
 Cloudflare មិនអើពើនឹងចំណូលចិត្តរបស់អ្នកប្រើប្រាស់និងចែករំលែកទិន្នន័យជាមួយសាជីវកម្មភាគីទីបីដោយគ្មានការយល់ព្រមពីអតិថិជន។
 ប្រសិនបើអ្នកកំពុងប្រើគំរោងឥតគិតថ្លៃរបស់ពួកគេពេលខ្លះពួកគេផ្ញើអ៊ីមែលទៅអ្នកដោយស្នើសុំទិញការជាវប្រចាំខែ។
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Cloudflare មិនបានដឹងពីពាក្យ“ ដកចេញ�
 គោលនយោបាយភាពឯកជនថ្មីរបស់ពួកគេមិនបាននិយាយអំពីការរក្សាទុកទិន្នន័យរយៈពេលមួយឆ្នាំទេ។
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 តើអ្នកអាចជឿជាក់លើ Cloudflare យ៉ាងដូចម្តេចប្រសិនបើគោលការណ៍ភាពឯកជនរបស់ពួកគេគឺ LIE?
 
@@ -276,7 +276,7 @@ Cloudflare មិនបានដឹងពីពាក្យ“ ដកចេញ�
 
 អ្នកនឹងទទួលបានអ៊ីម៉ែលបញ្ជាក់នេះ។
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "យើងបានចាប់ផ្តើមដំណើរការសំណើលុបរបស់អ្នក" ប៉ុន្តែ "យើងនឹងបន្តរក្សាទុកព័ត៌មានផ្ទាល់ខ្លួនរបស់អ្នក" ។
 
@@ -297,5 +297,5 @@ Cloudflare មិនបានដឹងពីពាក្យ“ ដកចេញ�
 
 ## សូមបន្តទៅទំព័របន្ទាប់:   [វ៉ាយហ្វាយវូលសំឡេង](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
