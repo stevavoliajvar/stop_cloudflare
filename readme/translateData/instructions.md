@@ -13,7 +13,7 @@
 (_zz_ is not "en" nor "eo")
 
 
-1. [Fork](https://codeberg.org/crimeflare/stop_cloudflare/forks) stop_cloudflare.
+1. [Fork](https://git.fuwafuwa.moe/you/stop_cloudflare/forks) stop_cloudflare.
 
 2. Copy `/readme/translateData/TEMPLATE.main.tab` to `/readme/translateData/override/zz.main.tab`.
   - /readme/translateData/TEMPLATE.main.tab > /readme/translateData/override/zz.main.tab
