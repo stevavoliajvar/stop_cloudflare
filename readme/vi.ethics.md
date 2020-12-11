@@ -1,7 +1,7 @@
 # Vấn đề đạo đức
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Không ủng hộ công ty vô hiệu này"
 
@@ -34,8 +34,8 @@ Làm thế nào chúng ta có thể dừng Cloudflare mà không cần kích ho�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Nếu bạn đăng một đánh giá tiêu cực trên bất kỳ trang web đá
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Nếu bạn không muốn bị quấy rối, tấn công, đánh đập hoặc b
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Thật kinh hoàng khi một tập đoàn của Mỹ lại xin từ thiện cùn
 Nếu bạn thích chặn người khác hoặc lãng phí thời gian của người khác, bạn có thể muốn đặt một số bánh pizza cho nhân viên Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Bạn sẽ làm gì nếu trang web của bạn đột ngột ngừng hoạt đ�
 Có báo cáo rằng Cloudflare đang âm thầm xóa cấu hình của người dùng hoặc dừng dịch vụ mà không có bất kỳ cảnh báo nào.
 Chúng tôi khuyên bạn nên tìm nhà cung cấp tốt hơn.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@ CloudFlare ưu đãi những người sử dụng Firefox trong khi đối xử 
 Người dùng Tor của những người từ chối thực thi javascript không miễn phí một cách hợp pháp cũng nhận được sự đối xử thù địch.
 Sự bất bình đẳng về truy cập này là sự lạm dụng tính trung lập của mạng và lạm dụng quyền lực.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Trái: Trình duyệt Tor, Phải: Chrome. Địa chỉ IP giống nhau.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Trái: Trình duyệt Tor đã tắt Javascript, Đã bật cookie
 - Phải: Đã bật JavaScript của Chrome, Đã tắt cookie
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (trình duyệt nhỏ) không có Tor (Clearnet IP)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/lynx_cloudflare.gif)
+![](../image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@ Lưu ý rằng đăng ký giấy không phá vỡ Cloudflare vì thư ký của 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org là một trang web nổi tiếng để thu thập phiếu bầu và hành động.
 “mọi người ở khắp mọi nơi đang bắt đầu các chiến dịch, huy động những người ủng hộ và làm việc với những người ra quyết định để thúc đẩy các giải pháp.”
@@ -205,7 +205,7 @@ Sử dụng nền tảng không đám mây khác như OpenPetition giúp khắc 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - "Dự án Athen" của Cloudflare cung cấp bảo vệ miễn phí cấp doanh nghiệp cho các trang web bầu cử của tiểu bang và địa phương.
 Họ nói rằng "cử tri của họ có thể truy cập thông tin bầu cử và đăng ký cử tri" nhưng đây là một lời nói dối vì nhiều người không thể duyệt qua trang web.
@@ -225,7 +225,7 @@ Nếu bạn chọn không tham gia điều gì đó, bạn sẽ không nhận đ
 Cloudflare bỏ qua sở thích của người dùng và chia sẻ dữ liệu với các công ty bên thứ ba mà không có sự đồng ý của khách hàng.
 Nếu bạn đang sử dụng gói miễn phí của họ, đôi khi họ gửi email cho bạn yêu cầu mua đăng ký hàng tháng.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@ Anh ấy cũng đề cập rằng chính sách bảo mật của Cloudflare khô
 Chính sách bảo mật mới của họ không đề cập đến việc lưu giữ dữ liệu trong một năm.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Làm thế nào bạn có thể tin tưởng Cloudflare nếu chính sách bảo mật của họ là LỜI NÓI DỐI?
 
@@ -283,7 +283,7 @@ Bạn phải không có miền hoặc thẻ tín dụng nào được đính kè
 
 Bạn sẽ nhận được email xác nhận này.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Chúng tôi đã bắt đầu xử lý yêu cầu xóa của bạn" nhưng "Chúng tôi sẽ tiếp tục lưu trữ thông tin cá nhân của bạn".
 
@@ -319,5 +319,5 @@ Bạn có thể "tin tưởng" vào điều này?
 
 ## Vui lòng tiếp tục sang trang tiếp theo:   [Giọng nói của Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
