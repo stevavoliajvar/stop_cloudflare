@@ -1,7 +1,7 @@
 # Ethesch Themen
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Ënnerstëtzt net dës Gesellschaft déi vun der Ethik ongëlteg ass"
 
@@ -34,8 +34,8 @@ Wéi kënne mir Cloudflare stoppen ouni Cloudflare z'aktivéieren?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Wann Dir en negativen Iwwerpréiwung op all Iwwerpréifungsplaz publizéiert, pr
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Wann Dir net belästegt wëllt, ugegraff, geschloen oder ëmbruecht ginn, sollt 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Et ass zimlech erschreckend datt eng amerikanesch Gesellschaft no Charity nieft 
 Wann Dir gär Leit blockéiert oder aner Leit d'Zäit verschwende wëllt, wëllt Dir vläicht e puer Pizzas fir Cloudflare Mataarbechter bestellen.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Wat maacht Dir wann Äre Site plötzlech erof geet?
 Et gi Berichter datt Cloudflare d'Benotzerkonfiguratioun oder den Service stoppen ouni Warnung, roueg.
 Mir proposéieren Iech e besseren Ubidder ze fannen.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare gëtt preferentiell Behandlung fir déi déi Firefox benotze wärend 
 Tor Benotzer vun deenen déi rechtlech refuséieren net-javascript auszeféieren kréien och feindlech Behandlung.
 Dës Zougang Ongläichheet ass en Netzneutralitéit Mëssbrauch an e Mëssbrauch vu Kraaft.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Lénks: Tor Browser, Richteg: Chrome. Selwecht IP Adress.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Linken: Tor Browser Javascript Desaktivéiert, Cookie ageschalt
 - Richteg: Chrome Javascript aktivéiert, Cookie behënnert
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (manner Browser) ouni Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Notiz datt d'Pabeierregistratioun d'Cloudflare net ëmgeet well de Sekretär vum
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org ass eng berühmt Websäit fir Stëmmen ze sammelen an Handlung ze huelen.
 “Leit iwwerall fänken u Kampagnen, mobiliséieren Unhänger a schaffe mat Entscheedungshändler fir Léisungen ze féieren.”
@@ -200,7 +200,7 @@ Aner net-Cloudflared Plattform benotze wéi OpenPetition hëlleft de Problem ze 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare "Athenesche Projet" bitt gratis Enterprise-Niveau Schutz fir Staat a lokal Wahl Websäite.
 Si soten "hir Bestanddeeler kënnen Zougang zu Wahlinformatioun a Wielerregistrierung kréien" awer dëst ass eng Lige well vill Leit just net um Site kënne surfen.
@@ -220,7 +220,7 @@ Wann Dir eppes ophält, erwaart Dir datt Dir keen E-Mail doriwwer kritt.
 Cloudflare ignoréieren d'Präferenz vum Benotzer an deelt Daten mat Drëtt Partei Firmen ouni d'Zoustëmmung vun de Clienten.
 Wann Dir hire gratis Plang benotzt, da schécken se heiansdo E-Mail un Iech a froe fir e Mountabonnement ze kafen.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Hien huet och erwähnt datt d'Privatsphärpolitik vum Cloudflare net doriwwer sc
 Hir nei Privatsphär Politik seet keen Erhaalen vun Donnéeën fir e Joer.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Wéi kënnt Dir Cloudflare vertrauen wann hir Privatsphär Politik e LIE ass?
 
@@ -276,7 +276,7 @@ Dir musst keng Domainen oder Kreditkaarten op Äre Kont befestegt hunn ier Dir L
 
 Dir kritt dëse Confirmatiouns-E-Mail.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Mir hunn ugefaang Är Läschenufro ze veraarbechten" awer "Mir wäerte weider Är perséinlech Informatioune späicheren".
 
@@ -297,5 +297,5 @@ Kënnt Dir dat "vertrauen"?
 
 ## Fuert weider op déi nächst Säit:   [Cloudflare Stëmmen](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
