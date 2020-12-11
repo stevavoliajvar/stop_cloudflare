@@ -12,22 +12,15 @@ define('GIT_COMMIT_MAIL', substr(sha1(gmdate('U').$d),mt_rand(1,7),mt_rand(4,18)
 /*
 : EditFile
 : php -f ef.php [--up|upload|down|download FILE] [--to|from /PATH]
-: 	if not working, try:
-:	php -f ef.php -- [--up|upload|down|download FILE] [--to|from /PATH]
+:	or php -f ef.php -- [--up|upload|down|download FILE] [--to|from /PATH]
 : 
 : php -f ef.php --up PATH_TO_FILE --to /FILENAME.md
 : 	Upload & Overwrite PATH_TO_FILE to {master branch} /FILENAME.md.
-: 		example: --up myedit.md --to /readme/en.md
-: 		example: --to /HISTORY.md --upload "my amazing edit.txt"
+: 		example: --to /HISTORY.md --upload "my edit.txt"
 : 
 : php -f ef.php --down PATH_TO_FILE --from /FILENAME.md
 : 	Download /FILENAME.md and Save(overwrite) to PATH_TO_FILE.
 : 		example: --from /readme/en.md --download export.txt
-: 		example: --down "backup file.txt" --from /README.md
-: 
-: You are free to edit this code.
-: Vive la résistance!
-: 
 */
 if (strlen(ACCESS_API_KEY) != 40) {
     echo('[ERROR] ACCESS_API_KEY is empty!');
@@ -128,7 +121,7 @@ function gitea_file_upload($f, $d) {
         echo("upload...");
         gitea_query(GITEA_SERVER . '/api/v1/repos/' . GITEA_SPACE . '/contents' . $f, 'PUT', ['author' => ['email' => GIT_COMMIT_MAIL, 'name' => GIT_COMMIT_NAME], 'committer' => ['email' => GIT_COMMIT_MAIL, 'name' => GIT_COMMIT_NAME], 'message' => basename($f), 'branch' => 'master', 'sha' => $got['sha'], 'content' => base64_encode(file_get_contents($d)) ]);
     } else {
-        echo("internet_error!\n");
+        echo("error!\n");
     }
 }
 if ($opmode == 'u') {
@@ -139,7 +132,7 @@ if ($opmode == 'u') {
     if (strlen($got) >= 1) {
         file_put_contents($var_file, $got);
     } else {
-        echo("internet_error!\n");
+        echo("error!\n");
     }
 }
 echo("ok\n");
