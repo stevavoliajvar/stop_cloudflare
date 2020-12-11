@@ -1,7 +1,7 @@
 # Mga Isyong Etikal
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Huwag suportahan ang kumpanyang ito na walang bisa sa etika"
 
@@ -34,8 +34,8 @@ Paano natin mapipigilan ang Cloudflare nang hindi na-activate ang Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Kung nag-post ka ng isang negatibong pagsusuri sa anumang site ng pagsusuri, sus
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Kung hindi mo nais na mai-harassed, assault, swatted o pinatay, mas mahusay kang
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Ito ay lubos na nakakagulat na ang isang Amerikanong korporasyon ay hihilingin p
 Kung gusto mo ang pagharang sa mga tao o pag-aaksaya ng oras ng ibang tao, baka gusto mong mag-order ng ilang mga pizza para sa mga empleyado ng Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Ano ang gagawin mo kung biglang bumaba ang iyong site?
 May mga ulat na tinatanggal ng Cloudflare ang pagsasaayos ng gumagamit o paghinto ng serbisyo nang walang anumang babala, tahimik.
 Iminumungkahi namin na makahanap ka ng mas mahusay na provider.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ Nagbibigay ang CloudFlare ng higit na kagustuhan sa paggamot sa mga gumagamit ng
 Ang mga gumagamit ng Tor na nararapat na tumanggi na magpatupad ng di-libreng javascript ay nakakatanggap din ng pagalit na paggamot.
 Ang hindi pagkakapantay-pantay na pag-access na ito ay isang pag-abuso sa neutrality sa network at isang pag-abuso sa kapangyarihan.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Kaliwa: Tor Browser, Kanan: Chrome. Parehong IP address.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Kaliwa: Ang Tor Browser Javascript Hindi pinagana, Pinagana ang Cookie
 - Kanan: Pinapagana ang Javascript ng Chrome, Hindi Ginagana ang Cookie
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (menor de edad na browser) na walang Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Tandaan na ang pagrerehistro ng papel ay hindi nakakagambala sa Cloudflare dahil
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Ang Change.org ay isang tanyag na website para sa pangangalap ng mga boto at kumilos.
 “ang mga tao sa lahat ng dako ay nagsisimula mga kampanya, pagpapakilos ng mga tagasuporta, at nagtatrabaho sa mga gumagawa ng desisyon upang magmaneho ng mga solusyon.”
@@ -200,7 +200,7 @@ Ang paggamit ng iba pang platform na hindi cloudflared tulad ng OpenPetition ay 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Ang "Athenian Project" ng Cloudflare ay nag-aalok ng libreng proteksyon sa antas ng negosyo sa estado at lokal na mga website ng halalan.
 Sinabi nila na "ang kanilang mga nasasakupan ay maaaring ma-access ang impormasyon sa halalan at pagpaparehistro ng botante" ngunit ito ay kasinungalingan sapagkat maraming tao ang hindi maaaring mag-browse sa site.
@@ -220,7 +220,7 @@ Kung nag-opt-out ka ng isang bagay, inaasahan mong wala kang natatanggap na emai
 Huwag pansinin ng Cloudflare ang kagustuhan ng gumagamit at magbahagi ng data sa mga korporasyong third-party nang walang pahintulot ng customer.
 Kung gumagamit ka ng kanilang libreng plano, minsan ay nagpapadala sila ng email sa iyo na humihiling na bumili ng buwanang subscription.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Nabanggit din niya na ang patakaran sa privacy ng Cloudflare ay hindi binabanggi
 Ang kanilang bagong patakaran sa privacy ay hindi nagbabanggit ng pagpapanatili ng data sa isang taon.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Paano ka mapagkakatiwalaan sa Cloudflare kung ang kanilang patakaran sa privacy ay isang LIE?
 
@@ -276,7 +276,7 @@ Hindi ka dapat magkaroon ng mga domain o credit card na nakakabit sa iyong accou
 
 Makakatanggap ka ng email sa kumpirmasyon na ito.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Sinimulan namin na iproseso ang iyong kahilingan sa pagtanggal" ngunit "Patuloy kaming mag-iimbak ng iyong personal na impormasyon".
 
@@ -297,5 +297,5 @@ Maaari mo bang "tiwala" ito?
 
 ## Mangyaring magpatuloy sa susunod na pahina:   [Mga Tinig ng Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
