@@ -2,8 +2,8 @@
 
 # قضايا أخلاقية
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "لا تدعموا هذه الشركة الخالية من الأخلاق"
 
@@ -36,8 +36,8 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -57,7 +57,7 @@ Cloudflare رقابة المراجعات السلبية.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -78,9 +78,9 @@ Cloudflare رقابة المراجعات السلبية.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -98,7 +98,7 @@ Cloudflare رقابة المراجعات السلبية.
 إذا كنت تحب حظر الأشخاص أو إضاعة وقت الآخرين ، فقد ترغب في طلب بعض البيتزا لموظفي Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -115,7 +115,7 @@ Cloudflare رقابة المراجعات السلبية.
 هناك تقارير تفيد بأن Cloudflare يحذف تكوين المستخدم أو يوقف الخدمة دون أي تحذير ، بصمت.
 نقترح عليك العثور على مزود أفضل.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -132,16 +132,16 @@ Cloudflare رقابة المراجعات السلبية.
 يتلقى مستخدمو Tor الذين يرفضون بحق تنفيذ جافا سكريبت غير مجاني أيضًا معاملة عدائية.
 هذا التفاوت في الوصول هو إساءة استخدام لحياد الشبكة وإساءة استخدام للسلطة.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - اليسار: متصفح Tor ، اليمين: Chrome. نفس عنوان IP.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - اليسار: متصفح Tor Javascript معطل ، تم تمكين ملف تعريف الارتباط
 - اليمين: Chrome Javascript Enabled، Cookie Disabled
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (متصفح صغير) بدون Tor (Clearnet IP)
 
@@ -192,7 +192,7 @@ Cloudflare رقابة المراجعات السلبية.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - موقع Change.org هو موقع شهير لجمع الأصوات واتخاذ الإجراءات.
 “يبدأ الناس في كل مكان حملات ، ويحشدون المؤيدين ، ويعملون مع صانعي القرار لإيجاد الحلول.”
@@ -202,7 +202,7 @@ Cloudflare رقابة المراجعات السلبية.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - يقدم "المشروع الأثيني" الخاص بـ Cloudflare حماية مجانية على مستوى المؤسسة لمواقع الانتخابات المحلية والولاية.
 قالوا إن "ناخبيهم يمكنهم الوصول إلى المعلومات الانتخابية وتسجيل الناخبين" لكن هذه كذبة لأن الكثير من الناس لا يمكنهم تصفح الموقع على الإطلاق.
@@ -222,7 +222,7 @@ Cloudflare رقابة المراجعات السلبية.
 تتجاهل Cloudflare تفضيلات المستخدم وتشارك البيانات مع شركات خارجية دون موافقة العميل.
 إذا كنت تستخدم خطتهم المجانية ، فإنهم يرسلون إليك أحيانًا بريدًا إلكترونيًا يطلبون منك شراء اشتراك شهري.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -253,7 +253,7 @@ Cloudflare رقابة المراجعات السلبية.
 لا تذكر سياسة الخصوصية الجديدة الخاصة بهم أي ذكر للاحتفاظ بالبيانات لمدة عام.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 كيف يمكنك الوثوق في Cloudflare إذا كانت سياسة الخصوصية الخاصة بها عبارة عن LIE؟
 
@@ -278,7 +278,7 @@ Cloudflare رقابة المراجعات السلبية.
 
 سوف تتلقى هذا البريد الإلكتروني للتأكيد.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "لقد بدأنا في معالجة طلب الحذف الخاص بك" ولكن "سنواصل تخزين معلوماتك الشخصية".
 
@@ -299,7 +299,7 @@ Cloudflare رقابة المراجعات السلبية.
 
 ## الرجاء الاستمرار في الصفحة التالية:   [أصوات Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
 
 </div>
