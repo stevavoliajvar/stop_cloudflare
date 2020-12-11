@@ -1,6 +1,6 @@
 # List Instructions
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/imnotarobot.gif)
+![](image/imnotarobot.gif)
 
 ---
 
@@ -41,7 +41,7 @@ There are many ways to detect it:
 - Add-on "[Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md)" will help your Cloudflare collection.
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
-- Use "Is MITM?" webpage. [Clearnet](https://crimeflare.eu.org/ss/tool_ismitm.php) / [Tor](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_ismitm.php)
+- Use "Is MITM?" webpage. [Clearnet](https://sercxi.eu.org/ss/tool_ismitm.php) / [Tor](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_ismitm.php)
 - Search [cloudflare domain list](cloudflare_users/domain/). Karma's ["Find Cloudflare Domains" API](http://avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/a/is_cf.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
@@ -113,13 +113,13 @@ Z9 Fastly
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/siteground.jpg)
+![](image/siteground.jpg)
 
 - Above is how Siteground-hosted([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
 
 Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD) _with_ the Cloudflare business model.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflare_with_ddosguard.jpg)
+![](image/cloudflare_with_ddosguard.jpg)
 
 </details>
 
@@ -144,11 +144,11 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 - Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
 - Search [anti-tor fqdn list](anti-tor_users/fqdn/). Karma's ["Find Anti-Tor FQDN" API](http://avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/a/is_at.php)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/tor_nontor_diff.jpg)
+![](image/tor_nontor_diff.jpg)
 
 - Some news websites are lying to Tor users. You can read their website if you are not using Tor nor VPN. If you visit their website over Tor, they just say "_Sorry, article not found_".
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/imunify360.jpg)
+![](image/imunify360.jpg)
 
 - [Imunify360](https://web.archive.org/web/20200617160904/https://www.imunify360.com/) is not so [intelligent](https://whc.ca/blog/introducing-imunify360-your-new-intelligent-firewall/) because it is blocking real human.
 
@@ -260,7 +260,7 @@ need more adaptations for Windows and other platforms.
 
 1. copy `"$HOME"/.ssh/id_rsa_codeberg-snowden.pub` to clipboard
 1. codeberg.org > settings > SSH/GPG Keys > add key (paste from clipboard)
-1. $ `firefox https://codeberg.org/crimeflare/stop_cloudflare`
+1. $ `firefox https://git.fuwafuwa.moe/you/stop_cloudflare`
 1. fork it (top right corner)
 1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
 1. anonymously download your fork: $ `git clone git@codeberg-snowden:crimeflare/stop_cloudflare.git`
@@ -286,7 +286,7 @@ need more adaptations for Windows and other platforms.
 1. if yes: `$ git add . -u`
 1. $ `git commit -m 'description of first change'`
 1. $ `git push origin master`
-1. $ `firefox https://codeberg.org/crimeflare/stop_cloudflare`
+1. $ `firefox https://git.fuwafuwa.moe/you/stop_cloudflare`
 1. make a new pull request
 
 &nbsp;
