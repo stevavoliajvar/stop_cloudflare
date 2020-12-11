@@ -1,7 +1,7 @@
 # {%ethx0000%}
 
-![](../../image/itsreallythatbad.jpg)
-![](../../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "{%ethx0001%}"
 
@@ -34,8 +34,8 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](../../image/cfspam01.jpg) | ![](../../image/cfspam03.jpg) |
-| ![](../../image/cfspam02.jpg) | ![](../../image/cfspambrittany.jpg)<br>![](../../image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](../../image/cfcenrev_01.jpg)<br>![](../../image/cfcenrev_02.jpg) | ![](../../image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](../../image/cfdox_what.jpg) | ![](../../image/cfdox_swat.jpg) |
-| ![](../../image/cfdox_kill.jpg) | ![](../../image/cfdox_threat.jpg) |
-| ![](../../image/cfdox_dox.jpg) | ![](../../image/cfdox_ex1.jpg)<br>![](../../image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@
 {%ethx4n0003%}
 
 
-![](../../image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@
 {%ethx5n0002%}
 {%ethx5n0003%}
 
-![](../../image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@
 {%ethx6n0002%}
 {%ethx6n0003%}
 
-![](../../image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - {%ethx6n0004%}
 
-![](../../image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - {%ethx6n0005%}
 - {%ethx6n0006%}
 
-![](../../image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - {%ethx6n0007%}
 
-![](../../image/lynx_cloudflare.gif)
+![](../image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](../../image/cfvotm_01.jpg) | ![](../../image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - {%ethx7n0008%}
 “{%ethx7n0009%}”
@@ -205,7 +205,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](../../image/changeorgasn.jpg) | ![](../../image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - {%ethx7n0013%}
 {%ethx7n0014%}
@@ -225,7 +225,7 @@
 {%ethx8n0002%}
 {%ethx8n0003%}
 
-![](../../image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@
 {%ethx9n0010%}
 ```
 
-![](../../image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 {%ethx9n0011%}
 
@@ -283,7 +283,7 @@
 
 {%ethx10n0005%}
 
-![](../../image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 {%ethx10n0006%}
 
@@ -319,5 +319,5 @@
 
 ## {%pleasenext%}:   [{%cfvoices%}](../PEOPLE.md)
 
-![](../../image/freemoldybread.jpg)
-![](../../image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
