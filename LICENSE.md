@@ -1,4 +1,4 @@
-`https://codeberg.org/crimeflare/stop_cloudflare`
+`https://git.fuwafuwa.moe/you/stop_cloudflare`
 
 
 ### Permesilo
