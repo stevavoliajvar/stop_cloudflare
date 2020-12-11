@@ -5,7 +5,7 @@ Oh, it's you?
 
 Congratulations, you are ranked in the top 50 of...
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/raw/branch/master/image/clapclapclap.gif)
+![](https://git.fuwafuwa.moe/you/stop_cloudflare/raw/branch/master/image/clapclapclap.gif)
 
 (_Sarcasm? Of course. Stop sharing CF links already!_)
 
