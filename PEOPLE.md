@@ -7,9 +7,9 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/people.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfblockbothuman.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/eastdakota_1273277839102656515.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflareoutage-2020.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsnote.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/omsstream.jpg) |
+| ![](image/people.jpg) | ![](image/cfblockbothuman.jpg) |
+| ![](image/eastdakota_1273277839102656515.jpg) | ![](image/cloudflareoutage-2020.jpg) |
+| ![](image/omsnote.jpg) | ![](image/omsstream.jpg) |
 
 
 ```
@@ -45,7 +45,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/butitsdown.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cloudflareinternalerror.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/2020_07_cloudflaredown.jpg) |
+| ![](image/butitsdown.jpg) | ![](image/cloudflareinternalerror.jpg)<br>![](image/2020_07_cloudflaredown.jpg) |
 
 ---
 
@@ -1890,16 +1890,16 @@ Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/4b644ffa2bfe836565dec686fb81238f.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/adf85b43581e1f68d4466c28e2c5c5fc.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/8e3379b250ea970c8d59eba1d154b560.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/12134212fc9821e514a94888f3e2c902.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/0be13101e79fcb5e90c7e949c234040e.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/f029fcf244af884f6628decb7b15a8a9.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/fe185b082ea67a734859b4ece650c4a5.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/df2dc65af0ac66dcc68b3bfa9338bde3.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/f6144c62db17a84c3bbd4d4f3eda8067.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/cade80ec63cf119d8052cd5a8def2b3a.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/79faadc7398477a7e1623af99a6ec9ae.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/29b88092ed1f0091796d76baf07a7fbd.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/0ff5d6441c53720c194af7e61fbd89ac.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/4cdf036c1e45f1e943dda3e26d4cffb9.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/67a77bc9b1e1a741496716482f7f6322.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/320b8067457ce8c47838c4a07fad670b.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/003adf34b034f1eb38e83fcc41b045ab.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/a1e84595157d8ddc3985536878f53877.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/8f3ef93452628296440814c81b75bfeb.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/668c1ba0df11d5d8ef81b24e767ea3f7.jpg) |
+| ![](image/telegram/4b644ffa2bfe836565dec686fb81238f.jpg) | ![](image/telegram/adf85b43581e1f68d4466c28e2c5c5fc.jpg) |
+| ![](image/telegram/8e3379b250ea970c8d59eba1d154b560.jpg) | ![](image/telegram/12134212fc9821e514a94888f3e2c902.jpg) |
+| ![](image/telegram/0be13101e79fcb5e90c7e949c234040e.jpg) | ![](image/telegram/f029fcf244af884f6628decb7b15a8a9.jpg) |
+| ![](image/telegram/fe185b082ea67a734859b4ece650c4a5.jpg) | ![](image/telegram/df2dc65af0ac66dcc68b3bfa9338bde3.jpg) |
+| ![](image/telegram/f6144c62db17a84c3bbd4d4f3eda8067.jpg) | ![](image/telegram/cade80ec63cf119d8052cd5a8def2b3a.jpg) |
+| ![](image/telegram/79faadc7398477a7e1623af99a6ec9ae.jpg) | ![](image/telegram/29b88092ed1f0091796d76baf07a7fbd.jpg) |
+| ![](image/telegram/0ff5d6441c53720c194af7e61fbd89ac.jpg) | ![](image/telegram/4cdf036c1e45f1e943dda3e26d4cffb9.jpg) |
+| ![](image/telegram/67a77bc9b1e1a741496716482f7f6322.jpg) | ![](image/telegram/320b8067457ce8c47838c4a07fad670b.jpg) |
+| ![](image/telegram/003adf34b034f1eb38e83fcc41b045ab.jpg) | ![](image/telegram/a1e84595157d8ddc3985536878f53877.jpg) |
+| ![](image/telegram/8f3ef93452628296440814c81b75bfeb.jpg) | ![](image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)<br>![](image/telegram/668c1ba0df11d5d8ef81b24e767ea3f7.jpg) |
 
 </details>
 
@@ -1911,6 +1911,6 @@ Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/wearetrulysorry.jpg) | !["Cloudflare is not an option."](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg) |
+| ![](image/wearetrulysorry.jpg) | !["Cloudflare is not an option."](image/cfisnotanoption.jpg) |
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/runbeforeitstoolate.jpg)
+![](image/runbeforeitstoolate.jpg)
