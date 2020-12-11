@@ -1,7 +1,7 @@
 # עטישע ענינים
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "צי ניט שטיצן דעם פירמע וואָס איז פּאָסל פון עטיקס"
 
@@ -34,8 +34,8 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@
 אויב איר ווי צו פאַרשפּאַרן מענטשן אָדער וויסט צייט פון אנדערע מענטשן, איר קען וועלן צו סדר עטלעכע פּיצאַז פֿאַר קלאָודפלאַרע עמפּלוייז.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@
 ריפּאָרץ אַז קלאָודפלאַרע איז דיליטינג דער באַניצער ס קאַנפיגיעריישאַן אָדער סטאָפּפּינג דינסט אָן קיין ווארענונג, שטיל.
 מיר פֿאָרשלאָגן איר געפֿינען אַ בעסער שפּייַזער.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@
 דער באַניצער פון וואָס רעכט רייטלי אָפּזאָגן צו דורכפירן ניט-פריי דזשאַוואַסקריפּט אויך באַקומען פייַנדלעך באַהאַנדלונג.
 די אַקסעס ינאַקוואַלאַטי איז אַ זידלען נעץ נייטראַלאַטי און אַ זידלען פון מאַכט.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - לינקס: Tor Browser, רעכט: Chrome. זעלביקער IP אַדרעס.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - לינקס: טאָר בראַוזער דזשאַוואַסקריפּט דיסאַבלעד, קיכל ענייבאַלד
 - רעכט: קראָום דזשאַוואַסקריפּט ענייבאַלד, קיכל פאַרקריפּלט
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (מינערווערטיק בלעטערער) אָן Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org איז אַ באַרימט וועבזייטל פֿאַר קאַלעקטינג וואָוץ און נעמען קאַמף.
 “מענטשן אומעטום אָנהייבן קאַמפּיינז, מאָובאַלייזינג סופּפּאָרטערס און אַרבעט מיט דיסיזשאַנז צו פירן סאַלושאַנז.”
@@ -200,7 +200,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - קלאָודפלאַרע "אַטהעניאַן פּראָיעקט" אָפפערס פריי שוץ פון פאַרנעמונג צו שטאַט און היגע וואַלן וועבסיטעס.
 זיי האבן געזאגט אז "זייערע קאנסטיטשואַנץ קענען אריינגיין אין וואל אינפארמאציע און וויילער רעגיסטראציע", אבער דאס איז א ליגנט, ווייל א סך מענטשן קענען בכלל נישט בלעטער דעם פּלאַץ.
@@ -220,7 +220,7 @@
 קלאָודפלאַרע איגנאָרירן דער ייבערהאַנט פון באַניצער און טיילן דאַטן מיט דריט-פּאַרטיי קאָרפּעריישאַנז אָן קונה ס צושטימען.
 אויב איר נוצן זייער פּאָטער פּלאַן, זיי מאל שיקן E- בריוו צו איר אַסקינג צו קויפן כוידעשלעך אַבאָנעמענט.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@
 זייער נייַע פּריוואַטקייט פּאָליטיק איז ניט דערמאָנען פון ריטיינינג דאַטן פֿאַר אַ יאָר.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 ווי קען איר צוטרוי קלאָודפלאַרע אויב זייער פּריוואַטקייט פּאָליטיק איז אַ ליע?
 
@@ -276,7 +276,7 @@
 
 איר וועט באַקומען דעם באַשטעטיקונג E- בריוו.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "מיר האָבן אָנגעהויבן אָנפירן אייער אויסלייג בעטן" אָבער "מיר וועלן ווייטער קראָם דיין פערזענליכע אינפארמאציע".
 
@@ -297,5 +297,5 @@
 
 ## ביטע פאָרזעצן צו ווייַטער בלאַט:   [קלאָודפלאַרע וואָיסעס](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
