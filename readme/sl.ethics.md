@@ -1,7 +1,7 @@
 # Etična vprašanja
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Ne podpirajte tega podjetja, ki je brez etike"
 
@@ -34,8 +34,8 @@ Kako lahko ustavimo Cloudflare, ne da bi aktivirali Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Negativne ocene cenzurnega oblaka.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Včasih od vas zahtevajo, da navedete svoj osebni dokument.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Precej grozno je, da bi ameriška korporacija zaprosila za dobrodelnost poleg ne
 Če želite blokirati ljudi ali zapravljati čas drugih ljudi, boste morda želeli naročiti nekaj pizz za zaposlene v Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Kaj boste storili, če bo vaše spletno mesto nenadoma propadlo?
 Obstajajo poročila, da Cloudflare brez kakršnega koli opozorila briše konfiguracijo uporabnika ali ustavi storitev.
 Predlagamo vam, da poiščete boljšega ponudnika.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare daje prednostne obravnave tistim, ki uporabljajo Firefox, hkrati pa u
 Uporabniki Tor, ki upravičeno zavrnejo izvajanje prostega javascripta, so deležni tudi sovražne obravnave.
 Ta neenakost dostopa je zloraba nevtralnosti omrežja in zloraba moči.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Levo: brskalnik Tor, desno: Chrome. Isti IP naslov.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Levo: brskalnik Tor onemogočen JavaScript, piškotek omogočen
 - Pravica: Chrome Javascript omogočen, piškotek onemogočen
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (manjši brskalnik) brez Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Upoštevajte, da registracija papirja ne zaobide Cloudflareja, ker bodo uslužbe
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org je znano spletno mesto za zbiranje glasov in ukrepanje.
 “ljudje povsod začenjajo kampanje, zbirajo podpornike in sodelujejo z nosilci odločanja za iskanje rešitev.”
@@ -200,7 +200,7 @@ Uporaba druge platforme brez oblaka, kot je OpenPetition, pomaga odpraviti teža
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflarejev "atenski projekt" ponuja brezplačno zaščito na ravni podjetij na državnih in lokalnih spletnih volitvah.
 Povedali so, da "njihovi volilni enoti lahko dostopajo do informacij o volitvah in registracije volivcev", vendar je to laž, ker veliko ljudi preprosto ne more brskati po mestu.
@@ -220,7 +220,7 @@ Povedali so, da "njihovi volilni enoti lahko dostopajo do informacij o volitvah 
 Cloudflare ignorira uporabniške nastavitve in deli podatke s tretjimi podjetji brez privolitve stranke.
 Če uporabljate njihov brezplačni načrt, vam včasih pošljejo e-poštno sporočilo s prošnjo za nakup mesečne naročnine.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Omenil je tudi, da politika zasebnosti Cloudflare o tem ne omenja.
 Njihova nova politika zasebnosti ne omenja hrambe podatkov eno leto.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Kako lahko zaupate Cloudflare, če je njihova politika zasebnosti LIE?
 
@@ -276,7 +276,7 @@ Pred zahtevo za izbris v računu ne smete imeti nobenih domen ali kreditnih kart
 
 Prejeli boste to potrditveno e-poštno sporočilo.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Začeli smo obdelovati vašo prošnjo za izbris", vendar "bomo še naprej shranjevali vaše osebne podatke".
 
@@ -297,5 +297,5 @@ Lahko temu "zaupate"?
 
 ## Prosimo, nadaljujte na naslednjo stran:   [Cloudflare Voices](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
