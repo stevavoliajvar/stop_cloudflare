@@ -1,7 +1,7 @@
 # Probleme etice
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Nu susțineți această companie care este lipsită de etică"
 
@@ -34,8 +34,8 @@ Cum putem opri Cloudflare fără a activa Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Dacă postați o recenzie negativă pe orice site de recenzii, ei vor încerca s
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Dacă nu vrei să fii hărțuit, agresat, lovit sau ucis, mai bine stai departe 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Este destul de îngrozitor faptul că o corporație americană ar cere caritate 
 Dacă vă place să blocați oamenii sau să pierdeți timpul altor persoane, vă recomandăm să comandați niște pizza pentru angajații Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Ce veți face dacă site-ul dvs. va ceda brusc?
 Există rapoarte că Cloudflare șterge configurația utilizatorului sau oprește serviciul fără niciun avertisment, în tăcere.
 Vă sugerăm să găsiți un furnizor mai bun.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@ CloudFlare oferă tratament preferențial celor care utilizează Firefox, oferin
 Utilizatorii Tor care refuză pe bună dreptate să execute javascript non-liber primesc, de asemenea, un tratament ostil.
 Această inegalitate de acces este un abuz de neutralitate a rețelei și un abuz de putere.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Stânga: Browser Tor, Dreapta: Chrome. Aceeași adresă IP.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Stânga: Javascript Tor Browser dezactivat, Cookie activat
 - Dreapta: Chrome Javascript activat, Cookie dezactivat
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (browser minor) fără Tor (Clearnet IP)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/lynx_cloudflare.gif)
+![](../image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@ Rețineți că înregistrarea pe hârtie nu ocolește Cloudflare, deoarece lucr�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org este un site celebru pentru adunarea voturilor și acțiunea.
 “oamenii de pretutindeni încep campanii, mobilizează susținători și lucrează cu factorii de decizie pentru a genera soluții.”
@@ -205,7 +205,7 @@ Utilizarea altei platforme non-cloudflared, cum ar fi OpenPetition, ajută la re
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - „Proiectul Athenian” al Cloudflare oferă protecție gratuită la nivel de întreprindere pentru site-urile electorale de stat și locale.
 Ei au spus că „electorii lor pot accesa informațiile electorale și înregistrarea alegătorilor”, dar aceasta este o minciună, deoarece mulți oameni nu pot naviga deloc pe site.
@@ -225,7 +225,7 @@ Dacă renunțați la ceva, vă așteptați să nu primiți niciun e-mail despre 
 Cloudflare ignoră preferințele utilizatorului și partajează datele cu corporații terțe fără acordul clientului.
 Dacă folosești planul lor gratuit, uneori îți trimit un e-mail cerându-ți să cumperi abonament lunar.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@ El a menționat, de asemenea, că politica de confidențialitate Cloudflare nu m
 Noua lor politică de confidențialitate nu menționează păstrarea datelor timp de un an.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Cum poți avea încredere în Cloudflare dacă politica lor de confidențialitate este o MINCIUNĂ?
 
@@ -283,7 +283,7 @@ Nu trebuie să aveți domenii sau carduri de credit atașate la contul dvs. îna
 
 Veți primi acest e-mail de confirmare.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 „Am început să procesăm solicitarea dvs. de ștergere”, dar „Vom continua să stocăm informațiile dvs. personale”.
 
@@ -319,5 +319,5 @@ Poți „avea încredere” în asta?
 
 ## Vă rugăm să continuați la pagina următoare:   [Cloudflare Voices](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
