@@ -2,8 +2,8 @@
 
 # בעיות אתיות
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "אל תתמוך בחברה זו שהיא בטלה באתיקה"
 
@@ -36,8 +36,8 @@ Cloudflare מסר כי השימוש בשירותם יכול לעצור את כל
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -57,7 +57,7 @@ Cloudflare מסר כי השימוש בשירותם יכול לעצור את כל
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -78,9 +78,9 @@ Cloudflare משתף מידע אישי של מי שמתלונן על אתרים �
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -98,7 +98,7 @@ CloudFlare מבקש תרומות לצדקה.
 אם אתה אוהב לחסום אנשים או לבזבז זמן של אנשים אחרים, אולי תרצה להזמין כמה פיצות לעובדי Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -115,7 +115,7 @@ CloudFlare מבקש תרומות לצדקה.
 יש דיווחים כי Cloudflare מוחק את תצורת המשתמש או מפסיק את השירות ללא כל אזהרה, בשקט.
 אנו מציעים לך למצוא ספק טוב יותר.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -132,16 +132,16 @@ CloudFlare מעניקה יחס מועדף לאלה המשתמשים בפיירפ
 משתמשי טור אשר מסרבים בצדק לבצע ג'אווה סקריפט ללא חינם זוכים גם הם לטיפול עוין.
 אי-שוויון גישה זה הוא ניצול לרעה של ניטרליות ברשת וניצול לרעה של כוח.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - משמאל: דפדפן טור, מימין: כרום. אותה כתובת IP.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - משמאל: דפדפן Javascript של דפדפן Tor מושבת, קובץ Cookie מופעל
 - מימין: JavaScript Javascript מופעל, Cookie מושבת
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (דפדפן מינורי) ללא Tor (IP של Clearnet)
 
@@ -192,7 +192,7 @@ CloudFlare מעניקה יחס מועדף לאלה המשתמשים בפיירפ
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org הוא אתר מפורסם לאיסוף קולות ולנקיטת פעולות.
 “אנשים בכל מקום פותחים בקמפיינים, מגייסים תומכים ופועלים עם מקבלי החלטות כדי להניע פתרונות.”
@@ -202,7 +202,7 @@ CloudFlare מעניקה יחס מועדף לאלה המשתמשים בפיירפ
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - "הפרויקט האתונאי" של Cloudflare מציע הגנה חופשית ברמת הארגון לאתרי בחירות ממלכתיים ומקומיים.
 הם אמרו כי "בוחריהם יכולים לגשת למידע על בחירות ורישום בוחרים", אך זהו שקר מכיוון שאנשים רבים אינם יכולים כלל לגלוש באתר.
@@ -222,7 +222,7 @@ CloudFlare מעניקה יחס מועדף לאלה המשתמשים בפיירפ
 Cloudflare מתעלמים מהעדפת המשתמש ומשתפים נתונים עם חברות צד ג 'ללא הסכמת הלקוח.
 אם אתה משתמש בתוכנית החינמית שלהם, לפעמים הם שולחים אליך דוא"ל ומבקשים לקנות מנוי חודשי.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -253,7 +253,7 @@ Cloudflare לא ידע על המילה "הסר".
 מדיניות הפרטיות החדשה שלהם לא מזכירה שמירה על נתונים במשך שנה.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 איך אתה יכול לסמוך על Cloudflare אם מדיניות הפרטיות שלהם היא LIE?
 
@@ -278,7 +278,7 @@ Cloudflare לא ידע על המילה "הסר".
 
 תקבל דוא"ל אישור זה.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "התחלנו לעבד את בקשת המחיקה שלך" אך "נמשיך לאחסן את המידע האישי שלך".
 
@@ -299,7 +299,7 @@ Cloudflare לא ידע על המילה "הסר".
 
 ## המשך לדף הבא:   [קולות עננים](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
 
 </div>
