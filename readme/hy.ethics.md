@@ -1,7 +1,7 @@
 # Էթիկական խնդիրներ
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Մի՛ աջակցեք այս ընկերությանը, որը զերծ է էթիկայիայից"
 
@@ -34,8 +34,8 @@ Cloudflare- ն ասաց, որ իրենց ծառայությունից օգտվե
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare- ի գրաքննիչի բացասական ակնարկները:
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare- ը կիսում է հյուրընկալվող կայքերից դժ�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare- ը բարեգործական ներդրումներ է խնդրում
 Եթե ​​ցանկանում եք արգելափակել մարդկանց կամ վատնել այլ մարդկանց ժամանակը, գուցե ցանկանաք պատվիրել մի քանի պիցցա Cloudflare- ի աշխատակիցների համար:
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare- ը բարեգործական ներդրումներ է խնդրում
 Տեղեկություններ կան, որ Cloudflare- ը ջնջում է օգտվողի կազմաձևումը կամ դադարեցնում է ծառայությունը ՝ առանց որևէ նախազգուշացման, լուռ:
 Մենք առաջարկում ենք գտնել ավելի լավ մատակարար:
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare- ը արտոնյալ վերաբերմունք է ցուցաբերու
 Tor օգտագործողները, ովքեր արդարացիորեն հրաժարվում են ոչ-անվճար javascript- ի կատարումից, ստանում են նաև թշնամական վերաբերմունք:
 Մուտքի այս անհավասարությունը ցանցի չեզոքության չարաշահման և ուժի չարաշահումն է:
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Ձախ ՝ Tor զննարկիչ, աջ ՝ Chrome: Նույն IP հասցեն:
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Ձախ. Tor Browser Javascript- ը անջատված է, cookie- ն միացված է
 - Աջ. Chrome Javascript- ը միացված է, Cookie- ն անջատված է
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (փոքր զննարկիչ) առանց Tor- ի (Clearnet IP)
 
@@ -190,7 +190,7 @@ Cloudflare- ի կողմից Tor- ի օգտագործողների թշնամակ�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org- ը հայտնի կայք է ՝ ձայներ հավաքելու և գործողություններ ձեռնարկելու համար:
 “մարդիկ ամենուր սկսում են արշավներ, համախմբում են աջակիցներին և աշխատում են որոշումներ կայացողների հետ ՝ լուծումներ տանելու համար:”
@@ -200,7 +200,7 @@ OpenPetition- ի նման այլ ոչ ամպամած պլատֆորմի օգտա
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare- ի «Աթենյան նախագիծը» առաջարկում է ձեռնարկությունների մակարդակի անվճար պաշտպանություն պետական ​​և տեղական ընտրական կայքերում:
 Նրանք ասացին, որ «իրենց ընտրողները կարող են մուտք ունենալ ընտրական տեղեկատվություն և ընտրողների գրանցում», բայց սա սուտ է, քանի որ շատերը պարզապես չեն կարողանում թերթել կայքը:
@@ -220,7 +220,7 @@ OpenPetition- ի նման այլ ոչ ամպամած պլատֆորմի օգտա
 Cloudflare- ը անտեսում է օգտագործողի նախընտրությունը և տվյալների փոխանցում երրորդ կողմի կորպորացիաներին `առանց հաճախորդի համաձայնության:
 Եթե ​​դուք օգտագործում եք իրենց անվճար պլանը, նրանք երբեմն էլ-նամակ են ուղարկում ձեզ ՝ խնդրելով գնել ամսական բաժանորդագրություն:
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Cloudflare- ը չգիտեր «հեռացնել» բառի մասին:
 Նրանց նոր գաղտնիության քաղաքականությունը չի նշում մեկ տարվա ընթացքում տվյալների պահպանման մասին:
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Ինչպե՞ս կարող եք վստահել Cloudflare- ին, եթե նրանց գաղտնիության քաղաքականությունը ՍԻՄ է:
 
@@ -276,7 +276,7 @@ Delնջումը հայցելուց առաջ դուք չպետք է ունենա�
 
 Դուք կստանաք այս հաստատման էլ.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 «Մենք սկսել ենք մշակել ձեր ջնջման հայցը», բայց «Մենք կշարունակենք պահել ձեր անձնական տվյալները»:
 
@@ -297,5 +297,5 @@ Delնջումը հայցելուց առաջ դուք չպետք է ունենա�
 
 ## Խնդրում ենք շարունակել հաջորդ էջը:   [Cloudflare ձայներ](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
