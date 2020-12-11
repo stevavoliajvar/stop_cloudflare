@@ -1,7 +1,7 @@
 # Litaba tsa Boitšoaro
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Se ke oa ts'ehetsa k'hamphani ena e hlokang melao ea boitšoaro"
 
@@ -34,8 +34,8 @@ Re ka emisa joang Cloudflare ntle le ho kenya tšebetsong Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Haeba u beha tlhahlobo e mpe sebakeng se seng le se seng sa tlhahlobo, ba tla le
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Haeba u sa batle ho hlorisoa, ho hlekefetsoa, ​​ho shapuoa kapa ho bolaoa, h
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Ho tšosa haholo hore mokhatlo oa Amerika o ka kopa liphallelo haufi le mekhatlo
 Haeba u rata ho thibela batho kapa ho senya nako ea batho ba bang, u kanna ua batla ho reka li-pizza bakeng sa basebetsi ba Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ U tla etsa eng haeba sebaka sa hau sa marang-rang se theoha ka tšohanyetso?
 Ho na le litlaleho tsa hore Cloudflare e hlakola tlhophiso ea basebelisi kapa ho emisa ts'ebeletso ntle le temoso, ka khutso.
 Re khothaletsa hore u fumane mofani oa litšebeletso tse molemo.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare e fana ka khethollo ho ba sebelisang Firefox ha ba ntse ba fana ka t�
 Basebelisi ba marang-rang bao ka nepo ba hanang ho etsa lipapatso tse seng tsa mahala le bona ba tšoaroa hampe.
 Ho se lekane ho fihlelang hona ke tlhekefetso e seng molaong ea ts'ebetso le ts'ebeliso e mpe ea matla.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Ka ho le letšehali: Tor Browser, Ka ho le letona: Chrome. Aterese e ts'oanang ea IP.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Ka ho le letšehali: Tor Browser Javascript Disified, Cookie Ensets
 - Ka ho le letona: Javascript ea Google Enesetsoa, ​​Cookie e Holofetse
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (sebatli se senyenyane) ntle le Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Hlokomela hore ngoliso ea pampiri ha e potolohe Cloudflare hobane sengoli sa bas
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org ke sebaka sa marang-rang se tummeng sa ho bokella likhetho le ho nka bohato.
 “batho hohle ba qala liphutuho, ho bokella batšehetsi, le ho sebetsa le baetsi ba liqeto ho tsamaisa tharollo.”
@@ -200,7 +200,7 @@ Ho sebelisa sethala se seng se sa koaeloang ke marang-rang joaloka OpenPback ho 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - "Morero oa Athene" oa Cloudflare o fana ka ts'ireletso ea maemo a khoebo ea mahala ho liwebosaete tsa likhetho tsa lehae.
 Ba itse "mabatooa a bona a ka fumana tlhaiso-leseling ea likhetho le ngodiso ea bakuli" empa hona ke leshano hobane batho ba bangata ha ba khone ho bala sebaka ho hang.
@@ -220,7 +220,7 @@ Haeba u khetha ho khetha ntho e itseng, u lebelletse hore ha u na amohela lengol
 Cloudflare e hlokomoloha khetho ea mosebelisi mme e arolelana data le likhoebo tsa mekhatlo ea boraro ntle le tumello ea moreki.
 Haeba u sebelisa moralo oa bona oa mahala, ka linako tse ling ba u romella lengolo-tsoibila ba kopa ho reka ngoliso ea khoeli le khoeli.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ O boetse a boletse hore leano la lekunutu la Cloudflare ha le bue ka hona.
 Leano la bona la bocha la lekunutu ha le bue ka ho boloka data bakeng sa selemo.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 U ka tšepa Cloudflare joang haeba melaoana ea bona ea lekunutu e le LIE?
 
@@ -276,7 +276,7 @@ Ha ua tlameha ho ba le libaka kapa likarete tsa mokoloto tse khomaretsoeng akhao
 
 O tla fumana lengolo-tsoibila lena.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Re se re qalile ho sebetsana le kopo ea hau ea ho hlakola" empa "Re tla tsoelapele ho boloka tlhahisoleseling ea hau".
 
@@ -297,5 +297,5 @@ Na u ka "tšepa" see?
 
 ## Ka kopo, tsoela pele ho fihla leqepheng le latelang:   [Mehopolo ea Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
