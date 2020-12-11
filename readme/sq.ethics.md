@@ -1,7 +1,7 @@
 # Ështje Etike
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Mos e mbështesni këtë kompani e cila nuk ka etikë"
 
@@ -34,8 +34,8 @@ Si mund ta ndalojmë Cloudflare pa aktivizuar Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Nëse postoni një rishikim negativ në çdo sit të shqyrtimit, ata do të për
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Nëse nuk doni të ngacmoheni, sulmoheni, rrahën ose vriten, më mirë qëndron
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Quiteshtë mjaft e tmerrshme që një korporatë amerikane të kërkojë bamirë
 Nëse ju pëlqen të bllokoni njerëzit ose të humbni kohën e njerëzve të tjerë, mund të dëshironi të porosisni disa pica për punonjësit e Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Farë do të bëni nëse faqja juaj shkon papritmas?
 Ka raporte që Cloudflare po fshin konfigurimin e përdoruesit ose ndalon shërbimin pa asnjë paralajmërim, në heshtje.
 Ne ju sugjerojmë të gjeni një ofrues më të mirë.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare u jep trajtim preferencial atyre që përdorin Firefox ndërsa u japi
 Përdoruesit e torëve, të cilët me të drejtë refuzojnë të ekzekutojnë JavaScript falas, gjithashtu marrin një trajtim armiqësor.
 Kjo pabarazi e qasjes është një abuzim i neutralitetit në rrjet dhe një abuzim i pushtetit.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Majtas: Shfletuesi Tor, Djathtas: Chrome. Adresa IP njëjtë.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Majtas: Browser Tor Javascript me aftësi të kufizuara, Cookie Enabled
 - Në të djathtë: Chrome Javascript është aktivizuar, Cookie Disaktivizohet
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (shfletues i vogël) pa Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Vini re se regjistrimi në letër nuk e anashkalon Cloudflare sepse sekretari i 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org është një faqe e famshme për të mbledhur vota dhe për të ndërmarrë veprime.
 “njerëzit kudo janë duke filluar fushatat, duke mobilizuar mbështetësit dhe duke punuar me vendimmarrësit për të përzënë zgjidhje.”
@@ -200,7 +200,7 @@ Përdorimi i një platforme tjetër jo-fluturuese si OpenPetition ndihmon për t
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - "Projekti Athenian" i Cloudflare ofron mbrojtje falas të nivelit të ndërmarrjeve në faqet e internetit të zgjedhjeve shtetërore dhe lokale.
 Ata thanë "zgjedhësit e tyre mund të kenë qasje në informacionin zgjedhor dhe regjistrimin e votuesve", por kjo është një gënjeshtër sepse shumë njerëz thjesht nuk mund të shfletojnë faqen në të gjitha.
@@ -220,7 +220,7 @@ Nëse nuk pranoni diçka, prisni që të mos merrni asnjë email në lidhje me t
 Cloudflare injorojë preferencën e përdoruesit dhe ndan të dhënat me korporatat e palëve të treta pa pëlqimin e klientit.
 Nëse jeni duke përdorur planin e tyre falas, ata ndonjëherë ju dërgojnë email për t'ju kërkuar të blini abonimin mujor.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Ai gjithashtu përmendi që politika e intimitetit të Cloudflare nuk përmend p
 Politika e tyre e re e intimitetit nuk bën asnjë përmendje të ruajtjes së të dhënave për një vit.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Si mund t'i besoni Cloudflare nëse politika e tyre e intimitetit është një LIE?
 
@@ -276,7 +276,7 @@ Ju nuk duhet të keni fusha ose karta krediti të bashkangjitura në llogarinë 
 
 Do të merrni këtë email konfirmimi.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Ne kemi filluar të përpunojmë kërkesën tuaj për fshirje" por "Ne do të vazhdojmë të ruajmë informacionin tuaj personal".
 
@@ -297,5 +297,5 @@ A mund ta "besosh" këtë?
 
 ## Ju lutemi vazhdoni në faqen tjetër:   [Zëra Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
