@@ -1,7 +1,7 @@
 # Ёс зүйн асуудлууд
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Ёс зүйгүй компанийг бүү дэмж"
 
@@ -34,8 +34,8 @@ Cloudflare-г идэвхжүүлэхгүйгээр бид хэрхэн Cloudflar
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Cloudflare-ийн цензуртай холбоотой сөрөг тоймуу�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Cloudflare нь байршуулсан сайтуудын талаар гомд�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ CloudFlare буяны хувь нэмэр оруулахыг хүсч байна
 Хэрэв та хүмүүсийг хаах эсвэл бусад хүмүүсийн цагийг үрэх дуртай бол Cloudflare-ийн ажилчдад зориулж зарим пицца захиалахыг хүсч магадгүй юм.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ CloudFlare буяны хувь нэмэр оруулахыг хүсч байна
 Cloudflare нь хэрэглэгчийн тохиргоог устгаж байгаа эсвэл ямар ч анхааруулгагүйгээр үйлчилгээг зогсоосон гэсэн мэдээлэл байна.
 Бид илүү сайн үйлчилгээ үзүүлэгч олохыг санал болгож байна.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare нь Firefox ашигладаг хүмүүст давуу эрх ол
 Үнэгүй javascript-г гүйцэтгэхээс татгалзсан Tor хэрэглэгчид мөн дайсагналцдаг.
 Энэхүү хандалтын тэгш бус байдал нь сүлжээний төвийг сахисан байдал, эрх мэдлээ урвуулан ашигласан байдал юм.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Зүүн талд: Tor Browser, баруун талд: Chrome. Ижил IP хаяг.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Зүүн талд: Tor Browser Javascript идэвхгүй болсон, күүкиг идэвхжүүлсэн байна
 - Баруун талд: Chrome-ын Javascript-ыг идэвхжүүлсэн, күүкиг идэвхгүй болгосон
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - Tor (Clearnet IP )гүйгээр QuteBrowser (жижиг хөтөч)
 
@@ -190,7 +190,7 @@ Cloudflare-ийн Tor хэрэглэгчдийг дайсагнасан ханд
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org бол санал хураалт явуулж, арга хэмжээ авах алдартай вэбсайт юм.
 “хаа сайгүй хүмүүс кампанит ажил эхлүүлж, дэмжигчдийг дайчлан, шийдвэр гаргагч нартай хамтран ажиллаж, шийдэл гаргахад чиглэж байна.”
@@ -200,7 +200,7 @@ OpenPetition гэх мэт бусад гэрээгүй платформ ашиг
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare-ийн "Афинийн төсөл" нь мужийн болон орон нутгийн сонгуулийн вэбсайтуудад аж ахуйн нэгжийн түвшний үнэгүй хамгаалалтыг санал болгодог.
 Тэд "өөрсдийн сонгогчид сонгуулийн мэдээлэл, сонгогчдын бүртгэлд хандах боломжтой" гэж хэлсэн боловч олон хүмүүс зүгээр л сайтар үзэж чаддаггүй тул энэ нь худлаа юм.
@@ -220,7 +220,7 @@ OpenPetition гэх мэт бусад гэрээгүй платформ ашиг
 Cloudflare нь хэрэглэгчийн давуу талыг үл тоомсорлож, хэрэглэгчийн зөвшөөрөлгүйгээр гуравдагч этгээдийн корпорацитай өгөгдлийг хуваалцана.
 Хэрэв та тэдний үнэгүй төлөвлөгөөг ашиглаж байгаа бол тэд заримдаа танд сар бүр захиалгаа авах талаар имэйл илгээдэг.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Cloudflare нь "устгах" гэдэг үгийг мэддэггүй байс
 Тэдгээрийн шинэ нууцлалын бодлого нь нэг жилийн турш хадгалагдах тухай дурьдаагүй болно.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Нууцлалын бодлого нь LIE юм бол Cloudflare-д та хэрхэн итгэж болох вэ?
 
@@ -276,7 +276,7 @@ Cloudflare бүртгэлийг устгах нь хэцүү түвшинд ба
 
 Та энэ баталгаажуулах имэйлийг хүлээн авах болно.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Бид таны устгах хүсэлтийг боловсруулж эхэллээ" гэвч "Бид таны хувийн мэдээллийг үргэлжлүүлэн хадгалах болно."
 
@@ -297,5 +297,5 @@ Cloudflare бүртгэлийг устгах нь хэцүү түвшинд ба
 
 ## Дараагийн хуудас руу үргэлжлүүлнэ үү:   [Cloudflare дуу хоолой](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
