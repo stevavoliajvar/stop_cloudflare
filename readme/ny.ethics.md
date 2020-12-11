@@ -1,7 +1,7 @@
 # Nkhani Zamakhalidwe
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Osagwirizana ndi kampaniyi yomwe ili yopanda tanthauzo"
 
@@ -34,8 +34,8 @@ Kodi tingaimitse bwanji Cloudflare popanda kuyambitsa Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Ngati mutayika ndemanga yoyipa patsamba lililonse lobwereza, ayesa kuiphunzira.
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Ngati simukufuna kuzunzidwa, kumenyedwa, kusinthidwa kapena kuphedwa, kuli bwino
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Ndizowopsa kuti bungwe la America lingapemphe ndalama ku mabungwe ena osagwirits
 Ngati mukufuna kutsekereza anthu kapena kuwononga nthawi ya anthu ena, mungafune kuyitanitsa ma pizzas ena a antchito a Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Kodi mungatani ngati tsamba lanu litatsikira mwadzidzidzi?
 Pali malipoti oti Cloudflare ikuchotsa kasinthidwe ka wogwiritsa ntchito kapena kuyimitsa ntchito popanda chenjezo, mwakachetechete.
 Tikukulimbikitsani kuti mupeze opeza bwino.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare imapereka chisangalalo kwa iwo omwe amagwiritsa ntchito Firefox pomwe
 Ogwiritsa ntchito ogwiritsa ntchito omwe amakana kupha majakisensi opanda ufulu nawonso amachitidwa nkhanza.
 Kusavomerezeka kotereku ndikumagwiritsa ntchito ndale zachipongwe komanso kugwiritsa ntchito mphamvu molakwika.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Kumanzere: Tor Msakatuli, Kumanja: Chrome. Adilesi yomweyo ya IP.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Kumanzere: Tor Browser Javascript Walemala, Cookie Woyatsidwa
 - Kumanja: Chrome Javascript Yoyatsidwa, Cookie Walemala
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (msakatuli wocheperako) wopanda Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Dziwani kuti kulembetsa mapepala sikuyendetsa Cloudflare chifukwa mlembi wa ogwi
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org ndi tsamba lodziwika bwino losonkhanitsa mavoti ndikuchitapo kanthu.
 “anthu kulikonse akuyambitsa makampeni, kulimbikitsa othandizira, ndikugwira ntchito ndi opanga zisankho kuyendetsa njirazi.”
@@ -200,7 +200,7 @@ Kugwiritsa ntchito nsanja ina yopanda mitambo ngati OpenPback kumathandizira vut
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare's "Athenian Project" imapereka chitetezo chamabizinesi aulere kwa mawebusayiti amasankho am boma ndi amderalo.
 Iwo ati "Madera awo amatha kulumikizana ndi zisankho ndikulembetsa anthu ovota" koma izi ndi zabodza chifukwa anthu ambiri sangathe kuyang'ana malowa konse.
@@ -220,7 +220,7 @@ Ngati mukufuna kutulutsa china chake, mukuyembekeza kuti simulandila imelo pankh
 Cloudflare amanyalanyaza zokonda za wogwiritsa ntchito ndikugawana zambiri ndi mabungwe enaake popanda kuvomereza kwa makasitomala.
 Ngati mukugwiritsa ntchito pulani yawo yaulere, nthawi zina amatumiza imelo kukufunsa kuti mulembe zofunikira mwezi uliwonse.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Ananenanso kuti zachinsinsi za Cloudflare sizitchula izi.
 Mfundo zawo zachinsinsi zatsopano sizinenapo chilichonse chosungira chaka chimodzi.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Kodi mungakhulupirire bwanji Cloudflare ngati malingaliro awo achinsinsi ndi LIE?
 
@@ -276,7 +276,7 @@ Simuyenera kukhala ndi zigawo kapena makhadi a ngongole omwe amaikidwa ku akaunt
 
 Mukalandira imelo yokutsimikizirani.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Tayamba kukonza pempho lanu" koma "Tipitiliza kusunga zidziwitso zanu".
 
@@ -297,5 +297,5 @@ Kodi mutha "kudalira" izi?
 
 ## Chonde pitilizani patsamba lotsatila:   [Mawonekedwe a Cloudflare](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
