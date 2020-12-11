@@ -199,10 +199,9 @@ If you're not blocking Tor users, you will be removed automatically.
 
 A or B will be enough. Thank you for your contribution.
 
-> Type A: Push to Codeberg
+> Type A: Push to git
 
-1. Log in to *Codeberg*.
-  - **WARNING**: Do note that Codeberg is blocking temporary email services and some minor email providers(not temporary email).
+1. Log in to this website.
   - If you're Tor user, we recommend 'type B'.
 2. Click "*Fork*" button. (top-left corner)
 3. Edit text file.
@@ -222,7 +221,7 @@ A or B will be enough. Thank you for your contribution.
 
 Public API Details [ℹ](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/#!op=info/api)
 <br>
-Your contribution will be pushed to Codeberg automatically within a week.
+Your contribution will be pushed to git automatically within a week.
 
 </details>
 
@@ -246,7 +245,7 @@ need more adaptations for Windows and other platforms.
 
 1. Install Git, SSH(Not Windows), and Tor (if you haven't already)
 1. Create a `git.fuwafuwa.moe` account (username "snowden" will be used for this example)
-1. Create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_mrsnowden`
+1. Create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at git' -f "$HOME"/.ssh/id_rsa_mrsnowden`
 1. Edit `$HOME/.ssh/config`:
 ```
     host git.fuwafuwa.moe
@@ -262,17 +261,17 @@ need more adaptations for Windows and other platforms.
 1. $ `firefox https://git.fuwafuwa.moe/you/stop_cloudflare`
 1. fork it (top right corner)
 1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
-1. anonymously download your fork: $ `git clone git@mrsnowden:crimeflare/stop_cloudflare.git`
+1. anonymously download your fork: $ `git clone git@mrsnowden:you/stop_cloudflare.git`
 1. edit `$project_root/stop_cloudflare/.git/config` to include the account name and email address that will be on every commit, as well as the URL:
 ```
 [user]
-        email = BM-yadayadayada6fgnLfybVnCcWf25AGZcgg@bitmessage.ch
+        email = noreply@example.com
         name = snowden
 [remote "origin"]
         url = git@mrsnowden:snowden/stop_cloudflare.git
      	fetch = +refs/heads/*:refs/remotes/origin/*
 [remote "upstream"]
-        url = git@mrsnowden:crimeflare/stop_cloudflare.git
+        url = git@mrsnowden:you/stop_cloudflare.git
      	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
@@ -291,7 +290,7 @@ need more adaptations for Windows and other platforms.
 &nbsp;
 
 Whenever git operates on the stop_cloudflare project, all connections
-to codeberg are automatically over Tor with this configuration
+to git are automatically over Tor with this configuration
 (because the `url` in `.git/config` references the virtual host
 `mrsnowden` in `~/.ssh/config`).
 
@@ -305,7 +304,7 @@ to codeberg are automatically over Tor with this configuration
 ## How to edit files without account
 </summary>
 
-It is possible to edit any files on this repository using shared editor. If you wish to collaborate anonymously, contact and show us how much activism you have done. You'll need a computer.
+It is possible to edit any files on this repository using shared editor. If you wish to collaborate anonymously, contact and show us how much activism you have done. You'll need a computer (smartphone not possible)
 
 </details>
 
