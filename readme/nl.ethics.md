@@ -1,7 +1,7 @@
 # Ethische problemen
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Steun dit bedrijf niet dat geen ethiek kent"
 
@@ -34,8 +34,8 @@ Hoe kunnen we Cloudflare stoppen zonder Cloudflare te activeren?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Als u een negatieve recensie op een recensiesite plaatst, zullen zij deze prober
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Als je niet lastiggevallen, aangevallen, geslagen of vermoord wilt worden, kun j
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Het is nogal schrikbarend dat een Amerikaans bedrijf naast non-profitorganisatie
 Als je het leuk vindt om mensen te blokkeren of de tijd van anderen te verspillen, wil je misschien wat pizza's bestellen voor Cloudflare-medewerkers.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Wat gaat u doen als uw site plotseling uitvalt?
 Er zijn berichten dat Cloudflare de configuratie van de gebruiker verwijdert of de service stopt zonder enige waarschuwing, stil.
 We raden u aan een betere provider te zoeken.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,20 +130,20 @@ CloudFlare geeft een voorkeursbehandeling aan degenen die Firefox gebruiken, ter
 Tor-gebruikers die terecht weigeren om niet-gratis javascript uit te voeren, worden ook vijandig behandeld.
 Deze ongelijkheid in toegang is misbruik van netwerkneutraliteit en machtsmisbruik.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Links: Tor Browser, Rechts: Chrome. Zelfde IP-adres.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Links: Tor Browser Javascript uitgeschakeld, cookie ingeschakeld
 - Rechts: Chrome Javascript ingeschakeld, Cookie uitgeschakeld
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (kleine browser) zonder Tor (Clearnet IP)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/lynx_cloudflare.gif)
+![](../image/lynx_cloudflare.gif)
 
 - Lynx
 
@@ -195,7 +195,7 @@ Merk op dat papieren registratie Cloudflare niet omzeilt, omdat de medewerkers v
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org is een bekende website om stemmen te verzamelen en actie te ondernemen.
 “mensen overal ter wereld starten campagnes, mobiliseren supporters en werken samen met besluitvormers om oplossingen te vinden.”
@@ -205,7 +205,7 @@ Het gebruik van een ander niet-cloudflared platform zoals OpenPetition helpt het
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare's "Athenian Project" biedt gratis bescherming op bedrijfsniveau aan nationale en lokale verkiezingswebsites.
 Ze zeiden dat "hun kiezers toegang hebben tot verkiezingsinformatie en kiezersregistratie", maar dit is een leugen omdat veel mensen de site helemaal niet kunnen bekijken.
@@ -225,7 +225,7 @@ Als je iets afmeldt, verwacht je dat je daar geen e-mail over ontvangt.
 Cloudflare negeert de voorkeur van de gebruiker en deelt gegevens met externe bedrijven zonder toestemming van de klant.
 Als u hun gratis abonnement gebruikt, sturen ze u soms een e-mail met de vraag om een ​​maandelijks abonnement te kopen.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -256,7 +256,7 @@ Hij zei ook dat het privacybeleid van Cloudflare er niets over zegt.
 In hun nieuwe privacybeleid wordt geen melding gemaakt van het bewaren van gegevens gedurende een jaar.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Hoe kunt u Cloudflare vertrouwen als hun privacybeleid een LIE is?
 
@@ -283,7 +283,7 @@ U mag geen domeinen of creditcards aan uw account hebben gekoppeld voordat u om 
 
 U ontvangt deze bevestigingsmail.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "We zijn begonnen met het verwerken van uw verwijderingsverzoek" maar "We zullen uw persoonlijke gegevens blijven opslaan".
 
@@ -319,5 +319,5 @@ Kunt u dit "vertrouwen"?
 
 ## Ga door naar de volgende pagina:   [Cloudflare-stemmen](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
