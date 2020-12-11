@@ -1,7 +1,7 @@
 # Pwoblèm etik
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Pa sipòte konpayi sa a ki se anile nan etik"
 
@@ -34,8 +34,8 @@ Ki jan nou ka sispann Cloudflare san yo pa aktive Cloudflare?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Si ou poste yon revizyon negatif sou nenpòt sit revizyon an, yo pral eseye cont
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Si ou pa vle anmele, atake, swatted oswa touye, ou pi bon rete lwen sit entènè
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ Li trè terifyan ke yon sosyete Ameriken ta mande pou charite ansanm ak òganiza
 Si ou renmen bloke moun oswa gaspiye tan lòt moun nan, ou ta ka vle bay lòd pou kèk pitza pou anplwaye Cloudflare.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Kisa w ap fè si sit ou desann toudenkou?
 Gen rapò ki Cloudflare ap efase konfigirasyon itilizatè a oswa kanpe sèvis san okenn avètisman, an silans.
 Nou sijere ou jwenn pi bon founisè.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare bay preferans tretman pou moun ki lè l sèvi avèk Firefox pandan y 
 Itilizatè Tor moun ki just refize egzekite javascript ki pa lib tou resevwa tretman ostil.
 Inegalite aksè sa a se yon rezo abi netralite ak yon abi pouvwa.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Left: Tor Navigatè, Dwa: Chrome. Menm adrès IP.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Left: Tor Navigatè Javascript ki andikape, bonbon Pèmèt
 - Dwa: Chrome JavaScript pèmèt, bonbon ki andikape
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (minè navigatè) san Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Remake byen ke anrejistreman papye pa kontourne Cloudflare paske sekretè a nan 
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org se yon sit entènèt popilè pou rasanble vòt yo epi pran aksyon.
 “moun toupatou ap kòmanse kanpay, mobilize sipòtè yo, ak travay ak moun k ap pran desizyon yo kondwi solisyon yo.”
@@ -200,7 +200,7 @@ Sèvi ak lòt platfòm ki pa cloudflared tankou OpenPetition ede remèd pwoblèm
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflare nan "Atèn Pwojè" ofri gratis antrepriz-nivo pwoteksyon nan sit entènèt ak lokal eleksyon.
 Yo di "elektè yo ka jwenn aksè nan enfòmasyon sou eleksyon yo ak enskripsyon elektè" men sa a se yon manti paske gen anpil moun ki jis pa ka browse sit la nan tout.
@@ -220,7 +220,7 @@ Si ou opt-out yon bagay, ou espere ke ou pa resevwa okenn imèl sou li.
 Cloudflare inyore preferans itilizatè a ak pataje done ak kòporasyon twazyèm pati san konsantman kliyan an.
 Si w ap itilize plan gratis yo, yo pafwa voye yon imèl ba ou mande yo achte chak mwa abònman.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Li te tou mansyone ke règleman sou enfòmasyon prive Cloudflare a pa mansyone s
 Nouvo politik vi prive yo pa fè okenn mansyone pou kenbe done pou yon ane.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Kijan ou ka fè konfyans Cloudflare si règleman sou vi prive yo se yon MENT?
 
@@ -276,7 +276,7 @@ Ou dwe pa gen okenn domèn oswa kat kredi tache ak kont ou anvan ou mande sipres
 
 Ou pral resevwa imèl konfimasyon sa a.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Nou te kòmanse trete demann pou suppression ou" men "N ap kontinye sere enfòmasyon pèsonèl ou".
 
@@ -297,5 +297,5 @@ Ou pral resevwa imèl konfimasyon sa a.
 
 ## Tanpri kontinye nan pwochen paj la:   [Cloudflare Voices](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
