@@ -246,7 +246,6 @@ need more adaptations for Windows and other platforms.
 
 1. Install Git, SSH(Not Windows), and Tor (if you haven't already)
 1. Create a `git.fuwafuwa.moe` account (username "snowden" will be used for this example)
-  - **NOTICE**: Codeberg is blocking temporary email services and some minor email providers(not temporary email).
 1. Create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at codeberg' -f "$HOME"/.ssh/id_rsa_mrsnowden`
 1. Edit `$HOME/.ssh/config`:
 ```
