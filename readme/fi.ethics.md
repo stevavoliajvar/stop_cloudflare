@@ -1,7 +1,7 @@
 # Eettiset ongelmat
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/itsreallythatbad.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
+![](../image/itsreallythatbad.jpg)
+![](../image/telegram/c81238387627b4bfd3dcd60f56d41626.jpg)
 
 "Älä tue tätä yritystä, jolla ei ole etiikkaa"
 
@@ -34,8 +34,8 @@ Kuinka voimme pysäyttää Cloudflaren aktivoimatta Cloudflare-ohjelmaa?
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam03.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspam02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspambrittany.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfspamtwtr.jpg) |
+| ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
+| ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
 
 </details>
 
@@ -55,7 +55,7 @@ Jos lähetät kielteisen arvostelun mihin tahansa tarkistussivustoon, he yrittä
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_01.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_02.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfcenrev_03.jpg) |
+| ![](../image/cfcenrev_01.jpg)<br>![](../image/cfcenrev_02.jpg) | ![](../image/cfcenrev_03.jpg) |
 
 </details>
 
@@ -76,9 +76,9 @@ Jos et halua häiritä, pahoinpidelä, hieroa tai tappaa, sinun on parasta pysy�
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_what.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_swat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_kill.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_threat.jpg) |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_dox.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex1.jpg)<br>![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
+| ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
 
 </details>
 
@@ -96,7 +96,7 @@ On melko kauhistuttavaa, että amerikkalainen yritys pyytää hyväntekeväisyyt
 Jos haluat estää ihmisiä tai tuhlata muiden ihmisten aikaa, kannattaa tilata pizzat Cloudflaren työntekijöille.
 
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfdonate.jpg)
+![](../image/cfdonate.jpg)
 
 </details>
 
@@ -113,7 +113,7 @@ Mitä teet, jos sivustosi sammuu yhtäkkiä?
 On ilmoitettu, että Cloudflare poistaa käyttäjän määritykset tai lopettaa palvelun ilman varoitusta, hiljaa.
 Ehdotamme sinun löytää parempi tarjoaja.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cftmnt.jpg)
+![](../image/cftmnt.jpg)
 
 </details>
 
@@ -130,16 +130,16 @@ CloudFlare antaa etusijan kohtelussa Firefoxia käyttäville, kun taas Tor-selai
 Tor-käyttäjät, jotka kieltäytyvät perustellusti kieltäytymästä ilmaisen javascriptin toteuttamisesta, saavat myös vihamielisen kohtelun.
 Tämä käyttöoikeuksien epätasa-arvo on verkon neutraalisuuden väärinkäyttö ja vallan väärinkäyttö.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browdifftbcx.gif)
+![](../image/browdifftbcx.gif)
 
 - Vasen: Tor-selain, oikea: Chrome. Sama IP-osoite.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/browserdiff.jpg)
+![](../image/browserdiff.jpg)
 
 - Vasen: Tor-selaimen JavaScripti poistettu käytöstä, eväste käytössä
 - Oikealla: Chrome Javascript käytössä, eväste poistettu käytöstä
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfsiryoublocked.jpg)
+![](../image/cfsiryoublocked.jpg)
 
 - QuteBrowser (alaselain) ilman Tor (Clearnet IP)
 
@@ -190,7 +190,7 @@ Huomaa, että paperirekisteröinti ei kiertä Cloudflare-ohjelmaa, koska valtios
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_01.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfvotm_02.jpg) |
+| ![](../image/cfvotm_01.jpg) | ![](../image/cfvotm_02.jpg) |
 
 - Change.org on kuuluisa verkkosivusto keräämään ääniä ja ryhtymään toimiin.
 “kaikkialla ihmiset käynnistävät kampanjoita, saavat tukijoita ja työskentelevät päätöksentekijöiden kanssa ratkaisujen löytämiseksi.”
@@ -200,7 +200,7 @@ Muiden ei pilvitetyn alustan, kuten OpenPetition, käyttö auttaa korjaamaan ong
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgasn.jpg) | ![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/changeorgtor.jpg) |
+| ![](../image/changeorgasn.jpg) | ![](../image/changeorgtor.jpg) |
 
 - Cloudflaren "Ateenan projekti" tarjoaa ilmaisen yritystason suojauksen valtion ja paikallisten vaalien verkkosivustoille.
 He sanoivat, että "heidän vaalipiirinsä voivat käyttää vaalia koskevia tietoja ja äänestäjien rekisteröintiä", mutta tämä on valhe, koska monet ihmiset eivät vain pysty selaamaan sivustoa ollenkaan.
@@ -220,7 +220,7 @@ Jos hylkäät jotain, luulet, että et saa siitä sähköpostia.
 Cloudflare ohittaa käyttäjän mieltymykset ja jakaa tietoja ulkopuolisten yritysten kanssa ilman asiakkaan suostumusta.
 Jos käytät heidän ilmaista pakettiaan, he lähettävät joskus sähköpostia sinulle, jossa he pyytävät ostamaan kuukausitilauksen.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_tp.jpg)
+![](../image/cfviopl_tp.jpg)
 
 </details>
 
@@ -251,7 +251,7 @@ Hän mainitsi myös, että Cloudflaren tietosuojakäytännössä ei mainita sit�
 Heidän uudessa tietosuojakäytännössään ei mainita tietojen säilyttämistä vuodeksi.
 ```
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfviopl_notdel.jpg)
+![](../image/cfviopl_notdel.jpg)
 
 Kuinka voit luottaa Cloudflareen, jos heidän tietosuojakäytäntönsä on LIE?
 
@@ -276,7 +276,7 @@ Tilissäsi ei saa olla verkkotunnuksia tai luottokortteja, ennen kuin pyydät po
 
 Saat tämän vahvistusviestin.
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cf_deleteandkeep.jpg)
+![](../image/cf_deleteandkeep.jpg)
 
 "Olemme alkaneet käsitellä poistopyyntöäsi", mutta "Jatkamme henkilökohtaisten tietojen tallentamista".
 
@@ -297,5 +297,5 @@ Voitko "luottaa" tähän?
 
 ## Jatka seuraavalle sivulle:   [Cloudflare Voices](../PEOPLE.md)
 
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/freemoldybread.jpg)
-![](https://codeberg.org/crimeflare/stop_cloudflare/media/branch/master/image/cfisnotanoption.jpg)
+![](../image/freemoldybread.jpg)
+![](../image/cfisnotanoption.jpg)
