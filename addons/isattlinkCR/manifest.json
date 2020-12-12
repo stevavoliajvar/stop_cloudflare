@@ -1,10 +1,10 @@
 {
    "manifest_version": 2,
    "name": "Ĉu ĉi tiuj ligoj blokos Tor-uzanton?",
-   "version": "1.0.4",
+   "version": "1.0.4.1",
    "minimum_chrome_version": "78",
    "homepage_url": "https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/",
-   "author": "Crimeflare",
+   "author": "Ss",
    "incognito": "split",
    "permissions": [
       "storage",
