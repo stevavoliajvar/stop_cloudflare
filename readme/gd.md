@@ -135,7 +135,7 @@ Is e an ath-reic seo liosta de làraich-lìn a tha air cùl “The Great Cloudwa
 
 ### Mu chunntasan meallta
 
-Tha fios aig Crimeflare mu dheidhinn cunntasan meallta a bhith a ’dèanamh atharrais air na seanailean oifigeil againn, biodh sin Twitter, Facebook, Patreon, OpenCollective, Villages msaa.
+Tha fios aig We mu dheidhinn cunntasan meallta a bhith a ’dèanamh atharrais air na seanailean oifigeil againn, biodh sin Twitter, Facebook, Patreon, OpenCollective, Villages msaa.
 **Cha iarr sinn am post-d agad a-riamh.
 Cha bhith sinn a-riamh ag iarraidh d ’ainm.
 Cha bhi sinn uair sam bith ag iarraidh d ’aithne.
