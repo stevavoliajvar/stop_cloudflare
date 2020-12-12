@@ -135,7 +135,7 @@ Lokhu kugcina uhlu lwamawebhusayithi angemuva kwe- "The Cloudwall" enkulu, evimb
 
 ### Mayelana nama-akhawuntimbumbulu
 
-Ama-Crimeflare ayazi ngobukhona bama-akhawuntimbumbulu enza iziteshi zethu ezisemthethweni, kungaba yi-Twitter, i-Facebook, i-Patreon, i-OpenCollective, i-villages njll.
+Ama-We ayazi ngobukhona bama-akhawuntimbumbulu enza iziteshi zethu ezisemthethweni, kungaba yi-Twitter, i-Facebook, i-Patreon, i-OpenCollective, i-villages njll.
 **Asikaze sibuze i-imeyili yakho.
 Asikaze sibuze igama lakho.
 Asikaze sibuze umazisi wakho.
