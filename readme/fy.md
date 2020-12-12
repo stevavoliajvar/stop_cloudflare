@@ -135,7 +135,7 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
 
 ### Oer falske akkounts
 
-Crimeflare wite oer it bestean fan falske akkounts dy't ús offisjele kanalen ferpersoanlikje, of it no Twitter, Facebook, Patreon, OpenCollective, Doarpen ensfh.
+We wite oer it bestean fan falske akkounts dy't ús offisjele kanalen ferpersoanlikje, of it no Twitter, Facebook, Patreon, OpenCollective, Doarpen ensfh.
 **Wy freegje jo e-post noait.
 Wy freegje jo namme noait.
 Wy freegje jo identiteit noait.
