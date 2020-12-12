@@ -119,7 +119,7 @@
 
 * Bonvolu legi [la voĉon de alia uzanto](../PEOPLE.md) kaj skribu viajn pensojn.
 
-* Serĉi ion sur [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([klara retejo](https://ansero.eu.org/)) aŭ [Crimeflare \#Serĉi](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([klara retejo](https://sercxi.eu.org/)).
+* Serĉi ion sur [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([klara retejo](https://ansero.eu.org/)) aŭ [Ss \#Sserĉi](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([klara retejo](https://sercxi.eu.org/)).
 
 * Bonvolu ĝisdatigi la domajnan liston: [Enlistigi instrukciojn](../INSTRUCTION.md).
 
@@ -134,7 +134,7 @@
 
 ### Pri falsaj kontoj
 
-Crimeflare scias pri la ekzisto de falsaj kontoj, kiuj anstataŭigas niajn oficialajn kanalojn, ĉu Twitter, Facebook, Patreon, OpenCollective, Vilaĝoj, ktp.
+We scias pri la ekzisto de falsaj kontoj, kiuj anstataŭigas niajn oficialajn kanalojn, ĉu Twitter, Facebook, Patreon, OpenCollective, Vilaĝoj, ktp.
 **Ni neniam demandas vian retpoŝton.
 Ni neniam demandas vian nomon.
 Ni neniam demandas vian identecon.
