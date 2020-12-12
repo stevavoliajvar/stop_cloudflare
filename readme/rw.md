@@ -135,7 +135,7 @@ Ububiko ni urutonde rwurubuga ruri inyuma ya "The Great Cloudwall", rukumira aba
 
 ### Ibyerekeye konti mpimbano
 
-Crimeflare izi kubyerekeye kubaho kwa konti mpimbano yigana imiyoboro yacu yemewe, yaba Twitter, Facebook, Patreon, OpenCollective, Imidugudu nibindi.
+We izi kubyerekeye kubaho kwa konti mpimbano yigana imiyoboro yacu yemewe, yaba Twitter, Facebook, Patreon, OpenCollective, Imidugudu nibindi.
 **Ntabwo twigera tubaza imeri yawe.
 Ntabwo twigera tubaza izina ryawe.
 Ntabwo twigera tubaza umwirondoro wawe.
