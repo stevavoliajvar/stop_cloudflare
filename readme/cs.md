@@ -135,7 +135,7 @@ Toto úložiště je seznam webových stránek, které jsou za „Velkým cloude
 
 ### O falešných účtech
 
-Crimeflare vědí o existenci falešných účtů vydávajících se za naše oficiální kanály, ať už jsou to Twitter, Facebook, Patreon, OpenCollective, Vesnice atd.
+We vědí o existenci falešných účtů vydávajících se za naše oficiální kanály, ať už jsou to Twitter, Facebook, Patreon, OpenCollective, Vesnice atd.
 **Nikdy se neptáme na váš e-mail.
 Nikdy se neptáme na vaše jméno.
 Nikdy se vás nezeptáme na vaši totožnost.
