@@ -8,7 +8,7 @@ Oh, it's you?
 
 Congratulations, you are ranked in the top 50 of...
 
-![](../../image/clapclapclap.gif)
+![](../../image/cape_starling.gif)
 
 (_Sarcasm? Of course. Stop sharing CF links already!_)
 
