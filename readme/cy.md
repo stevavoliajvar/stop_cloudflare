@@ -135,7 +135,7 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "The Great Cloudwall", ga
 
 ### Ynglŷn â chyfrifon ffug
 
-Mae Crimeflare yn gwybod am fodolaeth cyfrifon ffug sy'n dynwared ein sianeli swyddogol, boed yn Twitter, Facebook, Patreon, OpenCollective, Pentrefi ac ati.
+Mae We yn gwybod am fodolaeth cyfrifon ffug sy'n dynwared ein sianeli swyddogol, boed yn Twitter, Facebook, Patreon, OpenCollective, Pentrefi ac ati.
 **Nid ydym byth yn gofyn am eich e-bost.
 Nid ydym byth yn gofyn eich enw.
 Nid ydym byth yn gofyn pwy ydych chi.
