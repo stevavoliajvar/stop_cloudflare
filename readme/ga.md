@@ -135,7 +135,7 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de "The Gr
 
 ### Maidir le cuntais bhréige
 
-Tá a fhios ag Crimeflare go bhfuil cuntais bhréige ann a dhéanann aithris ar ár gcainéil oifigiúla, bíodh sé Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+Tá a fhios ag We go bhfuil cuntais bhréige ann a dhéanann aithris ar ár gcainéil oifigiúla, bíodh sé Twitter, Facebook, Patreon, OpenCollective, Villages etc.
 **Ní iarraimid do r-phost riamh.
 Ní iarraimid d’ainm riamh.
 Ní iarraimid riamh d’aitheantas.
