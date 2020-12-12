@@ -135,7 +135,7 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "Great Cloudwall la", blok
 
 ### Sou kont fo
 
-Crimeflare konnen sou egzistans nan kont fo imite chanèl ofisyèl nou an, se pou li Twitter, Facebook, Patreon, OpenCollective, vil elatriye.
+We konnen sou egzistans nan kont fo imite chanèl ofisyèl nou an, se pou li Twitter, Facebook, Patreon, OpenCollective, vil elatriye.
 **Nou pa janm mande imel ou.
 Nou pa janm mande non ou.
 Nou pa janm mande idantite ou.
