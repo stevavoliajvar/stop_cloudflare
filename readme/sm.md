@@ -135,7 +135,7 @@ O lenei fale teu oloa o se lisi o uepisaite o loʻo i tua o le "The Great Cloudw
 
 ### E uiga i le pepelo tala
 
-Crimeflare iloa e uiga i le i ai o pepelo tala pepelo faʻasaina o matou ala aloaia, ia Twitter, Facebook, Patreon, OpenCollective, Nuu etc.
+We iloa e uiga i le i ai o pepelo tala pepelo faʻasaina o matou ala aloaia, ia Twitter, Facebook, Patreon, OpenCollective, Nuu etc.
 **Matou te le fesiligia le imeli.
 Matou te le fesiligia le igoa.
 Matou te le fesiligia le ou igoa.
