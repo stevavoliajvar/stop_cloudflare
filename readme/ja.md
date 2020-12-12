@@ -135,7 +135,7 @@
 
 ### 偽のアカウントについて
 
-Crimeflareは、Twitter、Facebook、Patreon、OpenCollective、Villagesなどの公式チャネルになりすました偽のアカウントの存在を知っています。
+私たちは、Twitter、Facebook、Patreon、OpenCollective、Villagesなどの公式チャネルになりすました偽のアカウントの存在を知っています。
 **私たちはあなたの電子メールを決して尋ねません。
 私たちはあなたの名前を尋ねることは決してありません。
 私たちはあなたの身元を尋ねることは決してありません。
