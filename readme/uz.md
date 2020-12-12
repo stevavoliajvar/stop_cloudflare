@@ -135,7 +135,7 @@ Ushbu ombor Tor foydalanuvchilari va boshqa CDN-larni blokirovka qiladigan "Grea
 
 ### Soxta akkauntlar haqida
 
-Twitter, Facebook, Patreon, OpenCollective, Villages va hokazo bizning rasmiy kanallarimizga o'xshash soxta akkauntlar mavjudligi haqida Crimeflare biladi.
+Twitter, Facebook, Patreon, OpenCollective, Villages va hokazo bizning rasmiy kanallarimizga o'xshash soxta akkauntlar mavjudligi haqida We biladi.
 **Sizning elektron pochtangizni hech qachon so'ramaymiz.
 Biz hech qachon sizning ismingizni so'ramaymiz.
 Biz hech qachon sizning kimligingizni so'ramaymiz.
