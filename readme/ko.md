@@ -135,7 +135,7 @@
 
 ### 가짜 계정 정보
 
-Crimeflare는 Twitter, Facebook, Patreon, OpenCollective, Villages 등 공식 채널을 가장하는 가짜 계정의 존재를 알고 있습니다.
+Twitter, Facebook, Patreon, OpenCollective, Villages 등과 같은 공식 채널을 가장하는 가짜 계정의 존재를 알고 있습니다.
 **우리는 귀하의 이메일을 절대 묻지 않습니다.
 우리는 당신의 이름을 묻지 않습니다.
 우리는 귀하의 신원을 묻지 않습니다.
