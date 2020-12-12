@@ -135,7 +135,7 @@ Dette depotet er en liste over nettsteder som ligger bak "The Great Cloudwall", 
 
 ### Om falske kontoer
 
-Crimeflare vet om eksistensen av falske kontoer som utgir seg for våre offisielle kanaler, det være seg Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+We vet om eksistensen av falske kontoer som utgir seg for våre offisielle kanaler, det være seg Twitter, Facebook, Patreon, OpenCollective, Villages etc.
 **Vi spør aldri e-posten din.
 Vi spør aldri navnet ditt.
 Vi spør aldri din identitet.
