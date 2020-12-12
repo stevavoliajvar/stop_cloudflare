@@ -135,7 +135,7 @@ Ang kini nga repositoryo usa ka lista sa mga website nga sa luyo sa "The Great C
 
 ### Bahin sa mga peke nga account
 
-Nahibal-an sa Crimeflare ang mahitungod sa paglungtad sa mga peke nga mga account nga nag-ingon sa among mga opisyal nga kanal, mao ra ang Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+Nahibal-an sa We ang mahitungod sa paglungtad sa mga peke nga mga account nga nag-ingon sa among mga opisyal nga kanal, mao ra ang Twitter, Facebook, Patreon, OpenCollective, Villages etc.
 **Wala gyud kami mangutana sa imong email.
 Dili kami mangutana sa imong ngalan.
 Wala gyud kami mangutana sa imong pagkatawo.
