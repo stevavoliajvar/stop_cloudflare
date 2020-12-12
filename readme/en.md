@@ -140,7 +140,7 @@ This repository is a list of websites that are behind "The Great Cloudwall", blo
 
 ### About fake accounts
 
-Crimeflare know about the existence of fake accounts impersonating our official channels, be it Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+We know about the existence of fake accounts impersonating our official channels, be it Twitter, Facebook, Patreon, OpenCollective, Villages etc.
 **We never ask your email. 
 We never ask your name. 
 We never ask your identity. 
