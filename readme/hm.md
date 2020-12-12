@@ -135,7 +135,7 @@ Qhov chaw cia no yog ib daim ntawv teev npe ntawm lub vev xaib uas nyob tom qab 
 
 ### Hais txog cov as khauj cuav
 
-Crimeflare paub txog cov neeg muaj nyiaj ntawm kev sau nyiaj ncaj ncees cuam tshuam peb cov nom tswv txoj haujlwm, nws yog Twitter, Facebook, Patreon, OpenCollective, Zos thiab lwm yam.
+We paub txog cov neeg muaj nyiaj ntawm kev sau nyiaj ncaj ncees cuam tshuam peb cov nom tswv txoj haujlwm, nws yog Twitter, Facebook, Patreon, OpenCollective, Zos thiab lwm yam.
 **Peb yeej tsis nug koj tus email.
 Peb yeej tsis nug koj lub npe.
 Peb yeej tsis nug koj tus kheej.
