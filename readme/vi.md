@@ -135,7 +135,7 @@ Kho lưu trữ này là danh sách các trang web đứng sau "Bức tường m�
 
 ### Về tài khoản giả mạo
 
-Crimeflare biết về sự tồn tại của các tài khoản giả mạo mạo danh các kênh chính thức của chúng tôi, có thể là Twitter, Facebook, Patreon, OpenCollective, Villages, v.v.
+We biết về sự tồn tại của các tài khoản giả mạo mạo danh các kênh chính thức của chúng tôi, có thể là Twitter, Facebook, Patreon, OpenCollective, Villages, v.v.
 **Chúng tôi không bao giờ hỏi email của bạn.
 Chúng tôi không bao giờ hỏi tên của bạn.
 Chúng tôi không bao giờ hỏi danh tính của bạn.
