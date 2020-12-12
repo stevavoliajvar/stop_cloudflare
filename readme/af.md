@@ -135,7 +135,7 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter "The Great Cloudwall" staan,
 
 ### Oor vals rekeninge
 
-Crimeflare weet van die bestaan ​​van vals rekeninge wat ons amptelike kanale verpersoonlik, hetsy Twitter, Facebook, Patreon, OpenCollective, Villages ens.
+We weet van die bestaan ​​van vals rekeninge wat ons amptelike kanale verpersoonlik, hetsy Twitter, Facebook, Patreon, OpenCollective, Villages ens.
 **Ons vra nooit u e-pos nie.
 Ons vra nooit u naam nie.
 Ons vra nooit u identiteit nie.
