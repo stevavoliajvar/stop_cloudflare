@@ -135,7 +135,7 @@ Detta förvar är en lista över webbplatser som ligger bakom "The Great Cloudwa
 
 ### Om falska konton
 
-Crimeflare vet om förekomsten av förfalskade konton som föreställer sig våra officiella kanaler, vare sig det Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+We vet om förekomsten av förfalskade konton som föreställer sig våra officiella kanaler, vare sig det Twitter, Facebook, Patreon, OpenCollective, Villages etc.
 **Vi frågar aldrig din e-post.
 Vi frågar aldrig ditt namn.
 Vi frågar aldrig din identitet.
