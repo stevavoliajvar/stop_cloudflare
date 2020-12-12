@@ -440,6 +440,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- hey. Looks like your page is down. Getting a Cloudflare error. ([cerebralbliss](https://twitter.com/cerebralbliss/status/1337180635849375746))
+- Error 1020 Ray ID: 5ff973925f00d3df • 2020-12-10 19:42:51 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 5ff973925f00d3df • Your IP: 105.225.61.65 • Performance & security by Cloudflare ([terrace12463816](https://twitter.com/Terrace12463816/status/1337120911972036609))
 - Replying to I was going to buy the $850 bundle. However the site locked up during the payment part. Then it never let me back in, Cloudflare error. Good job Antonline!!!! Third time trying to buy from them. ([lacrolx1](https://twitter.com/lacrolx1/status/1336785273817067521))
 - Connection timed out The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed. Ray ID: 5ff18d125a2b186f Your IP address: 2600:1700:4df9:10:586 Error reference number: 522 Cloudflare Location: Atlanta ([themerchandise](https://twitter.com/themerchandise/status/1336773638163472386))
 - this is what i get from antonline lol Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. ([dimitri4g94](https://twitter.com/Dimitri4G94/status/1336768869361352706))
