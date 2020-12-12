@@ -135,7 +135,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 
 ### A proposito di account falsi
 
-Crimeflare è a conoscenza dell'esistenza di account falsi che impersonano i nostri canali ufficiali, siano essi Twitter, Facebook, Patreon, OpenCollective, Villages ecc.
+We è a conoscenza dell'esistenza di account falsi che impersonano i nostri canali ufficiali, siano essi Twitter, Facebook, Patreon, OpenCollective, Villages ecc.
 **Non chiediamo mai la tua email.
 Non chiediamo mai il tuo nome.
 Non chiediamo mai la tua identità.
