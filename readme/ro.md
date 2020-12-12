@@ -135,7 +135,7 @@ Acest depozit este o listă de site-uri web care se află în spatele „Marelui
 
 ### Despre conturi false
 
-Crimeflare știe despre existența unor conturi false care să impună canalele noastre oficiale, fie că e vorba de Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+We știe despre existența unor conturi false care să impună canalele noastre oficiale, fie că e vorba de Twitter, Facebook, Patreon, OpenCollective, Villages etc.
 **Nu vă cerem niciodată e-mailul.
 Nu vă întrebăm niciodată numele.
 Nu vă întrebăm niciodată identitatea.
