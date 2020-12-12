@@ -120,7 +120,7 @@
 
 * [閱讀其他用戶的聲音並寫下您的想法。](../PEOPLE.md)
 
-* 搜索東西: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Crimeflare 搜索](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=zt) ([clearnet](https://sercxi.eu.org/))
+* 搜索東西: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [We 搜索](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=zt) ([clearnet](https://sercxi.eu.org/))
 
 * 更新域列表: [清單說明](../INSTRUCTION.md).
 
