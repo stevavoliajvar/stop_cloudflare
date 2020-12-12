@@ -1,4 +1,4 @@
-if (document.body && !['crimeflare.eu.org', 'api.crimeflare.eu.org', 'ansero.eu.org'].includes(location.hostname) && !location.hostname.endsWith('.onion')) {
+if (document.body && !['sercxi.eu.org', 'api.sercxi.eu.org', 'ansero.eu.org'].includes(location.hostname) && !location.hostname.endsWith('.onion')) {
 	let cs = (function () {
 		let s = document.createElement('style');
 		document.head.appendChild(s);
@@ -13,7 +13,7 @@ if (document.body && !['crimeflare.eu.org', 'api.crimeflare.eu.org', 'ansero.eu.
 		cs.insertRule("img[data-mitm=y]:hover{filter:sepia(20%)}", 5);
 	}
 	chrome.storage.local.get(['ign1', 'ign2', 'obs', 'dbg', 'alt'], (g) => {
-		let asked = ['', 'sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion', 'crimeflare.eu.org', 'api.crimeflare.eu.org', 'ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion', 'ansero.eu.org', 'addons.mozilla.org', 'addons.thunderbird.net', 'web.archive.org', 't.co'];
+		let asked = ['', 'sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion', 'sercxi.eu.org', 'api.sercxi.eu.org', 'ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion', 'ansero.eu.org', 'addons.mozilla.org', 'addons.thunderbird.net', 'web.archive.org', 't.co'];
 		if (g.ign1 == 'y') {
 			asked.push(location.hostname);
 		}
