@@ -135,7 +135,7 @@ To repozytorium to lista stron internetowych, które stoją za „Wielką zapor�
 
 ### O fałszywych kontach
 
-Crimeflare wie o istnieniu fałszywych kont podszywających się pod nasze oficjalne kanały, czy to Twitter, Facebook, Patreon, OpenCollective, Villages itp.
+We wie o istnieniu fałszywych kont podszywających się pod nasze oficjalne kanały, czy to Twitter, Facebook, Patreon, OpenCollective, Villages itp.
 **Nigdy nie pytamy o Twój e-mail.
 Nigdy nie pytamy o twoje imię.
 Nigdy nie pytamy o twoją tożsamość.
