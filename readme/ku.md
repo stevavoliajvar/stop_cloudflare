@@ -135,7 +135,7 @@ Vê repoya navnîşek malperên ku li paş "The Cloudwall mezin" in, rawestandin
 
 ### Li ser hesabên derewîn
 
-Crimeflare di derbarê hebûna hesabên derewîn ên ku kanalên meya fermî de dijîn dizane, ew bibin Twitter, Facebook, Patreon, OpenCollective, Gundan hwd.
+We di derbarê hebûna hesabên derewîn ên ku kanalên meya fermî de dijîn dizane, ew bibin Twitter, Facebook, Patreon, OpenCollective, Gundan hwd.
 **Em qet e-nameya we dipirsin.
 Em qet navê te napirsin.
 Em qet nasnameya we dipirsin.
