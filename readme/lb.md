@@ -135,7 +135,7 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "The Great Cloudwal
 
 ### Iwwer gefälschte Konten
 
-Crimeflare wëssen iwwer d'Existenz vu falschen Konten, déi eis offiziell Channels verzeechnen, sief et Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+We wëssen iwwer d'Existenz vu falschen Konten, déi eis offiziell Channels verzeechnen, sief et Twitter, Facebook, Patreon, OpenCollective, Villages etc.
 **Mir froen ni Är E-Mail.
 Mir froen ni Ären Numm.
 Mir froen ni Är Identitéit.
