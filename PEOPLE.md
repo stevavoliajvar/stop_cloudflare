@@ -97,6 +97,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+- [New CDN for media files](https://masto.host/new-cdn-for-media-files/)
 - [Personal post: I left Cloudflare](https://www.ethanyoo.com/cloudflare/)
 - [Crimeflare (Fuck Cloudflare) / bandcamp / music](https://polarisfm.bandcamp.com/releases)
 - [Cloudflare outage and the risk in today's Internet](https://www.garron.blog/posts/cloudflare-outage.html)
