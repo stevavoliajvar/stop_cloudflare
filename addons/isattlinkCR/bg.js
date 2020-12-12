@@ -100,7 +100,7 @@ chrome.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep'], g => {
 	localDB = JSON.parse(g.ldb || '[]');
 	switch (g.cep) {
 		case '1':
-			apiurl = 'https://api.crimeflare.eu.org/_/is_antitor.php';
+			apiurl = 'https://api.sercxi.eu.org/_/is_antitor.php';
 			break;
 		case '2':
 			apiurl = 'http://avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/a/is_at.php';
@@ -235,7 +235,7 @@ chrome.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 					chrome.storage.local.set({
 						'cep': '1'
 					});
-					apiurl = 'https://api.crimeflare.eu.org/_/is_antitor.php';
+					apiurl = 'https://api.sercxi.eu.org/_/is_antitor.php';
 					break;
 				case 'urltype,2':
 					chrome.storage.local.set({
