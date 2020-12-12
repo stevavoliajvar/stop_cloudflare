@@ -135,7 +135,7 @@ Este repositório é uma lista de sites que estão por trás do "The Great Cloud
 
 ### Sobre contas falsas
 
-Crimeflare sabe da existência de contas falsas se passando por nossos canais oficiais, seja Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+We sabe da existência de contas falsas se passando por nossos canais oficiais, seja Twitter, Facebook, Patreon, OpenCollective, Villages etc.
 **Nunca pedimos seu e-mail.
 Nunca perguntamos seu nome.
 Nunca perguntamos sua identidade.
