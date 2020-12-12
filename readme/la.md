@@ -135,7 +135,7 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
 
 ### Rationes fake de
 
-Crimeflare scire rationes fake de existentia personas assumerent channels officialis nostris: hoc erit Twitter Facebook, Patreon, OpenCollective, in viculis eius etc.
+We scire rationes fake de existentia personas assumerent channels officialis nostris: hoc erit Twitter Facebook, Patreon, OpenCollective, in viculis eius etc.
 **Nos numquam quaeritur te quis.
 Nos non quaeritur nomen tuum.
 Nos numquam quaeritur te identitatem.
