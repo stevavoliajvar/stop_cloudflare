@@ -135,7 +135,7 @@ Ibi ipamọ yii jẹ atokọ ti awọn oju opo wẹẹbu ti o wa lẹhin "The Cl
 
 ### Nipa awọn iroyin iro
 
-Crimeflare mọ nipa aye ti awọn iroyin iro ti o ṣe afihan awọn ikanni osise wa, jẹ o jẹ Twitter, Facebook, Patreon, OpenCollective, Awọn abule ati be be lo.
+We mọ nipa aye ti awọn iroyin iro ti o ṣe afihan awọn ikanni osise wa, jẹ o jẹ Twitter, Facebook, Patreon, OpenCollective, Awọn abule ati be be lo.
 **A ko beere imeeli rẹ rara.
 A ko beere orukọ rẹ rara.
 A ko beere idanimọ rẹ rara.
