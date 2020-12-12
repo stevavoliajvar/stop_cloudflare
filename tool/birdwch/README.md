@@ -101,4 +101,4 @@ If you want to see this in action: [Onion](http://stopcloudflare@avrynpc2q7pknqa
 Example:
 `curl -x socks5h://127.0.0.1:9050 -G -H "Authorization: Basic c3RvcGNsb3VkZmxhcmU6" "http://-----.onion/twitter/" -d "who=c" -d "json"`
 
-> `[{"rank":1,"who":"xxx","toots":"xxx"},{"rank":2,...`
+> `[{"rank":1,"who":"xxx","tweets":"xxx"},{"rank":2,...`
