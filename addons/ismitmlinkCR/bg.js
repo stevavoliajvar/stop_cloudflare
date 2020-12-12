@@ -1176,7 +1176,7 @@ chrome.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep'], (g) => {
 	}
 	switch (g.cep) {
 		case '1':
-			apiurl = 'https://api.crimeflare.eu.org/_/ismitm.php';
+			apiurl = 'https://api.sercxi.eu.org/_/ismitm.php';
 			break;
 		case '2':
 			apiurl = 'http://avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/a/is_cf.php';
@@ -1352,7 +1352,7 @@ chrome.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 					chrome.storage.local.set({
 						'cep': '1'
 					});
-					apiurl = 'https://api.crimeflare.eu.org/_/ismitm.php';
+					apiurl = 'https://api.sercxi.eu.org/_/ismitm.php';
 					break;
 				case 'urltype,2':
 					chrome.storage.local.set({
