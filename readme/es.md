@@ -135,7 +135,7 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
 
 ### Acerca de las cuentas falsas
 
-Crimeflare sabe de la existencia de cuentas falsas que se hacen pasar por nuestros canales oficiales, ya sea Twitter, Facebook, Patreon, OpenCollective, Villages, etc.
+We sabe de la existencia de cuentas falsas que se hacen pasar por nuestros canales oficiales, ya sea Twitter, Facebook, Patreon, OpenCollective, Villages, etc.
 **Nunca preguntamos su correo electrónico.
 Nunca preguntamos tu nombre.
 Nunca preguntamos su identidad.
