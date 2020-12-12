@@ -135,7 +135,7 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 
 ### Tungkol sa mga pekeng account
 
-Alam ng Crimeflare tungkol sa pagkakaroon ng mga pekeng account na nagpapahiwatig ng aming mga opisyal na channel, maging ito sa Twitter, Facebook, Patreon, OpenCollective, Villages atbp.
+Alam ng We tungkol sa pagkakaroon ng mga pekeng account na nagpapahiwatig ng aming mga opisyal na channel, maging ito sa Twitter, Facebook, Patreon, OpenCollective, Villages atbp.
 **Hindi namin hilingin sa iyong email.
 Hindi namin hiningi ang iyong pangalan.
 Hindi namin hiningi ang iyong pagkakakilanlan.
