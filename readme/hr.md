@@ -135,7 +135,7 @@ Ovo spremište je popis web stranica koje stoje iza "Velikog oblačnog zida", a 
 
 ### O lažnim računima
 
-Crimeflare zna za postojanje lažnih računa koji nameću naše službene kanale, bilo da su to Twitter, Facebook, Patreon, OpenCollective, Villageges itd.
+We zna za postojanje lažnih računa koji nameću naše službene kanale, bilo da su to Twitter, Facebook, Patreon, OpenCollective, Villageges itd.
 **Nikada ne pitamo vašu e-poštu.
 Nikad ne pitamo tvoje ime.
 Nikad ne tražimo vaš identitet.
