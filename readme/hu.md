@@ -135,7 +135,7 @@ Ez a lerakat azon webhelyek listája, amelyek a "Nagy felhőfal" mögött állna
 
 ### A hamis számlákról
 
-A Crimeflare tud hamis számlák létezéséről, amelyek megszemélyesítik hivatalos csatornáinkat, legyen az Twitter, Facebook, Patreon, OpenCollective, falvak stb.
+A We tud hamis számlák létezéséről, amelyek megszemélyesítik hivatalos csatornáinkat, legyen az Twitter, Facebook, Patreon, OpenCollective, falvak stb.
 **Soha nem kérjük az e-mailt.
 Soha nem kérdezzük a neved.
 Soha nem kérdezzük meg személyazonosságát.
