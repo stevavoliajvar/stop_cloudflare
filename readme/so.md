@@ -135,7 +135,7 @@ Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xan
 
 ### Ku saabsan akoonnada been abuurka ah
 
-Crimeflare waxay ogaataa jiritaanka akoonno been abuur ah oo muujinaya kanaalka tooska ah, ha ahaato Twitter, Facebook, Patreon, OpenCollective, Village iwm.
+We waxay ogaataa jiritaanka akoonno been abuur ah oo muujinaya kanaalka tooska ah, ha ahaato Twitter, Facebook, Patreon, OpenCollective, Village iwm.
 **Marna kuma weydiinayno emaylkaaga.
 Marna kuma weydiin magacaaga.
 Marna kuma weydiinay aqoonsigaaga.
