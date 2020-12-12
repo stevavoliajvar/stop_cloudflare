@@ -135,7 +135,7 @@
 
 ### Apie netikras sąskaitas
 
-„Crimeflare“ žino apie netikrų paskyrų, apsimetančių mūsų oficialiais kanalais, buvimą „Twitter“, „Facebook“, „Patreon“, „OpenCollective“, „Village“ ir kt., Egzistavimą.
+„We“ žino apie netikrų paskyrų, apsimetančių mūsų oficialiais kanalais, buvimą „Twitter“, „Facebook“, „Patreon“, „OpenCollective“, „Village“ ir kt., Egzistavimą.
 **Mes niekada neprašome jūsų el.
 Mes niekada neklausiame tavo vardo.
 Mes niekada neklausiame jūsų tapatybės.
