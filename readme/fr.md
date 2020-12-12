@@ -135,7 +135,7 @@ Ce référentiel est une liste de sites Web derrière "The Great Cloudwall", blo
 
 ### À propos des faux comptes
 
-Crimeflare connaît l'existence de faux comptes se faisant passer pour nos canaux officiels, que ce soit Twitter, Facebook, Patreon, OpenCollective, Villages, etc.
+We connaît l'existence de faux comptes se faisant passer pour nos canaux officiels, que ce soit Twitter, Facebook, Patreon, OpenCollective, Villages, etc.
 **Nous ne demandons jamais votre email.
 Nous ne demandons jamais votre nom.
 Nous ne demandons jamais votre identité.
