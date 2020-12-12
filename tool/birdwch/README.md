@@ -63,7 +63,7 @@ url	varchar(200) INDEX
 ym	int(6) INDEX
 ```
 
-- tweet_notcf_fqdn: Unknown FQDN which was not listed as Cloudflare
+- fqdn_notcf: Unknown FQDN which was not listed as Cloudflare
 ```
 fqdn	varchar(200) UNIQUE
 dl	int(1) INDEX
