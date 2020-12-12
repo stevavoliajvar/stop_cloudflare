@@ -135,7 +135,7 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "Il-Great Cloudwall", l
 
 ### Dwar kontijiet foloz
 
-Crimeflare taf dwar l-eżistenza ta 'kontijiet foloz li jimponu l-kanali uffiċjali tagħna, kemm jekk huma Twitter, Facebook, Patreon, OpenCollective, Villages eċċ.
+We taf dwar l-eżistenza ta 'kontijiet foloz li jimponu l-kanali uffiċjali tagħna, kemm jekk huma Twitter, Facebook, Patreon, OpenCollective, Villages eċċ.
 **Aħna qatt ma nitolbu l-email tiegħek.
 Aħna qatt ma nitolbu ismek.
 Aħna qatt ma nitolbu l-identità tiegħek.
