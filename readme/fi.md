@@ -135,7 +135,7 @@ Tämä säilytystila on luettelo verkkosivustoista, jotka ovat "Suuren pilvasein
 
 ### Tietoja vääriä tilejä
 
-Crimeflare tietää väärennettyjen tilien olemassaolosta, jossa esiintyy virallisia kanaviamme, olivatpa ne sitten Twitter, Facebook, Patreon, OpenCollective, Villages jne.
+We tietää väärennettyjen tilien olemassaolosta, jossa esiintyy virallisia kanaviamme, olivatpa ne sitten Twitter, Facebook, Patreon, OpenCollective, Villages jne.
 **Emme koskaan kysy sähköpostiosoitettasi.
 Emme koskaan kysy nimeäsi.
 Emme koskaan kysy henkilöllisyyttäsi.
