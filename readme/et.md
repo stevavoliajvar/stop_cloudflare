@@ -135,7 +135,7 @@ See hoidla on loetelu veebisaitidest, mis asuvad "Suure pilvaseina" taga, blokee
 
 ### Teave võltskontode kohta
 
-Crimeflare teab võltskontode olemasolust, mis kehastab meie ametlikke kanaleid, olgu selleks Twitter, Facebook, Patreon, OpenCollective, Villages jne.
+We teab võltskontode olemasolust, mis kehastab meie ametlikke kanaleid, olgu selleks Twitter, Facebook, Patreon, OpenCollective, Villages jne.
 **Me ei küsi kunagi teie e-posti.
 Me ei küsi kunagi teie nime.
 Me ei küsi kunagi teie identiteeti.
