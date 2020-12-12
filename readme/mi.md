@@ -135,7 +135,7 @@ Ko tenei kohinga tetahi raarangi o nga paetukutuku kei muri i te "The Cloudwall 
 
 ### Mo nga korero rūpahu
 
-E mohio ana te Crimeflare e pa ana ki te puta o nga kaute raupaparanga e whakatuu ana i a maatau ara mana, ara ko Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+E mohio ana te We e pa ana ki te puta o nga kaute raupaparanga e whakatuu ana i a maatau ara mana, ara ko Twitter, Facebook, Patreon, OpenCollective, Villages etc.
 **Kaore rawa matou e patai ki to imeera.
 Kaore rawa matou e tono ki to ingoa.
 Kaore rawa matou e tono ki to tuakiri.
