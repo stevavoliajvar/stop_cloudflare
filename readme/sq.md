@@ -135,7 +135,7 @@ Kjo depo është një listë e faqeve të internetit që janë pas "The Great Cl
 
 ### Rreth llogarive të rreme
 
-Crimeflare di për ekzistencën e llogarive të rreme që impersonojnë kanalet tona zyrtare, qoftë Twitter, Facebook, Patreon, OpenCollective, Fshatrat etj.
+We di për ekzistencën e llogarive të rreme që impersonojnë kanalet tona zyrtare, qoftë Twitter, Facebook, Patreon, OpenCollective, Fshatrat etj.
 **Asnjëherë nuk kërkojmë emailin tuaj.
 Asnjëherë nuk kërkojmë emrin tuaj.
 Ne kurrë nuk pyesim identitetin tuaj.
