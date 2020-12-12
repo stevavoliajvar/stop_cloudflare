@@ -7,7 +7,6 @@
   - [Top 100 - Shared Cloudflare links](shared_on_twitter.md#top-100-shared-cloudflare-links)
   - [Top 100 - Shared FQDN](shared_on_twitter.md#top-100-shared-fqdn)
   - [About Twitter Users](shared_on_twitter.md#about-twitter-users)
-  - [About Twitter Servers](shared_on_twitter.md#about-twitter-servers)
 
 ----
 
