@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I am trying to log into my account, but I keep getting a Cloudflare error. ([saultheotaku](https://twitter.com/SaulTheOtaku/status/1338578395991511043))
 - Captcha sucks when using a VPN! But understanding that some of your VPN endpoints, not all of them, are triggering Captchas on Google or Cloudflare hosted sites, you just change the VPN endpoint a few times until you get one that's not listed. ([johnny_doe2010](https://twitter.com/johnny_doe2010/status/1337279845990973440))
 - is down! Connection timed out The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed. Ray ID: 6016a9b56805a5e8 Error reference number: 522 Cloudflare Location: Tokyo ([strangechrish](https://twitter.com/StrangeChrisH/status/1338405592537370628))
 - if you are using a vpn service, or proxy, or a shared ip address, this can occur. I connect constantly via vpn and this error message is fairly common with sites hosted via cloudflare. Try connecting via a different service, wifi, coffee shop, whatever. ([planetdeception](https://twitter.com/planetdeception/status/1337698718875869184))
