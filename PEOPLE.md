@@ -440,6 +440,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Cloudflare has already gone to the trouble of teaching users how to bypass error messages they see, why waste that time investment? 😂 ([yankeefinn](https://twitter.com/yankeefinn/status/1339741280075583491))
+- When I right click on the page & click "Inspect Element" it shows I'm getting a 503 error that says, "Please turn JavaScript on and reload the page." But I have inspected NoScript and ensured that it isn't blocking JS. So it seems that the page incorrectly thinks JS is blocked. ([captainkurtis](https://twitter.com/CaptainKurtis/status/1339635905812938753))
+- your cdn product page has an error and results in a blank page ([markobilal](https://twitter.com/markobilal/status/1339617296013246466))
 - It's OK now. The issue caused by CloudFlare node routing error in China area, it's already fixed. ([risent](https://twitter.com/risent/status/1339158161186377728))
 - I am trying to log into my account, but I keep getting a Cloudflare error. ([saultheotaku](https://twitter.com/SaulTheOtaku/status/1338578395991511043))
 - Captcha sucks when using a VPN! But understanding that some of your VPN endpoints, not all of them, are triggering Captchas on Google or Cloudflare hosted sites, you just change the VPN endpoint a few times until you get one that's not listed. ([johnny_doe2010](https://twitter.com/johnny_doe2010/status/1337279845990973440))
