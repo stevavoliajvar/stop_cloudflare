@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- That feel when you're using Tor and try to visit any site using 😭 Endless captcha loops and errors. ([jordanfrankfurt](https://twitter.com/jordanfrankfurt/status/1340417357701935107))
 - Right it was down earlier cloudflare error. Can you check your security? Run full system checks. Ty. ([agathawhisky](https://twitter.com/agathawhisky/status/1339947208553185280))
 - Cloudflare has already gone to the trouble of teaching users how to bypass error messages they see, why waste that time investment? 😂 ([yankeefinn](https://twitter.com/yankeefinn/status/1339741280075583491))
 - When I right click on the page & click "Inspect Element" it shows I'm getting a 503 error that says, "Please turn JavaScript on and reload the page." But I have inspected NoScript and ensured that it isn't blocking JS. So it seems that the page incorrectly thinks JS is blocked. ([captainkurtis](https://twitter.com/CaptainKurtis/status/1339635905812938753))
