@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- This apparently affects all lynx users; I just tried from a system at my employer’s and a virtual machine I rent, and they all get a 503 error from when trying to access a site. This is catastrophic failure! ([knoblauchkeks](https://twitter.com/Knoblauchkeks/status/1340555669158637568))
 - That feel when you're using Tor and try to visit any site using 😭 Endless captcha loops and errors. ([jordanfrankfurt](https://twitter.com/jordanfrankfurt/status/1340417357701935107))
 - Right it was down earlier cloudflare error. Can you check your security? Run full system checks. Ty. ([agathawhisky](https://twitter.com/agathawhisky/status/1339947208553185280))
 - Cloudflare has already gone to the trouble of teaching users how to bypass error messages they see, why waste that time investment? 😂 ([yankeefinn](https://twitter.com/yankeefinn/status/1339741280075583491))
