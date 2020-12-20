@@ -292,6 +292,7 @@ eva.ns.cloudflare.com
 evan.ns.cloudflare.com
 evangeline.ns.cloudflare.com
 eve.ns.cloudflare.com
+evelyn.ns.cloudflare.com
 everton.ns.cloudflare.com
 ezra.ns.cloudflare.com
 fatima.ns.cloudflare.com
@@ -308,6 +309,7 @@ frank.ns.cloudflare.com
 fred.ns.cloudflare.com
 frida.ns.cloudflare.com
 gabe.ns.cloudflare.com
+gabriel.ns.cloudflare.com
 gabriella.ns.cloudflare.com
 gail.ns.cloudflare.com
 galilea.ns.cloudflare.com
