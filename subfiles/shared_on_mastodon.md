@@ -21,9 +21,9 @@
 
 | About |   |
 | --- | --- |
-| Toots has links | 576,247 |
-| Toots has Cloudflare link | 91,226 (15.83%) |
-| Active Mastodon Servers | 1,778 |
+| Toots has links | 592,839 |
+| Toots has Cloudflare link | 93,713 (15.81%) |
+| Active Mastodon Servers | 1,790 |
 
 
 [//]: # (do not edit this line end)
@@ -38,106 +38,106 @@
 
 | # | Who | Toots |
 | --- | --- | --- |
-| 1 | [newsbot@dajiaweibo.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=newsbot@dajiaweibo.com) | 13,611 |
-| 2 | [google@societal.co](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=google@societal.co) | 12,006 |
-| 3 | [nowplaying@toot-lab.reclaim.technology](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=nowplaying@toot-lab.reclaim.technology) | 6,191 |
-| 4 | [amb_noticias@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=amb_noticias@botsin.space) | 5,415 |
-| 5 | [UnitooWebRadio@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=UnitooWebRadio@botsin.space) | 4,919 |
-| 6 | [WowMachineRadio@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=WowMachineRadio@botsin.space) | 4,085 |
-| 7 | [prensa_maldita@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=prensa_maldita@friendica.chilemasto.casa) | 3,732 |
-| 8 | [metro@societal.co](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=metro@societal.co) | 3,628 |
-| 9 | [tomohiro_amami@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=tomohiro_amami@pawoo.net) | 3,610 |
-| 10 | [incestfan@my.dirtyhobby.xyz](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=incestfan@my.dirtyhobby.xyz) | 3,299 |
-| 11 | [NYPost@mastodon.cloud](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NYPost@mastodon.cloud) | 3,228 |
-| 12 | [reuters@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=reuters@mstdn.foxfam.club) | 3,077 |
-| 13 | [thecliniccl@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thecliniccl@friendica.chilemasto.casa) | 3,057 |
+| 1 | [newsbot@dajiaweibo.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=newsbot@dajiaweibo.com) | 13,740 |
+| 2 | [google@societal.co](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=google@societal.co) | 12,336 |
+| 3 | [nowplaying@toot-lab.reclaim.technology](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=nowplaying@toot-lab.reclaim.technology) | 6,371 |
+| 4 | [amb_noticias@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=amb_noticias@botsin.space) | 5,536 |
+| 5 | [UnitooWebRadio@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=UnitooWebRadio@botsin.space) | 5,043 |
+| 6 | [WowMachineRadio@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=WowMachineRadio@botsin.space) | 4,191 |
+| 7 | [prensa_maldita@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=prensa_maldita@friendica.chilemasto.casa) | 3,839 |
+| 8 | [metro@societal.co](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=metro@societal.co) | 3,704 |
+| 9 | [tomohiro_amami@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=tomohiro_amami@pawoo.net) | 3,678 |
+| 10 | [incestfan@my.dirtyhobby.xyz](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=incestfan@my.dirtyhobby.xyz) | 3,395 |
+| 11 | [NYPost@mastodon.cloud](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NYPost@mastodon.cloud) | 3,299 |
+| 12 | [reuters@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=reuters@mstdn.foxfam.club) | 3,226 |
+| 13 | [thecliniccl@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thecliniccl@friendica.chilemasto.casa) | 3,130 |
 | 14 | [Sanfermin@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Sanfermin@mastodon.social) | 2,813 |
-| 15 | [itnewsbot@schleuss.online](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=itnewsbot@schleuss.online) | 2,802 |
-| 16 | [IndianExpress@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=IndianExpress@newsbots.eu) | 2,665 |
-| 17 | [business@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=business@mstdn.foxfam.club) | 2,635 |
-| 18 | [archlinux@pokemon.men](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=archlinux@pokemon.men) | 2,268 |
-| 19 | [newpom@pomdon.work](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=newpom@pomdon.work) | 2,190 |
-| 20 | [cnbeta@pokemon.men](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cnbeta@pokemon.men) | 2,111 |
-| 21 | [NYPost@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NYPost@mstdn.foxfam.club) | 2,071 |
-| 22 | [thetribunechd@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thetribunechd@newsbots.eu) | 2,049 |
-| 23 | [nowthisnews@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=nowthisnews@newsbots.eu) | 2,040 |
-| 24 | [hknewsbot@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hknewsbot@pawoo.net) | 2,011 |
+| 15 | [itnewsbot@schleuss.online](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=itnewsbot@schleuss.online) | 2,812 |
+| 16 | [IndianExpress@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=IndianExpress@newsbots.eu) | 2,729 |
+| 17 | [business@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=business@mstdn.foxfam.club) | 2,707 |
+| 18 | [archlinux@pokemon.men](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=archlinux@pokemon.men) | 2,320 |
+| 19 | [newpom@pomdon.work](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=newpom@pomdon.work) | 2,232 |
+| 20 | [NYPost@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NYPost@mstdn.foxfam.club) | 2,151 |
+| 21 | [cnbeta@pokemon.men](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cnbeta@pokemon.men) | 2,136 |
+| 22 | [thetribunechd@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thetribunechd@newsbots.eu) | 2,099 |
+| 23 | [nowthisnews@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=nowthisnews@newsbots.eu) | 2,068 |
+| 24 | [hknewsbot@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hknewsbot@pawoo.net) | 2,037 |
 | 25 | [algor@my.dirtyhobby.xyz](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=algor@my.dirtyhobby.xyz) | 2,006 |
-| 26 | [rixty_dixet@squeet.me](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=rixty_dixet@squeet.me) | 1,928 |
-| 27 | [Sputnikint@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Sputnikint@mstdn.foxfam.club) | 1,890 |
-| 28 | [actualidadrt@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=actualidadrt@mstdn.foxfam.club) | 1,852 |
-| 29 | [tr@mhc.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=tr@mhc.social) | 1,752 |
-| 30 | [spon@friendica.produnis.de](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=spon@friendica.produnis.de) | 1,737 |
-| 31 | [hntooter@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hntooter@mastodon.social) | 1,711 |
-| 32 | [elpuntavui@mastodont.cat](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=elpuntavui@mastodont.cat) | 1,692 |
-| 33 | [hackernews@die-partei.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hackernews@die-partei.social) | 1,685 |
-| 34 | [htTweets@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=htTweets@mstdn.foxfam.club) | 1,673 |
-| 35 | [cnbc@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cnbc@mstdn.foxfam.club) | 1,662 |
-| 36 | [MangaPostJapan@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=MangaPostJapan@pawoo.net) | 1,623 |
-| 37 | [patrikaidotcom@masthead.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=patrikaidotcom@masthead.social) | 1,590 |
-| 38 | [trainkanto@mastodon.chotto.moe](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=trainkanto@mastodon.chotto.moe) | 1,546 |
-| 39 | [killemall@mastodon.crazynewworld.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=killemall@mastodon.crazynewworld.net) | 1,541 |
-| 40 | [BBCNews@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=BBCNews@newsbots.eu) | 1,509 |
-| 41 | [svtnyheter@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=svtnyheter@newsbots.eu) | 1,482 |
-| 42 | [dailynews@mastodon.in.th](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=dailynews@mastodon.in.th) | 1,468 |
-| 43 | [johndolph@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=johndolph@brighteon.social) | 1,448 |
-| 44 | [covid_stats@mastodon.cloud](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=covid_stats@mastodon.cloud) | 1,378 |
-| 45 | [gitcomteam@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=gitcomteam@mastodon.social) | 1,370 |
-| 46 | [chouti@9kb.me](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=chouti@9kb.me) | 1,367 |
-| 47 | [VTVCANAL8@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=VTVCANAL8@mastodon.social) | 1,363 |
-| 48 | [ndtv@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ndtv@mstdn.foxfam.club) | 1,359 |
-| 49 | [DailyMail@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=DailyMail@mstdn.foxfam.club) | 1,338 |
-| 50 | [HispaBot_Noticias@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=HispaBot_Noticias@botsin.space) | 1,338 |
-| 51 | [corona_news@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=corona_news@botsin.space) | 1,334 |
-| 52 | [flutter@pokemon.men](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=flutter@pokemon.men) | 1,327 |
-| 53 | [apnews_bot@mastodon.cloud](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=apnews_bot@mastodon.cloud) | 1,303 |
-| 54 | [RichardCharles@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=RichardCharles@brighteon.social) | 1,301 |
-| 55 | [el_ciudadano@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=el_ciudadano@friendica.chilemasto.casa) | 1,283 |
-| 56 | [lemonde@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=lemonde@newsbots.eu) | 1,282 |
-| 57 | [RT@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=RT@mstdn.foxfam.club) | 1,263 |
-| 58 | [indianexpress@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=indianexpress@mstdn.foxfam.club) | 1,259 |
-| 59 | [the_hindu@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=the_hindu@mstdn.foxfam.club) | 1,255 |
-| 60 | [Wn00Japan@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Wn00Japan@pawoo.net) | 1,232 |
-| 61 | [2AWisdom@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=2AWisdom@mstdn.foxfam.club) | 1,224 |
-| 62 | [scmpNews@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=scmpNews@mstdn.foxfam.club) | 1,224 |
-| 63 | [hn50@social.lansky.name](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hn50@social.lansky.name) | 1,190 |
-| 64 | [Ani@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Ani@mstdn.foxfam.club) | 1,176 |
-| 65 | [natalie@chaosphere.hostdon.jp](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=natalie@chaosphere.hostdon.jp) | 1,176 |
-| 66 | [dcexaminer@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=dcexaminer@mstdn.foxfam.club) | 1,163 |
-| 67 | [nippleplay@sinblr.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=nippleplay@sinblr.com) | 1,141 |
-| 68 | [Foone@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Foone@mstdn.foxfam.club) | 1,121 |
-| 69 | [georgegalloway@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=georgegalloway@mstdn.foxfam.club) | 1,097 |
-| 70 | [Solmemes1@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Solmemes1@mstdn.foxfam.club) | 1,090 |
-| 71 | [reddit@societal.co](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=reddit@societal.co) | 1,085 |
-| 72 | [cigger2@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cigger2@pawoo.net) | 1,075 |
-| 73 | [techweb@pokemon.men](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=techweb@pokemon.men) | 1,065 |
-| 74 | [arzachel@mastodon.derveni.org](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=arzachel@mastodon.derveni.org) | 1,054 |
-| 75 | [zeit@mhc.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=zeit@mhc.social) | 1,053 |
-| 76 | [WSJ@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=WSJ@mstdn.foxfam.club) | 1,028 |
-| 77 | [NHK_NEWS@mastodon.chotto.moe](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NHK_NEWS@mastodon.chotto.moe) | 1,028 |
-| 78 | [deutschlandfunk@squeet.me](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=deutschlandfunk@squeet.me) | 1,021 |
-| 79 | [welt@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=welt@mstdn.foxfam.club) | 1,000 |
-| 80 | [kicker@friendica.produnis.de](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=kicker@friendica.produnis.de) | 989 |
-| 81 | [RT@mastodon.internot.no](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=RT@mastodon.internot.no) | 988 |
-| 82 | [ZeroHedge@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ZeroHedge@mstdn.foxfam.club) | 984 |
-| 83 | [washtimes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=washtimes@mstdn.foxfam.club) | 977 |
-| 84 | [ReutersBiz@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ReutersBiz@mstdn.foxfam.club) | 971 |
-| 85 | [pegobry@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=pegobry@mstdn.foxfam.club) | 965 |
-| 86 | [rbnett@mastodon.internot.no](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=rbnett@mastodon.internot.no) | 965 |
-| 87 | [MarketWatch@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=MarketWatch@mstdn.foxfam.club) | 946 |
-| 88 | [plprensalatina@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=plprensalatina@friendica.chilemasto.casa) | 944 |
-| 89 | [ShitpostBot5000@twitter.1d4.us](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ShitpostBot5000@twitter.1d4.us) | 943 |
-| 90 | [sentinel@rebel.iero.org](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=sentinel@rebel.iero.org) | 942 |
-| 91 | [uchileradio@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=uchileradio@friendica.chilemasto.casa) | 941 |
-| 92 | [bsindia@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=bsindia@mstdn.foxfam.club) | 937 |
-| 93 | [nos@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=nos@newsbots.eu) | 934 |
-| 94 | [cernovich@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cernovich@mstdn.foxfam.club) | 922 |
-| 95 | [nippon1@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=nippon1@pawoo.net) | 922 |
-| 96 | [zurlini@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=zurlini@pawoo.net) | 921 |
-| 97 | [army@propulse.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=army@propulse.club) | 917 |
-| 98 | [JackPosobiec_bot@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=JackPosobiec_bot@mstdn.foxfam.club) | 913 |
-| 99 | [misaka86@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=misaka86@pawoo.net) | 904 |
-| 100 | [FriedrichHayek@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=FriedrichHayek@mstdn.foxfam.club) | 899 |
+| 26 | [Sputnikint@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Sputnikint@mstdn.foxfam.club) | 1,987 |
+| 27 | [rixty_dixet@squeet.me](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=rixty_dixet@squeet.me) | 1,929 |
+| 28 | [actualidadrt@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=actualidadrt@mstdn.foxfam.club) | 1,918 |
+| 29 | [spon@friendica.produnis.de](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=spon@friendica.produnis.de) | 1,772 |
+| 30 | [tr@mhc.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=tr@mhc.social) | 1,767 |
+| 31 | [hntooter@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hntooter@mastodon.social) | 1,754 |
+| 32 | [htTweets@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=htTweets@mstdn.foxfam.club) | 1,754 |
+| 33 | [hackernews@die-partei.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hackernews@die-partei.social) | 1,724 |
+| 34 | [elpuntavui@mastodont.cat](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=elpuntavui@mastodont.cat) | 1,722 |
+| 35 | [cnbc@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cnbc@mstdn.foxfam.club) | 1,709 |
+| 36 | [MangaPostJapan@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=MangaPostJapan@pawoo.net) | 1,644 |
+| 37 | [patrikaidotcom@masthead.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=patrikaidotcom@masthead.social) | 1,610 |
+| 38 | [trainkanto@mastodon.chotto.moe](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=trainkanto@mastodon.chotto.moe) | 1,571 |
+| 39 | [BBCNews@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=BBCNews@newsbots.eu) | 1,552 |
+| 40 | [killemall@mastodon.crazynewworld.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=killemall@mastodon.crazynewworld.net) | 1,541 |
+| 41 | [svtnyheter@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=svtnyheter@newsbots.eu) | 1,516 |
+| 42 | [dailynews@mastodon.in.th](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=dailynews@mastodon.in.th) | 1,485 |
+| 43 | [covid_stats@mastodon.cloud](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=covid_stats@mastodon.cloud) | 1,483 |
+| 44 | [johndolph@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=johndolph@brighteon.social) | 1,455 |
+| 45 | [ndtv@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ndtv@mstdn.foxfam.club) | 1,434 |
+| 46 | [VTVCANAL8@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=VTVCANAL8@mastodon.social) | 1,416 |
+| 47 | [gitcomteam@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=gitcomteam@mastodon.social) | 1,404 |
+| 48 | [chouti@9kb.me](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=chouti@9kb.me) | 1,388 |
+| 49 | [DailyMail@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=DailyMail@mstdn.foxfam.club) | 1,387 |
+| 50 | [corona_news@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=corona_news@botsin.space) | 1,358 |
+| 51 | [flutter@pokemon.men](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=flutter@pokemon.men) | 1,352 |
+| 52 | [RichardCharles@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=RichardCharles@brighteon.social) | 1,351 |
+| 53 | [apnews_bot@mastodon.cloud](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=apnews_bot@mastodon.cloud) | 1,342 |
+| 54 | [HispaBot_Noticias@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=HispaBot_Noticias@botsin.space) | 1,338 |
+| 55 | [indianexpress@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=indianexpress@mstdn.foxfam.club) | 1,323 |
+| 56 | [RT@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=RT@mstdn.foxfam.club) | 1,318 |
+| 57 | [el_ciudadano@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=el_ciudadano@friendica.chilemasto.casa) | 1,310 |
+| 58 | [lemonde@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=lemonde@newsbots.eu) | 1,307 |
+| 59 | [the_hindu@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=the_hindu@mstdn.foxfam.club) | 1,287 |
+| 60 | [2AWisdom@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=2AWisdom@mstdn.foxfam.club) | 1,283 |
+| 61 | [Wn00Japan@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Wn00Japan@pawoo.net) | 1,271 |
+| 62 | [scmpNews@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=scmpNews@mstdn.foxfam.club) | 1,247 |
+| 63 | [hn50@social.lansky.name](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hn50@social.lansky.name) | 1,226 |
+| 64 | [Ani@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Ani@mstdn.foxfam.club) | 1,222 |
+| 65 | [dcexaminer@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=dcexaminer@mstdn.foxfam.club) | 1,217 |
+| 66 | [nippleplay@sinblr.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=nippleplay@sinblr.com) | 1,193 |
+| 67 | [natalie@chaosphere.hostdon.jp](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=natalie@chaosphere.hostdon.jp) | 1,192 |
+| 68 | [georgegalloway@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=georgegalloway@mstdn.foxfam.club) | 1,184 |
+| 69 | [Foone@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Foone@mstdn.foxfam.club) | 1,151 |
+| 70 | [Solmemes1@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Solmemes1@mstdn.foxfam.club) | 1,134 |
+| 71 | [cigger2@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cigger2@pawoo.net) | 1,129 |
+| 72 | [reddit@societal.co](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=reddit@societal.co) | 1,116 |
+| 73 | [WSJ@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=WSJ@mstdn.foxfam.club) | 1,076 |
+| 74 | [arzachel@mastodon.derveni.org](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=arzachel@mastodon.derveni.org) | 1,071 |
+| 75 | [zeit@mhc.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=zeit@mhc.social) | 1,067 |
+| 76 | [techweb@pokemon.men](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=techweb@pokemon.men) | 1,065 |
+| 77 | [NHK_NEWS@mastodon.chotto.moe](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NHK_NEWS@mastodon.chotto.moe) | 1,041 |
+| 78 | [deutschlandfunk@squeet.me](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=deutschlandfunk@squeet.me) | 1,040 |
+| 79 | [welt@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=welt@mstdn.foxfam.club) | 1,038 |
+| 80 | [pegobry@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=pegobry@mstdn.foxfam.club) | 1,037 |
+| 81 | [ZeroHedge@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ZeroHedge@mstdn.foxfam.club) | 1,017 |
+| 82 | [RT@mastodon.internot.no](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=RT@mastodon.internot.no) | 1,012 |
+| 83 | [kicker@friendica.produnis.de](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=kicker@friendica.produnis.de) | 1,010 |
+| 84 | [washtimes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=washtimes@mstdn.foxfam.club) | 1,005 |
+| 85 | [rbnett@mastodon.internot.no](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=rbnett@mastodon.internot.no) | 987 |
+| 86 | [ReutersBiz@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ReutersBiz@mstdn.foxfam.club) | 985 |
+| 87 | [bsindia@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=bsindia@mstdn.foxfam.club) | 985 |
+| 88 | [cernovich@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cernovich@mstdn.foxfam.club) | 980 |
+| 89 | [ShitpostBot5000@twitter.1d4.us](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ShitpostBot5000@twitter.1d4.us) | 966 |
+| 90 | [MarketWatch@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=MarketWatch@mstdn.foxfam.club) | 960 |
+| 91 | [FriedrichHayek@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=FriedrichHayek@mstdn.foxfam.club) | 959 |
+| 92 | [plprensalatina@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=plprensalatina@friendica.chilemasto.casa) | 953 |
+| 93 | [uchileradio@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=uchileradio@friendica.chilemasto.casa) | 953 |
+| 94 | [nos@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=nos@newsbots.eu) | 948 |
+| 95 | [sentinel@rebel.iero.org](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=sentinel@rebel.iero.org) | 948 |
+| 96 | [nippon1@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=nippon1@pawoo.net) | 941 |
+| 97 | [zurlini@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=zurlini@pawoo.net) | 940 |
+| 98 | [JackPosobiec_bot@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=JackPosobiec_bot@mstdn.foxfam.club) | 933 |
+| 99 | [laofeiwu@opensocial.at](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=laofeiwu@opensocial.at) | 932 |
+| 100 | [epochtimes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=epochtimes@mstdn.foxfam.club) | 928 |
 
 
 [//]: # (do not edit this line end)
@@ -152,106 +152,106 @@
 
 | # | Who | Toots |
 | --- | --- | --- |
-| 1 | [amb_noticias@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=amb_noticias@botsin.space) | 5,415 |
-| 2 | [tomohiro_amami@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=tomohiro_amami@pawoo.net) | 1,999 |
-| 3 | [elpuntavui@mastodont.cat](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=elpuntavui@mastodont.cat) | 1,639 |
-| 4 | [prensa_maldita@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=prensa_maldita@friendica.chilemasto.casa) | 1,413 |
-| 5 | [covid_stats@mastodon.cloud](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=covid_stats@mastodon.cloud) | 1,378 |
-| 6 | [RichardCharles@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=RichardCharles@brighteon.social) | 1,286 |
-| 7 | [hn50@social.lansky.name](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hn50@social.lansky.name) | 1,190 |
-| 8 | [scmpNews@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=scmpNews@mstdn.foxfam.club) | 1,002 |
-| 9 | [itnewsbot@schleuss.online](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=itnewsbot@schleuss.online) | 998 |
-| 10 | [hknewsbot@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hknewsbot@pawoo.net) | 967 |
-| 11 | [misaka86@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=misaka86@pawoo.net) | 904 |
-| 12 | [johndolph@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=johndolph@brighteon.social) | 896 |
-| 13 | [thecliniccl@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thecliniccl@friendica.chilemasto.casa) | 881 |
-| 14 | [cofebot@kartoffel.cafe](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cofebot@kartoffel.cafe) | 855 |
-| 15 | [kicker@friendica.produnis.de](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=kicker@friendica.produnis.de) | 827 |
-| 16 | [epochtimes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=epochtimes@mstdn.foxfam.club) | 786 |
-| 17 | [hn100@social.lansky.name](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hn100@social.lansky.name) | 779 |
-| 18 | [dfghjk@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=dfghjk@pawoo.net) | 727 |
-| 19 | [Forbes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Forbes@mstdn.foxfam.club) | 689 |
-| 20 | [el_ciudadano@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=el_ciudadano@friendica.chilemasto.casa) | 685 |
-| 21 | [teruteru128@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=teruteru128@pawoo.net) | 673 |
-| 22 | [army@propulse.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=army@propulse.club) | 652 |
-| 23 | [hn100@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hn100@botsin.space) | 646 |
-| 24 | [elmostrador@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=elmostrador@friendica.chilemasto.casa) | 629 |
-| 25 | [FinancialTimes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=FinancialTimes@mstdn.foxfam.club) | 621 |
-| 26 | [washtimes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=washtimes@mstdn.foxfam.club) | 613 |
+| 1 | [amb_noticias@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=amb_noticias@botsin.space) | 5,536 |
+| 2 | [tomohiro_amami@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=tomohiro_amami@pawoo.net) | 2,051 |
+| 3 | [elpuntavui@mastodont.cat](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=elpuntavui@mastodont.cat) | 1,664 |
+| 4 | [covid_stats@mastodon.cloud](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=covid_stats@mastodon.cloud) | 1,483 |
+| 5 | [prensa_maldita@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=prensa_maldita@friendica.chilemasto.casa) | 1,452 |
+| 6 | [RichardCharles@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=RichardCharles@brighteon.social) | 1,333 |
+| 7 | [hn50@social.lansky.name](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hn50@social.lansky.name) | 1,226 |
+| 8 | [scmpNews@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=scmpNews@mstdn.foxfam.club) | 1,023 |
+| 9 | [itnewsbot@schleuss.online](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=itnewsbot@schleuss.online) | 1,001 |
+| 10 | [hknewsbot@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hknewsbot@pawoo.net) | 986 |
+| 11 | [misaka86@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=misaka86@pawoo.net) | 927 |
+| 12 | [thecliniccl@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thecliniccl@friendica.chilemasto.casa) | 925 |
+| 13 | [johndolph@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=johndolph@brighteon.social) | 900 |
+| 14 | [cofebot@kartoffel.cafe](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cofebot@kartoffel.cafe) | 879 |
+| 15 | [kicker@friendica.produnis.de](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=kicker@friendica.produnis.de) | 845 |
+| 16 | [epochtimes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=epochtimes@mstdn.foxfam.club) | 813 |
+| 17 | [hn100@social.lansky.name](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hn100@social.lansky.name) | 803 |
+| 18 | [dfghjk@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=dfghjk@pawoo.net) | 739 |
+| 19 | [teruteru128@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=teruteru128@pawoo.net) | 716 |
+| 20 | [Forbes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Forbes@mstdn.foxfam.club) | 709 |
+| 21 | [el_ciudadano@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=el_ciudadano@friendica.chilemasto.casa) | 689 |
+| 22 | [army@propulse.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=army@propulse.club) | 660 |
+| 23 | [hn100@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hn100@botsin.space) | 654 |
+| 24 | [FinancialTimes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=FinancialTimes@mstdn.foxfam.club) | 639 |
+| 25 | [elmostrador@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=elmostrador@friendica.chilemasto.casa) | 637 |
+| 26 | [washtimes@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=washtimes@mstdn.foxfam.club) | 632 |
 | 27 | [meduzaproject@phreedom.tk](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=meduzaproject@phreedom.tk) | 595 |
-| 28 | [axios@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=axios@mstdn.foxfam.club) | 529 |
-| 29 | [hackernews@die-partei.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hackernews@die-partei.social) | 527 |
-| 30 | [thaitechfeed@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thaitechfeed@botsin.space) | 495 |
-| 31 | [hntooter@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hntooter@mastodon.social) | 479 |
-| 32 | [politico@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=politico@mstdn.foxfam.club) | 478 |
-| 33 | [alternet@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=alternet@newsbots.eu) | 478 |
-| 34 | [SweetPony@equestria.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=SweetPony@equestria.social) | 472 |
-| 35 | [DailyCaller@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=DailyCaller@mstdn.foxfam.club) | 468 |
-| 36 | [PonyPics@equestria.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=PonyPics@equestria.social) | 464 |
-| 37 | [GradientBot@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=GradientBot@botsin.space) | 453 |
-| 38 | [Stripey@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Stripey@botsin.space) | 446 |
+| 28 | [axios@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=axios@mstdn.foxfam.club) | 543 |
+| 29 | [hackernews@die-partei.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hackernews@die-partei.social) | 535 |
+| 30 | [thaitechfeed@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thaitechfeed@botsin.space) | 500 |
+| 31 | [hntooter@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hntooter@mastodon.social) | 490 |
+| 32 | [alternet@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=alternet@newsbots.eu) | 489 |
+| 33 | [politico@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=politico@mstdn.foxfam.club) | 486 |
+| 34 | [SweetPony@equestria.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=SweetPony@equestria.social) | 484 |
+| 35 | [DailyCaller@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=DailyCaller@mstdn.foxfam.club) | 481 |
+| 36 | [PonyPics@equestria.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=PonyPics@equestria.social) | 477 |
+| 37 | [GradientBot@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=GradientBot@botsin.space) | 465 |
+| 38 | [Stripey@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Stripey@botsin.space) | 458 |
 | 39 | [mediazona@phreedom.tk](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=mediazona@phreedom.tk) | 442 |
-| 40 | [NaturalNews@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NaturalNews@brighteon.social) | 423 |
+| 40 | [NaturalNews@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NaturalNews@brighteon.social) | 432 |
 | 41 | [elpuntavui@libranet.de](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=elpuntavui@libranet.de) | 410 |
-| 42 | [Sanfermin@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Sanfermin@mastodon.social) | 402 |
-| 43 | [arzachel@mastodon.derveni.org](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=arzachel@mastodon.derveni.org) | 400 |
-| 44 | [androidpolice@mstdn.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=androidpolice@mstdn.social) | 398 |
-| 45 | [news_ntd@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=news_ntd@mstdn.foxfam.club) | 375 |
-| 46 | [Kachelmannwettr@fulda.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Kachelmannwettr@fulda.social) | 374 |
-| 47 | [ithome@hello.2heng.xin](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ithome@hello.2heng.xin) | 371 |
-| 48 | [HunDriverWidow@social.quodverum.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=HunDriverWidow@social.quodverum.com) | 369 |
-| 49 | [Mfirebrand1@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Mfirebrand1@brighteon.social) | 367 |
-| 50 | [TPostMillennial@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=TPostMillennial@mstdn.foxfam.club) | 354 |
-| 51 | [VG@mastodon.internot.no](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=VG@mastodon.internot.no) | 348 |
-| 52 | [Wn00Japan@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Wn00Japan@pawoo.net) | 334 |
-| 53 | [hwnewsnetwork@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hwnewsnetwork@mastodon.social) | 324 |
-| 54 | [WayneDupreeShow@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=WayneDupreeShow@mstdn.foxfam.club) | 300 |
-| 55 | [hnbot@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hnbot@botsin.space) | 300 |
-| 56 | [blendernation@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=blendernation@botsin.space) | 292 |
-| 57 | [jouwatch@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=jouwatch@mstdn.foxfam.club) | 290 |
-| 58 | [cbcnews@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cbcnews@mstdn.foxfam.club) | 289 |
-| 59 | [hn250@social.lansky.name](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hn250@social.lansky.name) | 286 |
-| 60 | [gironanoticies@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=gironanoticies@mastodon.social) | 281 |
-| 61 | [resumen@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=resumen@friendica.chilemasto.casa) | 277 |
-| 62 | [tugatech@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=tugatech@mastodon.social) | 266 |
-| 63 | [FT@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=FT@mstdn.foxfam.club) | 265 |
-| 64 | [tilderadio@tilde.zone](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=tilderadio@tilde.zone) | 264 |
-| 65 | [SwarajyaMag@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=SwarajyaMag@mstdn.foxfam.club) | 259 |
-| 66 | [NRO@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NRO@mstdn.foxfam.club) | 256 |
-| 67 | [gatewaypundit@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=gatewaypundit@mstdn.foxfam.club) | 250 |
-| 68 | [appleinsider@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=appleinsider@mstdn.foxfam.club) | 249 |
-| 69 | [rixty_dixet@squeet.me](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=rixty_dixet@squeet.me) | 248 |
-| 70 | [broadbandforum@mstdn.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=broadbandforum@mstdn.social) | 244 |
-| 71 | [luisarias371@libertalia.world](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=luisarias371@libertalia.world) | 233 |
-| 72 | [gre@wxw.moe](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=gre@wxw.moe) | 227 |
-| 73 | [NationCymru@toot.wales](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NationCymru@toot.wales) | 225 |
-| 74 | [esquerdadiario@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=esquerdadiario@newsbots.eu) | 214 |
+| 42 | [arzachel@mastodon.derveni.org](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=arzachel@mastodon.derveni.org) | 405 |
+| 43 | [Sanfermin@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Sanfermin@mastodon.social) | 402 |
+| 44 | [androidpolice@mstdn.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=androidpolice@mstdn.social) | 400 |
+| 45 | [news_ntd@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=news_ntd@mstdn.foxfam.club) | 395 |
+| 46 | [HunDriverWidow@social.quodverum.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=HunDriverWidow@social.quodverum.com) | 392 |
+| 47 | [Mfirebrand1@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Mfirebrand1@brighteon.social) | 381 |
+| 48 | [Kachelmannwettr@fulda.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Kachelmannwettr@fulda.social) | 380 |
+| 49 | [ithome@hello.2heng.xin](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ithome@hello.2heng.xin) | 379 |
+| 50 | [TPostMillennial@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=TPostMillennial@mstdn.foxfam.club) | 367 |
+| 51 | [VG@mastodon.internot.no](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=VG@mastodon.internot.no) | 357 |
+| 52 | [Wn00Japan@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Wn00Japan@pawoo.net) | 336 |
+| 53 | [hwnewsnetwork@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hwnewsnetwork@mastodon.social) | 328 |
+| 54 | [hnbot@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hnbot@botsin.space) | 312 |
+| 55 | [jouwatch@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=jouwatch@mstdn.foxfam.club) | 308 |
+| 56 | [WayneDupreeShow@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=WayneDupreeShow@mstdn.foxfam.club) | 307 |
+| 57 | [cbcnews@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=cbcnews@mstdn.foxfam.club) | 299 |
+| 58 | [blendernation@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=blendernation@botsin.space) | 298 |
+| 59 | [hn250@social.lansky.name](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hn250@social.lansky.name) | 294 |
+| 60 | [resumen@friendica.chilemasto.casa](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=resumen@friendica.chilemasto.casa) | 287 |
+| 61 | [gironanoticies@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=gironanoticies@mastodon.social) | 281 |
+| 62 | [FT@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=FT@mstdn.foxfam.club) | 278 |
+| 63 | [tugatech@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=tugatech@mastodon.social) | 273 |
+| 64 | [tilderadio@tilde.zone](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=tilderadio@tilde.zone) | 269 |
+| 65 | [SwarajyaMag@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=SwarajyaMag@mstdn.foxfam.club) | 263 |
+| 66 | [gatewaypundit@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=gatewaypundit@mstdn.foxfam.club) | 262 |
+| 67 | [NRO@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NRO@mstdn.foxfam.club) | 262 |
+| 68 | [appleinsider@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=appleinsider@mstdn.foxfam.club) | 252 |
+| 69 | [broadbandforum@mstdn.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=broadbandforum@mstdn.social) | 250 |
+| 70 | [rixty_dixet@squeet.me](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=rixty_dixet@squeet.me) | 248 |
+| 71 | [esquerdadiario@newsbots.eu](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=esquerdadiario@newsbots.eu) | 237 |
+| 72 | [luisarias371@libertalia.world](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=luisarias371@libertalia.world) | 233 |
+| 73 | [gre@wxw.moe](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=gre@wxw.moe) | 231 |
+| 74 | [NationCymru@toot.wales](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=NationCymru@toot.wales) | 229 |
 | 75 | [thepigeonexpress@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thepigeonexpress@mastodon.social) | 213 |
-| 76 | [shietka@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=shietka@mastodon.social) | 206 |
-| 77 | [enigmatico@fedi.absturztau.be](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=enigmatico@fedi.absturztau.be) | 205 |
-| 78 | [RenewableAu@aus.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=RenewableAu@aus.social) | 203 |
-| 79 | [mimi@mhc.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=mimi@mhc.social) | 200 |
-| 80 | [ogatarin@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ogatarin@pawoo.net) | 197 |
-| 81 | [Jleimer@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Jleimer@brighteon.social) | 193 |
-| 82 | [itsecbot@schleuss.online](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=itsecbot@schleuss.online) | 193 |
-| 83 | [paul_schmehl@social.quodverum.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=paul_schmehl@social.quodverum.com) | 189 |
-| 84 | [CNN@societal.co](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=CNN@societal.co) | 185 |
-| 85 | [hans@mastodon.crazynewworld.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hans@mastodon.crazynewworld.net) | 179 |
-| 86 | [precuresakura@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=precuresakura@pawoo.net) | 179 |
-| 87 | [FDRLST@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=FDRLST@mstdn.foxfam.club) | 178 |
-| 88 | [EpochTimes@twitiverse.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=EpochTimes@twitiverse.com) | 178 |
-| 89 | [noagendashownoteslinks@noagendasocial.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=noagendashownoteslinks@noagendasocial.com) | 178 |
-| 90 | [IndiasMuslims@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=IndiasMuslims@mastodon.social) | 172 |
-| 91 | [2AWisdom@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=2AWisdom@mstdn.foxfam.club) | 164 |
-| 92 | [thenewoil@freeradical.zone](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thenewoil@freeradical.zone) | 164 |
-| 93 | [artbot@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=artbot@botsin.space) | 160 |
-| 94 | [DailyCaller@twitiverse.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=DailyCaller@twitiverse.com) | 158 |
-| 95 | [ZGoldenReport@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ZGoldenReport@brighteon.social) | 157 |
-| 96 | [Blenderdomain@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Blenderdomain@botsin.space) | 154 |
-| 97 | [barchbot@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=barchbot@botsin.space) | 149 |
-| 98 | [todayilearned@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=todayilearned@botsin.space) | 149 |
-| 99 | [admin@mastodon.bida.im](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=admin@mastodon.bida.im) | 146 |
-| 100 | [CNN_politics_feed@noc.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=CNN_politics_feed@noc.social) | 141 |
+| 76 | [shietka@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=shietka@mastodon.social) | 211 |
+| 77 | [enigmatico@fedi.absturztau.be](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=enigmatico@fedi.absturztau.be) | 207 |
+| 78 | [RenewableAu@aus.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=RenewableAu@aus.social) | 205 |
+| 79 | [ogatarin@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ogatarin@pawoo.net) | 204 |
+| 80 | [mimi@mhc.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=mimi@mhc.social) | 200 |
+| 81 | [Jleimer@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Jleimer@brighteon.social) | 199 |
+| 82 | [EpochTimes@twitiverse.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=EpochTimes@twitiverse.com) | 199 |
+| 83 | [itsecbot@schleuss.online](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=itsecbot@schleuss.online) | 194 |
+| 84 | [paul_schmehl@social.quodverum.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=paul_schmehl@social.quodverum.com) | 193 |
+| 85 | [precuresakura@pawoo.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=precuresakura@pawoo.net) | 192 |
+| 86 | [CNN@societal.co](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=CNN@societal.co) | 189 |
+| 87 | [hans@mastodon.crazynewworld.net](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=hans@mastodon.crazynewworld.net) | 180 |
+| 88 | [noagendashownoteslinks@noagendasocial.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=noagendashownoteslinks@noagendasocial.com) | 180 |
+| 89 | [FDRLST@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=FDRLST@mstdn.foxfam.club) | 178 |
+| 90 | [IndiasMuslims@mastodon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=IndiasMuslims@mastodon.social) | 174 |
+| 91 | [2AWisdom@mstdn.foxfam.club](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=2AWisdom@mstdn.foxfam.club) | 174 |
+| 92 | [DailyCaller@twitiverse.com](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=DailyCaller@twitiverse.com) | 169 |
+| 93 | [thenewoil@freeradical.zone](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=thenewoil@freeradical.zone) | 169 |
+| 94 | [ZGoldenReport@brighteon.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=ZGoldenReport@brighteon.social) | 167 |
+| 95 | [artbot@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=artbot@botsin.space) | 163 |
+| 96 | [Blenderdomain@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=Blenderdomain@botsin.space) | 157 |
+| 97 | [barchbot@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=barchbot@botsin.space) | 152 |
+| 98 | [todayilearned@botsin.space](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=todayilearned@botsin.space) | 151 |
+| 99 | [admin@mastodon.bida.im](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=admin@mastodon.bida.im) | 149 |
+| 100 | [CNN_politics_feed@noc.social](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/?who=CNN_politics_feed@noc.social) | 146 |
 
 
 [//]: # (do not edit this line end)
@@ -267,106 +267,106 @@
 
 | # | FQDN | [Cloudflare](../cloudflare_users/domains) | [Anti-Tor](../anti-tor_users/fqdn) OR CF | Found in toots |
 | --- | --- | --- | --- | --- |
-| 1 | twitter.com |   |   | 141,672 |
-| 2 | joejoe.github.io |   |   | 101,869 |
-| 3 | t.co |   |   | 23,963 |
-| 4 | www.youtube.com |   |   | 13,348 |
-| 5 | bit.ly |   |   | 13,197 |
-| 6 | trib.al |   |   | 12,879 |
-| 7 | news.google.com |   |   | 12,011 |
-| 8 | youtu.be |   |   | 11,912 |
-| 9 | www.smzdm.com |   |   | 10,773 |
-| 10 | nitter.twitiverse.com |   |   | 9,269 |
-| 11 | nitter.net |   | &#128680; | 7,556 |
-| 12 | tinyurl.com | &#127785; | &#128680; | 7,536 |
-| 13 | radio.reclaim.technology |   |   | 6,194 |
-| 14 | www.pixiv.net | &#127785; | &#128680; | 5,816 |
-| 15 | nitter.snopyta.org |   |   | 5,757 |
-| 16 | radio.unitoo.it |   |   | 5,035 |
-| 17 | reut.rs |   |   | 4,379 |
-| 18 | tweets.newsbots.eu |   |   | 4,359 |
-| 19 | nitter.mastodont.cat |   |   | 4,322 |
-| 20 | earthbus.org |   |   | 4,085 |
-| 21 | www.cnbeta.com |   |   | 3,981 |
-| 22 | github.com |   |   | 3,941 |
-| 23 | metro.co.uk |   |   | 3,639 |
-| 24 | transit.yahoo.co.jp |   |   | 3,490 |
-| 25 | ow.ly |   |   | 3,478 |
-| 26 | news.ycombinator.com | &#127785; | &#128680; | 3,472 |
-| 27 | ift.tt |   |   | 3,426 |
-| 28 | incestbest.com |   |   | 3,299 |
-| 29 | indianexpress.com |   |   | 3,272 |
-| 30 | www.reddit.com |   |   | 3,168 |
-| 31 | www.dw.com |   |   | 2,811 |
-| 32 | shindanmaker.com |   |   | 2,759 |
-| 33 | redd.it |   |   | 2,758 |
-| 34 | www3.nhk.or.jp |   |   | 2,586 |
-| 35 | www.heise.de |   |   | 2,461 |
-| 36 | www.tagesschau.de |   |   | 2,444 |
-| 37 | feedproxy.google.com |   |   | 2,335 |
-| 38 | www.amazon.co.jp |   | &#128680; | 2,190 |
-| 39 | www.elpuntavui.cat | &#127785; | &#128680; | 2,075 |
-| 40 | www.bbc.co.uk |   |   | 2,073 |
-| 41 | www.tribuneindia.com |   |   | 2,052 |
-| 42 | www.aljazeera.com |   |   | 2,016 |
-| 43 | dirtyhobby.xyz |   |   | 2,006 |
-| 44 | www.spiegel.de |   |   | 1,996 |
-| 45 | nitter.13ad.de |   |   | 1,977 |
-| 46 | weibo.com |   |   | 1,972 |
-| 47 | v.gd | &#127785; | &#128680; | 1,935 |
-| 48 | sptnkne.ws |   |   | 1,877 |
-| 49 | www.deutschlandfunk.de |   |   | 1,862 |
-| 50 | news.yahoo.co.jp |   |   | 1,795 |
-| 51 | www.techradar.com |   |   | 1,768 |
-| 52 | www.lemonde.fr |   |   | 1,752 |
-| 53 | www.eldiario.es |   |   | 1,733 |
-| 54 | passport.weibo.com |   |   | 1,728 |
-| 55 | www.bbc.com |   |   | 1,689 |
-| 56 | www.theverge.com |   | &#128680; | 1,614 |
-| 57 | www.patrikai.com |   |   | 1,589 |
-| 58 | nitter.pussthecat.org |   |   | 1,575 |
-| 59 | en.wikipedia.org |   |   | 1,560 |
-| 60 | tryst.link |   | &#128680; | 1,531 |
-| 61 | washex.am |   |   | 1,497 |
-| 62 | www.svt.se |   |   | 1,494 |
-| 63 | www.hindustantimes.com |   |   | 1,476 |
-| 64 | www.dailynews.co.th |   |   | 1,468 |
-| 65 | www.theepochtimes.com | &#127785; | &#128680; | 1,446 |
-| 66 | covid.yanoagenda.com | &#127785; | &#128680; | 1,378 |
-| 67 | gitcom.org |   |   | 1,370 |
-| 68 | dig.chouti.com |   |   | 1,364 |
-| 69 | www.thegatewaypundit.com | &#127785; | &#128680; | 1,358 |
-| 70 | on.wsj.com |   |   | 1,354 |
-| 71 | on.rt.com |   |   | 1,351 |
-| 72 | cnb.cx |   |   | 1,337 |
-| 73 | open.spotify.com |   |   | 1,332 |
-| 74 | pub.dev |   |   | 1,327 |
-| 75 | nitter.42l.fr |   |   | 1,325 |
-| 76 | www.archlinux.org |   |   | 1,291 |
-| 77 | natalie.mu |   |   | 1,265 |
-| 78 | www.theguardian.com |   |   | 1,260 |
-| 79 | es.rt.com |   |   | 1,212 |
-| 80 | www.scmp.com | &#127785; | &#128680; | 1,194 |
-| 81 | apne.ws |   |   | 1,170 |
-| 82 | www.zeit.de |   |   | 1,143 |
-| 83 | www.rt.com |   |   | 1,125 |
-| 84 | www.vtv.gob.ve |   |   | 1,093 |
-| 85 | i.imgur.com | &#127785; | &#128680; | 1,077 |
-| 86 | www.golem.de |   |   | 1,039 |
-| 87 | arxiv.org |   |   | 1,027 |
-| 88 | derpibooru.org | &#127785; | &#128680; | 1,021 |
-| 89 | reddit.com |   |   | 1,019 |
-| 90 | www.nytimes.com | &#127785; | &#128680; | 1,009 |
-| 91 | aje.io |   |   | 984 |
-| 92 | t13.cl | &#127785; | &#128680; | 983 |
-| 93 | fediverse.network |   |   | 968 |
-| 94 | www.rbnett.no |   |   | 965 |
-| 95 | nos.nl |   |   | 953 |
-| 96 | nitter.cattube.org |   |   | 944 |
-| 97 | invidious.snopyta.org |   |   | 937 |
-| 98 | www.techweb.com.cn |   |   | 927 |
-| 99 | www.liberation.fr |   |   | 922 |
-| 100 | www.zerohedge.com |   |   | 922 |
+| 1 | twitter.com |   |   | 146,764 |
+| 2 | joejoe.github.io |   |   | 105,899 |
+| 3 | t.co |   |   | 24,578 |
+| 4 | www.youtube.com |   |   | 13,722 |
+| 5 | bit.ly |   |   | 13,591 |
+| 6 | trib.al |   |   | 13,429 |
+| 7 | news.google.com |   |   | 12,342 |
+| 8 | youtu.be |   |   | 12,319 |
+| 9 | www.smzdm.com |   |   | 10,872 |
+| 10 | nitter.twitiverse.com |   |   | 10,352 |
+| 11 | nitter.net |   | &#128680; | 7,764 |
+| 12 | tinyurl.com | &#127785; | &#128680; | 7,714 |
+| 13 | radio.reclaim.technology |   |   | 6,376 |
+| 14 | www.pixiv.net | &#127785; | &#128680; | 6,010 |
+| 15 | nitter.snopyta.org |   |   | 5,861 |
+| 16 | radio.unitoo.it |   |   | 5,161 |
+| 17 | reut.rs |   |   | 4,532 |
+| 18 | nitter.mastodont.cat |   |   | 4,445 |
+| 19 | tweets.newsbots.eu |   |   | 4,434 |
+| 20 | earthbus.org |   |   | 4,191 |
+| 21 | www.cnbeta.com |   |   | 4,027 |
+| 22 | github.com |   |   | 4,022 |
+| 23 | metro.co.uk |   |   | 3,717 |
+| 24 | transit.yahoo.co.jp |   |   | 3,583 |
+| 25 | ow.ly |   |   | 3,575 |
+| 26 | news.ycombinator.com | &#127785; | &#128680; | 3,565 |
+| 27 | ift.tt |   |   | 3,503 |
+| 28 | incestbest.com |   |   | 3,395 |
+| 29 | indianexpress.com |   |   | 3,357 |
+| 30 | www.reddit.com |   |   | 3,248 |
+| 31 | www.dw.com |   |   | 2,865 |
+| 32 | redd.it |   |   | 2,849 |
+| 33 | shindanmaker.com |   |   | 2,825 |
+| 34 | www3.nhk.or.jp |   |   | 2,622 |
+| 35 | www.tagesschau.de |   |   | 2,489 |
+| 36 | www.heise.de |   |   | 2,488 |
+| 37 | feedproxy.google.com |   |   | 2,376 |
+| 38 | www.amazon.co.jp |   | &#128680; | 2,219 |
+| 39 | www.bbc.co.uk |   |   | 2,130 |
+| 40 | www.tribuneindia.com |   |   | 2,102 |
+| 41 | www.elpuntavui.cat | &#127785; | &#128680; | 2,100 |
+| 42 | www.spiegel.de |   |   | 2,043 |
+| 43 | weibo.com |   |   | 2,042 |
+| 44 | nitter.13ad.de |   |   | 2,032 |
+| 45 | www.aljazeera.com |   |   | 2,024 |
+| 46 | dirtyhobby.xyz |   |   | 2,006 |
+| 47 | v.gd | &#127785; | &#128680; | 1,987 |
+| 48 | sptnkne.ws |   |   | 1,974 |
+| 49 | www.deutschlandfunk.de |   |   | 1,942 |
+| 50 | news.yahoo.co.jp |   |   | 1,820 |
+| 51 | passport.weibo.com |   |   | 1,803 |
+| 52 | www.lemonde.fr |   |   | 1,787 |
+| 53 | www.techradar.com |   |   | 1,784 |
+| 54 | www.eldiario.es |   |   | 1,740 |
+| 55 | www.bbc.com |   |   | 1,715 |
+| 56 | www.theverge.com |   | &#128680; | 1,641 |
+| 57 | en.wikipedia.org |   |   | 1,610 |
+| 58 | www.patrikai.com |   |   | 1,609 |
+| 59 | nitter.pussthecat.org |   |   | 1,607 |
+| 60 | washex.am |   |   | 1,595 |
+| 61 | tryst.link |   | &#128680; | 1,578 |
+| 62 | www.hindustantimes.com |   |   | 1,550 |
+| 63 | www.svt.se |   |   | 1,528 |
+| 64 | www.theepochtimes.com | &#127785; | &#128680; | 1,513 |
+| 65 | www.dailynews.co.th |   |   | 1,485 |
+| 66 | covid.yanoagenda.com | &#127785; | &#128680; | 1,483 |
+| 67 | on.wsj.com |   |   | 1,433 |
+| 68 | on.rt.com |   |   | 1,420 |
+| 69 | www.thegatewaypundit.com | &#127785; | &#128680; | 1,416 |
+| 70 | gitcom.org |   |   | 1,404 |
+| 71 | nitter.42l.fr |   |   | 1,385 |
+| 72 | dig.chouti.com |   |   | 1,385 |
+| 73 | cnb.cx |   |   | 1,377 |
+| 74 | open.spotify.com |   |   | 1,374 |
+| 75 | pub.dev |   |   | 1,352 |
+| 76 | www.theguardian.com |   |   | 1,310 |
+| 77 | www.archlinux.org |   |   | 1,291 |
+| 78 | natalie.mu |   |   | 1,284 |
+| 79 | es.rt.com |   |   | 1,250 |
+| 80 | www.scmp.com | &#127785; | &#128680; | 1,218 |
+| 81 | apne.ws |   |   | 1,212 |
+| 82 | www.zeit.de |   |   | 1,160 |
+| 83 | www.rt.com |   |   | 1,151 |
+| 84 | www.vtv.gob.ve |   |   | 1,136 |
+| 85 | i.imgur.com | &#127785; | &#128680; | 1,103 |
+| 86 | www.golem.de |   |   | 1,049 |
+| 87 | www.nytimes.com | &#127785; | &#128680; | 1,047 |
+| 88 | derpibooru.org | &#127785; | &#128680; | 1,047 |
+| 89 | arxiv.org |   |   | 1,032 |
+| 90 | reddit.com |   |   | 1,024 |
+| 91 | t13.cl | &#127785; | &#128680; | 1,019 |
+| 92 | aje.io |   |   | 1,019 |
+| 93 | nyti.ms |   |   | 1,002 |
+| 94 | www.rbnett.no |   |   | 987 |
+| 95 | invidious.snopyta.org |   |   | 978 |
+| 96 | hill.cm |   |   | 970 |
+| 97 | fediverse.network |   |   | 968 |
+| 98 | nos.nl |   |   | 967 |
+| 99 | www.zerohedge.com |   |   | 961 |
+| 100 | nitter.cattube.org |   |   | 957 |
 
 
 [//]: # (do not edit this line end)
@@ -379,11 +379,11 @@
 
 | About | Users |
 | --- | --- |
-| Users who shared link | 18,744 |
-| &#11169;  who shared ONLY Cloudflare link | 1,925 (10.27%) |
-| &#11169;  who NEVER shared Cloudflare link | 11,367 (60.64%) |
-| &#11169;  who shared BOTH links | 5,452 (29.09%) |
-| &#127785;  **Mastodon Users who shared Cloudflare link** | **7,377 (39.36%)** |
+| Users who shared link | 19,021 |
+| &#11169;  who shared ONLY Cloudflare link | 1,950 (10.25%) |
+| &#11169;  who NEVER shared Cloudflare link | 11,520 (60.56%) |
+| &#11169;  who shared BOTH links | 5,551 (29.18%) |
+| &#127785;  **Mastodon Users who shared Cloudflare link** | **7,501 (39.44%)** |
 
 
 [//]: # (do not edit this line end)
@@ -399,106 +399,106 @@
 
 | # | Server | [Cloudflare](../cloudflare_users/domains) | All Toots | CF Toots | CF % |
 | --- | --- | --- | --- | --- | --- |
-| 1 | mstdn.foxfam.club |   | 102,394 | 13,024 | 12.72 |
-| 2 | pawoo.net |   | 38,461 | 9,139 | 23.76 |
-| 3 | botsin.space |   | 34,012 | 9,408 | 27.66 |
-| 4 | mastodon.social | &#127785; | 32,081 | 5,615 | 17.5 |
-| 5 | newsbots.eu |   | 30,274 | 1,609 | 5.31 |
-| 6 | societal.co | &#127785; | 19,122 | 519 | 2.71 |
-| 7 | twitiverse.com |   | 18,182 | 2,195 | 12.07 |
-| 8 | friendica.chilemasto.casa |   | 17,399 | 4,103 | 23.58 |
-| 9 | dajiaweibo.com |   | 13,657 | 13 | 0.1 |
-| 10 | mamot.fr |   | 11,260 | 1,297 | 11.52 |
-| 11 | squeet.me |   | 8,671 | 325 | 3.75 |
-| 12 | pokemon.men | &#127785; | 7,531 | 0 | 0 |
-| 13 | mastodon.cloud | &#127785; | 7,148 | 1,455 | 20.36 |
-| 14 | brighteon.social |   | 6,464 | 4,287 | 66.32 |
-| 15 | social.quodverum.com |   | 6,400 | 1,613 | 25.2 |
-| 16 | toot-lab.reclaim.technology |   | 6,215 | 2 | 0.03 |
-| 17 | framapiaf.org |   | 5,486 | 465 | 8.48 |
-| 18 | my.dirtyhobby.xyz |   | 5,306 | 0 | 0 |
-| 19 | mastodont.cat |   | 5,040 | 2,060 | 40.87 |
-| 20 | noagendasocial.com | &#127785; | 4,962 | 1,487 | 29.97 |
-| 21 | mastodon.chotto.moe |   | 4,924 | 0 | 0 |
-| 22 | mhc.social |   | 4,596 | 254 | 5.53 |
-| 23 | schleuss.online |   | 4,371 | 1,191 | 27.25 |
-| 24 | mstdn.jp | &#127785; | 4,296 | 348 | 8.1 |
-| 25 | mstdn.social |   | 4,215 | 1,036 | 24.58 |
-| 26 | friendica.produnis.de |   | 3,671 | 1,056 | 28.77 |
-| 27 | mstdn.maud.io | &#127785; | 3,097 | 317 | 10.24 |
-| 28 | phreedom.tk |   | 3,036 | 1,153 | 37.98 |
-| 29 | loma.ml |   | 2,952 | 8 | 0.27 |
-| 30 | switter.at |   | 2,810 | 391 | 13.91 |
-| 31 | mastodon.crazynewworld.net | &#127785; | 2,741 | 277 | 10.11 |
-| 32 | die-partei.social |   | 2,728 | 529 | 19.39 |
-| 33 | sinblr.com | &#127785; | 2,681 | 173 | 6.45 |
-| 34 | chaosphere.hostdon.jp |   | 2,622 | 133 | 5.07 |
-| 35 | chaos.social |   | 2,495 | 276 | 11.06 |
-| 36 | mastodon.bida.im |   | 2,491 | 364 | 14.61 |
-| 37 | mastodon.internot.no |   | 2,382 | 422 | 17.72 |
-| 38 | social.lansky.name |   | 2,324 | 2,324 | 100 |
-| 39 | pomdon.work |   | 2,193 | 47 | 2.14 |
-| 40 | mastodon.online |   | 2,119 | 217 | 10.24 |
-| 41 | fedibird.com | &#127785; | 2,071 | 147 | 7.1 |
-| 42 | social.tchncs.de |   | 2,024 | 285 | 14.08 |
-| 43 | libranet.de |   | 1,954 | 590 | 30.19 |
-| 44 | masthead.social | &#127785; | 1,921 | 82 | 4.27 |
-| 45 | opensocial.at |   | 1,913 | 28 | 1.46 |
-| 46 | mastodon.in.th |   | 1,810 | 154 | 8.51 |
-| 47 | best-friends.chat |   | 1,626 | 220 | 13.53 |
-| 48 | social.beachcom.org |   | 1,584 | 257 | 16.22 |
-| 49 | equestria.social |   | 1,516 | 1,060 | 69.92 |
-| 50 | qoto.org |   | 1,516 | 121 | 7.98 |
-| 51 | mstdn.guru |   | 1,473 | 103 | 6.99 |
-| 52 | todon.nl |   | 1,406 | 244 | 17.35 |
-| 53 | 9kb.me |   | 1,379 | 5 | 0.36 |
-| 54 | mastodon.xyz |   | 1,271 | 120 | 9.44 |
-| 55 | imastodon.net |   | 1,192 | 38 | 3.19 |
-| 56 | social.yl.ms |   | 1,178 | 2 | 0.17 |
-| 57 | mastodon.sk |   | 1,178 | 0 | 0 |
-| 58 | misskey.io | &#127785; | 1,165 | 130 | 11.16 |
-| 59 | fosstodon.org |   | 1,158 | 234 | 20.21 |
-| 60 | twitter.1d4.us | &#127785; | 1,128 | 152 | 13.48 |
-| 61 | sociale.network |   | 1,109 | 82 | 7.39 |
-| 62 | mas.to |   | 1,060 | 149 | 14.06 |
-| 63 | mastodon.derveni.org |   | 1,054 | 400 | 37.95 |
-| 64 | mstdn.kemono-friends.info | &#127785; | 1,054 | 63 | 5.98 |
-| 65 | shitposter.club | &#127785; | 1,028 | 272 | 26.46 |
-| 66 | octodon.social | &#127785; | 1,022 | 245 | 23.97 |
-| 67 | hello.2heng.xin | &#127785; | 988 | 436 | 44.13 |
-| 68 | propulse.club |   | 984 | 660 | 67.07 |
-| 69 | blob.cat |   | 973 | 124 | 12.74 |
-| 70 | fediverse.network |   | 964 | 0 | 0 |
-| 71 | aus.social |   | 963 | 221 | 22.95 |
-| 72 | mstdn.io | &#127785; | 960 | 122 | 12.71 |
-| 73 | rebel.iero.org |   | 942 | 137 | 14.54 |
-| 74 | soc.cattube.org |   | 936 | 67 | 7.16 |
-| 75 | qiitadon.com |   | 936 | 61 | 6.52 |
-| 76 | social.pmj.rocks |   | 897 | 0 | 0 |
-| 77 | mstdn.beer |   | 896 | 34 | 3.79 |
-| 78 | kartoffel.cafe |   | 866 | 856 | 98.85 |
-| 79 | social.politicaconciencia.org |   | 843 | 100 | 11.86 |
-| 80 | liberdon.com |   | 819 | 189 | 23.08 |
-| 81 | bitcoinhackers.org | &#127785; | 798 | 124 | 15.54 |
-| 82 | mastodon.smwa.me |   | 770 | 144 | 18.7 |
-| 83 | social.mikutter.hachune.net |   | 759 | 80 | 10.54 |
-| 84 | mstdn.fr |   | 746 | 50 | 6.7 |
-| 85 | mastodon.technology |   | 746 | 147 | 19.71 |
-| 86 | freespeechextremist.com |   | 737 | 209 | 28.36 |
-| 87 | mstdn.nere9.help |   | 723 | 63 | 8.71 |
-| 88 | pullopen.xyz |   | 710 | 87 | 12.25 |
-| 89 | kolektiva.social |   | 701 | 182 | 25.96 |
-| 90 | spinster.xyz | &#127785; | 698 | 158 | 22.64 |
-| 91 | aleph.land |   | 695 | 5 | 0.72 |
-| 92 | k-shiigi-136.masto.host |   | 687 | 0 | 0 |
-| 93 | baraag.net | &#127785; | 686 | 400 | 58.31 |
-| 94 | hostux.social |   | 678 | 74 | 10.91 |
-| 95 | vocalodon.net |   | 656 | 46 | 7.01 |
-| 96 | libresilicon.com |   | 649 | 21 | 3.24 |
-| 97 | mastodon.uno | &#127785; | 625 | 84 | 13.44 |
-| 98 | mastodon.art |   | 623 | 159 | 25.52 |
-| 99 | mastodon.eus |   | 614 | 15 | 2.44 |
-| 100 | oransns.com |   | 610 | 60 | 9.84 |
+| 1 | mstdn.foxfam.club |   | 106,489 | 13,476 | 12.65 |
+| 2 | pawoo.net |   | 39,410 | 9,407 | 23.87 |
+| 3 | botsin.space |   | 34,751 | 9,607 | 27.65 |
+| 4 | mastodon.social | &#127785; | 32,740 | 5,708 | 17.43 |
+| 5 | newsbots.eu |   | 30,897 | 1,654 | 5.35 |
+| 6 | twitiverse.com |   | 20,256 | 2,420 | 11.95 |
+| 7 | societal.co | &#127785; | 19,585 | 526 | 2.69 |
+| 8 | friendica.chilemasto.casa |   | 17,841 | 4,218 | 23.64 |
+| 9 | dajiaweibo.com |   | 13,786 | 13 | 0.09 |
+| 10 | mamot.fr |   | 11,857 | 1,348 | 11.37 |
+| 11 | squeet.me |   | 8,783 | 325 | 3.7 |
+| 12 | pokemon.men | &#127785; | 7,639 | 0 | 0 |
+| 13 | mastodon.cloud | &#127785; | 7,405 | 1,561 | 21.08 |
+| 14 | brighteon.social |   | 6,653 | 4,402 | 66.17 |
+| 15 | social.quodverum.com |   | 6,538 | 1,667 | 25.5 |
+| 16 | toot-lab.reclaim.technology |   | 6,396 | 2 | 0.03 |
+| 17 | framapiaf.org |   | 5,598 | 479 | 8.56 |
+| 18 | my.dirtyhobby.xyz |   | 5,402 | 0 | 0 |
+| 19 | mastodont.cat |   | 5,155 | 2,087 | 40.48 |
+| 20 | noagendasocial.com | &#127785; | 5,079 | 1,516 | 29.85 |
+| 21 | mastodon.chotto.moe |   | 5,040 | 0 | 0 |
+| 22 | mhc.social |   | 4,638 | 255 | 5.5 |
+| 23 | schleuss.online |   | 4,383 | 1,195 | 27.26 |
+| 24 | mstdn.jp | &#127785; | 4,381 | 352 | 8.03 |
+| 25 | mstdn.social |   | 4,302 | 1,056 | 24.55 |
+| 26 | friendica.produnis.de |   | 3,733 | 1,075 | 28.8 |
+| 27 | mstdn.maud.io | &#127785; | 3,146 | 324 | 10.3 |
+| 28 | loma.ml |   | 3,096 | 8 | 0.26 |
+| 29 | phreedom.tk |   | 3,036 | 1,153 | 37.98 |
+| 30 | switter.at |   | 2,947 | 413 | 14.01 |
+| 31 | sinblr.com | &#127785; | 2,788 | 177 | 6.35 |
+| 32 | die-partei.social |   | 2,781 | 537 | 19.31 |
+| 33 | mastodon.crazynewworld.net | &#127785; | 2,749 | 278 | 10.11 |
+| 34 | chaosphere.hostdon.jp |   | 2,652 | 133 | 5.02 |
+| 35 | chaos.social |   | 2,560 | 287 | 11.21 |
+| 36 | mastodon.bida.im |   | 2,537 | 370 | 14.58 |
+| 37 | mastodon.internot.no |   | 2,437 | 431 | 17.69 |
+| 38 | social.lansky.name |   | 2,393 | 2,393 | 100 |
+| 39 | pomdon.work |   | 2,235 | 47 | 2.1 |
+| 40 | mastodon.online |   | 2,199 | 227 | 10.32 |
+| 41 | fedibird.com | &#127785; | 2,121 | 154 | 7.26 |
+| 42 | social.tchncs.de |   | 2,064 | 288 | 13.95 |
+| 43 | opensocial.at |   | 1,995 | 30 | 1.5 |
+| 44 | libranet.de |   | 1,982 | 591 | 29.82 |
+| 45 | masthead.social | &#127785; | 1,956 | 85 | 4.35 |
+| 46 | mastodon.in.th |   | 1,830 | 154 | 8.42 |
+| 47 | best-friends.chat |   | 1,703 | 229 | 13.45 |
+| 48 | social.beachcom.org |   | 1,604 | 262 | 16.33 |
+| 49 | equestria.social |   | 1,565 | 1,087 | 69.46 |
+| 50 | qoto.org |   | 1,529 | 123 | 8.04 |
+| 51 | mstdn.guru |   | 1,486 | 105 | 7.07 |
+| 52 | todon.nl |   | 1,444 | 251 | 17.38 |
+| 53 | 9kb.me |   | 1,400 | 5 | 0.36 |
+| 54 | mastodon.xyz |   | 1,297 | 121 | 9.33 |
+| 55 | social.yl.ms |   | 1,221 | 2 | 0.16 |
+| 56 | imastodon.net |   | 1,211 | 38 | 3.14 |
+| 57 | mastodon.sk |   | 1,190 | 0 | 0 |
+| 58 | fosstodon.org |   | 1,187 | 239 | 20.13 |
+| 59 | misskey.io | &#127785; | 1,187 | 135 | 11.37 |
+| 60 | twitter.1d4.us | &#127785; | 1,153 | 153 | 13.27 |
+| 61 | sociale.network |   | 1,138 | 82 | 7.21 |
+| 62 | mas.to |   | 1,096 | 160 | 14.6 |
+| 63 | mstdn.kemono-friends.info | &#127785; | 1,081 | 65 | 6.01 |
+| 64 | mastodon.derveni.org |   | 1,071 | 405 | 37.82 |
+| 65 | shitposter.club | &#127785; | 1,068 | 279 | 26.12 |
+| 66 | octodon.social | &#127785; | 1,054 | 255 | 24.19 |
+| 67 | hello.2heng.xin | &#127785; | 1,047 | 444 | 42.41 |
+| 68 | propulse.club |   | 992 | 668 | 67.34 |
+| 69 | mstdn.io | &#127785; | 992 | 123 | 12.4 |
+| 70 | blob.cat |   | 992 | 127 | 12.8 |
+| 71 | aus.social |   | 981 | 224 | 22.83 |
+| 72 | fediverse.network |   | 964 | 0 | 0 |
+| 73 | qiitadon.com |   | 961 | 62 | 6.45 |
+| 74 | soc.cattube.org |   | 949 | 69 | 7.27 |
+| 75 | rebel.iero.org |   | 948 | 138 | 14.56 |
+| 76 | mstdn.beer |   | 922 | 36 | 3.9 |
+| 77 | social.pmj.rocks |   | 915 | 0 | 0 |
+| 78 | kartoffel.cafe |   | 891 | 880 | 98.77 |
+| 79 | social.politicaconciencia.org |   | 854 | 100 | 11.71 |
+| 80 | liberdon.com |   | 835 | 196 | 23.47 |
+| 81 | bitcoinhackers.org | &#127785; | 809 | 125 | 15.45 |
+| 82 | social.mikutter.hachune.net |   | 780 | 83 | 10.64 |
+| 83 | mastodon.smwa.me |   | 770 | 144 | 18.7 |
+| 84 | mastodon.technology |   | 766 | 155 | 20.23 |
+| 85 | freespeechextremist.com |   | 758 | 216 | 28.5 |
+| 86 | mstdn.fr |   | 752 | 51 | 6.78 |
+| 87 | mstdn.nere9.help |   | 733 | 64 | 8.73 |
+| 88 | kolektiva.social |   | 727 | 188 | 25.86 |
+| 89 | pullopen.xyz |   | 718 | 88 | 12.26 |
+| 90 | k-shiigi-136.masto.host |   | 712 | 0 | 0 |
+| 91 | aleph.land |   | 710 | 5 | 0.7 |
+| 92 | spinster.xyz | &#127785; | 707 | 160 | 22.63 |
+| 93 | baraag.net | &#127785; | 705 | 417 | 59.15 |
+| 94 | hostux.social |   | 687 | 75 | 10.92 |
+| 95 | libresilicon.com |   | 668 | 23 | 3.44 |
+| 96 | vocalodon.net |   | 667 | 49 | 7.35 |
+| 97 | mastodon.art |   | 644 | 163 | 25.31 |
+| 98 | mastodon.uno | &#127785; | 638 | 88 | 13.79 |
+| 99 | oransns.com |   | 621 | 60 | 9.66 |
+| 100 | mastodon.eus |   | 617 | 15 | 2.43 |
 
 
 [//]: # (do not edit this line end)
