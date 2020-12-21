@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Error 1020 Ray ID: 604fd87c8e1fcab4 • 2020-12-21 07:21:20 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 604fd87c8e1fcab4 • Your IP: (Canada) • Performance & security by Cloudflare ([scottalanclymer](https://twitter.com/scottalanclymer/status/1340920546926555142))
 - All sites give this error message: Error 1020 Ray ID: 604ce1dfab920f12 • 2020-12-20 22:43:27 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 604ce1dfab920f12 • Your IP: 70.179.65.203 • Perfor ([jleascho](https://twitter.com/jleascho/status/1340790968119947264))
 - This apparently affects all lynx users; I just tried from a system at my employer’s and a virtual machine I rent, and they all get a 503 error from when trying to access a site. This is catastrophic failure! ([knoblauchkeks](https://twitter.com/Knoblauchkeks/status/1340555669158637568))
 - That feel when you're using Tor and try to visit any site using 😭 Endless captcha loops and errors. ([jordanfrankfurt](https://twitter.com/jordanfrankfurt/status/1340417357701935107))
