@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Hosting your images and articles on seperate Cloudflare-protected domains makes your website a pain to use over Tor, requiring one to fill out a captcha to access the page, then going to an image manually to fill out yet another captcha in order to get images to load. ([happysmash27](https://twitter.com/happysmash27/status/1341420537881505793))
 - getting a website down error banner from Cloudflare when trying to access the site... ([mrmoo28](https://twitter.com/MrMoo28/status/1340977966772334598))
 - Error 1020 Ray ID: 604fd87c8e1fcab4 • 2020-12-21 07:21:20 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 604fd87c8e1fcab4 • Your IP: (Canada) • Performance & security by Cloudflare ([scottalanclymer](https://twitter.com/scottalanclymer/status/1340920546926555142))
 - All sites give this error message: Error 1020 Ray ID: 604ce1dfab920f12 • 2020-12-20 22:43:27 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 604ce1dfab920f12 • Your IP: 70.179.65.203 • Perfor ([jleascho](https://twitter.com/jleascho/status/1340790968119947264))
