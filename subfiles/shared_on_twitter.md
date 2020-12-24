@@ -14,7 +14,6 @@
 - [View latest information](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/twitter/)
   - `Tweets has links`: tweet has any link
   - `Tweets has Cloudflare link`: tweet has cloudflare link
-  - `Active Twitter Servers`: has users who shared any link
 
 [//]: # (do not edit this line start; t0)
 
