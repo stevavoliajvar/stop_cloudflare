@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- errors with Prod server on Cloudflare. I put the error details in the bug-reports channel in your bsg pr discord ([mvg_hells](https://twitter.com/MVG_Hells/status/1342554968788758535))
 - hi When roaming abroad I get Error 1020 - why? Ray ID: 605f066b9aca2cef • 2020-12-23 03:34:07 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 605f066b9aca2ceflo Perform by Cloud flare ([cybermazz](https://twitter.com/cybermazz/status/1341590143233343488))
 - Hosting your images and articles on seperate Cloudflare-protected domains makes your website a pain to use over Tor, requiring one to fill out a captcha to access the page, then going to an image manually to fill out yet another captcha in order to get images to load. ([happysmash27](https://twitter.com/happysmash27/status/1341420537881505793))
 - getting a website down error banner from Cloudflare when trying to access the site... ([mrmoo28](https://twitter.com/MrMoo28/status/1340977966772334598))
