@@ -351,6 +351,7 @@ harmony.ns.cloudflare.com
 harvey.ns.cloudflare.com
 hassan.ns.cloudflare.com
 hasslo.ns.cloudflare.com
+hattie.ns.cloudflare.com
 hayes.ns.cloudflare.com
 hazel.ns.cloudflare.com
 heather.ns.cloudflare.com
@@ -456,6 +457,7 @@ katja.ns.cloudflare.com
 kay.ns.cloudflare.com
 kayden.ns.cloudflare.com
 kayleigh.ns.cloudflare.com
+keanu.ns.cloudflare.com
 keaton.ns.cloudflare.com
 keenan.ns.cloudflare.com
 kehlani.ns.cloudflare.com
