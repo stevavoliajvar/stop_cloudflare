@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Hi is your service down? I get a 504 Cloudflare timeout error when I tried to click on add-to-cart. And haven't been able to login. ([henry000dev](https://twitter.com/henry000dev/status/1343377428052287490))
 - I get that same error when I hit random sites while on my work VPN. ([glasswar](https://twitter.com/glasswar/status/1342935199357743105))
 - errors with Prod server on Cloudflare. I put the error details in the bug-reports channel in your bsg pr discord ([mvg_hells](https://twitter.com/MVG_Hells/status/1342554968788758535))
 - hi When roaming abroad I get Error 1020 - why? Ray ID: 605f066b9aca2cef • 2020-12-23 03:34:07 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 605f066b9aca2ceflo Perform by Cloud flare ([cybermazz](https://twitter.com/cybermazz/status/1341590143233343488))
