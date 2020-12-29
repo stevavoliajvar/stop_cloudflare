@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- - if you could allow me to connect to your website from my home or work IP addresses, that would be great. Turn down your cloudflare protections a little. I get the "VPN" not allowed error from my home, and need to use a VPN to get to the site. 🙄 ([kajer533](https://twitter.com/kajer533/status/1344008960890687488))
 - unfortunately suffering from a few errors - 'network error: JSON Parse error:' on the app and cloudflare error pages on browser. tried resetting Qs to no avail. hopefully correctable. ([keaanamin](https://twitter.com/KeaanAmin/status/1343603273970970626))
 - Hi is your service down? I get a 504 Cloudflare timeout error when I tried to click on add-to-cart. And haven't been able to login. ([henry000dev](https://twitter.com/henry000dev/status/1343377428052287490))
 - I get that same error when I hit random sites while on my work VPN. ([glasswar](https://twitter.com/glasswar/status/1342935199357743105))
