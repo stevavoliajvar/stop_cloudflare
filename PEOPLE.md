@@ -440,6 +440,13 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- This is totally irritating me, I cannot find a browser old/limited enough to get the captcha shown but new enough to connect at all (TLSv1.2) and render JS and the GUI CAPTCHA. And blind users will be unable to complete CAPTCHA at all, especially those using lynx, which are many ([knoblauchkeks](https://twitter.com/Knoblauchkeks/status/1340554341481127936))
+- The Cloudflare JS captcha is also a problem for people who want to use RSS. ([antranigv](https://twitter.com/antranigv/status/1340550040369020928))
+- shows me a captcha page in lynx, but lynx obviously doesn’t have either JavaScript or graphics. Trying to load the same page in Firefox succeeds, so I cannot make it accept lynx as well. This is against various disability laws. Fix your stuff so lynx keeps working! ([knoblauchkeks](https://twitter.com/Knoblauchkeks/status/1340545733297123329))
+- nooooo, I got caught by CloudFlare and I'm being sent to a Captcha page ([shookaite](https://twitter.com/Shookaite/status/1339949453382443009))
+- My bank's site displaying a cache error is always comforting. ([westbywest](https://twitter.com/westbywest/status/1344341028959121409))
+- guys I've been temporarily banned from accessing the site?? All I tried doing was looking at my account section to see when my sub was due to run out now I'm screwed wtf?? Error 1015 cloudflare?? ([hebble10](https://twitter.com/Hebble10/status/1343687801351659526))
+- Why using cloudflare on this website ? 😭 It blocks tor users and acts as a giant MitM 😟 ([eban_non](https://twitter.com/eban_non/status/1342970517486231555))
 - i click on your ling it gave me this 🥴 Error 1020 Ray ID: 609e202c9961d490 • 2020-12-30 19:21:45 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 609e202c9961d490 • Your IP: 2a01:e0a:592:e1 ([roya__ro](https://twitter.com/ROYA__Ro/status/1344363488848863235))
 - what’s up with the site cloudflare thing? I haven’t been able to edit a design in 4 days that I need to fix. It hasn’t worked on pc or mobile. Whenever I’ve tried to do it on mobile the template just blanks and When I tried to do it on pc it just gives me an error ([phoboshop1](https://twitter.com/phoboshop1/status/1344289213072732160))
 - - if you could allow me to connect to your website from my home or work IP addresses, that would be great. Turn down your cloudflare protections a little. I get the "VPN" not allowed error from my home, and need to use a VPN to get to the site. 🙄 ([kajer533](https://twitter.com/kajer533/status/1344008960890687488))
