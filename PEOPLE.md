@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Error 1020 Ray ID: 60ac85268ffdb983 • 2021-01-01 13:17:22 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 60ac85268ffdb983 • Your IP: 186.4.18.127 • Performance & security by Cloudflare ([a_school_play](https://twitter.com/A_School_Play/status/1344996646363553792))
 - Getting a Cloudflare error 524 when attempting to checkout. Any ETA on when this can be fixed? ([bluemonkeyfu](https://twitter.com/BlueMonkeyFu/status/1344851913976766464))
 - This is totally irritating me, I cannot find a browser old/limited enough to get the captcha shown but new enough to connect at all (TLSv1.2) and render JS and the GUI CAPTCHA. And blind users will be unable to complete CAPTCHA at all, especially those using lynx, which are many ([knoblauchkeks](https://twitter.com/Knoblauchkeks/status/1340554341481127936))
 - The Cloudflare JS captcha is also a problem for people who want to use RSS. ([antranigv](https://twitter.com/antranigv/status/1340550040369020928))
