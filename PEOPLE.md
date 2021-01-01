@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Getting a Cloudflare error 524 when attempting to checkout. Any ETA on when this can be fixed? ([bluemonkeyfu](https://twitter.com/BlueMonkeyFu/status/1344851913976766464))
 - This is totally irritating me, I cannot find a browser old/limited enough to get the captcha shown but new enough to connect at all (TLSv1.2) and render JS and the GUI CAPTCHA. And blind users will be unable to complete CAPTCHA at all, especially those using lynx, which are many ([knoblauchkeks](https://twitter.com/Knoblauchkeks/status/1340554341481127936))
 - The Cloudflare JS captcha is also a problem for people who want to use RSS. ([antranigv](https://twitter.com/antranigv/status/1340550040369020928))
 - shows me a captcha page in lynx, but lynx obviously doesn’t have either JavaScript or graphics. Trying to load the same page in Firefox succeeds, so I cannot make it accept lynx as well. This is against various disability laws. Fix your stuff so lynx keeps working! ([knoblauchkeks](https://twitter.com/Knoblauchkeks/status/1340545733297123329))
