@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I am getting this error when I go to the site: Bad gateway The web server reported a bad gateway error. •Ray ID: 60bad4929a0d5f85 •Your IP address: 2600:8801:2f80:12ff:9154:5d96:49e3:d650 •Error reference number: 502 •Cloudflare Location: Las Vegas ([melanie_antonio](https://twitter.com/Melanie_Antonio/status/1345625713773142018))
 - Still getting the same error. However, whilst I'm certainly not 'attacking you', I am based in the UK, so Cloudflare may be just blocking me. Anyway, thanks for getting back and wishing you all the best! ([barrd](https://twitter.com/barrd/status/1345042258828132354))
 - Error 1020 Ray ID: 60ac85268ffdb983 • 2021-01-01 13:17:22 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 60ac85268ffdb983 • Your IP: 186.4.18.127 • Performance & security by Cloudflare ([a_school_play](https://twitter.com/A_School_Play/status/1344996646363553792))
 - Getting a Cloudflare error 524 when attempting to checkout. Any ETA on when this can be fixed? ([bluemonkeyfu](https://twitter.com/BlueMonkeyFu/status/1344851913976766464))
