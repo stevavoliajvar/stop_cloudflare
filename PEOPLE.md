@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Sorry I didn't see this tweet. Are you still having trouble getting to the site? Is there a cloudflare error? ([evageeks](https://twitter.com/EvaGeeks/status/1346145784207650816))
 - It isn't just It's your settings do this. I checked my IP in blacklists, I've used other sites which use CF. There are no other website I use on a daily basis has such obtrusive captcha. ([gudvinr](https://twitter.com/gudvinr/status/1345658515201929216))
 - This is totally irritating me, I cannot find a browser old/limited enough to get the captcha shown but new enough to connect at all (TLSv1.2) and render JS and the GUI CAPTCHA. And blind users will be unable to complete CAPTCHA at all, especially those using lynx, which are many ([knoblauchkeks](https://twitter.com/Knoblauchkeks/status/1340554341481127936))
 - The Cloudflare JS captcha is also a problem for people who want to use RSS. ([antranigv](https://twitter.com/antranigv/status/1340550040369020928))
