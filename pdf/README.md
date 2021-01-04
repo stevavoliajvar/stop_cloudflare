@@ -20,6 +20,7 @@
 | 2004 | [Punishing the Innocent along with the Guilty The Economics of Individual versus Group Punishment](2004-Punishing_the_Innocent_along_with_the_Guilty_The_Economics_of_Individual_versus_Group_Punishment.pdf) |
 | 2004 | [Tor The Second-Generation Onion Router](2004-Tor_The_Second-Generation_Onion_Router.pdf) |
 | 2006 | [UK NISCC Telecommunications Resilience](2006-UK_NISCC_Telecommunications_Resilience.pdf) |
+| 2006 | [Practical Onion Hacking Finding the real address of Tor clients](2006-Practical_Onion_Hacking_Finding_the_real_address_of_Tor_clients.pdf) |
 | 2008 | [Shining Light in Dark Places Understanding the Tor Network](2008-Shining_Light_in_Dark_Places_Understanding_the_Tor_Network.pdf) |
 | 2010 | [Digging into Anonymous Traffic deep analysis of the Tor anonymizing network](2010-Digging_into_Anonymous_Traffic_deep_analysis_of_the_Tor_anonymizing_network.pdf) |
 | 2012 | [TorScan Tracing Long-lived Connections and Differential Scanning Attacks](2012-TorScan_Tracing_Long-lived_Connections_and_Differential_Scanning_Attacks.pdf) |
