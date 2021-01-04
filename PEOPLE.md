@@ -440,6 +440,12 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- It isn't just It's your settings do this. I checked my IP in blacklists, I've used other sites which use CF. There are no other website I use on a daily basis has such obtrusive captcha. ([gudvinr](https://twitter.com/gudvinr/status/1345658515201929216))
+- Cloudflare is annoying people with unnecessary multiple captcha filters... discouraging people from watching the website as a result. Recommend winred to remove Cloudflare by removing their NS records. ([gasfe](https://twitter.com/gasfe/status/1345226360688529408))
+- Yup there it is. It was throwing out a Cloudflare DNS resolution error before. All good. ([petegaines](https://twitter.com/petegaines/status/1345828293900185600))
+- Is there no status website? At least post on twitter when the website is under maintenance or down, rather than showing us a Cloudflare error. ([elibroftw](https://twitter.com/elibroftw/status/1345434524759547904))
+- For some reason Ugetube doesn't seem to let you connect through a VPN due to their Cloudflare config. I'm getting "Error 1020" Access Denied. If anyone else are getting this and your VPN client allows for it the solution should be to configure split tunneling. Lame. ([blackb3rryclu3s](https://twitter.com/Blackb3rryClu3s/status/1344999531851743233))
+- this is being blocked by cloudflare for us assies... i just tried in both opera and brave browsers also... same blocking error report. bugger. ([glennsinclair](https://twitter.com/GlennSinclair/status/1344609275549609984))
 - I am getting this error when I go to the site: Bad gateway The web server reported a bad gateway error. •Ray ID: 60bad4929a0d5f85 •Your IP address: 2600:8801:2f80:12ff:9154:5d96:49e3:d650 •Error reference number: 502 •Cloudflare Location: Las Vegas ([melanie_antonio](https://twitter.com/Melanie_Antonio/status/1345625713773142018))
 - Still getting the same error. However, whilst I'm certainly not 'attacking you', I am based in the UK, so Cloudflare may be just blocking me. Anyway, thanks for getting back and wishing you all the best! ([barrd](https://twitter.com/barrd/status/1345042258828132354))
 - Error 1020 Ray ID: 60ac85268ffdb983 • 2021-01-01 13:17:22 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 60ac85268ffdb983 • Your IP: 186.4.18.127 • Performance & security by Cloudflare ([a_school_play](https://twitter.com/A_School_Play/status/1344996646363553792))
